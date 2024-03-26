@@ -1,1 +1,8 @@
-This is the new content of the file.
+- **Occto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/0b/e8/8f0be8ad-b19e-06b6-22fc-e273e1828fa3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/HPbYkfzz)
+- **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/49/c2/6349c21c-da61-46cc-c611-bb722505b60e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
+- **Feditext**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/db/cd/c6dbcd99-3ece-344d-bbf2-a721072f673b/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/3Ik3KBjj)
+- **Geotag Alpha for Sony**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/72/4d/c0724ded-f522-51ee-d95e-02d5a7c6e011/AppIcon-0-0-1x_U007ephone-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/0Fht2ff6)
+- **AstreOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/ZsGh6uYD)
+- **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/bc/c9/afbcc9b7-3a95-8ccc-983f-f8d138a630f0/AppIcon-all-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
+- **VNPAY-CA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/43/47/8e4347e4-6d9e-f279-efff-f1fc0d3ed5ea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/o6j4lZii)
+
