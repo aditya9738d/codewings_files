@@ -197,3 +197,8 @@
 - **KFC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/0d/1e/bd0d1e67-7e1f-cd71-0ee3-f39028fa5cb7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/vWsEPv3U)
 - **RFECU Performance 2.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/8e/79/968e791d-9c18-1031-b98d-304437b64d65/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/OsApZdFs)
 
+- **PeekLut: Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cf/9e/37/cf9e3729-86a4-6c0c-ce35-1c2afb7bbc05/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/1920x1080bb-80.png)](https://testflight.apple.com/join/7ZIogYaC)
+- **Rồng Thần Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/07/42/e40742eb-ed92-167a-efea-83263488fe42/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/k8584n03)
+- **云宝加速器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/9e/ca/969ecae8-4aae-32bf-7ef3-50caa884c001/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/nBkljFCK)
+- **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/60/d5/8d60d538-1404-ef1b-a1b0-d10be490be89/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
+
