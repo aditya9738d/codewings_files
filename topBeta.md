@@ -6,3 +6,12 @@
 - **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fb/6f/f5/fb6ff59f-c51f-9a6a-b05d-15951d6901dc/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
 - **Disney DLP Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/76/f3/25/76f325a7-1259-72f4-b46a-880e0aa855ca/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/b6bWpoHB)
 
+- **NroChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/e6/ce/d2e6ce54-b5a3-4be4-b86a-b7d31fb45f21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/PPfQVoNB)
+- **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/97/f5/6897f538-e7f5-0e9f-15b7-d556800c5ea5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
+- **葫芦娃-经典再现**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/mE4SHGvn)
+- **PDF Viewer - Annotation Expert**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/78/cd/ee78cd0d-ed08-e28b-3b6a-ad094a2d481c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/6IMUtZ8n)
+- **PeekLut: Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cf/9e/37/cf9e3729-86a4-6c0c-ce35-1c2afb7bbc05/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/1920x1080bb-80.png)](https://testflight.apple.com/join/7ZIogYaC)
+- **Rồng Thần Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/07/42/e40742eb-ed92-167a-efea-83263488fe42/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/k8584n03)
+- **云宝加速器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/9e/ca/969ecae8-4aae-32bf-7ef3-50caa884c001/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/nBkljFCK)
+- **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/60/d5/8d60d538-1404-ef1b-a1b0-d10be490be89/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
+
