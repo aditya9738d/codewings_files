@@ -191,3 +191,9 @@
 - **Payy: USDC Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/63/a3/ed/63a3ed1b-695b-1bca-4c6b-6bffbc0013b6/AppIcon-1x_U007epad-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/rKCavMy1)
 - **Untitled Podcast App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/d3/1f/6ad31fad-67ac-73cb-6b90-506a155d067c/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/a4bmx5rA)
 
+- **VISO - Video Social**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/2c/79/a72c792b-c408-f138-9cca-2c8c0fe321f9/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/SlpbSoFw)
+- **Easy Unarchiver - ZIP, RAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/36/f5/2e36f5b2-ce37-9019-2314-e53f10b92b44/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
+- **Resy DEMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/2a/40/862a40ac-f8bb-1c53-6aa2-88f28faf1e2c/AppIcon.demo-1x_U007emarketing-0-5-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/ra4JdZuI)
+- **KFC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/0d/1e/bd0d1e67-7e1f-cd71-0ee3-f39028fa5cb7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/vWsEPv3U)
+- **RFECU Performance 2.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/8e/79/968e791d-9c18-1031-b98d-304437b64d65/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/OsApZdFs)
+
