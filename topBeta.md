@@ -202,3 +202,6 @@
 - **云宝加速器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/9e/ca/969ecae8-4aae-32bf-7ef3-50caa884c001/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/nBkljFCK)
 - **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/60/d5/8d60d538-1404-ef1b-a1b0-d10be490be89/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
 
+- **NRO BEAST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/70/6f/e1706fe9-1c53-3ac7-90b8-d13c950a455e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/UDDdSKNn)
+- **Nostrmo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/df/05/b4df0554-6c15-3045-e191-8eb7e565feea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/kvGz47De)
+
