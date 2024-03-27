@@ -205,3 +205,8 @@
 - **NRO BEAST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/70/6f/e1706fe9-1c53-3ac7-90b8-d13c950a455e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/UDDdSKNn)
 - **Nostrmo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/df/05/b4df0554-6c15-3045-e191-8eb7e565feea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/kvGz47De)
 
+- **Untappd - Discover Beer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/ec/ec/9eecec27-c12b-f452-f68e-0cd3193398a2/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/EbIrz3mA)
+- **Composer: AI Trading**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/4f/6d/b54f6db9-0939-f561-730c-5dccba4083f1/AppIcon-1x_U007ephone-0-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/nnQC498c)
+- **Occto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/0b/e8/8f0be8ad-b19e-06b6-22fc-e273e1828fa3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/HPbYkfzz)
+- **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/6f/6d/e66f6d36-393a-2aa7-36ef-e9a66b3c44c1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
+
