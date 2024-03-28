@@ -182,5 +182,4 @@
 - **Manga Clash - Warrior Arena**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/49/81/3749819f-3416-1cd0-df9b-8a666f02d580/AppIcon-1x_U007emarketing-0-7-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/htIpxyDx)
 - **Notes - Sight Reading Trainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/2f/2c/8e2f2c48-940f-0fe8-4ce8-688a19b0e042/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/l4ad6sxi)
 - **GeoQuestAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/d8/b9/c8d8b975-74dc-62c2-3404-1e217f9ddfb3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/Aqpi4Ote)
-- **Call of Duty Mobile Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/p2C7aFDw)
 
