@@ -210,3 +210,5 @@
 - **Occto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/0b/e8/8f0be8ad-b19e-06b6-22fc-e273e1828fa3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/HPbYkfzz)
 - **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/6f/6d/e66f6d36-393a-2aa7-36ef-e9a66b3c44c1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
 
+- **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/p2C7aFDw)
+
