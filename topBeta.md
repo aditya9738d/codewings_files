@@ -188,3 +188,5 @@
 - **Vivaldi Snapshot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/9d/84/969d8425-b70b-fd4a-e1fc-b65ea290c36f/AppIcon-Snapshot-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
 - **Easy Unarchiver - ZIP, RAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/36/f5/2e36f5b2-ce37-9019-2314-e53f10b92b44/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
 
+- **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fb/6f/f5/fb6ff59f-c51f-9a6a-b05d-15951d6901dc/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
+
