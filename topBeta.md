@@ -190,3 +190,5 @@
 
 - **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fb/6f/f5/fb6ff59f-c51f-9a6a-b05d-15951d6901dc/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
 
+- **hockey.nl**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/b0/4f/60b04f6d-768c-c229-d49c-76cbba87017c/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/dEZe3xLJ)
+
