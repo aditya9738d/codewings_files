@@ -1,3 +1,8 @@
+- **Geotag Alpha for Sony**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/72/4d/c0724ded-f522-51ee-d95e-02d5a7c6e011/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0Fht2ff6)
+- **AstreOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZsGh6uYD)
+- **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/27/ee/fc27ee8f-284b-64ca-c462-83761297a08d/AppIcon-all-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
+- **VNPAY-CA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/06/91/3d069129-a1a0-3c40-b6e3-533c17d2654c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/o6j4lZii)
+
 - **Call of Duty Mobile Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/p2C7aFDw)
 - **OctaVPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/bf/f0/74bff03d-e5c2-272c-8d6c-99045e23ad4f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BhLLjqAX)
 - **GolfClubInfoTracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/e1/4d/11e14d98-468c-e873-f731-6834f60a759b/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WMOXFHTN)
