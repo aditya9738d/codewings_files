@@ -183,3 +183,8 @@
 - **Notes - Sight Reading Trainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/2f/2c/8e2f2c48-940f-0fe8-4ce8-688a19b0e042/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/l4ad6sxi)
 - **GeoQuestAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/d8/b9/c8d8b975-74dc-62c2-3404-1e217f9ddfb3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/Aqpi4Ote)
 
+- **Dupay Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/50/2b/ab502b61-90f4-f37e-3569-6aefa8d6718b/AppIcon_pro-1x_U007ephone-0-10-0-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/LpdH6PGp)
+- **Sw!ftalyzer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/55/62/ce55629f-8627-95b6-c607-758e60140d5c/AppIcon-85-220-0-3-2x-sRGB-0-0-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/hqzrhjHd)
+- **Vivaldi Snapshot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/9d/84/969d8425-b70b-fd4a-e1fc-b65ea290c36f/AppIcon-Snapshot-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/1920x1080bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
+- **Easy Unarchiver - ZIP, RAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/36/f5/2e36f5b2-ce37-9019-2314-e53f10b92b44/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/1920x1080bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
+
