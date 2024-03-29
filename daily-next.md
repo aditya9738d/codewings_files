@@ -1,3 +1,7 @@
+- **Hunky City**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/1c/29/681c2952-6111-b6bb-c335-36a0a93c17e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/FYQR89fn)
+- **JeeConnect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/95/1a/14951aa0-bde4-54a5-35ac-7bb86e6d547e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/luZsKILI)
+- **Zenmoney: expense tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/43/43/e84343f4-54c4-fc00-6927-cf4ca54c290f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UNbjeBue)
+
 - **Leplace World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5b/fd/ca/5bfdcae6-6545-b7e5-d2b4-4d51d021c19a/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/WXZlJtL0)
 
 - **CCS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/51/21/105121ab-47ef-384d-74c3-57f3c9276aa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/IAFHUVdV)
@@ -44,7 +48,3 @@
 - **THORWallet: DeFi Crypto Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/09/fb/8c09fb42-0917-caef-5e23-38c15fbf46ee/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/f5LW68I8)
 - **Moon Portal: Frame, Widget, AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/e0/12/65e012be-9cb7-3b92-e7f8-6e830ac9dccc/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/e5tVF4Q2)
 - **SimpleX Chat: secure messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/93/3b/9c933b3c-ca56-0a76-371b-0ca5860e0224/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DWuT2LQu)
-- **HEAT APP Mining**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9b/c6/fc/9bc6fcd8-23b6-abf9-dd4a-f51717cf4fd1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5VrmUlmj)
-- **Sentinel: Decentralized VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/fe/c8/b5fec832-b5d9-979a-cccb-7a12e15869f7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CHRhpwKQ)
-- **Mikuture**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/56/47/d2564798-ecae-ade4-5911-c3aee228fb65/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jRN2sLGz)
-- **Bracket Buddy - Esports Events**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/2d/ca/a72dca95-1b66-32a9-afb1-1cf53d1dceea/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5yab6pxu)
