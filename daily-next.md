@@ -1,3 +1,5 @@
+- **Leplace World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5b/fd/ca/5bfdcae6-6545-b7e5-d2b4-4d51d021c19a/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/WXZlJtL0)
+
 - **CCS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/51/21/105121ab-47ef-384d-74c3-57f3c9276aa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/IAFHUVdV)
 
 - **NroChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/e6/ce/d2e6ce54-b5a3-4be4-b86a-b7d31fb45f21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PPfQVoNB)
@@ -46,5 +48,3 @@
 - **Sentinel: Decentralized VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/fe/c8/b5fec832-b5d9-979a-cccb-7a12e15869f7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CHRhpwKQ)
 - **Mikuture**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/56/47/d2564798-ecae-ade4-5911-c3aee228fb65/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jRN2sLGz)
 - **Bracket Buddy - Esports Events**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/2d/ca/a72dca95-1b66-32a9-afb1-1cf53d1dceea/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5yab6pxu)
-- **IsItGOLD?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/21/13/83211382-d069-9321-189b-1d1d5e9a171b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MicsSOHR)
-- **Rekord**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/24/52/6d24522d-e23f-272c-b13a-32a9bd1f3ed3/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9pln2cnJ)
