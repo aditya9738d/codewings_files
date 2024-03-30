@@ -1,3 +1,5 @@
+- **Giftr - GIF Maker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/df/41/acdf415f-99a9-c35b-4b37-8d115647dd89/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-512MB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eyZbAhlV)
+
 - **Gamery - Game Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/e0/ea/41e0ea4a-4d0b-434e-7a53-89df67c41fe7/AppIcon-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/va16ipuj)
 
 - **Disney DLP Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/76/f3/25/76f325a7-1259-72f4-b46a-880e0aa855ca/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b6bWpoHB)
