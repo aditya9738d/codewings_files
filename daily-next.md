@@ -1,3 +1,5 @@
+- **Life360: Find Friends & Family**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/8f/5e/668f5e04-1353-2743-d248-cb7216ef03cf/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/syX6IOJF)
+
 - **Slack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/4b/8a/a14b8af5-3a1a-fa59-7fb0-ef3380969e37/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QE3kgqJ2)
 
 - **Minecraft Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/7f/d0/5b7fd080-7c13-901c-f6a1-86f38d94ffea/AppIcon-beta-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qC1ZnReJ)
@@ -46,5 +48,3 @@
 - **ToneBarrier**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/78/ef/7d78ef21-5134-af55-a8ad-c158b67c6090/ToneBarrierAppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LqGKPwdG)
 - **Family - Ethereum Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/4e/3a/444e3aa5-adf1-dff0-ac8e-8585feafdd64/AppIcon-Teal-0-1x_U007ephone-0-10-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/oUKAfJbr)
 - **AmanaTa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/48/5f/a2/485fa20d-c9da-f378-1ecd-0ac403db13e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7BbyzYKv)
-- **Supercut Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/9a/cd/ae9acd19-f063-bfec-2df4-26c1c3e7e8cc/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/FINyZ9Lh)
-- **Blocs - Website Builder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e9/be/97e9be72-3d38-f7e0-df09-b07b47e1145a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/B4bn2vEz)
