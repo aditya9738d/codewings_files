@@ -1,3 +1,5 @@
+- **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/aa/a1/46aaa120-e7ef-980f-07c6-02782106d147/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
+
 - **Readwise Reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/05/0e/63050ebd-75e7-83c7-9ef6-e951bdc24057/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NSeQo22d)
 - **Ulysses: Writing App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/49/a5/7149a538-86dd-76db-023d-c8d690640e5b/Ulysses-Release-0-0-1x_U007emarketing-0-0-0-6-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A0Dru9VV)
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/78/16/317816e5-aad8-dc53-0aa2-aa4e3e570fb0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
@@ -46,5 +48,3 @@
 - **VinylMaker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/88/68/e288680f-054b-a632-7bbc-f9b70bc343de/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/65rNlFcl)
 - **Axiome Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/84/98/0784982a-9506-d4a2-adfd-1829a02cc0bb/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Bjz0XZ5v)
 - **Cartoon Weather**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/7a/eb/f57aebde-72a4-5a5a-b5d6-917e63cf23c3/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hMMVQOLD)
-- **Jodel: Hyperlocal Community**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/9a/6a/4d9a6af8-c752-503c-5ffb-3087edffe6da/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ViHonhOD)
-- **Shakespay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/06/19/7a0619e7-89b7-bd00-b3b2-dfa34a8e7a9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/muuh0Fef)
