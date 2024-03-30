@@ -1,3 +1,5 @@
+- **MyWeight²**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/41/29/ce4129ee-7c2e-5d59-2eae-9a36f519de03/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tCFT6Kfr)
+
 - **Xade Finance**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/6d/26/bb6d2647-0692-c62c-7cd6-3e75f0481658/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ppdLa9dl)
 
 - **eSchoool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/65/fa/0b/65fa0b6d-8259-9461-c6c7-b6c05b04b8dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LopTn7zc)
