@@ -1,3 +1,5 @@
+- **Slack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/4b/8a/a14b8af5-3a1a-fa59-7fb0-ef3380969e37/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QE3kgqJ2)
+
 - **Minecraft Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/7f/d0/5b7fd080-7c13-901c-f6a1-86f38d94ffea/AppIcon-beta-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qC1ZnReJ)
 
 - **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/aa/a1/46aaa120-e7ef-980f-07c6-02782106d147/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
@@ -46,5 +48,3 @@
 - **AmanaTa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/48/5f/a2/485fa20d-c9da-f378-1ecd-0ac403db13e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7BbyzYKv)
 - **Supercut Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/9a/cd/ae9acd19-f063-bfec-2df4-26c1c3e7e8cc/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/FINyZ9Lh)
 - **Blocs - Website Builder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e9/be/97e9be72-3d38-f7e0-df09-b07b47e1145a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/B4bn2vEz)
-- **Hudi - Build Jannah Habits**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/18/56/f1/1856f125-3ac6-3d80-699b-ff54f9f63e74/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8LhGtkWd)
-- **VinylMaker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/88/68/e288680f-054b-a632-7bbc-f9b70bc343de/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/65rNlFcl)
