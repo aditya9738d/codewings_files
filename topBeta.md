@@ -1,3 +1,5 @@
+- **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/77/43/c177439f-d327-698c-6a14-b5452592d066/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdsubPZs)
+
 - **Muse Teams**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/30/77/a830776b-21e1-5608-5d6d-abb6725c0ec8/AppIcon.beta-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r2JeOEbm)
 - **Hanu HRV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/b7/80/d6b780f0-d81c-8fe0-8b49-4f32640c6aff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NpppQZLA)
 
