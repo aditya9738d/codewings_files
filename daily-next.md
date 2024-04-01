@@ -1,3 +1,6 @@
+- **云宝加速器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/9e/ca/969ecae8-4aae-32bf-7ef3-50caa884c001/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nBkljFCK)
+- **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/60/d5/8d60d538-1404-ef1b-a1b0-d10be490be89/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
+
 - **Resy DEMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/41/17/3a4117c7-dd18-e2e8-40bc-33918594287f/AppIcon.demo-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ra4JdZuI)
 
 - **Twitch Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/68/db/f768dba9-2d36-ddf2-9c78-a9530689e533/XarthAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8vRKFAiY)
@@ -45,6 +48,3 @@
 - **NroChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/e6/ce/d2e6ce54-b5a3-4be4-b86a-b7d31fb45f21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PPfQVoNB)
 - **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/97/f5/6897f538-e7f5-0e9f-15b7-d556800c5ea5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
 - **葫芦娃-经典再现**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mE4SHGvn)
-- **PDF Viewer - Annotation Expert**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/3a/05/dc3a0536-304b-be1d-00c9-331841df2c39/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6IMUtZ8n)
-
-- **Call of Duty Mobile Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/p2C7aFDw)
