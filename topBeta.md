@@ -1,3 +1,6 @@
+- **云宝加速器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/9e/ca/969ecae8-4aae-32bf-7ef3-50caa884c001/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nBkljFCK)
+- **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/60/d5/8d60d538-1404-ef1b-a1b0-d10be490be89/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
+
 - **Resy DEMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/41/17/3a4117c7-dd18-e2e8-40bc-33918594287f/AppIcon.demo-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ra4JdZuI)
 
 - **Twitch Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/68/db/f768dba9-2d36-ddf2-9c78-a9530689e533/XarthAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8vRKFAiY)
