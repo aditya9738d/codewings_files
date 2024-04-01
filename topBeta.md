@@ -1,3 +1,5 @@
+- **beboConnect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9c/3a/cf9c3af7-4321-e458-1264-d3a8cdb7dfb5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wdeQmls3)
+
 - **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/77/43/c177439f-d327-698c-6a14-b5452592d066/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdsubPZs)
 
 - **Muse Teams**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/30/77/a830776b-21e1-5608-5d6d-abb6725c0ec8/AppIcon.beta-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r2JeOEbm)
