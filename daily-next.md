@@ -1,3 +1,5 @@
+- **RFECU Performance 2.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/8e/79/968e791d-9c18-1031-b98d-304437b64d65/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OsApZdFs)
+
 - **Evermoon MOBA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/b2/c2/aeb2c24c-867b-6b36-0b07-2245d2a980ac/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wPiWib3x)
 
 - **NRO BEAST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/70/6f/e1706fe9-1c53-3ac7-90b8-d13c950a455e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UDDdSKNn)
@@ -46,5 +48,3 @@
 
 - **Disney DLP Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/76/f3/25/76f325a7-1259-72f4-b46a-880e0aa855ca/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b6bWpoHB)
 - **Hookymia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/95/90/c6959005-ed86-5fce-7200-790d648ba4f5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Myp9NrwZ)
-
-- **Life360: Find Friends & Family**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/8f/5e/668f5e04-1353-2743-d248-cb7216ef03cf/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/syX6IOJF)
