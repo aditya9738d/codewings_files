@@ -1,3 +1,5 @@
+- **Evermoon MOBA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/b2/c2/aeb2c24c-867b-6b36-0b07-2245d2a980ac/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wPiWib3x)
+
 - **NRO BEAST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/70/6f/e1706fe9-1c53-3ac7-90b8-d13c950a455e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UDDdSKNn)
 
 - **Shortwave Email**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/3d/49/573d4900-327f-c2dd-748a-d60d977f04a8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LwqFyO6L)
@@ -46,5 +48,3 @@
 - **Hookymia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/95/90/c6959005-ed86-5fce-7200-790d648ba4f5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Myp9NrwZ)
 
 - **Life360: Find Friends & Family**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/8f/5e/668f5e04-1353-2743-d248-cb7216ef03cf/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/syX6IOJF)
-
-- **Slack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/4b/8a/a14b8af5-3a1a-fa59-7fb0-ef3380969e37/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QE3kgqJ2)
