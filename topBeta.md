@@ -1,3 +1,8 @@
+- **La Terminal - SSH Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c6/1f/9ec61f5f-1890-f8b7-4f89-e4f076aee2f0/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cpPS8YnX)
+- **Trello: organize anything!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/72/bb/d972bb7b-3eae-779f-1e5d-93cf3fe638f2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
+- **Rumble Beans**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/c4/15/e4c415b5-ddc7-7758-a917-803a820bca57/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/L8E6pwG8)
+- **Revolut: Send, spend and save**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/fd/90/66fd90d9-06c7-473c-056a-48222b77a855/AppIcon-Production-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
+
 - **X.AR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/89/5f/13895f83-c24e-39e1-71c2-0cc1b2cc2351/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/smDJLIHx)
 
 - **Moon Player: YouTube & Spatial**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/1f/9e/ee1f9ef0-913e-0d21-a74e-b87adb56b06d/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
