@@ -1,3 +1,5 @@
+- **The Division Resurgence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2c/f3/a6/2cf3a641-8d35-4781-e846-be0273050bb1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cZFrLJPZ)
+
 - **SingNow - Hát kara duet & live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/82/61/c88261bb-8998-edd1-d401-3d9961946627/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/0bQ7WqlC)
 - **3g2005**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/94/4f/e0944f63-bf30-f13c-2aa8-f7f2ed1d1080/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/weDKc93b)
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/eb/da/f3/ebdaf30e-69e4-620a-5403-a3dae99d5e3a/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
@@ -46,4 +48,3 @@
 - **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/77/43/c177439f-d327-698c-6a14-b5452592d066/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdsubPZs)
 
 - **Muse Teams**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/30/77/a830776b-21e1-5608-5d6d-abb6725c0ec8/AppIcon.beta-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r2JeOEbm)
-- **Hanu HRV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/b7/80/d6b780f0-d81c-8fe0-8b49-4f32640c6aff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NpppQZLA)
