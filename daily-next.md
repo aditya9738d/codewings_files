@@ -1,3 +1,5 @@
+- **NOVI® – Visual IQ Puzzles**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/26/70/95267066-399c-b56b-1ee9-4e478667984f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Yn9iqGcZ)
+
 - **La Terminal - SSH Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c6/1f/9ec61f5f-1890-f8b7-4f89-e4f076aee2f0/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cpPS8YnX)
 - **Trello: organize anything!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/72/bb/d972bb7b-3eae-779f-1e5d-93cf3fe638f2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
 - **Rumble Beans**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/c4/15/e4c415b5-ddc7-7758-a917-803a820bca57/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/L8E6pwG8)
@@ -46,5 +48,3 @@
 
 - **云宝加速器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/9e/ca/969ecae8-4aae-32bf-7ef3-50caa884c001/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nBkljFCK)
 - **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/60/d5/8d60d538-1404-ef1b-a1b0-d10be490be89/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
-
-- **Resy DEMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/41/17/3a4117c7-dd18-e2e8-40bc-33918594287f/AppIcon.demo-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ra4JdZuI)
