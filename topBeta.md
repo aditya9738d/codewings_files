@@ -1,3 +1,5 @@
+- **Avocado Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/21/8b/6d218be1-1e73-41d4-d0e9-9284c1b0a0c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MxPn3PUa)
+
 - **Telegram Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/95/4d/fc/954dfc27-0bf5-db28-0c30-313f4b676853/AppIconLLC-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u6iogfd0)
 - **Quiet Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/41/dc/be41dcef-3745-a483-497b-91022698380c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaUjeiW7)
 - **Sticker Maker Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/bc/ee/45bceeaf-2375-cf1b-8ddb-0f43267029a6/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eucMfZTb)
