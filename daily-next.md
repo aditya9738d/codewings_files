@@ -1,3 +1,6 @@
+- **Quiet Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/41/dc/be41dcef-3745-a483-497b-91022698380c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaUjeiW7)
+- **Sticker Maker Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/bc/ee/45bceeaf-2375-cf1b-8ddb-0f43267029a6/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eucMfZTb)
+
 - **SafeExamBrowser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/1a/42/531a4254-0324-b838-ffa2-53ae9e6a918a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/egxLmc4j)
 
 - **Hoarder App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/30/95/fd30957a-ddd2-5593-4ad4-0c08a75c01f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QifpNxAT)
@@ -45,6 +48,3 @@
 
 - **CJK Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/12/da/a412dac7-b580-b137-7881-ac0901c85702/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/obazMZMN)
 - **Cinema Time**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/6c/a3/886ca376-f279-5890-dcdf-04dccfbeac69/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/prtbcetS)
-- **鸡儿大战僵尸**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/74/8d/ce748dfa-a0e1-278f-33ae-141e9ebe8d13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/488cF6Xu)
-- **DEXART Metaverse**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/95/d9/8295d967-3f21-e128-b26e-dfd64cf82ca1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntsoqpNK)
-- **Steps+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/e0/83/79e0838e-f910-3227-1dde-68ebcb3b8132/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jNEMGh4b)
