@@ -1,3 +1,5 @@
+- **Avocado Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/21/8b/6d218be1-1e73-41d4-d0e9-9284c1b0a0c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MxPn3PUa)
+
 - **Telegram Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/95/4d/fc/954dfc27-0bf5-db28-0c30-313f4b676853/AppIconLLC-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u6iogfd0)
 - **Quiet Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/41/dc/be41dcef-3745-a483-497b-91022698380c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaUjeiW7)
 - **Sticker Maker Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/bc/ee/45bceeaf-2375-cf1b-8ddb-0f43267029a6/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eucMfZTb)
@@ -46,6 +48,3 @@
 
 - **Shortwave Email**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/3d/49/573d4900-327f-c2dd-748a-d60d977f04a8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LwqFyO6L)
 - **老虎国际**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/8a/db/328adbbb-c0ed-8d35-cc8f-df21dabde234/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/27Pw9M0d)
-
-- **CJK Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/12/da/a412dac7-b580-b137-7881-ac0901c85702/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/obazMZMN)
-- **Cinema Time**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/6c/a3/886ca376-f279-5890-dcdf-04dccfbeac69/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/prtbcetS)
