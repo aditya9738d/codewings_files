@@ -1,3 +1,5 @@
+- **CoinPocket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/9f/13/5a9f131d-5e1b-70bb-ec9f-323a33fc3dda/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ye6YT9Rc)
+
 - **SkyDemon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/2b/8f/1e2b8fc3-e80b-a275-c60f-15a28fed5540/AppIcons-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hz1uLaJX)
 
 - **Swapple - Word Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3c/0f/e43c0feb-7a5e-ede7-baad-98d13ab994c1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XU84IqaM)
