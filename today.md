@@ -1,2 +1,4 @@
-- **CoinPocket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/9f/13/5a9f131d-5e1b-70bb-ec9f-323a33fc3dda/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ye6YT9Rc)
+- **Hunky City**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/1c/29/681c2952-6111-b6bb-c335-36a0a93c17e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/FYQR89fn)
+- **JeeConnect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/95/1a/14951aa0-bde4-54a5-35ac-7bb86e6d547e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/luZsKILI)
+- **Zenmoney: expense tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/c2/67/e8c26797-c7de-0962-ddb3-0dd935a7e94c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UNbjeBue)
 
