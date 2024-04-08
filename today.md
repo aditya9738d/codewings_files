@@ -1,6 +1,2 @@
-- **Tivatrainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/05/28/4505289a-0021-a701-d2c4-bd91c2fb7d1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qkTTNyGj)
-- **IITC-Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/5b/37/525b37ba-0feb-3569-e8c3-3cb0b7dac3ac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UOHpFy01)
-- **Untitled Podcast App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/d3/1f/6ad31fad-67ac-73cb-6b90-506a155d067c/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a4bmx5rA)
-- **Lovewick: Relationship App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/c7/63/70c76376-0a1b-591d-5d09-f6b5506c89a2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W8EmsRMa)
-- **Shortwave Email**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/91/c0/3a91c0b9-5123-e83a-96a9-a770c8000822/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LwqFyO6L)
+- **dEmpire of Vampire**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/13/7f/7e137f22-36f3-1756-b0e2-e480f5a2e5f5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/I0939Yj3)
 
