@@ -1,3 +1,6 @@
+- **Das E-Rezept**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/9d/d2/a69dd2c5-86e0-c9c9-edc7-8073208c32e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rL8GdXdD)
+- **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/3d/51/c73d511d-4cb0-bb43-c126-e232dca70c89/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
+
 - **dEmpire of Vampire**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/13/7f/7e137f22-36f3-1756-b0e2-e480f5a2e5f5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/I0939Yj3)
 
 - **Liên Quân Mobile AMIBOT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/0b/fa/7a0bfa8b-7a4b-a78d-6184-282aba364f60/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ccCiEuDr)
@@ -44,7 +47,3 @@
 - **Revolut: Send, spend and save**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/fd/90/66fd90d9-06c7-473c-056a-48222b77a855/AppIcon-Production-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
 
 - **X.AR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/89/5f/13895f83-c24e-39e1-71c2-0cc1b2cc2351/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/smDJLIHx)
-
-- **Moon Player: YouTube & Spatial**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/1f/9e/ee1f9ef0-913e-0d21-a74e-b87adb56b06d/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
-
-- **DiaBLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/df/61/8ddf617d-a57e-6d68-f058-ad835ed371ad/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H48doU3l)
