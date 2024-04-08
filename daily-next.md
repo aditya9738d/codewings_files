@@ -1,3 +1,5 @@
+- **PanTiltZoom**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/be/eb/1bbeeb98-50aa-2a08-2906-87ef973cea27/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZUtNX7V2)
+
 - **TP-Link Aria**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/de/d6/34ded64c-528e-29de-92b8-a23b8a9a65e2/BetaAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T99UPBgQ)
 
 - **CoinPocket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/9f/13/5a9f131d-5e1b-70bb-ec9f-323a33fc3dda/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ye6YT9Rc)
@@ -46,5 +48,3 @@
 - **BeCasso: Photo to Painting**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/c5/56/34c556c8-40e3-a043-24f3-9e3ba22e222a/AppIcon_1-0-0-1x_U007epad-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MT0qZeto)
 
 - **Voxel Max - 3D Modeling**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/79/07/a17907dc-d204-d6d5-0978-b64069adf484/AppIcon-0-1x_U007epad-0-0-0-10-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TdNA6XSC)
-
-- **Audracity**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/4e/5d/084e5d90-f05f-2999-2e5c-0c8f1662cb8b/AppIcon-iOS-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mE9Ca5ms)
