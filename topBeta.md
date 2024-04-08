@@ -1,3 +1,5 @@
+- **Composer: Automate Trades**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/4f/6d/b54f6db9-0939-f561-730c-5dccba4083f1/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
+
 - **PanTiltZoom**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/be/eb/1bbeeb98-50aa-2a08-2906-87ef973cea27/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZUtNX7V2)
 
 - **TP-Link Aria**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/de/d6/34ded64c-528e-29de-92b8-a23b8a9a65e2/BetaAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T99UPBgQ)
