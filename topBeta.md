@@ -1,3 +1,5 @@
+- **PanTiltZoom**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/be/eb/1bbeeb98-50aa-2a08-2906-87ef973cea27/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZUtNX7V2)
+
 - **TP-Link Aria**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/de/d6/34ded64c-528e-29de-92b8-a23b8a9a65e2/BetaAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T99UPBgQ)
 
 - **CoinPocket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/9f/13/5a9f131d-5e1b-70bb-ec9f-323a33fc3dda/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ye6YT9Rc)
