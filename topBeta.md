@@ -1,3 +1,5 @@
+- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/95/da/b595dae9-8e50-8746-9744-6d8e70b5e3c5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
+
 - **Das E-Rezept**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/9d/d2/a69dd2c5-86e0-c9c9-edc7-8073208c32e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rL8GdXdD)
 - **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/3d/51/c73d511d-4cb0-bb43-c126-e232dca70c89/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
 
