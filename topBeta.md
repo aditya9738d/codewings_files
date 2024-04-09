@@ -1,3 +1,5 @@
+- **KFC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/0d/1e/bd0d1e67-7e1f-cd71-0ee3-f39028fa5cb7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vWsEPv3U)
+
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/95/da/b595dae9-8e50-8746-9744-6d8e70b5e3c5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 
 - **Das E-Rezept**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/9d/d2/a69dd2c5-86e0-c9c9-edc7-8073208c32e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rL8GdXdD)
