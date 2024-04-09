@@ -1,3 +1,5 @@
+- **QQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/99/e2/3599e235-baef-b1e3-9240-0433f3aa0a82/AppIcon-1-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5PhziWQM)
+
 - **KFC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/0d/1e/bd0d1e67-7e1f-cd71-0ee3-f39028fa5cb7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vWsEPv3U)
 
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/95/da/b595dae9-8e50-8746-9744-6d8e70b5e3c5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
