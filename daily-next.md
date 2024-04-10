@@ -1,3 +1,5 @@
+- **Sticky Notes App + Note Widget**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/c5/b7/8bc5b7d5-a80c-0e56-d3c5-43028c1bec44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9EO4f8w)
+
 - **YabiVision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/05/4d/ff054d8d-5f36-ed66-a980-1874adf38c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AtFppKIy)
 
 - **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6d/2c/8b6d2c04-b897-ce6b-06e2-9dc691841a58/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
@@ -46,5 +48,3 @@
 - **SkyDemon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/2b/8f/1e2b8fc3-e80b-a275-c60f-15a28fed5540/AppIcons-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hz1uLaJX)
 
 - **Swapple - Word Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3c/0f/e43c0feb-7a5e-ede7-baad-98d13ab994c1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XU84IqaM)
-- **Harbour - Docker Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/9d/cb/7a9dcbc6-9b2d-bdb2-77a4-0fccc35bdcf0/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/F2vK7xo4)
-- **E.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/e3/3b/05e33b13-3fe6-ff58-7f38-323405794c2c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7KmHv0CZ)
