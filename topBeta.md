@@ -1,3 +1,6 @@
+- **Power Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/44/66/5f446670-97d1-69e7-ece1-f63aab30ac0c/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u0qAVQC6)
+- **MusicMa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/64/55/9a64553c-c63d-aae2-f978-7895d846f7ba/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5Re9EtP0)
+
 - **QQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/99/e2/3599e235-baef-b1e3-9240-0433f3aa0a82/AppIcon-1-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5PhziWQM)
 
 - **KFC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/0d/1e/bd0d1e67-7e1f-cd71-0ee3-f39028fa5cb7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vWsEPv3U)
