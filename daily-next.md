@@ -1,3 +1,6 @@
+- **Gama Bingo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ed/0b/f6ed0bea-8ba9-c89e-d6dd-169e9940b613/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3XiyIWZD)
+- **Feditext**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/7b/26/867b2696-4012-9411-9a35-2deefb670ae3/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3Ik3KBjj)
+
 - **Palphone**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/ba/5f/f8ba5f90-b93e-4c3f-a7ee-23abfd61ee78/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVw2duqr)
 
 - **Power Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/44/66/5f446670-97d1-69e7-ece1-f63aab30ac0c/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u0qAVQC6)
@@ -45,6 +48,3 @@
 
 - **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/d4/0a/f5d40a00-fbc1-7578-79da-9172bafadead/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mTdIgovd)
 - **The Division Resurgence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2c/f3/a6/2cf3a641-8d35-4781-e846-be0273050bb1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cZFrLJPZ)
-
-- **SingNow - Hát kara duet & live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/82/61/c88261bb-8998-edd1-d401-3d9961946627/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/0bQ7WqlC)
-- **3g2005**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/94/4f/e0944f63-bf30-f13c-2aa8-f7f2ed1d1080/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/weDKc93b)
