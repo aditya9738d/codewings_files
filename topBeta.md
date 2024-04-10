@@ -1,3 +1,5 @@
+- **eDispatches**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/a3/85/80a3855a-35ef-c6e1-018f-0daf73c44904/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ah3T3o1b)
+
 - **Gama Bingo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ed/0b/f6ed0bea-8ba9-c89e-d6dd-169e9940b613/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3XiyIWZD)
 - **Feditext**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/7b/26/867b2696-4012-9411-9a35-2deefb670ae3/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3Ik3KBjj)
 
