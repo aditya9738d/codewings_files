@@ -1,3 +1,9 @@
+- **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/31/5c/c1315c09-cc90-60d0-a894-72abb90b6ea2/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
+- **Balance: Meditation & Sleep**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/35/ba/5d35ba1b-5d41-0c7e-a6f3-11267539338e/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5V7gW8Zc)
+- **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/8b/d8/0a8bd825-0026-640b-ce19-773456a19d40/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
+- **Proximus+ Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/b9/07/52b9073d-1efb-a40b-5905-c086d32ea90a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/toywNocd)
+- **MuseDash Ex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/06/05/c7060588-482b-944e-0dc0-d15a07765cc7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JLWveaUC)
+
 - **WavePod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/ef/c7/44efc7a8-4fd4-320c-47b6-689af3f6d63f/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NewA5LKh)
 
 - **eDispatches**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/a3/85/80a3855a-35ef-c6e1-018f-0daf73c44904/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ah3T3o1b)
@@ -42,9 +48,3 @@
 - **Avocado Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/21/8b/6d218be1-1e73-41d4-d0e9-9284c1b0a0c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MxPn3PUa)
 
 - **Telegram Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/95/4d/fc/954dfc27-0bf5-db28-0c30-313f4b676853/AppIconLLC-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u6iogfd0)
-- **Quiet Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/41/dc/be41dcef-3745-a483-497b-91022698380c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaUjeiW7)
-- **Sticker Maker Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/bc/ee/45bceeaf-2375-cf1b-8ddb-0f43267029a6/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eucMfZTb)
-
-- **SafeExamBrowser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/1a/42/531a4254-0324-b838-ffa2-53ae9e6a918a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/egxLmc4j)
-
-- **Hoarder App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/30/95/fd30957a-ddd2-5593-4ad4-0c08a75c01f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QifpNxAT)
