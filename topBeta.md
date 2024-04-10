@@ -1,3 +1,5 @@
+- **Camera Companion BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/f1/17/09f117f4-21a5-f8c7-5d4e-35818b024ea9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z18Ngj0N)
+
 - **Sticky Notes App + Note Widget**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/c5/b7/8bc5b7d5-a80c-0e56-d3c5-43028c1bec44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9EO4f8w)
 
 - **YabiVision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/05/4d/ff054d8d-5f36-ed66-a980-1874adf38c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AtFppKIy)
