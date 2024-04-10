@@ -1,3 +1,5 @@
+- **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6d/2c/8b6d2c04-b897-ce6b-06e2-9dc691841a58/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
+
 - **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/31/5c/c1315c09-cc90-60d0-a894-72abb90b6ea2/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
 - **Balance: Meditation & Sleep**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/35/ba/5d35ba1b-5d41-0c7e-a6f3-11267539338e/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5V7gW8Zc)
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/8b/d8/0a8bd825-0026-640b-ce19-773456a19d40/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
@@ -46,5 +48,3 @@
 - **E.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/e3/3b/05e33b13-3fe6-ff58-7f38-323405794c2c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7KmHv0CZ)
 
 - **Avocado Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/21/8b/6d218be1-1e73-41d4-d0e9-9284c1b0a0c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MxPn3PUa)
-
-- **Telegram Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/95/4d/fc/954dfc27-0bf5-db28-0c30-313f4b676853/AppIconLLC-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u6iogfd0)
