@@ -1,3 +1,5 @@
+- **Mela 5 – AUv3: Synth, FX, MIDI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/ba/32/2fba322f-9f35-1ae7-27c6-b635ee511623/AppIcon-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4zbCXvXw)
+
 - **Camera Companion BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/f1/17/09f117f4-21a5-f8c7-5d4e-35818b024ea9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z18Ngj0N)
 
 - **Sticky Notes App + Note Widget**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/c5/b7/8bc5b7d5-a80c-0e56-d3c5-43028c1bec44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9EO4f8w)
