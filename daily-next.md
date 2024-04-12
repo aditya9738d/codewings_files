@@ -1,3 +1,5 @@
+- **KBINOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/b2/9e/abb29e8e-1c01-be67-9aca-3cc37cd1301c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1MnmGGx4)
+
 - **Mebot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/06/8a/b1068a03-3879-df36-c029-5a2a2130c1aa/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNYLvN6Z)
 
 - **EoHoursLX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/47/36/a04736fd-d75f-77d3-b332-1cc3f87ebaa0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4aN06VwY)
@@ -46,5 +48,3 @@
 
 - **Das E-Rezept**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/9d/d2/a69dd2c5-86e0-c9c9-edc7-8073208c32e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rL8GdXdD)
 - **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/3d/51/c73d511d-4cb0-bb43-c126-e232dca70c89/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
-
-- **dEmpire of Vampire**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/13/7f/7e137f22-36f3-1756-b0e2-e480f5a2e5f5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/I0939Yj3)
