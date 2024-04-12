@@ -1,3 +1,6 @@
+- **The Kings Wants To Laugh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/98/3f/08983f93-ec13-b025-e24b-687c0ffc6390/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTqcj6u2)
+- **Adobe Acrobat Reader: Edit PDF**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/02/90/330290b0-a44e-55d6-dd4b-e03f1b7dca97/ReleaseAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8XhFnQlp)
+
 - **Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/ee/65/a3ee6587-ec8c-27d8-f764-eceddb14d6dc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/njVWbUm0)
 - **CapCut - Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/db/3d/2bdb3dce-513a-6c3d-59ca-dc57e5da71b6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gu9kI6ky)
 - **TikTok**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/b4/37/beb43754-e80d-24cb-c73e-fe2fe0dd0abd/AppIcon_TestFlight-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pLmKZJKw)
