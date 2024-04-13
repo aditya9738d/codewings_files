@@ -1,3 +1,7 @@
+- **EMOTIV Launcher beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/97/4b/9e974bf8-0786-453f-f692-898dd31aa82c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jSL0XTP9)
+- **Swapple - Word Puzzle Game beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3c/0f/e43c0feb-7a5e-ede7-baad-98d13ab994c1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XU84IqaM)
+- **E. beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/e3/3b/05e33b13-3fe6-ff58-7f38-323405794c2c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7KmHv0CZ)
+
 - **Muse Teams beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/30/77/a830776b-21e1-5608-5d6d-abb6725c0ec8/AppIcon.beta-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r2JeOEbm)
 - **Hanu HRV beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/b7/80/d6b780f0-d81c-8fe0-8b49-4f32640c6aff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NpppQZLA)
 
