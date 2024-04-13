@@ -1,3 +1,6 @@
+- **Lovewick: Relationship App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/c7/63/70c76376-0a1b-591d-5d09-f6b5506c89a2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W8EmsRMa)
+- **Shortwave Email beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/e4/4e/6ee44e41-64cd-52b0-508e-3214837873e4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LwqFyO6L)
+
 - **JB4 Mobile beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/39/9f/0c/399f0c59-3a0f-ee50-c8c4-ced6fcb1a06e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d2yNd4lK)
 - **Hoarder App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/30/95/fd30957a-ddd2-5593-4ad4-0c08a75c01f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QifpNxAT)
 
