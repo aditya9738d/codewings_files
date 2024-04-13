@@ -1,3 +1,9 @@
+- **Vivaldi Snapshot beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/9d/84/969d8425-b70b-fd4a-e1fc-b65ea290c36f/AppIcon-Snapshot-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
+- **Easy Unarchiver - ZIP, RAR beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/36/f5/2e36f5b2-ce37-9019-2314-e53f10b92b44/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
+- **KFC beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/0d/1e/bd0d1e67-7e1f-cd71-0ee3-f39028fa5cb7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vWsEPv3U)
+- **Readwise Reader beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/4f/29/a14f291f-e014-f393-754e-0822cc9af4b5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NSeQo22d)
+- **Ulysses: Writing App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/49/a5/7149a538-86dd-76db-023d-c8d690640e5b/Ulysses-Release-0-0-1x_U007emarketing-0-0-0-6-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A0Dru9VV)
+
 - **Dupay Pro beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/50/2b/ab502b61-90f4-f37e-3569-6aefa8d6718b/AppIcon_pro-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LpdH6PGp)
 - **Vivaldi Snapshot beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/9d/84/969d8425-b70b-fd4a-e1fc-b65ea290c36f/AppIcon-Snapshot-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
 - **Easy Unarchiver - ZIP, RAR beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/36/f5/2e36f5b2-ce37-9019-2314-e53f10b92b44/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
@@ -41,9 +47,3 @@
 - **CharMap**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/e7/c0/6be7c08a-10e1-c1e3-e115-94ef55bc81ff/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jhiYnxfr)
 
 - **Mela 5 – AUv3: Synth, FX, MIDI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/ba/32/2fba322f-9f35-1ae7-27c6-b635ee511623/AppIcon-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4zbCXvXw)
-
-- **Camera Companion BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/f1/17/09f117f4-21a5-f8c7-5d4e-35818b024ea9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z18Ngj0N)
-
-- **Sticky Notes App + Note Widget**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/c5/b7/8bc5b7d5-a80c-0e56-d3c5-43028c1bec44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9EO4f8w)
-
-- **YabiVision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/05/4d/ff054d8d-5f36-ed66-a980-1874adf38c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AtFppKIy)
