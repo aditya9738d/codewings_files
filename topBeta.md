@@ -1,3 +1,5 @@
+- **ZEUS Wallet beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/40/0f/22400f23-ae7f-04d7-8fd7-a9f720476149/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vVnODWoi)
+
 - **pr0gramm App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ca/08/f6ca08ef-81b9-33f2-00c8-40b48ea47f56/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 - **Liên Quân Mobile AMIBOT beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/0b/fa/7a0bfa8b-7a4b-a78d-6184-282aba364f60/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ccCiEuDr)
 - **IMDb: Movies & TV Shows beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/91/f4/1491f493-c2ff-3d61-926a-c526177f27e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
