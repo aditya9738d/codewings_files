@@ -1,3 +1,7 @@
+- **itsme beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/31/5c/c1315c09-cc90-60d0-a894-72abb90b6ea2/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
+- **Balance: Meditation & Sleep beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f2/d6/51f2d60b-3149-e6eb-9f70-be065fd80340/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5V7gW8Zc)
+- **Voyager for Lemmy beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/db/33/08db3362-c7df-43ee-3c1d-c768a7bb55f8/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
+
 - **QQ beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/15/90/ca15903a-38d2-1cb3-3285-a34d83087dee/AppIcon-1-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5PhziWQM)
 - **eufy Clean (EufyHome) beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/44/0b/f1440b00-5209-bdfc-dd43-55290bb0cb4b/AppIcon-all-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
 - **VNPAY-CA beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/46/a3/0246a305-248d-8201-fcd9-9d52aee8035a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/o6j4lZii)
