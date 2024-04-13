@@ -1,3 +1,7 @@
+- **Revolut: Send, spend and save beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/f5/6a/03f56ac2-5348-d532-adba-44b1f6e01bc2/AppIcon-Production-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
+- **Quiet Mobile beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/41/dc/be41dcef-3745-a483-497b-91022698380c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaUjeiW7)
+- **Sticker Maker Studio beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/bc/ee/45bceeaf-2375-cf1b-8ddb-0f43267029a6/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eucMfZTb)
+
 - **2024 Eclipse Live beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/b1/94/69b194da-28e2-ad00-266b-cde00063b3e0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/95C7IOEx)
 
 - **IITC-Mobile beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/5b/37/525b37ba-0feb-3569-e8c3-3cb0b7dac3ac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UOHpFy01)
