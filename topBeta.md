@@ -1,3 +1,7 @@
+- **SafeExamBrowser beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/b1/cb/38b1cbc8-ab3e-f5ca-8778-977a7d84338e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/egxLmc4j)
+- **Darkroom: Photo & Video Editor beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/22/c4/b922c47f-fcee-cf42-2063-b2bc7afdbb93/AppIcon-Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mzR3XvHe)
+- **Daypage beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1f/e3/36/1fe336e5-3f1c-cacb-dc96-7ad16ef3d687/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/pSAEAqGk)
+
 - **Vivaldi Snapshot beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/9d/84/969d8425-b70b-fd4a-e1fc-b65ea290c36f/AppIcon-Snapshot-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
 - **Easy Unarchiver - ZIP, RAR beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/36/f5/2e36f5b2-ce37-9019-2314-e53f10b92b44/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
 - **KFC beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/0d/1e/bd0d1e67-7e1f-cd71-0ee3-f39028fa5cb7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vWsEPv3U)
