@@ -1,3 +1,7 @@
+- **Revolut: Send, spend and save beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/f5/6a/03f56ac2-5348-d532-adba-44b1f6e01bc2/AppIcon-Production-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
+- **Quiet Mobile beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/41/dc/be41dcef-3745-a483-497b-91022698380c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaUjeiW7)
+- **Sticker Maker Studio beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/bc/ee/45bceeaf-2375-cf1b-8ddb-0f43267029a6/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eucMfZTb)
+
 - **2024 Eclipse Live beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/b1/94/69b194da-28e2-ad00-266b-cde00063b3e0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/95C7IOEx)
 
 - **IITC-Mobile beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/5b/37/525b37ba-0feb-3569-e8c3-3cb0b7dac3ac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UOHpFy01)
@@ -43,7 +47,3 @@
 - **EoHoursLX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/47/36/a04736fd-d75f-77d3-b332-1cc3f87ebaa0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4aN06VwY)
 
 - **Let’s Roll - Roller Skating**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/71/1a/b6711ab3-c852-ed81-92d4-309220878524/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hWPfpxw5)
-
-- **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/95/57/e59557e2-f1bd-e51c-bb97-d16e800ce851/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
-
-- **Bezel • Screen Broadcasting**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/51/d4/6951d4d9-f3e0-f995-7e24-a231437e245a/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ai2zeoM4)
