@@ -1,3 +1,6 @@
+- **Muse Teams beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/30/77/a830776b-21e1-5608-5d6d-abb6725c0ec8/AppIcon.beta-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r2JeOEbm)
+- **Hanu HRV beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/b7/80/d6b780f0-d81c-8fe0-8b49-4f32640c6aff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NpppQZLA)
+
 - **ZEUS Wallet beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/40/0f/22400f23-ae7f-04d7-8fd7-a9f720476149/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vVnODWoi)
 
 - **pr0gramm App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ca/08/f6ca08ef-81b9-33f2-00c8-40b48ea47f56/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
