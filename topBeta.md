@@ -1,3 +1,7 @@
+- **QQ beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/15/90/ca15903a-38d2-1cb3-3285-a34d83087dee/AppIcon-1-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5PhziWQM)
+- **eufy Clean (EufyHome) beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/44/0b/f1440b00-5209-bdfc-dd43-55290bb0cb4b/AppIcon-all-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
+- **VNPAY-CA beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/46/a3/0246a305-248d-8201-fcd9-9d52aee8035a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/o6j4lZii)
+
 - **葫芦娃-经典再现 beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mE4SHGvn)
 - **PDF Viewer - Annotation Expert beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/3a/05/dc3a0536-304b-be1d-00c9-331841df2c39/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6IMUtZ8n)
 
