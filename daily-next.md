@@ -1,3 +1,6 @@
+- **Muse Teams beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/30/77/a830776b-21e1-5608-5d6d-abb6725c0ec8/AppIcon.beta-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r2JeOEbm)
+- **Hanu HRV beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/b7/80/d6b780f0-d81c-8fe0-8b49-4f32640c6aff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NpppQZLA)
+
 - **ZEUS Wallet beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/40/0f/22400f23-ae7f-04d7-8fd7-a9f720476149/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vVnODWoi)
 
 - **pr0gramm App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ca/08/f6ca08ef-81b9-33f2-00c8-40b48ea47f56/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
@@ -45,6 +48,3 @@
 - **Go2Ten**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/96/99/559699cc-df39-23bb-bb24-759785634b44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T0rvjj1j)
 - **Steam Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/06/ce/5606ce2e-95f8-aee0-e64f-c4579ed7b558/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8BOPXsGz)
 - **Crittarium**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/27/63/3e2763e7-9386-8808-b112-513fe9b4e9e4/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NXwVzIZo)
-- **KBINOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/b2/9e/abb29e8e-1c01-be67-9aca-3cc37cd1301c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1MnmGGx4)
-
-- **Mebot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/06/8a/b1068a03-3879-df36-c029-5a2a2130c1aa/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNYLvN6Z)
