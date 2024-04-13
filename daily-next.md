@@ -1,3 +1,9 @@
+- **Dupay Pro beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/50/2b/ab502b61-90f4-f37e-3569-6aefa8d6718b/AppIcon_pro-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LpdH6PGp)
+- **Vivaldi Snapshot beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/9d/84/969d8425-b70b-fd4a-e1fc-b65ea290c36f/AppIcon-Snapshot-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
+- **Easy Unarchiver - ZIP, RAR beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/36/f5/2e36f5b2-ce37-9019-2314-e53f10b92b44/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
+- **KFC beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/0d/1e/bd0d1e67-7e1f-cd71-0ee3-f39028fa5cb7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vWsEPv3U)
+- **Readwise Reader beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/4f/29/a14f291f-e014-f393-754e-0822cc9af4b5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NSeQo22d)
+
 - **enhanceAl**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/d5/fe/8ed5fea8-a859-eda5-0599-c73007420bf1/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P7nvmE22)
 
 - **The Kings Wants To Laugh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/98/3f/08983f93-ec13-b025-e24b-687c0ffc6390/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTqcj6u2)
@@ -41,10 +47,3 @@
 - **Sticky Notes App + Note Widget**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/c5/b7/8bc5b7d5-a80c-0e56-d3c5-43028c1bec44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9EO4f8w)
 
 - **YabiVision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/05/4d/ff054d8d-5f36-ed66-a980-1874adf38c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AtFppKIy)
-
-- **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6d/2c/8b6d2c04-b897-ce6b-06e2-9dc691841a58/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
-
-- **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/31/5c/c1315c09-cc90-60d0-a894-72abb90b6ea2/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
-- **Balance: Meditation & Sleep**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/35/ba/5d35ba1b-5d41-0c7e-a6f3-11267539338e/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5V7gW8Zc)
-- **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/8b/d8/0a8bd825-0026-640b-ce19-773456a19d40/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
-- **Proximus+ Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/b9/07/52b9073d-1efb-a40b-5905-c086d32ea90a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/toywNocd)
