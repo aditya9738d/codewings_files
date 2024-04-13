@@ -1,3 +1,6 @@
+- **Lovewick: Relationship App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/c7/63/70c76376-0a1b-591d-5d09-f6b5506c89a2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W8EmsRMa)
+- **Shortwave Email beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/e4/4e/6ee44e41-64cd-52b0-508e-3214837873e4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LwqFyO6L)
+
 - **JB4 Mobile beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/39/9f/0c/399f0c59-3a0f-ee50-c8c4-ced6fcb1a06e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d2yNd4lK)
 - **Hoarder App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/30/95/fd30957a-ddd2-5593-4ad4-0c08a75c01f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QifpNxAT)
 
@@ -45,6 +48,3 @@
 - **Locket Widget**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/b7/78/7eb77847-10fd-56ad-5e6f-03a55b9c167d/app_icon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IGjs9EMj)
 - **Snapchat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/8a/60/318a6006-8fe9-ee72-def2-d5f7947464a4/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p7hGbZUR)
 - **Plex: Watch Live TV and Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/31/7c/a9317c82-ea26-a9e0-44ef-0b4913aa8af9/default-dark-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MY6JTzix)
-- **Tam Giới Phân Tranh Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/75/c7/0475c7ce-8914-63d5-156e-b83970866999/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zsGw53Sw)
-- **CCClubs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/28/01/b928011d-6470-16b1-3548-b789b767eb12/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pLoQlfvn)
-- **MLBB Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/44/5c/57445c58-f410-ffbb-9532-d0f154724565/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/yYjKTTlT)
