@@ -1,3 +1,6 @@
+- **JB4 Mobile beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/39/9f/0c/399f0c59-3a0f-ee50-c8c4-ced6fcb1a06e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d2yNd4lK)
+- **Hoarder App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/30/95/fd30957a-ddd2-5593-4ad4-0c08a75c01f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QifpNxAT)
+
 - **EMOTIV Launcher beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/97/4b/9e974bf8-0786-453f-f692-898dd31aa82c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jSL0XTP9)
 - **Swapple - Word Puzzle Game beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3c/0f/e43c0feb-7a5e-ede7-baad-98d13ab994c1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XU84IqaM)
 - **E. beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/e3/3b/05e33b13-3fe6-ff58-7f38-323405794c2c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7KmHv0CZ)
