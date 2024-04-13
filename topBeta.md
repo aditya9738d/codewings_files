@@ -1,3 +1,6 @@
+- **葫芦娃-经典再现 beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mE4SHGvn)
+- **PDF Viewer - Annotation Expert beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/3a/05/dc3a0536-304b-be1d-00c9-331841df2c39/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6IMUtZ8n)
+
 - **Voxel Max - 3D Modeling beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/2b/c5/6d2bc551-c729-2099-be5a-f1b96e49f504/AppIcon-0-1x_U007epad-0-0-0-10-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TdNA6XSC)
 - **Riveo | Video Effects Enhancer beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/70/52/ae7052af-d83f-9b21-6629-de973ec35e4c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v6ceOm4r)
 - **Project Pentjet beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/c0/bc/fac0bc3f-9c9a-fb97-016c-1acaf28851fb/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
