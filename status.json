@@ -376,5 +376,19 @@
     "link": "https://testflight.apple.com/join/WZcoUcHQ",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Apple AMB",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/24/6c/15246ce8-d12f-19d0-3a1d-a5a5235296b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DsJkKvf8",
+    "clickCount": 21,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Cyber Key Fob",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ad/f6/f8adf6f1-37b5-ec81-ef62-7f8daedd70d7/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/wzaCXTpH",
+    "clickCount": 8,
+    "betaAvailable": "open"
   }
 ]
