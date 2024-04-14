@@ -2679,5 +2679,19 @@
     "link": "https://testflight.apple.com/join/488cF6Xu",
     "clickCount": 4,
     "betaAvailable": "open"
+  },
+  {
+    "name": "DEXART Metaverse",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/95/d9/8295d967-3f21-e128-b26e-dfd64cf82ca1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ntsoqpNK",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Steps+",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/e0/83/79e0838e-f910-3227-1dde-68ebcb3b8132/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jNEMGh4b",
+    "clickCount": 3,
+    "betaAvailable": "open"
   }
 ]
