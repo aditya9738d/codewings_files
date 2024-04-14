@@ -432,5 +432,19 @@
     "link": "https://testflight.apple.com/join/jsf7ZPVr",
     "clickCount": 1,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Cali - Your new calendar",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/f8/7e/3bf87e29-7fe5-e06c-d797-c75c79a446aa/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/yKXoESUD",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Sila for Twitch",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/01/e1/c901e16d-664b-2f7a-fee0-46748b84654f/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tvPhZZ8w",
+    "clickCount": 11,
+    "betaAvailable": "open"
   }
 ]
