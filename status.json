@@ -719,5 +719,19 @@
     "link": "https://testflight.apple.com/join/sKBQlu0w",
     "clickCount": 51,
     "betaAvailable": "open"
+  },
+  {
+    "name": "VisionCode",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/04/30/160430bf-1f23-2839-28ff-9c7d046bcbc1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/0XnVHVtL",
+    "clickCount": 61,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Reach Infinity",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/15/8a/00158ac0-6591-6dd1-74fc-663685284386/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4rdyJbDf",
+    "clickCount": 94,
+    "betaAvailable": "open"
   }
 ]
