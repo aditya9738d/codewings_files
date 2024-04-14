@@ -138,5 +138,19 @@
     "link": "https://testflight.apple.com/join/6IMUtZ8n",
     "clickCount": 2,
     "betaAvailable": "full"
+  },
+  {
+    "name": "Nostrmo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/12/70/921270f6-7a10-9cf1-a369-6947581a991d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/kvGz47De",
+    "clickCount": 3,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "HomeHabit",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/a6/8a/8fa68a5c-ae68-6283-b387-2a882ef494db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/KbpFHzx0",
+    "clickCount": 19,
+    "betaAvailable": "open"
   }
 ]
