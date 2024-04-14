@@ -2252,5 +2252,19 @@
     "link": "https://testflight.apple.com/join/AtFppKIy",
     "clickCount": 1,
     "betaAvailable": "open"
+  },
+  {
+    "name": "itsme",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/31/5c/c1315c09-cc90-60d0-a894-72abb90b6ea2/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ntZD6f9a",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Voyager for Lemmy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/8b/d8/0a8bd825-0026-640b-ce19-773456a19d40/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/nWLw1MBM",
+    "clickCount": 1,
+    "betaAvailable": "open"
   }
 ]
