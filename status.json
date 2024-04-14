@@ -663,5 +663,19 @@
     "link": "https://testflight.apple.com/join/9pln2cnJ",
     "clickCount": 6,
     "betaAvailable": "open"
+  },
+  {
+    "name": "IsItGOLD?",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/4f/9a/394f9a56-4c7c-ec48-08e3-acbab551d5fc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MicsSOHR",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Bracket Buddy - Esports Events",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/2d/ca/a72dca95-1b66-32a9-afb1-1cf53d1dceea/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5yab6pxu",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
