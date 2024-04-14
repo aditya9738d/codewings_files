@@ -1,3 +1,5 @@
+- **Screeps Observer beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/33/26/073326d6-2a22-3b32-aaed-f138dc57edde/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/u4GlOWaL)
+
 - **My McDonald's QA beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/e2/cb/a5e2cb9e-048f-8fcf-aa70-a57d0717e85f/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ftRKu5mE)
 
 - **WordPress – Website Builder beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/cc/e0/52cce074-7c8c-ee03-ee37-6aa061b06119/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
