@@ -1,3 +1,7 @@
+- **WordPress – Website Builder beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/cc/e0/52cce074-7c8c-ee03-ee37-6aa061b06119/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
+- **Wink - Video Enhancing Tool beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/65/64/85656468-793f-1754-25d1-2c2d8386a186/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
+- **Cinema Time beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/6c/a3/886ca376-f279-5890-dcdf-04dccfbeac69/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/prtbcetS)
+
 - **PanTiltZoom beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/34/92/3e3492c5-81ea-68e4-d206-81f7625560de/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZUtNX7V2)
 - **YabiVision beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/05/4d/ff054d8d-5f36-ed66-a980-1874adf38c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AtFppKIy)
 
