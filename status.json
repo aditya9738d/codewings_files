@@ -1496,5 +1496,19 @@
     "link": "https://testflight.apple.com/join/RHz7zTUB",
     "clickCount": 45,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Easy Unarchiver - ZIP, RAR",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/36/f5/2e36f5b2-ce37-9019-2314-e53f10b92b44/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jXX0Wyfy",
+    "clickCount": 2,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Suwatte",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fb/6f/f5/fb6ff59f-c51f-9a6a-b05d-15951d6901dc/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/qDyYMTLJ",
+    "clickCount": 2,
+    "betaAvailable": "open"
   }
 ]
