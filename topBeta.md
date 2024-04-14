@@ -1,3 +1,5 @@
+- **WEB.DE Mail & Cloud beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/cb/ec/3bcbec22-5794-1f96-1fb4-7d4148930c84/WEBDE_MAIL_AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Do48rouk)
+
 - **Mira Fertility & Cycle Tracker beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/97/f5/6897f538-e7f5-0e9f-15b7-d556800c5ea5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
 - **beboConnect beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9c/3a/cf9c3af7-4321-e458-1264-d3a8cdb7dfb5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wdeQmls3)
 
