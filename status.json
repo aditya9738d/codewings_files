@@ -635,5 +635,19 @@
     "link": "https://testflight.apple.com/join/3IiGX7uy",
     "clickCount": 74,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Mindful Ocean Metaverse",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/e5/64/2de56450-84c5-f54d-cdc1-109e9474f38c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ypNDxHmZ",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "GAT(Give And Take)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/47/01/d947011e-0471-2183-437d-f1818de70f8c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/M0h8vQLr",
+    "clickCount": 3,
+    "betaAvailable": "open"
   }
 ]
