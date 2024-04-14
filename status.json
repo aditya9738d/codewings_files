@@ -873,5 +873,19 @@
     "link": "https://testflight.apple.com/join/Vlb55Wtr",
     "clickCount": 19,
     "betaAvailable": "open"
+  },
+  {
+    "name": "ToneBarrier",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/78/ef/7d78ef21-5134-af55-a8ad-c158b67c6090/ToneBarrierAppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LqGKPwdG",
+    "clickCount": 66,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Cue - Text Reminders",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/05/45/da05457b-eb1a-8107-5f46-896c59333780/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9u7vbYkh",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
