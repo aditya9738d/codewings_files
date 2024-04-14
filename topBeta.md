@@ -1,3 +1,6 @@
+- **iReal Pro beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e1/40/a8/e140a885-2f00-867e-ac8e-94c24f02786b/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
+- **Palphone beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/ba/5f/f8ba5f90-b93e-4c3f-a7ee-23abfd61ee78/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVw2duqr)
+
 - **WEB.DE Mail & Cloud beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/cb/ec/3bcbec22-5794-1f96-1fb4-7d4148930c84/WEBDE_MAIL_AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Do48rouk)
 
 - **Mira Fertility & Cycle Tracker beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/97/f5/6897f538-e7f5-0e9f-15b7-d556800c5ea5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
