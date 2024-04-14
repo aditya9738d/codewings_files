@@ -1223,5 +1223,19 @@
     "link": "https://testflight.apple.com/join/lHJsHfmw",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Wilderless",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/4d/13/5e4d13f6-40cb-d61b-2f95-f4c983f0b966/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8zIIxsqW",
+    "clickCount": 11,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Somewhere - a place",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/f9/a9/cff9a925-9d19-395a-8897-666d56b86ba5/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/bL4c0ZbG",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
