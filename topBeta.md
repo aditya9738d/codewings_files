@@ -1,3 +1,6 @@
+- **PanTiltZoom beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/34/92/3e3492c5-81ea-68e4-d206-81f7625560de/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZUtNX7V2)
+- **YabiVision beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/05/4d/ff054d8d-5f36-ed66-a980-1874adf38c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AtFppKIy)
+
 - **Zenmoney: expense tracker beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/c2/67/e8c26797-c7de-0962-ddb3-0dd935a7e94c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UNbjeBue)
 
 - **SkyDemon beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/b6/cf/88b6cfa5-038c-770f-b279-e522099e8178/AppIcons-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hz1uLaJX)
