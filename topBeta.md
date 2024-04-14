@@ -1,3 +1,5 @@
+- **Photoroom: AI Photo Editor beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/d6/23/fad623bf-ef69-4c36-dfb0-4f8ac6be4406/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zKKyigKN)
+
 - **SchoolMate – Ace the Day beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/cb/7c/4acb7c2e-7fd4-d4d8-8a6b-f1b593dffb5c/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WZcoUcHQ)
 
 - **Screeps Observer beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/33/26/073326d6-2a22-3b32-aaed-f138dc57edde/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/u4GlOWaL)
