@@ -1,3 +1,7 @@
+- **WordPress – Website Builder beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/cc/e0/52cce074-7c8c-ee03-ee37-6aa061b06119/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
+- **Wink - Video Enhancing Tool beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/65/64/85656468-793f-1754-25d1-2c2d8386a186/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
+- **Cinema Time beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/6c/a3/886ca376-f279-5890-dcdf-04dccfbeac69/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/prtbcetS)
+
 - **PanTiltZoom beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/34/92/3e3492c5-81ea-68e4-d206-81f7625560de/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZUtNX7V2)
 - **YabiVision beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/05/4d/ff054d8d-5f36-ed66-a980-1874adf38c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AtFppKIy)
 
@@ -44,7 +48,3 @@
 
 - **Voxel Max - 3D Modeling beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/2b/c5/6d2bc551-c729-2099-be5a-f1b96e49f504/AppIcon-0-1x_U007epad-0-0-0-10-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TdNA6XSC)
 - **Riveo | Video Effects Enhancer beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/70/52/ae7052af-d83f-9b21-6629-de973ec35e4c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v6ceOm4r)
-- **Project Pentjet beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/c0/bc/fac0bc3f-9c9a-fb97-016c-1acaf28851fb/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
-
-- **Power Apps beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/84/cb/cf84cb47-fc40-e403-7e58-91e642944b17/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/u0qAVQC6)
-- **Hunky City beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/1c/29/681c2952-6111-b6bb-c335-36a0a93c17e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/FYQR89fn)
