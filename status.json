@@ -1013,5 +1013,19 @@
     "link": "https://testflight.apple.com/join/Gs80E65C",
     "clickCount": 2,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Music Discovery with Fusion",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/b4/4d/c7b44d23-e0c2-5413-3e7f-0b311b701564/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mgKIQ9hU",
+    "clickCount": 36,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "BetaMonkeyEmpire",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/44/14/06441416-01ca-fac5-aa3e-4e32e35e532a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VhdGSRMd",
+    "clickCount": 29,
+    "betaAvailable": "open"
   }
 ]
