@@ -460,5 +460,19 @@
     "link": "https://testflight.apple.com/join/bqbgDzME",
     "clickCount": 14,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Circle Finance",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/88/ff/c288ffad-447f-008d-e51d-8973c20d0f08/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/t9LweeB5",
+    "clickCount": 3,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Hatchy Rampage",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/fb/1d/31fb1d6a-fad6-0e5a-e8f2-080d204f5528/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/FPHPdI0s",
+    "clickCount": 6,
+    "betaAvailable": "open"
   }
 ]
