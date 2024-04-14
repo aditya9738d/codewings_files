@@ -1,3 +1,7 @@
+- **La Terminal - SSH Client beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c6/1f/9ec61f5f-1890-f8b7-4f89-e4f076aee2f0/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cpPS8YnX)
+- **GCash Mobile beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/b6/d0/1cb6d06d-52b6-5ed8-27f2-4c18916032d4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPda0z4L)
+- **Trello: organize anything! beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/fb/46/89fb46e6-c45a-e28d-07b9-f4d9476a03b8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
+
 - **Locket Widget beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/b7/78/7eb77847-10fd-56ad-5e6f-03a55b9c167d/app_icon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IGjs9EMj)
 
 - **Photoroom: AI Photo Editor beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/d6/23/fad623bf-ef69-4c36-dfb0-4f8ac6be4406/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zKKyigKN)
@@ -44,7 +48,3 @@
 
 - **云宝加速器 beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/9e/ca/969ecae8-4aae-32bf-7ef3-50caa884c001/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nBkljFCK)
 - **MyFRITZ!App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/f3/c6/4df3c6bb-01fa-762a-94b4-8ee233aedf7f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
-
-- **itsme beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/31/5c/c1315c09-cc90-60d0-a894-72abb90b6ea2/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
-- **Balance: Meditation & Sleep beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f2/d6/51f2d60b-3149-e6eb-9f70-be065fd80340/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5V7gW8Zc)
-- **Voyager for Lemmy beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/db/33/08db3362-c7df-43ee-3c1d-c768a7bb55f8/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
