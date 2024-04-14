@@ -2581,5 +2581,19 @@
     "link": "https://testflight.apple.com/join/WzvGL253",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Kita Bestee BTPN Syariah",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/75/80/1e758055-6bfb-98bf-049a-0816755e0c94/AppIconProd-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4xJ2E0MB",
+    "clickCount": 5,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Zello Walkie Talkie",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/02/69/9e0269c9-54bc-eeaa-d8fc-1df206d53d62/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/2Tux4moG",
+    "clickCount": 6,
+    "betaAvailable": "open"
   }
 ]
