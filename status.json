@@ -152,5 +152,19 @@
     "link": "https://testflight.apple.com/join/KbpFHzx0",
     "clickCount": 19,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Screeps Observer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/42/c6/ea42c6dd-4335-936c-ab57-22f31c02dbfe/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/u4GlOWaL",
+    "clickCount": 7,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "ClipBorad",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/16/09/88160915-cd66-d72c-47e9-538b3b7f9cdc/DefaultAppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zgd15gEU",
+    "clickCount": 7,
+    "betaAvailable": "open"
   }
 ]
