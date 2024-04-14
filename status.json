@@ -2665,5 +2665,19 @@
     "link": "https://testflight.apple.com/join/obazMZMN",
     "clickCount": 1,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Cinema Time",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/6c/a3/886ca376-f279-5890-dcdf-04dccfbeac69/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/prtbcetS",
+    "clickCount": 8,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "鸡儿大战僵尸",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/74/8d/ce748dfa-a0e1-278f-33ae-141e9ebe8d13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/488cF6Xu",
+    "clickCount": 4,
+    "betaAvailable": "open"
   }
 ]
