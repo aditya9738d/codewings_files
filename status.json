@@ -320,5 +320,19 @@
     "link": "https://testflight.apple.com/join/vYkfwoti",
     "clickCount": 23,
     "betaAvailable": "open"
+  },
+  {
+    "name": "FinEasy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/dc/04/4c/dc044c23-7dcc-3b63-f609-bf450e4e7c79/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/uXyp7xTM",
+    "clickCount": 5,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "okane – Currency Converter",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/f5/07/46f50750-a053-3c28-351d-7a3eaed42a52/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/esER74k0",
+    "clickCount": 4,
+    "betaAvailable": "open"
   }
 ]
