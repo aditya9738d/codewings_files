@@ -2511,5 +2511,19 @@
     "link": "https://testflight.apple.com/join/0bQ7WqlC",
     "clickCount": 2,
     "betaAvailable": "open"
+  },
+  {
+    "name": "3g2005",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/94/4f/e0944f63-bf30-f13c-2aa8-f7f2ed1d1080/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/weDKc93b",
+    "clickCount": 2,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "F1ATV",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/eb/da/f3/ebdaf30e-69e4-620a-5403-a3dae99d5e3a/App_Icon-marketing.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NRswe1IZ",
+    "clickCount": 19,
+    "betaAvailable": "open"
   }
 ]
