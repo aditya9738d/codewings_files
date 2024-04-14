@@ -1636,5 +1636,19 @@
     "link": "https://testflight.apple.com/join/wdeQmls3",
     "clickCount": 1,
     "betaAvailable": "open"
+  },
+  {
+    "name": "云宝加速器 beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/9e/ca/969ecae8-4aae-32bf-7ef3-50caa884c001/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/nBkljFCK",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "MyFRITZ!App beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/f3/c6/4df3c6bb-01fa-762a-94b4-8ee233aedf7f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/U0v1rBE5",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
