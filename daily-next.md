@@ -1,3 +1,6 @@
+- **Geotag Alpha for Sony beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/72/4d/c0724ded-f522-51ee-d95e-02d5a7c6e011/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0Fht2ff6)
+- **AstreOS beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZsGh6uYD)
+
 - **Harbour - Docker Manager beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/9d/cb/7a9dcbc6-9b2d-bdb2-77a4-0fccc35bdcf0/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/F2vK7xo4)
 
 - **iReal Pro beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e1/40/a8/e140a885-2f00-867e-ac8e-94c24f02786b/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
@@ -44,7 +47,3 @@
 - **Hanu HRV beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/b7/80/d6b780f0-d81c-8fe0-8b49-4f32640c6aff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NpppQZLA)
 
 - **ZEUS Wallet beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/40/0f/22400f23-ae7f-04d7-8fd7-a9f720476149/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vVnODWoi)
-
-- **pr0gramm App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ca/08/f6ca08ef-81b9-33f2-00c8-40b48ea47f56/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
-- **Liên Quân Mobile AMIBOT beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/0b/fa/7a0bfa8b-7a4b-a78d-6184-282aba364f60/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ccCiEuDr)
-- **IMDb: Movies & TV Shows beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/91/f4/1491f493-c2ff-3d61-926a-c526177f27e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
