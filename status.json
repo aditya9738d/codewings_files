@@ -1370,5 +1370,19 @@
     "link": "https://testflight.apple.com/join/Pq1HzHqe",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "A Fish Chat",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/49/af/a049af06-65a7-b292-e769-4e065b7b3f51/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jzPv1lac",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Pocket Space!",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/ea/92/e7ea9215-9f11-16b9-0be7-7dd94b08b83a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DHipLt9w",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
