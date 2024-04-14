@@ -1265,5 +1265,19 @@
     "link": "https://testflight.apple.com/join/IXSVtiZJ",
     "clickCount": 8,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Game Of Revenge",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/65/3c/94653cb6-4679-8e7a-a77c-f4cd0091f7c7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5uee2m5t",
+    "clickCount": 7,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Freebox Connect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/2d/75/3e2d753e-0e15-c9a5-367a-96090805ab7a/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/bxifCoxH",
+    "clickCount": 25,
+    "betaAvailable": "open"
   }
 ]
