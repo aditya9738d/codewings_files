@@ -1,3 +1,5 @@
+- **Zenmoney: expense tracker beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/c2/67/e8c26797-c7de-0962-ddb3-0dd935a7e94c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UNbjeBue)
+
 - **SkyDemon beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/b6/cf/88b6cfa5-038c-770f-b279-e522099e8178/AppIcons-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hz1uLaJX)
 - **AstroDX-Beta (Group B) beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/95/da/b595dae9-8e50-8746-9744-6d8e70b5e3c5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 - **SingNow - Hát kara duet & live beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/82/61/c88261bb-8998-edd1-d401-3d9961946627/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/0bQ7WqlC)
@@ -46,4 +48,3 @@
 - **JeeConnect beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/95/1a/14951aa0-bde4-54a5-35ac-7bb86e6d547e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/luZsKILI)
 
 - **Lovewick: Relationship App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/c7/63/70c76376-0a1b-591d-5d09-f6b5506c89a2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W8EmsRMa)
-- **Shortwave Email beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/e4/4e/6ee44e41-64cd-52b0-508e-3214837873e4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LwqFyO6L)
