@@ -1,3 +1,5 @@
+- **Harbour - Docker Manager beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/9d/cb/7a9dcbc6-9b2d-bdb2-77a4-0fccc35bdcf0/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/F2vK7xo4)
+
 - **iReal Pro beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e1/40/a8/e140a885-2f00-867e-ac8e-94c24f02786b/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 - **Palphone beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/ba/5f/f8ba5f90-b93e-4c3f-a7ee-23abfd61ee78/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVw2duqr)
 
@@ -46,5 +48,3 @@
 - **pr0gramm App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ca/08/f6ca08ef-81b9-33f2-00c8-40b48ea47f56/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 - **Liên Quân Mobile AMIBOT beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/0b/fa/7a0bfa8b-7a4b-a78d-6184-282aba364f60/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ccCiEuDr)
 - **IMDb: Movies & TV Shows beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/91/f4/1491f493-c2ff-3d61-926a-c526177f27e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
-
-- **F1ATV beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/eb/da/f3/ebdaf30e-69e4-620a-5403-a3dae99d5e3a/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
