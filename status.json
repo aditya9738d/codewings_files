@@ -1510,5 +1510,19 @@
     "link": "https://testflight.apple.com/join/qDyYMTLJ",
     "clickCount": 2,
     "betaAvailable": "open"
+  },
+  {
+    "name": "hockey.nl",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/b0/4f/60b04f6d-768c-c229-d49c-76cbba87017c/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/dEZe3xLJ",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Tivatrainer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/05/28/4505289a-0021-a701-d2c4-bd91c2fb7d1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/qkTTNyGj",
+    "clickCount": 1,
+    "betaAvailable": "open"
   }
 ]
