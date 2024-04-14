@@ -817,5 +817,19 @@
     "link": "https://testflight.apple.com/join/vKrjNFUr",
     "clickCount": 73,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Bolide - Crypto Bitcoin Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/18/08/3a18087f-b9b5-a677-f8ce-b3bb33eb5b19/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UoLAQdjn",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "TinyTable - Tabletop Gameroom",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d5/7d/95d57d3b-2be9-65ff-dc79-ba5f6c3bcd44/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/TjI2iwXJ",
+    "clickCount": 2,
+    "betaAvailable": "not accepting"
   }
 ]
