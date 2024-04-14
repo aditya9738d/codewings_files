@@ -859,5 +859,19 @@
     "link": "https://testflight.apple.com/join/vRH6kJVa",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "雀乐",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/e4/e7/47e4e7ff-1825-e8f8-306f-855e3c8bad10/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/cnPFNQvl",
+    "clickCount": 1,
+    "betaAvailable": "full"
+  },
+  {
+    "name": "Soulver 3",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/c3/4a/39c34a62-c8b0-a17a-cedb-d0729d67a499/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Vlb55Wtr",
+    "clickCount": 19,
+    "betaAvailable": "open"
   }
 ]
