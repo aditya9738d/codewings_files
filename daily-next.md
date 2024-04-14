@@ -1,3 +1,7 @@
+- **The Kings Wants To Laugh beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/98/3f/08983f93-ec13-b025-e24b-687c0ffc6390/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTqcj6u2)
+- **Facebook beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/59/07/2c590756-cbc6-bb2c-4924-c051ac3ecf35/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
+- **NroChat beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/e6/ce/d2e6ce54-b5a3-4be4-b86a-b7d31fb45f21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PPfQVoNB)
+
 - **La Terminal - SSH Client beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c6/1f/9ec61f5f-1890-f8b7-4f89-e4f076aee2f0/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cpPS8YnX)
 - **GCash Mobile beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/b6/d0/1cb6d06d-52b6-5ed8-27f2-4c18916032d4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPda0z4L)
 - **Trello: organize anything! beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/fb/46/89fb46e6-c45a-e28d-07b9-f4d9476a03b8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
@@ -44,7 +48,3 @@
 - **WEB.DE Mail & Cloud beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/cb/ec/3bcbec22-5794-1f96-1fb4-7d4148930c84/WEBDE_MAIL_AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Do48rouk)
 
 - **Mira Fertility & Cycle Tracker beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/97/f5/6897f538-e7f5-0e9f-15b7-d556800c5ea5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
-- **beboConnect beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9c/3a/cf9c3af7-4321-e458-1264-d3a8cdb7dfb5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wdeQmls3)
-
-- **云宝加速器 beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/9e/ca/969ecae8-4aae-32bf-7ef3-50caa884c001/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nBkljFCK)
-- **MyFRITZ!App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/f3/c6/4df3c6bb-01fa-762a-94b4-8ee233aedf7f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
