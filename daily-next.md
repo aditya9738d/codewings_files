@@ -1,3 +1,5 @@
+- **Composer: Automate Trades beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/4f/6d/b54f6db9-0939-f561-730c-5dccba4083f1/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
+
 - **Suwatte beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/10/e2/8310e2a5-7b6a-3271-eaf4-ac1b10e47457/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
 
 - **Geotag Alpha for Sony beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/72/4d/c0724ded-f522-51ee-d95e-02d5a7c6e011/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0Fht2ff6)
@@ -46,4 +48,3 @@
 - **E. beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/e3/3b/05e33b13-3fe6-ff58-7f38-323405794c2c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7KmHv0CZ)
 
 - **Muse Teams beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/30/77/a830776b-21e1-5608-5d6d-abb6725c0ec8/AppIcon.beta-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r2JeOEbm)
-- **Hanu HRV beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/b7/80/d6b780f0-d81c-8fe0-8b49-4f32640c6aff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NpppQZLA)
