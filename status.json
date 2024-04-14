@@ -2343,5 +2343,19 @@
     "link": "https://testflight.apple.com/join/vWsEPv3U",
     "clickCount": 5,
     "betaAvailable": "full"
+  },
+  {
+    "name": "AstroDX-Beta (Group B)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/95/da/b595dae9-8e50-8746-9744-6d8e70b5e3c5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ocj3yptn",
+    "clickCount": 0,
+    "betaAvailable": "full"
+  },
+  {
+    "name": "Das E-Rezept",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/9d/d2/a69dd2c5-86e0-c9c9-edc7-8073208c32e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/rL8GdXdD",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
