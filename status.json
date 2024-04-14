@@ -1664,5 +1664,19 @@
     "link": "https://testflight.apple.com/join/5V7gW8Zc",
     "clickCount": 2,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Voyager for Lemmy beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/db/33/08db3362-c7df-43ee-3c1d-c768a7bb55f8/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/nWLw1MBM",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "QQ beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/15/90/ca15903a-38d2-1cb3-3285-a34d83087dee/AppIcon-1-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5PhziWQM",
+    "clickCount": 4,
+    "betaAvailable": "full"
   }
 ]
