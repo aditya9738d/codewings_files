@@ -1,3 +1,5 @@
+- **WEB.DE Mail & Cloud beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/cb/ec/3bcbec22-5794-1f96-1fb4-7d4148930c84/WEBDE_MAIL_AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Do48rouk)
+
 - **Mira Fertility & Cycle Tracker beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/97/f5/6897f538-e7f5-0e9f-15b7-d556800c5ea5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
 - **beboConnect beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9c/3a/cf9c3af7-4321-e458-1264-d3a8cdb7dfb5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wdeQmls3)
 
@@ -46,5 +48,3 @@
 - **Axiome Wallet beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/84/98/0784982a-9506-d4a2-adfd-1829a02cc0bb/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Bjz0XZ5v)
 
 - **Revolut: Send, spend and save beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/f5/6a/03f56ac2-5348-d532-adba-44b1f6e01bc2/AppIcon-Production-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
-- **Quiet Mobile beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/41/dc/be41dcef-3745-a483-497b-91022698380c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaUjeiW7)
-- **Sticker Maker Studio beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/bc/ee/45bceeaf-2375-cf1b-8ddb-0f43267029a6/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eucMfZTb)
