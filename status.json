@@ -845,5 +845,19 @@
     "link": "https://testflight.apple.com/join/jd1cqyip",
     "clickCount": 76,
     "betaAvailable": "not accepting"
+  },
+  {
+    "name": "Drakula",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/44/c7/ec/44c7ecbf-aae4-d643-697d-d0c51611ffa3/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/OISKmFQX",
+    "clickCount": 70,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Mirá",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/a4/c4/97a4c4bd-c9be-dee6-868b-c44c3fd0ef67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/vRH6kJVa",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
