@@ -1,3 +1,5 @@
+- **Suwatte beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/10/e2/8310e2a5-7b6a-3271-eaf4-ac1b10e47457/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
+
 - **Geotag Alpha for Sony beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/72/4d/c0724ded-f522-51ee-d95e-02d5a7c6e011/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0Fht2ff6)
 - **AstreOS beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZsGh6uYD)
 
