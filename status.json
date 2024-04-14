@@ -1083,5 +1083,19 @@
     "link": "https://testflight.apple.com/join/ivCR0RIe",
     "clickCount": 10,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Avici -Buy bitcoin with UPI",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/c6/57/11c657e2-0405-b1c6-aca8-0581b745b94b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Rl2vfoRy",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Per Watch",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f0/2d/ae/f02dae4d-aa50-b44f-faef-1d00c64b2569/MessagesApplicationStub60x60@2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/kCM1SsCz",
+    "clickCount": 16,
+    "betaAvailable": "open"
   }
 ]
