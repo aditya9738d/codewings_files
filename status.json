@@ -579,5 +579,19 @@
     "link": "https://testflight.apple.com/join/K5bloOXm",
     "clickCount": 3,
     "betaAvailable": "open"
+  },
+  {
+    "name": "SweeLOL(β)Just Do it 4 the LOL",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1c/9a/221c9af0-ac1d-cf19-365c-170fe451f64c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/FT9n1ncG",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "fortitude - simple journal",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/88/3e9e881b-e813-7b88-236b-8f6dc4d23edf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/IO9jqeaB",
+    "clickCount": 5,
+    "betaAvailable": "open"
   }
 ]
