@@ -278,5 +278,19 @@
     "link": "https://testflight.apple.com/join/vRH6kJVa",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Symbol Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/53/8e/d2538eeb-f29e-2151-89ea-872e08ac62a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/oKCyZkRa",
+    "clickCount": 20,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Devomon Callisto",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c7/4e/fe/c74efe98-b367-5262-1b1f-f1c445096766/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zP1EuUwb",
+    "clickCount": 15,
+    "betaAvailable": "open"
   }
 ]
