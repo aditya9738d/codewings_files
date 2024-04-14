@@ -1181,5 +1181,19 @@
     "link": "https://testflight.apple.com/join/ISWpAxRP",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Carnets - Jupyter (with scipy)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/41/28/584128f7-8c49-d3b6-7af2-0a99854f90dd/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UbNIjkjp",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Foursquare City Guide",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/49/9b/8e499bcd-8617-8a57-7cca-579691da6651/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/At7rr385",
+    "clickCount": 14,
+    "betaAvailable": "open"
   }
 ]
