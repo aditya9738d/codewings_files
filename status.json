@@ -2021,5 +2021,19 @@
     "link": "https://testflight.apple.com/join/1SyedSId",
     "clickCount": 0,
     "betaAvailable": "full"
+  },
+  {
+    "name": "Photoroom: AI Photo Editor",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/50/f6/af50f66b-ab92-841d-d1da-7dd64b47c785/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/guZ2IygR",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "・MEGA・",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/4c/a1/bd4ca1b2-2ca1-5171-0769-cf9d38d221d3/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4x1P5Tnx",
+    "clickCount": 0,
+    "betaAvailable": "full"
   }
 ]
