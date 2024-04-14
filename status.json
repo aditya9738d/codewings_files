@@ -677,5 +677,19 @@
     "link": "https://testflight.apple.com/join/5yab6pxu",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Mikuture",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/56/47/d2564798-ecae-ade4-5911-c3aee228fb65/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jRN2sLGz",
+    "clickCount": 20,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Sentinel: Decentralized VPN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/21/d9/f4/21d9f41a-b343-1d8a-d56d-d5d712db1fce/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/CHRhpwKQ",
+    "clickCount": 2,
+    "betaAvailable": "open"
   }
 ]
