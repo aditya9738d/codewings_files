@@ -1307,5 +1307,19 @@
     "link": "https://testflight.apple.com/join/qfPzqQM0",
     "clickCount": 37,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Flipper Mobile App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/65/66/3d6566c5-1aa2-17a8-82a7-0b2b6b649188/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/oLyR7YeT",
+    "clickCount": 52,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Chronosphere - Clocks",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/b9/a0/1eb9a00c-0c30-265b-ae68-b024f2286ffc/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Mwfy3L0V",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
