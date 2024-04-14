@@ -1,3 +1,7 @@
+- **Ulysses: Writing App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/49/a5/7149a538-86dd-76db-023d-c8d690640e5b/Ulysses-Release-0-0-1x_U007emarketing-0-0-0-6-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A0Dru9VV)
+- **Idle Iktah beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/78/16/317816e5-aad8-dc53-0aa2-aa4e3e570fb0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
+- **Picsart AI Photo Video Editor beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6d/2c/8b6d2c04-b897-ce6b-06e2-9dc691841a58/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
+
 - **Composer: Automate Trades beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/4f/6d/b54f6db9-0939-f561-730c-5dccba4083f1/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
 
 - **Suwatte beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/10/e2/8310e2a5-7b6a-3271-eaf4-ac1b10e47457/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
@@ -44,7 +48,3 @@
 - **Hoarder App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/30/95/fd30957a-ddd2-5593-4ad4-0c08a75c01f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QifpNxAT)
 
 - **EMOTIV Launcher beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/97/4b/9e974bf8-0786-453f-f692-898dd31aa82c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jSL0XTP9)
-- **Swapple - Word Puzzle Game beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3c/0f/e43c0feb-7a5e-ede7-baad-98d13ab994c1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XU84IqaM)
-- **E. beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/e3/3b/05e33b13-3fe6-ff58-7f38-323405794c2c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7KmHv0CZ)
-
-- **Muse Teams beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/30/77/a830776b-21e1-5608-5d6d-abb6725c0ec8/AppIcon.beta-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r2JeOEbm)
