@@ -54,5 +54,19 @@
     "link": "https://testflight.apple.com/join/qC1ZnReJ",
     "clickCount": 580,
     "betaAvailable": "full"
+  },
+  {
+    "name": "Facebook",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/aa/a1/46aaa120-e7ef-980f-07c6-02782106d147/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/C1a3MRG4",
+    "clickCount": 44,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Readwise Reader",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/05/0e/63050ebd-75e7-83c7-9ef6-e951bdc24057/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NSeQo22d",
+    "clickCount": 14,
+    "betaAvailable": "open"
   }
 ]
