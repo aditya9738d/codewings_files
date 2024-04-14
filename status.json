@@ -733,5 +733,19 @@
     "link": "https://testflight.apple.com/join/4rdyJbDf",
     "clickCount": 94,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Heat — Ask Anything",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/b6/4d/eab64d1a-4076-2d3a-5f64-348e78fb62b3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/AX9JftGk",
+    "clickCount": 2,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "DriverApp Dev",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/80/f7/da80f73b-a97e-00ec-dab8-dcb2305f92cc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VPSg1dyq",
+    "clickCount": 73,
+    "betaAvailable": "open"
   }
 ]
