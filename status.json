@@ -2238,5 +2238,19 @@
     "link": "https://testflight.apple.com/join/jhiYnxfr",
     "clickCount": 5,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Sticky Notes App + Note Widget",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/c5/b7/8bc5b7d5-a80c-0e56-d3c5-43028c1bec44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Y9EO4f8w",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "YabiVision",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/05/4d/ff054d8d-5f36-ed66-a980-1874adf38c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/AtFppKIy",
+    "clickCount": 1,
+    "betaAvailable": "open"
   }
 ]
