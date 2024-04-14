@@ -418,5 +418,19 @@
     "link": "https://testflight.apple.com/join/lHvBcW7U",
     "clickCount": 2,
     "betaAvailable": "full"
+  },
+  {
+    "name": "Matrixport",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/80/1f/43801ff2-5051-9deb-681b-f917e109caf4/AppIcon-TF-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/s5rARDvM",
+    "clickCount": 30,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Ohere Wallet - Pay & Get Paid",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/3d/10/b33d10e7-d1ea-787d-05ef-7a9e45aa6009/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jsf7ZPVr",
+    "clickCount": 1,
+    "betaAvailable": "open"
   }
 ]
