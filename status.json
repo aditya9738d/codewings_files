@@ -1559,5 +1559,19 @@
     "link": "https://testflight.apple.com/join/Xpg1aGvf",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Picsart AI Photo Video Editor beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6d/2c/8b6d2c04-b897-ce6b-06e2-9dc691841a58/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/d4gDz5s7",
+    "clickCount": 0,
+    "betaAvailable": "full"
+  },
+  {
+    "name": "Composer: Automate Trades beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/4f/6d/b54f6db9-0939-f561-730c-5dccba4083f1/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/nnQC498c",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
