@@ -2371,5 +2371,19 @@
     "link": "https://testflight.apple.com/join/I0939Yj3",
     "clickCount": 10,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Liên Quân Mobile AMIBOT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/0b/fa/7a0bfa8b-7a4b-a78d-6184-282aba364f60/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ccCiEuDr",
+    "clickCount": 4,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Occto",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/0b/e8/8f0be8ad-b19e-06b6-22fc-e273e1828fa3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/HPbYkfzz",
+    "clickCount": 3,
+    "betaAvailable": "open"
   }
 ]
