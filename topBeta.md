@@ -1,3 +1,7 @@
+- **The Kings Wants To Laugh beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/98/3f/08983f93-ec13-b025-e24b-687c0ffc6390/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTqcj6u2)
+- **Facebook beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/59/07/2c590756-cbc6-bb2c-4924-c051ac3ecf35/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
+- **NroChat beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/e6/ce/d2e6ce54-b5a3-4be4-b86a-b7d31fb45f21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PPfQVoNB)
+
 - **La Terminal - SSH Client beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c6/1f/9ec61f5f-1890-f8b7-4f89-e4f076aee2f0/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cpPS8YnX)
 - **GCash Mobile beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/b6/d0/1cb6d06d-52b6-5ed8-27f2-4c18916032d4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPda0z4L)
 - **Trello: organize anything! beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/fb/46/89fb46e6-c45a-e28d-07b9-f4d9476a03b8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
