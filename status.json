@@ -1454,5 +1454,19 @@
     "link": "https://testflight.apple.com/join/BgReQFnF",
     "clickCount": 20,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Manga Clash - Warrior Arena",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/49/81/3749819f-3416-1cd0-df9b-8a666f02d580/AppIcon-1x_U007emarketing-0-7-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/htIpxyDx",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Notes - Sight Reading Trainer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/2f/2c/8e2f2c48-940f-0fe8-4ce8-688a19b0e042/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/l4ad6sxi",
+    "clickCount": 2,
+    "betaAvailable": "open"
   }
 ]
