@@ -26,5 +26,19 @@
     "link": "https://testflight.apple.com/join/b6bWpoHB",
     "clickCount": 23,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Hookymia",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/95/90/c6959005-ed86-5fce-7200-790d648ba4f5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Myp9NrwZ",
+    "clickCount": 6,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Life360: Find Friends & Family",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/8f/5e/668f5e04-1353-2743-d248-cb7216ef03cf/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/syX6IOJF",
+    "clickCount": 3,
+    "betaAvailable": "open"
   }
 ]
