@@ -2483,5 +2483,19 @@
     "link": "https://testflight.apple.com/join/QifpNxAT",
     "clickCount": 12,
     "betaAvailable": "open"
+  },
+  {
+    "name": "IITC-Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/5b/37/525b37ba-0feb-3569-e8c3-3cb0b7dac3ac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UOHpFy01",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Mini Militia Classic",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/d4/0a/f5d40a00-fbc1-7578-79da-9172bafadead/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mTdIgovd",
+    "clickCount": 118,
+    "betaAvailable": "full"
   }
 ]
