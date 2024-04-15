@@ -1,3 +1,6 @@
+- **Rumble Beans beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f7/49/22f7493c-833b-2a9f-aeb7-6a808714e95f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/L8E6pwG8)
+- **Revolut: Send, spend and save beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/f5/6a/03f56ac2-5348-d532-adba-44b1f6e01bc2/AppIcon-Production-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
+
 - **YakiHonne beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/43/47/60434750-d2ca-1743-2175-567b067cd81b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tcXozZIu)
 
 - **Norton 360 Security & VPN beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/6a/a1/226aa11e-5247-9970-ae1c-fd58ea1056e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
@@ -45,5 +48,3 @@
 - **SingNow - Hát kara duet & live beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/82/61/c88261bb-8998-edd1-d401-3d9961946627/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/0bQ7WqlC)
 
 - **Ulysses: Writing App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/49/a5/7149a538-86dd-76db-023d-c8d690640e5b/Ulysses-Release-0-0-1x_U007emarketing-0-0-0-6-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A0Dru9VV)
-- **Idle Iktah beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/78/16/317816e5-aad8-dc53-0aa2-aa4e3e570fb0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
-- **Picsart AI Photo Video Editor beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6d/2c/8b6d2c04-b897-ce6b-06e2-9dc691841a58/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
