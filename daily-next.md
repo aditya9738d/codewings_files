@@ -1,3 +1,5 @@
+- **YakiHonne beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/43/47/60434750-d2ca-1743-2175-567b067cd81b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tcXozZIu)
+
 - **Norton 360 Security & VPN beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/6a/a1/226aa11e-5247-9970-ae1c-fd58ea1056e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
 
 - **Balance: Meditation & Sleep beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f2/d6/51f2d60b-3149-e6eb-9f70-be065fd80340/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5V7gW8Zc)
@@ -45,5 +47,3 @@
 - **Ulysses: Writing App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/49/a5/7149a538-86dd-76db-023d-c8d690640e5b/Ulysses-Release-0-0-1x_U007emarketing-0-0-0-6-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A0Dru9VV)
 - **Idle Iktah beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/78/16/317816e5-aad8-dc53-0aa2-aa4e3e570fb0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
 - **Picsart AI Photo Video Editor beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6d/2c/8b6d2c04-b897-ce6b-06e2-9dc691841a58/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
-
-- **Composer: Automate Trades beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/4f/6d/b54f6db9-0939-f561-730c-5dccba4083f1/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
