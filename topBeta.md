@@ -1,3 +1,5 @@
+- **Dupay Pro beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/50/2b/ab502b61-90f4-f37e-3569-6aefa8d6718b/AppIcon_pro-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LpdH6PGp)
+
 - **MAFC CRM beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/9a/8a/859a8af5-9314-e43f-7cce-987b9a1c5cff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V0RkG8PS)
 
 - **eDispatches beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/a3/85/80a3855a-35ef-c6e1-018f-0daf73c44904/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ah3T3o1b)
