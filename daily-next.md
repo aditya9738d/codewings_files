@@ -1,3 +1,6 @@
+- **Balance: Meditation & Sleep beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f2/d6/51f2d60b-3149-e6eb-9f70-be065fd80340/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5V7gW8Zc)
+- **GameScent beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/f7/b9/d9f7b999-76b7-b420-0bfc-ad4a047ea8cc/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QMLqUfts)
+
 - **MPL: Rummy, Poker, Patti Games beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/c5/ea/f8c5eac0-b4af-bf51-4001-fef826398387/AppIcon-1x_U007ephone-0-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/j6Pz6p3E)
 
 - **Lovewick: Relationship App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/c7/63/70c76376-0a1b-591d-5d09-f6b5506c89a2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W8EmsRMa)
@@ -44,6 +47,3 @@
 - **Composer: Automate Trades beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/4f/6d/b54f6db9-0939-f561-730c-5dccba4083f1/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
 
 - **Suwatte beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/10/e2/8310e2a5-7b6a-3271-eaf4-ac1b10e47457/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
-
-- **Geotag Alpha for Sony beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/72/4d/c0724ded-f522-51ee-d95e-02d5a7c6e011/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0Fht2ff6)
-- **AstreOS beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZsGh6uYD)
