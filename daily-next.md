@@ -1,3 +1,5 @@
+- **Lovewick: Relationship App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/c7/63/70c76376-0a1b-591d-5d09-f6b5506c89a2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W8EmsRMa)
+
 - **Dupay Pro beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/50/2b/ab502b61-90f4-f37e-3569-6aefa8d6718b/AppIcon_pro-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LpdH6PGp)
 
 - **MAFC CRM beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/9a/8a/859a8af5-9314-e43f-7cce-987b9a1c5cff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V0RkG8PS)
@@ -45,6 +47,3 @@
 - **AstreOS beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZsGh6uYD)
 
 - **Harbour - Docker Manager beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/9d/cb/7a9dcbc6-9b2d-bdb2-77a4-0fccc35bdcf0/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/F2vK7xo4)
-
-- **iReal Pro beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e1/40/a8/e140a885-2f00-867e-ac8e-94c24f02786b/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
-- **Palphone beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/ba/5f/f8ba5f90-b93e-4c3f-a7ee-23abfd61ee78/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVw2duqr)
