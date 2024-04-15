@@ -2903,5 +2903,19 @@
     "link": "https://testflight.apple.com/join/4zbCXvXw",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "The Kings Wants To Laugh beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/98/3f/08983f93-ec13-b025-e24b-687c0ffc6390/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hTqcj6u2",
+    "clickCount": 4,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Facebook beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/59/07/2c590756-cbc6-bb2c-4924-c051ac3ecf35/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/C1a3MRG4",
+    "clickCount": 15,
+    "betaAvailable": "open"
   }
 ]
