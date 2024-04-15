@@ -1,3 +1,6 @@
+- **Balance: Meditation & Sleep beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f2/d6/51f2d60b-3149-e6eb-9f70-be065fd80340/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5V7gW8Zc)
+- **GameScent beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/f7/b9/d9f7b999-76b7-b420-0bfc-ad4a047ea8cc/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QMLqUfts)
+
 - **MPL: Rummy, Poker, Patti Games beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/c5/ea/f8c5eac0-b4af-bf51-4001-fef826398387/AppIcon-1x_U007ephone-0-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/j6Pz6p3E)
 
 - **Lovewick: Relationship App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/c7/63/70c76376-0a1b-591d-5d09-f6b5506c89a2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W8EmsRMa)
