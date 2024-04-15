@@ -2763,5 +2763,19 @@
     "link": "https://testflight.apple.com/join/d2yNd4lK",
     "clickCount": 10,
     "betaAvailable": "open"
+  },
+  {
+    "name": "ZEUS Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/6b/45/056b451a-8a21-0ca3-5ac1-149d5b48a65d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/vVnODWoi",
+    "clickCount": 7,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Rồng Thần Online",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/07/42/e40742eb-ed92-167a-efea-83263488fe42/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/k8584n03",
+    "clickCount": 4,
+    "betaAvailable": "open"
   }
 ]
