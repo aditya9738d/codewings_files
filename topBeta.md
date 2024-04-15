@@ -1,3 +1,5 @@
+- **MPL: Rummy, Poker, Patti Games beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/c5/ea/f8c5eac0-b4af-bf51-4001-fef826398387/AppIcon-1x_U007ephone-0-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/j6Pz6p3E)
+
 - **Lovewick: Relationship App beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/c7/63/70c76376-0a1b-591d-5d09-f6b5506c89a2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W8EmsRMa)
 
 - **Dupay Pro beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/50/2b/ab502b61-90f4-f37e-3569-6aefa8d6718b/AppIcon_pro-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LpdH6PGp)
