@@ -1,3 +1,7 @@
+- **Norton 360 Security & VPN beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/6a/a1/226aa11e-5247-9970-ae1c-fd58ea1056e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
+- **Power Apps beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/84/cb/cf84cb47-fc40-e403-7e58-91e642944b17/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/u0qAVQC6)
+- **Hunky City beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/1c/29/681c2952-6111-b6bb-c335-36a0a93c17e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/FYQR89fn)
+
 - **Gama Bingo beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ed/0b/f6ed0bea-8ba9-c89e-d6dd-169e9940b613/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3XiyIWZD)
 - **IMDb: Movies & TV Shows beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/31/93/483193c3-cd38-21bf-9a3e-5d221790c992/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
 - **Feditext beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/59/74/ba59743b-d19a-3cbc-d557-c76fcca7a17f/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3Ik3KBjj)
@@ -43,7 +47,3 @@
 - **Photoroom: AI Photo Editor beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/d6/23/fad623bf-ef69-4c36-dfb0-4f8ac6be4406/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zKKyigKN)
 
 - **SchoolMate – Ace the Day beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/cb/7c/4acb7c2e-7fd4-d4d8-8a6b-f1b593dffb5c/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WZcoUcHQ)
-
-- **Screeps Observer beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/33/26/073326d6-2a22-3b32-aaed-f138dc57edde/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/u4GlOWaL)
-
-- **My McDonald's QA beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/e2/cb/a5e2cb9e-048f-8fcf-aa70-a57d0717e85f/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ftRKu5mE)
