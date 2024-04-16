@@ -1,3 +1,7 @@
+- **Steps+ beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/e0/83/79e0838e-f910-3227-1dde-68ebcb3b8132/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jNEMGh4b)
+- **Zello Walkie Talkie beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/82/fe/e982fed4-b29e-1d64-dc99-4a45c0a274c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Tux4moG)
+- **Camera Companion BETA beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/f1/17/09f117f4-21a5-f8c7-5d4e-35818b024ea9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z18Ngj0N)
+
 - **Innov8tifIDV beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/4e/ce/8b4eceeb-342e-728d-eabb-b50d4375175b/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ViWOvrlu)
 
 - **Ngọc Rồng Fiona. beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/d2/e3/4fd2e319-366f-2eef-e01b-531d7380a88b/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UDDdSKNn)
@@ -43,8 +47,3 @@
 - **WordPress – Website Builder beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/cc/e0/52cce074-7c8c-ee03-ee37-6aa061b06119/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
 - **Wink - Video Enhancing Tool beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/65/64/85656468-793f-1754-25d1-2c2d8386a186/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
 - **Cinema Time beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/6c/a3/886ca376-f279-5890-dcdf-04dccfbeac69/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/prtbcetS)
-
-- **PanTiltZoom beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/34/92/3e3492c5-81ea-68e4-d206-81f7625560de/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZUtNX7V2)
-- **YabiVision beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/05/4d/ff054d8d-5f36-ed66-a980-1874adf38c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AtFppKIy)
-
-- **Zenmoney: expense tracker beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/c2/67/e8c26797-c7de-0962-ddb3-0dd935a7e94c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UNbjeBue)
