@@ -1,2 +1,2 @@
-- **SchoolMate – Ace the Day**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/cb/7c/4acb7c2e-7fd4-d4d8-8a6b-f1b593dffb5c/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WZcoUcHQ)
+- **Keyboard Shortcuts - OneTap**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/67/4c/14674ca8-22a1-4161-c72e-83834ba0e83d/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/zEo7CayM)
 
