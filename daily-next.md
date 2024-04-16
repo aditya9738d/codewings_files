@@ -1,3 +1,5 @@
+- **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/d8/97/e0d897be-edb7-9319-77b5-4752eaf4d34a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
+
 - **AstreOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZsGh6uYD)
 - **QQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/15/90/ca15903a-38d2-1cb3-3285-a34d83087dee/AppIcon-1-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5PhziWQM)
 - **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/44/0b/f1440b00-5209-bdfc-dd43-55290bb0cb4b/AppIcon-all-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
@@ -46,5 +48,3 @@
 - **MAFC CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/9a/8a/859a8af5-9314-e43f-7cce-987b9a1c5cff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V0RkG8PS)
 
 - **The Kings Wants To Laugh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/98/3f/08983f93-ec13-b025-e24b-687c0ffc6390/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTqcj6u2)
-- **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/59/07/2c590756-cbc6-bb2c-4924-c051ac3ecf35/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
-- **NroChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/e6/ce/d2e6ce54-b5a3-4be4-b86a-b7d31fb45f21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PPfQVoNB)
