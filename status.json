@@ -2605,7 +2605,7 @@
   },
   {
     "name": "Voxel Max - 3D Modeling",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/79/07/a17907dc-d204-d6d5-0978-b64069adf484/AppIcon-0-1x_U007epad-0-0-0-10-0-0-P3-85-220-0.png/200x200bb-80.png",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/2b/c5/6d2bc551-c729-2099-be5a-f1b96e49f504/AppIcon-0-1x_U007epad-0-0-0-10-0-0-P3-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/TdNA6XSC",
     "clickCount": 3,
     "betaAvailable": "full"
@@ -3169,5 +3169,12 @@
     "link": "https://testflight.apple.com/join/Do48rouk",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Riveo | Video Effects Enhancer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/70/52/ae7052af-d83f-9b21-6629-de973ec35e4c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/v6ceOm4r",
+    "clickCount": 1,
+    "betaAvailable": "full"
   }
 ]
