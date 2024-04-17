@@ -2619,7 +2619,7 @@
   },
   {
     "name": "WordPress – Website Builder",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/46/1a/c4461a4d-0f23-620f-c377-0b0f096f83ba/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/cc/e0/52cce074-7c8c-ee03-ee37-6aa061b06119/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/AkJQt8Pw",
     "clickCount": 4,
     "betaAvailable": "open"
@@ -3147,6 +3147,13 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/e2/cb/a5e2cb9e-048f-8fcf-aa70-a57d0717e85f/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ftRKu5mE",
     "clickCount": 0,
+    "betaAvailable": "full"
+  },
+  {
+    "name": "Wink - Video Enhancing Tool",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/65/64/85656468-793f-1754-25d1-2c2d8386a186/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ZviH3WzG",
+    "clickCount": 1,
     "betaAvailable": "full"
   }
 ]
