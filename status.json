@@ -3127,5 +3127,12 @@
     "link": "https://testflight.apple.com/join/j6Pz6p3E",
     "clickCount": 0,
     "betaAvailable": "full"
+  },
+  {
+    "name": "MAFC CRM",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/9a/8a/859a8af5-9314-e43f-7cce-987b9a1c5cff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/V0RkG8PS",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
