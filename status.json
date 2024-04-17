@@ -155,7 +155,7 @@
   },
   {
     "name": "Screeps Observer",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/42/c6/ea42c6dd-4335-936c-ab57-22f31c02dbfe/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/33/26/073326d6-2a22-3b32-aaed-f138dc57edde/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/u4GlOWaL",
     "clickCount": 7,
     "betaAvailable": "open"
@@ -3141,5 +3141,12 @@
     "link": "https://testflight.apple.com/join/gPda0z4L",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "My McDonald's QA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/e2/cb/a5e2cb9e-048f-8fcf-aa70-a57d0717e85f/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ftRKu5mE",
+    "clickCount": 0,
+    "betaAvailable": "full"
   }
 ]
