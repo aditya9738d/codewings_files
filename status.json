@@ -3162,5 +3162,12 @@
     "link": "https://testflight.apple.com/join/s0ijUrAi",
     "clickCount": 1,
     "betaAvailable": "full"
+  },
+  {
+    "name": "WEB.DE Mail & Cloud",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/cb/ec/3bcbec22-5794-1f96-1fb4-7d4148930c84/WEBDE_MAIL_AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Do48rouk",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
