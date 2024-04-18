@@ -759,14 +759,14 @@
     "name": "fortitude",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e3/91/71e391bd-2bb3-78e1-a2b2-dea1e795094c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/IO9jqeaB",
-    "clickCount": 84,
+    "clickCount": 85,
     "betaAvailable": "open"
   },
   {
     "name": "Hyena VPN-secure & fast",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a5/d9/9ba5d9e8-4c90-47ae-1ac1-f7cc954172e1/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/zRvqNj4y",
-    "clickCount": 1,
+    "clickCount": 2,
     "betaAvailable": "error"
   },
   {
