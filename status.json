@@ -3239,5 +3239,12 @@
     "link": "https://testflight.apple.com/join/p2C7aFDw",
     "clickCount": 462,
     "betaAvailable": "full"
+  },
+  {
+    "name": "Metro Staging",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/1a/04/b11a040f-3643-3c1e-394f-9440184d1ee9/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/0jTIOXG5",
+    "clickCount": 1,
+    "betaAvailable": "open"
   }
 ]
