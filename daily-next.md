@@ -1,3 +1,5 @@
+- **Neon - Color Picker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/a6/9c/53a69c2d-6be9-9562-df6a-3f342b0f8373/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p3t93K3L)
+
 - **Proximus+ Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/b9/07/52b9073d-1efb-a40b-5905-c086d32ea90a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/toywNocd)
 
 - **Metro Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/1a/04/b11a040f-3643-3c1e-394f-9440184d1ee9/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0jTIOXG5)
@@ -46,5 +48,3 @@
 - **Camera Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/f1/17/09f117f4-21a5-f8c7-5d4e-35818b024ea9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z18Ngj0N)
 
 - **Innov8tifIDV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/4e/ce/8b4eceeb-342e-728d-eabb-b50d4375175b/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ViWOvrlu)
-
-- **Ngọc Rồng Fiona.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/d2/e3/4fd2e319-366f-2eef-e01b-531d7380a88b/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UDDdSKNn)
