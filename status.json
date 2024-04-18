@@ -2349,7 +2349,7 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/95/da/b595dae9-8e50-8746-9744-6d8e70b5e3c5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ocj3yptn",
     "clickCount": 0,
-    "betaAvailable": "full"
+    "betaAvailable": "open"
   },
   {
     "name": "Das E-Rezept",
@@ -2418,7 +2418,7 @@
     "name": "SkyDemon",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/b6/cf/88b6cfa5-038c-770f-b279-e522099e8178/AppIcons-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/hz1uLaJX",
-    "clickCount": 2,
+    "clickCount": 3,
     "betaAvailable": "open"
   },
   {
