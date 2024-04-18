@@ -1,3 +1,5 @@
+- **Proximus+ Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/b9/07/52b9073d-1efb-a40b-5905-c086d32ea90a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/toywNocd)
+
 - **Metro Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/1a/04/b11a040f-3643-3c1e-394f-9440184d1ee9/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0jTIOXG5)
 
 - **Swiggy Food, Grocery & Dineout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/21/ad/e2/21ade2f8-1708-3622-97ec-f1dc19a0fc25/AppIcon_testflight-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IERuiSEL)
