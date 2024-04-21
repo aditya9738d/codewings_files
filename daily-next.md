@@ -1,3 +1,5 @@
+- **AliExpress Shopping App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/07/a4/7707a481-294f-150e-12cc-fae099020872/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TFhYeUyJ)
+
 - **Hyalocare**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/5e/43/655e43e4-3aeb-3bce-078c-2b1c16add00c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UAy33SuS)
 
 - **Keka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/21/cc/d121ccf1-f1e6-4b3c-42fb-68a0483d4dc1/Keka-iOS-Smile-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPYINGCJ)
@@ -46,5 +48,3 @@
 - **Harbour - Docker Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/9d/cb/7a9dcbc6-9b2d-bdb2-77a4-0fccc35bdcf0/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/F2vK7xo4)
 
 - **Norton 360 Security & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/6a/a1/226aa11e-5247-9970-ae1c-fd58ea1056e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
-- **Power Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/84/cb/cf84cb47-fc40-e403-7e58-91e642944b17/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/u0qAVQC6)
-- **Hunky City**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/1c/29/681c2952-6111-b6bb-c335-36a0a93c17e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/FYQR89fn)
