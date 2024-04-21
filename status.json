@@ -2306,7 +2306,7 @@
     "name": "Feditext",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/59/74/ba59743b-d19a-3cbc-d557-c76fcca7a17f/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/3Ik3KBjj",
-    "clickCount": 3,
+    "clickCount": 7,
     "betaAvailable": "open"
   },
   {
@@ -2692,7 +2692,7 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/e0/83/79e0838e-f910-3227-1dde-68ebcb3b8132/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jNEMGh4b",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "not accepting"
   },
   {
     "name": "beboConnect",
