@@ -1,3 +1,5 @@
+- **V-Guardian EVO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/07/e5/0007e502-2c7e-bcb3-8003-95822a9d7f7a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n7ZP4qBe)
+
 - **Fast Vpn Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a1/79/27a17902-9c75-a371-227a-fea9e287fb32/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v6hQPX5p)
 
 - **Avare - Journal Map**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/28/b2/e228b283-8ab9-49da-b099-120cd3537ab9/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/kQF1GrAT)
@@ -46,5 +48,3 @@
 
 - **Cinema Time**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/6c/a3/886ca376-f279-5890-dcdf-04dccfbeac69/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/prtbcetS)
 - **DEXART Metaverse**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/18/50/701850ec-66ff-233c-a2b0-6f41bf332343/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ntsoqpNK)
-
-- **EMOTIV Launcher**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/97/4b/9e974bf8-0786-453f-f692-898dd31aa82c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jSL0XTP9)
