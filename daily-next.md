@@ -1,3 +1,5 @@
+- **Keka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/21/cc/d121ccf1-f1e6-4b3c-42fb-68a0483d4dc1/Keka-iOS-Smile-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPYINGCJ)
+
 - **Texts.com: Unified Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/89/55/478955a7-cb6f-86ff-db2b-fe560f6eff05/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j15QDhZq)
 
 - **BandLab – Music Making Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/06/ad/f906ad21-8c5a-a243-3e93-103b71abe2a3/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BwbEj9Xx)
@@ -46,5 +48,3 @@
 - **Hunky City**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/1c/29/681c2952-6111-b6bb-c335-36a0a93c17e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/FYQR89fn)
 
 - **Gama Bingo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ed/0b/f6ed0bea-8ba9-c89e-d6dd-169e9940b613/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3XiyIWZD)
-- **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/31/93/483193c3-cd38-21bf-9a3e-5d221790c992/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
-- **Feditext**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/59/74/ba59743b-d19a-3cbc-d557-c76fcca7a17f/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3Ik3KBjj)
