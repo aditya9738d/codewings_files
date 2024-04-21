@@ -3323,5 +3323,19 @@
     "link": "https://testflight.apple.com/join/UAy33SuS",
     "clickCount": 2,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Keka",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/21/cc/d121ccf1-f1e6-4b3c-42fb-68a0483d4dc1/Keka-iOS-Smile-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/gPYINGCJ",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Texts.com: Unified Messenger",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/89/55/478955a7-cb6f-86ff-db2b-fe560f6eff05/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/j15QDhZq",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
