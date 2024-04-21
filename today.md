@@ -1,2 +1,2 @@
-- **AliExpress Shopping App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/07/a4/7707a481-294f-150e-12cc-fae099020872/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TFhYeUyJ)
+- **Avare - Journal Map**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/28/b2/e228b283-8ab9-49da-b099-120cd3537ab9/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/kQF1GrAT)
 
