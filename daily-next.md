@@ -1,3 +1,5 @@
+- **SolarEdge Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/f1/53/fef153a8-9d7d-e81a-0d94-0bdba5e85f84/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KzfUUDAC)
+
 - **Map Alarm: Maps & Open Streets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/1a/06/271a065b-b2c9-6e3c-b04d-62517123e375/AppIcon_Color1-0-0-2x_U007euniversal-0-4-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LF2SNq7J)
 
 - **V-Guardian EVO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/07/e5/0007e502-2c7e-bcb3-8003-95822a9d7f7a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n7ZP4qBe)
@@ -46,4 +48,3 @@
 
 - **AstreOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZsGh6uYD)
 - **QQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/15/90/ca15903a-38d2-1cb3-3285-a34d83087dee/AppIcon-1-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5PhziWQM)
-- **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/44/0b/f1440b00-5209-bdfc-dd43-55290bb0cb4b/AppIcon-all-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
