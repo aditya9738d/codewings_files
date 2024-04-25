@@ -3277,9 +3277,9 @@
   },
   {
     "name": "null",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
-    "link": "https://testflight.apple.com/join/mE4SHGvn",
-    "clickCount": 26,
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d1/e6/71d1e6b7-ff79-c6a4-bfc0-6c56f9357d2d/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/lod3LiB6",
+    "clickCount": 28,
     "betaAvailable": "open"
   },
   {
@@ -3378,6 +3378,13 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/1a/06/271a065b-b2c9-6e3c-b04d-62517123e375/AppIcon_Color1-0-0-2x_U007euniversal-0-4-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/LF2SNq7J",
     "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "FileTunnel",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d1/e6/71d1e6b7-ff79-c6a4-bfc0-6c56f9357d2d/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/lod3LiB6",
+    "clickCount": 5,
     "betaAvailable": "open"
   }
 ]
