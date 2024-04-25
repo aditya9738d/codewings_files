@@ -1,3 +1,5 @@
+- **Syncfusion MAUI UI Controls**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/cf/8c/facf8c85-e9ac-06cf-d8e8-4ffb95479e14/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EEOtwVNN)
+
 - **YoWindow Weather 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/58/2c/50/582c50d2-4c0e-3628-a71e-ec060cd52e94/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pFytRDso)
 
 - **Flightman Flight Crew**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/47/6c/e5476cf4-9462-afdd-b155-2a7499163471/AppIcon-Demo-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JAkLLOPT)
@@ -45,5 +47,3 @@
 - **Wink - Video AI Enhancement**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/01/31/be013150-53eb-57a5-8789-d2f8b0e29e6c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
 
 - **RoQoL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d1/f9/5ad1f93a-2530-51e7-5f29-2d88eb9d0ea4/AppIcon-1x_U007emarketing-0-7-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/53H1QbUr)
-
-- **Misty lite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/fe/bc/8ffebc0d-8def-a955-fec1-4a8b724bcf9c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKNtU9TX)
