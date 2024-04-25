@@ -1,3 +1,5 @@
+- **حريص | Haris**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/7e/64/a37e644f-beb3-3072-6f68-eb635fa52d63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RY3wcLr5)
+
 - **Walbi: AI Crypto Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/18/4e/6d184e66-81e3-bc9a-ae89-0af3e84d2942/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QRbXi8u3)
 
 - **Syncfusion MAUI UI Controls**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/cf/8c/facf8c85-e9ac-06cf-d8e8-4ffb95479e14/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EEOtwVNN)
@@ -45,5 +47,3 @@
 - **Metro Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/1a/04/b11a040f-3643-3c1e-394f-9440184d1ee9/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0jTIOXG5)
 
 - **Swiggy Food, Grocery & Dineout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/21/ad/e2/21ade2f8-1708-3622-97ec-f1dc19a0fc25/AppIcon_testflight-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IERuiSEL)
-
-- **Wink - Video AI Enhancement**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/01/31/be013150-53eb-57a5-8789-d2f8b0e29e6c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
