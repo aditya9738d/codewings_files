@@ -1,3 +1,5 @@
+- **Spezi Template Application**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/56/f1/3956f198-de64-fa36-1e1a-4bd71846d8a4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ipEezBY1)
+
 - **AMT Mobile V3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/db/d1/1adbd1b1-c808-3fd3-9555-c858106cec45/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PwQllkbR)
 
 - **حريص | Haris**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/7e/64/a37e644f-beb3-3072-6f68-eb635fa52d63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RY3wcLr5)
