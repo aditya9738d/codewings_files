@@ -1,3 +1,5 @@
+- **Ninja School**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/6e/ef/e66eefd9-f38c-7e97-c628-17a8c3a1f059/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/O1jTSJWE)
+
 - **Spezi Template Application**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/56/f1/3956f198-de64-fa36-1e1a-4bd71846d8a4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ipEezBY1)
 
 - **AMT Mobile V3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/db/d1/1adbd1b1-c808-3fd3-9555-c858106cec45/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PwQllkbR)
@@ -45,5 +47,3 @@
 - **GroupMe**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/e5/78/78e578af-2b11-eae7-5f95-d6b46f90e7b8/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6CcTotfX)
 
 - **Neon - Color Picker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/a6/9c/53a69c2d-6be9-9562-df6a-3f342b0f8373/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p3t93K3L)
-
-- **Proximus+ Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/b9/07/52b9073d-1efb-a40b-5905-c086d32ea90a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/toywNocd)
