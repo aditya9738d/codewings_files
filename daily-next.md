@@ -1,3 +1,5 @@
+- **Ngọc Rồng Hyper...**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/ea/cb/74eacb35-8374-7e1b-16e1-671efffa5749/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UDDdSKNn)
+
 - **iPlayTV AIO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/29/b5/b929b53b-aae9-1a06-317a-99a9ce32ee31/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/irMsXGg0)
 
 - **Deskmodder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/68/dd/ab68dddd-2742-6009-aa24-379d29a99b96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m0B6XJbE)
@@ -45,5 +47,3 @@
 - **Avare - Journal Map**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/28/b2/e228b283-8ab9-49da-b099-120cd3537ab9/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/kQF1GrAT)
 
 - **AliExpress Shopping App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/07/a4/7707a481-294f-150e-12cc-fae099020872/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TFhYeUyJ)
-
-- **Hyalocare**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/5e/43/655e43e4-3aeb-3bce-078c-2b1c16add00c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UAy33SuS)
