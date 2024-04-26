@@ -3279,7 +3279,7 @@
     "name": "null",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d1/e6/71d1e6b7-ff79-c6a4-bfc0-6c56f9357d2d/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/lod3LiB6",
-    "clickCount": 28,
+    "clickCount": 29,
     "betaAvailable": "open"
   },
   {
@@ -3483,6 +3483,13 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/0e/31/1e0e31b5-e278-2a12-6822-b29b2451a4af/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/e6YpifHl",
     "clickCount": 5,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "JEFIT Workout Planner Gym Log",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bb/f9/40/bbf9403b-021d-4e38-8741-68dc0fa1f696/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/xQf8YqKR",
+    "clickCount": 1,
     "betaAvailable": "open"
   }
 ]
