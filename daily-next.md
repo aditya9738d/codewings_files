@@ -1,3 +1,5 @@
+- **猫爷TRPG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/4b/21/864b21b5-7016-9878-ae01-38d2f79cc506/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hn7bVbdd)
+
 - **Telenet TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/3d/59/5f3d59ca-614e-9e9e-c894-e538fc707d87/AppIcon-telenet-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nYWzw0px)
 
 - **Ngọc Rồng Hyper...**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/ea/cb/74eacb35-8374-7e1b-16e1-671efffa5749/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UDDdSKNn)
@@ -45,5 +47,3 @@
 - **V-Guardian EVO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/07/e5/0007e502-2c7e-bcb3-8003-95822a9d7f7a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n7ZP4qBe)
 
 - **Fast Vpn Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a1/79/27a17902-9c75-a371-227a-fea9e287fb32/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v6hQPX5p)
-
-- **Avare - Journal Map**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/28/b2/e228b283-8ab9-49da-b099-120cd3537ab9/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/kQF1GrAT)
