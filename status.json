@@ -3356,7 +3356,7 @@
     "name": "Fast Vpn Demo",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a1/79/27a17902-9c75-a371-227a-fea9e287fb32/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/v6hQPX5p",
-    "clickCount": 41,
+    "clickCount": 44,
     "betaAvailable": "open"
   },
   {
@@ -3364,7 +3364,7 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/28/b2/e228b283-8ab9-49da-b099-120cd3537ab9/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.jpeg/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/kQF1GrAT",
     "clickCount": 0,
-    "betaAvailable": "full"
+    "betaAvailable": "open"
   },
   {
     "name": "SolarEdge Go",
