@@ -2125,7 +2125,7 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/75/c7/0475c7ce-8914-63d5-156e-b83970866999/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/zsGw53Sw",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "error"
   },
   {
     "name": "CCClubs",
