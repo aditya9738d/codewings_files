@@ -1,3 +1,6 @@
+- **绿联私有云**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/3a/70/233a709f-7bd5-df10-a0d6-c5d4b8905912/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pHhy9T62)
+- **鑫数智**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/0c/6c/b30c6cfb-592d-9e76-00a6-f50bd37e496d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fQsvaIAb)
+
 - **MeetIRL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a8/fb/1f/a8fb1fe3-4cbd-08db-a049-40ecbc847a2d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w8XEqaKg)
 
 - **Eyva**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/3d/97/aa3d97ac-0ebf-1e2c-e75c-4e2057ec6513/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n8M2itWd)
@@ -45,5 +48,3 @@
 - **NotePlan - Planning with Notes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/dc/d9/83dcd9a4-6461-f8a2-77e6-8d22d67f967c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fm9q4OjE)
 
 - **Ninja School**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/6e/ef/e66eefd9-f38c-7e97-c628-17a8c3a1f059/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/O1jTSJWE)
-
-- **Spezi Template Application**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/56/f1/3956f198-de64-fa36-1e1a-4bd71846d8a4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ipEezBY1)
