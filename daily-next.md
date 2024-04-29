@@ -1,3 +1,5 @@
+- **KingPoker.Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/53/b8/fa/53b8fa49-296c-39ec-0906-f5687b49d9a9/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFIiD6km)
+
 - **Mbuntu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/81/b8/ea81b8c4-0a45-5beb-ea6f-abb73ecb820e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aDVXKCIm)
 
 - **FOLKLORE: Enjoy festivals!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/bf/21/67bf210f-f7be-01db-e834-2a2d849fbc40/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/whnVOjRc)
@@ -46,5 +48,3 @@
 - **Deskmodder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/68/dd/ab68dddd-2742-6009-aa24-379d29a99b96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m0B6XJbE)
 
 - **Knight**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/68/7e/d8687eda-71ae-fb1d-323f-16fdc8c55862/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bOzxqdei)
-
-- **MyOrderApp Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d3/88/bf/d388bfc0-5fc1-0d71-7f45-f202be893710/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YzHlJoxQ)
