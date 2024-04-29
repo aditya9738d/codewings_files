@@ -1,3 +1,5 @@
+- **YouSee Musik**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/92/ca/4992cafa-8ab9-4e1a-fbcf-e0e364c0eb5a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bUlXGEb8)
+
 - **KingPoker.Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/53/b8/fa/53b8fa49-296c-39ec-0906-f5687b49d9a9/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFIiD6km)
 
 - **Mbuntu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/81/b8/ea81b8c4-0a45-5beb-ea6f-abb73ecb820e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aDVXKCIm)
@@ -46,5 +48,3 @@
 - **iPlayTV AIO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/29/b5/b929b53b-aae9-1a06-317a-99a9ce32ee31/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/irMsXGg0)
 
 - **Deskmodder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/68/dd/ab68dddd-2742-6009-aa24-379d29a99b96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m0B6XJbE)
-
-- **Knight**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/68/7e/d8687eda-71ae-fb1d-323f-16fdc8c55862/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bOzxqdei)
