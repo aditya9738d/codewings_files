@@ -1,3 +1,5 @@
+- **Vida Journal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/6d/e8/466de8bc-c3b5-d5fb-1354-2f29ea588ead/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zBWk4QZ1)
+
 - **NTNU CVCS 2021**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/69/4f/f0694f39-7757-6699-b63c-af14f79b8468/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GkbLawaz)
 
 - **WhatsApp Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/18/c3/2f18c3e8-103d-dd67-7cf9-c81307459370/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8sLvv90R)
@@ -45,5 +47,3 @@
 - **Zeroqode Native Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/45/87/c5/4587c555-9562-c9e1-3727-e5d4c0ee0431/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/htav1QLA)
 
 - **Affinity iOS Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/19/17/dc1917b7-4bfb-8a71-ff0f-b0138a3353e2/AppIcon-0-1x_U007epad-0-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/DdFJxPLX)
-
-- **ngoc rong wow**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/42/fa/a042fa41-6d5a-daf0-f07a-85c2145fda55/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/1UKBoVDU)
