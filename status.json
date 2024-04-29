@@ -3680,5 +3680,19 @@
     "link": "https://testflight.apple.com/join/pHhy9T62",
     "clickCount": 4,
     "betaAvailable": "open"
+  },
+  {
+    "name": "鑫数智",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/0c/6c/b30c6cfb-592d-9e76-00a6-f50bd37e496d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/fQsvaIAb",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "MeetIRL",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a8/fb/1f/a8fb1fe3-4cbd-08db-a049-40ecbc847a2d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/w8XEqaKg",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
