@@ -1,3 +1,5 @@
+- **Vetero° Weather**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/bc/21/68bc21ca-10e9-710d-0f6c-56f747c0c1c6/AppIcon-85-220-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/sAJWcbZ9)
+
 - **Nootti**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/54/6d/49546d95-bda7-b151-21a4-36793ba776c8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LDJGX8QV)
 
 - **YouSee Musik**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/92/ca/4992cafa-8ab9-4e1a-fbcf-e0e364c0eb5a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bUlXGEb8)
@@ -46,5 +48,3 @@
 - **Telenet TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/3d/59/5f3d59ca-614e-9e9e-c894-e538fc707d87/AppIcon-telenet-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nYWzw0px)
 
 - **Ngọc Rồng Hyper...**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/ea/cb/74eacb35-8374-7e1b-16e1-671efffa5749/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UDDdSKNn)
-
-- **iPlayTV AIO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/29/b5/b929b53b-aae9-1a06-317a-99a9ce32ee31/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/irMsXGg0)
