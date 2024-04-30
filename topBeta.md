@@ -1,3 +1,5 @@
+- **Email App –  Mail.ru**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/0f/ab/5a0fabe2-656a-b6a1-8634-7a3b56d899aa/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G04Eq2nO)
+
 - **Windmill - Best mobile booster**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/fc/04/ccfc041a-3ea9-f76a-afcf-0007edfe77da/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ATmUrGm5)
 
 - **Gigantix Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/63/ba/ed63ba33-34bf-997b-ca5c-95cde034fb34/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J48mQeRd)
