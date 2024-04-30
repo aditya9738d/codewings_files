@@ -1,3 +1,5 @@
+- **Avatar Musik**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/22/37/b222371a-7bfb-eee7-d3ba-a8aec03d54f8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/O0KKLALY)
+
 - **依米短视频**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/ba/1a/86ba1af5-9f1a-2224-17ad-ae94953e924a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8LDV312x)
 - **Compass 55. Map & GPS kit.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/5d/d8/6b5dd883-ba66-9f99-f770-b0cee480b042/offroad_AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AlVn2xFs)
 
