@@ -1,3 +1,5 @@
+- **Windmill - Best mobile booster**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/fc/04/ccfc041a-3ea9-f76a-afcf-0007edfe77da/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ATmUrGm5)
+
 - **Gigantix Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/63/ba/ed63ba33-34bf-997b-ca5c-95cde034fb34/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J48mQeRd)
 
 - **Vida Journal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/6d/e8/466de8bc-c3b5-d5fb-1354-2f29ea588ead/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zBWk4QZ1)
@@ -45,5 +47,3 @@
 - **IPSView**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/7c/5e/5e7c5e21-2194-ba45-620b-7b3e3ae0030d/AppIcon-IPSView-0-0-1x_U007emarketing-0-9-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YzBApZGy)
 
 - **(Dev) Daikin ti premia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/40/7c/40407caf-268a-93eb-30d8-23600d3a61da/AppIcon_-_Daikin_Demo-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/19OkzluX)
-
-- **Zeroqode Native Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/45/87/c5/4587c555-9562-c9e1-3727-e5d4c0ee0431/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/htav1QLA)
