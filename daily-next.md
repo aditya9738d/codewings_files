@@ -1,3 +1,5 @@
+- **rdvz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/0b/35/5e0b3557-3273-8094-3e88-edd4d800b118/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cVOUQgVD)
+
 - **Vipps MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/5f/d2/085fd24c-a27d-80d4-5833-fbc38f0a72ef/AppIconMT-Vipps-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTAYrwea)
 
 - **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/95/2f/6d952f63-74e2-a12f-d127-59397dd7ff61/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
@@ -46,5 +48,3 @@
 - **MeetIRL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a8/fb/1f/a8fb1fe3-4cbd-08db-a049-40ecbc847a2d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w8XEqaKg)
 
 - **Eyva**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/3d/97/aa3d97ac-0ebf-1e2c-e75c-4e2057ec6513/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n8M2itWd)
-
-- **Untappd - Discover Beer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/3a/2a/7a3a2a8b-1c28-317d-5ec7-3809d2cede16/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/EbIrz3mA)
