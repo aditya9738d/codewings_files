@@ -66,7 +66,7 @@
     "name": "Readwise Reader",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/4f/29/a14f291f-e014-f393-754e-0822cc9af4b5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/NSeQo22d",
-    "clickCount": 21,
+    "clickCount": 24,
     "betaAvailable": "open"
   },
   {
@@ -2342,7 +2342,7 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/0d/1e/bd0d1e67-7e1f-cd71-0ee3-f39028fa5cb7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/vWsEPv3U",
     "clickCount": 7,
-    "betaAvailable": "full"
+    "betaAvailable": "open"
   },
   {
     "name": "AstroDX-Beta (Group B)",
