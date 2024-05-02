@@ -1,3 +1,5 @@
+- **Farmacia Sucre**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/09/cc/4c09cce8-91cb-031c-22a2-dcf7241b563d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mkeLhGSF)
+
 - **eGas-Note(標準版)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/51/b7/0351b775-1917-820f-a763-8a63c891e626/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6CZTTT6G)
 
 - **rdvz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/0b/35/5e0b3557-3273-8094-3e88-edd4d800b118/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cVOUQgVD)
@@ -46,5 +48,3 @@
 
 - **绿联私有云**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/3a/70/233a709f-7bd5-df10-a0d6-c5d4b8905912/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pHhy9T62)
 - **鑫数智**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/0c/6c/b30c6cfb-592d-9e76-00a6-f50bd37e496d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fQsvaIAb)
-
-- **MeetIRL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a8/fb/1f/a8fb1fe3-4cbd-08db-a049-40ecbc847a2d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w8XEqaKg)
