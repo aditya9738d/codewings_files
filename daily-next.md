@@ -1,3 +1,5 @@
+- **Waverly**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/58/69/d358696a-94b9-bc29-a444-6f0fa7995107/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/uT8hwVyG)
+
 - **MixMob: Racer 1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/1f/7b/731f7b09-76d6-f602-c9d1-238a0f2824cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ljXumv54)
 
 - **VFeed - для ВКонтакте (VK)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/0d/23/f30d23a3-e0a8-408e-48c9-e1d58f8fa5fe/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZdC5U0fR)
@@ -46,5 +48,3 @@
 - **Vetero° Weather**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/bc/21/68bc21ca-10e9-710d-0f6c-56f747c0c1c6/AppIcon-85-220-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/sAJWcbZ9)
 
 - **Nootti**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/54/6d/49546d95-bda7-b151-21a4-36793ba776c8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LDJGX8QV)
-
-- **YouSee Musik**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/92/ca/4992cafa-8ab9-4e1a-fbcf-e0e364c0eb5a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bUlXGEb8)
