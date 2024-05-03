@@ -1,3 +1,5 @@
+- **VFeed - для ВКонтакте (VK)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/0d/23/f30d23a3-e0a8-408e-48c9-e1d58f8fa5fe/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZdC5U0fR)
+
 - **WunderLINQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/53/98/b15398a9-d193-1737-2fb9-937151386118/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Nlw5rUn2)
 
 - **Habits Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/f1/54/01f15460-885a-eb9e-69c7-fdccae3ce8a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GXGB7zzt)
@@ -46,5 +48,3 @@
 - **YouSee Musik**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/92/ca/4992cafa-8ab9-4e1a-fbcf-e0e364c0eb5a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bUlXGEb8)
 
 - **KingPoker.Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/53/b8/fa/53b8fa49-296c-39ec-0906-f5687b49d9a9/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFIiD6km)
-
-- **Mbuntu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/81/b8/ea81b8c4-0a45-5beb-ea6f-abb73ecb820e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aDVXKCIm)
