@@ -1,3 +1,5 @@
+- **Doris by dgApps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/25/a2/4725a266-e9a1-3d92-c136-3a146fe96ba1/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dTdLfvIK)
+
 - **PSX Real Estates Classified**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/df/7f/50df7fd9-944c-9340-87f7-234f2ecab15d/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qouq41dn)
 
 - **One Technical Lite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/d9/87/1cd9873a-e744-3b71-dc4f-1153af51b927/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uwpTKire)
@@ -45,6 +47,3 @@
 - **WhatsApp Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/18/c3/2f18c3e8-103d-dd67-7cf9-c81307459370/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8sLvv90R)
 
 - **Oooh: Official Group Chats**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/42/de/df42deae-3620-9586-3eba-f17eeceadcac/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dlm34fHd)
-
-- **Flickplay: Digital Characters**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/8a/09/368a090c-e5ae-3d28-9c30-6ee362a5116b/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xr5o788R)
-- **컨설텝스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/0b/fd/4d0bfd1c-7a10-34f1-945a-80c8475e5f73/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1YiOYdID)
