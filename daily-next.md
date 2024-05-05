@@ -1,3 +1,5 @@
+- **HISTORY Vault**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/56/93/9756937b-da4b-61f2-1c3d-ea072e6872a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nPNYe0PY)
+
 - **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/74/1f/e5741f0d-70bc-f694-35e7-ea1679e8a698/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
 
 - **Mage: Strength Coaching**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/c7/3a/ecc73a95-bc43-b684-b248-6ffcd90e21f6/AppIconSingle-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ELyfxQcj)
@@ -45,5 +47,3 @@
 - **Gigantix Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/63/ba/ed63ba33-34bf-997b-ca5c-95cde034fb34/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J48mQeRd)
 
 - **Vida Journal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/6d/e8/466de8bc-c3b5-d5fb-1354-2f29ea588ead/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zBWk4QZ1)
-
-- **NTNU CVCS 2021**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/69/4f/f0694f39-7757-6699-b63c-af14f79b8468/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GkbLawaz)
