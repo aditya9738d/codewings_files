@@ -1,3 +1,5 @@
+- **Hand Mirror**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/b4/5c/9cb45c82-ed3a-9bdc-419f-11aba0d41f6e/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/200x200bb-80.png)](https://testflight.apple.com/join/bnUjZUkE)
+
 - **Treegaze Cove: Merge & Craft**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/af/1f/d1af1f09-2320-25b1-ba8d-394187d6ab86/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lHd9YVcv)
 
 - **HISTORY Vault**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/56/93/9756937b-da4b-61f2-1c3d-ea072e6872a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nPNYe0PY)
@@ -45,5 +47,3 @@
 - **Email App –  Mail.ru**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/0f/ab/5a0fabe2-656a-b6a1-8634-7a3b56d899aa/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G04Eq2nO)
 
 - **Windmill - Best mobile booster**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/fc/04/ccfc041a-3ea9-f76a-afcf-0007edfe77da/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ATmUrGm5)
-
-- **Gigantix Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/63/ba/ed63ba33-34bf-997b-ca5c-95cde034fb34/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J48mQeRd)
