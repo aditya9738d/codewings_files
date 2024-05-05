@@ -1,3 +1,5 @@
+- **Starr - Smart Calculator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/56/8f/3c568ffb-6ada-90d7-1670-bae71ac09992/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/n2Ii3S0r)
+
 - **Embibe Experiments Preprod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/9e/7d/0d9e7db5-c807-76c8-91a8-f568e7e65669/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YTAYIT3R)
 
 - **Hand Mirror**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/b4/5c/9cb45c82-ed3a-9bdc-419f-11aba0d41f6e/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/200x200bb-80.png)](https://testflight.apple.com/join/bnUjZUkE)
