@@ -1,3 +1,5 @@
+- **ZONT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/8e/a1/fd8ea114-0a24-4bfc-b6a2-815b0e6ec3a6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/k4dsrhQc)
+
 - **Planny • Daily Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/75/60/7775606d-6a8e-24b1-416e-94ce96bf64d4/PlannyNew-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QFrCHo4f)
 
 - **Blixt Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/68/77/a4687769-c44c-6725-902a-86a2ca592975/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EXvGhRzS)
