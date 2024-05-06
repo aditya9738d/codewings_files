@@ -1,3 +1,5 @@
+- **Blixt Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/68/77/a4687769-c44c-6725-902a-86a2ca592975/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EXvGhRzS)
+
 - **coffey community network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/50/0a/66500a42-db4b-0be9-68ee-c7a8207cb33e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8TYRTQz5)
 
 - **Legatrix Mobile App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/0b/8d/0d0b8dd3-91dc-f52c-d722-e4d24858e7e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q5mdzbKH)
@@ -46,5 +48,3 @@
 - **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/95/2f/6d952f63-74e2-a12f-d127-59397dd7ff61/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
 
 - **Avatar Musik**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/22/37/b222371a-7bfb-eee7-d3ba-a8aec03d54f8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/O0KKLALY)
-
-- **依米短视频**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/ba/1a/86ba1af5-9f1a-2224-17ad-ae94953e924a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8LDV312x)
