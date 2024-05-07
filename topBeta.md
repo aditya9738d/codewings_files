@@ -1,3 +1,5 @@
+- **Qobuz Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/cc/98/48cc984c-47f7-be87-d0c5-3b53e481740c/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bufxnrS4)
+
 - **Nostur - Nostr client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/8c/70/288c70fe-8783-a724-9be8-e7b1a857eef0/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TyrRNCXA)
 
 - **Axm Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/91/34/d191341e-fcd3-10ac-cfa7-c7268411a585/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Bjz0XZ5v)
