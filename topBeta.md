@@ -1,3 +1,5 @@
+- **EIC App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/cf/e0/cdcfe0a9-f9ab-1a45-2642-ec278d8c31f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/B45OhL1o)
+
 - **IntraMOB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/79/74/987974dd-bc3d-6d14-cdc4-52cdf31bde9d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QH7hDuCE)
 
 - **ONLINE Ticket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/14/7b/e0147ba5-01c7-c9ae-c2d8-a988e99ec758/AppIcon-online-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YNwwlTvs)
