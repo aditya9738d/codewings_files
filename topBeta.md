@@ -1,3 +1,5 @@
+- **3x3 CubeSpeed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/5b/1e/dc5b1e26-508a-b8c7-68cb-7af43a18b778/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mIk6RkqE)
+
 - **런붕앱**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/61/b9/9761b9d2-5a96-e058-4693-78256d788f7d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9EQXG6MA)
 
 - **EIC App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/cf/e0/cdcfe0a9-f9ab-1a45-2642-ec278d8c31f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/B45OhL1o)
