@@ -1,3 +1,5 @@
+- **Nostur - Nostr client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/8c/70/288c70fe-8783-a724-9be8-e7b1a857eef0/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TyrRNCXA)
+
 - **Axm Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/91/34/d191341e-fcd3-10ac-cfa7-c7268411a585/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Bjz0XZ5v)
 
 - **3x3 CubeSpeed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/5b/1e/dc5b1e26-508a-b8c7-68cb-7af43a18b778/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mIk6RkqE)
