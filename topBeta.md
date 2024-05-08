@@ -1,3 +1,5 @@
+- **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/b2/1b/d7b21b50-ab59-4703-bc93-d95e67105cb6/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdsubPZs)
+
 - **Channel - Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/56/fe/7c56feb7-0a3b-42c2-957f-9c28ea012a98/AppIcon-staging-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DDIffbcT)
 
 - **Qobuz Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/cc/98/48cc984c-47f7-be87-d0c5-3b53e481740c/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bufxnrS4)
