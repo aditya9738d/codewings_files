@@ -256,7 +256,7 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/80/e7/f7/80e7f7e5-4725-baf6-5dfd-a27694c6238f/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/1Ex8uyu7",
     "clickCount": 54,
-    "betaAvailable": "open"
+    "betaAvailable": "error"
   },
   {
     "name": "Axiome Wallet",
