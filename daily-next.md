@@ -1,3 +1,5 @@
+- **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/b2/1b/d7b21b50-ab59-4703-bc93-d95e67105cb6/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdsubPZs)
+
 - **Channel - Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/56/fe/7c56feb7-0a3b-42c2-957f-9c28ea012a98/AppIcon-staging-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DDIffbcT)
 
 - **Qobuz Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/cc/98/48cc984c-47f7-be87-d0c5-3b53e481740c/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bufxnrS4)
@@ -46,5 +48,3 @@
 - **Doris by dgApps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/25/a2/4725a266-e9a1-3d92-c136-3a146fe96ba1/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dTdLfvIK)
 
 - **PSX Real Estates Classified**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/df/7f/50df7fd9-944c-9340-87f7-234f2ecab15d/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qouq41dn)
-
-- **One Technical Lite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/d9/87/1cd9873a-e744-3b71-dc4f-1153af51b927/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uwpTKire)
