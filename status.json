@@ -241,7 +241,7 @@
     "name": "Groq",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/9a/66/c49a6692-318a-aff6-14e0-a84bc26a61bb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Y9X0wGsi",
-    "clickCount": 15,
+    "clickCount": 17,
     "betaAvailable": "open"
   },
   {
@@ -249,7 +249,7 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/58/b1/ee/58b1eef1-4dfc-47d9-059b-bba86adaca2d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/9KdDFgbw",
     "clickCount": 21,
-    "betaAvailable": "open"
+    "betaAvailable": "full"
   },
   {
     "name": "Empty Fasting",
