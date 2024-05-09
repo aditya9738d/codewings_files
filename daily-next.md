@@ -1,3 +1,5 @@
+- **Sumo Shapes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/e0/ac/b9e0ac4c-16ae-f608-1553-5fe7051129a5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/urA1vYR8)
+
 - **Pathao Talk**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/84/d9/77/84d9779e-c3de-a75e-e890-daf2dbb84060/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/gSrptqOf)
 
 - **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/b2/1b/d7b21b50-ab59-4703-bc93-d95e67105cb6/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdsubPZs)
@@ -46,5 +48,3 @@
 - **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/74/1f/e5741f0d-70bc-f694-35e7-ea1679e8a698/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
 
 - **Mage: Strength Coaching**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/c7/3a/ecc73a95-bc43-b684-b248-6ffcd90e21f6/AppIconSingle-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ELyfxQcj)
-
-- **Doris by dgApps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/25/a2/4725a266-e9a1-3d92-c136-3a146fe96ba1/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dTdLfvIK)
