@@ -3986,14 +3986,14 @@
     "name": "Planny • Daily Planner",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/75/60/7775606d-6a8e-24b1-416e-94ce96bf64d4/PlannyNew-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/QFrCHo4f",
-    "clickCount": 0,
+    "clickCount": 1,
     "betaAvailable": "full"
   },
   {
     "name": "Blixt Wallet",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/68/77/a4687769-c44c-6725-902a-86a2ca592975/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/EXvGhRzS",
-    "clickCount": 1,
+    "clickCount": 4,
     "betaAvailable": "open"
   },
   {
