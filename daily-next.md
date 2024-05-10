@@ -1,3 +1,5 @@
+- **Strava: Run, Bike, Hike**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/bf/20/2abf20f2-034b-5de0-ea20-25f568a58efd/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1cjOW6Z)
+
 - **轻舟+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/48/b0/0648b0f7-ce39-4535-2253-4bc834774d26/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Woaov4M)
 
 - **Sumo Shapes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/e0/ac/b9e0ac4c-16ae-f608-1553-5fe7051129a5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/urA1vYR8)
@@ -46,5 +48,3 @@
 - **Treegaze Cove: Merge & Craft**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/af/1f/d1af1f09-2320-25b1-ba8d-394187d6ab86/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lHd9YVcv)
 
 - **HISTORY Vault**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/56/93/9756937b-da4b-61f2-1c3d-ea072e6872a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nPNYe0PY)
-
-- **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/74/1f/e5741f0d-70bc-f694-35e7-ea1679e8a698/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
