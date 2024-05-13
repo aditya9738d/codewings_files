@@ -1,3 +1,5 @@
+- **FYI.AI (Focus Your Ideas)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/09/64/060964e8-4141-3953-818c-626c540bae7e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/u7ZHibTR)
+
 - **Applaydu & Friends games**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/53/d5/e853d5e8-ca31-04a0-e1ba-f1655dc5cd8b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qwxFohAR)
 
 - **中国移动云盘-全民不限速**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/0b/89/500b89f5-8d71-288c-d954-d17e4795aa24/AppIcon-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cR3t7Cnj)
@@ -46,5 +48,3 @@
 
 - **ONLINE Ticket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/14/7b/e0147ba5-01c7-c9ae-c2d8-a988e99ec758/AppIcon-online-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YNwwlTvs)
 - **BuddyBoss App for LearnDash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/24/d3/a024d30c-ca41-f96c-a0f9-6390cee3779a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nMz29b8b)
-
-- **ZONT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/8e/a1/fd8ea114-0a24-4bfc-b6a2-815b0e6ec3a6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/k4dsrhQc)
