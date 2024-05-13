@@ -1,3 +1,5 @@
+- **Chipotle UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/61/63/73616364-8279-12a7-1b5f-3e89e4eabd20/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QmohviU2)
+
 - **TOZO Wear**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/44/24/5b44240d-34ab-2296-2a98-19de2882d198/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z0fAkLp4)
 
 - **Thập Đại Anh Hùng 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/fd/49/80fd4913-d739-6708-eb21-5007e3300a0d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAG6vC6N)
