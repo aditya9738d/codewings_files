@@ -1,3 +1,5 @@
+- **逢客签**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/d6/99/22d69906-8c45-fa85-4c81-ca190bdfcc09/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H39dsyzG)
+
 - **FYI.AI (Focus Your Ideas)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/09/64/060964e8-4141-3953-818c-626c540bae7e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/u7ZHibTR)
 
 - **Applaydu & Friends games**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/53/d5/e853d5e8-ca31-04a0-e1ba-f1655dc5cd8b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qwxFohAR)
@@ -45,6 +47,3 @@
 - **EIC App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/cf/e0/cdcfe0a9-f9ab-1a45-2642-ec278d8c31f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/B45OhL1o)
 
 - **IntraMOB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/79/74/987974dd-bc3d-6d14-cdc4-52cdf31bde9d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QH7hDuCE)
-
-- **ONLINE Ticket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/14/7b/e0147ba5-01c7-c9ae-c2d8-a988e99ec758/AppIcon-online-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YNwwlTvs)
-- **BuddyBoss App for LearnDash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/24/d3/a024d30c-ca41-f96c-a0f9-6390cee3779a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nMz29b8b)
