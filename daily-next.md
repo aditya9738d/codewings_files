@@ -1,3 +1,5 @@
+- **Applaydu & Friends games**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/53/d5/e853d5e8-ca31-04a0-e1ba-f1655dc5cd8b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qwxFohAR)
+
 - **中国移动云盘-全民不限速**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/0b/89/500b89f5-8d71-288c-d954-d17e4795aa24/AppIcon-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cR3t7Cnj)
 
 - **Học Viện TuVi Việt Nam**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/6e/b3/636eb3eb-bda3-0a89-3525-6b1c18d09a29/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rFMlokwB)
@@ -46,5 +48,3 @@
 - **BuddyBoss App for LearnDash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/24/d3/a024d30c-ca41-f96c-a0f9-6390cee3779a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nMz29b8b)
 
 - **ZONT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/8e/a1/fd8ea114-0a24-4bfc-b6a2-815b0e6ec3a6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/k4dsrhQc)
-
-- **Planny • Daily Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/75/60/7775606d-6a8e-24b1-416e-94ce96bf64d4/PlannyNew-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QFrCHo4f)
