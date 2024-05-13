@@ -1,3 +1,5 @@
+- **逢客签**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/d6/99/22d69906-8c45-fa85-4c81-ca190bdfcc09/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H39dsyzG)
+
 - **FYI.AI (Focus Your Ideas)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/09/64/060964e8-4141-3953-818c-626c540bae7e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/u7ZHibTR)
 
 - **Applaydu & Friends games**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/53/d5/e853d5e8-ca31-04a0-e1ba-f1655dc5cd8b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qwxFohAR)
