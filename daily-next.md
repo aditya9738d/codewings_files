@@ -1,3 +1,5 @@
+- **True Compliance Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/3a/91/503a9112-c31c-4d59-e74c-b521ba202727/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/etFoJxFn)
+
 - **Chipotle UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/61/63/73616364-8279-12a7-1b5f-3e89e4eabd20/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QmohviU2)
 
 - **TOZO Wear**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/44/24/5b44240d-34ab-2296-2a98-19de2882d198/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z0fAkLp4)
@@ -46,5 +48,3 @@
 - **Blixt Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/68/77/a4687769-c44c-6725-902a-86a2ca592975/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EXvGhRzS)
 
 - **coffey community network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/50/0a/66500a42-db4b-0be9-68ee-c7a8207cb33e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8TYRTQz5)
-
-- **Legatrix Mobile App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/0b/8d/0d0b8dd3-91dc-f52c-d722-e4d24858e7e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q5mdzbKH)
