@@ -4072,5 +4072,19 @@
     "link": "https://testflight.apple.com/join/MnuClabg",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Vulcanova Dzienniczek",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/ee/b8/b0eeb873-6417-5069-d406-3592e3bdccfd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/fGMjqr58",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Mlem for Lemmy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/a2/08/23a208f4-001b-95a9-5cfb-27c0027a2121/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MelFP11Y",
+    "clickCount": 23,
+    "betaAvailable": "open"
   }
 ]
