@@ -1,3 +1,5 @@
+- **TOZO Wear**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/44/24/5b44240d-34ab-2296-2a98-19de2882d198/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z0fAkLp4)
+
 - **Thập Đại Anh Hùng 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/fd/49/80fd4913-d739-6708-eb21-5007e3300a0d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAG6vC6N)
 
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/47/7e/62477e78-5c45-1f9d-eba1-4865231d96f3/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
@@ -46,5 +48,3 @@
 - **Legatrix Mobile App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/0b/8d/0d0b8dd3-91dc-f52c-d722-e4d24858e7e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q5mdzbKH)
 
 - **ABM EV OS-α**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/45/09/94/4509942d-a88c-05e2-c5e6-8a71f449879e/AppIcon-_U03b1-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sYKc2Wwz)
-
-- **Starr - Smart Calculator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/56/8f/3c568ffb-6ada-90d7-1670-bae71ac09992/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/n2Ii3S0r)
