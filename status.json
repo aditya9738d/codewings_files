@@ -4100,5 +4100,19 @@
     "link": "https://testflight.apple.com/join/0LeFdx5d",
     "clickCount": 1,
     "betaAvailable": "open"
+  },
+  {
+    "name": "RTI Dashboard",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/e1/9b/51e19bd3-ac99-2407-7e4f-977e6192ca21/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/T1YKKlZ0",
+    "clickCount": 7,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Swapple - Letter Logic Puzzles",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3c/0f/e43c0feb-7a5e-ede7-baad-98d13ab994c1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XU84IqaM",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
