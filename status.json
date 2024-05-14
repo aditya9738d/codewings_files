@@ -4170,5 +4170,12 @@
     "link": "https://testflight.apple.com/join/QmohviU2",
     "clickCount": 2,
     "betaAvailable": "open"
+  },
+  {
+    "name": "TOZO Wear",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/44/24/5b44240d-34ab-2296-2a98-19de2882d198/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/z0fAkLp4",
+    "clickCount": 1,
+    "betaAvailable": "open"
   }
 ]
