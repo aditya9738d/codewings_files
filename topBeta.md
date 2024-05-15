@@ -1,3 +1,5 @@
+- **宝能E家极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/31/20/8b312012-e271-d469-6a84-68c5fc25675a/AppIconBn-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1sHSLDnX)
+
 - **Stethophone**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/64/14/176414e6-6913-d783-32a6-098950bcbf21/UAAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/psEDgC3w)
 - **eRestro Singlevendor Rider**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/8d/cc/c98dcca6-98b4-44a0-1a51-97226381ad3b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wqMcr5at)
 
