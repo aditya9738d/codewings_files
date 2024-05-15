@@ -1,3 +1,5 @@
+- **街机三国**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/f0/a8/07f0a865-cbfc-12c4-5435-32ee877ba545/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ogxPz9Lb)
+
 - **棋路-象棋课堂**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/47/fd/6347fdfd-d951-7dd7-aaf5-5a9ad5dedd4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s9SdLije)
 
 - **宝能E家极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/31/20/8b312012-e271-d469-6a84-68c5fc25675a/AppIconBn-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1sHSLDnX)
