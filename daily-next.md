@@ -1,3 +1,5 @@
+- **宝能E家极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/31/20/8b312012-e271-d469-6a84-68c5fc25675a/AppIconBn-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1sHSLDnX)
+
 - **Stethophone**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/64/14/176414e6-6913-d783-32a6-098950bcbf21/UAAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/psEDgC3w)
 - **eRestro Singlevendor Rider**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/8d/cc/c98dcca6-98b4-44a0-1a51-97226381ad3b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wqMcr5at)
 
@@ -46,5 +48,3 @@
 - **Strava: Run, Bike, Hike**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/bf/20/2abf20f2-034b-5de0-ea20-25f568a58efd/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1cjOW6Z)
 
 - **轻舟+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/48/b0/0648b0f7-ce39-4535-2253-4bc834774d26/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Woaov4M)
-
-- **Sumo Shapes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/e0/ac/b9e0ac4c-16ae-f608-1553-5fe7051129a5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/urA1vYR8)
