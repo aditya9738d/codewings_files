@@ -1,3 +1,6 @@
+- **OSIM Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/fb/03/90fb03bf-402d-2d99-e7ed-0acbb94af9e5/AppIcon.staging-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/opxes352)
+- **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/a8/80/c1a88087-6650-6db5-eb1b-9456bd174481/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yqvol7gV)
+
 - **街机三国**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/f0/a8/07f0a865-cbfc-12c4-5435-32ee877ba545/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ogxPz9Lb)
 
 - **棋路-象棋课堂**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/47/fd/6347fdfd-d951-7dd7-aaf5-5a9ad5dedd4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s9SdLije)
