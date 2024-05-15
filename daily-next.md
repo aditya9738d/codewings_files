@@ -1,3 +1,5 @@
+- **CBRO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2a/58/8e2a5884-8da6-bfd5-3a58-5fb92817d594/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UDDdSKNn)
+
 - **Watermelon__Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/2c/66/892c66db-bdf7-605d-815a-cb80ed39f051/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zEkLhX0L)
 
 - **BuddyBoss Branding App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/3e/33/9a3e331b-207c-ffa3-0e73-651e775d1aa1/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RyFaWoIr)
@@ -45,5 +47,3 @@
 - **Pathao Talk**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/84/d9/77/84d9779e-c3de-a75e-e890-daf2dbb84060/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/gSrptqOf)
 
 - **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/b2/1b/d7b21b50-ab59-4703-bc93-d95e67105cb6/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdsubPZs)
-
-- **Channel - Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/56/fe/7c56feb7-0a3b-42c2-957f-9c28ea012a98/AppIcon-staging-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DDIffbcT)
