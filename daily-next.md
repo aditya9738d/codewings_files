@@ -1,3 +1,5 @@
+- **EHW+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/4b/36/2c4b36c7-2f91-8feb-0c27-2fb453342f38/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JAOTh0ap)
+
 - **GRATIS GERADOR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ea/d6/75ead6eb-ab03-055d-d37f-9b87fdec3361/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G33cUkPM)
 
 - **DigiFT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/c7/18/f9c718e4-e3ff-d4a4-720e-1269ae3503ef/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KKGOWQed)
@@ -45,5 +47,3 @@
 - **True Compliance Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/3a/91/503a9112-c31c-4d59-e74c-b521ba202727/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/etFoJxFn)
 
 - **Chipotle UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/61/63/73616364-8279-12a7-1b5f-3e89e4eabd20/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QmohviU2)
-
-- **TOZO Wear**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/44/24/5b44240d-34ab-2296-2a98-19de2882d198/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z0fAkLp4)
