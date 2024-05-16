@@ -1,3 +1,5 @@
+- **Mobile2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/fa/36/68fa365b-0f9b-d51d-9818-f892a056c0ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3JRkdcDB)
+
 - **EHW+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/4b/36/2c4b36c7-2f91-8feb-0c27-2fb453342f38/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JAOTh0ap)
 
 - **GRATIS GERADOR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ea/d6/75ead6eb-ab03-055d-d37f-9b87fdec3361/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G33cUkPM)
