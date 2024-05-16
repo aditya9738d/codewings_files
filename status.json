@@ -4254,5 +4254,12 @@
     "link": "https://testflight.apple.com/join/9Ye2hljE",
     "clickCount": 1,
     "betaAvailable": "open"
+  },
+  {
+    "name": "CBRO",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2a/58/8e2a5884-8da6-bfd5-3a58-5fb92817d594/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UDDdSKNn",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
