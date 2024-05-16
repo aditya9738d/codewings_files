@@ -1,3 +1,5 @@
+- **Olya Teste**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/0b/79/fb0b795f-0340-c3a6-bca6-b20c50809758/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QLmmgWOR)
+
 - **SSH Files – Secure ShellFish**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/b9/68/90b968b5-7b98-44bb-04c8-93b51d8ad29c/AppIcon-0-0-1x_U007epad-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D12EpKaj)
 
 - **思拓新闻**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/47/34/03473451-bfd5-15d9-d04b-0d9092df7179/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jbVM8nuq)
@@ -45,5 +47,3 @@
 - **FYI.AI (Focus Your Ideas)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/09/64/060964e8-4141-3953-818c-626c540bae7e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/u7ZHibTR)
 
 - **Applaydu & Friends games**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/53/d5/e853d5e8-ca31-04a0-e1ba-f1655dc5cd8b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qwxFohAR)
-
-- **中国移动云盘-全民不限速**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/0b/89/500b89f5-8d71-288c-d954-d17e4795aa24/AppIcon-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cR3t7Cnj)
