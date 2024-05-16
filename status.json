@@ -4205,5 +4205,19 @@
     "link": "https://testflight.apple.com/join/opxes352",
     "clickCount": 13,
     "betaAvailable": "open"
+  },
+  {
+    "name": "NRO by ixxc 05",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/a8/80/c1a88087-6650-6db5-eb1b-9456bd174481/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Yqvol7gV",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "街机三国",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/f0/a8/07f0a865-cbfc-12c4-5435-32ee877ba545/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ogxPz9Lb",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
