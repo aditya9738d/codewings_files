@@ -4251,7 +4251,12 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/8d/cc/c98dcca6-98b4-44a0-1a51-97226381ad3b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/wqMcr5at",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Food"
+      ]
+    ]
   },
   {
     "name": "جامعة صبراتة",
