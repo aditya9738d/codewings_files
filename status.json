@@ -2273,7 +2273,10 @@
     "link": "https://testflight.apple.com/join/toywNocd",
     "clickCount": 3,
     "betaAvailable": "open",
-    "category": "exam"
+    "category": "exam",
+    "categories": [
+      "exampleCategory"
+    ]
   },
   {
     "name": "MuseDash Ex",
