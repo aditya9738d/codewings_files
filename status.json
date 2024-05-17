@@ -3335,8 +3335,8 @@
     "name": "Texts.com: Unified Messenger",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/89/55/478955a7-cb6f-86ff-db2b-fe560f6eff05/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/j15QDhZq",
-    "clickCount": 3,
-    "betaAvailable": "open"
+    "clickCount": 4,
+    "betaAvailable": "full"
   },
   {
     "name": "BandLab – Music Making Studio",
