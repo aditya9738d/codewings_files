@@ -1179,14 +1179,14 @@
     "name": "AirPages",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/90/0c/d9900c5b-0113-0663-d6d3-a5d7d8d3ffe8/Air1.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ISWpAxRP",
-    "clickCount": 8,
+    "clickCount": 12,
     "betaAvailable": "open"
   },
   {
     "name": "Carnets - Jupyter (with scipy)",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/41/28/584128f7-8c49-d3b6-7af2-0a99854f90dd/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/UbNIjkjp",
-    "clickCount": 1,
+    "clickCount": 2,
     "betaAvailable": "open"
   },
   {
