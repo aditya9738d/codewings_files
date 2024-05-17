@@ -2083,7 +2083,10 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/b7/78/7eb77847-10fd-56ad-5e6f-03a55b9c167d/app_icon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/IGjs9EMj",
     "clickCount": 686,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [
+      "Music"
+    ]
   },
   {
     "name": "Google Chrome",
