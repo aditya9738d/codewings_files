@@ -2083,14 +2083,7 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/b7/78/7eb77847-10fd-56ad-5e6f-03a55b9c167d/app_icon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/IGjs9EMj",
     "clickCount": 686,
-    "betaAvailable": "full",
-    "categories": [
-      "Music",
-      "Games, Finance",
-      "Education",
-      "Category 1",
-      "productivity"
-    ]
+    "betaAvailable": "full"
   },
   {
     "name": "Google Chrome",
@@ -2279,12 +2272,7 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/b9/07/52b9073d-1efb-a40b-5905-c086d32ea90a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/toywNocd",
     "clickCount": 3,
-    "betaAvailable": "open",
-    "category": "exam",
-    "categories": [
-      "exampleCategory",
-      "eategory"
-    ]
+    "betaAvailable": "open"
   },
   {
     "name": "MuseDash Ex",
