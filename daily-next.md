@@ -1,3 +1,5 @@
+- **Device Management App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/e4/20/94e4201e-a2c7-51d0-062e-5448af0a4304/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZspSdWIi)
+
 - **LCVirtual**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/b2/ae/20b2aeb1-089a-fe95-6d1a-e3e144bb961f/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/v1NLZ1Xb)
 
 - **VPBank Jarvis SalesApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/1e/fc/b11efced-98cf-a0e8-5692-2906f1eb15a5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nlZsButl)
@@ -45,5 +47,3 @@
 - **CBRO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2a/58/8e2a5884-8da6-bfd5-3a58-5fb92817d594/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UDDdSKNn)
 
 - **Watermelon__Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/2c/66/892c66db-bdf7-605d-815a-cb80ed39f051/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zEkLhX0L)
-
-- **BuddyBoss Branding App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/3e/33/9a3e331b-207c-ffa3-0e73-651e775d1aa1/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RyFaWoIr)
