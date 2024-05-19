@@ -3301,7 +3301,12 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/p2C7aFDw",
     "clickCount": 535,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Games"
+      ]
+    ]
   },
   {
     "name": "Metro Staging",
