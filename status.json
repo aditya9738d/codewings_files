@@ -4452,5 +4452,19 @@
     "link": "https://testflight.apple.com/join/84QZJuDs",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "MOMO陌陌",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/74/f5/9374f582-ad30-ddb5-36b4-93a5a3513422/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/SSBILyY3",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Device Management App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/e4/20/94e4201e-a2c7-51d0-062e-5448af0a4304/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ZspSdWIi",
+    "clickCount": 7,
+    "betaAvailable": "open"
   }
 ]
