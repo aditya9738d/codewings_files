@@ -52,16 +52,8 @@
     "name": "Minecraft Preview",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/7f/d0/5b7fd080-7c13-901c-f6a1-86f38d94ffea/AppIcon-beta-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/qC1ZnReJ",
-    "clickCount": 1544,
-    "betaAvailable": "full",
-    "categories": [
-      [
-        "Art & Design"
-      ],
-      [
-        "Games"
-      ]
-    ]
+    "clickCount": 1571,
+    "betaAvailable": "full"
   },
   {
     "name": "Facebook",
