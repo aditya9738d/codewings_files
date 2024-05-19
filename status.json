@@ -4438,5 +4438,19 @@
     "link": "https://testflight.apple.com/join/3JRkdcDB",
     "clickCount": 1,
     "betaAvailable": "open"
+  },
+  {
+    "name": "[DEV] Mental Vision",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/b9/10/e1b9105e-2ed2-0c1e-f6b3-c6d3b656890f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jEZtTnwk",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Legal Smoke Guide",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/0e/05/5b0e05be-3e30-16f6-af35-5677422c57df/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/84QZJuDs",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
