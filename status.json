@@ -2162,7 +2162,12 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/8a/60/318a6006-8fe9-ee72-def2-d5f7947464a4/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/p7hGbZUR",
     "clickCount": 442,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Chat"
+      ]
+    ]
   },
   {
     "name": "Plex: Watch Live TV and Movies",
