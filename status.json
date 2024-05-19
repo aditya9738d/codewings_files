@@ -615,16 +615,8 @@
     "name": "Nyx VPN",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/12/3a/bf123a7c-3d6f-23f9-75a5-cb679987c352/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/2aE0bm76",
-    "clickCount": 325,
-    "betaAvailable": "not accepting",
-    "categories": [
-      [
-        "Utility"
-      ],
-      [
-        "Utility"
-      ]
-    ]
+    "clickCount": 329,
+    "betaAvailable": "not accepting"
   },
   {
     "name": "Split Cash",
