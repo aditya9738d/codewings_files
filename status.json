@@ -1084,23 +1084,15 @@
     "name": "GeoGroups",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/9d/5e/4a9d5e6f-bf42-119e-928d-c8f3d074dbe3/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/8RdWY0qK",
-    "clickCount": 8,
+    "clickCount": 9,
     "betaAvailable": "open"
   },
   {
     "name": "IMDb",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/5c/2d/f95c2d45-30ae-fc74-2d1c-8fe5deb06d3d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Y9yo0X5t",
-    "clickCount": 198,
-    "betaAvailable": "open",
-    "categories": [
-      [
-        "Entertainment"
-      ],
-      [
-        "Productivity"
-      ]
-    ]
+    "clickCount": 207,
+    "betaAvailable": "open"
   },
   {
     "name": "PotClock",
