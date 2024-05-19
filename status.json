@@ -468,16 +468,8 @@
     "name": "Carbon Browser",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/4e/4d/004e4d54-7f08-105b-654a-61dd2de74cfb/AppIcon_Carbon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Nd0sc84V",
-    "clickCount": 55,
-    "betaAvailable": "open",
-    "categories": [
-      [
-        "Browser"
-      ],
-      [
-        "Developer"
-      ]
-    ]
+    "clickCount": 56,
+    "betaAvailable": "open"
   },
   {
     "name": "BerryLab",
