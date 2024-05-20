@@ -3484,7 +3484,12 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/6e/ef/e66eefd9-f38c-7e97-c628-17a8c3a1f059/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/O1jTSJWE",
     "clickCount": 35,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Entertainment"
+      ]
+    ]
   },
   {
     "name": "Spezi Template Application",
