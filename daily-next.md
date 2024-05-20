@@ -1,3 +1,5 @@
+- **Wallet 3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/c0/99/26c099d2-7b1c-5389-455e-7997ebb7115a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5acvlgyK)
+
 - **TerraMow**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/f3/cb/fff3cbd2-fe8d-4a07-d213-9325e741937e/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a22IhpE2)
 
 - **[DEV] Mental Vision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/b9/10/e1b9105e-2ed2-0c1e-f6b3-c6d3b656890f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jEZtTnwk)
@@ -45,6 +47,3 @@
 - **棋路-象棋课堂**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/47/fd/6347fdfd-d951-7dd7-aaf5-5a9ad5dedd4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s9SdLije)
 
 - **宝能E家极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/31/20/8b312012-e271-d469-6a84-68c5fc25675a/AppIconBn-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1sHSLDnX)
-
-- **Stethophone**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/64/14/176414e6-6913-d783-32a6-098950bcbf21/UAAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/psEDgC3w)
-- **eRestro Singlevendor Rider**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/8d/cc/c98dcca6-98b4-44a0-1a51-97226381ad3b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wqMcr5at)
