@@ -1,3 +1,5 @@
+- **DKU FedCampus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/9a/8a/859a8a48-890b-b8bb-7263-39b0d86300f9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/veDJckxp)
+
 - **plappa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/b1/9f/dcb19fcd-2026-ba37-ca97-eddf4d1f85a5/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CPlREvRs)
 
 - **Wallet 3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/c0/99/26c099d2-7b1c-5389-455e-7997ebb7115a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5acvlgyK)
@@ -45,5 +47,3 @@
 - **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/a8/80/c1a88087-6650-6db5-eb1b-9456bd174481/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yqvol7gV)
 
 - **街机三国**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/f0/a8/07f0a865-cbfc-12c4-5435-32ee877ba545/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ogxPz9Lb)
-
-- **棋路-象棋课堂**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/47/fd/6347fdfd-d951-7dd7-aaf5-5a9ad5dedd4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s9SdLije)
