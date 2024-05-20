@@ -2479,19 +2479,10 @@
         "Business"
       ],
       [
-        "Business"
-      ],
-      [
-        "Entertainment"
-      ],
-      [
         "Entertainment"
       ],
       [
         "Files & cloud"
-      ],
-      [
-        "Video"
       ],
       [
         "Video"
@@ -2541,7 +2532,7 @@
     "betaAvailable": "full",
     "categories": [
       [
-        "Game"
+        "Games"
       ]
     ]
   },
@@ -3260,7 +3251,7 @@
     "betaAvailable": "full",
     "categories": [
       [
-        "Game"
+        "Games"
       ]
     ]
   },
@@ -3293,7 +3284,7 @@
     "betaAvailable": "full",
     "categories": [
       [
-        "Game"
+        "Games"
       ]
     ]
   },
@@ -3490,7 +3481,7 @@
         "Entertainment"
       ],
       [
-        "Game"
+        "Games"
       ]
     ]
   },
@@ -3676,9 +3667,6 @@
     "clickCount": 722,
     "betaAvailable": "full",
     "categories": [
-      [
-        "Developer"
-      ],
       [
         "Developer"
       ]
