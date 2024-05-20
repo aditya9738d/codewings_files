@@ -3696,22 +3696,8 @@
     "name": "WhatsApp Messenger",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/18/c3/2f18c3e8-103d-dd67-7cf9-c81307459370/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/8sLvv90R",
-    "clickCount": 677,
-    "betaAvailable": "full",
-    "categories": [
-      [
-        "Business"
-      ],
-      [
-        "Chat"
-      ],
-      [
-        "Social Networking"
-      ],
-      [
-        "Utility"
-      ]
-    ]
+    "clickCount": 722,
+    "betaAvailable": "full"
   },
   {
     "name": "Oooh: Official Group Chats",
