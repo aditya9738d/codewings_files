@@ -2018,13 +2018,13 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b0/1b/97b01b41-3e4f-7c06-9259-5f2674df3aa0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/km3LkqB1",
     "clickCount": 0,
-    "betaAvailable": "full"
+    "betaAvailable": "open"
   },
   {
     "name": "Spotify - Music and Podcasts",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/77/e9/bb77e94c-02a2-5aaf-4864-3fd61a2b3581/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/1SyedSId",
-    "clickCount": 41,
+    "clickCount": 44,
     "betaAvailable": "full"
   },
   {
