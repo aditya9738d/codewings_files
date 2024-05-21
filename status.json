@@ -4405,5 +4405,19 @@
     "link": "https://testflight.apple.com/join/KsuaylTZ",
     "clickCount": 4,
     "betaAvailable": "full"
+  },
+  {
+    "name": "OrangeX: Buy Bitcoin & Crypto",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/fc/eb/f3fceb86-bade-c10a-d671-477dd513d993/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/BCQWwfAw",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Onto",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/a9/ad/0da9ad75-f762-e647-5111-5602e279c461/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1QL1gXrP",
+    "clickCount": 4,
+    "betaAvailable": "open"
   }
 ]
