@@ -155,7 +155,6 @@
 
 - **Thập Đại Anh Hùng 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/fd/49/80fd4913-d739-6708-eb21-5007e3300a0d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAG6vC6N)
 
-- **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/47/7e/62477e78-5c45-1f9d-eba1-4865231d96f3/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 
 - **Vulcanova Dzienniczek**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/ee/b8/b0eeb873-6417-5069-d406-3592e3bdccfd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fGMjqr58)
 
@@ -370,7 +369,6 @@
 
 - **Hyalocare**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/5e/43/655e43e4-3aeb-3bce-078c-2b1c16add00c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UAy33SuS)
 
-- **Keka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/21/cc/d121ccf1-f1e6-4b3c-42fb-68a0483d4dc1/Keka-iOS-Smile-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPYINGCJ)
 
 - **Texts.com: Unified Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/89/55/478955a7-cb6f-86ff-db2b-fe560f6eff05/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j15QDhZq)
 
@@ -625,7 +623,6 @@
 - **OctaVPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/bf/f0/74bff03d-e5c2-272c-8d6c-99045e23ad4f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BhLLjqAX)
 - **GolfClubInfoTracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/e1/4d/11e14d98-468c-e873-f731-6834f60a759b/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WMOXFHTN)
 - **dot.dot.dot.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/13/55/781355d0-a5b0-97c6-2ed8-4e4977131c36/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/Fc48B6AB)
-- **Indo-NonOfficiel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/27/35/c72735ee-85a9-692e-f639-30c75764ecce/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hpb1XZzf)
 - **Groq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/9a/66/c49a6692-318a-aff6-14e0-a84bc26a61bb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9X0wGsi)
 - **musicat.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/58/b1/ee/58b1eef1-4dfc-47d9-059b-bba86adaca2d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9KdDFgbw)
 - **Empty Fasting**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/80/e7/f7/80e7f7e5-4725-baf6-5dfd-a27694c6238f/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Ex8uyu7)
@@ -654,7 +651,6 @@
 - **Cali - Your new calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/f8/7e/3bf87e29-7fe5-e06c-d797-c75c79a446aa/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yKXoESUD)
 - **Sila for Twitch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/01/e1/c901e16d-664b-2f7a-fee0-46748b84654f/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/tvPhZZ8w)
 - **Carbon Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/4e/4d/004e4d54-7f08-105b-654a-61dd2de74cfb/AppIcon_Carbon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Nd0sc84V)
-- **BerryLab**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/1d/5c/a21d5cc1-f9ca-59b4-b5c1-9b780f9a27bb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bqbgDzME)
 - **Circle Finance**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/88/ff/c288ffad-447f-008d-e51d-8973c20d0f08/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t9LweeB5)
 - **Hatchy Rampage**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/fb/1d/31fb1d6a-fad6-0e5a-e8f2-080d204f5528/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FPHPdI0s)
 - **TiTi App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/64/67/60/6467601b-2a38-d3ce-1fec-70f29326445b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NeXUqMRv)- **musicat.ai for Apple Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/cf/b0/b4cfb07d-e486-7a4d-08ae-ca1c9e646b72/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9KdDFgbw)
@@ -663,13 +659,10 @@
 - **AppMySite - My Web-to-App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/58/52/30/585230db-208a-d99b-eb9f-d60931f54435/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/1cvKgAXc)
 - **Flakey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/8c/9a/4c8c9ae2-859e-68f3-d462-f5354ff14191/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TGOVnAxT)
 - **Get Hello World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/8c/ff/3b8cff4a-65e7-ad30-cb71-ddcae3b27c05/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oRFmpWfV)
-- **BOG X**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/84/81/b28481bd-fdc0-91f6-bbde-5d0d1628b916/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r7gWXcHK)
 - **Any Recipe Keeper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/83/c7/5683c795-3d68-3988-27e7-e24d60d9e563/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eedsEgLh)
 - **Monetum**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/27/89/fe2789d1-a761-07ed-d04b-80381d074c50/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Av9ileb2)
 - **Notesnook: Private note taking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/09/d9/7209d914-9454-f2e6-08e6-d28b18ac6412/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tYrz0XXl)
 - **onchain vision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/e5/5e/ade55e2f-a48c-ca6a-62a8-82e3fd853bad/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/HinmLjRA)
-- **ALVR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/a4/6a/86a46a66-b326-95c0-1915-52239b8efc9b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/YoK2nuX6)
-- **ChatyN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/2a/e1/e62ae11e-73da-2386-ca7c-573400107148/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O1KUa1m3)
 - **FUTO Circles**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/bb/66/0ebb6655-e987-447d-9fdf-a8b5cc8c0b5d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S2UzoBaG)
 - **Febriq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/a5/d5/0da5d50d-00da-ea62-98dc-4e33734f9faa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5bloOXm)
 - **SweeLOL(β)Just Do it 4 the LOL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1c/9a/221c9af0-ac1d-cf19-365c-170fe451f64c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FT9n1ncG)
@@ -714,7 +707,6 @@
 - **Mirá**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/a4/c4/97a4c4bd-c9be-dee6-868b-c44c3fd0ef67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vRH6kJVa)
 - **雀乐**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/e4/e7/47e4e7ff-1825-e8f8-306f-855e3c8bad10/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cnPFNQvl)
 - **Soulver 3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/c3/4a/39c34a62-c8b0-a17a-cedb-d0729d67a499/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Vlb55Wtr)
-- **ToneBarrier**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/78/ef/7d78ef21-5134-af55-a8ad-c158b67c6090/ToneBarrierAppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LqGKPwdG)
 - **Cue - Text Reminders**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/05/45/da05457b-eb1a-8107-5f46-896c59333780/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9u7vbYkh)
 - **ArithFi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/83/3f/3a/833f3ad3-0d92-7d97-8a03-c88f483538ea/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SEb1TLyN)
 - **wdym chat (testflight)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/05/09/ce0509af-f3b0-0dc0-1eaf-ce4dc34d512e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p4RyyKRz)
