@@ -1,3 +1,5 @@
+- **OrangeX: Buy Bitcoin & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/fc/eb/f3fceb86-bade-c10a-d671-477dd513d993/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BCQWwfAw)
+
 - **Onto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/a9/ad/0da9ad75-f762-e647-5111-5602e279c461/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/1QL1gXrP)
 
 - **Cyou-你的声音 我的世界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/bf/f9/38bff942-9fad-478f-f1c6-5694c54bb776/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2xcieDcU)
@@ -46,5 +48,3 @@
 - **EHW+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/4b/36/2c4b36c7-2f91-8feb-0c27-2fb453342f38/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JAOTh0ap)
 
 - **GRATIS GERADOR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ea/d6/75ead6eb-ab03-055d-d37f-9b87fdec3361/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G33cUkPM)
-
-- **DigiFT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/c7/18/f9c718e4-e3ff-d4a4-720e-1269ae3503ef/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KKGOWQed)
