@@ -4447,5 +4447,19 @@
     "link": "https://testflight.apple.com/join/6xQslzME",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Satsuma Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/b5/a1/94b5a18b-6373-fbbb-55e5-a26079d20f8b/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/QfWYprVO",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Changelog Publisher",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/89/8e/cc898e15-eecd-74e0-ec92-a3027240f874/AppIcon-0-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4YdmtpbZ",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
