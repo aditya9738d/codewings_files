@@ -4734,5 +4734,19 @@
     "link": "https://testflight.apple.com/join/TXiRrJ2e",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Photos Backup Anywhere",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/91/96/f49196be-d580-5577-2bf6-29af370bf66c/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/TcDH3ccO",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Marklog",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b0/13/54b013e4-a76e-29a8-101c-75e723548bb0/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1OQuD2vJ",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
