@@ -4482,5 +4482,19 @@
     "link": "https://testflight.apple.com/join/huBwl3If",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Vultisig",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/72/9a/79729a24-0257-2e7e-0b05-85192360525a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/CHHICwnO",
+    "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "VibeStir",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/70/c1/4f70c1af-e77e-ebac-729a-113bcaac3e40/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JUr8BK4D",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
