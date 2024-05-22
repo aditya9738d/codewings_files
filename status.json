@@ -561,9 +561,9 @@
   },
   {
     "name": "ChatyN",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/2a/e1/e62ae11e-73da-2386-ca7c-573400107148/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/c6/3f/bac63f61-95fd-b2fe-93a6-69db9bb93932/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/O1KUa1m3",
-    "clickCount": 69,
+    "clickCount": 70,
     "betaAvailable": "open"
   },
   {
@@ -4656,6 +4656,13 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/09/a4/a909a407-cdef-36d8-a5c8-858e84ad9d95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/T8Op14Wg",
     "clickCount": 1,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Cake Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/3b/a9/693ba9fe-824a-a39f-7336-5354b495e157/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/f9yFYx9H",
+    "clickCount": 0,
     "betaAvailable": "open"
   }
 ]
