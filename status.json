@@ -554,7 +554,7 @@
   },
   {
     "name": "ALVR",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/a4/6a/86a46a66-b326-95c0-1915-52239b8efc9b/AppIcon.lsr/200x200bb-80.png",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/02/fe/7802fedd-b195-184b-30d5-255138eeebcb/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/YoK2nuX6",
     "clickCount": 7,
     "betaAvailable": "open"
@@ -4677,6 +4677,13 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/55/29/f455299e-7947-9a0d-dfdd-d04269270904/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/e5OHNkaF",
     "clickCount": 2,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "TerraTrek",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/ff/ab/7bffabed-2fb9-8bbf-0fe6-c9b3cf798326/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/7jIs4sEX",
+    "clickCount": 0,
     "betaAvailable": "open"
   }
 ]
