@@ -4608,5 +4608,19 @@
     "link": "https://testflight.apple.com/join/7d8q3YuD",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "GSequencer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/9e/3e/629e3e7d-6cdb-7f2a-deff-11f3a1d0f55c/GSequencer.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/kIXRfXaz",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Finqalab",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/f3/d8/f7f3d81f-5b1c-72cd-57d0-f63b132038fc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Drb81A3W",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
