@@ -232,7 +232,7 @@
   },
   {
     "name": "Indo-NonOfficiel",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/27/35/c72735ee-85a9-692e-f639-30c75764ecce/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/37/b4/0e37b4ad-1f01-651a-a812-7d94729fe4a2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Hpb1XZzf",
     "clickCount": 2,
     "betaAvailable": "open"
@@ -4522,6 +4522,13 @@
     "name": "Satpile - BTC Balance Tracker",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/cb/e9/d9cbe9ee-bca9-f0c6-ad26-ea74c9df19ff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/t64ljQX9",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Raseel",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/12/57/7c1257b3-da3b-5471-f443-42ea5d9fb050/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/P0SFs7G8",
     "clickCount": 0,
     "betaAvailable": "open"
   }
