@@ -4643,5 +4643,19 @@
     "link": "https://testflight.apple.com/join/doaG1qHl",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Futy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/e2/bd/00e2bd86-8250-561e-f6c8-5487249aae10/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/p27wWTGd",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Freebox Files",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/09/a4/a909a407-cdef-36d8-a5c8-858e84ad9d95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/T8Op14Wg",
+    "clickCount": 1,
+    "betaAvailable": "open"
   }
 ]
