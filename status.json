@@ -4664,5 +4664,19 @@
     "link": "https://testflight.apple.com/join/f9yFYx9H",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "RuBaRu",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/62/a2/5462a2eb-df01-f591-0c7f-e8ebdfcb0539/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mbz7OTlH",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Hiddify",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/55/29/f455299e-7947-9a0d-dfdd-d04269270904/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/e5OHNkaF",
+    "clickCount": 2,
+    "betaAvailable": "open"
   }
 ]
