@@ -1,3 +1,5 @@
+- **Lyd - Vision Remote for Sonos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6e/57/186e571c-a4b9-8e00-5d34-ab0854c3cb45/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NDTrJKcG)
+
 - **OrangeX: Buy Bitcoin & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/fc/eb/f3fceb86-bade-c10a-d671-477dd513d993/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BCQWwfAw)
 
 - **Onto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/a9/ad/0da9ad75-f762-e647-5111-5602e279c461/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/1QL1gXrP)
@@ -46,5 +48,3 @@
 - **Mobile2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/fa/36/68fa365b-0f9b-d51d-9818-f892a056c0ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3JRkdcDB)
 
 - **EHW+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/4b/36/2c4b36c7-2f91-8feb-0c27-2fb453342f38/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JAOTh0ap)
-
-- **GRATIS GERADOR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ea/d6/75ead6eb-ab03-055d-d37f-9b87fdec3361/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G33cUkPM)
