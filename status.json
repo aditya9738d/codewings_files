@@ -4298,19 +4298,14 @@
     "name": "Bike Hills",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/16/aa/3616aaba-cc88-50fd-1742-8d36ecbcb5aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/rV7NDoNp",
-    "clickCount": 2,
-    "betaAvailable": "open",
-    "categories": [
-      [
-        "Games"
-      ]
-    ]
+    "clickCount": 9,
+    "betaAvailable": "open"
   },
   {
     "name": "Zapit Food Delivery",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/87/1d/c2871d2e-1d01-363b-d72a-aa56531a7adb/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/dsR5F5FV",
-    "clickCount": 0,
+    "clickCount": 2,
     "betaAvailable": "open"
   },
   {
