@@ -456,7 +456,7 @@
   },
   {
     "name": "BerryLab",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/1d/5c/a21d5cc1-f9ca-59b4-b5c1-9b780f9a27bb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/70/d6/8770d637-f902-b8d0-594c-ed4ff16068ad/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/bqbgDzME",
     "clickCount": 23,
     "betaAvailable": "open"
@@ -4635,6 +4635,13 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/9f/29/289f2944-2f25-5b85-3abd-3f69ba527425/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/FZy2TE8m",
     "clickCount": 16,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Nachos and Movies",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/55/ea/6855ea0f-c70e-41f4-acaa-9ca93d50d93e/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/doaG1qHl",
+    "clickCount": 0,
     "betaAvailable": "open"
   }
 ]
