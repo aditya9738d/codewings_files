@@ -4566,5 +4566,19 @@
     "link": "https://testflight.apple.com/join/iMT7hNzC",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Teletable",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/eb/cd/26ebcd03-3451-4a99-b5c8-db36b7b6543b/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/V8V9fqhg",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Ethos - Cinematic Music",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/83/64/7283642e-4f47-6585-3ea8-1f42063574d2/EthosAppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jiLbZFB7",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
