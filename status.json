@@ -4081,7 +4081,7 @@
   },
   {
     "name": "Termius: Terminal & SSH client",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/47/7e/62477e78-5c45-1f9d-eba1-4865231d96f3/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/13/2c/3e132cb4-fb59-93c2-8a93-a64d91f27c35/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/MnuClabg",
     "clickCount": 3,
     "betaAvailable": "open"
@@ -4725,6 +4725,13 @@
     "name": "Decipher AI News",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/e0/96/8ae096f0-25df-63b1-1021-b69a357e8e4c/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/9l9ci5dq",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Lunch: Let's Grab Lunch",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/b8/9f/abb89f80-3d9e-9f16-6cb2-3a4849eaf8e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/TXiRrJ2e",
     "clickCount": 0,
     "betaAvailable": "open"
   }
