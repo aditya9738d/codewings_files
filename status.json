@@ -4594,5 +4594,19 @@
     "link": "https://testflight.apple.com/join/eTFLYHzw",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "AmanaTa",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/03/1a/8a031a04-4fe6-51de-43dd-a44a1f6361ad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/7BbyzYKv",
+    "clickCount": 3,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "キズナウォッチ",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/42/f3/1d42f3f8-c87e-1604-4469-85faf0a96022/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/7d8q3YuD",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
