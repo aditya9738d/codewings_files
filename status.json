@@ -4510,5 +4510,19 @@
     "link": "https://testflight.apple.com/join/H83L59j0",
     "clickCount": 6,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Chatter Social",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/33/19/90331937-5cf8-2631-cdc1-cf6d0f23df85/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5OnpZ3vt",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Satpile - BTC Balance Tracker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/cb/e9/d9cbe9ee-bca9-f0c6-ad26-ea74c9df19ff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/t64ljQX9",
+    "clickCount": 0,
+    "betaAvailable": "open"
   }
 ]
