@@ -4496,5 +4496,19 @@
     "link": "https://testflight.apple.com/join/JUr8BK4D",
     "clickCount": 0,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Lazy Soccer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/8f/5a/b68f5a85-d258-9795-8271-ea973523143a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4YpidcKp",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "PCM Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/ec/56/6dec561b-3c7b-4fc7-81ea-c68f392644f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/H83L59j0",
+    "clickCount": 6,
+    "betaAvailable": "open"
   }
 ]
