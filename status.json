@@ -3326,7 +3326,7 @@
   },
   {
     "name": "Keka",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/21/cc/d121ccf1-f1e6-4b3c-42fb-68a0483d4dc1/Keka-iOS-Smile-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/b3/ed/fdb3ed44-ed6e-30c1-6696-e0fa43bf077c/Keka-iOS-Smile-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/gPYINGCJ",
     "clickCount": 19,
     "betaAvailable": "open"
@@ -4529,6 +4529,13 @@
     "name": "Raseel",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/12/57/7c1257b3-da3b-5471-f443-42ea5d9fb050/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/P0SFs7G8",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "Pino - DeFi Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/00/aa/8400aa77-d102-cfbb-7be7-e65144dcc270/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/2UYERVD3",
     "clickCount": 0,
     "betaAvailable": "open"
   }
