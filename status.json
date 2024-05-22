@@ -519,7 +519,7 @@
   },
   {
     "name": "BOG X",
-    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/84/81/b28481bd-fdc0-91f6-bbde-5d0d1628b916/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/3f/14/853f1479-2d53-793a-a8c9-3b6297406867/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/r7gWXcHK",
     "clickCount": 35,
     "betaAvailable": "open"
@@ -4459,6 +4459,13 @@
     "name": "Changelog Publisher",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/89/8e/cc898e15-eecd-74e0-ec92-a3027240f874/AppIcon-0-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/4YdmtpbZ",
+    "clickCount": 0,
+    "betaAvailable": "open"
+  },
+  {
+    "name": "push – workout counter",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/24/d6/2024d6e4-ac2d-3295-dce8-2e83eeee260f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/pyNg1Nhc",
     "clickCount": 0,
     "betaAvailable": "open"
   }
