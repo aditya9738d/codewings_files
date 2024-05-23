@@ -1115,14 +1115,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5c/88/2e5c88f1-8f35-7886-aac5-6c30d08dc41d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Asvav3ms",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:52:10.843Z"
   },
   {
     "name": "Tasks for Notion - To-Do List",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/20/01/ef200152-d87f-5452-141f-8fd34b3d1bf0/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ugwXyNya",
     "clickCount": 20,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:52:10.843Z"
   },
   {
     "name": "Mystro Driver: Drive & Deliver",
