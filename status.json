@@ -1942,7 +1942,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/36/f5/2e36f5b2-ce37-9019-2314-e53f10b92b44/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jXX0Wyfy",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:40:20.917Z"
   },
   {
     "name": "Suwatte",
@@ -2856,7 +2858,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/0d/1e/bd0d1e67-7e1f-cd71-0ee3-f39028fa5cb7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/vWsEPv3U",
     "clickCount": 10,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:40:20.917Z"
   },
   {
     "name": "AstroDX-Beta (Group B)",
