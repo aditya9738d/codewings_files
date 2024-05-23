@@ -1443,140 +1443,180 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/cd/4c/80cd4c81-dddd-f1f0-c70b-263b9ce1946b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/AZG7g4Bg",
     "clickCount": 39,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Icons Of Theia: Tactical RPG",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2c/e3/bb/2ce3bba0-c3ea-315d-ec2c-1b08a415d914/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/XZYouium",
     "clickCount": 0,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Applight – Next App Switcher",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/4d/0d/494d0d9c-5d84-73e9-f59f-0fef82f360e0/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/DG64k6Ag",
     "clickCount": 7,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "AirPages",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/90/0c/d9900c5b-0113-0663-d6d3-a5d7d8d3ffe8/Air1.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ISWpAxRP",
     "clickCount": 18,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Carnets - Jupyter (with scipy)",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/41/28/584128f7-8c49-d3b6-7af2-0a99854f90dd/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/UbNIjkjp",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Foursquare City Guide",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/49/9b/8e499bcd-8617-8a57-7cca-579691da6651/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/At7rr385",
     "clickCount": 20,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Al Noor Prayer",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/c4/65/c5c4658c-66bf-5371-43f2-cf8bd38cf663/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/2w56J00s",
-    "clickCount": 32,
-    "betaAvailable": "open"
+    "clickCount": 34,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "倾诉 - 纯净树洞",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/d0/05/64d005e7-a730-185e-613d-88b1c8107e42/AppIcon-0-1x_U007epad-0-10-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/wnFIC7xp",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "腾讯视频-小日子全网独播",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/66/63/3766637f-4301-6a47-5fd8-4319690dac68/AppIcon-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Hoqht2ZU",
     "clickCount": 2,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Honor of Nations - MMORPG",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/62/52/3662527f-ad0f-18e2-2b6a-954f99a86aa0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/lHJsHfmw",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Wilderless",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/4d/13/5e4d13f6-40cb-d61b-2f95-f4c983f0b966/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/8zIIxsqW",
     "clickCount": 11,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Somewhere - a place",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/f9/a9/cff9a925-9d19-395a-8897-666d56b86ba5/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/bL4c0ZbG",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Solana Crush",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/01/9b/d9019b01-fc96-06f3-c18e-65fe739dbd71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/b9gQMlQU",
     "clickCount": 4,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Foursquare Swarm: Check-in App",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/be/42/fabe42dd-9a0a-5df7-0052-071d217a5f6e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/0rRfTytM",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Opener ‒ open links in apps",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/71/ed/bf71ed8e-ca0d-e462-6349-ee95f48ed2d1/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jXivVMPE",
     "clickCount": 4,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Clash of MOland",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/72/c6/45/72c645d5-0bc6-01da-7fe4-122f87f80da0/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/IXSVtiZJ",
-    "clickCount": 17,
-    "betaAvailable": "open"
+    "clickCount": 18,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Game Of Revenge",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/65/3c/94653cb6-4679-8e7a-a77c-f4cd0091f7c7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/5uee2m5t",
-    "clickCount": 10,
-    "betaAvailable": "open"
+    "clickCount": 11,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Freebox Connect",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/2d/75/3e2d753e-0e15-c9a5-367a-96090805ab7a/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/bxifCoxH",
     "clickCount": 25,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "HDHomeRun",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/26/cb/8a26cb76-5fb9-183b-4950-2d3f25e26c2e/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/nn30hcfY",
     "clickCount": 46,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Bamboo Dragonfly",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/f5/b4/0ef5b4c9-eb75-6213-c57c-a79e5f4269b8/App_Icon-marketing.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/9yO95rQX",
     "clickCount": 5,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:57:42.843Z"
   },
   {
     "name": "Finiliar",
