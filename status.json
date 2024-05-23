@@ -2380,7 +2380,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/98/3f/08983f93-ec13-b025-e24b-687c0ffc6390/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/hTqcj6u2",
     "clickCount": 1,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T18:05:14.809Z"
   },
   {
     "name": "Adobe Acrobat Reader: Edit PDF",
@@ -3527,7 +3529,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/99/13/c79913d7-558f-ec32-e00c-76e1c5ddac44/AppIcon-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/4zbCXvXw",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T18:05:14.809Z"
   },
   {
     "name": "Camera Companion BETA",
