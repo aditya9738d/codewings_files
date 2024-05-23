@@ -4338,14 +4338,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/56/93/9756937b-da4b-61f2-1c3d-ea072e6872a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/nPNYe0PY",
     "clickCount": 126,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T12:45:22.525Z"
   },
   {
     "name": "FUT Sniping Bot",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/74/1f/e5741f0d-70bc-f694-35e7-ea1679e8a698/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/t7766iRc",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T12:45:22.525Z"
   },
   {
     "name": "Mage: Strength Coaching",
