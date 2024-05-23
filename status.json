@@ -4503,7 +4503,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/13/2c/3e132cb4-fb59-93c2-8a93-a64d91f27c35/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/MnuClabg",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "Vulcanova Dzienniczek",
@@ -4713,7 +4715,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/16/aa/3616aaba-cc88-50fd-1742-8d36ecbcb5aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/rV7NDoNp",
     "clickCount": 9,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "Zapit Food Delivery",
@@ -4769,56 +4773,78 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/b9/10/e1b9105e-2ed2-0c1e-f6b3-c6d3b656890f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jEZtTnwk",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "Legal Smoke Guide",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/0e/05/5b0e05be-3e30-16f6-af35-5677422c57df/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/84QZJuDs",
-    "clickCount": 2,
-    "betaAvailable": "open"
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "MOMO陌陌",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/74/f5/9374f582-ad30-ddb5-36b4-93a5a3513422/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/SSBILyY3",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "Device Management App",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/e4/20/94e4201e-a2c7-51d0-062e-5448af0a4304/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ZspSdWIi",
-    "clickCount": 16,
-    "betaAvailable": "open"
+    "clickCount": 30,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "LCVirtual",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/b2/ae/20b2aeb1-089a-fe95-6d1a-e3e144bb961f/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/v1NLZ1Xb",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "VPBank Jarvis SalesApp",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/1e/fc/b11efced-98cf-a0e8-5692-2906f1eb15a5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/nlZsButl",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "KaedenAteMySandwich",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/55/08/8e/55088e60-eaba-a748-03c7-5188792e4cdb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/BXq4Uq9l",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "Microsoft Designer",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/58/a7/ea58a75d-ae04-a9c5-108b-4f3317003255/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/KsuaylTZ",
-    "clickCount": 11,
-    "betaAvailable": "full"
+    "clickCount": 12,
+    "betaAvailable": "open",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-23T08:23:44.850Z"
+      }
+    ],
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "OrangeX: Buy Bitcoin & Crypto",
@@ -5244,70 +5270,90 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/91/96/f49196be-d580-5577-2bf6-29af370bf66c/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/TcDH3ccO",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "Marklog",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b0/13/54b013e4-a76e-29a8-101c-75e723548bb0/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/1OQuD2vJ",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "Party Icons",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/b0/ae/19b0ae42-5e66-d604-956d-72e3dad13ab5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/5yCOZGvM",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "BankWizCalc",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/99/56/8f995626-66e6-f4f5-c863-bee5be521e6c/TBankAppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/IviU4Oqh",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "BOSSAY",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/01/50/d10150c1-25a3-2a54-e845-75b0a0997a56/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/RCCA7SsH",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "Dishdash",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/52/b0/7352b093-ddad-168b-111c-2d9e685b716d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/u8NIoELS",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "DKU FedCampus",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/9a/8a/859a8a48-890b-b8bb-7263-39b0d86300f9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/veDJckxp",
-    "clickCount": 0,
-    "betaAvailable": "open"
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "plappa",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/b1/9f/dcb19fcd-2026-ba37-ca97-eddf4d1f85a5/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/CPlREvRs",
-    "clickCount": 4,
-    "betaAvailable": "open"
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "Wallet 3",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/c0/99/26c099d2-7b1c-5389-455e-7997ebb7115a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/5acvlgyK",
     "clickCount": 10,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "TerraMow",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/f3/cb/fff3cbd2-fe8d-4a07-d213-9325e741937e/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/a22IhpE2",
-    "clickCount": 5,
-    "betaAvailable": "open"
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:23:44.850Z"
   },
   {
     "name": "Dharamik Signal",
