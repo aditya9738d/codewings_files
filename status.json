@@ -2712,14 +2712,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/47/66/354766e2-9659-7de3-4145-5440ea5102bd/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/8Vt8hLNo",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T21:45:19.999Z"
   },
   {
     "name": "Grow My Dragon",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/02/fe/a402fe67-b135-9151-9f6a-4190a3250cd8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/loITCiZW",
     "clickCount": 4,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T21:45:19.999Z"
   },
   {
     "name": "StepVillapp",
