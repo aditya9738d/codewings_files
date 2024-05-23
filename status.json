@@ -2784,14 +2784,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/06/8a/b1068a03-3879-df36-c029-5a2a2130c1aa/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/uNYLvN6Z",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T22:05:12.450Z"
   },
   {
     "name": "EoHoursLX",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/47/36/a04736fd-d75f-77d3-b332-1cc3f87ebaa0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/4aN06VwY",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T22:05:12.450Z"
   },
   {
     "name": "Let’s Roll - Roller Skating",
