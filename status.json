@@ -4179,14 +4179,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/3d/97/aa3d97ac-0ebf-1e2c-e75c-4e2057ec6513/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/n8M2itWd",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:25:19.637Z"
   },
   {
     "name": "Untappd - Discover Beer",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/3a/2a/7a3a2a8b-1c28-317d-5ec7-3809d2cede16/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/EbIrz3mA",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:25:19.637Z"
   },
   {
     "name": "rdvz",
