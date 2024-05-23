@@ -508,35 +508,45 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/80/1f/43801ff2-5051-9deb-681b-f917e109caf4/AppIcon-TF-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/s5rARDvM",
     "clickCount": 46,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:12.224Z"
   },
   {
     "name": "Ohere Wallet - Pay & Get Paid",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/3d/10/b33d10e7-d1ea-787d-05ef-7a9e45aa6009/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jsf7ZPVr",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:13.244Z"
   },
   {
     "name": "Cali - Your new calendar",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/f8/7e/3bf87e29-7fe5-e06c-d797-c75c79a446aa/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/yKXoESUD",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:14.218Z"
   },
   {
     "name": "Sila for Twitch",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/01/e1/c901e16d-664b-2f7a-fee0-46748b84654f/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/tvPhZZ8w",
     "clickCount": 16,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:15.147Z"
   },
   {
     "name": "Carbon Browser",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/4e/4d/004e4d54-7f08-105b-654a-61dd2de74cfb/AppIcon_Carbon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Nd0sc84V",
     "clickCount": 56,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:16.092Z"
   },
   {
     "name": "BerryLab",
@@ -550,56 +560,72 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/88/ff/c288ffad-447f-008d-e51d-8973c20d0f08/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/t9LweeB5",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:17.155Z"
   },
   {
     "name": "Hatchy Rampage",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/fb/1d/31fb1d6a-fad6-0e5a-e8f2-080d204f5528/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/FPHPdI0s",
     "clickCount": 11,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:18.340Z"
   },
   {
     "name": "TiTi App",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/64/67/60/6467601b-2a38-d3ce-1fec-70f29326445b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/NeXUqMRv",
-    "clickCount": 143,
-    "betaAvailable": "open"
+    "clickCount": 146,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:19.269Z"
   },
   {
     "name": "NFTDuel Game",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/5d/88/3a5d882d-25b3-6de0-ac8e-76ce42801eff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/xEyjKgoy",
-    "clickCount": 40,
-    "betaAvailable": "open"
+    "clickCount": 41,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:20.321Z"
   },
   {
     "name": "Ask GPT Jesus",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/e9/c5/f3e9c581-464e-2d02-9bd3-5aa5e81b924f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/qX0RYRDT",
     "clickCount": 48,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:21.437Z"
   },
   {
     "name": "AppMySite - My Web-to-App",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/58/52/30/585230db-208a-d99b-eb9f-d60931f54435/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/1cvKgAXc",
     "clickCount": 13,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:22.376Z"
   },
   {
     "name": "Flakey",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/8c/9a/4c8c9ae2-859e-68f3-d462-f5354ff14191/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/TGOVnAxT",
     "clickCount": 16,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:23.350Z"
   },
   {
     "name": "Get Hello World",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/8c/ff/3b8cff4a-65e7-ad30-cb71-ddcae3b27c05/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/oRFmpWfV",
     "clickCount": 25,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:24.501Z"
   },
   {
     "name": "BOG X",
@@ -613,28 +639,36 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/83/c7/5683c795-3d68-3988-27e7-e24d60d9e563/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/eedsEgLh",
     "clickCount": 18,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:25.657Z"
   },
   {
     "name": "Monetum",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/27/89/fe2789d1-a761-07ed-d04b-80381d074c50/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Av9ileb2",
     "clickCount": 15,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:26.606Z"
   },
   {
     "name": "Notesnook: Private note taking",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/09/d9/7209d914-9454-f2e6-08e6-d28b18ac6412/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/tYrz0XXl",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:27.633Z"
   },
   {
     "name": "onchain vision",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/e5/5e/ade55e2f-a48c-ca6a-62a8-82e3fd853bad/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/HinmLjRA",
     "clickCount": 22,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:28.598Z"
   },
   {
     "name": "ALVR",
@@ -655,21 +689,27 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/bb/66/0ebb6655-e987-447d-9fdf-a8b5cc8c0b5d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/S2UzoBaG",
     "clickCount": 6,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:29.583Z"
   },
   {
     "name": "Febriq",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/a5/d5/0da5d50d-00da-ea62-98dc-4e33734f9faa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/K5bloOXm",
     "clickCount": 4,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:30.476Z"
   },
   {
     "name": "SweeLOL(β)Just Do it 4 the LOL",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1c/9a/221c9af0-ac1d-cf19-365c-170fe451f64c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/FT9n1ncG",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:49:31.808Z"
   },
   {
     "name": "fortitude - simple journal",
