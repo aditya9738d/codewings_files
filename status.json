@@ -4166,14 +4166,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/95/2f/6d952f63-74e2-a12f-d127-59397dd7ff61/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/lRG2HmW6",
     "clickCount": 5,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T13:25:16.386Z"
   },
   {
     "name": "Avatar Musik",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/22/37/b222371a-7bfb-eee7-d3ba-a8aec03d54f8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/O0KKLALY",
     "clickCount": 10,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T13:25:16.386Z"
   },
   {
     "name": "依米短视频",
