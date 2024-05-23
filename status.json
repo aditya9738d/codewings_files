@@ -3609,14 +3609,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/f7/b9/d9f7b999-76b7-b420-0bfc-ad4a047ea8cc/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/QMLqUfts",
     "clickCount": 8,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T17:50:21.224Z"
   },
   {
     "name": "MPL: Rummy, Poker, Patti Games",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/c5/ea/f8c5eac0-b4af-bf51-4001-fef826398387/AppIcon-1x_U007ephone-0-0-0-P3-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/j6Pz6p3E",
     "clickCount": 0,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T17:50:21.224Z"
   },
   {
     "name": "MAFC CRM",
