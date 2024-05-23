@@ -2678,14 +2678,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/31/7c/a9317c82-ea26-a9e0-44ef-0b4913aa8af9/default-dark-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/MY6JTzix",
     "clickCount": 7,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T21:35:13.678Z"
   },
   {
     "name": "Tam Giới Phân Tranh Mobile",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/75/c7/0475c7ce-8914-63d5-156e-b83970866999/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/zsGw53Sw",
     "clickCount": 0,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T21:35:13.678Z"
   },
   {
     "name": "CCClubs",
