@@ -224,7 +224,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ZsGh6uYD",
     "clickCount": 35,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:50:21.950Z"
   },
   {
     "name": "eufy Clean (EufyHome)",
@@ -2735,7 +2737,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/15/90/ca15903a-38d2-1cb3-3285-a34d83087dee/AppIcon-1-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/5PhziWQM",
     "clickCount": 43,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:50:21.950Z"
   },
   {
     "name": "KFC",
