@@ -2522,8 +2522,14 @@
     "name": "Locket Widget",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/b7/78/7eb77847-10fd-56ad-5e6f-03a55b9c167d/app_icon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/IGjs9EMj",
-    "clickCount": 802,
-    "betaAvailable": "full"
+    "clickCount": 813,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Widgets"
+      ]
+    ],
+    "lastChecked": "2024-05-23T18:20:22.559Z"
   },
   {
     "name": "Google Chrome",
@@ -3010,7 +3016,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/fb/46/89fb46e6-c45a-e28d-07b9-f4d9476a03b8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/cRWMcQsr",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T18:20:22.559Z"
   },
   {
     "name": "Rumble Beans",
