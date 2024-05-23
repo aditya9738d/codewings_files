@@ -4107,14 +4107,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/54/6d/49546d95-bda7-b151-21a4-36793ba776c8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/LDJGX8QV",
     "clickCount": 7,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:05:13.319Z"
   },
   {
     "name": "YouSee Musik",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/92/ca/4992cafa-8ab9-4e1a-fbcf-e0e364c0eb5a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/bUlXGEb8",
     "clickCount": 53,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:05:13.319Z"
   },
   {
     "name": "KingPoker.Club",
