@@ -4071,14 +4071,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/42/de/df42deae-3620-9586-3eba-f17eeceadcac/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/dlm34fHd",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T13:55:14.190Z"
   },
   {
     "name": "Flickplay: Digital Characters",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/8a/09/368a090c-e5ae-3d28-9c30-6ee362a5116b/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/xr5o788R",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T13:55:14.190Z"
   },
   {
     "name": "컨설텝스",
