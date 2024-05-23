@@ -2800,7 +2800,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/ba/5f/f8ba5f90-b93e-4c3f-a7ee-23abfd61ee78/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jVw2duqr",
     "clickCount": 14,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T19:10:20.642Z"
   },
   {
     "name": "Power Apps",
@@ -3751,7 +3753,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e1/40/a8/e140a885-2f00-867e-ac8e-94c24f02786b/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/s0ijUrAi",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T19:10:20.642Z"
   },
   {
     "name": "WEB.DE Mail & Cloud",
