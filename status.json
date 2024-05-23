@@ -4125,14 +4125,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/53/b8/fa/53b8fa49-296c-39ec-0906-f5687b49d9a9/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/hFIiD6km",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:10:21.476Z"
   },
   {
     "name": "Mbuntu",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/81/b8/ea81b8c4-0a45-5beb-ea6f-abb73ecb820e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/aDVXKCIm",
     "clickCount": 17,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:10:21.476Z"
   },
   {
     "name": "FOLKLORE: Enjoy festivals!",
