@@ -4089,14 +4089,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/0b/fd/4d0bfd1c-7a10-34f1-945a-80c8475e5f73/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/1YiOYdID",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:00:49.679Z"
   },
   {
     "name": "Vetero° Weather",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/bc/21/68bc21ca-10e9-710d-0f6c-56f747c0c1c6/AppIcon-85-220-4-0-0-2x-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/sAJWcbZ9",
     "clickCount": 0,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:00:49.679Z"
   },
   {
     "name": "Nootti",
