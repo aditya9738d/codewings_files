@@ -3009,7 +3009,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/b1/cb/38b1cbc8-ab3e-f5ca-8778-977a7d84338e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/egxLmc4j",
     "clickCount": 13,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:30:42.880Z"
   },
   {
     "name": "Hoarder App",
@@ -3850,7 +3852,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/22/c4/b922c47f-fcee-cf42-2063-b2bc7afdbb93/AppIcon-Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/mzR3XvHe",
     "clickCount": 1,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:30:42.880Z"
   },
   {
     "name": "Daypage",
