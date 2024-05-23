@@ -3502,14 +3502,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/30/f9/9730f9c0-07f9-6869-5d33-a331261d3557/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/mnB642dv",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:45:22.458Z"
   },
   {
     "name": "Egern",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/d8/97/e0d897be-edb7-9319-77b5-4752eaf4d34a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/AzU6kAzX",
     "clickCount": 120,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:45:22.458Z"
   },
   {
     "name": "Norton 360 Security & VPN",
