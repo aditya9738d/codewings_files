@@ -4412,14 +4412,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/14/7b/e0147ba5-01c7-c9ae-c2d8-a988e99ec758/AppIcon-online-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/YNwwlTvs",
     "clickCount": 4,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T12:00:47.108Z"
   },
   {
     "name": "BuddyBoss App for LearnDash",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/24/d3/a024d30c-ca41-f96c-a0f9-6390cee3779a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/nMz29b8b",
     "clickCount": 4,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T12:00:47.108Z"
   },
   {
     "name": "ZONT",
