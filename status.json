@@ -3778,14 +3778,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/89/55/478955a7-cb6f-86ff-db2b-fe560f6eff05/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/j15QDhZq",
     "clickCount": 4,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:15:25.449Z"
   },
   {
     "name": "BandLab – Music Making Studio",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/06/ad/f906ad21-8c5a-a243-3e93-103b71abe2a3/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/BwbEj9Xx",
     "clickCount": 5,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:15:25.449Z"
   },
   {
     "name": "V-Guardian EVO",
