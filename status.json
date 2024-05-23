@@ -730,140 +730,180 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/ec/02/26ec02c1-cc7f-e4db-7bdd-65b41cf17c4b/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/cWq3sfD6",
     "clickCount": 20,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:33.155Z"
   },
   {
     "name": "Ozone Wallet",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/76/08/93760813-067e-38c1-4e54-fb240971edbb/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/VGs5hfKX",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:34.114Z"
   },
   {
     "name": "Vroom - Race Companion",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/09/44/8a094457-ff5c-114b-bf84-8a93e3feecda/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/s6QStrog",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:35.158Z"
   },
   {
     "name": "Backpack Staging",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/c9/10/25c9103d-26bf-fcef-ad87-766dff6da094/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/KRywqshx",
     "clickCount": 14,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:36.497Z"
   },
   {
     "name": "Batonex",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/d9/2f/47d92f3a-7649-48f6-6dc3-9abec521031b/Icon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/3IiGX7uy",
     "clickCount": 84,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:37.877Z"
   },
   {
     "name": "Mindful Ocean Metaverse",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/e5/64/2de56450-84c5-f54d-cdc1-109e9474f38c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ypNDxHmZ",
     "clickCount": 4,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:39.084Z"
   },
   {
     "name": "GAT(Give And Take)",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/47/01/d947011e-0471-2183-437d-f1818de70f8c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/M0h8vQLr",
     "clickCount": 3,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:40.132Z"
   },
   {
     "name": "ROOMS_",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/b9/86/5eb986c9-7d14-b8b6-3aca-772e3c6b3613/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Z9Elx1Aj",
     "clickCount": 22,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:41.285Z"
   },
   {
     "name": "Rekord",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/28/42/7d2842c5-3dec-20ee-cae6-b105cfc23ea8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/9pln2cnJ",
     "clickCount": 6,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:42.464Z"
   },
   {
     "name": "IsItGOLD?",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/4f/9a/394f9a56-4c7c-ec48-08e3-acbab551d5fc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/MicsSOHR",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:43.560Z"
   },
   {
     "name": "Bracket Buddy - Esports Events",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/2d/ca/a72dca95-1b66-32a9-afb1-1cf53d1dceea/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/5yab6pxu",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:44.624Z"
   },
   {
     "name": "Mikuture",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/56/47/d2564798-ecae-ade4-5911-c3aee228fb65/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jRN2sLGz",
-    "clickCount": 49,
-    "betaAvailable": "open"
+    "clickCount": 50,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:45.839Z"
   },
   {
     "name": "Sentinel: Decentralized VPN",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/21/d9/f4/21d9f41a-b343-1d8a-d56d-d5d712db1fce/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/CHRhpwKQ",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:47.062Z"
   },
   {
     "name": "HEAT APP Mining",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9b/c6/fc/9bc6fcd8-23b6-abf9-dd4a-f51717cf4fd1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/5VrmUlmj",
     "clickCount": 30,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:48.149Z"
   },
   {
     "name": "SimpleX Chat: secure messenger",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/1f/91/e81f9131-b0ed-46fa-1b68-6d008553c788/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/DWuT2LQu",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:49.071Z"
   },
   {
     "name": "飞鹰VPN",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/71/3a/d8713ab9-5b4f-c690-484f-099e7a453499/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/sehsiR6S",
     "clickCount": 17,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:50.090Z"
   },
   {
     "name": "Science of Reading",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ca/bb/d9cabbc9-a9e6-0d2b-2ad4-e353030f51b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/sKBQlu0w",
     "clickCount": 55,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:51.172Z"
   },
   {
     "name": "VisionCode",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/04/30/160430bf-1f23-2839-28ff-9c7d046bcbc1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/0XnVHVtL",
-    "clickCount": 69,
-    "betaAvailable": "open"
+    "clickCount": 70,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:52.172Z"
   },
   {
     "name": "Reach Infinity",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/15/8a/00158ac0-6591-6dd1-74fc-663685284386/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/4rdyJbDf",
     "clickCount": 116,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:53.303Z"
   },
   {
     "name": "Heat — Ask Anything",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/b6/4d/eab64d1a-4076-2d3a-5f64-348e78fb62b3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/AX9JftGk",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:50:54.264Z"
   },
   {
     "name": "DriverApp Dev",
