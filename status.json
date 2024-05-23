@@ -2238,7 +2238,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/31/93/483193c3-cd38-21bf-9a3e-5d221790c992/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Y9yo0X5t",
     "clickCount": 9,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T17:20:20.291Z"
   },
   {
     "name": "F1ATV beta",
@@ -2715,7 +2717,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/59/74/ba59743b-d19a-3cbc-d557-c76fcca7a17f/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/3Ik3KBjj",
     "clickCount": 10,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T17:20:20.291Z"
   },
   {
     "name": "Palphone",
