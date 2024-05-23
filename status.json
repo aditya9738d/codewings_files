@@ -2696,7 +2696,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/28/01/b928011d-6470-16b1-3548-b789b767eb12/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/pLoQlfvn",
     "clickCount": 5,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T21:40:20.920Z"
   },
   {
     "name": "MLBB Beta",
@@ -3945,8 +3947,10 @@
     "name": "MLBB beta",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/44/5c/57445c58-f410-ffbb-9532-d0f154724565/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/yYjKTTlT",
-    "clickCount": 267,
-    "betaAvailable": "full"
+    "clickCount": 288,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T21:40:20.920Z"
   },
   {
     "name": "Proximus+",
