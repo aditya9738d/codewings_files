@@ -3931,14 +3931,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/d2/65/5ed26502-bc03-6167-d90f-2f69dbb7c1ed/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/OJfvaCjH",
     "clickCount": 4,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:35:14.829Z"
   },
   {
     "name": "Retro - Social Photo Journal",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/5d/c7/135dc7ca-d3fb-743a-0237-ec4c4b7f523a/AppIcon-Dark_Warm-0-0-1x_U007ephone-0-0-0-P3-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ZLhPhXDv",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:35:14.829Z"
   },
   {
     "name": "Kobble",
