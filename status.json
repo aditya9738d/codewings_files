@@ -2063,7 +2063,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f2/d6/51f2d60b-3149-e6eb-9f70-be065fd80340/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/5V7gW8Zc",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T17:45:23.300Z"
   },
   {
     "name": "Voyager for Lemmy beta",
@@ -3598,7 +3600,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/43/47/60434750-d2ca-1743-2175-567b067cd81b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/tcXozZIu",
     "clickCount": 2,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T17:45:23.300Z"
   },
   {
     "name": "GameScent",
