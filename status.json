@@ -3281,14 +3281,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/30/77/a830776b-21e1-5608-5d6d-abb6725c0ec8/AppIcon.beta-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/r2JeOEbm",
     "clickCount": 14,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:00:47.648Z"
   },
   {
     "name": "Hanu HRV",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/b7/80/d6b780f0-d81c-8fe0-8b49-4f32640c6aff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/NpppQZLA",
     "clickCount": 5,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:00:47.648Z"
   },
   {
     "name": "DTVideo",
