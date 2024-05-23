@@ -4356,14 +4356,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/c7/3a/ecc73a95-bc43-b684-b248-6ffcd90e21f6/AppIconSingle-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ELyfxQcj",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T12:50:19.870Z"
   },
   {
     "name": "Doris by dgApps",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/25/a2/4725a266-e9a1-3d92-c136-3a146fe96ba1/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/dTdLfvIK",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T12:50:19.870Z"
   },
   {
     "name": "Nostur - Nostr client",
