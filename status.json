@@ -4662,14 +4662,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/f0/a8/07f0a865-cbfc-12c4-5435-32ee877ba545/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ogxPz9Lb",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:50:21.240Z"
   },
   {
     "name": "棋路-象棋课堂",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/47/fd/6347fdfd-d951-7dd7-aaf5-5a9ad5dedd4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/s9SdLije",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:50:21.240Z"
   },
   {
     "name": "宝能E家极速版",
