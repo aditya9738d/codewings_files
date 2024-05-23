@@ -3107,8 +3107,29 @@
     "name": "Telegram Messenger",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/95/4d/fc/954dfc27-0bf5-db28-0c30-313f4b676853/AppIconLLC-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/u6iogfd0",
-    "clickCount": 1518,
-    "betaAvailable": "full"
+    "clickCount": 1530,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Entertainment"
+      ],
+      [
+        "Files & cloud"
+      ],
+      [
+        "Photography"
+      ],
+      [
+        "Social Networking"
+      ],
+      [
+        "Utility"
+      ],
+      [
+        "Video"
+      ]
+    ],
+    "lastChecked": "2024-05-23T22:50:17.927Z"
   },
   {
     "name": "Quiet Mobile",
@@ -3159,8 +3180,10 @@
     "name": "Mini Militia Classic",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/d4/0a/f5d40a00-fbc1-7578-79da-9172bafadead/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/mTdIgovd",
-    "clickCount": 263,
-    "betaAvailable": "full"
+    "clickCount": 268,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T22:50:17.927Z"
   },
   {
     "name": "The Division Resurgence",
