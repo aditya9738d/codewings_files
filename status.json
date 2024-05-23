@@ -355,7 +355,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/84/98/0784982a-9506-d4a2-adfd-1829a02cc0bb/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Bjz0XZ5v",
     "clickCount": 55,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:15:20.271Z"
   },
   {
     "name": "Fugl",
@@ -2987,7 +2989,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/41/dc/be41dcef-3745-a483-497b-91022698380c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/yaUjeiW7",
     "clickCount": 7,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:15:20.271Z"
   },
   {
     "name": "Sticker Maker Studio",
