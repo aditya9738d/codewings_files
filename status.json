@@ -274,7 +274,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/46/a3/0246a305-248d-8201-fcd9-9d52aee8035a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/o6j4lZii",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T19:30:41.670Z"
   },
   {
     "name": "Call of Duty Mobile Beta",
@@ -2747,7 +2749,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/db/33/08db3362-c7df-43ee-3c1d-c768a7bb55f8/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/nWLw1MBM",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T19:30:41.670Z"
   },
   {
     "name": "Proximus+ Beta",
