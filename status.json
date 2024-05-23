@@ -4002,15 +4002,19 @@
     "name": "Windows App Mobile Preview",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/19/6b/f6196be3-4e22-925d-2ccc-f416487eecd7/AppIconBeta-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/q4ha2nsh",
-    "clickCount": 172,
-    "betaAvailable": "open"
+    "clickCount": 177,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:55:16.546Z"
   },
   {
     "name": "SiYuan",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/a8/b0/a4a8b02e-98f5-2130-c78f-ac5d5fa6e80e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/BBLHMJ4g",
-    "clickCount": 1,
-    "betaAvailable": "open"
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T14:55:16.546Z"
   },
   {
     "name": "猫爷TRPG",
