@@ -632,7 +632,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/3f/14/853f1479-2d53-793a-a8c9-3b6297406867/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/r7gWXcHK",
     "clickCount": 35,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "Any Recipe Keeper",
@@ -1080,8 +1082,10 @@
     "name": "ToneBarrier",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/6f/b9/e46fb9ad-318c-52f2-9920-79783df84e59/ToneBarrierAppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/LqGKPwdG",
-    "clickCount": 70,
-    "betaAvailable": "open"
+    "clickCount": 71,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "Cue - Text Reminders",
@@ -4811,84 +4815,108 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/fc/eb/f3fceb86-bade-c10a-d671-477dd513d993/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/BCQWwfAw",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "Onto",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/a9/ad/0da9ad75-f762-e647-5111-5602e279c461/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/1QL1gXrP",
-    "clickCount": 4,
-    "betaAvailable": "open"
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "Cyou-你的声音 我的世界",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/bf/f9/38bff942-9fad-478f-f1c6-5694c54bb776/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/2xcieDcU",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "Buno",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/c9/03/dcc903be-4522-eabe-275c-016a0bd5aa24/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Ml8Cn0Fs",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "Jusoor",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/04/5e/6d045ec4-9f99-5a37-638e-47577ef64f5b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/1Obdkyq9",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "PGArcher",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/56/90/56569056-0391-3d16-3db1-03733682cf45/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/6xQslzME",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "Satsuma Wallet",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/b5/a1/94b5a18b-6373-fbbb-55e5-a26079d20f8b/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/QfWYprVO",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "Changelog Publisher",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/89/8e/cc898e15-eecd-74e0-ec92-a3027240f874/AppIcon-0-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/4YdmtpbZ",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "push – workout counter",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/24/d6/2024d6e4-ac2d-3295-dce8-2e83eeee260f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/pyNg1Nhc",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "KI Competitor",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/f1/cb/a9f1cb85-3f12-232a-ed21-c41ffe053a66/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Bj4wQBC8",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "9HOLES - Golf Scorecard Editor",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/39/66/db39661b-e0f6-1279-5fc4-a3d7c429a8b7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/huBwl3If",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "Vultisig",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/72/9a/79729a24-0257-2e7e-0b05-85192360525a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/CHHICwnO",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z"
   },
   {
     "name": "VibeStir",
@@ -5204,5 +5232,95 @@
     "link": "https://testflight.apple.com/join/a22IhpE2",
     "clickCount": 5,
     "betaAvailable": "open"
+  },
+  {
+    "name": "Dharamik Signal",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b8/74/3e/b8743e07-8130-f015-8989-5bc094012dde/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/BuwazBeq",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-23T08:06:14.898Z"
+      }
+    ]
+  },
+  {
+    "name": "Arm Arena",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/79/d0/5c79d06c-3025-f814-c303-6d650e07724d/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/OaBr1tzV",
+    "clickCount": 2,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-23T08:06:14.898Z"
+      }
+    ]
+  },
+  {
+    "name": "Jusour-Beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/36/48/ae3648e7-9cc1-d3dd-af04-a901ca5a5f6c/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zdZpWEmB",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-23T08:06:14.898Z"
+      }
+    ]
+  },
+  {
+    "name": "FSCB Banking",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/e3/e6/eae3e6d0-a88c-f654-3890-120e7102164a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/J0HJaCws",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-23T08:06:14.898Z"
+      }
+    ]
+  },
+  {
+    "name": "In Next Life",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/b3/63/3eb36360-82b1-d720-79e4-41b716785ee1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/D50l7OXY",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-23T08:06:14.898Z"
+      }
+    ]
+  },
+  {
+    "name": "Lyd - Vision Remote for Sonos",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6e/57/186e571c-a4b9-8e00-5d34-ab0854c3cb45/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NDTrJKcG",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:06:14.898Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-23T08:06:14.898Z"
+      }
+    ]
   }
 ]
