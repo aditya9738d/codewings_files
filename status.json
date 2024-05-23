@@ -3907,14 +3907,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/18/4e/6d184e66-81e3-bc9a-ae89-0af3e84d2942/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/QRbXi8u3",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T15:30:40.511Z"
   },
   {
     "name": "Syncfusion MAUI UI Controls",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/cf/8c/facf8c85-e9ac-06cf-d8e8-4ffb95479e14/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/EEOtwVNN",
     "clickCount": 4,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T15:30:40.511Z"
   },
   {
     "name": "YoWindow Weather 2",
