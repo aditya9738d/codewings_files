@@ -118,7 +118,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/78/16/317816e5-aad8-dc53-0aa2-aa4e3e570fb0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Xpg1aGvf",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T18:55:14.418Z"
   },
   {
     "name": "Hunky City",
@@ -2392,7 +2394,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/49/a5/7149a538-86dd-76db-023d-c8d690640e5b/Ulysses-Release-0-0-1x_U007emarketing-0-0-0-6-0-0-P3-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/A0Dru9VV",
     "clickCount": 4,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T18:55:14.418Z"
   },
   {
     "name": "enhanceAl",
