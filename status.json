@@ -4202,14 +4202,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/c3/26/3ac32689-4a25-6e8f-5a37-607c477329e0/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jvjbvKYm",
     "clickCount": 3,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T13:35:17.954Z"
   },
   {
     "name": "AZDOME",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/40/c2/b140c2fd-1669-0d0b-f024-fa59d09756ec/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.jpeg/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/7NgrnJ91",
     "clickCount": 6,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T13:35:17.954Z"
   },
   {
     "name": "Email App –  Mail.ru",
