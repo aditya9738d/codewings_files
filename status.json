@@ -1097,14 +1097,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/83/3f/3a/833f3ad3-0d92-7d97-8a03-c88f483538ea/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/SEb1TLyN",
     "clickCount": 23,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:52:02.638Z"
   },
   {
     "name": "wdym chat (testflight)",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/05/09/ce0509af-f3b0-0dc0-1eaf-ce4dc34d512e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/p4RyyKRz",
     "clickCount": 14,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:52:02.638Z"
   },
   {
     "name": "Newborn-MWEB",
