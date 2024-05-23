@@ -2599,15 +2599,19 @@
     "name": "Solar Eclipse 2024 Mobile",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/8c/6d/d08c6dbb-e1d6-3086-5e54-e45c6329028c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/eCrIcC6x",
-    "clickCount": 3,
-    "betaAvailable": "open"
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T21:20:21.546Z"
   },
   {
     "name": "Discord - Chat, Talk & Hangout",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/32/8d/95328db5-af1b-1a26-32e5-9cc556d89721/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/gdE4pRzI",
-    "clickCount": 7,
-    "betaAvailable": "full"
+    "clickCount": 9,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T21:20:21.546Z"
   },
   {
     "name": "Locket Widget",
