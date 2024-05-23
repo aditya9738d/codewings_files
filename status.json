@@ -2991,14 +2991,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/3d/51/c73d511d-4cb0-bb43-c126-e232dca70c89/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/xOzIjSrN",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T22:35:14.055Z"
   },
   {
     "name": "dEmpire of Vampire",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/13/7f/7e137f22-36f3-1756-b0e2-e480f5a2e5f5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/I0939Yj3",
-    "clickCount": 19,
-    "betaAvailable": "not accepting"
+    "clickCount": 20,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T22:35:14.055Z"
   },
   {
     "name": "Liên Quân Mobile AMIBOT",
