@@ -4496,7 +4496,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/fd/49/80fd4913-d739-6708-eb21-5007e3300a0d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/NAG6vC6N",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T10:40:22.107Z"
   },
   {
     "name": "Termius: Terminal & SSH client",
@@ -4512,7 +4514,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/ee/b8/b0eeb873-6417-5069-d406-3592e3bdccfd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/fGMjqr58",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T10:40:22.107Z"
   },
   {
     "name": "Mlem for Lemmy",
