@@ -1,3 +1,5 @@
+- **Dharamik Signal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b8/74/3e/b8743e07-8130-f015-8989-5bc094012dde/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BuwazBeq)
+
 - **Arm Arena**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/79/d0/5c79d06c-3025-f814-c303-6d650e07724d/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OaBr1tzV)
 
 - **Jusour-Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/36/48/ae3648e7-9cc1-d3dd-af04-a901ca5a5f6c/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zdZpWEmB)
@@ -46,5 +48,3 @@
 - **Gumtree: local classified ads**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/b1/37/80b1376e-ac76-33e5-58ed-1b3e8a19d9af/BetaAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bXLgmUlj)
 
 - **Blast Royale**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/8a/b7/af8ab7b2-7765-b553-81cf-07ec14855222/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oumKXOTP)
-
-- **Olya Teste**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/0b/79/fb0b795f-0340-c3a6-bca6-b20c50809758/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QLmmgWOR)
