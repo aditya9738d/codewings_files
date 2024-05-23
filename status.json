@@ -2506,8 +2506,20 @@
     "name": "Picsart AI Photo Video Editor",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/6d/2c/8b6d2c04-b897-ce6b-06e2-9dc691841a58/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/d4gDz5s7",
-    "clickCount": 527,
-    "betaAvailable": "full"
+    "clickCount": 534,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Art & Design"
+      ],
+      [
+        "Photography"
+      ],
+      [
+        "Utility"
+      ]
+    ],
+    "lastChecked": "2024-05-23T19:00:47.133Z"
   },
   {
     "name": "Xbox Game Pass",
@@ -2867,7 +2879,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/4f/6d/b54f6db9-0939-f561-730c-5dccba4083f1/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/nnQC498c",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T19:00:47.133Z"
   },
   {
     "name": "PanTiltZoom",
