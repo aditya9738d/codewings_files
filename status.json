@@ -3024,7 +3024,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/82/fe/e982fed4-b29e-1d64-dc99-4a45c0a274c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/2Tux4moG",
     "clickCount": 12,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T17:25:14.597Z"
   },
   {
     "name": "BeCasso: Photo to Painting",
@@ -3134,7 +3136,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/e0/83/79e0838e-f910-3227-1dde-68ebcb3b8132/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jNEMGh4b",
     "clickCount": 3,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T17:25:14.597Z"
   },
   {
     "name": "beboConnect",
