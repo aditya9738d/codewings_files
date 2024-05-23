@@ -2630,15 +2630,23 @@
     "name": "Google Chrome",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/94/d5/b694d5d1-4a48-d1bf-8672-281f19bb2683/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/LPQmtkUs",
-    "clickCount": 143,
-    "betaAvailable": "open"
+    "clickCount": 158,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Browser"
+      ]
+    ],
+    "lastChecked": "2024-05-23T21:25:15.849Z"
   },
   {
     "name": "winston for Reddit",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/de/84/e4de843f-ee18-13cc-5870-0b05a4a99381/iconStandard-0-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/3UF8bAUN",
     "clickCount": 6,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T21:25:15.849Z"
   },
   {
     "name": "WhatsApp Business",
