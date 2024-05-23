@@ -3825,8 +3825,10 @@
     "name": "iPlayTV AIO",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/29/b5/b929b53b-aae9-1a06-317a-99a9ce32ee31/App_Icon-marketing.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/irMsXGg0",
-    "clickCount": 11,
-    "betaAvailable": "open"
+    "clickCount": 12,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T15:05:17.142Z"
   },
   {
     "name": "Deskmodder",
@@ -4039,7 +4041,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/ea/cb/74eacb35-8374-7e1b-16e1-671efffa5749/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/UDDdSKNn",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T15:05:17.142Z"
   },
   {
     "name": "Gigantix Wallet",
