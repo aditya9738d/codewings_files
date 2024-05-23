@@ -2670,7 +2670,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/b9/07/52b9073d-1efb-a40b-5905-c086d32ea90a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/toywNocd",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:25:13.415Z"
   },
   {
     "name": "MuseDash Ex",
@@ -3677,7 +3679,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/1a/04/b11a040f-3643-3c1e-394f-9440184d1ee9/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/0jTIOXG5",
     "clickCount": 6,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:25:13.415Z"
   },
   {
     "name": "Swiggy Food, Grocery & Dineout",
