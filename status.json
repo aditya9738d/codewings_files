@@ -233,7 +233,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/44/0b/f1440b00-5209-bdfc-dd43-55290bb0cb4b/AppIcon-all-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ABaSUurE",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:55:13.026Z"
   },
   {
     "name": "VNPAY-CA",
@@ -3092,7 +3094,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/6c/a3/886ca376-f279-5890-dcdf-04dccfbeac69/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/prtbcetS",
     "clickCount": 40,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:55:13.026Z"
   },
   {
     "name": "鸡儿大战僵尸",
