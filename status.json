@@ -4,61 +4,82 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/df/41/acdf415f-99a9-c35b-4b37-8d115647dd89/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-512MB-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/eyZbAhlV",
     "clickCount": 7,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:08.975Z"
   },
   {
     "name": "DR Expense Tracker",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/63/e4/b063e404-5ab9-5f7f-b01a-34b760bb98aa/AppIcon-0-1x_U007ephone-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/pqWTpKCY",
     "clickCount": 9,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:10.020Z"
   },
   {
     "name": "Gamery - Game Tracker",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/e0/ea/41e0ea4a-4d0b-434e-7a53-89df67c41fe7/AppIcon-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/va16ipuj",
-    "clickCount": 24,
-    "betaAvailable": "open"
+    "clickCount": 26,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:11.041Z"
   },
   {
     "name": "Disney DLP Preview",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/76/f3/25/76f325a7-1259-72f4-b46a-880e0aa855ca/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/b6bWpoHB",
-    "clickCount": 41,
-    "betaAvailable": "open"
+    "clickCount": 42,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:12.650Z"
   },
   {
     "name": "Hookymia",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/95/90/c6959005-ed86-5fce-7200-790d648ba4f5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Myp9NrwZ",
     "clickCount": 9,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:13.744Z"
   },
   {
     "name": "Life360: Find Friends & Family",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/8f/5e/668f5e04-1353-2743-d248-cb7216ef03cf/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/syX6IOJF",
-    "clickCount": 4,
-    "betaAvailable": "open"
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:15.357Z"
   },
   {
     "name": "Slack",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/4b/8a/a14b8af5-3a1a-fa59-7fb0-ef3380969e37/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/QE3kgqJ2",
     "clickCount": 14,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:17.187Z"
   },
   {
     "name": "Minecraft Preview",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/7f/d0/5b7fd080-7c13-901c-f6a1-86f38d94ffea/AppIcon-beta-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/qC1ZnReJ",
-    "clickCount": 1613,
+    "clickCount": 1667,
     "betaAvailable": "full",
     "categories": [
       [
+        "Education"
+      ],
+      [
+        "Entertainment"
+      ],
+      [
         "Games"
       ]
-    ]
+    ],
+    "lastChecked": "2024-05-23T07:36:18.019Z"
   },
   {
     "name": "Facebook",
@@ -107,14 +128,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5b/fd/ca/5bfdcae6-6545-b7e5-d2b4-4d51d021c19a/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/WXZlJtL0",
     "clickCount": 7,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:19.968Z"
   },
   {
     "name": "CCS Mobile",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/51/21/105121ab-47ef-384d-74c3-57f3c9276aa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/IAFHUVdV",
-    "clickCount": 22,
-    "betaAvailable": "open"
+    "clickCount": 23,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:21.044Z"
   },
   {
     "name": "NroChat",
@@ -149,14 +174,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/12/70/921270f6-7a10-9cf1-a369-6947581a991d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/kvGz47De",
     "clickCount": 5,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:22.116Z"
   },
   {
     "name": "HomeHabit",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/a6/8a/8fa68a5c-ae68-6283-b387-2a882ef494db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/KbpFHzx0",
     "clickCount": 19,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:23.252Z"
   },
   {
     "name": "Screeps Observer",
@@ -170,14 +199,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/16/09/88160915-cd66-d72c-47e9-538b3b7f9cdc/DefaultAppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/zgd15gEU",
     "clickCount": 12,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:24.433Z"
   },
   {
     "name": "TV Time: Track Shows & Movies",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/ba/c4/04bac455-e667-5512-0217-ea1573f8e64c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/hjKkDsc4",
     "clickCount": 3,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:25.686Z"
   },
   {
     "name": "Geotag Alpha for Sony",
@@ -219,21 +252,27 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/bf/f0/74bff03d-e5c2-272c-8d6c-99045e23ad4f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/BhLLjqAX",
     "clickCount": 94,
-    "betaAvailable": "error"
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:27.399Z"
   },
   {
     "name": "GolfClubInfoTracker",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/e1/4d/11e14d98-468c-e873-f731-6834f60a759b/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/WMOXFHTN",
     "clickCount": 9,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:28.483Z"
   },
   {
     "name": "dot.dot.dot.",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/13/55/781355d0-a5b0-97c6-2ed8-4e4977131c36/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Fc48B6AB",
-    "clickCount": 33,
-    "betaAvailable": "open"
+    "clickCount": 34,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:29.499Z"
   },
   {
     "name": "Indo-NonOfficiel",
@@ -247,7 +286,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/9a/66/c49a6692-318a-aff6-14e0-a84bc26a61bb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Y9X0wGsi",
     "clickCount": 18,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:30.694Z"
   },
   {
     "name": "musicat.ai",
@@ -2851,7 +2892,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/fc/25/c4fc2554-057b-1c4a-a29d-b91f6b903e0e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/eHAKJBtM",
     "clickCount": 1,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:06.313Z"
   },
   {
     "name": "Rumble Beans beta",
@@ -3272,8 +3315,10 @@
     "name": "Call of Duty Mobile",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/p2C7aFDw",
-    "clickCount": 555,
-    "betaAvailable": "full"
+    "clickCount": 557,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:36:26.558Z"
   },
   {
     "name": "Metro Staging",
