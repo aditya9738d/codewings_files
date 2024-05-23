@@ -1871,7 +1871,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/50/2b/ab502b61-90f4-f37e-3569-6aefa8d6718b/AppIcon_pro-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/LpdH6PGp",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T17:55:15.376Z"
   },
   {
     "name": "Sw!ftalyzer",
@@ -2156,7 +2158,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/c7/63/70c76376-0a1b-591d-5d09-f6b5506c89a2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/W8EmsRMa",
     "clickCount": 0,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "open",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-23T17:55:15.376Z"
+      }
+    ],
+    "categories": [],
+    "lastChecked": "2024-05-23T17:55:15.376Z"
   },
   {
     "name": "Shortwave Email beta",
