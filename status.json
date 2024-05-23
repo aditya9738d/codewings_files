@@ -4358,14 +4358,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/8c/70/288c70fe-8783-a724-9be8-e7b1a857eef0/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/TyrRNCXA",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T11:30:40.944Z"
   },
   {
     "name": "Axm Wallet",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/91/34/d191341e-fcd3-10ac-cfa7-c7268411a585/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Bjz0XZ5v",
     "clickCount": 16,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T11:30:40.944Z"
   },
   {
     "name": "3x3 CubeSpeed",
