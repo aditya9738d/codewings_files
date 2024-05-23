@@ -4535,14 +4535,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/fd/34/9afd349a-dfd7-1598-92fb-be1c86971cd7/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/0LeFdx5d",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T09:40:22.025Z"
   },
   {
     "name": "RTI Dashboard",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/e1/9b/51e19bd3-ac99-2407-7e4f-977e6192ca21/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/T1YKKlZ0",
     "clickCount": 7,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T09:40:22.025Z"
   },
   {
     "name": "Swapple - Letter Logic Puzzles",
