@@ -1205,14 +1205,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/3d/73/423d738c-e345-54fd-1388-3a235bccea88/AppIconInv-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/7TYuK6VV",
     "clickCount": 5,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:53:05.322Z"
   },
   {
     "name": "GitHub",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/1f/a8/1c1fa830-da0c-b678-ea9d-b76af7f255bb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/NLskzwi5",
-    "clickCount": 66,
-    "betaAvailable": "full"
+    "clickCount": 67,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:53:05.322Z"
   },
   {
     "name": "Super Fren: Super App for NFTs",
