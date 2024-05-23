@@ -2961,7 +2961,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/e3/3b/05e33b13-3fe6-ff58-7f38-323405794c2c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/7KmHv0CZ",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T19:55:13.682Z"
   },
   {
     "name": "Avocado Wallet",
@@ -3004,7 +3006,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/30/95/fd30957a-ddd2-5593-4ad4-0c08a75c01f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/QifpNxAT",
     "clickCount": 16,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T19:55:13.682Z"
   },
   {
     "name": "IITC-Mobile",
