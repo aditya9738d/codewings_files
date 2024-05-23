@@ -1933,7 +1933,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/9d/84/969d8425-b70b-fd4a-e1fc-b65ea290c36f/AppIcon-Snapshot-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/RHz7zTUB",
     "clickCount": 59,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:35:14.664Z"
   },
   {
     "name": "Easy Unarchiver - ZIP, RAR",
@@ -3861,7 +3863,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1f/e3/36/1fe336e5-3f1c-cacb-dc96-7ad16ef3d687/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/pSAEAqGk",
     "clickCount": 14,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:35:14.664Z"
   },
   {
     "name": "MLBB beta",
