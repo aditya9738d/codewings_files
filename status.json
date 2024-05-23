@@ -1623,140 +1623,180 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/89/5a/da895a30-68b7-5eec-6900-ab86ccd3eb03/AppIcon5-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/oFWpI2gy",
     "clickCount": 15,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "GitHub HyperList",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/73/24/0c7324a9-b7e8-ee2e-5fb2-41317c7ad5da/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/qfPzqQM0",
-    "clickCount": 73,
-    "betaAvailable": "open"
+    "clickCount": 74,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "Flipper Mobile App",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/65/66/3d6566c5-1aa2-17a8-82a7-0b2b6b649188/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/oLyR7YeT",
-    "clickCount": 120,
-    "betaAvailable": "open"
+    "clickCount": 121,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "Chronosphere - Clocks",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/b9/a0/1eb9a00c-0c30-265b-ae68-b024f2286ffc/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Mwfy3L0V",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "AnyTrip",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/c9/6a/e5c96a6c-9d82-fc03-90d8-157bf541340d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/z4jEQC9Z",
     "clickCount": 6,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "Text & Markup",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/4a/38/474a38ca-ab71-23cb-1d80-b9cf9aa153ff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/LH7qcUjG",
     "clickCount": 2,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "Launchcraft",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/aa/61/eaaa6181-0d90-003d-f41e-97aa7af1d6c9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/nSONe1lZ",
-    "clickCount": 108,
-    "betaAvailable": "open"
+    "clickCount": 110,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "Block Puzzle: Cops vs Robbers",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/41/80/cd41802e-7ec6-8d3c-a483-ceff4e6b22a5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/JewMjU43",
     "clickCount": 1,
-    "betaAvailable": "error"
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "KKClicker",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/27/40/ba2740be-b5d9-004c-b84a-e59ba296efce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/y2bNjrkT",
     "clickCount": 13,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "Quizlet: AI-powered Flashcards",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/c9/7f/55c97f5e-d52f-b9e9-4a0d-63868048b210/AppIcon-production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/mwhcPqxJ",
     "clickCount": 3,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "Ensemble Cast",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/76/b4/cf76b468-a9fe-7c54-7d74-1e601bbacaa4/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Pq1HzHqe",
     "clickCount": 5,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "A Fish Chat",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/49/af/a049af06-65a7-b292-e769-4e065b7b3f51/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jzPv1lac",
-    "clickCount": 6,
-    "betaAvailable": "open"
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "Pocket Space!",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/ea/92/e7ea9215-9f11-16b9-0be7-7dd94b08b83a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/DHipLt9w",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "KMON: Genesis",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4e/67/db/4e67dbe8-97e3-42b1-9c58-38a75a955488/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/CkBY8AAq",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "Asurascans - Hot Manga Reader",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/1b/f3/591bf359-4553-eb9a-8966-89ef30255ce9/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/VdR4sNPA",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "The Weekendest: NYC Subway Map",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/0d/af/270daf07-4942-1936-d272-7e4ffbab02f0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/QMF8mCtV",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "GP Calendar - F1",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/b8/e4/a9b8e40e-157c-93d1-3d53-503771278f3c/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/aKCOxRQU",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "wthr.cloud",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/2b/32/7a2b32be-e2c5-0c09-689e-451835627e5e/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/xQvgZlZ9",
     "clickCount": 1,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "Salmonia3+",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/5b/f3/5b5bf377-5f58-64da-ef63-b754202e13c4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/JO6VICoZ",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "LemonSqueezy - Unofficial",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/51/da/3a51daf8-3623-906d-338e-9b1f9713fa6b/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/yRCtKeaR",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:59:40.176Z"
   },
   {
     "name": "Pupgame",
