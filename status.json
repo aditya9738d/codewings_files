@@ -3559,14 +3559,24 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/f1/17/09f117f4-21a5-f8c7-5d4e-35818b024ea9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/z18Ngj0N",
     "clickCount": 20,
-    "betaAvailable": "full"
+    "betaAvailable": "open",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-23T17:30:42.176Z"
+      }
+    ],
+    "categories": [],
+    "lastChecked": "2024-05-23T17:30:42.176Z"
   },
   {
     "name": "Innov8tifIDV",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/4e/ce/8b4eceeb-342e-728d-eabb-b50d4375175b/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ViWOvrlu",
-    "clickCount": 3,
-    "betaAvailable": "open"
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T17:30:42.176Z"
   },
   {
     "name": "Ngọc Rồng Fiona.",
