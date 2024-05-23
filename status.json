@@ -2545,14 +2545,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/4c/a1/bd4ca1b2-2ca1-5171-0769-cf9d38d221d3/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/4x1P5Tnx",
     "clickCount": 4,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T21:10:19.654Z"
   },
   {
     "name": "Stick War",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/5a/10/dc5a10c6-636a-73dc-7fe0-83dc294de362/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/eUx3WxVj",
     "clickCount": 10,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T21:10:19.654Z"
   },
   {
     "name": "Envision AI",
