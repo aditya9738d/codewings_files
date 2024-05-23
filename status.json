@@ -910,133 +910,171 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/80/f7/da80f73b-a97e-00ec-dab8-dcb2305f92cc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/VPSg1dyq",
     "clickCount": 107,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:33.228Z"
   },
   {
     "name": "求む！洞窟探検家",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/35/0a/a1350afa-0ac0-2df0-3599-7e7d16fe2f79/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/gMzq8xS4",
     "clickCount": 4,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:34.430Z"
   },
   {
     "name": "fortitude",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e3/91/71e391bd-2bb3-78e1-a2b2-dea1e795094c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/IO9jqeaB",
-    "clickCount": 104,
-    "betaAvailable": "open"
+    "clickCount": 105,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:35.543Z"
   },
   {
     "name": "Hyena VPN-secure & fast",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a5/d9/9ba5d9e8-4c90-47ae-1ac1-f7cc954172e1/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/zRvqNj4y",
     "clickCount": 2,
-    "betaAvailable": "error"
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:36.406Z"
   },
   {
     "name": "Waydger",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/a9/1d/66a91d24-15ab-9cba-63d0-2444a8e82e6d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/xckrvkWD",
     "clickCount": 58,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:37.463Z"
   },
   {
     "name": "Poolview",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/5d/9c/dc5d9c8b-5b87-e6f7-5b2b-ad2a84423f8e/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/JqdvQprT",
     "clickCount": 71,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:38.502Z"
   },
   {
     "name": "AR Helicopters",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/f7/38/84f738e4-c95f-30d0-df57-111e9ee42624/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ToXsnZXX",
     "clickCount": 66,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:39.502Z"
   },
   {
     "name": "GentlemanClub",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/b1/eb/54b1eb14-f8b7-7748-7ea6-e173902d8a54/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/zwWNpIXx",
     "clickCount": 83,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:40.590Z"
   },
   {
     "name": "Pandemic 8 Ball Pool",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6a/e3/d8/6ae3d8cd-5a16-adbb-9c8c-91beab3f7811/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/fFYcLcjG",
-    "clickCount": 422,
-    "betaAvailable": "open"
+    "clickCount": 434,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:41.571Z"
   },
   {
     "name": "Quotes: Share Beautiful Quotes",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/d2/7c/3fd27cb8-0cf9-1572-07ef-09caca979b51/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/1IvTkvMq",
     "clickCount": 4,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:42.518Z"
   },
   {
     "name": "TextExpander 7 Keyboard",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/65/bd/db/65bddb4e-8e9f-9887-b7f8-36ea9ff60d79/AppIcon-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/vKrjNFUr",
     "clickCount": 79,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:43.616Z"
   },
   {
     "name": "Bolide - Crypto Bitcoin Wallet",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/18/08/3a18087f-b9b5-a677-f8ce-b3bb33eb5b19/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/UoLAQdjn",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:44.637Z"
   },
   {
     "name": "TinyTable - Tabletop Gameroom",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d5/7d/95d57d3b-2be9-65ff-dc79-ba5f6c3bcd44/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/TjI2iwXJ",
     "clickCount": 2,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:45.594Z"
   },
   {
     "name": "8 Millimeters for Netflix",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/40/26/44402681-b951-68be-5d13-57da71d28880/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/0039s3ip",
     "clickCount": 90,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:46.568Z"
   },
   {
     "name": "Poketch",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/a1/91/b2a191c8-452f-6607-c537-192796c5d2e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jd1cqyip",
     "clickCount": 90,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:47.967Z"
   },
   {
     "name": "Drakula",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/44/c7/ec/44c7ecbf-aae4-d643-697d-d0c51611ffa3/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/OISKmFQX",
     "clickCount": 70,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:48.788Z"
   },
   {
     "name": "Mirá",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/a4/c4/97a4c4bd-c9be-dee6-868b-c44c3fd0ef67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/vRH6kJVa",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:49.224Z"
   },
   {
     "name": "雀乐",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/e4/e7/47e4e7ff-1825-e8f8-306f-855e3c8bad10/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/cnPFNQvl",
     "clickCount": 2,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:50.257Z"
   },
   {
     "name": "Soulver 3",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/c3/4a/39c34a62-c8b0-a17a-cedb-d0729d67a499/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Vlb55Wtr",
     "clickCount": 37,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:51.188Z"
   },
   {
     "name": "ToneBarrier",
@@ -1050,7 +1088,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/05/45/da05457b-eb1a-8107-5f46-896c59333780/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/9u7vbYkh",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:51:52.296Z"
   },
   {
     "name": "ArithFi",
