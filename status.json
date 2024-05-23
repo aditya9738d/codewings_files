@@ -214,7 +214,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/33/26/073326d6-2a22-3b32-aaed-f138dc57edde/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/u4GlOWaL",
     "clickCount": 7,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T18:30:42.386Z"
   },
   {
     "name": "ClipBorad",
@@ -3695,7 +3697,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/e2/cb/a5e2cb9e-048f-8fcf-aa70-a57d0717e85f/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ftRKu5mE",
     "clickCount": 1,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T18:30:42.386Z"
   },
   {
     "name": "Wink - Video Enhancing Tool",
