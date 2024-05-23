@@ -4267,14 +4267,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/df/7f/50df7fd9-944c-9340-87f7-234f2ecab15d/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/qouq41dn",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T12:55:12.675Z"
   },
   {
     "name": "One Technical Lite",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/d9/87/1cd9873a-e744-3b71-dc4f-1153af51b927/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/uwpTKire",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T12:55:12.675Z"
   },
   {
     "name": "Waverly",
