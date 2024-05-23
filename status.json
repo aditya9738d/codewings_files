@@ -555,7 +555,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/70/d6/8770d637-f902-b8d0-594c-ed4ff16068ad/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/bqbgDzME",
     "clickCount": 23,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "Circle Finance",
@@ -679,14 +681,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/02/fe/7802fedd-b195-184b-30d5-255138eeebcb/AppIcon.lsr/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/YoK2nuX6",
     "clickCount": 7,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "ChatyN",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/c6/3f/bac63f61-95fd-b2fe-93a6-69db9bb93932/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/O1KUa1m3",
     "clickCount": 70,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "FUTO Circles",
@@ -5089,105 +5095,135 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/f3/d8/f7f3d81f-5b1c-72cd-57d0-f63b132038fc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Drb81A3W",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "Utgard: Path of Heroes",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/9a/8c/c29a8ca2-72b5-2ad1-fdfc-217f1a7de528/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/p90UlWdj",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "Counter Fire",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/9f/29/289f2944-2f25-5b85-3abd-3f69ba527425/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/FZy2TE8m",
     "clickCount": 16,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "Nachos and Movies",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/55/ea/6855ea0f-c70e-41f4-acaa-9ca93d50d93e/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/doaG1qHl",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "Futy",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/e2/bd/00e2bd86-8250-561e-f6c8-5487249aae10/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/p27wWTGd",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "Freebox Files",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/09/a4/a909a407-cdef-36d8-a5c8-858e84ad9d95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/T8Op14Wg",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "Cake Wallet",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/3b/a9/693ba9fe-824a-a39f-7336-5354b495e157/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/f9yFYx9H",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "RuBaRu",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/62/a2/5462a2eb-df01-f591-0c7f-e8ebdfcb0539/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/mbz7OTlH",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "Hiddify",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/55/29/f455299e-7947-9a0d-dfdd-d04269270904/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/e5OHNkaF",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "TerraTrek",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/ff/ab/7bffabed-2fb9-8bbf-0fe6-c9b3cf798326/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/7jIs4sEX",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "LipLok",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/d3/93/c4d393de-92ee-0828-7b1b-e1746b4f88af/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/05UFXXqf",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "10MIN HEROES",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/7e/ef/ce7eefea-bc34-dc7e-1f80-233d67fbd04c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/wjtEowth",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "Fasty Tracker",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/65/34/ea65340e-31bf-0dbc-6b91-dd5d63beaee7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ArFEKEvI",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "WillKey",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/44/b2/1144b2ff-0ea0-63a2-e9a4-147c61bdc90f/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/wJT1sQ37",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "FormTime",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/19/7b/bc197be8-6663-58a1-8948-d165adf7f15e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/8oEvXjdL",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z"
   },
   {
     "name": "Decipher AI News",
@@ -5360,6 +5396,36 @@
       {
         "status": "open",
         "timestamp": "2024-05-23T08:06:14.898Z"
+      }
+    ]
+  },
+  {
+    "name": "DetonatorEP1",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ca/53/c6ca538f-4efe-c82a-1197-108671092bf8/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/BLCKQDur",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-23T08:08:01.161Z"
+      }
+    ]
+  },
+  {
+    "name": "Neboe",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/f8/1c/2ef81cf8-daf8-90e2-dfbc-e8eacffb41c6/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VfD0t0P7",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T08:08:01.161Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-23T08:08:01.161Z"
       }
     ]
   }
