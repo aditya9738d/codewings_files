@@ -1241,14 +1241,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/16/3f/1f/163f1f52-837b-af18-8194-c314d9887089/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/GbPsDyg4",
     "clickCount": 19,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:54:46.408Z"
   },
   {
     "name": "Simple Focus",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e9/35/01e93587-016c-8985-575f-763fd99fdf6b/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Gs80E65C",
     "clickCount": 2,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T07:54:46.408Z"
   },
   {
     "name": "Music Discovery with Fusion",
