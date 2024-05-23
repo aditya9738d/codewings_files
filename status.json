@@ -3691,7 +3691,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/70/4e/46704e1d-f877-861b-2366-ababf0422f10/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ZviH3WzG",
     "clickCount": 14,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-23T15:55:15.842Z"
   },
   {
     "name": "RoQoL",
@@ -3807,7 +3809,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/f1/53/fef153a8-9d7d-e81a-0d94-0bdba5e85f84/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/KzfUUDAC",
     "clickCount": 19,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T15:55:15.842Z"
   },
   {
     "name": "Map Alarm: Maps & Open Streets",
