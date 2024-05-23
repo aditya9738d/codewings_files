@@ -4040,14 +4040,31 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/69/4f/f0694f39-7757-6699-b63c-af14f79b8468/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/GkbLawaz",
     "clickCount": 5,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T13:50:21.458Z"
   },
   {
     "name": "WhatsApp Messenger",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/18/c3/2f18c3e8-103d-dd67-7cf9-c81307459370/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/8sLvv90R",
-    "clickCount": 770,
-    "betaAvailable": "full"
+    "clickCount": 800,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Business"
+      ],
+      [
+        "Chat"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Social Networking"
+      ]
+    ],
+    "lastChecked": "2024-05-23T13:50:21.458Z"
   },
   {
     "name": "Oooh: Official Group Chats",
