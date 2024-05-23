@@ -3018,7 +3018,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/0b/e8/8f0be8ad-b19e-06b6-22fc-e273e1828fa3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/HPbYkfzz",
     "clickCount": 9,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-23T22:40:19.295Z"
   },
   {
     "name": "Composer: Automate Trades",
@@ -3043,7 +3045,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/de/d6/34ded64c-528e-29de-92b8-a23b8a9a65e2/BetaAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/T99UPBgQ",
     "clickCount": 1,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T22:40:19.295Z"
   },
   {
     "name": "CoinPocket",
