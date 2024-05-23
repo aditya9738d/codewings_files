@@ -2446,15 +2446,19 @@
     "name": "Adobe Acrobat Reader: Edit PDF",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/02/90/330290b0-a44e-55d6-dd4b-e03f1b7dca97/ReleaseAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/8XhFnQlp",
-    "clickCount": 40,
-    "betaAvailable": "open"
+    "clickCount": 41,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:50:22.209Z"
   },
   {
     "name": "Messenger",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/ee/65/a3ee6587-ec8c-27d8-f764-eceddb14d6dc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/njVWbUm0",
-    "clickCount": 75,
-    "betaAvailable": "open"
+    "clickCount": 77,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T20:50:22.209Z"
   },
   {
     "name": "CapCut - Video Editor",
