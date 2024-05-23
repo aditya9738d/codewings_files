@@ -4148,14 +4148,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/0b/35/5e0b3557-3273-8094-3e88-edd4d800b118/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/cVOUQgVD",
     "clickCount": 8,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T13:20:21.917Z"
   },
   {
     "name": "Vipps MT",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/5f/d2/085fd24c-a27d-80d4-5833-fbc38f0a72ef/AppIconMT-Vipps-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/hTAYrwea",
     "clickCount": 22,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T13:20:21.917Z"
   },
   {
     "name": "Float Remote",
