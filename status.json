@@ -3288,9 +3288,10 @@
     "name": "myDash - APIServer Mobile",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/45/48/5545481a-7d90-0551-cdd4-5b811a6afbc5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/WzvGL253",
-    "clickCount": 2,
+    "clickCount": 3,
     "betaAvailable": "open",
-    "categories": []
+    "categories": [],
+    "lastChecked": "2024-05-23T23:10:18.718Z"
   },
   {
     "name": "Kita Bestee BTPN Syariah",
@@ -3298,7 +3299,8 @@
     "link": "https://testflight.apple.com/join/4xJ2E0MB",
     "clickCount": 6,
     "betaAvailable": "open",
-    "categories": []
+    "categories": [],
+    "lastChecked": "2024-05-23T23:10:18.718Z"
   },
   {
     "name": "Zello Walkie Talkie",
