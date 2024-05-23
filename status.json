@@ -3688,7 +3688,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/21/ad/e2/21ade2f8-1708-3622-97ec-f1dc19a0fc25/AppIcon_testflight-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/IERuiSEL",
     "clickCount": 7,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:30:43.837Z"
   },
   {
     "name": "Wink - Video AI Enhancement",
@@ -3704,7 +3706,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d1/f9/5ad1f93a-2530-51e7-5f29-2d88eb9d0ea4/AppIcon-1x_U007emarketing-0-7-0-P3-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/53H1QbUr",
     "clickCount": 18,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T16:30:43.837Z"
   },
   {
     "name": "Misty lite",
