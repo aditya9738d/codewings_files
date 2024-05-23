@@ -2837,8 +2837,10 @@
     "name": "Sticky Notes App + Note Widget",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/c5/b7/8bc5b7d5-a80c-0e56-d3c5-43028c1bec44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Y9EO4f8w",
-    "clickCount": 1,
-    "betaAvailable": "open"
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T22:20:21.351Z"
   },
   {
     "name": "YabiVision",
@@ -3983,7 +3985,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/b9/07/52b9073d-1efb-a40b-5905-c086d32ea90a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/toywNocd",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T22:20:21.351Z"
   },
   {
     "name": "Firefox web browser",
