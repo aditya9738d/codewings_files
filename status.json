@@ -3925,14 +3925,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/58/2c/50/582c50d2-4c0e-3628-a71e-ec060cd52e94/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/pFytRDso",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T15:35:15.835Z"
   },
   {
     "name": "Flightman Flight Crew",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/47/6c/e5476cf4-9462-afdd-b155-2a7499163471/AppIcon-Demo-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/JAkLLOPT",
     "clickCount": 20,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T15:35:15.835Z"
   },
   {
     "name": "Nanoleaf",
