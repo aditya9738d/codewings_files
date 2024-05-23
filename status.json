@@ -4680,14 +4680,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/31/20/8b312012-e271-d469-6a84-68c5fc25675a/AppIconBn-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/1sHSLDnX",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T09:00:47.841Z"
   },
   {
     "name": "Stethophone",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/64/14/176414e6-6913-d783-32a6-098950bcbf21/UAAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/psEDgC3w",
     "clickCount": 3,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-23T09:00:47.841Z"
   },
   {
     "name": "eRestro Singlevendor Rider",
