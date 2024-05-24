@@ -1227,9 +1227,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f0/42/e5/f042e541-b7ae-dbb8-9e96-fb95a84994a6/AppIcon-1x_U007ephone-0-0-0-0-0-0-85-220-0.jpeg/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/nZqhMgc3",
     "clickCount": 0,
-    "betaAvailable": "full",
+    "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T07:52:29.218Z"
+    "lastChecked": "2024-05-24T04:30:37.658Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-23T07:52:29.218Z"
+      }
+    ]
   },
   {
     "name": "CyberKeyFob",
@@ -1238,7 +1244,7 @@
     "clickCount": 10,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-23T07:52:29.218Z"
+    "lastChecked": "2024-05-24T04:30:37.658Z"
   },
   {
     "name": "BlinkMap",
