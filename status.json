@@ -4131,7 +4131,7 @@
     "clickCount": 6,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T16:25:13.415Z"
+    "lastChecked": "2024-05-24T17:10:22.025Z"
   },
   {
     "name": "Swiggy Food, Grocery & Dineout",
@@ -4139,8 +4139,24 @@
     "link": "https://testflight.apple.com/join/IERuiSEL",
     "clickCount": 7,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-23T16:30:43.837Z"
+    "categories": [
+      [
+        "Food"
+      ],
+      [
+        "Shopping"
+      ],
+      [
+        "Utility"
+      ],
+      [
+        "Food"
+      ],
+      [
+        "Shopping"
+      ]
+    ],
+    "lastChecked": "2024-05-24T17:10:22.025Z"
   },
   {
     "name": "Wink - Video AI Enhancement",
