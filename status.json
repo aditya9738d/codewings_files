@@ -4148,8 +4148,12 @@
     "link": "https://testflight.apple.com/join/ZviH3WzG",
     "clickCount": 14,
     "betaAvailable": "full",
-    "categories": [],
-    "lastChecked": "2024-05-24T16:10:22.253Z"
+    "categories": [
+      [
+        "Video"
+      ]
+    ],
+    "lastChecked": "2024-05-24T16:35:12.213Z"
   },
   {
     "name": "RoQoL",
@@ -4311,7 +4315,7 @@
     "clickCount": 29,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T16:05:13.747Z"
+    "lastChecked": "2024-05-24T16:35:12.213Z"
   },
   {
     "name": "iPlayTV AIO",
