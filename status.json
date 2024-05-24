@@ -85,7 +85,7 @@
     "name": "Facebook",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/59/07/2c590756-cbc6-bb2c-4924-c051ac3ecf35/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/C1a3MRG4",
-    "clickCount": 325,
+    "clickCount": 330,
     "betaAvailable": "full",
     "categories": [
       [
@@ -104,7 +104,7 @@
         "Video"
       ]
     ],
-    "lastChecked": "2024-05-23T18:10:21.587Z"
+    "lastChecked": "2024-05-24T18:15:22.067Z"
   },
   {
     "name": "Readwise Reader",
@@ -2478,10 +2478,10 @@
     "name": "The Kings Wants To Laugh",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/98/3f/08983f93-ec13-b025-e24b-687c0ffc6390/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/hTqcj6u2",
-    "clickCount": 1,
+    "clickCount": 3,
     "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-23T18:05:14.809Z"
+    "lastChecked": "2024-05-24T18:15:22.067Z"
   },
   {
     "name": "Adobe Acrobat Reader: Edit PDF",
