@@ -1913,16 +1913,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/3a/75/603a7565-f99d-80ea-7a16-2a8950dc451e/Icon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/B086wN2p",
     "clickCount": 1,
-    "betaAvailable": "not accepting"
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-24T06:35:13.245Z"
   },
   {
     "name": "Swing Trials",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/da/4a/46da4ab6-b579-47f3-bf37-373aad89e811/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/BgReQFnF",
-    "clickCount": 24,
+    "clickCount": 25,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T08:04:41.093Z"
+    "lastChecked": "2024-05-24T06:35:13.245Z"
   },
   {
     "name": "Manga Clash - Warrior Arena",
