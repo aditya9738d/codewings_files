@@ -5612,13 +5612,13 @@
     "clickCount": 2,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T08:23:44.850Z"
+    "lastChecked": "2024-05-24T10:20:22.208Z"
   },
   {
     "name": "Microsoft Designer",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/58/a7/ea58a75d-ae04-a9c5-108b-4f3317003255/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/KsuaylTZ",
-    "clickCount": 12,
+    "clickCount": 18,
     "betaAvailable": "open",
     "history": [
       {
@@ -5626,8 +5626,12 @@
         "timestamp": "2024-05-23T08:23:44.850Z"
       }
     ],
-    "categories": [],
-    "lastChecked": "2024-05-24T05:29:48.953Z"
+    "categories": [
+      [
+        "Art & Design"
+      ]
+    ],
+    "lastChecked": "2024-05-24T10:20:22.208Z"
   },
   {
     "name": "OrangeX: Buy Bitcoin & Crypto",
