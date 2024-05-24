@@ -1051,10 +1051,14 @@
     "name": "Pandemic 8 Ball Pool",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6a/e3/d8/6ae3d8cd-5a16-adbb-9c8c-91beab3f7811/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/fFYcLcjG",
-    "clickCount": 434,
+    "clickCount": 437,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-23T07:51:41.571Z"
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-24T03:45:20.041Z"
   },
   {
     "name": "Quotes: Share Beautiful Quotes",
@@ -1063,7 +1067,7 @@
     "clickCount": 4,
     "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-23T07:51:42.518Z"
+    "lastChecked": "2024-05-24T03:45:20.041Z"
   },
   {
     "name": "TextExpander 7 Keyboard",
