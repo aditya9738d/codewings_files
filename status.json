@@ -3878,7 +3878,7 @@
     "clickCount": 13,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T16:40:21.318Z"
+    "lastChecked": "2024-05-24T17:20:21.447Z"
   },
   {
     "name": "Zincir Market",
@@ -4204,8 +4204,12 @@
     "link": "https://testflight.apple.com/join/NTu06NVE",
     "clickCount": 9,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-23T16:35:16.258Z"
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-24T17:20:21.447Z"
   },
   {
     "name": "Big Mail",
