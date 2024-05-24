@@ -4579,9 +4579,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/6d/e8/466de8bc-c3b5-d5fb-1354-2f29ea588ead/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/zBWk4QZ1",
     "clickCount": 11,
-    "betaAvailable": "open",
+    "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-23T13:45:23.814Z"
+    "lastChecked": "2024-05-24T14:05:15.009Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-23T13:45:23.814Z"
+      }
+    ]
   },
   {
     "name": "NTNU CVCS 2021",
@@ -4590,7 +4596,7 @@
     "clickCount": 5,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T13:50:21.458Z"
+    "lastChecked": "2024-05-24T14:05:15.009Z"
   },
   {
     "name": "WhatsApp Messenger",
