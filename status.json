@@ -6157,10 +6157,10 @@
     "name": "Arm Arena",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/79/d0/5c79d06c-3025-f814-c303-6d650e07724d/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/OaBr1tzV",
-    "clickCount": 2,
+    "clickCount": 6,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-23T08:06:14.898Z",
+    "lastChecked": "2024-05-24T07:05:15.610Z",
     "history": [
       {
         "status": "full",
@@ -6175,7 +6175,7 @@
     "clickCount": 0,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T08:06:14.898Z",
+    "lastChecked": "2024-05-24T07:05:15.610Z",
     "history": [
       {
         "status": "open",
