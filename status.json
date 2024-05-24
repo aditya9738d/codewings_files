@@ -4635,8 +4635,12 @@
     "link": "https://testflight.apple.com/join/xr5o788R",
     "clickCount": 2,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-23T13:55:14.190Z"
+    "categories": [
+      [
+        "Social Networking"
+      ]
+    ],
+    "lastChecked": "2024-05-24T14:15:22.697Z"
   },
   {
     "name": "컨설텝스",
@@ -4645,7 +4649,7 @@
     "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T14:00:49.679Z"
+    "lastChecked": "2024-05-24T14:15:22.697Z"
   },
   {
     "name": "Vetero° Weather",
