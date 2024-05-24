@@ -4224,8 +4224,15 @@
     "link": "https://testflight.apple.com/join/TFhYeUyJ",
     "clickCount": 33,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T16:25:15.029Z"
+    "categories": [
+      [
+        "Business"
+      ],
+      [
+        "Shopping"
+      ]
+    ],
+    "lastChecked": "2024-05-24T16:50:22.770Z"
   },
   {
     "name": "Hyalocare",
@@ -4288,7 +4295,7 @@
     "clickCount": 0,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-23T16:05:14.717Z"
+    "lastChecked": "2024-05-24T16:50:22.770Z"
   },
   {
     "name": "SolarEdge Go",
