@@ -5212,7 +5212,7 @@
     "clickCount": 3,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T08:23:44.850Z"
+    "lastChecked": "2024-05-24T09:35:15.938Z"
   },
   {
     "name": "Vulcanova Dzienniczek",
@@ -6048,7 +6048,9 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/b8/9f/abb89f80-3d9e-9f16-6cb2-3a4849eaf8e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/TXiRrJ2e",
     "clickCount": 0,
-    "betaAvailable": "open"
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-24T09:35:15.938Z"
   },
   {
     "name": "Photos Backup Anywhere",
