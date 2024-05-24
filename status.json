@@ -6142,10 +6142,10 @@
     "name": "Dharamik Signal",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b8/74/3e/b8743e07-8130-f015-8989-5bc094012dde/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/BuwazBeq",
-    "clickCount": 0,
+    "clickCount": 4,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T08:06:14.898Z",
+    "lastChecked": "2024-05-24T07:00:46.370Z",
     "history": [
       {
         "status": "open",
@@ -6255,6 +6255,21 @@
       {
         "status": "open",
         "timestamp": "2024-05-23T08:08:01.161Z"
+      }
+    ]
+  },
+  {
+    "name": "On: Shop Shoes & Apparel",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/49/4f/89494fc6-361f-03c4-f254-34ab316b2cee/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/xXPcBCE3",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-24T07:00:46.370Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-24T07:00:46.370Z"
       }
     ]
   }
