@@ -343,14 +343,18 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/58/b1/ee/58b1eef1-4dfc-47d9-059b-bba86adaca2d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/9KdDFgbw",
     "clickCount": 22,
-    "betaAvailable": "full"
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-24T00:45:21.389Z"
   },
   {
     "name": "Empty Fasting",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/80/e7/f7/80e7f7e5-4725-baf6-5dfd-a27694c6238f/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/1Ex8uyu7",
     "clickCount": 54,
-    "betaAvailable": "error"
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-24T00:45:21.389Z"
   },
   {
     "name": "Axiome Wallet",
