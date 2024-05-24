@@ -248,7 +248,7 @@
     "clickCount": 3,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-23T07:36:25.686Z"
+    "lastChecked": "2024-05-24T00:30:37.351Z"
   },
   {
     "name": "Geotag Alpha for Sony",
@@ -4074,10 +4074,14 @@
     "name": "Call of Duty Mobile",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/p2C7aFDw",
-    "clickCount": 557,
+    "clickCount": 567,
     "betaAvailable": "full",
-    "categories": [],
-    "lastChecked": "2024-05-23T07:36:26.558Z"
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-24T00:30:37.351Z"
   },
   {
     "name": "Metro Staging",
