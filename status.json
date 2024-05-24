@@ -2347,7 +2347,7 @@
     "clickCount": 9,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T17:20:20.291Z"
+    "lastChecked": "2024-05-24T17:49:06.302Z"
   },
   {
     "name": "F1ATV beta",
@@ -2951,9 +2951,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ed/0b/f6ed0bea-8ba9-c89e-d6dd-169e9940b613/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/3XiyIWZD",
     "clickCount": 5,
-    "betaAvailable": "open",
+    "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-23T17:15:22.235Z"
+    "lastChecked": "2024-05-24T17:49:06.302Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-23T17:15:22.235Z"
+      }
+    ]
   },
   {
     "name": "Feditext",
