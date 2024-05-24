@@ -6190,7 +6190,7 @@
     "clickCount": 0,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T08:06:14.898Z",
+    "lastChecked": "2024-05-24T07:10:21.328Z",
     "history": [
       {
         "status": "open",
@@ -6202,10 +6202,14 @@
     "name": "In Next Life",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/b3/63/3eb36360-82b1-d720-79e4-41b716785ee1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/D50l7OXY",
-    "clickCount": 2,
+    "clickCount": 4,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-23T08:06:14.898Z",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-24T07:10:21.328Z",
     "history": [
       {
         "status": "open",
