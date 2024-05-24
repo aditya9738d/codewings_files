@@ -2569,9 +2569,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b0/1b/97b01b41-3e4f-7c06-9259-5f2674df3aa0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/km3LkqB1",
     "clickCount": 0,
-    "betaAvailable": "full",
+    "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-23T21:05:15.495Z"
+    "lastChecked": "2024-05-24T21:15:21.704Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-23T21:05:15.495Z"
+      }
+    ]
   },
   {
     "name": "Spotify - Music and Podcasts",
@@ -2580,7 +2586,7 @@
     "clickCount": 51,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-23T21:05:15.495Z"
+    "lastChecked": "2024-05-24T21:15:21.704Z"
   },
   {
     "name": "Photoroom: AI Photo Editor",
