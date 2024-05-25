@@ -6310,10 +6310,10 @@
     "name": "FSCB Banking",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/e3/e6/eae3e6d0-a88c-f654-3890-120e7102164a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/J0HJaCws",
-    "clickCount": 0,
+    "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T07:10:21.328Z",
+    "lastChecked": "2024-05-25T08:55:14.414Z",
     "history": [
       {
         "status": "open",
@@ -6325,14 +6325,14 @@
     "name": "In Next Life",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/b3/63/3eb36360-82b1-d720-79e4-41b716785ee1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/D50l7OXY",
-    "clickCount": 4,
+    "clickCount": 8,
     "betaAvailable": "open",
     "categories": [
       [
         "Games"
       ]
     ],
-    "lastChecked": "2024-05-24T07:10:21.328Z",
+    "lastChecked": "2024-05-25T08:55:14.414Z",
     "history": [
       {
         "status": "open",
