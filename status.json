@@ -1166,10 +1166,17 @@
     "name": "ToneBarrier",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/6f/b9/e46fb9ad-318c-52f2-9920-79783df84e59/ToneBarrierAppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/LqGKPwdG",
-    "clickCount": 71,
+    "clickCount": 72,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T07:45:21.731Z"
+    "categories": [
+      [
+        "Music"
+      ],
+      [
+        "Utility"
+      ]
+    ],
+    "lastChecked": "2024-05-25T09:30:41.344Z"
   },
   {
     "name": "Cue - Text Reminders",
@@ -5844,8 +5851,12 @@
     "link": "https://testflight.apple.com/join/huBwl3If",
     "clickCount": 0,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T07:45:21.731Z"
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-25T09:30:41.344Z"
   },
   {
     "name": "Vultisig",
