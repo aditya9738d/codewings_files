@@ -2796,10 +2796,23 @@
     "name": "Snapchat",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/8a/60/318a6006-8fe9-ee72-def2-d5f7947464a4/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/p7hGbZUR",
-    "clickCount": 524,
+    "clickCount": 531,
     "betaAvailable": "full",
-    "categories": [],
-    "lastChecked": "2024-05-24T21:40:19.718Z"
+    "categories": [
+      [
+        "Chat"
+      ],
+      [
+        "Entertainment"
+      ],
+      [
+        "Photography"
+      ],
+      [
+        "Social Networking"
+      ]
+    ],
+    "lastChecked": "2024-05-25T23:05:14.232Z"
   },
   {
     "name": "Plex: Watch Live TV and Movies",
@@ -2808,7 +2821,7 @@
     "clickCount": 7,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-24T21:45:23.744Z"
+    "lastChecked": "2024-05-25T23:05:14.232Z"
   },
   {
     "name": "Tam Giới Phân Tranh Mobile",
