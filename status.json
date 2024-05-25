@@ -6583,5 +6583,49 @@
         "timestamp": "2024-05-25T08:35:16.058Z"
       }
     ]
+  },
+  {
+    "name": "Rave - Watch Party",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/74/a9/ce74a99c-6edc-148b-1458-e1d5e19ec0e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/OrZ9CLQU",
+    "clickCount": 19,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Entertainment"
+      ],
+      [
+        "Music"
+      ]
+    ],
+    "lastChecked": "2024-05-25T08:40:18.843Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-25T08:40:18.843Z"
+      }
+    ]
+  },
+  {
+    "name": "Wikipedia",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/69/88/916988e0-fa95-ccea-9a56-72f7c3dddf08/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Z0AU0KXC",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Books"
+      ],
+      [
+        "Education"
+      ]
+    ],
+    "lastChecked": "2024-05-25T08:40:18.843Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-25T08:40:18.843Z"
+      }
+    ]
   }
 ]
