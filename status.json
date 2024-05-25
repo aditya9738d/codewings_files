@@ -3647,7 +3647,7 @@
     "clickCount": 11,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T20:15:19.775Z"
+    "lastChecked": "2024-05-25T21:35:13.972Z"
   },
   {
     "name": "Rồng Thần Online",
@@ -4121,10 +4121,14 @@
     "name": "pr0gramm App",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ca/08/f6ca08ef-81b9-33f2-00c8-40b48ea47f56/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/NubTl9vH",
-    "clickCount": 68,
+    "clickCount": 70,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T20:15:19.775Z"
+    "categories": [
+      [
+        "Developer"
+      ]
+    ],
+    "lastChecked": "2024-05-25T21:35:13.972Z"
   },
   {
     "name": "2024 Eclipse Live",
