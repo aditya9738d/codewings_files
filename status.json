@@ -4307,7 +4307,7 @@
         "Chat"
       ]
     ],
-    "lastChecked": "2024-05-24T17:00:50.453Z"
+    "lastChecked": "2024-05-25T18:02:08.051Z"
   },
   {
     "name": "Neon - Color Picker",
@@ -4315,8 +4315,12 @@
     "link": "https://testflight.apple.com/join/p3t93K3L",
     "clickCount": 5,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-23T16:20:21.050Z"
+    "categories": [
+      [
+        "Utility"
+      ]
+    ],
+    "lastChecked": "2024-05-25T18:02:08.051Z"
   },
   {
     "name": "AliExpress Shopping App",
