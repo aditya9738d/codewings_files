@@ -4444,16 +4444,20 @@
     "clickCount": 9,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T15:25:14.900Z"
+    "lastChecked": "2024-05-25T17:15:22.766Z"
   },
   {
     "name": "Knight",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/68/7e/d8687eda-71ae-fb1d-323f-16fdc8c55862/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/bOzxqdei",
-    "clickCount": 14,
+    "clickCount": 15,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T15:30:43.386Z"
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-25T17:15:22.766Z"
   },
   {
     "name": "MyOrderApp Demo",
