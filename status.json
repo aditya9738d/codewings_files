@@ -6459,5 +6459,35 @@
         "timestamp": "2024-05-25T08:15:22.151Z"
       }
     ]
+  },
+  {
+    "name": "filli app",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/15/90/b115900e-5425-7399-5268-ecb9741d0c94/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/a9m7JO61",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-25T08:20:19.708Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-25T08:20:19.708Z"
+      }
+    ]
+  },
+  {
+    "name": "Collabora Office",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/44/78/8d4478f0-b61c-b7a5-9de3-a88c39bd1ca9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/TEnBWi68",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-25T08:20:19.708Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-25T08:20:19.708Z"
+      }
+    ]
   }
 ]
