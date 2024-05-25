@@ -4323,7 +4323,7 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/07/a4/7707a481-294f-150e-12cc-fae099020872/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/TFhYeUyJ",
     "clickCount": 33,
-    "betaAvailable": "open",
+    "betaAvailable": "full",
     "categories": [
       [
         "Business"
@@ -4332,7 +4332,13 @@
         "Shopping"
       ]
     ],
-    "lastChecked": "2024-05-24T16:50:22.770Z"
+    "lastChecked": "2024-05-25T17:58:07.201Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-24T16:50:22.770Z"
+      }
+    ]
   },
   {
     "name": "Hyalocare",
@@ -4341,7 +4347,7 @@
     "clickCount": 9,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T16:55:15.785Z"
+    "lastChecked": "2024-05-25T17:58:07.201Z"
   },
   {
     "name": "Keka",
