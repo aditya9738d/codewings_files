@@ -5579,8 +5579,12 @@
     "link": "https://testflight.apple.com/join/UDDdSKNn",
     "clickCount": 0,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T11:10:21.349Z"
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-25T13:00:49.464Z"
   },
   {
     "name": "Watermelon__Game",
@@ -5588,8 +5592,12 @@
     "link": "https://testflight.apple.com/join/zEkLhX0L",
     "clickCount": 11,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T11:15:23.191Z"
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-25T13:00:49.464Z"
   },
   {
     "name": "BuddyBoss Branding App",
