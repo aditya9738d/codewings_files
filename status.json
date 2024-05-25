@@ -402,10 +402,10 @@
     "name": "Devomon Callisto",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c7/4e/fe/c74efe98-b367-5262-1b1f-f1c445096766/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/zP1EuUwb",
-    "clickCount": 16,
+    "clickCount": 17,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T00:55:14.642Z"
+    "lastChecked": "2024-05-25T01:10:20.814Z"
   },
   {
     "name": "Midicircuit",
@@ -414,7 +414,7 @@
     "clickCount": 8,
     "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-24T01:00:46.443Z"
+    "lastChecked": "2024-05-25T01:10:20.814Z"
   },
   {
     "name": "Pikamoon",
