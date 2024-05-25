@@ -1,3 +1,5 @@
+- **Mesh SMS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/86/99/42869918-c181-98aa-526b-2e8b9fe336a0/AppIcon-1x_U007epad-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6mKuAhbG)
+
 - **Zesfy - Daily Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/78/2c/94782c38-fe18-2ab0-973d-273cd1a6155a/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vsr4s4L1)
 
 - **The Blue Litter Project Hub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a4/57/ada457a5-1765-81b4-60ab-49013ee2da38/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w5G7HMr)
@@ -45,6 +47,3 @@
 - **Wallet 3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/c0/99/26c099d2-7b1c-5389-455e-7997ebb7115a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5acvlgyK)
 
 - **TerraMow**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/f3/cb/fff3cbd2-fe8d-4a07-d213-9325e741937e/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a22IhpE2)
-
-- **[DEV] Mental Vision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/b9/10/e1b9105e-2ed2-0c1e-f6b3-c6d3b656890f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jEZtTnwk)
-- **Legal Smoke Guide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/0e/05/5b0e05be-3e30-16f6-af35-5677422c57df/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/84QZJuDs)
