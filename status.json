@@ -4890,7 +4890,7 @@
     "clickCount": 5,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T13:40:23.453Z"
+    "lastChecked": "2024-05-25T15:30:41.495Z"
   },
   {
     "name": "Avatar Musik",
@@ -4898,8 +4898,12 @@
     "link": "https://testflight.apple.com/join/O0KKLALY",
     "clickCount": 10,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T13:45:26.614Z"
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-25T15:30:41.495Z"
   },
   {
     "name": "依米短视频",
