@@ -5357,7 +5357,7 @@
     "clickCount": 15,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T11:20:18.260Z"
+    "lastChecked": "2024-05-25T13:05:14.178Z"
   },
   {
     "name": "Fraggy Road",
@@ -5605,8 +5605,15 @@
     "link": "https://testflight.apple.com/join/RyFaWoIr",
     "clickCount": 2,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T11:15:23.191Z"
+    "categories": [
+      [
+        "Art & Design"
+      ],
+      [
+        "Education"
+      ]
+    ],
+    "lastChecked": "2024-05-25T13:05:14.178Z"
   },
   {
     "name": "Bike Hills",
