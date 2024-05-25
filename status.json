@@ -5423,8 +5423,12 @@
     "link": "https://testflight.apple.com/join/qwxFohAR",
     "clickCount": 0,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T11:35:14.051Z"
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-25T13:25:12.946Z"
   },
   {
     "name": "中国移动云盘-全民不限速",
@@ -5433,7 +5437,7 @@
     "clickCount": 2,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T11:40:25.357Z"
+    "lastChecked": "2024-05-25T13:25:12.946Z"
   },
   {
     "name": "Học Viện TuVi Việt Nam",
