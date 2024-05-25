@@ -5165,8 +5165,12 @@
     "link": "https://testflight.apple.com/join/mIk6RkqE",
     "clickCount": 6,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T12:20:19.088Z"
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-25T14:10:21.231Z"
   },
   {
     "name": "런붕앱",
@@ -5175,7 +5179,7 @@
     "clickCount": 0,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T12:25:14.053Z"
+    "lastChecked": "2024-05-25T14:10:21.231Z"
   },
   {
     "name": "EIC App",
