@@ -218,10 +218,10 @@
     "name": "HomeHabit",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/a6/8a/8fa68a5c-ae68-6283-b387-2a882ef494db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/KbpFHzx0",
-    "clickCount": 19,
+    "clickCount": 21,
     "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-24T00:25:12.628Z"
+    "lastChecked": "2024-05-25T00:35:11.649Z"
   },
   {
     "name": "Screeps Observer",
@@ -239,7 +239,7 @@
     "clickCount": 12,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-24T00:25:12.628Z"
+    "lastChecked": "2024-05-25T00:35:11.649Z"
   },
   {
     "name": "TV Time: Track Shows & Movies",
