@@ -6103,16 +6103,22 @@
     "clickCount": 0,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T09:10:21.649Z"
+    "lastChecked": "2024-05-25T10:55:11.827Z"
   },
   {
     "name": "Hiddify",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/55/29/f455299e-7947-9a0d-dfdd-d04269270904/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/e5OHNkaF",
     "clickCount": 2,
-    "betaAvailable": "open",
+    "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-24T09:10:21.649Z"
+    "lastChecked": "2024-05-25T10:55:11.827Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-24T09:10:21.649Z"
+      }
+    ]
   },
   {
     "name": "TerraTrek",
