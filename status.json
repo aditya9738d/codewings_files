@@ -2864,16 +2864,22 @@
     "clickCount": 4,
     "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-24T21:55:12.286Z"
+    "lastChecked": "2024-05-25T23:20:19.201Z"
   },
   {
     "name": "StepVillapp",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/78/dd/c3/78ddc3c3-1c9d-8ef8-28f6-775c73fceca4/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/oiTSmhCc",
     "clickCount": 3,
-    "betaAvailable": "open",
+    "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-24T22:00:46.607Z"
+    "lastChecked": "2024-05-25T23:20:19.201Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-24T22:00:46.607Z"
+      }
+    ]
   },
   {
     "name": "Лабиринтиум",
