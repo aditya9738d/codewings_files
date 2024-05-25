@@ -473,9 +473,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/32/7e/f1327e17-7579-bb85-94d0-2bd372ebc1bf/prodAppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/eQLqqX9o",
     "clickCount": 14,
-    "betaAvailable": "not accepting",
+    "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T01:15:20.467Z"
+    "lastChecked": "2024-05-25T01:30:39.836Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-24T01:15:20.467Z"
+      }
+    ]
   },
   {
     "name": "Zealer",
@@ -484,7 +490,7 @@
     "clickCount": 56,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T01:20:20.604Z"
+    "lastChecked": "2024-05-25T01:30:39.836Z"
   },
   {
     "name": "WOW: Wars of Wanon",
