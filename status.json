@@ -5554,8 +5554,15 @@
     "link": "https://testflight.apple.com/join/wqMcr5at",
     "clickCount": 3,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-24T11:05:15.933Z"
+    "categories": [
+      [
+        "Food"
+      ],
+      [
+        "Shopping"
+      ]
+    ],
+    "lastChecked": "2024-05-25T12:55:13.635Z"
   },
   {
     "name": "جامعة صبراتة",
@@ -5564,7 +5571,7 @@
     "clickCount": 2,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T11:10:21.349Z"
+    "lastChecked": "2024-05-25T12:55:13.635Z"
   },
   {
     "name": "CBRO",
