@@ -1307,10 +1307,14 @@
     "name": "GitHub",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/1f/a8/1c1fa830-da0c-b678-ea9d-b76af7f255bb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/NLskzwi5",
-    "clickCount": 67,
+    "clickCount": 68,
     "betaAvailable": "full",
-    "categories": [],
-    "lastChecked": "2024-05-24T04:45:17.150Z"
+    "categories": [
+      [
+        "Developer"
+      ]
+    ],
+    "lastChecked": "2024-05-25T05:00:47.763Z"
   },
   {
     "name": "Super Fren: Super App for NFTs",
@@ -1319,7 +1323,7 @@
     "clickCount": 3,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T04:50:18.222Z"
+    "lastChecked": "2024-05-25T05:00:47.763Z"
   },
   {
     "name": "Family - Ethereum Wallet",
