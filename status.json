@@ -1383,10 +1383,10 @@
     "name": "3D Scan Pro",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/ac/c0/acacc064-1dc3-1e46-3f90-2c53a708e7aa/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/29NljUzy",
-    "clickCount": 9,
+    "clickCount": 12,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-24T05:00:45.073Z"
+    "lastChecked": "2024-05-25T05:20:20.693Z"
   },
   {
     "name": "崩坏3测试服",
@@ -1395,7 +1395,7 @@
     "clickCount": 6,
     "betaAvailable": "error",
     "categories": [],
-    "lastChecked": "2024-05-24T05:02:30.552Z"
+    "lastChecked": "2024-05-25T05:20:20.693Z"
   },
   {
     "name": "AppDab",
