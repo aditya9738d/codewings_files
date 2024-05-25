@@ -192,9 +192,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/mE4SHGvn",
     "clickCount": 4,
-    "betaAvailable": "open",
+    "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-24T19:45:23.022Z"
+    "lastChecked": "2024-05-25T21:05:16.334Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-24T19:45:23.022Z"
+      }
+    ]
   },
   {
     "name": "PDF Viewer - Annotation Expert",
@@ -203,7 +209,7 @@
     "clickCount": 3,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T19:45:23.022Z"
+    "lastChecked": "2024-05-25T21:05:16.334Z"
   },
   {
     "name": "Nostrmo",
