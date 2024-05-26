@@ -6700,10 +6700,10 @@
     "name": "Collabora Office",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/44/78/8d4478f0-b61c-b7a5-9de3-a88c39bd1ca9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/TEnBWi68",
-    "clickCount": 0,
+    "clickCount": 2,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T08:20:19.708Z",
+    "lastChecked": "2024-05-26T09:55:12.866Z",
     "history": [
       {
         "status": "open",
@@ -6718,7 +6718,7 @@
     "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T08:25:14.176Z",
+    "lastChecked": "2024-05-26T09:55:12.866Z",
     "history": [
       {
         "status": "open",
