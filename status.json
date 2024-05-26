@@ -5500,10 +5500,10 @@
     "name": "NHTDSGAME",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/f2/9b/59f29b4b-cf22-077e-b933-c3529845bc14/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/gsF1MZGp",
-    "clickCount": 15,
+    "clickCount": 16,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T13:05:14.178Z"
+    "lastChecked": "2024-05-26T14:35:15.822Z"
   },
   {
     "name": "Fraggy Road",
@@ -5757,7 +5757,7 @@
     "name": "BuddyBoss Branding App",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/3e/33/9a3e331b-207c-ffa3-0e73-651e775d1aa1/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/RyFaWoIr",
-    "clickCount": 2,
+    "clickCount": 5,
     "betaAvailable": "open",
     "categories": [
       [
@@ -5767,7 +5767,7 @@
         "Education"
       ]
     ],
-    "lastChecked": "2024-05-25T13:05:14.178Z"
+    "lastChecked": "2024-05-26T14:35:15.822Z"
   },
   {
     "name": "Bike Hills",
