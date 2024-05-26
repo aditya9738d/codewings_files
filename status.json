@@ -5900,10 +5900,10 @@
     "name": "Device Management App",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/e4/20/94e4201e-a2c7-51d0-062e-5448af0a4304/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/ZspSdWIi",
-    "clickCount": 35,
+    "clickCount": 36,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T11:55:14.596Z"
+    "lastChecked": "2024-05-26T13:30:40.477Z"
   },
   {
     "name": "LCVirtual",
@@ -5912,7 +5912,7 @@
     "clickCount": 3,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T12:00:49.317Z"
+    "lastChecked": "2024-05-26T13:30:40.477Z"
   },
   {
     "name": "VPBank Jarvis SalesApp",
