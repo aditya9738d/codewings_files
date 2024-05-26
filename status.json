@@ -3263,16 +3263,16 @@
     "name": "Avocado Wallet",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/21/8b/6d218be1-1e73-41d4-d0e9-9284c1b0a0c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/MxPn3PUa",
-    "clickCount": 21,
+    "clickCount": 22,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-24T22:55:13.704Z"
+    "lastChecked": "2024-05-26T00:20:19.003Z"
   },
   {
     "name": "Telegram Messenger",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/95/4d/fc/954dfc27-0bf5-db28-0c30-313f4b676853/AppIconLLC-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/u6iogfd0",
-    "clickCount": 1538,
+    "clickCount": 1544,
     "betaAvailable": "full",
     "categories": [
       [
@@ -3294,7 +3294,7 @@
         "Video"
       ]
     ],
-    "lastChecked": "2024-05-24T23:00:45.066Z"
+    "lastChecked": "2024-05-26T00:20:19.003Z"
   },
   {
     "name": "Quiet Mobile",
