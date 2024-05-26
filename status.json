@@ -709,10 +709,10 @@
     "name": "Flakey",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/8c/9a/4c8c9ae2-859e-68f3-d462-f5354ff14191/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/TGOVnAxT",
-    "clickCount": 16,
+    "clickCount": 17,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T03:40:18.206Z"
+    "lastChecked": "2024-05-26T22:20:20.416Z"
   },
   {
     "name": "Get Hello World",
@@ -721,7 +721,7 @@
     "clickCount": 25,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T03:45:20.493Z"
+    "lastChecked": "2024-05-26T22:20:20.416Z"
   },
   {
     "name": "BOG X",
