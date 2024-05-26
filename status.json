@@ -6730,10 +6730,17 @@
     "name": "1Password for Safari",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/87/97/b8879771-2b8c-dc45-db7d-55d61792e260/AppIcon-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/wdCBan7N",
-    "clickCount": 1,
+    "clickCount": 3,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-25T08:25:14.176Z",
+    "categories": [
+      [
+        "Browser"
+      ],
+      [
+        "Utility"
+      ]
+    ],
+    "lastChecked": "2024-05-26T10:00:46.326Z",
     "history": [
       {
         "status": "open",
@@ -6745,14 +6752,14 @@
     "name": "Blaze Of Empires RTS",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/78/56/207856b5-d2a6-cfc4-4b64-2fe892ed7518/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/MAyTMggk",
-    "clickCount": 1,
+    "clickCount": 3,
     "betaAvailable": "open",
     "categories": [
       [
         "Games"
       ]
     ],
-    "lastChecked": "2024-05-25T08:30:41.940Z",
+    "lastChecked": "2024-05-26T10:00:46.326Z",
     "history": [
       {
         "status": "open",
