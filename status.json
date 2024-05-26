@@ -449,16 +449,23 @@
     "clickCount": 31,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T02:40:19.179Z"
+    "lastChecked": "2024-05-26T21:54:06.918Z"
   },
   {
     "name": "Her AI Chat",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/a2/57/9aa257e5-41ef-9612-2196-525571ad90c0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/vYkfwoti",
-    "clickCount": 44,
+    "clickCount": 46,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-26T02:40:19.179Z"
+    "categories": [
+      [
+        "Ai"
+      ],
+      [
+        "Chat"
+      ]
+    ],
+    "lastChecked": "2024-05-26T21:54:06.918Z"
   },
   {
     "name": "FinEasy",
