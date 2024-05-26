@@ -1869,9 +1869,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/ea/92/e7ea9215-9f11-16b9-0be7-7dd94b08b83a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/DHipLt9w",
     "clickCount": 0,
-    "betaAvailable": "open",
+    "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-25T07:20:21.080Z"
+    "lastChecked": "2024-05-26T08:45:18.858Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-25T07:20:21.080Z"
+      }
+    ]
   },
   {
     "name": "KMON: Genesis",
@@ -1880,7 +1886,7 @@
     "clickCount": 0,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T07:25:14.130Z"
+    "lastChecked": "2024-05-26T08:45:18.858Z"
   },
   {
     "name": "Asurascans - Hot Manga Reader",
