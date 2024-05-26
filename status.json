@@ -4903,7 +4903,7 @@
     "clickCount": 7,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-25T16:10:22.754Z",
+    "lastChecked": "2024-05-26T17:32:06.961Z",
     "history": [
       {
         "status": "open",
@@ -4915,14 +4915,14 @@
     "name": "YouSee Musik",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/92/ca/4992cafa-8ab9-4e1a-fbcf-e0e364c0eb5a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/bUlXGEb8",
-    "clickCount": 65,
+    "clickCount": 66,
     "betaAvailable": "open",
     "categories": [
       [
         "Music"
       ]
     ],
-    "lastChecked": "2024-05-25T16:10:22.754Z"
+    "lastChecked": "2024-05-26T17:32:06.961Z"
   },
   {
     "name": "KingPoker.Club",
