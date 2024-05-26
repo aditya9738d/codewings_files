@@ -1445,7 +1445,7 @@
     "name": "IMDb",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/5c/2d/f95c2d45-30ae-fc74-2d1c-8fe5deb06d3d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Y9yo0X5t",
-    "clickCount": 217,
+    "clickCount": 219,
     "betaAvailable": "open",
     "categories": [
       [
@@ -1455,7 +1455,7 @@
         "Video"
       ]
     ],
-    "lastChecked": "2024-05-25T05:30:43.185Z"
+    "lastChecked": "2024-05-26T06:55:13.465Z"
   },
   {
     "name": "PotClock",
@@ -1464,7 +1464,7 @@
     "clickCount": 25,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T05:35:14.411Z"
+    "lastChecked": "2024-05-26T06:55:13.465Z"
   },
   {
     "name": "Avici -Buy bitcoin with UPI",
