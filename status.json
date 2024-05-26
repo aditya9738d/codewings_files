@@ -4506,10 +4506,10 @@
     "name": "Fast Vpn Demo",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a1/79/27a17902-9c75-a371-227a-fea9e287fb32/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/v6hQPX5p",
-    "clickCount": 63,
+    "clickCount": 65,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T17:56:07.768Z"
+    "lastChecked": "2024-05-26T18:18:07.067Z"
   },
   {
     "name": "Avare - Journal Map",
@@ -4518,7 +4518,7 @@
     "clickCount": 0,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-25T17:56:07.768Z"
+    "lastChecked": "2024-05-26T18:18:07.067Z"
   },
   {
     "name": "SolarEdge Go",
