@@ -478,10 +478,10 @@
     "name": "Gird",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/32/7e/f1327e17-7579-bb85-94d0-2bd372ebc1bf/prodAppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/eQLqqX9o",
-    "clickCount": 14,
+    "clickCount": 15,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T01:30:39.836Z",
+    "lastChecked": "2024-05-26T02:50:21.378Z",
     "history": [
       {
         "status": "not accepting",
@@ -4034,7 +4034,7 @@
     "clickCount": 9,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T01:25:12.970Z"
+    "lastChecked": "2024-05-26T02:50:21.378Z"
   },
   {
     "name": "Hunters On-Chain",
