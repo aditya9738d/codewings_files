@@ -1269,10 +1269,10 @@
     "name": "What's going on? Social Diary",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f0/42/e5/f042e541-b7ae-dbb8-9e96-fb95a84994a6/AppIcon-1x_U007ephone-0-0-0-0-0-0-85-220-0.jpeg/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/nZqhMgc3",
-    "clickCount": 3,
+    "clickCount": 4,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T06:05:13.209Z",
+    "lastChecked": "2024-05-26T23:18:06.849Z",
     "history": [
       {
         "status": "full",
@@ -1287,7 +1287,7 @@
     "clickCount": 10,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-26T06:05:13.209Z"
+    "lastChecked": "2024-05-26T23:18:06.849Z"
   },
   {
     "name": "BlinkMap",
