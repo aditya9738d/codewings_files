@@ -6628,7 +6628,7 @@
     "clickCount": 0,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T08:10:20.293Z",
+    "lastChecked": "2024-05-26T09:40:18.987Z",
     "history": [
       {
         "status": "open",
@@ -6876,6 +6876,21 @@
       {
         "status": "open",
         "timestamp": "2024-05-26T09:35:14.509Z"
+      }
+    ]
+  },
+  {
+    "name": "Mesh SMS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/86/99/42869918-c181-98aa-526b-2e8b9fe336a0/AppIcon-1x_U007epad-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6mKuAhbG",
+    "clickCount": 13,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-26T09:40:18.987Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-26T09:40:18.987Z"
       }
     ]
   }
