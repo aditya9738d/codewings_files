@@ -358,10 +358,17 @@
     "name": "musicat.ai",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/58/b1/ee/58b1eef1-4dfc-47d9-059b-bba86adaca2d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/9KdDFgbw",
-    "clickCount": 22,
+    "clickCount": 23,
     "betaAvailable": "full",
-    "categories": [],
-    "lastChecked": "2024-05-26T02:20:18.839Z"
+    "categories": [
+      [
+        "Ai"
+      ],
+      [
+        "Music"
+      ]
+    ],
+    "lastChecked": "2024-05-26T21:46:06.895Z"
   },
   {
     "name": "Empty Fasting",
@@ -370,7 +377,7 @@
     "clickCount": 54,
     "betaAvailable": "error",
     "categories": [],
-    "lastChecked": "2024-05-26T02:20:18.839Z"
+    "lastChecked": "2024-05-26T21:46:06.895Z"
   },
   {
     "name": "Axiome Wallet",
