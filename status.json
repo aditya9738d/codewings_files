@@ -2790,14 +2790,14 @@
     "name": "Google Chrome",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/94/d5/b694d5d1-4a48-d1bf-8672-281f19bb2683/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/LPQmtkUs",
-    "clickCount": 170,
+    "clickCount": 180,
     "betaAvailable": "open",
     "categories": [
       [
         "Browser"
       ]
     ],
-    "lastChecked": "2024-05-24T21:35:12.933Z"
+    "lastChecked": "2024-05-26T20:26:06.789Z"
   },
   {
     "name": "winston for Reddit",
@@ -2806,7 +2806,7 @@
     "clickCount": 6,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-25T23:00:45.261Z"
+    "lastChecked": "2024-05-26T20:26:06.789Z"
   },
   {
     "name": "WhatsApp Business",
