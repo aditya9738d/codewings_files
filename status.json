@@ -1553,9 +1553,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/f0/32/19f03209-f604-732c-1749-b5ba27431cbd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/miiie6Jt",
     "clickCount": 17,
-    "betaAvailable": "open",
+    "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-26T07:15:21.817Z"
+    "lastChecked": "2024-05-26T23:46:08.987Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-26T07:15:21.817Z"
+      }
+    ]
   },
   {
     "name": "VPN ExpressVPN - Fast & Secure",
@@ -1564,7 +1570,7 @@
     "clickCount": 12,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-26T07:15:21.817Z"
+    "lastChecked": "2024-05-26T23:46:08.987Z"
   },
   {
     "name": "RAFA: AI Investment Copilot",
