@@ -6613,7 +6613,7 @@
     "clickCount": 0,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T08:45:22.459Z",
+    "lastChecked": "2024-05-26T10:15:20.600Z",
     "history": [
       {
         "status": "open",
@@ -6838,7 +6838,7 @@
     "name": "Wikipedia",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/69/88/916988e0-fa95-ccea-9a56-72f7c3dddf08/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/Z0AU0KXC",
-    "clickCount": 1,
+    "clickCount": 3,
     "betaAvailable": "open",
     "categories": [
       [
@@ -6848,7 +6848,7 @@
         "Education"
       ]
     ],
-    "lastChecked": "2024-05-25T08:40:18.843Z",
+    "lastChecked": "2024-05-26T10:15:20.600Z",
     "history": [
       {
         "status": "open",
