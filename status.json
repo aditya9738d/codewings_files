@@ -4492,9 +4492,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/07/e5/0007e502-2c7e-bcb3-8003-95822a9d7f7a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/n7ZP4qBe",
     "clickCount": 1,
-    "betaAvailable": "open",
+    "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-25T17:54:07.194Z"
+    "lastChecked": "2024-05-26T18:16:06.966Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-25T17:54:07.194Z"
+      }
+    ]
   },
   {
     "name": "Fast Vpn Demo",
@@ -4530,7 +4536,7 @@
     "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T17:54:07.194Z"
+    "lastChecked": "2024-05-26T18:16:06.966Z"
   },
   {
     "name": "FileTunnel",
