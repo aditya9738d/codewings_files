@@ -1529,9 +1529,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/41/58/964158f8-9560-87bb-3bff-0e455f21e625/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/YwdVgCwp",
     "clickCount": 17,
-    "betaAvailable": "open",
+    "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-26T07:10:21.203Z"
+    "lastChecked": "2024-05-26T23:44:06.519Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-26T07:10:21.203Z"
+      }
+    ]
   },
   {
     "name": "MotoWeek",
@@ -1540,7 +1546,7 @@
     "clickCount": 33,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T07:10:21.203Z"
+    "lastChecked": "2024-05-26T23:44:06.519Z"
   },
   {
     "name": "Beautiful Covers",
