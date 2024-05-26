@@ -1726,10 +1726,10 @@
     "name": "HDHomeRun",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/26/cb/8a26cb76-5fb9-183b-4950-2d3f25e26c2e/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/nn30hcfY",
-    "clickCount": 46,
+    "clickCount": 47,
     "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-25T06:45:20.004Z"
+    "lastChecked": "2024-05-26T08:10:20.775Z"
   },
   {
     "name": "Bamboo Dragonfly",
@@ -1738,7 +1738,7 @@
     "clickCount": 5,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-25T06:50:21.983Z"
+    "lastChecked": "2024-05-26T08:10:20.775Z"
   },
   {
     "name": "Finiliar",
