@@ -3253,7 +3253,7 @@
     "clickCount": 26,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T00:15:20.507Z"
+    "lastChecked": "2024-05-26T20:58:08.371Z"
   },
   {
     "name": "SkyDemon",
@@ -3296,9 +3296,15 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/21/8b/6d218be1-1e73-41d4-d0e9-9284c1b0a0c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/MxPn3PUa",
     "clickCount": 22,
-    "betaAvailable": "open",
+    "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-26T00:20:19.003Z"
+    "lastChecked": "2024-05-26T20:58:08.371Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-26T00:20:19.003Z"
+      }
+    ]
   },
   {
     "name": "Telegram Messenger",
