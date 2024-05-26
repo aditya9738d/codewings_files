@@ -1369,10 +1369,14 @@
     "name": "Music Discovery with Fusion",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/b4/4d/c7b44d23-e0c2-5413-3e7f-0b311b701564/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/mgKIQ9hU",
-    "clickCount": 43,
+    "clickCount": 44,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-25T05:10:21.480Z"
+    "categories": [
+      [
+        "Music"
+      ]
+    ],
+    "lastChecked": "2024-05-26T06:35:15.022Z"
   },
   {
     "name": "BetaMonkeyEmpire",
@@ -1381,7 +1385,7 @@
     "clickCount": 43,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T05:15:20.896Z"
+    "lastChecked": "2024-05-26T06:35:15.022Z"
   },
   {
     "name": "Axon 3",
