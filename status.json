@@ -254,7 +254,7 @@
     "clickCount": 3,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T00:40:18.864Z",
+    "lastChecked": "2024-05-26T02:05:14.269Z",
     "history": [
       {
         "status": "full",
@@ -4274,14 +4274,14 @@
     "name": "Call of Duty Mobile",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/p2C7aFDw",
-    "clickCount": 570,
+    "clickCount": 574,
     "betaAvailable": "full",
     "categories": [
       [
         "Games"
       ]
     ],
-    "lastChecked": "2024-05-25T00:45:21.623Z"
+    "lastChecked": "2024-05-26T02:05:14.269Z"
   },
   {
     "name": "Metro Staging",
