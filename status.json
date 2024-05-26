@@ -3737,7 +3737,7 @@
     "clickCount": 8,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T01:10:19.958Z"
+    "lastChecked": "2024-05-26T21:20:20.559Z"
   },
   {
     "name": "Twitch Beta",
@@ -4307,10 +4307,17 @@
     "name": "Twitch",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/68/db/f768dba9-2d36-ddf2-9c78-a9530689e533/XarthAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/8vRKFAiY",
-    "clickCount": 24,
+    "clickCount": 25,
     "betaAvailable": "open",
-    "categories": [],
-    "lastChecked": "2024-05-26T01:15:20.342Z"
+    "categories": [
+      [
+        "Chat"
+      ],
+      [
+        "Social Networking"
+      ]
+    ],
+    "lastChecked": "2024-05-26T21:20:20.559Z"
   },
   {
     "name": "Call of Duty Mobile",
