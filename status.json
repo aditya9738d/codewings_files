@@ -2745,20 +2745,24 @@
         "clickCount": 4,
         "betaAvailable": "full",
         "categories": [],
-        "lastChecked": "2024-05-27T04:46:07.505Z"
+        "lastChecked": "2024-05-27T09:41:06.810Z"
     },
     {
         "name": "Stick War",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/5a/10/dc5a10c6-636a-73dc-7fe0-83dc294de362/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/eUx3WxVj",
         "clickCount": 10,
-        "betaAvailable": "open",
+        "betaAvailable": "full",
         "categories": [],
-        "lastChecked": "2024-05-27T04:46:07.505Z",
+        "lastChecked": "2024-05-27T09:41:06.810Z",
         "history": [
             {
                 "status": "full",
                 "timestamp": "2024-05-26T20:20:19.149Z"
+            },
+            {
+                "status": "open",
+                "timestamp": "2024-05-27T04:46:07.505Z"
             }
         ]
     },
@@ -2773,7 +2777,7 @@
                 "Ai"
             ]
         ],
-        "lastChecked": "2024-05-27T04:47:07.211Z"
+        "lastChecked": "2024-05-27T09:41:06.810Z"
     },
     {
         "name": "Picsart AI Photo Video Editor",
@@ -2798,14 +2802,14 @@
         "name": "Xbox Game Pass",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/6f/6d/d06f6d62-5504-d9d5-0415-daae006bd80c/AppIconBeta-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/wytcNylk",
-        "clickCount": 90,
+        "clickCount": 91,
         "betaAvailable": "full",
         "categories": [
             [
                 "Games"
             ]
         ],
-        "lastChecked": "2024-05-27T04:47:07.211Z"
+        "lastChecked": "2024-05-27T09:41:06.810Z"
     },
     {
         "name": "Solar Eclipse 2024 Mobile",
