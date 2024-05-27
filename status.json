@@ -2573,20 +2573,20 @@
         "clickCount": 41,
         "betaAvailable": "open",
         "categories": [],
-        "lastChecked": "2024-05-27T04:42:08.243Z"
+        "lastChecked": "2024-05-27T09:39:05.268Z"
     },
     {
         "name": "Messenger",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/ee/65/a3ee6587-ec8c-27d8-f764-eceddb14d6dc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/njVWbUm0",
-        "clickCount": 79,
+        "clickCount": 81,
         "betaAvailable": "open",
         "categories": [
             [
                 "Chat"
             ]
         ],
-        "lastChecked": "2024-05-27T04:42:08.243Z",
+        "lastChecked": "2024-05-27T09:39:05.268Z",
         "history": [
             {
                 "status": "open",
@@ -2603,7 +2603,7 @@
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/db/3d/2bdb3dce-513a-6c3d-59ca-dc57e5da71b6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/Gu9kI6ky",
         "clickCount": 55,
-        "betaAvailable": "full",
+        "betaAvailable": "open",
         "categories": [
             [
                 "Utility"
@@ -2612,22 +2612,28 @@
                 "Video"
             ]
         ],
-        "lastChecked": "2024-05-27T04:43:07.815Z"
+        "lastChecked": "2024-05-27T09:39:05.268Z",
+        "history": [
+            {
+                "status": "full",
+                "timestamp": "2024-05-27T04:43:07.815Z"
+            }
+        ]
     },
     {
         "name": "TikTok",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/b4/37/beb43754-e80d-24cb-c73e-fe2fe0dd0abd/AppIcon_TestFlight-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/pLmKZJKw",
         "clickCount": 143,
-        "betaAvailable": "full",
+        "betaAvailable": "open",
         "history": [
-            {
-                "status": "full",
-                "timestamp": "2024-05-23T20:55:16.254Z"
-            },
             {
                 "status": "open",
                 "timestamp": "2024-05-24T21:05:15.852Z"
+            },
+            {
+                "status": "full",
+                "timestamp": "2024-05-27T04:43:07.815Z"
             }
         ],
         "categories": [
@@ -2641,7 +2647,7 @@
                 "Video"
             ]
         ],
-        "lastChecked": "2024-05-27T04:43:07.815Z"
+        "lastChecked": "2024-05-27T09:39:05.268Z"
     },
     {
         "name": "1Blocker - Ad Blocker",
