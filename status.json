@@ -4829,10 +4829,10 @@
     "name": "Affinity iOS Beta",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/19/17/dc1917b7-4bfb-8a71-ff0f-b0138a3353e2/AppIcon-0-1x_U007epad-0-0-85-220-0.jpeg/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/DdFJxPLX",
-    "clickCount": 28,
+    "clickCount": 31,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-25T16:55:14.586Z"
+    "lastChecked": "2024-05-27T03:31:04.952Z"
   },
   {
     "name": "ngoc rong wow",
@@ -4841,7 +4841,7 @@
     "clickCount": 17,
     "betaAvailable": "error",
     "categories": [],
-    "lastChecked": "2024-05-25T16:55:14.586Z"
+    "lastChecked": "2024-05-27T03:31:04.952Z"
   },
   {
     "name": "Windows App Mobile Preview",
