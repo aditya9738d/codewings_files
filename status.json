@@ -6880,10 +6880,14 @@
         "name": "Power Automate",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/6c/5e/016c5e88-fefa-2cf4-a2da-e11f0fa47cfb/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/IQfqWDCi",
-        "clickCount": 6,
+        "clickCount": 7,
         "betaAvailable": "open",
-        "categories": [],
-        "lastChecked": "2024-05-27T10:48:08.170Z",
+        "categories": [
+            [
+                "Utility"
+            ]
+        ],
+        "lastChecked": "2024-05-27T13:27:07.434Z",
         "history": [
             {
                 "status": "open",
@@ -6905,7 +6909,7 @@
                 "Utility"
             ]
         ],
-        "lastChecked": "2024-05-27T10:49:07.350Z",
+        "lastChecked": "2024-05-27T13:27:07.434Z",
         "history": [
             {
                 "status": "open",
@@ -6924,7 +6928,7 @@
                 "Games"
             ]
         ],
-        "lastChecked": "2024-05-27T10:49:07.350Z",
+        "lastChecked": "2024-05-27T13:27:07.434Z",
         "history": [
             {
                 "status": "open",
@@ -6936,10 +6940,17 @@
         "name": "Clipchamp Dev",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/84/8a/05848a6f-9947-fee1-36f4-c4e28b969c07/AppIcon-Dev-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/rG93mFo8",
-        "clickCount": 3,
+        "clickCount": 4,
         "betaAvailable": "open",
-        "categories": [],
-        "lastChecked": "2024-05-27T10:49:07.350Z",
+        "categories": [
+            [
+                "Utility"
+            ],
+            [
+                "Video"
+            ]
+        ],
+        "lastChecked": "2024-05-27T13:27:07.434Z",
         "history": [
             {
                 "status": "open",
