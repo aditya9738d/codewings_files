@@ -5827,7 +5827,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T18:54:12.120Z"
+                    "lastChecked": "2024-05-27T19:58:10.921Z"
           },
           {
                     "name": "GRATIS GERADOR",
@@ -5836,7 +5836,7 @@
                     "clickCount": 15,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T18:54:12.120Z"
+                    "lastChecked": "2024-05-27T19:58:10.921Z"
           },
           {
                     "name": "DigiFT",
@@ -5845,7 +5845,7 @@
                     "clickCount": 6,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T18:54:12.120Z"
+                    "lastChecked": "2024-05-27T19:58:10.921Z"
           },
           {
                     "name": "OSIM Staging",
@@ -5854,7 +5854,7 @@
                     "clickCount": 21,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T18:54:12.120Z"
+                    "lastChecked": "2024-05-27T19:58:10.921Z"
           },
           {
                     "name": "NRO by ixxc 05",
@@ -5863,7 +5863,7 @@
                     "clickCount": 14,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T18:54:12.120Z"
+                    "lastChecked": "2024-05-27T19:58:10.921Z"
           },
           {
                     "name": "街机三国",
@@ -5872,7 +5872,7 @@
                     "clickCount": 1,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T18:54:12.120Z"
+                    "lastChecked": "2024-05-27T19:58:10.921Z"
           },
           {
                     "name": "棋路-象棋课堂",
@@ -5881,7 +5881,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T18:54:12.120Z"
+                    "lastChecked": "2024-05-27T19:58:10.921Z"
           },
           {
                     "name": "宝能E家极速版",
@@ -5890,16 +5890,22 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T18:54:12.120Z"
+                    "lastChecked": "2024-05-27T19:58:10.921Z"
           },
           {
                     "name": "Stethophone",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/64/14/176414e6-6913-d783-32a6-098950bcbf21/UAAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/psEDgC3w",
                     "clickCount": 3,
-                    "betaAvailable": "open",
+                    "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-27T18:54:12.120Z"
+                    "lastChecked": "2024-05-27T19:58:10.921Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-27T18:54:12.120Z"
+                              }
+                    ]
           },
           {
                     "name": "eRestro Singlevendor Rider",
@@ -5915,7 +5921,7 @@
                                         "Shopping"
                               ]
                     ],
-                    "lastChecked": "2024-05-27T18:54:12.120Z"
+                    "lastChecked": "2024-05-27T19:58:10.921Z"
           },
           {
                     "name": "جامعة صبراتة",
