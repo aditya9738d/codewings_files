@@ -2852,7 +2852,7 @@
     "name": "WhatsApp Business",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/bd/54/e9bd54bf-b596-5c6e-73cf-3caec7c44f18/AppIconSMB-0-1x_U007emarketing-0-6-0-0-sRGB-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/oscYikr0",
-    "clickCount": 464,
+    "clickCount": 466,
     "betaAvailable": "open",
     "categories": [
       [
@@ -2862,13 +2862,13 @@
         "Chat"
       ]
     ],
-    "lastChecked": "2024-05-26T20:28:06.131Z"
+    "lastChecked": "2024-05-27T04:50:16.998Z"
   },
   {
     "name": "Snapchat",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/8a/60/318a6006-8fe9-ee72-def2-d5f7947464a4/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/p7hGbZUR",
-    "clickCount": 534,
+    "clickCount": 535,
     "betaAvailable": "full",
     "categories": [
       [
@@ -2884,7 +2884,7 @@
         "Social Networking"
       ]
     ],
-    "lastChecked": "2024-05-26T20:28:06.131Z"
+    "lastChecked": "2024-05-27T04:50:16.998Z"
   },
   {
     "name": "Plex: Watch Live TV and Movies",
