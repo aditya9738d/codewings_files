@@ -5929,7 +5929,7 @@
                 "Games"
             ]
         ],
-        "lastChecked": "2024-05-27T11:11:07.139Z"
+        "lastChecked": "2024-05-27T13:49:06.379Z"
     },
     {
         "name": "Zapit Food Delivery",
@@ -5948,7 +5948,7 @@
                 "Utility"
             ]
         ],
-        "lastChecked": "2024-05-27T11:11:07.139Z"
+        "lastChecked": "2024-05-27T13:49:06.379Z"
     },
     {
         "name": "Gumtree: local classified ads",
@@ -6079,22 +6079,22 @@
         "clickCount": 2,
         "betaAvailable": "open",
         "categories": [],
-        "lastChecked": "2024-05-27T11:10:21.578Z"
+        "lastChecked": "2024-05-27T13:49:06.379Z"
     },
     {
         "name": "Microsoft Designer",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/58/a7/ea58a75d-ae04-a9c5-108b-4f3317003255/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/KsuaylTZ",
         "clickCount": 21,
-        "betaAvailable": "full",
+        "betaAvailable": "open",
         "history": [
-            {
-                "status": "full",
-                "timestamp": "2024-05-27T02:22:07.310Z"
-            },
             {
                 "status": "open",
                 "timestamp": "2024-05-27T07:47:05.307Z"
+            },
+            {
+                "status": "full",
+                "timestamp": "2024-05-27T11:11:07.139Z"
             }
         ],
         "categories": [
@@ -6102,7 +6102,7 @@
                 "Art & Design"
             ]
         ],
-        "lastChecked": "2024-05-27T11:11:07.139Z"
+        "lastChecked": "2024-05-27T13:49:06.379Z"
     },
     {
         "name": "OrangeX: Buy Bitcoin & Crypto",
