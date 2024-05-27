@@ -6995,5 +6995,35 @@
         "timestamp": "2024-05-26T09:40:18.987Z"
       }
     ]
+  },
+  {
+    "name": "Kade Pay Beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/f2/16/39f216a0-9651-ad17-4245-69a0ce3c677d/AppIcon-beta-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jhlHJFKC",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-27T00:42:07.554Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-27T00:42:07.554Z"
+      }
+    ]
+  },
+  {
+    "name": "NRO by ixxc 01",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/cd/d8f9cd16-0a1d-f677-772e-4480f63030bd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tFiMYRwn",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-27T00:42:07.554Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-27T00:42:07.554Z"
+      }
+    ]
   }
 ]
