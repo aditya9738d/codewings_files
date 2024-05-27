@@ -1367,7 +1367,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:05:17.594Z"
+                    "lastChecked": "2024-05-27T14:15:22.516Z"
           },
           {
                     "name": "Games - Manage your collection",
@@ -1376,7 +1376,7 @@
                     "clickCount": 21,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:05:17.594Z"
+                    "lastChecked": "2024-05-27T14:15:22.516Z"
           },
           {
                     "name": "Simple Focus",
@@ -1385,7 +1385,7 @@
                     "clickCount": 2,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:06:08.847Z"
+                    "lastChecked": "2024-05-27T14:15:22.516Z"
           },
           {
                     "name": "Music Discovery with Fusion",
@@ -1398,7 +1398,7 @@
                                         "Music"
                               ]
                     ],
-                    "lastChecked": "2024-05-27T13:06:08.847Z"
+                    "lastChecked": "2024-05-27T14:15:22.516Z"
           },
           {
                     "name": "BetaMonkeyEmpire",
@@ -1407,7 +1407,7 @@
                     "clickCount": 43,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:06:08.847Z"
+                    "lastChecked": "2024-05-27T14:15:22.516Z"
           },
           {
                     "name": "Axon 3",
@@ -1416,7 +1416,7 @@
                     "clickCount": 34,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:06:08.847Z"
+                    "lastChecked": "2024-05-27T14:15:22.516Z"
           },
           {
                     "name": "3D Scan Pro",
@@ -1425,7 +1425,7 @@
                     "clickCount": 13,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:07:06.063Z"
+                    "lastChecked": "2024-05-27T14:15:22.516Z"
           },
           {
                     "name": "崩坏3测试服",
@@ -1434,7 +1434,7 @@
                     "clickCount": 6,
                     "betaAvailable": "error",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:07:06.063Z"
+                    "lastChecked": "2024-05-27T14:15:22.516Z"
           },
           {
                     "name": "AppDab",
@@ -1443,16 +1443,20 @@
                     "clickCount": 55,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:07:06.063Z"
+                    "lastChecked": "2024-05-27T14:15:22.516Z"
           },
           {
                     "name": "Supercut for Netflix",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/2f/0c/072f0c05-6dbf-8a99-84db-02b969cb162a/AppIcon.lsr/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/FINyZ9Lh",
-                    "clickCount": 158,
+                    "clickCount": 159,
                     "betaAvailable": "not accepting",
-                    "categories": [],
-                    "lastChecked": "2024-05-27T13:07:06.063Z"
+                    "categories": [
+                              [
+                                        "Video"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-27T14:15:22.516Z"
           },
           {
                     "name": "GeoGroups",
