@@ -2642,16 +2642,16 @@
                     "name": "TikTok",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/b4/37/beb43754-e80d-24cb-c73e-fe2fe0dd0abd/AppIcon_TestFlight-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/pLmKZJKw",
-                    "clickCount": 166,
-                    "betaAvailable": "full",
+                    "clickCount": 168,
+                    "betaAvailable": "open",
                     "history": [
-                              {
-                                        "status": "full",
-                                        "timestamp": "2024-05-27T04:43:07.815Z"
-                              },
                               {
                                         "status": "open",
                                         "timestamp": "2024-05-27T09:39:05.268Z"
+                              },
+                              {
+                                        "status": "full",
+                                        "timestamp": "2024-05-27T21:30:48.360Z"
                               }
                     ],
                     "categories": [
@@ -2665,7 +2665,7 @@
                                         "Video"
                               ]
                     ],
-                    "lastChecked": "2024-05-27T21:30:48.360Z"
+                    "lastChecked": "2024-05-27T22:34:10.643Z"
           },
           {
                     "name": "1Blocker - Ad Blocker",
@@ -2674,7 +2674,7 @@
                     "clickCount": 4,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-27T21:30:48.360Z"
+                    "lastChecked": "2024-05-27T22:34:10.643Z"
           },
           {
                     "name": "ListenNow Air",
@@ -2687,7 +2687,7 @@
                                         "Music"
                               ]
                     ],
-                    "lastChecked": "2024-05-27T21:30:48.360Z",
+                    "lastChecked": "2024-05-27T22:34:10.643Z",
                     "history": [
                               {
                                         "status": "full",
@@ -2706,7 +2706,7 @@
                     "clickCount": 3,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-27T21:30:48.360Z",
+                    "lastChecked": "2024-05-27T22:34:10.643Z",
                     "history": [
                               {
                                         "status": "full",
@@ -2729,7 +2729,7 @@
                                         "Music"
                               ]
                     ],
-                    "lastChecked": "2024-05-27T21:30:48.360Z"
+                    "lastChecked": "2024-05-27T22:34:10.643Z"
           },
           {
                     "name": "Photoroom: AI Photo Editor",
@@ -2763,7 +2763,7 @@
                     "clickCount": 4,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-27T21:30:48.360Z"
+                    "lastChecked": "2024-05-27T22:34:10.643Z"
           },
           {
                     "name": "Stick War",
@@ -2772,7 +2772,7 @@
                     "clickCount": 10,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-27T21:30:48.360Z",
+                    "lastChecked": "2024-05-27T22:34:10.643Z",
                     "history": [
                               {
                                         "status": "full",
@@ -2795,7 +2795,7 @@
                                         "Ai"
                               ]
                     ],
-                    "lastChecked": "2024-05-27T21:30:48.360Z"
+                    "lastChecked": "2024-05-27T22:34:10.643Z"
           },
           {
                     "name": "Picsart AI Photo Video Editor",
@@ -2827,7 +2827,7 @@
                                         "Games"
                               ]
                     ],
-                    "lastChecked": "2024-05-27T21:30:48.360Z"
+                    "lastChecked": "2024-05-27T22:34:10.643Z"
           },
           {
                     "name": "Solar Eclipse 2024 Mobile",
@@ -2836,7 +2836,7 @@
                     "clickCount": 4,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T21:30:48.360Z"
+                    "lastChecked": "2024-05-27T22:34:10.643Z"
           },
           {
                     "name": "Discord - Chat, Talk & Hangout",
