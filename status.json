@@ -1864,7 +1864,7 @@
                     "clickCount": 1,
                     "betaAvailable": "error",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:18:07.289Z"
+                    "lastChecked": "2024-05-27T14:20:26.579Z"
           },
           {
                     "name": "KKClicker",
@@ -1873,7 +1873,7 @@
                     "clickCount": 13,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:18:07.289Z"
+                    "lastChecked": "2024-05-27T14:20:26.579Z"
           },
           {
                     "name": "Quizlet: AI-powered Flashcards",
@@ -1882,7 +1882,7 @@
                     "clickCount": 4,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:18:07.289Z",
+                    "lastChecked": "2024-05-27T14:20:26.579Z",
                     "history": [
                               {
                                         "status": "full",
@@ -1901,7 +1901,7 @@
                     "clickCount": 5,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:18:07.289Z"
+                    "lastChecked": "2024-05-27T14:20:26.579Z"
           },
           {
                     "name": "A Fish Chat",
@@ -1910,7 +1910,7 @@
                     "clickCount": 8,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:19:07.393Z"
+                    "lastChecked": "2024-05-27T14:20:26.579Z"
           },
           {
                     "name": "Pocket Space!",
@@ -1919,7 +1919,7 @@
                     "clickCount": 0,
                     "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:19:07.393Z",
+                    "lastChecked": "2024-05-27T14:20:26.579Z",
                     "history": [
                               {
                                         "status": "open",
@@ -1934,7 +1934,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:19:07.393Z"
+                    "lastChecked": "2024-05-27T14:20:26.579Z"
           },
           {
                     "name": "Asurascans - Hot Manga Reader",
@@ -1943,16 +1943,22 @@
                     "clickCount": 2,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:19:07.393Z"
+                    "lastChecked": "2024-05-27T14:20:26.579Z"
           },
           {
                     "name": "The Weekendest: NYC Subway Map",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/0d/af/270daf07-4942-1936-d272-7e4ffbab02f0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/QMF8mCtV",
                     "clickCount": 0,
-                    "betaAvailable": "open",
+                    "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:20:21.240Z"
+                    "lastChecked": "2024-05-27T14:20:26.579Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-27T13:20:21.240Z"
+                              }
+                    ]
           },
           {
                     "name": "GP Calendar - F1",
@@ -1961,7 +1967,7 @@
                     "clickCount": 1,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T13:20:21.240Z"
+                    "lastChecked": "2024-05-27T14:20:26.579Z"
           },
           {
                     "name": "wthr.cloud",
