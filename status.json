@@ -1777,7 +1777,7 @@
         "clickCount": 15,
         "betaAvailable": "not accepting",
         "categories": [],
-        "lastChecked": "2024-05-27T06:40:18.237Z",
+        "lastChecked": "2024-05-27T10:38:07.968Z",
         "history": [
             {
                 "status": "open",
@@ -1789,14 +1789,14 @@
         "name": "GitHub HyperList",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/73/24/0c7324a9-b7e8-ee2e-5fb2-41317c7ad5da/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/qfPzqQM0",
-        "clickCount": 78,
+        "clickCount": 79,
         "betaAvailable": "open",
         "categories": [
             [
                 "Developer"
             ]
         ],
-        "lastChecked": "2024-05-27T06:40:18.237Z"
+        "lastChecked": "2024-05-27T10:38:07.968Z"
     },
     {
         "name": "Flipper Mobile App",
@@ -1805,7 +1805,7 @@
         "clickCount": 124,
         "betaAvailable": "open",
         "categories": [],
-        "lastChecked": "2024-05-27T06:41:06.891Z"
+        "lastChecked": "2024-05-27T10:38:07.968Z"
     },
     {
         "name": "Chronosphere - Clocks",
@@ -1814,7 +1814,7 @@
         "clickCount": 0,
         "betaAvailable": "open",
         "categories": [],
-        "lastChecked": "2024-05-27T06:41:06.891Z"
+        "lastChecked": "2024-05-27T10:38:07.968Z"
     },
     {
         "name": "AnyTrip",
