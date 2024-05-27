@@ -255,10 +255,10 @@
         "name": "TV Time: Track Shows & Movies",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/ba/c4/04bac455-e667-5512-0217-ea1573f8e64c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/hjKkDsc4",
-        "clickCount": 3,
+        "clickCount": 4,
         "betaAvailable": "open",
         "categories": [],
-        "lastChecked": "2024-05-27T05:26:06.867Z",
+        "lastChecked": "2024-05-27T10:01:07.177Z",
         "history": [
             {
                 "status": "full",
@@ -316,7 +316,7 @@
         "clickCount": 95,
         "betaAvailable": "error",
         "categories": [],
-        "lastChecked": "2024-05-27T05:27:05.108Z"
+        "lastChecked": "2024-05-27T10:01:07.177Z"
     },
     {
         "name": "GolfClubInfoTracker",
@@ -325,7 +325,7 @@
         "clickCount": 9,
         "betaAvailable": "open",
         "categories": [],
-        "lastChecked": "2024-05-27T05:27:05.108Z"
+        "lastChecked": "2024-05-27T10:01:07.177Z"
     },
     {
         "name": "dot.dot.dot.",
@@ -4400,7 +4400,7 @@
                 "Games"
             ]
         ],
-        "lastChecked": "2024-05-27T05:26:06.867Z",
+        "lastChecked": "2024-05-27T10:01:07.177Z",
         "history": [
             {
                 "status": "full",
