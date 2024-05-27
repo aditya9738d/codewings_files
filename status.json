@@ -1859,20 +1859,24 @@
     "clickCount": 13,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T08:35:13.338Z"
+    "lastChecked": "2024-05-27T00:18:06.625Z"
   },
   {
     "name": "Quizlet: AI-powered Flashcards",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/c9/7f/55c97f5e-d52f-b9e9-4a0d-63868048b210/AppIcon-production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/mwhcPqxJ",
     "clickCount": 4,
-    "betaAvailable": "open",
+    "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-26T08:35:13.338Z",
+    "lastChecked": "2024-05-27T00:18:06.625Z",
     "history": [
       {
         "status": "full",
         "timestamp": "2024-05-23T07:59:40.176Z"
+      },
+      {
+        "status": "open",
+        "timestamp": "2024-05-26T08:35:13.338Z"
       }
     ]
   },
