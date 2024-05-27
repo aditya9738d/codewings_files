@@ -249,7 +249,7 @@
         "clickCount": 13,
         "betaAvailable": "full",
         "categories": [],
-        "lastChecked": "2024-05-27T10:00:42.956Z"
+        "lastChecked": "2024-05-27T12:38:08.706Z"
     },
     {
         "name": "TV Time: Track Shows & Movies",
@@ -258,7 +258,7 @@
         "clickCount": 4,
         "betaAvailable": "open",
         "categories": [],
-        "lastChecked": "2024-05-27T10:01:07.177Z",
+        "lastChecked": "2024-05-27T12:38:08.706Z",
         "history": [
             {
                 "status": "full",
@@ -316,7 +316,7 @@
         "clickCount": 95,
         "betaAvailable": "error",
         "categories": [],
-        "lastChecked": "2024-05-27T10:01:07.177Z"
+        "lastChecked": "2024-05-27T12:38:08.706Z"
     },
     {
         "name": "GolfClubInfoTracker",
@@ -4404,7 +4404,7 @@
                 "Games"
             ]
         ],
-        "lastChecked": "2024-05-27T10:01:07.177Z",
+        "lastChecked": "2024-05-27T12:38:08.706Z",
         "history": [
             {
                 "status": "full",
