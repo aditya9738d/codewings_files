@@ -4484,14 +4484,14 @@
     "name": "GroupMe",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/e5/78/78e578af-2b11-eae7-5f95-d6b46f90e7b8/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/6CcTotfX",
-    "clickCount": 42,
+    "clickCount": 43,
     "betaAvailable": "open",
     "categories": [
       [
         "Chat"
       ]
     ],
-    "lastChecked": "2024-05-26T18:24:07.009Z"
+    "lastChecked": "2024-05-27T03:48:07.053Z"
   },
   {
     "name": "Neon - Color Picker",
@@ -4504,7 +4504,7 @@
         "Utility"
       ]
     ],
-    "lastChecked": "2024-05-26T18:24:07.009Z"
+    "lastChecked": "2024-05-27T03:48:07.053Z"
   },
   {
     "name": "AliExpress Shopping App",
