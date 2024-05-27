@@ -5908,20 +5908,20 @@
         "name": "Bike Hills",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/16/aa/3616aaba-cc88-50fd-1742-8d36ecbcb5aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/rV7NDoNp",
-        "clickCount": 16,
+        "clickCount": 17,
         "betaAvailable": "open",
         "categories": [
             [
                 "Games"
             ]
         ],
-        "lastChecked": "2024-05-27T07:47:05.307Z"
+        "lastChecked": "2024-05-27T11:11:07.139Z"
     },
     {
         "name": "Zapit Food Delivery",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/87/1d/c2871d2e-1d01-363b-d72a-aa56531a7adb/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/dsR5F5FV",
-        "clickCount": 2,
+        "clickCount": 3,
         "betaAvailable": "open",
         "categories": [
             [
@@ -5934,7 +5934,7 @@
                 "Utility"
             ]
         ],
-        "lastChecked": "2024-05-27T07:48:07.660Z"
+        "lastChecked": "2024-05-27T11:11:07.139Z"
     },
     {
         "name": "Gumtree: local classified ads",
@@ -5943,7 +5943,7 @@
         "clickCount": 0,
         "betaAvailable": "open",
         "categories": [],
-        "lastChecked": "2024-05-27T07:48:07.660Z"
+        "lastChecked": "2024-05-27T11:11:07.139Z"
     },
     {
         "name": "Blast Royale",
@@ -6071,16 +6071,16 @@
         "name": "Microsoft Designer",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/58/a7/ea58a75d-ae04-a9c5-108b-4f3317003255/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/KsuaylTZ",
-        "clickCount": 20,
-        "betaAvailable": "open",
+        "clickCount": 21,
+        "betaAvailable": "full",
         "history": [
-            {
-                "status": "open",
-                "timestamp": "2024-05-24T10:20:22.208Z"
-            },
             {
                 "status": "full",
                 "timestamp": "2024-05-27T02:22:07.310Z"
+            },
+            {
+                "status": "open",
+                "timestamp": "2024-05-27T07:47:05.307Z"
             }
         ],
         "categories": [
@@ -6088,7 +6088,7 @@
                 "Art & Design"
             ]
         ],
-        "lastChecked": "2024-05-27T07:47:05.307Z"
+        "lastChecked": "2024-05-27T11:11:07.139Z"
     },
     {
         "name": "OrangeX: Buy Bitcoin & Crypto",
