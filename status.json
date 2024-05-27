@@ -153,7 +153,7 @@
                     "clickCount": 1,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T14:55:16.760Z"
+                    "lastChecked": "2024-05-27T15:59:08.850Z"
           },
           {
                     "name": "Leplace World",
@@ -244,7 +244,7 @@
                     "clickCount": 7,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T14:55:16.760Z"
+                    "lastChecked": "2024-05-27T15:59:08.850Z"
           },
           {
                     "name": "ClipBorad",
@@ -545,7 +545,7 @@
                     "clickCount": 1,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T14:55:16.760Z"
+                    "lastChecked": "2024-05-27T15:59:08.850Z"
           },
           {
                     "name": "Apple AMB",
@@ -3112,7 +3112,7 @@
                     "clickCount": 18,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T14:55:16.760Z"
+                    "lastChecked": "2024-05-27T15:59:08.850Z"
           },
           {
                     "name": "itsme",
@@ -3248,7 +3248,7 @@
                     "clickCount": 3,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-27T14:55:16.760Z"
+                    "lastChecked": "2024-05-27T15:59:08.850Z"
           },
           {
                     "name": "Das E-Rezept",
@@ -3317,7 +3317,7 @@
                     "clickCount": 9,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T14:55:16.760Z"
+                    "lastChecked": "2024-05-27T15:59:08.850Z"
           },
           {
                     "name": "TP-Link Aria",
@@ -3344,7 +3344,7 @@
                     "clickCount": 3,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T14:55:16.760Z"
+                    "lastChecked": "2024-05-27T15:59:08.850Z"
           },
           {
                     "name": "Swapple - Word Puzzle Game",
@@ -3650,7 +3650,7 @@
                     "clickCount": 6,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-27T14:55:16.760Z"
+                    "lastChecked": "2024-05-27T15:59:08.850Z"
           },
           {
                     "name": "RFECU Performance 2.6",
@@ -4282,20 +4282,24 @@
                     "clickCount": 1,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-27T14:55:16.760Z"
+                    "lastChecked": "2024-05-27T15:59:08.850Z"
           },
           {
                     "name": "Wink - Video Enhancing Tool",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/65/64/85656468-793f-1754-25d1-2c2d8386a186/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/ZviH3WzG",
                     "clickCount": 2,
-                    "betaAvailable": "open",
+                    "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-27T14:55:16.760Z",
+                    "lastChecked": "2024-05-27T15:59:08.850Z",
                     "history": [
                               {
                                         "status": "full",
                                         "timestamp": "2024-05-27T12:02:09.467Z"
+                              },
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-27T14:55:16.760Z"
                               }
                     ]
           },
