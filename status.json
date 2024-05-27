@@ -131,7 +131,7 @@
     "clickCount": 3,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T18:46:07.392Z"
+    "lastChecked": "2024-05-27T03:59:05.376Z"
   },
   {
     "name": "JeeConnect",
@@ -3125,13 +3125,17 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ed/0b/f6ed0bea-8ba9-c89e-d6dd-169e9940b613/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/3XiyIWZD",
     "clickCount": 5,
-    "betaAvailable": "not accepting",
+    "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T18:46:07.392Z",
+    "lastChecked": "2024-05-27T03:59:05.376Z",
     "history": [
       {
         "status": "open",
         "timestamp": "2024-05-23T17:15:22.235Z"
+      },
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-26T18:46:07.392Z"
       }
     ]
   },
