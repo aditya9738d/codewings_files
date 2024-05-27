@@ -2806,14 +2806,14 @@
         "name": "Xbox Game Pass",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/6f/6d/d06f6d62-5504-d9d5-0415-daae006bd80c/AppIconBeta-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
         "link": "https://testflight.apple.com/join/wytcNylk",
-        "clickCount": 91,
+        "clickCount": 93,
         "betaAvailable": "full",
         "categories": [
             [
                 "Games"
             ]
         ],
-        "lastChecked": "2024-05-27T09:41:06.810Z"
+        "lastChecked": "2024-05-27T12:18:09.480Z"
     },
     {
         "name": "Solar Eclipse 2024 Mobile",
@@ -2822,7 +2822,7 @@
         "clickCount": 4,
         "betaAvailable": "open",
         "categories": [],
-        "lastChecked": "2024-05-27T09:42:09.052Z"
+        "lastChecked": "2024-05-27T12:18:09.480Z"
     },
     {
         "name": "Discord - Chat, Talk & Hangout",
@@ -2831,7 +2831,7 @@
         "clickCount": 9,
         "betaAvailable": "full",
         "categories": [],
-        "lastChecked": "2024-05-27T09:42:09.052Z"
+        "lastChecked": "2024-05-27T12:18:09.480Z"
     },
     {
         "name": "Locket Widget",
@@ -2857,7 +2857,7 @@
                 "Browser"
             ]
         ],
-        "lastChecked": "2024-05-27T09:42:09.052Z"
+        "lastChecked": "2024-05-27T12:18:09.480Z"
     },
     {
         "name": "winston for Reddit",
