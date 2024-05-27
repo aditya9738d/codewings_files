@@ -6554,10 +6554,10 @@
     "name": "plappa",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/b1/9f/dcb19fcd-2026-ba37-ca97-eddf4d1f85a5/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/CPlREvRs",
-    "clickCount": 5,
+    "clickCount": 6,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T13:15:22.120Z"
+    "lastChecked": "2024-05-27T02:12:07.365Z"
   },
   {
     "name": "Wallet 3",
@@ -6566,7 +6566,7 @@
     "clickCount": 10,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T13:15:22.120Z"
+    "lastChecked": "2024-05-27T02:12:07.365Z"
   },
   {
     "name": "TerraMow",
