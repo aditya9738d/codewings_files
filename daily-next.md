@@ -1,3 +1,5 @@
+- **WiFi Setup**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/22/e0/6122e0b2-67bd-c7d7-5015-ff893eec2b1b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DIDfVri2)
+
 - **Kade Pay Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/f2/16/39f216a0-9651-ad17-4245-69a0ce3c677d/AppIcon-beta-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jhlHJFKC)
 
 - **NRO by ixxc 01**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/cd/d8f9cd16-0a1d-f677-772e-4480f63030bd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tFiMYRwn)
@@ -45,5 +47,3 @@
 - **Onto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/a9/ad/0da9ad75-f762-e647-5111-5602e279c461/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/1QL1gXrP)
 
 - **Cyou-你的声音 我的世界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/bf/f9/38bff942-9fad-478f-f1c6-5694c54bb776/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2xcieDcU)
-
-- **Dishdash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/52/b0/7352b093-ddad-168b-111c-2d9e685b716d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u8NIoELS)
