@@ -5239,16 +5239,22 @@
     "clickCount": 2,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T16:50:19.307Z"
+    "lastChecked": "2024-05-27T03:12:07.065Z"
   },
   {
     "name": "eGas-Note(標準版)",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/51/b7/0351b775-1917-820f-a763-8a63c891e626/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/6CZTTT6G",
     "clickCount": 0,
-    "betaAvailable": "open",
+    "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-26T16:50:19.307Z"
+    "lastChecked": "2024-05-27T03:12:07.065Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-26T16:50:19.307Z"
+      }
+    ]
   },
   {
     "name": "PSX Real Estates Classified",
