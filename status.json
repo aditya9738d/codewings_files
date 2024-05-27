@@ -1775,22 +1775,28 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/89/5a/da895a30-68b7-5eec-6900-ab86ccd3eb03/AppIcon5-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/oFWpI2gy",
     "clickCount": 15,
-    "betaAvailable": "open",
+    "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-05-26T08:15:23.017Z"
+    "lastChecked": "2024-05-27T06:40:18.237Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-26T08:15:23.017Z"
+      }
+    ]
   },
   {
     "name": "GitHub HyperList",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/73/24/0c7324a9-b7e8-ee2e-5fb2-41317c7ad5da/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/qfPzqQM0",
-    "clickCount": 77,
+    "clickCount": 78,
     "betaAvailable": "open",
     "categories": [
       [
         "Developer"
       ]
     ],
-    "lastChecked": "2024-05-26T08:15:23.017Z"
+    "lastChecked": "2024-05-27T06:40:18.237Z"
   },
   {
     "name": "Flipper Mobile App",
