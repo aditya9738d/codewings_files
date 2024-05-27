@@ -5966,24 +5966,24 @@
     "clickCount": 4,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-26T13:25:15.920Z"
+    "lastChecked": "2024-05-27T02:16:07.605Z"
   },
   {
     "name": "MOMO陌陌",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/74/f5/9374f582-ad30-ddb5-36b4-93a5a3513422/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/SSBILyY3",
-    "clickCount": 0,
-    "betaAvailable": "open",
+    "clickCount": 1,
+    "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-05-26T13:25:15.920Z",
+    "lastChecked": "2024-05-27T02:16:07.605Z",
     "history": [
-      {
-        "status": "open",
-        "timestamp": "2024-05-24T10:10:22.260Z"
-      },
       {
         "status": "full",
         "timestamp": "2024-05-25T11:55:14.596Z"
+      },
+      {
+        "status": "open",
+        "timestamp": "2024-05-26T13:25:15.920Z"
       }
     ]
   },
