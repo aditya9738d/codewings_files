@@ -1592,7 +1592,7 @@
                     "clickCount": 12,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:27:10.625Z"
+                    "lastChecked": "2024-05-28T06:32:09.900Z"
           },
           {
                     "name": "RAFA: AI Investment Copilot",
@@ -1601,7 +1601,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:27:10.625Z"
+                    "lastChecked": "2024-05-28T06:32:09.900Z"
           },
           {
                     "name": "Blocs - Website Builder",
@@ -1610,7 +1610,7 @@
                     "clickCount": 1,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:27:10.625Z"
+                    "lastChecked": "2024-05-28T06:32:09.900Z"
           },
           {
                     "name": "Jetpack for WordPress",
@@ -1619,7 +1619,7 @@
                     "clickCount": 40,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:27:10.625Z"
+                    "lastChecked": "2024-05-28T06:32:09.900Z"
           },
           {
                     "name": "Icons Of Theia: Tactical RPG",
@@ -1628,7 +1628,7 @@
                     "clickCount": 0,
                     "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:27:10.625Z"
+                    "lastChecked": "2024-05-28T06:32:09.900Z"
           },
           {
                     "name": "Applight – Next App Switcher",
@@ -1637,16 +1637,22 @@
                     "clickCount": 7,
                     "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:27:10.625Z"
+                    "lastChecked": "2024-05-28T06:32:09.900Z"
           },
           {
                     "name": "AirPages",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/90/0c/d9900c5b-0113-0663-d6d3-a5d7d8d3ffe8/Air1.lsr/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/ISWpAxRP",
                     "clickCount": 18,
-                    "betaAvailable": "open",
+                    "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:27:10.625Z"
+                    "lastChecked": "2024-05-28T06:32:09.900Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T05:27:10.625Z"
+                              }
+                    ]
           },
           {
                     "name": "Carnets - Jupyter (with scipy)",
@@ -1655,7 +1661,7 @@
                     "clickCount": 2,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:27:10.625Z"
+                    "lastChecked": "2024-05-28T06:32:09.900Z"
           },
           {
                     "name": "Foursquare City Guide",
@@ -1664,7 +1670,7 @@
                     "clickCount": 20,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:27:10.625Z"
+                    "lastChecked": "2024-05-28T06:32:09.900Z"
           },
           {
                     "name": "Al Noor Prayer",
@@ -1673,7 +1679,7 @@
                     "clickCount": 34,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:27:10.625Z"
+                    "lastChecked": "2024-05-28T06:32:09.900Z"
           },
           {
                     "name": "倾诉 - 纯净树洞",
