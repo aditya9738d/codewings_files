@@ -1,3 +1,5 @@
+- **Zoom Tan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/5d/45/a15d4525-7d47-15c5-c4d5-44eb12b01eab/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qTM3hZIF)
+
 - **WiFi Setup**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/22/e0/6122e0b2-67bd-c7d7-5015-ff893eec2b1b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DIDfVri2)
 
 - **Kade Pay Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/f2/16/39f216a0-9651-ad17-4245-69a0ce3c677d/AppIcon-beta-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jhlHJFKC)
