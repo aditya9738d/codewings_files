@@ -5390,7 +5390,7 @@
                     "clickCount": 2,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:56:10.560Z"
+                    "lastChecked": "2024-05-28T08:01:07.870Z"
           },
           {
                     "name": "One Technical Lite",
@@ -5435,7 +5435,7 @@
                     "clickCount": 3,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:56:10.560Z"
+                    "lastChecked": "2024-05-28T08:01:07.870Z"
           },
           {
                     "name": "Embibe Experiments Preprod",
@@ -5444,7 +5444,7 @@
                     "clickCount": 9,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:56:10.560Z"
+                    "lastChecked": "2024-05-28T08:01:07.870Z"
           },
           {
                     "name": "Hand Mirror",
@@ -5453,7 +5453,7 @@
                     "clickCount": 6,
                     "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:56:10.560Z",
+                    "lastChecked": "2024-05-28T08:01:07.870Z",
                     "history": [
                               {
                                         "status": "open",
@@ -5468,16 +5468,20 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:56:10.560Z"
+                    "lastChecked": "2024-05-28T08:01:07.870Z"
           },
           {
                     "name": "HISTORY Vault",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/56/93/9756937b-da4b-61f2-1c3d-ea072e6872a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/nPNYe0PY",
-                    "clickCount": 132,
+                    "clickCount": 133,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:56:10.560Z"
+                    "categories": [
+                              [
+                                        "Entertainment"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T08:01:07.870Z"
           },
           {
                     "name": "FUT Sniping Bot",
@@ -5486,7 +5490,7 @@
                     "clickCount": 6,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:56:10.560Z"
+                    "lastChecked": "2024-05-28T08:01:07.870Z"
           },
           {
                     "name": "Mage: Strength Coaching",
@@ -5495,7 +5499,7 @@
                     "clickCount": 1,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:56:10.560Z"
+                    "lastChecked": "2024-05-28T08:01:07.870Z"
           },
           {
                     "name": "Doris by dgApps",
@@ -5504,7 +5508,7 @@
                     "clickCount": 2,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:56:10.560Z"
+                    "lastChecked": "2024-05-28T08:01:07.870Z"
           },
           {
                     "name": "Nostur - Nostr client",
@@ -5634,7 +5638,7 @@
                     "clickCount": 1,
                     "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:56:10.560Z"
+                    "lastChecked": "2024-05-28T08:01:07.870Z"
           },
           {
                     "name": "Sumo Shapes",
