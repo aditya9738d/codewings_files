@@ -6932,7 +6932,7 @@
                                         "List & To Do"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:52:10.092Z",
+                    "lastChecked": "2024-05-28T09:57:11.025Z",
                     "history": [
                               {
                                         "status": "open",
@@ -6951,7 +6951,7 @@
                                         "Utility"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:52:10.092Z",
+                    "lastChecked": "2024-05-28T09:57:11.025Z",
                     "history": [
                               {
                                         "status": "open",
@@ -6973,7 +6973,7 @@
                                         "Games"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:52:10.092Z",
+                    "lastChecked": "2024-05-28T09:57:11.025Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7228,7 +7228,7 @@
                                         "Video"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:52:10.092Z",
+                    "lastChecked": "2024-05-28T09:57:11.025Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7256,7 +7256,7 @@
                                         "Medical"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:52:10.092Z",
+                    "lastChecked": "2024-05-28T09:57:11.025Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7281,7 +7281,7 @@
                                         "Utility"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:52:10.092Z",
+                    "lastChecked": "2024-05-28T09:57:11.025Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7303,7 +7303,7 @@
                                         "Finance"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:52:10.092Z",
+                    "lastChecked": "2024-05-28T09:57:11.025Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7318,7 +7318,7 @@
                     "clickCount": 1,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T08:52:10.092Z",
+                    "lastChecked": "2024-05-28T09:57:11.025Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7337,11 +7337,26 @@
                                         "Utility"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:52:10.092Z",
+                    "lastChecked": "2024-05-28T09:57:11.025Z",
                     "history": [
                               {
                                         "status": "open",
                                         "timestamp": "2024-05-27T13:24:08.466Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Zoom Tan",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/5d/45/a15d4525-7d47-15c5-c4d5-44eb12b01eab/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+                    "link": "https://testflight.apple.com/join/qTM3hZIF",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T09:57:11.025Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T09:57:11.025Z"
                               }
                     ]
           }
