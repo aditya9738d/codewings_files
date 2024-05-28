@@ -11310,5 +11310,155 @@
                                         "timestamp": "2024-05-28T13:45:28.729Z"
                               }
                     ]
+          },
+          {
+                    "name": "Microsoft Outlook",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/3d/34/e23d3466-7f87-bacc-645f-1fb16b04aeb7/AppIcon-outlook.prod-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+                    "link": "https://testflight.apple.com/join/AhS6fRDK",
+                    "clickCount": 1,
+                    "betaAvailable": "full",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:46:10.162Z",
+                    "history": [
+                              {
+                                        "status": "full",
+                                        "timestamp": "2024-05-28T13:46:10.162Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Tap to Sign",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/2c/87/ca2c8740-9acd-aa89-152c-7a5fa9af3f54/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/cjPYii2o",
+                    "clickCount": 11,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:46:10.162Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:46:10.162Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Unity Play to Device Host",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/29/91/eb/2991eb50-46d8-ac40-e618-80bbb4abeb85/AppIcon.lsr/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/FVMH8aiG",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:46:10.162Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:46:10.162Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Money Fox",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/6a/04/126a0435-b890-e284-2c7a-3414872cbe3b/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/3RO75JDs",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:46:10.162Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:46:10.162Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Huddle - Get together",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/b6/11/d1b61153-b5d4-a03c-218a-f7d551a8ec0f/AppIcon-0-1x_U007ephone-0-0-P3-85-220-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/FRg2IPXf",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:46:10.162Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:46:10.162Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "NostalgiX",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/e6/e1/a2e6e183-db50-0b14-887a-05bdc119904a/AppIcon.lsr/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/XC4ho7Iv",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:46:10.162Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:46:10.162Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "跟随羔羊",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/13/d9/1c13d9a9-1922-00da-c90a-2516192b5e1d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/GgDgAL0X",
+                    "clickCount": 1,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:46:10.162Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:46:10.162Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "NFTTrack - new screen widgets",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/81/98/ea8198b5-2095-4c22-3b78-bf43a32a483d/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/XPP3geMf",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:46:10.162Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:46:10.162Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "100ms",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/4c/61/e04c61cb-94ee-7e8a-76d0-f53537934b5d/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+                    "link": "https://testflight.apple.com/join/dhUSE7N8",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:46:10.162Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:46:10.162Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "UP Board Lens",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/20/c0/8d20c0b5-0d61-bc8a-9a84-21413642e49c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/ZZsalAXV",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:46:10.162Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:46:10.162Z"
+                              }
+                    ]
           }
 ]
