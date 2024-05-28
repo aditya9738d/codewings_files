@@ -6883,8 +6883,12 @@
                     "link": "https://testflight.apple.com/join/vsr4s4L1",
                     "clickCount": 0,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:39:08.115Z",
+                    "categories": [
+                              [
+                                        "List & To Do"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:45:27.587Z",
                     "history": [
                               {
                                         "status": "open",
@@ -6898,8 +6902,12 @@
                     "link": "https://testflight.apple.com/join/1w5G7HMr",
                     "clickCount": 2,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:39:08.115Z",
+                    "categories": [
+                              [
+                                        "Utility"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:45:27.587Z",
                     "history": [
                               {
                                         "status": "open",
@@ -6913,8 +6921,15 @@
                     "link": "https://testflight.apple.com/join/ePQGMrn0",
                     "clickCount": 1,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:39:08.115Z",
+                    "categories": [
+                              [
+                                        "Entertainment"
+                              ],
+                              [
+                                        "Games"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:45:27.587Z",
                     "history": [
                               {
                                         "status": "open",
@@ -6933,7 +6948,7 @@
                                         "Games"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T06:39:08.115Z",
+                    "lastChecked": "2024-05-28T07:45:27.587Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7145,8 +7160,21 @@
                     "link": "https://testflight.apple.com/join/DipKBlaZ",
                     "clickCount": 0,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:39:08.115Z",
+                    "categories": [
+                              [
+                                        "Entertainment"
+                              ],
+                              [
+                                        "Photography"
+                              ],
+                              [
+                                        "Social Networking"
+                              ],
+                              [
+                                        "Video"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:45:27.587Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7160,8 +7188,21 @@
                     "link": "https://testflight.apple.com/join/HbtqQVhn",
                     "clickCount": 0,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:39:08.115Z",
+                    "categories": [
+                              [
+                                        "Education"
+                              ],
+                              [
+                                        "Fitness"
+                              ],
+                              [
+                                        "Health"
+                              ],
+                              [
+                                        "Medical"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:45:27.587Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7175,8 +7216,18 @@
                     "link": "https://testflight.apple.com/join/6mKuAhbG",
                     "clickCount": 17,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:39:08.115Z",
+                    "categories": [
+                              [
+                                        "Chat"
+                              ],
+                              [
+                                        "Social Networking"
+                              ],
+                              [
+                                        "Utility"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:45:27.587Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7188,10 +7239,17 @@
                     "name": "Kade Pay Beta",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/f2/16/39f216a0-9651-ad17-4245-69a0ce3c677d/AppIcon-beta-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/jhlHJFKC",
-                    "clickCount": 4,
+                    "clickCount": 5,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:39:08.115Z",
+                    "categories": [
+                              [
+                                        "Business"
+                              ],
+                              [
+                                        "Finance"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:45:27.587Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7206,7 +7264,7 @@
                     "clickCount": 1,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:39:08.115Z",
+                    "lastChecked": "2024-05-28T07:45:27.587Z",
                     "history": [
                               {
                                         "status": "open",
@@ -7220,8 +7278,12 @@
                     "link": "https://testflight.apple.com/join/DIDfVri2",
                     "clickCount": 8,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:39:08.115Z",
+                    "categories": [
+                              [
+                                        "Utility"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:45:27.587Z",
                     "history": [
                               {
                                         "status": "open",
