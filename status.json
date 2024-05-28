@@ -16560,5 +16560,155 @@
                                         "timestamp": "2024-05-28T14:21:07.617Z"
                               }
                     ]
+          },
+          {
+                    "name": "SmartValue",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/8c/9b/548c9b4d-255a-0555-16bb-854366a4c546/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/59TmMSNX",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:22:10.901Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:22:10.901Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "TP-Link Tether Beta",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/c7/9c/31c79cf5-143b-7abf-ce73-f574164cb190/AppIconBeta-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/pULHhLSn",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:22:10.901Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:22:10.901Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "EXO UAT",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/2d/ac/272dac89-9f3f-94c9-ff9a-f3ae80c7fa76/AppIcon-stg-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/2tBjOY6b",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:22:10.901Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:22:10.901Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "eDOT",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/26/93/31/26933191-59d5-ffd9-508f-6eed45a4c942/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/SZb9xc3H",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:22:10.901Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:22:10.901Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "LIFE TOOLS - 生活好帮手",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f2/dd/d1/f2ddd129-a9d9-630e-1867-815d41e68d0e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/SXqxxeu9",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:22:10.901Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:22:10.901Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "KoMoto",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5c/34/b8/5c34b82b-929a-e333-296c-f2d0228ce303/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/IJYIPhCI",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:22:10.901Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:22:10.901Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "GNC LiveWell",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/a8/33/a5a83393-7419-9724-a732-c2a2f19b6202/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/PlJqoLRc",
+                    "clickCount": 1,
+                    "betaAvailable": "error",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:22:10.901Z",
+                    "history": [
+                              {
+                                        "status": "error",
+                                        "timestamp": "2024-05-28T14:22:10.901Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "STACKAAR",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/14/7b/e8147bd5-fac0-df1c-1e3f-634e58277a36/AppIcon-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/o0eSwBIs",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:22:10.901Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:22:10.901Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "bob World Digital Rupee",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/6d/ea/266dea0a-4a07-c61d-9d00-0e1f5b739f25/AppIconBOB-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png",
+                    "link": "https://testflight.apple.com/join/FYc6DAdE",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:22:10.901Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:22:10.901Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "粉-Pink-New",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/23/dc/4f/23dc4ffc-0f23-f216-f4e1-1aa3423f031e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/G3S2x6S3",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:22:10.901Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:22:10.901Z"
+                              }
+                    ]
           }
 ]
