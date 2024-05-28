@@ -172,7 +172,7 @@
                     "clickCount": 7,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T04:11:07.735Z"
+                    "lastChecked": "2024-05-28T05:14:10.787Z"
           },
           {
                     "name": "CCS Mobile",
@@ -181,7 +181,7 @@
                     "clickCount": 23,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T04:11:07.735Z"
+                    "lastChecked": "2024-05-28T05:14:10.787Z"
           },
           {
                     "name": "NroChat",
@@ -236,7 +236,7 @@
                     "clickCount": 5,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T04:11:07.735Z"
+                    "lastChecked": "2024-05-28T05:14:10.787Z"
           },
           {
                     "name": "HomeHabit",
@@ -245,7 +245,7 @@
                     "clickCount": 22,
                     "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-28T04:11:07.735Z"
+                    "lastChecked": "2024-05-28T05:14:10.787Z"
           },
           {
                     "name": "Screeps Observer",
@@ -263,7 +263,7 @@
                     "clickCount": 13,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-28T04:11:07.735Z"
+                    "lastChecked": "2024-05-28T05:14:10.787Z"
           },
           {
                     "name": "TV Time: Track Shows & Movies",
@@ -272,7 +272,7 @@
                     "clickCount": 4,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T04:11:07.735Z",
+                    "lastChecked": "2024-05-28T05:14:10.787Z",
                     "history": [
                               {
                                         "status": "full",
@@ -330,7 +330,7 @@
                     "clickCount": 95,
                     "betaAvailable": "error",
                     "categories": [],
-                    "lastChecked": "2024-05-28T04:11:07.735Z"
+                    "lastChecked": "2024-05-28T05:14:10.787Z"
           },
           {
                     "name": "GolfClubInfoTracker",
@@ -339,7 +339,7 @@
                     "clickCount": 9,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T04:11:07.735Z"
+                    "lastChecked": "2024-05-28T05:14:10.787Z"
           },
           {
                     "name": "dot.dot.dot.",
@@ -348,7 +348,7 @@
                     "clickCount": 34,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T04:11:07.735Z"
+                    "lastChecked": "2024-05-28T05:14:10.787Z"
           },
           {
                     "name": "Indo-NonOfficiel",
@@ -4452,21 +4452,21 @@
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/p2C7aFDw",
                     "clickCount": 600,
-                    "betaAvailable": "full",
+                    "betaAvailable": "open",
                     "categories": [
                               [
                                         "Games"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T04:11:07.735Z",
+                    "lastChecked": "2024-05-28T05:14:10.787Z",
                     "history": [
-                              {
-                                        "status": "full",
-                                        "timestamp": "2024-05-26T02:05:14.269Z"
-                              },
                               {
                                         "status": "open",
                                         "timestamp": "2024-05-26T21:40:20.131Z"
+                              },
+                              {
+                                        "status": "full",
+                                        "timestamp": "2024-05-28T04:11:07.735Z"
                               }
                     ]
           },
