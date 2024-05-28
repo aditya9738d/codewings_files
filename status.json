@@ -6038,7 +6038,7 @@
                                         "Games"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T10:07:08.188Z"
+                    "lastChecked": "2024-05-28T11:11:08.429Z"
           },
           {
                     "name": "Zapit Food Delivery",
@@ -6057,7 +6057,7 @@
                                         "Utility"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T10:07:08.188Z"
+                    "lastChecked": "2024-05-28T11:11:08.429Z"
           },
           {
                     "name": "Gumtree: local classified ads",
@@ -6066,7 +6066,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T10:07:08.188Z"
+                    "lastChecked": "2024-05-28T11:11:08.429Z"
           },
           {
                     "name": "Blast Royale",
@@ -6079,7 +6079,7 @@
                                         "Games"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T10:07:08.188Z"
+                    "lastChecked": "2024-05-28T11:11:08.429Z"
           },
           {
                     "name": "Olya Teste",
@@ -6088,7 +6088,7 @@
                     "clickCount": 2,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T10:07:08.188Z"
+                    "lastChecked": "2024-05-28T11:11:08.429Z"
           },
           {
                     "name": "SSH Files – Secure ShellFish",
@@ -6097,7 +6097,7 @@
                     "clickCount": 2,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-28T10:07:08.188Z"
+                    "lastChecked": "2024-05-28T11:11:08.429Z"
           },
           {
                     "name": "思拓新闻",
@@ -6106,7 +6106,7 @@
                     "clickCount": 1,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T10:07:08.188Z"
+                    "lastChecked": "2024-05-28T11:11:08.429Z"
           },
           {
                     "name": "Mobile2",
@@ -6179,7 +6179,7 @@
                     "clickCount": 1,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T10:07:08.188Z"
+                    "lastChecked": "2024-05-28T11:11:08.429Z"
           },
           {
                     "name": "KaedenAteMySandwich",
@@ -6188,22 +6188,22 @@
                     "clickCount": 2,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T10:07:08.188Z"
+                    "lastChecked": "2024-05-28T11:11:08.429Z"
           },
           {
                     "name": "Microsoft Designer",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/58/a7/ea58a75d-ae04-a9c5-108b-4f3317003255/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/KsuaylTZ",
                     "clickCount": 22,
-                    "betaAvailable": "open",
+                    "betaAvailable": "full",
                     "history": [
-                              {
-                                        "status": "open",
-                                        "timestamp": "2024-05-28T00:21:08.399Z"
-                              },
                               {
                                         "status": "full",
                                         "timestamp": "2024-05-28T09:02:11.853Z"
+                              },
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T10:07:08.188Z"
                               }
                     ],
                     "categories": [
@@ -6211,7 +6211,7 @@
                                         "Art & Design"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T10:07:08.188Z"
+                    "lastChecked": "2024-05-28T11:11:08.429Z"
           },
           {
                     "name": "OrangeX: Buy Bitcoin & Crypto",
