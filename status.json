@@ -17010,5 +17010,155 @@
                                         "timestamp": "2024-05-28T14:24:09.888Z"
                               }
                     ]
+          },
+          {
+                    "name": "Meshtastic DFU",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/46/16/a4461692-00a1-0fac-0f03-d64b71fe5163/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/cRJK8Gyh",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:25:20.824Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:25:20.824Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "BAS-IP Link",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/de/4b/3cde4b3f-9d5d-88a3-7bbd-bb5f64a86a57/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/gDCbIOD8",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:25:20.824Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:25:20.824Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "miu.fm",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/2f/06/882f06b3-9a91-725e-c2e6-f0e3df341f79/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/Id3xNWAZ",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:25:20.824Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:25:20.824Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "MinuteTaker - Meeting Notes",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/63/c7/8663c7b4-711b-b21b-b6bb-e4c6d1d297ca/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/Kl2MqemH",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:25:20.824Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:25:20.824Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "美团-美好生活小帮手",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/16/e7/4916e725-15fe-2f32-4612-2e5c4f8c4ec8/AppIcon-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/200x200bb-80.png",
+                    "link": "https://testflight.apple.com/join/oJ4iwGGe",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:25:20.824Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:25:20.824Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "DayPlus",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/a4/f8/97a4f8df-d94d-f082-f326-bd23a290cf69/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/2MdRcOkG",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:25:20.824Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:25:20.824Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "WorkBuddy",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/e1/0a/49e10a23-b653-b720-3cd1-dbc55ac58ccb/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/fSyJLJ4F",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:25:20.824Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:25:20.824Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Ducky Weather",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/3c/f1/063cf1d9-c1cb-b9e6-184d-fd9ead2e6624/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/zE9voJ5H",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:25:20.824Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:25:20.824Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "小牛云经纪",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7c/a2/49/7ca24980-b2fb-d1fd-8599-ba3c3ab2b602/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/E4E7pRrE",
+                    "clickCount": 6,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:25:20.824Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:25:20.824Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Spartan Camera Management",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/77/f6/49/77f64979-5f90-4605-5d51-e17bda804394/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/Q2j4wD3u",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:25:20.824Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:25:20.824Z"
+                              }
+                    ]
           }
 ]
