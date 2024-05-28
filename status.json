@@ -1483,7 +1483,7 @@
                     "clickCount": 14,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T07:38:09.921Z"
+                    "lastChecked": "2024-05-28T08:45:23.975Z"
           },
           {
                     "name": "IMDb",
@@ -1499,7 +1499,7 @@
                                         "Video"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T07:38:09.921Z"
+                    "lastChecked": "2024-05-28T08:45:23.975Z"
           },
           {
                     "name": "PotClock",
@@ -1508,7 +1508,7 @@
                     "clickCount": 25,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T07:38:09.921Z"
+                    "lastChecked": "2024-05-28T08:45:23.975Z"
           },
           {
                     "name": "Avici -Buy bitcoin with UPI",
@@ -1517,7 +1517,7 @@
                     "clickCount": 1,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T07:38:09.921Z"
+                    "lastChecked": "2024-05-28T08:45:23.975Z"
           },
           {
                     "name": "Per Watch",
@@ -1526,7 +1526,7 @@
                     "clickCount": 17,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T07:38:09.921Z"
+                    "lastChecked": "2024-05-28T08:45:23.975Z"
           },
           {
                     "name": "ColorSlurp",
@@ -1535,7 +1535,7 @@
                     "clickCount": 12,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T07:38:09.921Z"
+                    "lastChecked": "2024-05-28T08:45:23.975Z"
           },
           {
                     "name": "War Robots Test",
@@ -1548,7 +1548,7 @@
                                         "Games"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T07:38:09.921Z"
+                    "lastChecked": "2024-05-28T08:45:23.975Z"
           },
           {
                     "name": "Devil May Cry: Peak of Combat",
@@ -1557,7 +1557,7 @@
                     "clickCount": 17,
                     "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-28T07:38:09.921Z",
+                    "lastChecked": "2024-05-28T08:45:23.975Z",
                     "history": [
                               {
                                         "status": "open",
@@ -1572,20 +1572,24 @@
                     "clickCount": 33,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T07:38:09.921Z"
+                    "lastChecked": "2024-05-28T08:45:23.975Z"
           },
           {
                     "name": "Beautiful Covers",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/f0/32/19f03209-f604-732c-1749-b5ba27431cbd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/miiie6Jt",
                     "clickCount": 17,
-                    "betaAvailable": "full",
+                    "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T07:38:09.921Z",
+                    "lastChecked": "2024-05-28T08:45:23.975Z",
                     "history": [
                               {
                                         "status": "open",
                                         "timestamp": "2024-05-26T07:15:21.817Z"
+                              },
+                              {
+                                        "status": "full",
+                                        "timestamp": "2024-05-28T07:38:09.921Z"
                               }
                     ]
           },
