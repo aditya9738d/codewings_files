@@ -19410,5 +19410,155 @@
                                         "timestamp": "2024-05-28T14:41:10.999Z"
                               }
                     ]
+          },
+          {
+                    "name": "BlockTrade",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/e7/aa/b2e7aaf3-a055-49c1-2e0c-732e8095a448/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/bjKTB8X6",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:42:13.358Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:42:13.358Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "WiseCRM365-行业版",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1b/41/39/1b41390a-aae9-e9d7-5341-9df4fada601c/AppIcon_Private-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/u4z7VimZ",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:42:13.358Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:42:13.358Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "建发Staging",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a4/1a/bd/a41abdbf-f636-a3a7-d9df-cf17ea82c703/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/MOXJjIU1",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:42:13.358Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:42:13.358Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Film Noir for Trakt Just Watch",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/15/47/db/1547dbfb-8548-2441-a4fc-64a8f57304dc/AppIcon.lsr/200x200bb-80.png",
+                    "link": "https://testflight.apple.com/join/ZFdkEXo7",
+                    "clickCount": 0,
+                    "betaAvailable": "full",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:42:13.358Z",
+                    "history": [
+                              {
+                                        "status": "full",
+                                        "timestamp": "2024-05-28T14:42:13.358Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "农心智行",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/d2/8e/fdd28e76-d1fe-6a56-02a0-03bfcb066632/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/8f58mYbI",
+                    "clickCount": 1,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:42:13.358Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:42:13.358Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Talo",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/e1/ed/6ce1ed0d-cfd3-eccb-8f64-9c2756c31b45/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/0fth3q3Z",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:42:13.358Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:42:13.358Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "My WV Lite",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/fb/3c/3ffb3ca4-ed8a-fadd-a16b-46a0df2af8cc/AppIconQA-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+                    "link": "https://testflight.apple.com/join/CjZ7joXG",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:42:13.358Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:42:13.358Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Braille Editörü",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/5e/f0/8f5ef003-70e8-e37d-696b-c41101f717b8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/54V92ZKL",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:42:13.358Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:42:13.358Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "SC Mobile Singapore",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/a7/07/16a707ee-4769-c160-a34a-b67dc430c81d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/SUEExwMx",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:42:13.358Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:42:13.358Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "FleksySDK Staging",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4b/ba/64/4bba642a-c8cc-681f-6772-e8057d3d4e9f/AppIcon-Staging-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/zOZEBpQ9",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T14:42:13.358Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T14:42:13.358Z"
+                              }
+                    ]
           }
 ]
