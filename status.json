@@ -1778,7 +1778,7 @@
                     "clickCount": 25,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:34:10.369Z"
+                    "lastChecked": "2024-05-28T07:41:10.495Z"
           },
           {
                     "name": "HDHomeRun",
@@ -1787,7 +1787,7 @@
                     "clickCount": 52,
                     "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:34:10.369Z"
+                    "lastChecked": "2024-05-28T07:41:10.495Z"
           },
           {
                     "name": "Bamboo Dragonfly",
@@ -1796,7 +1796,7 @@
                     "clickCount": 5,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:34:10.369Z"
+                    "lastChecked": "2024-05-28T07:41:10.495Z"
           },
           {
                     "name": "Finiliar",
@@ -1805,7 +1805,7 @@
                     "clickCount": 15,
                     "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:34:10.369Z",
+                    "lastChecked": "2024-05-28T07:41:10.495Z",
                     "history": [
                               {
                                         "status": "open",
@@ -1824,16 +1824,23 @@
                                         "Developer"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T06:34:10.369Z"
+                    "lastChecked": "2024-05-28T07:41:10.495Z"
           },
           {
                     "name": "Flipper Mobile App",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/65/66/3d6566c5-1aa2-17a8-82a7-0b2b6b649188/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/oLyR7YeT",
-                    "clickCount": 124,
+                    "clickCount": 125,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:34:10.369Z"
+                    "categories": [
+                              [
+                                        "Developer"
+                              ],
+                              [
+                                        "Utility"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:41:10.495Z"
           },
           {
                     "name": "Chronosphere - Clocks",
@@ -1842,7 +1849,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:34:10.369Z"
+                    "lastChecked": "2024-05-28T07:41:10.495Z"
           },
           {
                     "name": "AnyTrip",
@@ -1851,7 +1858,7 @@
                     "clickCount": 6,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:34:10.369Z"
+                    "lastChecked": "2024-05-28T07:41:10.495Z"
           },
           {
                     "name": "Text & Markup",
@@ -1860,7 +1867,7 @@
                     "clickCount": 4,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:34:10.369Z",
+                    "lastChecked": "2024-05-28T07:41:10.495Z",
                     "history": [
                               {
                                         "status": "not accepting",
@@ -1875,7 +1882,7 @@
                     "clickCount": 112,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:34:10.369Z"
+                    "lastChecked": "2024-05-28T07:41:10.495Z"
           },
           {
                     "name": "Block Puzzle: Cops vs Robbers",
