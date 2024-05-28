@@ -10560,5 +10560,155 @@
                                         "timestamp": "2024-05-28T13:41:40.160Z"
                               }
                     ]
+          },
+          {
+                    "name": "walkie-talkie-iphone",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/46/58/c2465885-f55f-9309-3eea-1076c2fa1e9d/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/vEEwtoF1",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:42:11.900Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:42:11.900Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "LING Club Beta",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f8/3c/e7/f83ce7f2-bf41-f507-331f-df07b5fcca93/AppIcon-Beta2-0-0-1x_U007ephone-0-10-0-0-sRGB-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/9s2YL9jr",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:42:11.900Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:42:11.900Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Zabb World",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/e9/94/3be99435-9e49-c09f-1b32-0d20878a6c29/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+                    "link": "https://testflight.apple.com/join/SU8pjhQa",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:42:11.900Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:42:11.900Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Canton Smart",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/74/7f/13747f92-8345-0c35-7d47-666c59966202/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/EuujoCDc",
+                    "clickCount": 1,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:42:11.900Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:42:11.900Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "PicMate Photo Organizer",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/0d/d3/9a0dd33f-9436-56f9-5ffe-d5eee860a7ab/AppIcon-0-1x_U007epad-0-P3-85-220-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/Lyuh61tN",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:42:11.900Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:42:11.900Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "e-kupon | Digital Coupon",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/f0/c0/d1f0c0f1-4f57-38ea-689a-eb6211e397f6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/VOxvgMHs",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:42:11.900Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:42:11.900Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "HashPhotos",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/de/7d/1dde7dcd-757a-eb4e-0833-5be04bffe45f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/NR8WA4xu",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:42:11.900Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:42:11.900Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Vexl 2.0",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/6f/c8/b66fc835-7c3a-fb5c-5862-75e877a342ff/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/SuPp5FF2",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:42:11.900Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:42:11.900Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "xcloc",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/47/d0/9447d0ee-1e9b-719f-321f-f3581b4baf3b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+                    "link": "https://testflight.apple.com/join/xC5Pa2KA",
+                    "clickCount": 0,
+                    "betaAvailable": "open",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:42:11.900Z",
+                    "history": [
+                              {
+                                        "status": "open",
+                                        "timestamp": "2024-05-28T13:42:11.900Z"
+                              }
+                    ]
+          },
+          {
+                    "name": "Albums - album focused player",
+                    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/10/a8/f310a8ec-bbfe-17e6-4fcd-5fbd8342fc6b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
+                    "link": "https://testflight.apple.com/join/8ZpnHGwr",
+                    "clickCount": 0,
+                    "betaAvailable": "full",
+                    "categories": [],
+                    "lastChecked": "2024-05-28T13:42:11.900Z",
+                    "history": [
+                              {
+                                        "status": "full",
+                                        "timestamp": "2024-05-28T13:42:11.900Z"
+                              }
+                    ]
           }
 ]
