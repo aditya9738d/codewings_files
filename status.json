@@ -2859,7 +2859,7 @@
                     "clickCount": 9,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:07:12.125Z"
+                    "lastChecked": "2024-05-28T06:12:10.669Z"
           },
           {
                     "name": "Locket Widget",
@@ -2885,24 +2885,24 @@
                                         "Browser"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T05:07:12.125Z"
+                    "lastChecked": "2024-05-28T06:12:10.669Z"
           },
           {
                     "name": "winston for Reddit",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/de/84/e4de843f-ee18-13cc-5870-0b05a4a99381/iconStandard-0-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/3UF8bAUN",
                     "clickCount": 6,
-                    "betaAvailable": "full",
+                    "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:07:12.125Z",
+                    "lastChecked": "2024-05-28T06:12:10.669Z",
                     "history": [
-                              {
-                                        "status": "full",
-                                        "timestamp": "2024-05-28T03:00:59.312Z"
-                              },
                               {
                                         "status": "open",
                                         "timestamp": "2024-05-28T04:03:11.598Z"
+                              },
+                              {
+                                        "status": "full",
+                                        "timestamp": "2024-05-28T05:07:12.125Z"
                               }
                     ]
           },
@@ -2920,7 +2920,7 @@
                                         "Chat"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T05:07:12.125Z",
+                    "lastChecked": "2024-05-28T06:12:10.669Z",
                     "history": [
                               {
                                         "status": "full",
@@ -2948,7 +2948,7 @@
                                         "Social Networking"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T05:07:12.125Z"
+                    "lastChecked": "2024-05-28T06:12:10.669Z"
           },
           {
                     "name": "Plex: Watch Live TV and Movies",
@@ -2957,7 +2957,7 @@
                     "clickCount": 7,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:07:12.125Z"
+                    "lastChecked": "2024-05-28T06:12:10.669Z"
           },
           {
                     "name": "Tam Giới Phân Tranh Mobile",
@@ -2966,7 +2966,7 @@
                     "clickCount": 0,
                     "betaAvailable": "not accepting",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:07:12.125Z"
+                    "lastChecked": "2024-05-28T06:12:10.669Z"
           },
           {
                     "name": "CCClubs",
@@ -2975,7 +2975,7 @@
                     "clickCount": 5,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:07:12.125Z"
+                    "lastChecked": "2024-05-28T06:12:10.669Z"
           },
           {
                     "name": "MLBB Beta",
@@ -2991,7 +2991,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T05:07:12.125Z"
+                    "lastChecked": "2024-05-28T06:12:10.669Z"
           },
           {
                     "name": "Grow My Dragon",
@@ -4411,7 +4411,7 @@
                                         "Games"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T05:07:12.125Z"
+                    "lastChecked": "2024-05-28T06:12:10.669Z"
           },
           {
                     "name": "Proximus+",
