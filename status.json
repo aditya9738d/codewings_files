@@ -744,7 +744,7 @@
                     "clickCount": 36,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:42:09.574Z"
+                    "lastChecked": "2024-05-28T07:48:09.367Z"
           },
           {
                     "name": "Any Recipe Keeper",
@@ -1218,7 +1218,7 @@
                                         "Utility"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T06:42:09.574Z"
+                    "lastChecked": "2024-05-28T07:48:09.367Z"
           },
           {
                     "name": "Cue - Text Reminders",
@@ -6245,7 +6245,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:42:09.574Z"
+                    "lastChecked": "2024-05-28T07:48:09.367Z"
           },
           {
                     "name": "Jusoor",
@@ -6254,7 +6254,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:42:09.574Z"
+                    "lastChecked": "2024-05-28T07:48:09.367Z"
           },
           {
                     "name": "PGArcher",
@@ -6263,7 +6263,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:42:09.574Z"
+                    "lastChecked": "2024-05-28T07:48:09.367Z"
           },
           {
                     "name": "Satsuma Wallet",
@@ -6271,8 +6271,15 @@
                     "link": "https://testflight.apple.com/join/QfWYprVO",
                     "clickCount": 0,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:42:09.574Z"
+                    "categories": [
+                              [
+                                        "Finance"
+                              ],
+                              [
+                                        "Utility"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:48:09.367Z"
           },
           {
                     "name": "Changelog Publisher",
@@ -6280,8 +6287,15 @@
                     "link": "https://testflight.apple.com/join/4YdmtpbZ",
                     "clickCount": 0,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:42:09.574Z"
+                    "categories": [
+                              [
+                                        "Developer"
+                              ],
+                              [
+                                        "Utility"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:48:09.367Z"
           },
           {
                     "name": "push – workout counter",
@@ -6289,8 +6303,12 @@
                     "link": "https://testflight.apple.com/join/pyNg1Nhc",
                     "clickCount": 0,
                     "betaAvailable": "open",
-                    "categories": [],
-                    "lastChecked": "2024-05-28T06:42:09.574Z"
+                    "categories": [
+                              [
+                                        "Fitness"
+                              ]
+                    ],
+                    "lastChecked": "2024-05-28T07:48:09.367Z"
           },
           {
                     "name": "KI Competitor",
@@ -6299,7 +6317,7 @@
                     "clickCount": 0,
                     "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T06:42:09.574Z"
+                    "lastChecked": "2024-05-28T07:48:09.367Z"
           },
           {
                     "name": "9HOLES - Golf Scorecard Editor",
@@ -6312,7 +6330,7 @@
                                         "Games"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T06:42:09.574Z"
+                    "lastChecked": "2024-05-28T07:48:09.367Z"
           },
           {
                     "name": "Vultisig",
