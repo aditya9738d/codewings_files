@@ -2652,7 +2652,7 @@
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/db/3d/2bdb3dce-513a-6c3d-59ca-dc57e5da71b6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/Gu9kI6ky",
                     "clickCount": 57,
-                    "betaAvailable": "full",
+                    "betaAvailable": "open",
                     "categories": [
                               [
                                         "Utility"
@@ -2661,15 +2661,15 @@
                                         "Video"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:24:10.376Z",
+                    "lastChecked": "2024-05-28T09:29:12.102Z",
                     "history": [
-                              {
-                                        "status": "full",
-                                        "timestamp": "2024-05-28T00:47:08.930Z"
-                              },
                               {
                                         "status": "open",
                                         "timestamp": "2024-05-28T01:52:09.327Z"
+                              },
+                              {
+                                        "status": "full",
+                                        "timestamp": "2024-05-28T08:24:10.376Z"
                               }
                     ]
           },
@@ -2678,15 +2678,15 @@
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/b4/37/beb43754-e80d-24cb-c73e-fe2fe0dd0abd/AppIcon_TestFlight-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/pLmKZJKw",
                     "clickCount": 177,
-                    "betaAvailable": "full",
+                    "betaAvailable": "open",
                     "history": [
-                              {
-                                        "status": "full",
-                                        "timestamp": "2024-05-28T00:48:14.747Z"
-                              },
                               {
                                         "status": "open",
                                         "timestamp": "2024-05-28T04:02:11.995Z"
+                              },
+                              {
+                                        "status": "full",
+                                        "timestamp": "2024-05-28T08:25:17.750Z"
                               }
                     ],
                     "categories": [
@@ -2700,7 +2700,7 @@
                                         "Video"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:25:17.750Z"
+                    "lastChecked": "2024-05-28T09:29:12.102Z"
           },
           {
                     "name": "1Blocker - Ad Blocker",
@@ -2709,7 +2709,7 @@
                     "clickCount": 4,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-28T08:25:17.750Z"
+                    "lastChecked": "2024-05-28T09:29:12.102Z"
           },
           {
                     "name": "ListenNow Air",
@@ -2722,7 +2722,7 @@
                                         "Music"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:25:17.750Z",
+                    "lastChecked": "2024-05-28T09:29:12.102Z",
                     "history": [
                               {
                                         "status": "full",
@@ -2739,17 +2739,17 @@
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b0/1b/97b01b41-3e4f-7c06-9259-5f2674df3aa0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/km3LkqB1",
                     "clickCount": 3,
-                    "betaAvailable": "full",
+                    "betaAvailable": "open",
                     "categories": [],
-                    "lastChecked": "2024-05-28T08:25:17.750Z",
+                    "lastChecked": "2024-05-28T09:29:12.102Z",
                     "history": [
-                              {
-                                        "status": "full",
-                                        "timestamp": "2024-05-23T21:05:15.495Z"
-                              },
                               {
                                         "status": "open",
                                         "timestamp": "2024-05-24T21:15:21.704Z"
+                              },
+                              {
+                                        "status": "full",
+                                        "timestamp": "2024-05-28T08:25:17.750Z"
                               }
                     ]
           },
@@ -2764,7 +2764,7 @@
                                         "Music"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:25:17.750Z"
+                    "lastChecked": "2024-05-28T09:29:12.102Z"
           },
           {
                     "name": "Photoroom: AI Photo Editor",
@@ -2798,7 +2798,7 @@
                     "clickCount": 5,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-28T08:25:17.750Z"
+                    "lastChecked": "2024-05-28T09:29:12.102Z"
           },
           {
                     "name": "Stick War",
@@ -2807,7 +2807,7 @@
                     "clickCount": 10,
                     "betaAvailable": "full",
                     "categories": [],
-                    "lastChecked": "2024-05-28T08:25:17.750Z",
+                    "lastChecked": "2024-05-28T09:29:12.102Z",
                     "history": [
                               {
                                         "status": "full",
@@ -2830,7 +2830,7 @@
                                         "Ai"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:25:17.750Z"
+                    "lastChecked": "2024-05-28T09:29:12.102Z"
           },
           {
                     "name": "Picsart AI Photo Video Editor",
@@ -2855,14 +2855,14 @@
                     "name": "Xbox Game Pass",
                     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/6f/6d/d06f6d62-5504-d9d5-0415-daae006bd80c/AppIconBeta-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
                     "link": "https://testflight.apple.com/join/wytcNylk",
-                    "clickCount": 102,
+                    "clickCount": 103,
                     "betaAvailable": "full",
                     "categories": [
                               [
                                         "Games"
                               ]
                     ],
-                    "lastChecked": "2024-05-28T08:25:17.750Z"
+                    "lastChecked": "2024-05-28T09:29:12.102Z"
           },
           {
                     "name": "Solar Eclipse 2024 Mobile",
