@@ -1348,5 +1348,155 @@
         "timestamp": "2024-05-29T07:41:08.347Z"
       }
     ]
+  },
+  {
+    "name": "My Genie: Personality AI",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/20/ed/8a/20ed8a46-7a9d-cfe5-e8a7-456955e06ed7/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Hl5wgodr",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:42:10.523Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:42:10.523Z"
+      }
+    ]
+  },
+  {
+    "name": "Printer Setup Tool",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/32/c6/41/32c64141-292f-ceff-e1fb-c202ad7927d1/AppIcon-utax-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/drvGMmgX",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:42:10.523Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:42:10.523Z"
+      }
+    ]
+  },
+  {
+    "name": "PRINCE Merchant QA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/85/04/3d850411-f9fc-673f-eaa4-d176ebfe1602/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Yzi70jTM",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:42:10.523Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:42:10.523Z"
+      }
+    ]
+  },
+  {
+    "name": "Flying Lap F1",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/25/06/71/250671db-f499-38c9-3cdc-43c70c03ef8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/2ubEielm",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:42:10.523Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T07:42:10.523Z"
+      }
+    ]
+  },
+  {
+    "name": "NT IPTV",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/01/a9/2e01a998-0691-4d66-35f5-61418bdce77d/AppIcon-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ShJAiPMD",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:42:10.523Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:42:10.523Z"
+      }
+    ]
+  },
+  {
+    "name": "Matter Verifier",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7d/97/27/7d9727b7-8ce3-5bbe-a265-973b8cb1504f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6BYFuCrW",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:42:10.523Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:42:10.523Z"
+      }
+    ]
+  },
+  {
+    "name": "Elite Quiz",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/70/bd/4170bd0c-e0c5-c3b4-80cc-3f29ec728fc1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/sRD6VDm1",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:42:10.523Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:42:10.523Z"
+      }
+    ]
+  },
+  {
+    "name": "Accor ALL - sandbox",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/c0/9d/b9c09d66-76f4-1207-ba2d-5416c19a7a9b/AppIcon.sandbox-development-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DroAuuwu",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:42:10.523Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:42:10.523Z"
+      }
+    ]
+  },
+  {
+    "name": "EasyVFR 4",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/1b/21/0e1b2178-f5fc-764a-e5d9-9eefe63c5e1d/Brand_Assets-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Zxbi0Hof",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:42:10.523Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:42:10.523Z"
+      }
+    ]
+  },
+  {
+    "name": "SoProp UAT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/df/00/9fdf00d3-76d5-3610-5123-d5e73ece1916/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VbnXX6cD",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:42:10.523Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:42:10.523Z"
+      }
+    ]
   }
 ]
