@@ -25260,5 +25260,155 @@
         "timestamp": "2024-05-29T05:44:11.181Z"
       }
     ]
+  },
+  {
+    "name": "Idle Fantasy Magic School",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9a/c5/5e/9ac55e93-da1b-8078-11f6-58edbef22b15/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/0lGf3wWh",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:45:25.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:45:25.247Z"
+      }
+    ]
+  },
+  {
+    "name": "Виртуальный Ассистент",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/81/73/078173c6-a106-86bf-0961-b2e5efa28b65/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/q7G6izfY",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:45:25.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:45:25.247Z"
+      }
+    ]
+  },
+  {
+    "name": "XERP",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/f3/ab/dcf3ab13-fa1e-f3cd-1727-553c2879080a/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/cD5nYbTE",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:45:25.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:45:25.247Z"
+      }
+    ]
+  },
+  {
+    "name": "The Cursed Land",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/ab/80/e0ab805c-b204-df06-f8a2-6b6bd8ae43dc/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/FwhJ8QEf",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:45:25.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:45:25.247Z"
+      }
+    ]
+  },
+  {
+    "name": "OneRail Driver 2.0 - Staging",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/3d/41/783d415d-8b8b-fbde-10ec-8d739d9b9472/AppIcon.staging-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1haDQinT",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:45:25.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:45:25.247Z"
+      }
+    ]
+  },
+  {
+    "name": "WebView SDK Demo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/53/50/23/5350230a-83fe-6258-e80a-165b5356592f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/o2rXLOgz",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:45:25.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:45:25.247Z"
+      }
+    ]
+  },
+  {
+    "name": "OBS World",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/70/96/337096c1-717d-2474-c003-94262daec623/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5GaaYyaq",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:45:25.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:45:25.247Z"
+      }
+    ]
+  },
+  {
+    "name": "ShufflePlay",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/86/26/e28626e5-a320-fded-a143-dc84cd297ab3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/OXkxF2Zt",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:45:25.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:45:25.247Z"
+      }
+    ]
+  },
+  {
+    "name": "EDU-Me",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/62/ed/84/62ed84df-d593-67ef-5820-8f4d9c4524c6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/CQAl2DNN",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:45:25.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:45:25.247Z"
+      }
+    ]
+  },
+  {
+    "name": "LMP - A Better Music Player",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/53/c8/1a53c86b-7877-3531-3923-8d2d5f86f335/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/H0qG853j",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:45:25.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:45:25.247Z"
+      }
+    ]
   }
 ]
