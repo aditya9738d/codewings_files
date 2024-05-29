@@ -1072,5 +1072,163 @@
         "timestamp": "2024-05-29T12:18:13.023Z"
       }
     ]
+  },
+  {
+    "name": "Ngọc Rồng Hyper...",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/ea/cb/74eacb35-8374-7e1b-16e1-671efffa5749/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UDDdSKNn",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:19:10.575Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:19:10.575Z"
+      }
+    ]
+  },
+  {
+    "name": "iPlayTV AIO",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/29/b5/b929b53b-aae9-1a06-317a-99a9ce32ee31/App_Icon-marketing.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/irMsXGg0",
+    "clickCount": 30,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:19:10.575Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:19:10.575Z"
+      }
+    ]
+  },
+  {
+    "name": "Deskmodder",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/68/dd/ab68dddd-2742-6009-aa24-379d29a99b96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/m0B6XJbE",
+    "clickCount": 9,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:19:10.575Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:19:10.575Z"
+      }
+    ]
+  },
+  {
+    "name": "Knight",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/68/7e/d8687eda-71ae-fb1d-323f-16fdc8c55862/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/bOzxqdei",
+    "clickCount": 15,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:19:10.575Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:19:10.575Z"
+      }
+    ]
+  },
+  {
+    "name": "MyOrderApp Demo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d3/88/bf/d388bfc0-5fc1-0d71-7f45-f202be893710/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/YzHlJoxQ",
+    "clickCount": 14,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:19:10.575Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:19:10.575Z"
+      }
+    ]
+  },
+  {
+    "name": "NotePlan - Planning with Notes",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/dc/d9/83dcd9a4-6461-f8a2-77e6-8d22d67f967c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/fm9q4OjE",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:19:10.575Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:19:10.575Z"
+      }
+    ]
+  },
+  {
+    "name": "Ninja School",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/6e/ef/e66eefd9-f38c-7e97-c628-17a8c3a1f059/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/O1jTSJWE",
+    "clickCount": 39,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:19:10.575Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:19:10.575Z"
+      }
+    ]
+  },
+  {
+    "name": "Spezi Template Application",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/01/2e/39/012e397d-4da0-4e85-9438-4285e10fa13b/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ipEezBY1",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:19:10.575Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:19:10.575Z"
+      }
+    ]
+  },
+  {
+    "name": "AMT Mobile V3",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/7d/f0/a77df0ad-38e7-4216-8b17-bcf8dc372695/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/PwQllkbR",
+    "clickCount": 7,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:19:10.575Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:19:10.575Z"
+      }
+    ]
+  },
+  {
+    "name": "حريص | Haris",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/17/3d/68173d0a-fbfb-715e-e4ee-93854175a09c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/RY3wcLr5",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:19:10.575Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:19:10.575Z"
+      }
+    ]
   }
 ]
