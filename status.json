@@ -26365,11 +26365,146 @@
     "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-29T16:25:16.682Z",
+    "lastChecked": "2024-05-29T16:26:09.804Z",
     "history": [
       {
         "status": "open",
         "timestamp": "2024-05-29T16:25:16.682Z"
+      }
+    ]
+  },
+  {
+    "name": "Yaapt",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f6/e4/7ff6e458-ed87-d6de-e9df-43258729e6da/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/DiMLxTC4",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:26:09.804Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:26:09.804Z"
+      }
+    ]
+  },
+  {
+    "name": "BOOM CRM",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/d3/9e/16d39ec6-3f44-4fb2-fc87-093bca8cc9e0/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/HoCiXQql",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:26:09.804Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:26:09.804Z"
+      }
+    ]
+  },
+  {
+    "name": "Bitunix : Crypto & BTC Trading",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/64/56/3b645625-5dd1-3dd7-a25f-883d8a4c598a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/riLL6dc0",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:26:09.804Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:26:09.804Z"
+      }
+    ]
+  },
+  {
+    "name": "Meditation Timer - Zenitizer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/a4/d9/f8a4d968-809a-5be3-a4e3-9d708d3d4108/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/QvKyRJ8x",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:26:09.804Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:26:09.804Z"
+      }
+    ]
+  },
+  {
+    "name": "Xelerate Suite",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/20/57/7f/20577f6d-6f27-63c5-b169-ec2216941ed0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/L89HPOdQ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:26:09.804Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:26:09.804Z"
+      }
+    ]
+  },
+  {
+    "name": "Pace-Calc",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/0e/0f/110e0f0d-77e5-1ff1-f7f4-32eb84cef2c1/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Ge4pa25s",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:26:09.804Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:26:09.804Z"
+      }
+    ]
+  },
+  {
+    "name": "Rondo Measure and Quote",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/b9/0c/0bb90c48-a15b-83bc-2b47-5747df4868cb/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Hc0drHQj",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:26:09.804Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:26:09.804Z"
+      }
+    ]
+  },
+  {
+    "name": "Ever Play - HiFi Music Player",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/7c/2d/da7c2d3f-87b6-ee3a-2cbb-8d565ef3e799/AppIcon5-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MzvaziMT",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:26:09.804Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T16:26:09.804Z"
+      }
+    ]
+  },
+  {
+    "name": "Alta Networks",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/9d/35/e59d3579-0e49-523d-567f-2fbacabcf020/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/jbfXiKNg",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:26:09.804Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:26:09.804Z"
       }
     ]
   }
