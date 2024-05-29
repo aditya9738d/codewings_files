@@ -15868,5 +15868,155 @@
         "timestamp": "2024-05-29T15:15:27.470Z"
       }
     ]
+  },
+  {
+    "name": "RaundTable",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/64/85/936485e7-7dc1-ddce-3285-f170a641607f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/OIQ6oWbs",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:16:10.549Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:16:10.549Z"
+      }
+    ]
+  },
+  {
+    "name": "AnetaEd",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/1f/d4/5f1fd4b5-1e56-f58b-8808-340d07fa450e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/g1vKLVi2",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:16:10.549Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T15:16:10.549Z"
+      }
+    ]
+  },
+  {
+    "name": "Trident App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/b3/1e/66b31e67-e333-a96c-b7fe-2ceb8d2046ee/AppIcon-trident-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Vs7MAj0D",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:16:10.549Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:16:10.549Z"
+      }
+    ]
+  },
+  {
+    "name": "Inofia Life",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/4d/21/ba4d2136-e977-8d12-7d87-5f7f3d58dda1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/AKsraRDV",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:16:10.549Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:16:10.549Z"
+      }
+    ]
+  },
+  {
+    "name": "Money: track income & expenses",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/77/4a/ea774af2-821d-9f67-c79f-6038ab634c6e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/UAzr0dcN",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:16:10.549Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:16:10.549Z"
+      }
+    ]
+  },
+  {
+    "name": "VIP Station",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d5/a6/51/d5a651c6-e0d4-4819-b12f-183d227e30c7/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/lIHB40dx",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:16:10.549Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:16:10.549Z"
+      }
+    ]
+  },
+  {
+    "name": "Nect TEST",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/59/4a/c8/594ac8d6-7dc9-e656-e24e-b22e9b050b1e/AppIconTEST-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/e9QJ1gzZ",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:16:10.549Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:16:10.549Z"
+      }
+    ]
+  },
+  {
+    "name": "Ida",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/3f/f4/b93ff4b7-5d9e-62c2-6f82-c22070e04c49/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/4WvvUAuu",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:16:10.549Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:16:10.549Z"
+      }
+    ]
+  },
+  {
+    "name": "Solfy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/db/55/e9/db55e9da-8957-4163-9bf6-af6d18952b12/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/WE3U3mGv",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:16:10.549Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:16:10.549Z"
+      }
+    ]
+  },
+  {
+    "name": "Smart DigiBook",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/4f/fe/624ffede-0300-d857-e982-ed65a0739f9e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/2yvBp9cw",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:16:10.549Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:16:10.549Z"
+      }
+    ]
   }
 ]
