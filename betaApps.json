@@ -14398,5 +14398,155 @@
         "timestamp": "2024-05-29T09:09:08.252Z"
       }
     ]
+  },
+  {
+    "name": "HKBU Mobile (UAT)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/44/10/5b441021-82cd-23e4-319e-02a1b5e49f88/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/pi3Pgrml",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:10:23.856Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:10:23.856Z"
+      }
+    ]
+  },
+  {
+    "name": "HOC VIEN SHINOBI",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/0d/14/0d0d14ed-2e1b-b6c3-d286-e554e8c02eb6/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/fUx1y9Y8",
+    "clickCount": 0,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:10:23.856Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T09:10:23.856Z"
+      }
+    ]
+  },
+  {
+    "name": "HPTTM Companion App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/70/92/6470924c-c0ab-eb31-e085-3b4ac4705a32/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/dZ5Scx47",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:10:23.856Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T09:10:23.856Z"
+      }
+    ]
+  },
+  {
+    "name": "HSO LENGEND",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/44/03/49/4403494e-e671-de55-b4fa-33f3eb01c48d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/wj539bhT",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:10:23.856Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:10:23.856Z"
+      }
+    ]
+  },
+  {
+    "name": "HSOPLUS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/99/80/8099805b-5a3d-871e-ab1d-5c72b0fc8a41/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/pZJbgrBG",
+    "clickCount": 0,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:10:23.856Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T09:10:23.856Z"
+      }
+    ]
+  },
+  {
+    "name": "HTV merchant DEV",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9b/9a/dd/9b9add91-656c-e2bb-8e34-12eef34935ec/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/rOiWWRF7",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:10:23.856Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:10:23.856Z"
+      }
+    ]
+  },
+  {
+    "name": "HYPH",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/38/a9/a938a962-ff3b-75a4-e372-f9f082e7ac39/AppIcon-production-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DaysuSAF",
+    "clickCount": 3,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:10:23.856Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T09:10:23.856Z"
+      }
+    ]
+  },
+  {
+    "name": "HaHa World",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/a0/e2/19a0e243-2ca1-f775-2f30-e23d101ce60e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6DVaTrfQ",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:10:23.856Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:10:23.856Z"
+      }
+    ]
+  },
+  {
+    "name": "Hako - Credit Card Points",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/c0/41/ffc0415e-65a7-bd12-779b-4ceb47cfeffb/AppIcon-0-1x_U007epad-0-0-0-0-0-P3-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/xzb1KAky",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:10:23.856Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T09:10:23.856Z"
+      }
+    ]
+  },
+  {
+    "name": "Happeo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f8/44/ca/f844cae5-e002-009a-a53c-9c8b8a4985dc/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/2XwvIcJD",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:10:23.856Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:10:23.856Z"
+      }
+    ]
   }
 ]
