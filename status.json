@@ -22710,5 +22710,155 @@
         "timestamp": "2024-05-29T05:27:09.658Z"
       }
     ]
+  },
+  {
+    "name": "RitMeter",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/04/de/3304de23-c710-b72a-acc7-697648b557a1/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1x1EROoV",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:28:10.141Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:28:10.141Z"
+      }
+    ]
+  },
+  {
+    "name": "PolyFling",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/76/66/4b7666b6-aa1a-5b99-1913-337c34998c2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/2liO8nWS",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:28:10.141Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:28:10.141Z"
+      }
+    ]
+  },
+  {
+    "name": "HERE WeGo - BETA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/80/9e/d8809e89-9aba-a2a5-ac5b-354fc7aaaea3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Y4bJp9CR",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:28:10.141Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:28:10.141Z"
+      }
+    ]
+  },
+  {
+    "name": "Sharezone - Schulplaner",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/81/d5/b481d599-dd41-463a-058e-f3b392389e0b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4luKeRNN",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:28:10.141Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:28:10.141Z"
+      }
+    ]
+  },
+  {
+    "name": "JibJab QA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/d1/56/63d1569c-0e81-3782-d6ce-d215fc1d5d5e/AppIconBeta-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JcSNLXht",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:28:10.141Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:28:10.141Z"
+      }
+    ]
+  },
+  {
+    "name": "VietMap navigation",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/df/fd/78/dffd78b9-9447-1f76-464b-1a2391237028/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/72lT6D0w",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:28:10.141Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:28:10.141Z"
+      }
+    ]
+  },
+  {
+    "name": "弘运通",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/03/8b/45038b83-9b04-0140-cbdc-b68d061eaf02/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NCoT7R76",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:28:10.141Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:28:10.141Z"
+      }
+    ]
+  },
+  {
+    "name": "Human App: claim Human Dollars",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/99/e8/3999e8ac-2ee4-fa05-333d-7ab17a1c1fe4/AppIcon-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/G73isbuI",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:28:10.141Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:28:10.141Z"
+      }
+    ]
+  },
+  {
+    "name": "curtis-tradeshow",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f0/a1/30/f0a13084-a7e0-9aa1-8fae-6a6490593d95/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/HtXYawJE",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:28:10.141Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:28:10.141Z"
+      }
+    ]
+  },
+  {
+    "name": "MRI Agile Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/87/4f/0b874f3c-2fee-3942-06cf-d7b131043971/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/esGlt4t2",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:28:10.141Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:28:10.141Z"
+      }
+    ]
   }
 ]
