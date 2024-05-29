@@ -22048,5 +22048,155 @@
         "timestamp": "2024-05-29T10:00:49.991Z"
       }
     ]
+  },
+  {
+    "name": "PayKam Store",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/75/2e/05/752e05d5-669d-bf6a-13df-791c1332920a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ll8raTq8",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:01:08.833Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:01:08.833Z"
+      }
+    ]
+  },
+  {
+    "name": "PayX",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/36/50/a1/3650a191-dad5-9388-abd0-2d8084faba21/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LN0t88iz",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:01:08.833Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:01:08.833Z"
+      }
+    ]
+  },
+  {
+    "name": "Payremit Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fd/d4/fd/fdd4fdab-1fe8-02fb-c115-c0e694d718e0/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/OBUs1Xfb",
+    "clickCount": 0,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:01:08.833Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T10:01:08.833Z"
+      }
+    ]
+  },
+  {
+    "name": "Peachtree Church | Atlanta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/c8/66/0ec86699-e8f5-5a90-32e7-6ae22efdef6e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9FuKIXdA",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:01:08.833Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:01:08.833Z"
+      }
+    ]
+  },
+  {
+    "name": "Pelotrak",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/c3/eb/f6c3eba9-d1af-aede-6fb9-1392421f5370/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/xgyJdzHR",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:01:08.833Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:01:08.833Z"
+      }
+    ]
+  },
+  {
+    "name": "PepPay公测版",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/05/dc/53/05dc5340-e0a2-135f-fc0e-0bfc4a06f16b/AppIcon-Release-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/rTDna7n4",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:01:08.833Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:01:08.833Z"
+      }
+    ]
+  },
+  {
+    "name": "PerformAce",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/5c/dd/585cdd96-5f27-581d-18ce-183fc411b493/AppIcon-0-1x_U007ephone-0-10-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XrbTkpq4",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:01:08.833Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:01:08.833Z"
+      }
+    ]
+  },
+  {
+    "name": "Persona Studio",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/d8/f5/9dd8f532-3cf9-d9c4-19fa-c92781476486/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/xCb9SHRw",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:01:08.833Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:01:08.833Z"
+      }
+    ]
+  },
+  {
+    "name": "PersonaBooth (Test)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/30/a4/5330a416-3ca4-1022-02ae-493d5b227c25/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/BDqQ9QcJ",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:01:08.833Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:01:08.833Z"
+      }
+    ]
+  },
+  {
+    "name": "Phelps Game Tuner",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/89/b2/6889b28f-9701-9bc9-cb32-f851bc585b62/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/TQX6bQki",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:01:08.833Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:01:08.833Z"
+      }
+    ]
   }
 ]
