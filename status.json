@@ -1198,5 +1198,155 @@
         "timestamp": "2024-05-29T13:28:12.034Z"
       }
     ]
+  },
+  {
+    "name": "DigitalTolk",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/c4/e5/a8c4e509-a136-3767-a585-58873bb2253e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/N7KzzZip",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:29:12.052Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:29:12.052Z"
+      }
+    ]
+  },
+  {
+    "name": "BeeBook Mobi",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/b4/44/2db44404-9626-a50e-2c9b-67912acc9d65/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/p2Acyonv",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:29:12.052Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:29:12.052Z"
+      }
+    ]
+  },
+  {
+    "name": "EGYM Trainer Debug",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/74/9c/61749cdf-d3b7-1c06-5005-95a0f94bf442/AppIcon.Debug-0-1x_U007epad-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/qH0PFXqk",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:29:12.052Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:29:12.052Z"
+      }
+    ]
+  },
+  {
+    "name": "WikiTree Browser Ext (Preview)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5c/3d/2a/5c3d2ac6-8087-2687-ea62-06c03f3f72ec/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/P0lkfEXV",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:29:12.052Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:29:12.052Z"
+      }
+    ]
+  },
+  {
+    "name": "TrueMoney Wallet - NonProd",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/67/88/9a/67889ae3-9e8b-cdde-c10d-1099a62072ed/AppIcon-3rd-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/FFgcl8kO",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:29:12.052Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:29:12.052Z"
+      }
+    ]
+  },
+  {
+    "name": "OfficeSuite Documents",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/2a/11/a32a1197-0980-cb58-5068-75157414474e/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/gyV031Jk",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:29:12.052Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:29:12.052Z"
+      }
+    ]
+  },
+  {
+    "name": "IPC360 Home",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5a/32/66/5a3266bc-10f8-9f92-cb32-cc564983ccdd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/p35MH8pJ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:29:12.052Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:29:12.052Z"
+      }
+    ]
+  },
+  {
+    "name": "Greeks.live",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/ee/96/ecee968a-95cf-b9d2-7fc9-beaf35094747/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/QGPOEUBM",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:29:12.052Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:29:12.052Z"
+      }
+    ]
+  },
+  {
+    "name": "Alook Browser - 8x Speed",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/a1/c2/7fa1c26a-15b2-9810-418c-4e14ea93436f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/I4MFSZp1",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:29:12.052Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T13:29:12.052Z"
+      }
+    ]
+  },
+  {
+    "name": "CPA V2",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/44/1b/69441b4d-2398-05bb-6e9d-3a7c86ee5dcd/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/sFINr56t",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:29:12.052Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:29:12.052Z"
+      }
+    ]
   }
 ]
