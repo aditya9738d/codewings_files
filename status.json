@@ -2367,5 +2367,155 @@
         "timestamp": "2024-05-29T12:27:09.029Z"
       }
     ]
+  },
+  {
+    "name": "My McDonald's QA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/ae/a8/9daea854-edd3-256d-8020-f0b8af986d22/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ftRKu5mE",
+    "clickCount": 1,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:28:10.846Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:28:10.846Z"
+      }
+    ]
+  },
+  {
+    "name": "WordPress – Website Builder",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/9c/7d/209c7ddb-508b-9a01-4ddd-bd5dbd2d098a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/AkJQt8Pw",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:28:10.846Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:28:10.846Z"
+      }
+    ]
+  },
+  {
+    "name": "Wink - Video Enhancing Tool",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/65/64/85656468-793f-1754-25d1-2c2d8386a186/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ZviH3WzG",
+    "clickCount": 2,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:28:10.846Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:28:10.846Z"
+      }
+    ]
+  },
+  {
+    "name": "PanTiltZoom",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/be/eb/1bbeeb98-50aa-2a08-2906-87ef973cea27/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ZUtNX7V2",
+    "clickCount": 9,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:28:10.846Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:28:10.846Z"
+      }
+    ]
+  },
+  {
+    "name": "YabiVision",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/05/4d/ff054d8d-5f36-ed66-a980-1874adf38c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/AtFppKIy",
+    "clickCount": 18,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:28:10.846Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:28:10.846Z"
+      }
+    ]
+  },
+  {
+    "name": "Zenmoney: expense tracker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/43/43/e84343f4-54c4-fc00-6927-cf4ca54c290f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UNbjeBue",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:28:10.846Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:28:10.846Z"
+      }
+    ]
+  },
+  {
+    "name": "SkyDemon",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/21/43/1b2143c4-65ca-e334-3401-7d8076d143a8/AppIcons-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hz1uLaJX",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:28:10.846Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:28:10.846Z"
+      }
+    ]
+  },
+  {
+    "name": "AstroDX-Beta (Group B)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/f5/8b/f1f58bc0-c20a-779c-706a-352d59c05af0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ocj3yptn",
+    "clickCount": 3,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:28:10.846Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:28:10.846Z"
+      }
+    ]
+  },
+  {
+    "name": "SingNow - Hát kara duet & live",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/82/61/c88261bb-8998-edd1-d401-3d9961946627/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/0bQ7WqlC",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:28:10.846Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:28:10.846Z"
+      }
+    ]
+  },
+  {
+    "name": "Ulysses: Writing App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/31/65/33316554-64b3-a324-b0f9-549cb48df00f/Ulysses-Release-0-0-1x_U007emarketing-0-0-0-6-0-0-P3-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/r7ehG0dQ",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:28:10.846Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:28:10.846Z"
+      }
+    ]
   }
 ]
