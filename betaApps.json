@@ -22498,5 +22498,155 @@
         "timestamp": "2024-05-29T10:03:08.731Z"
       }
     ]
+  },
+  {
+    "name": "Plaru",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/8c/7d/3d8c7d38-a6fe-326a-6492-cb631b6e85ff/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/YlUZ34cf",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:04:10.311Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:04:10.311Z"
+      }
+    ]
+  },
+  {
+    "name": "Plasma - Core Lightning Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5f/46/58/5f46587f-8487-9f67-25a2-715e61347320/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/t8Vqqq7i",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:04:10.311Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:04:10.311Z"
+      }
+    ]
+  },
+  {
+    "name": "Plastic Dive",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/ab/b3/ababb38e-2b54-4a3e-8dc6-d8a6f570f80f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/gNRCVc11",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:04:10.311Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:04:10.311Z"
+      }
+    ]
+  },
+  {
+    "name": "Platform Operator Portal [DEV]",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/83/e2/7c83e2a2-7398-c783-f6c3-71e6434bd9be/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/i8CRsEyL",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:04:10.311Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:04:10.311Z"
+      }
+    ]
+  },
+  {
+    "name": "Plato Eats",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/60/9d/25609d7c-cecb-d722-7718-910bbace2bdb/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/SDL4mJxz",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:04:10.311Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:04:10.311Z"
+      }
+    ]
+  },
+  {
+    "name": "Plato Podcast Player",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/76/50/f676505f-d1e3-fad6-64fa-42457fa9d3d5/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/m3XK9auB",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:04:10.311Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:04:10.311Z"
+      }
+    ]
+  },
+  {
+    "name": "Play Together - Party Games",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/68/64/8d686455-00dc-870b-b9d8-5691f82851eb/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mckojJxN",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:04:10.311Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:04:10.311Z"
+      }
+    ]
+  },
+  {
+    "name": "Plug-Me-17",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/b9/7c/7fb97ce1-f542-66ba-336b-fddc2a50fc18/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/oJYcKJo5",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:04:10.311Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:04:10.311Z"
+      }
+    ]
+  },
+  {
+    "name": "Plum Village Songs",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/2c/fb/2e2cfb34-2b37-e17f-b2d7-3291f70281a3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DnxKhxs1",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:04:10.311Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:04:10.311Z"
+      }
+    ]
+  },
+  {
+    "name": "Pluto TV: Watch & Stream Live",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/ee/bc/58eebcd1-4002-e0b9-24bb-92475604cdf5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6xkI9Jcx",
+    "clickCount": 0,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:04:10.311Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T10:04:10.311Z"
+      }
+    ]
   }
 ]
