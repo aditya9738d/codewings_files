@@ -7498,5 +7498,155 @@
         "timestamp": "2024-05-29T14:14:11.561Z"
       }
     ]
+  },
+  {
+    "name": "FunFinances",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/20/08/d32008b5-043b-09b5-f20c-7d75c73277e6/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/pqWTpKCY",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:15:29.299Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:15:29.299Z"
+      }
+    ]
+  },
+  {
+    "name": "Worklog - AI Time Tracking",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/69/cb/79/69cb799e-07d2-4a59-cd50-092c95f5c8e8/AppIcon-0-0-85-220-0-4-0-2x-P3.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/TeHjOP3I",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:15:29.299Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T14:15:29.299Z"
+      }
+    ]
+  },
+  {
+    "name": "Playbite - Mobile Arcade",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/2f/13/f32f1362-d990-6104-063b-65a29cfc6612/AppIcon-1x_U007ephone-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/5EaZwS36",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:15:29.299Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:15:29.299Z"
+      }
+    ]
+  },
+  {
+    "name": "Aloha Browser - Private VPN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ca/10/beca102c-560f-3436-1d3b-6c8f13ebdfe4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Xh9VNQoA",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:15:29.299Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:15:29.299Z"
+      }
+    ]
+  },
+  {
+    "name": "SOLD",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/ff/b7/f9ffb7dd-5354-47a8-6f12-3819b2975591/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/S8htmnA6",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:15:29.299Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:15:29.299Z"
+      }
+    ]
+  },
+  {
+    "name": "Tiny-Fins",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/f2/07/f5f207a1-28b7-94ae-f312-158425e176a3/AppIcon.lsr/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/AKKsWpCM",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:15:29.299Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:15:29.299Z"
+      }
+    ]
+  },
+  {
+    "name": "OzRunways EFB",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/1a/fd/3d1afd79-2d80-f2c7-125f-032a406abba0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/CAr9bOXm",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:15:29.299Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:15:29.299Z"
+      }
+    ]
+  },
+  {
+    "name": "Mela - Recipe Manager",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/07/53/a40753bf-42c1-2024-b15e-a6ee32cf194a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JXPIqwTR",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:15:29.299Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T14:15:29.299Z"
+      }
+    ]
+  },
+  {
+    "name": "PDF Owl",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/9e/8a/da9e8a0f-1f01-e267-6c9c-47fe48ef65ee/AppIcon-0-85-220-4-2x.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/5JBMctKj",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:15:29.299Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:15:29.299Z"
+      }
+    ]
+  },
+  {
+    "name": "Repeat One",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/a8/6f/b8a86f7f-7805-b353-8da0-d35eedabe195/AppIcon-0-0-1x_U007epad-0-10-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/pnP3yVv3",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:15:29.299Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:15:29.299Z"
+      }
+    ]
   }
 ]
