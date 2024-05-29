@@ -25022,5 +25022,155 @@
         "timestamp": "2024-05-29T16:16:09.557Z"
       }
     ]
+  },
+  {
+    "name": "Shift",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/a6/18/1aa618b0-88a1-13a1-694a-5d95b8548ca6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Dq4zhRbr",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:17:09.724Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:17:09.724Z"
+      }
+    ]
+  },
+  {
+    "name": "The Guardian Editions",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/8b/ed/7b8bed16-fd8f-c594-848f-ecf05f388c64/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/O2EojUEl",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:17:09.724Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:17:09.724Z"
+      }
+    ]
+  },
+  {
+    "name": "WTB Market",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/67/17/4a67171f-0c3b-8f7d-c96d-603c5d99dc72/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Cb9SBDz0",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:17:09.724Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:17:09.724Z"
+      }
+    ]
+  },
+  {
+    "name": "OuttaWRLD",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/28/79/c8287949-c7ed-aa29-9f85-c6741f1e442a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/sVSZ34kL",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:17:09.724Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:17:09.724Z"
+      }
+    ]
+  },
+  {
+    "name": "Relatica",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4d/c7/ff/4dc7ffcd-75ee-3e19-3f38-420295a0156c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/GvzYnAwn",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:17:09.724Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:17:09.724Z"
+      }
+    ]
+  },
+  {
+    "name": "Gametime Beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/6b/69/696b6985-f4b2-6f47-0718-5acf02fbb8b8/AppIconBeta-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/LCwyti6r",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:17:09.724Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:17:09.724Z"
+      }
+    ]
+  },
+  {
+    "name": "T-Home for HomeKit & Matter",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/33/1c/27331c2b-298f-8c97-63c7-553470839884/App_Icon-marketing.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ddd4lr07",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:17:09.724Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:17:09.724Z"
+      }
+    ]
+  },
+  {
+    "name": "Ninja World War: Global Force",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/c6/36/ddc63653-2a9e-28b1-be66-fffb6a841035/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/2maWknqu",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:17:09.724Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:17:09.724Z"
+      }
+    ]
+  },
+  {
+    "name": "Brang",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/e1/2b/f3e12ba5-9e5e-243e-54b2-5d5f23b4810e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/JddbRrMz",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:17:09.724Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:17:09.724Z"
+      }
+    ]
+  },
+  {
+    "name": "DKB",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/b2/c2/e1b2c2ca-bb96-c1df-edb4-be3897c18446/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/NwCXWAEI",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:17:09.724Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:17:09.724Z"
+      }
+    ]
   }
 ]
