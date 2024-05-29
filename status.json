@@ -6112,5 +6112,159 @@
         "timestamp": "2024-05-29T12:51:09.908Z"
       }
     ]
+  },
+  {
+    "name": "Super Fren: Super App for NFTs",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/68/f4/d268f4fa-f11b-b85c-f9ff-80460db48269/AppIcon-0-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/2IU6MlDR",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:52:11.953Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:52:11.953Z"
+      }
+    ]
+  },
+  {
+    "name": "Family - Ethereum Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/4e/3a/444e3aa5-adf1-dff0-ac8e-8585feafdd64/AppIcon-Teal-0-1x_U007ephone-0-10-0-P3-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/oUKAfJbr",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:52:11.953Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:52:11.953Z"
+      }
+    ]
+  },
+  {
+    "name": "Games - Manage your collection",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/16/3f/1f/163f1f52-837b-af18-8194-c314d9887089/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/GbPsDyg4",
+    "clickCount": 21,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:52:11.953Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:52:11.953Z"
+      }
+    ]
+  },
+  {
+    "name": "Simple Focus",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e9/35/01e93587-016c-8985-575f-763fd99fdf6b/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Gs80E65C",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:52:11.953Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:52:11.953Z"
+      }
+    ]
+  },
+  {
+    "name": "Music Discovery with Fusion",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/b4/4d/c7b44d23-e0c2-5413-3e7f-0b311b701564/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mgKIQ9hU",
+    "clickCount": 45,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Music"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:52:11.953Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:52:11.953Z"
+      }
+    ]
+  },
+  {
+    "name": "BetaMonkeyEmpire",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d1/f6/05d1f699-aaf6-1081-56f9-6bfce6502c93/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VhdGSRMd",
+    "clickCount": 43,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:52:11.953Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:52:11.953Z"
+      }
+    ]
+  },
+  {
+    "name": "Axon 3",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fc/00/91/fc009165-56bd-775d-d993-e798681faeb7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MI1za2wg",
+    "clickCount": 34,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:52:11.953Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:52:11.953Z"
+      }
+    ]
+  },
+  {
+    "name": "3D Scan Pro",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/f4/e7/0ef4e746-d9ff-9cae-8219-733c7db81dd5/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/29NljUzy",
+    "clickCount": 13,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:52:11.953Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:52:11.953Z"
+      }
+    ]
+  },
+  {
+    "name": "崩坏3测试服",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/5f/a5/ac5fa509-14e5-8e0e-bd9a-fec7bdeb9839/AppIcon-1x_U007emarketing-0-9-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/oDi1eOZ2",
+    "clickCount": 6,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:52:11.953Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T12:52:11.953Z"
+      }
+    ]
+  },
+  {
+    "name": "AppDab",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/6e/f2/b36ef213-0fc8-febc-3693-f0a13cf4a4fd/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tMhEgIVI",
+    "clickCount": 55,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:52:11.953Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:52:11.953Z"
+      }
+    ]
   }
 ]
