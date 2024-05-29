@@ -27857,5 +27857,155 @@
         "timestamp": "2024-05-29T16:35:17.765Z"
       }
     ]
+  },
+  {
+    "name": "APS Wallet Agent UAT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0e/be/b0/0ebeb065-8ed7-9c26-5c39-cf10e4f9078a/AppIconAgent-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/HDZDSWDe",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:36:11.129Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:36:11.129Z"
+      }
+    ]
+  },
+  {
+    "name": "HuiOne-test",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/f5/e1/97f5e1fd-4ffb-c58d-841f-f1eada672f38/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/oEUeqGeZ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:36:11.129Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:36:11.129Z"
+      }
+    ]
+  },
+  {
+    "name": "SM Data",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/cb/e2/b0cbe2c4-0f2d-4df2-ac1f-7451980ae23a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Y9naobS1",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:36:11.129Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:36:11.129Z"
+      }
+    ]
+  },
+  {
+    "name": "VanigliaPro",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/f0/5e/7df05eb3-03a9-e57d-7d71-75b3a755e3a5/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/kKlcn37G",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:36:11.129Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:36:11.129Z"
+      }
+    ]
+  },
+  {
+    "name": "KeyCard BBM",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/df/ec/e3dfec88-35c9-a298-fb68-9e90d4af6d36/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5EukzLT1",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:36:11.129Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T16:36:11.129Z"
+      }
+    ]
+  },
+  {
+    "name": "Deezer: Music Player, Podcast",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/a9/93/8ea9931a-2dab-0330-2333-446bb8d40f16/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/e7mCOEeg",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:36:11.129Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:36:11.129Z"
+      }
+    ]
+  },
+  {
+    "name": "DTPocketFM",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/37/c6/46/37c6469f-e1ca-0dd3-8337-20b0f4aef0c8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/1FP0EBMN",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:36:11.129Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:36:11.129Z"
+      }
+    ]
+  },
+  {
+    "name": "Nick Pinwheel",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/4d/88/814d887f-07bd-5220-abf5-f47784e5daf2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JX4td6PX",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:36:11.129Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:36:11.129Z"
+      }
+    ]
+  },
+  {
+    "name": "InfiniTime - Widget Reminders",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/6f/7f/a46f7fef-39b5-99c4-830b-1c16fb5c0546/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/VYgsR7d8",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:36:11.129Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:36:11.129Z"
+      }
+    ]
+  },
+  {
+    "name": "DFM - Dubai Financial Market",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/64/cf/ec64cfbf-57cc-56f9-a4ad-5dde53fc31b7/AppIcon-NEW-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.jpeg/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/aCoL0El2",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:36:11.129Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:36:11.129Z"
+      }
+    ]
   }
 ]
