@@ -10177,5 +10177,155 @@
         "timestamp": "2024-05-29T13:18:11.845Z"
       }
     ]
+  },
+  {
+    "name": "UP Board Lens",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/20/c0/8d20c0b5-0d61-bc8a-9a84-21413642e49c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/ZZsalAXV",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:19:11.576Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:19:11.576Z"
+      }
+    ]
+  },
+  {
+    "name": "I-CRM",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/ef/ab/0aefab0b-2ed0-06ce-e941-67858441d8ac/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/jYKfR9hO",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:19:11.576Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:19:11.576Z"
+      }
+    ]
+  },
+  {
+    "name": "Date-Buddy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/35/e2/2d/35e22d7e-597a-27fc-0eb0-ac0f33d8eecf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/l5vU6FCI",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:19:11.576Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:19:11.576Z"
+      }
+    ]
+  },
+  {
+    "name": "Dynasty League Baseball",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/29/7f/0e297f1e-a6e2-7232-cf0f-2dea829989ce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/GMIldzPW",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:19:11.576Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:19:11.576Z"
+      }
+    ]
+  },
+  {
+    "name": "SmashinGas",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/d2/2b/81d22b8b-6838-6cbf-5c66-02433e603cf0/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/X9aBP0Iq",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:19:11.576Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:19:11.576Z"
+      }
+    ]
+  },
+  {
+    "name": "Furbol Dev",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/ff/34/6cff34dd-5994-66aa-b678-0b3ecdb1c0c9/devAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hJ3kqXeF",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:19:11.576Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:19:11.576Z"
+      }
+    ]
+  },
+  {
+    "name": "SnippetsLab",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/54/e0/cb54e0b3-3d71-2c54-94aa-546f51ffe59b/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LBF2tQ2l",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:19:11.576Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T13:19:11.576Z"
+      }
+    ]
+  },
+  {
+    "name": "B-Bank Debug",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/30/f4/9e30f4af-41cc-5278-81cd-ea741355fe39/AppIcon-Debug-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/lnzqqwbU",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:19:11.576Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:19:11.576Z"
+      }
+    ]
+  },
+  {
+    "name": "BILLA Bonus",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/1a/d5/561ad5f1-d9e8-5728-eb16-9a83929d7304/BillaSlovakia_appicon_release-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/GcABkueS",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:19:11.576Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:19:11.576Z"
+      }
+    ]
+  },
+  {
+    "name": "DNB Mobile Bank",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/1b/79/871b79fa-5a5b-5c69-d892-1a6c61e1f30d/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/b6NACjPd",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:19:11.576Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:19:11.576Z"
+      }
+    ]
   }
 ]
