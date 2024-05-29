@@ -16318,5 +16318,155 @@
         "timestamp": "2024-05-29T15:18:10.733Z"
       }
     ]
+  },
+  {
+    "name": "SAG Demo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/80/9a/80809a01-6abd-867b-6f5c-405503791d75/AppIcon-1x_U007emarketing-0-2-85-220.jpeg/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/pWyUuGcp",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:19:07.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:19:07.969Z"
+      }
+    ]
+  },
+  {
+    "name": "SparkPlug Test App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/1f/e7/b41fe77d-8751-17e9-037e-0553158476ce/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/YoiZB3GG",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:19:07.969Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T15:19:07.969Z"
+      }
+    ]
+  },
+  {
+    "name": "App HawkSystem 3",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/fe/92/10fe9232-0d6a-19c3-c46e-7bca5242e302/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/6PAVcKyd",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:19:07.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:19:07.969Z"
+      }
+    ]
+  },
+  {
+    "name": "Research Alert",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/23/35/8623354b-6d5f-a3c6-4ca2-da2313b57c8a/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Wu2fUwAc",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:19:07.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:19:07.969Z"
+      }
+    ]
+  },
+  {
+    "name": "StashApp Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/e9/e5/7fe9e512-e61e-97e5-2f05-4a6e496cde3a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/cv3UCvFd",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:19:07.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:19:07.969Z"
+      }
+    ]
+  },
+  {
+    "name": "LaserOS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/c4/11/2ec411e4-6344-8eec-2796-f128415e6dfa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/a50EXCyb",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:19:07.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:19:07.969Z"
+      }
+    ]
+  },
+  {
+    "name": "Home Assistant",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/fd/0a/0efd0a0e-3dc3-77d8-60d4-e358404f8f09/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/1AlPbnLZ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:19:07.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:19:07.969Z"
+      }
+    ]
+  },
+  {
+    "name": "KabaOTC Basic",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d0/0a/38/d00a387b-fd1a-9c76-b32c-aed224bad8ba/AppIcon-1x_U007epad-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Z59iD1rX",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:19:07.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:19:07.969Z"
+      }
+    ]
+  },
+  {
+    "name": "SmartHealth",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/13/12/fc13124b-b64a-bf5e-7e56-e3ec82c792cf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/ojjJ8SEA",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:19:07.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:19:07.969Z"
+      }
+    ]
+  },
+  {
+    "name": "MITSUBISHI MOTORS VIET NAM CRM",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/74/a5/da74a58c-3715-a322-fe55-39d0aacb629a/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/4yQz3wlt",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:19:07.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:19:07.969Z"
+      }
+    ]
   }
 ]
