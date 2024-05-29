@@ -20818,5 +20818,155 @@
         "timestamp": "2024-05-29T15:48:10.856Z"
       }
     ]
+  },
+  {
+    "name": "Shortzz",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e3/8d/b6/e38db616-b937-1e8a-0595-5ef8e42fc669/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/wmt67C6w",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:49:08.817Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:49:08.817Z"
+      }
+    ]
+  },
+  {
+    "name": "BitNasdaq: Digital Education",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/f2/ec/89f2ec12-db7f-ae4b-1f57-83de4eb78a4f/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/wr82YLnR",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:49:08.817Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:49:08.817Z"
+      }
+    ]
+  },
+  {
+    "name": "Moonlight VisionOS Preview",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/75/0c/f0/750cf024-a728-49a3-8ef9-acba6c6cad75/AppIcon.lsr/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/4eE59dyH",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:49:08.817Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:49:08.817Z"
+      }
+    ]
+  },
+  {
+    "name": "Elite Connect Biz",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/24/37/d3243707-a594-97e2-7137-3a16ff566b8a/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/z2F6lnQk",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:49:08.817Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:49:08.817Z"
+      }
+    ]
+  },
+  {
+    "name": "Bidclover Backroom Staff App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/2d/61/e22d617a-2565-5c48-fb7b-0090f0b52aae/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/yneaVljE",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:49:08.817Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T15:49:08.817Z"
+      }
+    ]
+  },
+  {
+    "name": "Swift Paperless",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/1a/b9/241ab92d-ee57-b93e-4f47-bc26df99b62c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/bOpOdzwL",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:49:08.817Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:49:08.817Z"
+      }
+    ]
+  },
+  {
+    "name": "CrewForce",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/45/c0/6e/45c06edb-8fcd-8d89-3aab-8a9b6bd65be5/AppIcon-1x_U007emarketing-0-4-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/UKExYuNm",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:49:08.817Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:49:08.817Z"
+      }
+    ]
+  },
+  {
+    "name": "Nabox Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/f1/cd/9ef1cd9c-e9ff-ca35-4694-fe713c667036/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/P3ASFT8F",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:49:08.817Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:49:08.817Z"
+      }
+    ]
+  },
+  {
+    "name": "Yza Mexico App Staging",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/99/f7/9599f733-60f3-5712-35c7-692473a9b967/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/f0auGAkv",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:49:08.817Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:49:08.817Z"
+      }
+    ]
+  },
+  {
+    "name": "PT Browser",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/a2/19/3ea219ad-d6c0-2192-ded0-5752e55bf647/AppIcon-1x_U007epad-0-0-GLES2_U002c0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/jMbjenat",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:49:08.817Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:49:08.817Z"
+      }
+    ]
   }
 ]
