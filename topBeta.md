@@ -1,3 +1,5 @@
+- **Composer: Automate Trades**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/b8/7b34b805-7b67-97d7-e85d-7ff38a8a9f80/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
+
 - **Starship -Your Stars On GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b7/c4/78/b7c478a4-c72e-19a8-a60c-230903f62e64/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/748P3fGS)
 - **ACM-Meldingen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/6e/42/326e420a-bb98-51f8-9e1f-677b22965b36/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8Z1blJVI)
 - **SSH Files – Secure ShellFish**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/b9/68/90b968b5-7b98-44bb-04c8-93b51d8ad29c/AppIcon-0-0-1x_U007epad-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D12EpKaj)
