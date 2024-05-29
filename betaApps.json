@@ -23848,5 +23848,155 @@
         "timestamp": "2024-05-29T10:13:06.921Z"
       }
     ]
+  },
+  {
+    "name": "Renaissance Kingdoms",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/12/5c/42125ce9-34cf-424f-5f5f-d94dcba8da82/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/KkFL0EvO",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:14:11.434Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:14:11.434Z"
+      }
+    ]
+  },
+  {
+    "name": "Renogy Diagnosis",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/8a/83/ae8a8382-4340-a744-7642-8eb4958c32c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/vmZcpfaL",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:14:11.434Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:14:11.434Z"
+      }
+    ]
+  },
+  {
+    "name": "RentalBuddy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/0d/3d/620d3dc9-1ca3-8bc2-9a71-6eef556a69b6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/E6dkYz1A",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:14:11.434Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:14:11.434Z"
+      }
+    ]
+  },
+  {
+    "name": "Reolink",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/a7/84/dda78450-4a59-d687-cfcc-f964086f3da9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/vrJKodta",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:14:11.434Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:14:11.434Z"
+      }
+    ]
+  },
+  {
+    "name": "Repay Digital Banking",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/bd/5f/62bd5f7d-7935-4297-9152-834df247a9b4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/haJu53wJ",
+    "clickCount": 0,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:14:11.434Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T10:14:11.434Z"
+      }
+    ]
+  },
+  {
+    "name": "Resecurity",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/d3/a1/6ad3a123-d358-6fad-6306-590fea0e162c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/cE8fyxdw",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:14:11.434Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:14:11.434Z"
+      }
+    ]
+  },
+  {
+    "name": "ResidentScreen",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c9/c5/e2/c9c5e211-e46e-23e8-365e-5c2a5fdaa293/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1j2zTwc5",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:14:11.434Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:14:11.434Z"
+      }
+    ]
+  },
+  {
+    "name": "Retro Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/c8/1f/10c81f28-2001-706b-902b-bd96e00f2c20/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/n71vOGwl",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:14:11.434Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:14:11.434Z"
+      }
+    ]
+  },
+  {
+    "name": "Retrospecs",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/6b/46/3a6b469c-004e-5bf2-07f3-5b16fdb633d4/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Nj54Pufb",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:14:11.434Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:14:11.434Z"
+      }
+    ]
+  },
+  {
+    "name": "Rhema Journal",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/df/59/44df5911-a3b1-7b1e-eeed-6e387511c64f/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Fg8mhlTe",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:14:11.434Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:14:11.434Z"
+      }
+    ]
   }
 ]
