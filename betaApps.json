@@ -28198,5 +28198,155 @@
         "timestamp": "2024-05-29T10:42:11.246Z"
       }
     ]
+  },
+  {
+    "name": "Tour Trader",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/10/ef/25/10ef2517-d3cd-ab39-2896-8a335679695c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1Cio8M64",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:45:26.688Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:45:26.688Z"
+      }
+    ]
+  },
+  {
+    "name": "Tp Thủ Đức Công Chức",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/a1/db/94a1dba3-f087-f004-6690-1f417d8b213a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VMcqxShM",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:45:26.688Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:45:26.688Z"
+      }
+    ]
+  },
+  {
+    "name": "Trackpet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/e2/cf/1de2cfb7-83f0-309f-0c6f-128d1f81f015/Classic-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/sY14cetk",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:45:26.688Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:45:26.688Z"
+      }
+    ]
+  },
+  {
+    "name": "TrailPro",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/32/7c/9b327cba-70f2-4aed-da30-be991c2a2d1b/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5rZc8xQS",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:45:26.688Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:45:26.688Z"
+      }
+    ]
+  },
+  {
+    "name": "TransVirtual TMS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ea/0b/13/ea0b1386-35da-9205-4c9a-0f5a68f5ce8a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LAZi6yqo",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:45:26.688Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:45:26.688Z"
+      }
+    ]
+  },
+  {
+    "name": "TransitBoard",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/75/42/5b754252-81f7-3f51-7c9b-8863b91896b9/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ZL55E07V",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:45:26.688Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:45:26.688Z"
+      }
+    ]
+  },
+  {
+    "name": "Translucent—Web & Widgets",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/10/cf/51/10cf5144-30d2-06d5-adf4-bcfc796b7ccc/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/64xgwI8e",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:45:26.688Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:45:26.688Z"
+      }
+    ]
+  },
+  {
+    "name": "Trash Ball",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/8f/38/df8f3883-3bd7-6255-958d-2ef0950e1549/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/2dat9gDn",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:45:26.688Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:45:26.688Z"
+      }
+    ]
+  },
+  {
+    "name": "TravelTaxDay",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/78/35/4e/78354e47-592a-1a38-d418-b22a43cccbb9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/WyOp4aac",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:45:26.688Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:45:26.688Z"
+      }
+    ]
+  },
+  {
+    "name": "Trayecto Tracker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/b5/1c/0cb51c21-4de7-5698-5a8a-553c6c6cc9b9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8tluu6Fe",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:45:26.688Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:45:26.688Z"
+      }
+    ]
   }
 ]
