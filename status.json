@@ -11683,5 +11683,155 @@
         "timestamp": "2024-05-29T14:44:10.210Z"
       }
     ]
+  },
+  {
+    "name": "Breaking News",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/f6/9b/c3f69b31-652c-9673-43a9-2f1b48cee453/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/W85f0g3L",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:45:27.801Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:45:27.801Z"
+      }
+    ]
+  },
+  {
+    "name": "Pikalist",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/89/51/b9895167-28f3-821f-3d97-bd0dfdf28443/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XnUYLSHN",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:45:27.801Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:45:27.801Z"
+      }
+    ]
+  },
+  {
+    "name": "Huawei e+",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/cb/13/cfcb1353-451f-cbef-e3d6-99758c31930c/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/tr1WU6iX",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:45:27.801Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:45:27.801Z"
+      }
+    ]
+  },
+  {
+    "name": "Blu - Financial Tracker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/fb/1f/72fb1f38-bd4e-bdea-531f-fa37db8bd830/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JInmTNff",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:45:27.801Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:45:27.801Z"
+      }
+    ]
+  },
+  {
+    "name": "Auchan",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/dc/88/aadc8801-e782-df50-5552-cf2a7264c0e4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/ZN5yKVN7",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:45:27.801Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:45:27.801Z"
+      }
+    ]
+  },
+  {
+    "name": "Safewave",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/97/6a/d0976a58-38ac-c6b0-873d-bc89b5355641/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/hPs6FGvq",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:45:27.801Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:45:27.801Z"
+      }
+    ]
+  },
+  {
+    "name": "GhostMove",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/76/d5/7076d54c-e32f-1d6d-1eff-0834d9206ab5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/DR5VLHcn",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:45:27.801Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:45:27.801Z"
+      }
+    ]
+  },
+  {
+    "name": "Filamingo Beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/21/d9/3b/21d93bbf-8d9d-350b-9be0-917ba96712de/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/DIkvSViL",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:45:27.801Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:45:27.801Z"
+      }
+    ]
+  },
+  {
+    "name": "CashBud",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ed/9c/17/ed9c173f-101a-bf5f-4b66-09c582d3cd43/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/U3ZKm77o",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:45:27.801Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:45:27.801Z"
+      }
+    ]
+  },
+  {
+    "name": "ESS 45 Zebra",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/7d/12/9f7d129f-57b8-a1dd-328d-f19c0db30185/Product-AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/eb2VgXeu",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:45:27.801Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:45:27.801Z"
+      }
+    ]
   }
 ]
