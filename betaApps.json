@@ -2848,5 +2848,155 @@
         "timestamp": "2024-05-29T07:51:06.895Z"
       }
     ]
+  },
+  {
+    "name": "SmartMixin Weather",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/20/9e/b6/209eb654-b0d9-9955-dd15-fdeefeaf9277/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/p5HKoM9Z",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:52:09.298Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:52:09.298Z"
+      }
+    ]
+  },
+  {
+    "name": "TEPRA Lite+",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/8b/25/e98b2524-0bc8-b532-297d-48af202e8ca4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/v0x9PWyG",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:52:09.298Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:52:09.298Z"
+      }
+    ]
+  },
+  {
+    "name": "FreeChat",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/38/d6/8f38d6e4-d09c-7663-5e46-8c59e2711afe/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/0l9vfBxX",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:52:09.298Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:52:09.298Z"
+      }
+    ]
+  },
+  {
+    "name": "Ekhon Charge",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/f0/50/68f05099-20a9-91a5-e984-322fb835e905/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/P6eRb7AQ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:52:09.298Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:52:09.298Z"
+      }
+    ]
+  },
+  {
+    "name": "PENNY România",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/1f/d0/051fd0e7-d9aa-a5d5-71c4-2ee23c3b0a35/PennyRomania_appicon_release-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4Vo9DuHf",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:52:09.298Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T07:52:09.298Z"
+      }
+    ]
+  },
+  {
+    "name": "SAGA Plus",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/55/13/bf55138e-05fd-fb34-459c-5069336e688c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/omiTVLEZ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:52:09.298Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:52:09.298Z"
+      }
+    ]
+  },
+  {
+    "name": "BSO E-Account",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f0/08/07f008dd-724b-4ece-81a9-01f4eeffd650/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/d5GG9TFx",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:52:09.298Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:52:09.298Z"
+      }
+    ]
+  },
+  {
+    "name": "AutoresetApp",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/86/98/3d/86983d79-7304-6ea4-e22d-0eca53e263f5/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/nuvbfzot",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:52:09.298Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:52:09.298Z"
+      }
+    ]
+  },
+  {
+    "name": "SoCatch",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/16/02/d416027b-75c4-2bcd-286e-775dea3f9bea/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/vRHeAY5a",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:52:09.298Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:52:09.298Z"
+      }
+    ]
+  },
+  {
+    "name": "Aerofly FS Global",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/85/18/4d8518c6-a703-b2c6-85da-419d17d47357/AppIconiOS-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/O2K1t3YG",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:52:09.298Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:52:09.298Z"
+      }
+    ]
   }
 ]
