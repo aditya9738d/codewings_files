@@ -18718,5 +18718,155 @@
         "timestamp": "2024-05-29T15:34:09.830Z"
       }
     ]
+  },
+  {
+    "name": "Club Wizard",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/45/04/e8/4504e80e-b71e-63bc-cacd-3d4380d6b17c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/iWBdAqET",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:35:17.731Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:35:17.731Z"
+      }
+    ]
+  },
+  {
+    "name": "eduID",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/66/7e/6e/667e6eac-a0d4-a8c8-4935-861e5308c3e3/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Ogk1TxKu",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:35:17.731Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T15:35:17.731Z"
+      }
+    ]
+  },
+  {
+    "name": "SEPHORA Bra Staging",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e4/14/d4e414fd-5003-8623-fe70-e7999fa75ce3/AppIcon-0-1x_U007ephone-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/0paAIDFp",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:35:17.731Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:35:17.731Z"
+      }
+    ]
+  },
+  {
+    "name": "BotGem",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/37/8a/1d378a7f-7c92-f0bf-a3aa-a638e72fe6b9/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NVP0zRFW",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:35:17.731Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T15:35:17.731Z"
+      }
+    ]
+  },
+  {
+    "name": "chargEV UAT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1a/58/eb1a5825-65d9-98ff-fdf0-6d92b928521a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/lygg1Zkv",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:35:17.731Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:35:17.731Z"
+      }
+    ]
+  },
+  {
+    "name": "Shrimoney Hybrid",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/b3/67/b6b36784-e0f9-9cc7-0134-4d8da080c545/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/d3wuMKFK",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:35:17.731Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:35:17.731Z"
+      }
+    ]
+  },
+  {
+    "name": "HomeService Dev",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/b4/62/d8b462b8-64ab-0fbc-03d7-5e0615ad94ff/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/7uaqsLKw",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:35:17.731Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:35:17.731Z"
+      }
+    ]
+  },
+  {
+    "name": "La Positiva Dev",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/e1/ba/cfe1baa8-6234-c4ee-750b-c3dba79eb02b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/R4EiypuH",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:35:17.731Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:35:17.731Z"
+      }
+    ]
+  },
+  {
+    "name": "Intershop IMS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/41/c2/6241c23e-cb40-a343-726a-8b98ef7e94c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/inGQxXgH",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:35:17.731Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:35:17.731Z"
+      }
+    ]
+  },
+  {
+    "name": "ArgoFX",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/1a/2b/a71a2bd4-9bb7-5291-ceef-85149bc2063f/AppIcon_Lite-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/qZEwvILg",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:35:17.731Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:35:17.731Z"
+      }
+    ]
   }
 ]
