@@ -598,5 +598,155 @@
         "timestamp": "2024-05-29T07:35:16.926Z"
       }
     ]
+  },
+  {
+    "name": "Axos Beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/db/02/a6/db02a606-1479-eb42-018b-c12295841043/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NV4zvK7U",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:36:11.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:36:11.657Z"
+      }
+    ]
+  },
+  {
+    "name": "Easee Installer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/78/da/0c78dae5-0c99-d906-4368-816bda1c6467/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8vFggOIU",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:36:11.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:36:11.657Z"
+      }
+    ]
+  },
+  {
+    "name": "Zoho Tables - Work Management",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/55/83/be5583b8-9b3e-64e8-f26f-21d349649213/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/04FUxbkg",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:36:11.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:36:11.657Z"
+      }
+    ]
+  },
+  {
+    "name": "JGD Patient Demo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/96/2f/f1962f66-17d9-167e-05ca-d7420bd21f75/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6MxTQulO",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:36:11.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:36:11.657Z"
+      }
+    ]
+  },
+  {
+    "name": "Meta Horse",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/b6/59/b9b65997-4a33-fa0b-3dd5-238647e7717e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/EFZgK0qz",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:36:11.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:36:11.657Z"
+      }
+    ]
+  },
+  {
+    "name": "POAPin",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/51/f1/af51f1ca-8259-2380-eec5-3b650cdb218c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/nFWRXrDg",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:36:11.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:36:11.657Z"
+      }
+    ]
+  },
+  {
+    "name": "Happitech Medical demo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/8c/6f/b18c6f64-bd52-707a-2fbf-40b27330fbcd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ixC8OvwP",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:36:11.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:36:11.657Z"
+      }
+    ]
+  },
+  {
+    "name": "inlog",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/0b/e6/b80be6b0-7726-dcb2-df44-6149d078eb44/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/YiDaCoAU",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:36:11.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:36:11.657Z"
+      }
+    ]
+  },
+  {
+    "name": "Zapmoto Driver",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/03/66/8a036694-acba-b042-79cd-f144b462ed0f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6z1XzOC2",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:36:11.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:36:11.657Z"
+      }
+    ]
+  },
+  {
+    "name": "GDCE Examiner",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3c/22/7c/3c227c4f-f031-9787-02ac-91d61df02906/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/GvqDSvzG",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:36:11.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:36:11.657Z"
+      }
+    ]
   }
 ]
