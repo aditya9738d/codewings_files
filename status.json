@@ -13918,5 +13918,155 @@
         "timestamp": "2024-05-29T15:02:10.387Z"
       }
     ]
+  },
+  {
+    "name": "AdGuard for Safari",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/0a/61/c40a61d3-3a10-59c0-953f-ee59f6a6ec5d/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/c31mEr6q",
+    "clickCount": 1,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:03:08.401Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T15:03:08.401Z"
+      }
+    ]
+  },
+  {
+    "name": "Top Sticker Maker - WaSticker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/ed/9e/eaed9e78-cd97-12a4-ab5b-9f2bb24448e8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VYSzYtOq",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:03:08.401Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:03:08.401Z"
+      }
+    ]
+  },
+  {
+    "name": "Pizzahut Japan UAT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/13/be/7a13be8e-7930-2fce-86fc-15f70b4be826/AppIcon-UAT-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/dJaAwjPv",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:03:08.401Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:03:08.401Z"
+      }
+    ]
+  },
+  {
+    "name": "eMango Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/23/f5/1a23f5c9-8116-deca-4446-49d909192668/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/9I8CjcOb",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:03:08.401Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:03:08.401Z"
+      }
+    ]
+  },
+  {
+    "name": "Euphony - Beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/be/49/a3be491d-ee99-35fd-45a8-5fb577129eec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/kGzSP7g7",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:03:08.401Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:03:08.401Z"
+      }
+    ]
+  },
+  {
+    "name": "Yanosik",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/0a/b8/9f0ab86a-e8c9-b4b2-2bad-4d9704a96e48/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Oim5943l",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:03:08.401Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:03:08.401Z"
+      }
+    ]
+  },
+  {
+    "name": "ClienKit",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/f8/44/8af84415-151f-37fe-5b8a-d6d284e7f255/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/IUssNRpy",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:03:08.401Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:03:08.401Z"
+      }
+    ]
+  },
+  {
+    "name": "Geovelo : bike GPS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/8f/53/be8f53d5-47fc-530c-3c55-b5d1c6557df9/AppIcon-Geovelo-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/3tGq4Vsv",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:03:08.401Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:03:08.401Z"
+      }
+    ]
+  },
+  {
+    "name": "iGPSPORT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/14/fc/1614fc7d-5c04-1845-17a8-8bdf34a87d1f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/ioPjgrRi",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:03:08.401Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:03:08.401Z"
+      }
+    ]
+  },
+  {
+    "name": "The 1: UAT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/cc/c9/28ccc925-1620-97b3-aafe-b7416dcff5fd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/M2ysLVcN",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:03:08.401Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:03:08.401Z"
+      }
+    ]
   }
 ]
