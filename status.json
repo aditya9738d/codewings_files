@@ -27660,5 +27660,155 @@
         "timestamp": "2024-05-29T06:00:52.107Z"
       }
     ]
+  },
+  {
+    "name": "222",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d1/5b/c3/d15bc30d-c544-bd4b-eab5-5da0aeb4d0a7/AppIcon-1x_U007ephone-0-0-85-220-0.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/SQemfP0O",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:01:09.270Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:01:09.270Z"
+      }
+    ]
+  },
+  {
+    "name": "BCR Safi",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/65/31/4f653101-915c-d72e-7f99-8e5ab43c2b39/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VLOxIPcE",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:01:09.270Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T06:01:09.270Z"
+      }
+    ]
+  },
+  {
+    "name": "TheKloo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/81/c6/3481c6c4-9561-257b-7c5f-dca9925dd670/AppIcon-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/sdF63FYP",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:01:09.270Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:01:09.270Z"
+      }
+    ]
+  },
+  {
+    "name": "Smart Heating",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/36/16/4d361633-37d6-7cca-cf30-554262a00d63/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/D9s8tE2R",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:01:09.270Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:01:09.270Z"
+      }
+    ]
+  },
+  {
+    "name": "Nusameta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/aa/63/71aa63ba-8c53-c089-c83e-8ba0a2bb9f1d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jGJujGvE",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:01:09.270Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:01:09.270Z"
+      }
+    ]
+  },
+  {
+    "name": "i深圳-深圳市统一政务服务APP",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/5f/25/895f25b5-3e6e-776f-96f9-9a67104ec062/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jjzO50h3",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:01:09.270Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:01:09.270Z"
+      }
+    ]
+  },
+  {
+    "name": "腾讯地图-路线规划,导航地铁打车出行",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/53/05/2c530534-6ac0-2c16-1fd8-c7f25155cf53/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/N1MkckuA",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:01:09.270Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T06:01:09.270Z"
+      }
+    ]
+  },
+  {
+    "name": "GC Insider",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/15/76/6e15769e-ae4d-a9ef-c078-b1db47631695/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/EyioMtIF",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:01:09.270Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:01:09.270Z"
+      }
+    ]
+  },
+  {
+    "name": "Jello",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/4e/af/574eaf80-daae-d5c3-28b3-ea84c55ed94e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VdrBFmbL",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:01:09.270Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:01:09.270Z"
+      }
+    ]
+  },
+  {
+    "name": "Deltapath Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/51/10/63/51106366-c9f3-32b9-b25c-47bad9342205/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tcIroNDK",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:01:09.270Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:01:09.270Z"
+      }
+    ]
   }
 ]
