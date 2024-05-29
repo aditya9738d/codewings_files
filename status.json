@@ -28110,5 +28110,155 @@
         "timestamp": "2024-05-29T06:03:09.352Z"
       }
     ]
+  },
+  {
+    "name": "MMOB Preview",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/d6/64/42d66494-5531-ab13-fd99-f2e5da82b634/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/SRkmO1Im",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:04:13.412Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:04:13.412Z"
+      }
+    ]
+  },
+  {
+    "name": "IPGuard VPN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/22/af/3e/22af3e98-02dc-9cb2-f55b-d328ee16491e/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/AJsCqFlf",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:04:13.412Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:04:13.412Z"
+      }
+    ]
+  },
+  {
+    "name": "Enpass - Password Manager",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/2d/83/8c2d8311-cff5-1b24-87ad-7c3efd8e431f/App.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ZKjpX8qr",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:04:13.412Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:04:13.412Z"
+      }
+    ]
+  },
+  {
+    "name": "360儿童卫士",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1f/2b/f1/1f2bf1c3-8975-9fdf-1f3d-f034c7f30d8f/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hbxlc0Fp",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:04:13.412Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:04:13.412Z"
+      }
+    ]
+  },
+  {
+    "name": "Tachimanga",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/21/9f/c0219f65-3452-cf37-ce02-79d4590e536a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/FD3X8KuX",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:04:13.412Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T06:04:13.412Z"
+      }
+    ]
+  },
+  {
+    "name": "HatTrac V",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/af/95/80/af95805a-b3c6-6df7-215b-cb4384506791/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/18aRM7zS",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:04:13.412Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:04:13.412Z"
+      }
+    ]
+  },
+  {
+    "name": "OvaDrive",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/36/15/aa361522-4a0f-9d05-5c6e-d7115437bf25/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/BRi0RDwa",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:04:13.412Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:04:13.412Z"
+      }
+    ]
+  },
+  {
+    "name": "Partner app for WooCommerce",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/45/c5/6945c5ee-e4a0-7256-20dd-6b85e8589ed9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/G6H4vdqI",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:04:13.412Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:04:13.412Z"
+      }
+    ]
+  },
+  {
+    "name": "Allwyn",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/5e/c1/5f5ec179-d64a-16c2-dd9e-a16f8129312a/AppIcon_DEV-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/wDCK3CI0",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:04:13.412Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:04:13.412Z"
+      }
+    ]
+  },
+  {
+    "name": "伯索云学堂",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/15/44/75154494-7169-db06-a8b7-878dfc4f71cd/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/WAJIQGzQ",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:04:13.412Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:04:13.412Z"
+      }
+    ]
   }
 ]
