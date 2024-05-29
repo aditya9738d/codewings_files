@@ -2677,5 +2677,155 @@
         "timestamp": "2024-05-29T12:29:09.588Z"
       }
     ]
+  },
+  {
+    "name": "云宝加速器",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/9e/ca/969ecae8-4aae-32bf-7ef3-50caa884c001/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/nBkljFCK",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:30:48.132Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:30:48.132Z"
+      }
+    ]
+  },
+  {
+    "name": "MyFRITZ!App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/60/d5/8d60d538-1404-ef1b-a1b0-d10be490be89/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/U0v1rBE5",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:30:48.132Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:30:48.132Z"
+      }
+    ]
+  },
+  {
+    "name": "itsme",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1b/fb/5f/1bfb5f18-931a-2eae-afd6-9de955a7a92d/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ntZD6f9a",
+    "clickCount": 10,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:30:48.132Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:30:48.132Z"
+      }
+    ]
+  },
+  {
+    "name": "Voyager for Lemmy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/db/31/addb31a2-9b1c-2d67-2003-1ef679b5a0a7/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/nWLw1MBM",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:30:48.132Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:30:48.132Z"
+      }
+    ]
+  },
+  {
+    "name": "VNPAY-CA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/06/91/3d069129-a1a0-3c40-b6e3-533c17d2654c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/o6j4lZii",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:30:48.132Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:30:48.132Z"
+      }
+    ]
+  },
+  {
+    "name": "葫芦娃-经典再现",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mE4SHGvn",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:30:48.132Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:30:48.132Z"
+      }
+    ]
+  },
+  {
+    "name": "PDF Viewer - Annotation Expert",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/78/cd/ee78cd0d-ed08-e28b-3b6a-ad094a2d481c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6IMUtZ8n",
+    "clickCount": 3,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:30:48.132Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:30:48.132Z"
+      }
+    ]
+  },
+  {
+    "name": "Voxel Max - 3D Modeling",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/79/07/a17907dc-d204-d6d5-0978-b64069adf484/AppIcon-0-1x_U007epad-0-0-0-10-0-0-P3-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/TdNA6XSC",
+    "clickCount": 3,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:30:48.132Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:30:48.132Z"
+      }
+    ]
+  },
+  {
+    "name": "Riveo | Video Effects Enhancer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/70/52/ae7052af-d83f-9b21-6629-de973ec35e4c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/v6ceOm4r",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:30:48.132Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:30:48.132Z"
+      }
+    ]
+  },
+  {
+    "name": "Project Pentjet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/15/0b/58150b1a-677d-2a68-9063-7bd106480d7f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/YOm3zrcG",
+    "clickCount": 10,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:30:48.132Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:30:48.132Z"
+      }
+    ]
   }
 ]
