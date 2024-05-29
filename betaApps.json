@@ -6898,5 +6898,155 @@
         "timestamp": "2024-05-29T08:18:10.492Z"
       }
     ]
+  },
+  {
+    "name": "Astro Playbook Showcase",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/f2/14/dcf21490-7792-fb07-9550-b5b77992502b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4oNF3Add",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:19:07.852Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:19:07.852Z"
+      }
+    ]
+  },
+  {
+    "name": "Astrysk",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/ad/50/f8ad5073-7309-b56b-8533-cc1051cb579b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/7EFQaTxj",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:19:07.852Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:19:07.852Z"
+      }
+    ]
+  },
+  {
+    "name": "AtRoom - Дизайн Интерьера в AR",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/ea/38/2aea38bd-961f-a1c9-acee-1c9624529bbb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XybGR8Hk",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:19:07.852Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:19:07.852Z"
+      }
+    ]
+  },
+  {
+    "name": "Ather",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/c9/16/8ec91605-e658-5092-48d7-0b08991b3543/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/KBOc7OYz",
+    "clickCount": 4,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:19:07.852Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:19:07.852Z"
+      }
+    ]
+  },
+  {
+    "name": "Athkar - أذكار",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/d2/3c/b0d23cee-5345-7a72-1300-5191857095ea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/lh8zzyA7",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:19:07.852Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:19:07.852Z"
+      }
+    ]
+  },
+  {
+    "name": "Atomic Connect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/ad/94/a5ad94b8-e6b4-4652-1688-2ef4eeae9aa3/AppIcon-Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/V2fqBu19",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:19:07.852Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:19:07.852Z"
+      }
+    ]
+  },
+  {
+    "name": "AubAI",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/01/ab/d101abaa-99c0-1a10-6d5c-fd0dbef4cb10/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XuTpIgyY",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:19:07.852Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:19:07.852Z"
+      }
+    ]
+  },
+  {
+    "name": "Audio Panning Repro",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/a7/2e/aea72e43-128e-5bd3-98e4-52b26cf5c018/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hqyG666W",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:19:07.852Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:19:07.852Z"
+      }
+    ]
+  },
+  {
+    "name": "Audirvāna Remote",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/36/f2/18/36f21883-0954-2da5-be4a-b5ada16f5785/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/qhZ8ENxa",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:19:07.852Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:19:07.852Z"
+      }
+    ]
+  },
+  {
+    "name": "Aur",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/c1/b3/c2c1b39d-f12a-c334-6db1-245b78749428/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/o2YgXZDb",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:19:07.852Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:19:07.852Z"
+      }
+    ]
   }
 ]
