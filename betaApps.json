@@ -148,5 +148,155 @@
         "timestamp": "2024-05-29T07:31:28.845Z"
       }
     ]
+  },
+  {
+    "name": "员工端-cpnc",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/c8/9e/a4c89ee2-e841-4fc0-ad99-d810bfdf7f6e/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4X8oMhFD",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:33:10.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:33:10.657Z"
+      }
+    ]
+  },
+  {
+    "name": "VCBBank",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/47/9c/9c479c4c-0638-e86c-121c-c6ff90a5138f/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JYjqPAvm",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:33:10.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:33:10.657Z"
+      }
+    ]
+  },
+  {
+    "name": "Foodyman Drivers",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/df/ea/fcdfea0d-4805-5dbe-d9c3-aa504df5cacf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/okzxOoWf",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:33:10.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:33:10.657Z"
+      }
+    ]
+  },
+  {
+    "name": "SchedulePro Test",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/1f/ba/c71fbab1-6c43-a236-3cb1-aa22c2b5ac55/AppIcon-qa-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/wWzj1BaT",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:33:10.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:33:10.657Z"
+      }
+    ]
+  },
+  {
+    "name": "Яндекс — с Алисой",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/10/21/4c102170-3a19-8cf9-5ca7-45cdd066e11e/YandexAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JdiF5ce6",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:33:10.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:33:10.657Z"
+      }
+    ]
+  },
+  {
+    "name": "BuffetApp",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/30/e1/0a30e137-9165-7a02-493d-ae293dfcaaa4/AppIcon-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/SIm6gvHD",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:33:10.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:33:10.657Z"
+      }
+    ]
+  },
+  {
+    "name": "SOTAMĀT SOTA / POTA Spotting",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/70/67/f77067d5-4840-05ce-19c8-fe5085bbf11c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UQuW6g1E",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:33:10.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:33:10.657Z"
+      }
+    ]
+  },
+  {
+    "name": "TracyPlayer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/8a/16bc8a7a-a697-f1e9-a714-f78031db9a5f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/eNmYbmZN",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:33:10.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:33:10.657Z"
+      }
+    ]
+  },
+  {
+    "name": "IAMSAD",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9b/52/6c/9b526c80-3a85-a5d6-c373-d0810772796a/AppIcon-0-1x_U007ephone-0-0-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mI2NVK0g",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:33:10.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:33:10.657Z"
+      }
+    ]
+  },
+  {
+    "name": "Erlik2 Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b7/37/b6/b737b6e7-a6b5-f87f-b66a-052f2c8cd8d5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/CNGpdzm5",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:33:10.657Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:33:10.657Z"
+      }
+    ]
   }
 ]
