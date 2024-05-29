@@ -3472,5 +3472,179 @@
         "timestamp": "2024-05-29T12:34:15.942Z"
       }
     ]
+  },
+  {
+    "name": "WhatsApp Business",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/9e/75/0d9e75af-2bc0-2710-d38f-39dd38d21c8d/AppIconSMB-0-1x_U007emarketing-0-6-0-0-sRGB-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/oscYikr0",
+    "clickCount": 498,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Business"
+      ],
+      [
+        "Chat"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:35:21.136Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:35:21.136Z"
+      }
+    ]
+  },
+  {
+    "name": "Snapchat",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/df/04/f5df04f9-b3b4-64f3-3a44-2ca7b0d77b83/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/p7hGbZUR",
+    "clickCount": 548,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Chat"
+      ],
+      [
+        "Entertainment"
+      ],
+      [
+        "Photography"
+      ],
+      [
+        "Social Networking"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:35:21.136Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:35:21.136Z"
+      }
+    ]
+  },
+  {
+    "name": "Plex: Watch Live TV and Movies",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/4e/94/934e94d0-0bc7-4175-96c5-280987893ade/default-dark-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MY6JTzix",
+    "clickCount": 7,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:35:21.136Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:35:21.136Z"
+      }
+    ]
+  },
+  {
+    "name": "Tam Giới Phân Tranh Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/75/c7/0475c7ce-8914-63d5-156e-b83970866999/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zsGw53Sw",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:35:21.136Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:35:21.136Z"
+      }
+    ]
+  },
+  {
+    "name": "CCClubs",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/28/01/b928011d-6470-16b1-3548-b789b767eb12/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/pLoQlfvn",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:35:21.136Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:35:21.136Z"
+      }
+    ]
+  },
+  {
+    "name": "MLBB beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/44/5c/57445c58-f410-ffbb-9532-d0f154724565/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/yYjKTTlT",
+    "clickCount": 333,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:35:21.136Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:35:21.136Z"
+      }
+    ]
+  },
+  {
+    "name": "Planet Peanut - Make Math Fun",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/47/66/354766e2-9659-7de3-4145-5440ea5102bd/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8Vt8hLNo",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:35:21.136Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:35:21.136Z"
+      }
+    ]
+  },
+  {
+    "name": "Grow My Dragon",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/02/fe/a402fe67-b135-9151-9f6a-4190a3250cd8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/loITCiZW",
+    "clickCount": 4,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:35:21.136Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:35:21.136Z"
+      }
+    ]
+  },
+  {
+    "name": "StepVillapp",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/78/dd/c3/78ddc3c3-1c9d-8ef8-28f6-775c73fceca4/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/oiTSmhCc",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:35:21.136Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:35:21.136Z"
+      }
+    ]
+  },
+  {
+    "name": "Лабиринтиум",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/5c/0f/e55c0fdd-63ce-8f3b-4653-6546173d548a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jeuDRpyi",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:35:21.136Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:35:21.136Z"
+      }
+    ]
   }
 ]
