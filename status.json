@@ -610,5 +610,163 @@
         "timestamp": "2024-05-29T12:15:29.237Z"
       }
     ]
+  },
+  {
+    "name": "Windmill - Best mobile booster",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/fc/04/ccfc041a-3ea9-f76a-afcf-0007edfe77da/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ATmUrGm5",
+    "clickCount": 5,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:16:12.072Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T12:16:12.072Z"
+      }
+    ]
+  },
+  {
+    "name": "Gigantix Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/63/ba/ed63ba33-34bf-997b-ca5c-95cde034fb34/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/J48mQeRd",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:16:12.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:16:12.072Z"
+      }
+    ]
+  },
+  {
+    "name": "Vida Journal",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/6d/e8/466de8bc-c3b5-d5fb-1354-2f29ea588ead/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zBWk4QZ1",
+    "clickCount": 11,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:16:12.072Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:16:12.072Z"
+      }
+    ]
+  },
+  {
+    "name": "NTNU CVCS 2021",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/be/9a/c2be9a04-b38a-7985-21ef-56d192c95abf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/GkbLawaz",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:16:12.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:16:12.072Z"
+      }
+    ]
+  },
+  {
+    "name": "Oooh: Way Better Group Chats",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/88/39/528839db-115b-8297-86cd-56869066c8f2/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/dlm34fHd",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:16:12.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:16:12.072Z"
+      }
+    ]
+  },
+  {
+    "name": "Flickplay: Digital Characters",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/65/f5/0f65f546-1ef3-0a21-bbe2-4fc5e70ed9ae/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/xr5o788R",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Social Networking"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:16:12.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:16:12.072Z"
+      }
+    ]
+  },
+  {
+    "name": "컨설텝스",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/0b/fd/4d0bfd1c-7a10-34f1-945a-80c8475e5f73/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1YiOYdID",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:16:12.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:16:12.072Z"
+      }
+    ]
+  },
+  {
+    "name": "Vetero° Weather",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/bc/21/68bc21ca-10e9-710d-0f6c-56f747c0c1c6/AppIcon-85-220-4-0-0-2x-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/sAJWcbZ9",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:16:12.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:16:12.072Z"
+      }
+    ]
+  },
+  {
+    "name": "Nootti",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/21/42/7b214293-b377-1eb0-1878-2b24a7dbfa41/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LDJGX8QV",
+    "clickCount": 7,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:16:12.072Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:16:12.072Z"
+      }
+    ]
+  },
+  {
+    "name": "YouSee Musik",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/92/ca/4992cafa-8ab9-4e1a-fbcf-e0e364c0eb5a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/bUlXGEb8",
+    "clickCount": 68,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Music"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:16:12.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:16:12.072Z"
+      }
+    ]
   }
 ]
