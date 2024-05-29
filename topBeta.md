@@ -1,3 +1,5 @@
+- **思拓新闻**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/47/34/03473451-bfd5-15d9-d04b-0d9092df7179/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jbVM8nuq)
+
 - **棋路-象棋课堂**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/47/fd/6347fdfd-d951-7dd7-aaf5-5a9ad5dedd4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s9SdLije)
 - **WeChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/12/e1/9012e10b-7eac-bd36-23d7-e24f372c976d/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xHCJ0qBT)
 
