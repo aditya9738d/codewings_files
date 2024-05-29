@@ -5248,5 +5248,155 @@
         "timestamp": "2024-05-29T08:07:09.073Z"
       }
     ]
+  },
+  {
+    "name": "CalTopo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/ba/b7/cebab77d-7465-a25a-a257-688aab330b6a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/lgUcGCij",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:08:10.196Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:08:10.196Z"
+      }
+    ]
+  },
+  {
+    "name": "Free to Me",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/1e/0f/3f1e0f32-2294-1dba-ab5a-94b417f59c38/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UwgEx7ZN",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:08:10.196Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:08:10.196Z"
+      }
+    ]
+  },
+  {
+    "name": "医大一院OA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/c4/2c/2dc42cc9-818e-acb0-3d38-b70dc96e14ad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/B4MygXmX",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:08:10.196Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:08:10.196Z"
+      }
+    ]
+  },
+  {
+    "name": "Listen-Up",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/9f/e5/3a9fe5d5-eeb0-fa23-2f95-e89d9ccae4c1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4Ohcr5T5",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:08:10.196Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:08:10.196Z"
+      }
+    ]
+  },
+  {
+    "name": "笑铺日记",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/3b/91/923b91e2-4f32-057b-17ee-c4df7430854d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6QTW6LXb",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:08:10.196Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:08:10.196Z"
+      }
+    ]
+  },
+  {
+    "name": "凤凰社区",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c9/4c/6cc94cce-4036-78e6-264d-0f893fd6761f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/QVMVKIji",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:08:10.196Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:08:10.196Z"
+      }
+    ]
+  },
+  {
+    "name": "SenseMARS Avatar",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/28/84/8d288428-2034-914b-ab95-7829b501378c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/sidMI3xb",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:08:10.196Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:08:10.196Z"
+      }
+    ]
+  },
+  {
+    "name": "Z-Xplore Ghana",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/a1/fb/f5a1fbd3-1df0-6f30-a425-8e51fc9c607f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/n6ebTv8F",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:08:10.196Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:08:10.196Z"
+      }
+    ]
+  },
+  {
+    "name": "Topspace",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/94/49/c59449c8-eb36-5018-45e0-28f043b1d7b6/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NlbYGtVq",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:08:10.196Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:08:10.196Z"
+      }
+    ]
+  },
+  {
+    "name": "Interhaptics Player",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/43/89/55/4389551b-aaa1-cd99-5c06-29b969c24476/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/fmkQL4w8",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:08:10.196Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:08:10.196Z"
+      }
+    ]
   }
 ]
