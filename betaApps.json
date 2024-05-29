@@ -7048,5 +7048,155 @@
         "timestamp": "2024-05-29T08:19:07.852Z"
       }
     ]
+  },
+  {
+    "name": "Authenticator 2FA | Sentinel",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/50/68/8d5068e4-268c-4751-4438-4c7b50fd0b32/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/TqRZOFqa",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:20:24.678Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:20:24.678Z"
+      }
+    ]
+  },
+  {
+    "name": "AutoGrip GFS-100",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/b1/ae/87b1aebf-3ae5-d562-c4bf-2ed6c2d3cc05/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/D30zGnUE",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:20:24.678Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:20:24.678Z"
+      }
+    ]
+  },
+  {
+    "name": "AutoZoomFlutter",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/96/f5/d796f535-fddf-3349-00ae-cbc6d09d4d27/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/sYyHEn8m",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:20:24.678Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:20:24.678Z"
+      }
+    ]
+  },
+  {
+    "name": "Autofy App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/9b/7e/ea9b7e1d-3568-6a3d-08fc-94e5839167a5/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/x4CJwNFp",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:20:24.678Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:20:24.678Z"
+      }
+    ]
+  },
+  {
+    "name": "Automanual for YNAB",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/48/38/79483808-71dc-853b-618f-cbbc07ac9916/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9gH57dyB",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:20:24.678Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:20:24.678Z"
+      }
+    ]
+  },
+  {
+    "name": "Automatic Timetracking",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/fd/10/c6fd1049-c47e-2ada-9841-ab052740b45f/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/3wWIxvJj",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:20:24.678Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:20:24.678Z"
+      }
+    ]
+  },
+  {
+    "name": "Avatar Bùm",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/5b/cb/2b5bcb82-0587-15fa-e5cf-4ff5532fd013/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/GD8RGQiu",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:20:24.678Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:20:24.678Z"
+      }
+    ]
+  },
+  {
+    "name": "Avatar Land",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fa/91/c5/fa91c5b6-8e2e-8c15-ed35-d755b43c5f83/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6lyeXvj5",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:20:24.678Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:20:24.678Z"
+      }
+    ]
+  },
+  {
+    "name": "Avatour: Khám phá chất bản địa",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/79/37/06/79370603-05b5-d855-4720-75f70bf8df83/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zCTMbACx",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:20:24.678Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:20:24.678Z"
+      }
+    ]
+  },
+  {
+    "name": "Aventon",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/50/86/79/50867916-3910-0c8a-3636-201045e38a6e/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/R285EnR0",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:20:24.678Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:20:24.678Z"
+      }
+    ]
   }
 ]
