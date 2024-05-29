@@ -2698,5 +2698,155 @@
         "timestamp": "2024-05-29T13:38:12.350Z"
       }
     ]
+  },
+  {
+    "name": "Dose Guru",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/42/36/18/42361850-46d8-20a8-60b4-4a766894b81c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/O16RBjPf",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:39:08.282Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:39:08.282Z"
+      }
+    ]
+  },
+  {
+    "name": "Coke&Go",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/a0/df/4aa0df28-ec3a-bc2c-424b-20966da271ab/CokeAndGoAppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/HUyeJpZN",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:39:08.282Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:39:08.282Z"
+      }
+    ]
+  },
+  {
+    "name": "Mi App Megalabs",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/6c/4c/716c4c6c-66a1-eea7-f931-432fc48c3384/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/zMHHWd3B",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:39:08.282Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:39:08.282Z"
+      }
+    ]
+  },
+  {
+    "name": "Note To Self Mail",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8a/af/9c/8aaf9cd2-b97a-8511-aaec-4018540aea50/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/dYMPAThh",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:39:08.282Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:39:08.282Z"
+      }
+    ]
+  },
+  {
+    "name": "ROBOOTER+",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/3d/1f/d23d1fd7-8925-58b2-7e95-70b16ef32448/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/puG9uH7T",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:39:08.282Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:39:08.282Z"
+      }
+    ]
+  },
+  {
+    "name": "Viidure",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/7f/94/b77f9409-f469-110c-c000-1a9d8eb7406a/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/2msJGLhk",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:39:08.282Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:39:08.282Z"
+      }
+    ]
+  },
+  {
+    "name": "HiCoffee - Caffeine Tracker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/f1/59/7ef1591a-7bfc-7741-2dbb-c0a6863de488/AppIcon-0-0-1x_U007epad-0-0-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/yTaowxYa",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:39:08.282Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T13:39:08.282Z"
+      }
+    ]
+  },
+  {
+    "name": "Wombat - Home of NFT Gaming",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/79/9d/e1799d0d-a228-f2a9-48eb-7100a3a20e30/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/0G9Qe0it",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:39:08.282Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:39:08.282Z"
+      }
+    ]
+  },
+  {
+    "name": "KFC India online ordering app",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/58/cc/8158ccd0-5270-9e54-92e3-1fd827e6d390/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/NaEKmoFx",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:39:08.282Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:39:08.282Z"
+      }
+    ]
+  },
+  {
+    "name": "alfaview",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/72/55/ea725522-6389-3d9d-11aa-ae3aac29381e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/uPaaoT1e",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:39:08.282Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:39:08.282Z"
+      }
+    ]
   }
 ]
