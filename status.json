@@ -6598,5 +6598,155 @@
         "timestamp": "2024-05-29T14:07:11.918Z"
       }
     ]
+  },
+  {
+    "name": "RiceballDb",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/41/0e/78410e28-4ef5-eb51-d9fb-0621400062b4/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Maejdsvw",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:08:11.410Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:08:11.410Z"
+      }
+    ]
+  },
+  {
+    "name": "Nightingale Companion",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b3/eb/ac/b3ebacdb-1ac9-90da-269d-b85520ea6edc/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/JNieAfgv",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:08:11.410Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:08:11.410Z"
+      }
+    ]
+  },
+  {
+    "name": "Gladys",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/65/c6/45/65c64550-b938-bbc9-a9d6-c218df4618fd/AppIcon-iOS-0-1x_U007epad-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/GqEcpHVN",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:08:11.410Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:08:11.410Z"
+      }
+    ]
+  },
+  {
+    "name": "Stardust Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/98/4e/91984eca-c184-3f8c-86b7-357a960adb9b/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/UyrMQoG0",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:08:11.410Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:08:11.410Z"
+      }
+    ]
+  },
+  {
+    "name": "osu!",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/b2/5b/a9b25b31-0a58-839f-f5db-14be7ff07cc3/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/gjI7EwbG",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:08:11.410Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T14:08:11.410Z"
+      }
+    ]
+  },
+  {
+    "name": "Finalist: Daily Planner",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/bd/16/54bd16b3-c3bc-d2dc-c64d-bb97bfccfda6/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/t5ZpRV2l",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:08:11.410Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:08:11.410Z"
+      }
+    ]
+  },
+  {
+    "name": "GROAMING",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ba/38/f8ba38b3-c33e-2059-cb18-8fae820190f6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/NzgwMl0G",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:08:11.410Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:08:11.410Z"
+      }
+    ]
+  },
+  {
+    "name": "OneSpan AAS2",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/fc/3a/1bfc3af4-b602-5f1a-73f0-a61de900faa5/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/9fs19h9Z",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:08:11.410Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:08:11.410Z"
+      }
+    ]
+  },
+  {
+    "name": "hopthebay",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/df/c8/42/dfc84200-0d6d-695f-f75f-c5bc5448e569/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/xaKdXGu1",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:08:11.410Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T14:08:11.410Z"
+      }
+    ]
+  },
+  {
+    "name": "DR22",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/03/0f/4a030f8c-28a3-a0ab-a22a-0472a9426c20/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/VmwDAszq",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:08:11.410Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:08:11.410Z"
+      }
+    ]
   }
 ]
