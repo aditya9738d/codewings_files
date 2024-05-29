@@ -1,3 +1,5 @@
+- **逢客签**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/d6/99/22d69906-8c45-fa85-4c81-ca190bdfcc09/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H39dsyzG)
+
 - **葫芦娃-经典再现**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mE4SHGvn)
 
 - **老虎国际**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/be/42/23be425b-be1a-eaef-cfd5-53812eacfe20/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/27Pw9M0d)
@@ -45,5 +47,3 @@
 - **Arm Arena**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/79/d0/5c79d06c-3025-f814-c303-6d650e07724d/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OaBr1tzV)
 
 - **Jusour-Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/36/48/ae3648e7-9cc1-d3dd-af04-a901ca5a5f6c/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zdZpWEmB)
-
-- **FSCB Banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/e3/e6/eae3e6d0-a88c-f654-3890-120e7102164a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J0HJaCws)
