@@ -4265,5 +4265,166 @@
         "timestamp": "2024-05-29T12:39:10.642Z"
       }
     ]
+  },
+  {
+    "name": "Twitch",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/68/db/f768dba9-2d36-ddf2-9c78-a9530689e533/XarthAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8vRKFAiY",
+    "clickCount": 28,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Chat"
+      ],
+      [
+        "Social Networking"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:40:25.240Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:40:25.240Z"
+      }
+    ]
+  },
+  {
+    "name": "MyWeight²",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/41/29/ce4129ee-7c2e-5d59-2eae-9a36f519de03/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tCFT6Kfr",
+    "clickCount": 1,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:40:25.240Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:40:25.240Z"
+      }
+    ]
+  },
+  {
+    "name": "Xade Finance",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/7d/e5/fe7de52b-1343-e7ac-9d2e-ffcc4240b49b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ppdLa9dl",
+    "clickCount": 9,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:40:25.240Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:40:25.240Z"
+      }
+    ]
+  },
+  {
+    "name": "eSchoool",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/65/fa/0b/65fa0b6d-8259-9461-c6c7-b6c05b04b8dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LopTn7zc",
+    "clickCount": 9,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:40:25.240Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:40:25.240Z"
+      }
+    ]
+  },
+  {
+    "name": "Apollo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/b0/d1/14b0d11a-d55b-afa3-369a-af750e392700/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5oPNS4nn",
+    "clickCount": 12,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:40:25.240Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T12:40:25.240Z"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft 365 (Office)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/3e/af/263eaf22-5fd0-cc25-5945-96ab8fe3a789/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/eHAKJBtM",
+    "clickCount": 2,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:40:25.240Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:40:25.240Z"
+      }
+    ]
+  },
+  {
+    "name": "Giftr - GIF Maker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/df/41/acdf415f-99a9-c35b-4b37-8d115647dd89/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-512MB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/eyZbAhlV",
+    "clickCount": 7,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:40:25.240Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:40:25.240Z"
+      }
+    ]
+  },
+  {
+    "name": "DR Expense Tracker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/63/e4/b063e404-5ab9-5f7f-b01a-34b760bb98aa/AppIcon-0-1x_U007ephone-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/pqWTpKCY",
+    "clickCount": 9,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:40:25.240Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:40:25.240Z"
+      }
+    ]
+  },
+  {
+    "name": "Gamery - Game Tracker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/f5/5c/aaf55cef-6c5d-e073-e8fd-0c152172bc1f/AppIcon-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/va16ipuj",
+    "clickCount": 29,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:40:25.240Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:40:25.240Z"
+      }
+    ]
+  },
+  {
+    "name": "Disney DLP Preview",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/76/f3/25/76f325a7-1259-72f4-b46a-880e0aa855ca/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/b6bWpoHB",
+    "clickCount": 42,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:40:25.240Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:40:25.240Z"
+      }
+    ]
   }
 ]
