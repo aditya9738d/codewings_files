@@ -1798,5 +1798,155 @@
         "timestamp": "2024-05-29T13:32:11.800Z"
       }
     ]
+  },
+  {
+    "name": "DXRating",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/2a/4d/282a4d0b-3eb5-5301-7eb6-3f21059a9d40/appicon-festival-plus-0-1x_U007epad-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/psw4PxSx",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:33:12.261Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:33:12.261Z"
+      }
+    ]
+  },
+  {
+    "name": "HKeMobility(UAT)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/94/ed/d794ed9d-55d9-8462-2f04-2946168eff87/AppIcon-UAT-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4D1ZPFxw",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:33:12.261Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:33:12.261Z"
+      }
+    ]
+  },
+  {
+    "name": "MILITARY D-LIB",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/3b/d4/dc3bd409-b98c-95f3-9c4d-150f672581c5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/ARQ9bL6K",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:33:12.261Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:33:12.261Z"
+      }
+    ]
+  },
+  {
+    "name": "Bose QCE Staging",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/70/15/ad701538-6e8e-e8b3-c9c9-101fe50b3a00/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/gRsE08gV",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:33:12.261Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:33:12.261Z"
+      }
+    ]
+  },
+  {
+    "name": "TianPlan",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/ce/94/f5ce947c-2586-c8ee-d27e-54e0f865b495/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/beToEn3M",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:33:12.261Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:33:12.261Z"
+      }
+    ]
+  },
+  {
+    "name": "Catch for Plex",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/75/5a/ff755adc-a3e1-8ac0-acae-71914f1a224d/App_Icon_-_Small-marketing.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/P8C0tMcJ",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:33:12.261Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T13:33:12.261Z"
+      }
+    ]
+  },
+  {
+    "name": "Olark Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/cd/7d/b0cd7db4-7fdd-3766-8c65-50cca88b9a74/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/KG1HsiuQ",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:33:12.261Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:33:12.261Z"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft OneNote",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/4c/c1/144cc1fa-188d-ff36-0229-391b494d2026/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/uDgoqfGS",
+    "clickCount": 1,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:33:12.261Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T13:33:12.261Z"
+      }
+    ]
+  },
+  {
+    "name": "Puzzle - Aleo Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/db/2a/21/db2a21aa-bee4-4f3c-0558-88e3e0793adf/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/bikon7Nj",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:33:12.261Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:33:12.261Z"
+      }
+    ]
+  },
+  {
+    "name": "cention",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/68/5d/b7/685db71c-ac80-2059-59bb-fd50a975576f/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/wYemVAvb",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:33:12.261Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:33:12.261Z"
+      }
+    ]
   }
 ]
