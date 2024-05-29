@@ -2827,5 +2827,159 @@
         "timestamp": "2024-05-29T12:30:48.132Z"
       }
     ]
+  },
+  {
+    "name": "JeeConnect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/95/1a/14951aa0-bde4-54a5-35ac-7bb86e6d547e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/luZsKILI",
+    "clickCount": 47,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:31:09.057Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:31:09.057Z"
+      }
+    ]
+  },
+  {
+    "name": "Shortwave Email",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/3d/49/573d4900-327f-c2dd-748a-d60d977f04a8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LwqFyO6L",
+    "clickCount": 13,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:31:09.057Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:31:09.057Z"
+      }
+    ]
+  },
+  {
+    "name": "JB4 Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/03/3d/e6033d7e-82b0-2a10-30ac-5a4d9fc65186/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/d2yNd4lK",
+    "clickCount": 14,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:31:09.057Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:31:09.057Z"
+      }
+    ]
+  },
+  {
+    "name": "Hoarder App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/30/95/fd30957a-ddd2-5593-4ad4-0c08a75c01f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/QifpNxAT",
+    "clickCount": 16,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:31:09.057Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:31:09.057Z"
+      }
+    ]
+  },
+  {
+    "name": "E.",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/2d/1b/912d1bb8-bb11-beab-2f45-70ea4799b63d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/7KmHv0CZ",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:31:09.057Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:31:09.057Z"
+      }
+    ]
+  },
+  {
+    "name": "Muse Teams",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/61/4e/17614eec-8736-5c94-3b49-afe420be9641/AppIcon.beta-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/r2JeOEbm",
+    "clickCount": 14,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:31:09.057Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:31:09.057Z"
+      }
+    ]
+  },
+  {
+    "name": "Hanu HRV",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/b7/80/d6b780f0-d81c-8fe0-8b49-4f32640c6aff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NpppQZLA",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:31:09.057Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:31:09.057Z"
+      }
+    ]
+  },
+  {
+    "name": "ZEUS Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/4c/79/774c790b-2741-87a0-cfa1-ff4912c85e22/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/vVnODWoi",
+    "clickCount": 11,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:31:09.057Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:31:09.057Z"
+      }
+    ]
+  },
+  {
+    "name": "pr0gramm App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/0b/39/c20b3913-c944-ff60-b357-1ca4ed42e495/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NubTl9vH",
+    "clickCount": 70,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Developer"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:31:09.057Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:31:09.057Z"
+      }
+    ]
+  },
+  {
+    "name": "Liên Quân Mobile AMIBOT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b1/4b/9ab14b9c-2a85-f9d5-7090-ecc2eaa2eec7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5JnXp1yN",
+    "clickCount": 24,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:31:09.057Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:31:09.057Z"
+      }
+    ]
   }
 ]
