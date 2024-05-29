@@ -13776,11 +13776,146 @@
     "clickCount": 0,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-05-29T15:01:08.448Z",
+    "lastChecked": "2024-05-29T15:02:10.387Z",
     "history": [
       {
         "status": "open",
         "timestamp": "2024-05-29T15:01:08.448Z"
+      }
+    ]
+  },
+  {
+    "name": "M&G-Stage",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/4f/52/f14f52af-a2e8-dccd-e167-23733fe8058b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/XRhQpaqD",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:02:10.387Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:02:10.387Z"
+      }
+    ]
+  },
+  {
+    "name": "Enigma Scope",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/60/bd/11/60bd11b3-7d38-07c9-751d-26140b27ccdd/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/XQG7A21a",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:02:10.387Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:02:10.387Z"
+      }
+    ]
+  },
+  {
+    "name": "FiscalBuddy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/65/82/af/6582af40-83fb-63f5-3b5f-2d506aae1ecd/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/90QycWQ5",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:02:10.387Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:02:10.387Z"
+      }
+    ]
+  },
+  {
+    "name": "Onez Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/42/35/11423556-e1a0-db4b-29c7-6d973dfe83f4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/6py8Ys5D",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:02:10.387Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:02:10.387Z"
+      }
+    ]
+  },
+  {
+    "name": "Christ In Song Multi-Language",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/90/fd/2e/90fd2e62-254c-079f-8bd6-99a7d7d04807/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/4fio0gcd",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:02:10.387Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:02:10.387Z"
+      }
+    ]
+  },
+  {
+    "name": "Baculator Pro",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/ac/1e/32ac1ec5-9bb3-e1c2-cf8e-0b1313ba9a7d/icon4-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/0RLAl47s",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:02:10.387Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:02:10.387Z"
+      }
+    ]
+  },
+  {
+    "name": "QeeWee",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3b/82/4a/3b824a79-527e-b88c-6d6b-70dc2ad74fed/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/g1exfd0b",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:02:10.387Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:02:10.387Z"
+      }
+    ]
+  },
+  {
+    "name": "OVPN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/13/76/a2/1376a292-bdd5-5f33-0002-15a05b5d3556/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Iar37APz",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:02:10.387Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:02:10.387Z"
+      }
+    ]
+  },
+  {
+    "name": "DoorDash - Dasher",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/57/d4/5e57d4b3-d271-f0d6-1f42-d0a90e7e9070/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/8lknDp4C",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:02:10.387Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:02:10.387Z"
       }
     ]
   }
