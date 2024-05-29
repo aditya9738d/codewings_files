@@ -7348,5 +7348,155 @@
         "timestamp": "2024-05-29T14:13:11.138Z"
       }
     ]
+  },
+  {
+    "name": "Rippple for Trakt",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/f1/ba/96f1badd-0953-5db9-b051-e2c161145f9c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/arGwzIYn",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:14:11.561Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T14:14:11.561Z"
+      }
+    ]
+  },
+  {
+    "name": "put.io",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5f/f1/06/5ff10683-f26e-7ad8-cd03-834e7aee1182/AppIconRetro-0-0-1x_U007epad-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Sj8gx21t",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:14:11.561Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:14:11.561Z"
+      }
+    ]
+  },
+  {
+    "name": "ADAMANT Messenger",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/eb/0f/83eb0f87-9cf4-51c3-94e7-1380c30513d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/OQnZIOT8",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:14:11.561Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:14:11.561Z"
+      }
+    ]
+  },
+  {
+    "name": "Staging Vibes Only",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/a0/1d/d5a01d93-7161-1b6e-2dc4-d04263b57b3f/AppIcon-staging-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/rFswGkqJ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:14:11.561Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:14:11.561Z"
+      }
+    ]
+  },
+  {
+    "name": "iPartnerHandling",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/fb/4c/cafb4cea-69e6-d888-124a-6efdf3af05aa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/NeOEHzQO",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:14:11.561Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:14:11.561Z"
+      }
+    ]
+  },
+  {
+    "name": "Work Plus QAS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/ce/49/0bce49b3-c0ff-5bf6-eaeb-a0bfd37699ce/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/SVbn1MmA",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:14:11.561Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:14:11.561Z"
+      }
+    ]
+  },
+  {
+    "name": "DarknessBot",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/59/65/2d596537-118c-afe7-466a-8abcc1c68dc1/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/B6r39HPw",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:14:11.561Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:14:11.561Z"
+      }
+    ]
+  },
+  {
+    "name": "Beeminder",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/44/95/c0/4495c0cb-5e7a-5a9e-4af9-1e0beb2e4044/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/U26BrdwB",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:14:11.561Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:14:11.561Z"
+      }
+    ]
+  },
+  {
+    "name": "Yalla - Group Voice Chat Rooms",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/82/63/fd8263e9-fcfe-12fb-d798-14c7185e7b45/AppIcon-Yalla-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/LUV13Im7",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:14:11.561Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T14:14:11.561Z"
+      }
+    ]
+  },
+  {
+    "name": "Mammotion",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/63/b0/5a63b035-ef6a-161d-e24c-1ec43afaedaa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/GsYEMjIk",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:14:11.561Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:14:11.561Z"
+      }
+    ]
   }
 ]
