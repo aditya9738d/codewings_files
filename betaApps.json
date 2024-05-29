@@ -11848,5 +11848,155 @@
         "timestamp": "2024-05-29T08:52:10.227Z"
       }
     ]
+  },
+  {
+    "name": "EV Status for Renault / Dacia",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/94/8d/9f/948d9f42-1189-e3c3-a762-47859ed3e78a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VrKc9qKc",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:53:08.072Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:53:08.072Z"
+      }
+    ]
+  },
+  {
+    "name": "EVNHN KD",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c5/6d/7d/c56d7d50-272d-d8b1-4299-443016d4e3fb/AppIcon-2-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/U1KPF24G",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:53:08.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:53:08.072Z"
+      }
+    ]
+  },
+  {
+    "name": "EZRentOut Beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/26/2c/77262c4d-1812-0adc-9a05-677078568259/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/C4E6Uenr",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:53:08.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:53:08.072Z"
+      }
+    ]
+  },
+  {
+    "name": "EazeBorrow",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/22/95/f2/2295f2b2-ca13-ee60-aea2-45e2bbfbc22a/AppIcon-0-1x_U007epad-0-sRGB-85-220-0.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Vy5cxgxK",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:53:08.072Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:53:08.072Z"
+      }
+    ]
+  },
+  {
+    "name": "EchoStream",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/3b/fd/d73bfd99-6931-6bda-12b3-ad6f7b89006f/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/x18p4hz7",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:53:08.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:53:08.072Z"
+      }
+    ]
+  },
+  {
+    "name": "EcoNet R&D",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/97/ab/7297ab8d-cca7-cdd3-06e3-07f45b1a45cb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6ntPuG3F",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:53:08.072Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:53:08.072Z"
+      }
+    ]
+  },
+  {
+    "name": "EcsiteFinal",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/89/30/74/893074cc-b80d-590c-6d43-6c91351a4b5b/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/bROsGibG",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:53:08.072Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:53:08.072Z"
+      }
+    ]
+  },
+  {
+    "name": "Ehm Retail Plus",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/8e/40/318e400b-c0b8-7014-431f-b0ab15293d2c/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/IGB738Gg",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:53:08.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:53:08.072Z"
+      }
+    ]
+  },
+  {
+    "name": "Electric Sidecar",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/83/da/a183da33-86b1-3493-52cb-88c97f7dd18c/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/V2CWyQZX",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:53:08.072Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:53:08.072Z"
+      }
+    ]
+  },
+  {
+    "name": "Elgato Stream Deck Connect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/9f/8aed9ffa-5393-9a65-025c-4c0a09beed19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/U4bWfk8O",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:53:08.072Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:53:08.072Z"
+      }
+    ]
   }
 ]
