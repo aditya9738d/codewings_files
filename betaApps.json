@@ -4648,5 +4648,155 @@
         "timestamp": "2024-05-29T08:03:09.432Z"
       }
     ]
+  },
+  {
+    "name": "Bdk Native App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/50/26/9c502676-8f84-1121-21f5-a26a91d01f70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/2hCVHjya",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:04:10.709Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:04:10.709Z"
+      }
+    ]
+  },
+  {
+    "name": "云上西财",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a8/0f/56a80faa-9e87-1d3f-daa0-b4cb4b528ac9/CampusNext_AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/CX3rN1WQ",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:04:10.709Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:04:10.709Z"
+      }
+    ]
+  },
+  {
+    "name": "PromoDescuentos: ofertas",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/a5/7a/c4a57a8d-2a6b-f129-6240-b717813a76f7/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/64cKelOa",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:04:10.709Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:04:10.709Z"
+      }
+    ]
+  },
+  {
+    "name": "Anglo Checklist App PREPROD",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/48/d2/3a48d2c4-2f98-8543-7e21-6cd015199163/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JdRWlvky",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:04:10.709Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:04:10.709Z"
+      }
+    ]
+  },
+  {
+    "name": "春天生活",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/52/fd/7b/52fd7bc9-4384-c988-eb96-bdf70688c93e/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/X3ry9GgS",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:04:10.709Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:04:10.709Z"
+      }
+    ]
+  },
+  {
+    "name": "Surge Network Tester",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/b5/e7/fcb5e7e8-0930-19b0-0434-18bd916c0f6b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ABWQfJsU",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:04:10.709Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:04:10.709Z"
+      }
+    ]
+  },
+  {
+    "name": "My Vodacom X",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/32/f0/ab/32f0ab97-d7f5-bb01-0c52-9970e9d2e549/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6VTYMpIz",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:04:10.709Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:04:10.709Z"
+      }
+    ]
+  },
+  {
+    "name": "eDarkstore Shipping Transfers",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/3b/23/323b2301-5fb3-829f-992e-e0266b076b86/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/HxEFOrQp",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:04:10.709Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:04:10.709Z"
+      }
+    ]
+  },
+  {
+    "name": "Around Capture",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9b/53/fd/9b53fd34-30cc-5257-ff8c-ad977df8f1f2/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Fpox5bGg",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:04:10.709Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:04:10.709Z"
+      }
+    ]
+  },
+  {
+    "name": "Enceladus",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/9f/1d/059f1d3b-9818-580d-62c1-d18b0b6476f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/FZzHTdPi",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:04:10.709Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:04:10.709Z"
+      }
+    ]
   }
 ]
