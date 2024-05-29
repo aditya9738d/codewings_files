@@ -1198,5 +1198,155 @@
         "timestamp": "2024-05-29T07:40:25.652Z"
       }
     ]
+  },
+  {
+    "name": "Omantel",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/44/8f/d4448fff-9928-a7ad-3d99-852251077271/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Z4EpotC2",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:41:08.347Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:41:08.347Z"
+      }
+    ]
+  },
+  {
+    "name": "KyPass - KeePass in Sync",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/b2/08/fbb20883-680e-04bf-48f4-99ac7867809f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/wlZmOo9t",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:41:08.347Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:41:08.347Z"
+      }
+    ]
+  },
+  {
+    "name": "Zeus by Kayyo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/04/0c/af040c34-bc77-f32f-5035-fe92a5f964f2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/3YG9GdcS",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:41:08.347Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:41:08.347Z"
+      }
+    ]
+  },
+  {
+    "name": "Celucenter App 2",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7c/21/84/7c21841d-99f8-cd26-5244-2a4892c14ecd/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LdcbmOdk",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:41:08.347Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:41:08.347Z"
+      }
+    ]
+  },
+  {
+    "name": "Doomlings Companion",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/03/81/d6038109-ff3c-64f1-8601-976729afc410/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MYMtSAFD",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:41:08.347Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:41:08.347Z"
+      }
+    ]
+  },
+  {
+    "name": "BETANDYOU - Best bets for you",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/95/71/8e9571e4-ffef-0ceb-269d-507d1bc65fd6/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/x6aMHlck",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:41:08.347Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:41:08.347Z"
+      }
+    ]
+  },
+  {
+    "name": "RZChatMobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bf/e6/a7/bfe6a701-cac1-f803-7e3b-a5043d2cdae9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/dZ7sTdyY",
+    "clickCount": 19,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:41:08.347Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:41:08.347Z"
+      }
+    ]
+  },
+  {
+    "name": "Arctic For Lemmy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/83/68/e08368c0-2706-2873-d036-221514561855/AppIcon-0-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ddFR6MQo",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:41:08.347Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:41:08.347Z"
+      }
+    ]
+  },
+  {
+    "name": "吉林一号网",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/ca/38/7cca38d8-9cbe-9a9e-e924-abfa38fc3412/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zLL6hrkq",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:41:08.347Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:41:08.347Z"
+      }
+    ]
+  },
+  {
+    "name": "易采虹测试版",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/6a/b9/ce6ab9eb-066a-077f-c39d-b81bfd09c51d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ZejqPh5O",
+    "clickCount": 14,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:41:08.347Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:41:08.347Z"
+      }
+    ]
   }
 ]
