@@ -4115,5 +4115,155 @@
         "timestamp": "2024-05-29T12:38:11.200Z"
       }
     ]
+  },
+  {
+    "name": "Audracity",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/4e/5d/084e5d90-f05f-2999-2e5c-0c8f1662cb8b/AppIcon-iOS-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mE9Ca5ms",
+    "clickCount": 13,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:39:10.642Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:39:10.642Z"
+      }
+    ]
+  },
+  {
+    "name": "RFECU Performance 2.6",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/8e/79/968e791d-9c18-1031-b98d-304437b64d65/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/OsApZdFs",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:39:10.642Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:39:10.642Z"
+      }
+    ]
+  },
+  {
+    "name": "Evermoon MOBA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/2c/00/162c006d-c8b0-55ee-afbe-93c987b0ca1b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/wPiWib3x",
+    "clickCount": 14,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:39:10.642Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:39:10.642Z"
+      }
+    ]
+  },
+  {
+    "name": "NRO BEAST",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/70/6f/e1706fe9-1c53-3ac7-90b8-d13c950a455e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UDDdSKNn",
+    "clickCount": 16,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:39:10.642Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:39:10.642Z"
+      }
+    ]
+  },
+  {
+    "name": "老虎国际",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/8a/db/328adbbb-c0ed-8d35-cc8f-df21dabde234/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/27Pw9M0d",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:39:10.642Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:39:10.642Z"
+      }
+    ]
+  },
+  {
+    "name": "CJK Staff",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/12/da/a412dac7-b580-b137-7881-ac0901c85702/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/obazMZMN",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:39:10.642Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:39:10.642Z"
+      }
+    ]
+  },
+  {
+    "name": "鸡儿大战僵尸",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/74/8d/ce748dfa-a0e1-278f-33ae-141e9ebe8d13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/488cF6Xu",
+    "clickCount": 14,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:39:10.642Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:39:10.642Z"
+      }
+    ]
+  },
+  {
+    "name": "Firefox web browser",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/77/43/c177439f-d327-698c-6a14-b5452592d066/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JdsubPZs",
+    "clickCount": 48,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:39:10.642Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:39:10.642Z"
+      }
+    ]
+  },
+  {
+    "name": "DTVideo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/0f/b3/e00fb389-dc06-6f15-7973-feaf3182d51b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/iD4Gh1AM",
+    "clickCount": 24,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:39:10.642Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:39:10.642Z"
+      }
+    ]
+  },
+  {
+    "name": "Resy DEMO",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/41/17/3a4117c7-dd18-e2e8-40bc-33918594287f/AppIcon.demo-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ra4JdZuI",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:39:10.642Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:39:10.642Z"
+      }
+    ]
   }
 ]
