@@ -4904,5 +4904,155 @@
         "timestamp": "2024-05-29T12:43:09.639Z"
       }
     ]
+  },
+  {
+    "name": "WOW: Wars of Wanon",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/dc/19/77dc19eb-dfee-43e9-0168-6f77859262b0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UZ4tYFb6",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:44:12.349Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:44:12.349Z"
+      }
+    ]
+  },
+  {
+    "name": "Chore Champ",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/c1/9c/4ec19cf9-7cda-0bce-f573-23c99263e5f4/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/eMqx5DEF",
+    "clickCount": 6,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:44:12.349Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T12:44:12.349Z"
+      }
+    ]
+  },
+  {
+    "name": "Apple AMB",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/1f/03/021f03be-7e8f-f102-3567-9633b514481b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DsJkKvf8",
+    "clickCount": 28,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:44:12.349Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:44:12.349Z"
+      }
+    ]
+  },
+  {
+    "name": "Cyber Key Fob",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ad/f6/f8adf6f1-37b5-ec81-ef62-7f8daedd70d7/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/wzaCXTpH",
+    "clickCount": 16,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:44:12.349Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:44:12.349Z"
+      }
+    ]
+  },
+  {
+    "name": "nospace",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/40/a8/f140a807-f685-8c24-fadc-6ed8504b062a/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8To9vUPJ",
+    "clickCount": 19,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:44:12.349Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:44:12.349Z"
+      }
+    ]
+  },
+  {
+    "name": "MOONDROP",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/80/89/6080891f-0d6d-878f-be86-2bcfe2cc91cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jih3rTIP",
+    "clickCount": 30,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:44:12.349Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:44:12.349Z"
+      }
+    ]
+  },
+  {
+    "name": "视频盒子-保存所有视频",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/fd/a7/32fda730-250d-4695-56ce-5e7aef453107/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/lHvBcW7U",
+    "clickCount": 3,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:44:12.349Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:44:12.349Z"
+      }
+    ]
+  },
+  {
+    "name": "Matrixport",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/80/1f/43801ff2-5051-9deb-681b-f917e109caf4/AppIcon-TF-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/s5rARDvM",
+    "clickCount": 57,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:44:12.349Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:44:12.349Z"
+      }
+    ]
+  },
+  {
+    "name": "Ohere Wallet - Pay & Get Paid",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/3d/10/b33d10e7-d1ea-787d-05ef-7a9e45aa6009/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jsf7ZPVr",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:44:12.349Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:44:12.349Z"
+      }
+    ]
+  },
+  {
+    "name": "Cali - Your new calendar",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/bc/64/bfbc644f-5221-c5c9-98bc-5a7e6e04b66b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/yKXoESUD",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:44:12.349Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:44:12.349Z"
+      }
+    ]
   }
 ]
