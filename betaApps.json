@@ -13198,5 +13198,155 @@
         "timestamp": "2024-05-29T09:01:07.907Z"
       }
     ]
+  },
+  {
+    "name": "Flyleaf Read Later",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/94/b7/f494b7e9-fe18-172c-26d4-66ccddb8799d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/fhW9Vw4K",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:02:09.711Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:02:09.711Z"
+      }
+    ]
+  },
+  {
+    "name": "Flysmart+ Manager",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/75/3a/f6/753af6a6-2285-50a4-b492-e5da60cd66d8/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/BMnDKOQ1",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:02:09.711Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:02:09.711Z"
+      }
+    ]
+  },
+  {
+    "name": "Focus - Productivity Timer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/21/31/f2/2131f28b-19f0-25a6-8c49-3a9db66b7d64/AppIcon-0-1x_U007epad-0-0-0-0-0-0-P3-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/PemGsPhH",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:02:09.711Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T09:02:09.711Z"
+      }
+    ]
+  },
+  {
+    "name": "Focus Tracker - Work Smarter",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0a/8b/45/0a8b456a-a211-3e48-a8e1-b5c99c9d5421/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Fe6rKqNG",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:02:09.711Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:02:09.711Z"
+      }
+    ]
+  },
+  {
+    "name": "Focused Work - Pomodoro Timer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/f3/ee/7af3eea9-6d4c-b4eb-d34c-2970314c0f73/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hmTIjy0H",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:02:09.711Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:02:09.711Z"
+      }
+    ]
+  },
+  {
+    "name": "FoneApp Communication",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3e/95/98/3e95987a-0242-4b59-9ab3-12d5b3b1f846/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/srF3usze",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:02:09.711Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T09:02:09.711Z"
+      }
+    ]
+  },
+  {
+    "name": "Food Order System",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/cf/ea/8ccfea2c-3c61-4b27-1bfd-e36371ac307a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9Sg4xSiq",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:02:09.711Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:02:09.711Z"
+      }
+    ]
+  },
+  {
+    "name": "FoodTestApp",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/93/f1/5d/93f15dc0-bf33-a937-146d-74b37c208888/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LGv39Ew7",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:02:09.711Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:02:09.711Z"
+      }
+    ]
+  },
+  {
+    "name": "Foodfolio",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/13/17/a5/1317a555-84cc-b5b2-2e0a-ea27d7bd3af0/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/uBJNHIir",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:02:09.711Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:02:09.711Z"
+      }
+    ]
+  },
+  {
+    "name": "Foodie - Driver App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/79/db/06/79db06a7-694d-0f00-22d4-ee7a28fc9a4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Papaoztc",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:02:09.711Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T09:02:09.711Z"
+      }
+    ]
   }
 ]
