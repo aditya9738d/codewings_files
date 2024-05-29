@@ -4048,5 +4048,155 @@
         "timestamp": "2024-05-29T13:48:12.905Z"
       }
     ]
+  },
+  {
+    "name": "ONB",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/96/50/56965040-2495-fc0c-d253-8380cf599330/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/sfPw00LD",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:50:23.259Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:50:23.259Z"
+      }
+    ]
+  },
+  {
+    "name": "Bolt Charger",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/a4/0d/9ea40d10-09ab-829a-af4a-40c3c2d23db3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Hhm685us",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:50:23.259Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:50:23.259Z"
+      }
+    ]
+  },
+  {
+    "name": "PoultryProductionNew",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/a2/13/89a213ad-4167-ee1f-305a-c1f8ffb505b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/BNS0jhZx",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:50:23.259Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T13:50:23.259Z"
+      }
+    ]
+  },
+  {
+    "name": "Mouse for Cats",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/6d/c9/256dc9fa-2b93-0cf1-d6f3-dd48e6a4306f/AppIcon-1x_U007epad-0-6-0-85-220-0.jpeg/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/XVdvflES",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:50:23.259Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:50:23.259Z"
+      }
+    ]
+  },
+  {
+    "name": "DRIVE ³⁶⁰",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/2d/1d/452d1dd5-8ddf-d762-6e88-dda9b23afcff/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/TpEczFm8",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:50:23.259Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:50:23.259Z"
+      }
+    ]
+  },
+  {
+    "name": "Widget Monitor",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/df/f1/54dff1c2-8933-5d1d-a904-8a0a611104dc/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4iTWxzPn",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:50:23.259Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:50:23.259Z"
+      }
+    ]
+  },
+  {
+    "name": "Eulogica Companion",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/23/05/6c23056b-0f4f-5557-338d-b1d3f604d676/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/eYkxx5Yw",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:50:23.259Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:50:23.259Z"
+      }
+    ]
+  },
+  {
+    "name": "EDU365 Trial",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/0f/45/0b0f45e2-4195-de54-a41b-89ea0ba43963/AppIcon_1-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/DJLBMjhQ",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:50:23.259Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:50:23.259Z"
+      }
+    ]
+  },
+  {
+    "name": "myRLC home: Internal Launch",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/72/70/88727082-4e50-5d82-f7e4-a98f568fb1d7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/S2P0Oegz",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:50:23.259Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:50:23.259Z"
+      }
+    ]
+  },
+  {
+    "name": "VeoTech",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/56/dd/3c/56dd3cfd-0f76-0b9c-0178-57de4e5e9810/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/TglhwVko",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:50:23.259Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:50:23.259Z"
+      }
+    ]
   }
 ]
