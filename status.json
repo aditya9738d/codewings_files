@@ -3748,5 +3748,155 @@
         "timestamp": "2024-05-29T13:45:24.437Z"
       }
     ]
+  },
+  {
+    "name": "Nukua Gestor Comercial STAS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/7f/7f/e17f7fd0-a4e4-4248-2b42-572ffd3a1791/AppIcons-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/X9jhbpWW",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:47:10.605Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:47:10.605Z"
+      }
+    ]
+  },
+  {
+    "name": "HCL Connections",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/30/c5/0230c5ba-138b-2561-5c92-4ce50fb185ce/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4aWO2Eib",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:47:10.605Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:47:10.605Z"
+      }
+    ]
+  },
+  {
+    "name": "Lock Launcher - Screen Widgets",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/54/9f/a6549fa4-d172-6e7c-2904-79991ae14b8c/AppIcon0-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LAl8MicM",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:47:10.605Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T13:47:10.605Z"
+      }
+    ]
+  },
+  {
+    "name": "Dopple.AI",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/be/81/0e/be810ec3-a160-398b-6738-985ef8aae951/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Trkz2Sx1",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:47:10.605Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:47:10.605Z"
+      }
+    ]
+  },
+  {
+    "name": "Ame Digital QA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/8a/ff/e58aff87-c0fb-330e-73f2-1834f1bbfd3c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/NfWE3Lyi",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:47:10.605Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:47:10.605Z"
+      }
+    ]
+  },
+  {
+    "name": "iCL Filler 2",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/ef/cf/c3efcf61-182a-18ab-ce99-5e2734686faf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/UXxH9a4F",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:47:10.605Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:47:10.605Z"
+      }
+    ]
+  },
+  {
+    "name": "CA Vietnam Patient",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b4/09/51/b40951c9-0ce9-6109-c07d-b714e56a1b4e/NHAppIcon-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/7kDWlWrr",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:47:10.605Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:47:10.605Z"
+      }
+    ]
+  },
+  {
+    "name": "Tonhub — TON wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b2/b4/54b2b47e-3c64-eb09-9468-0491c8e0d00b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/UiiRg76m",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:47:10.605Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:47:10.605Z"
+      }
+    ]
+  },
+  {
+    "name": "Mix — Expand your mind",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/c8/ed/4cc8edfe-a375-2453-ac84-02bdf434cb2f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/KHxmUejK",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:47:10.605Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:47:10.605Z"
+      }
+    ]
+  },
+  {
+    "name": "Mixcloud - Music, Mixes & Live",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/39/6c/fc396c1b-af0c-4f15-0a40-99a968e54322/AppIconAppStore-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/eivfc2kH",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:47:10.605Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:47:10.605Z"
+      }
+    ]
   }
 ]
