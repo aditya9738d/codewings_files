@@ -2248,5 +2248,155 @@
         "timestamp": "2024-05-29T07:47:07.765Z"
       }
     ]
+  },
+  {
+    "name": "K6V8",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/71/d7/fc71d7d2-de66-dc0a-00ed-fe339a2f99c8/launcher_icon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/duFIoWfS",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:48:10.284Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:48:10.284Z"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Dynamics 365",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/41/34/6f/41346f3b-79c6-4333-01be-086b65a6370a/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ocBZp14V",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:48:10.284Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:48:10.284Z"
+      }
+    ]
+  },
+  {
+    "name": "Air+ AM",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/df/6c/f0df6c23-35ab-97d1-612b-beb5cdbde615/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/i4IbnQfv",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:48:10.284Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:48:10.284Z"
+      }
+    ]
+  },
+  {
+    "name": "JoyTrace",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/59/ce/7159ce85-bea9-a545-81eb-0817337d2867/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/fe1sZyFN",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:48:10.284Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:48:10.284Z"
+      }
+    ]
+  },
+  {
+    "name": "LazyMiao",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/a8/af/12a8af04-5ef0-ed69-747c-c7a853db3689/App_Icon_-_Small-marketing.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/rNfAK51Q",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:48:10.284Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:48:10.284Z"
+      }
+    ]
+  },
+  {
+    "name": "Salam App: Muslim Companion",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/39/5c/38/395c381c-e6a0-888a-0440-d64eca893838/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/IjXpQtAo",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:48:10.284Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:48:10.284Z"
+      }
+    ]
+  },
+  {
+    "name": "Jira Data Center",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/13/5d/86/135d86cb-5f42-d11e-16bf-c1b804d5321a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6JbjYbSY",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:48:10.284Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:48:10.284Z"
+      }
+    ]
+  },
+  {
+    "name": "ViatrisCRM",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/00/2b/e5002b94-e093-8114-2dfe-38ebd81084ef/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/qLGMoIGc",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:48:10.284Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:48:10.284Z"
+      }
+    ]
+  },
+  {
+    "name": "Tap Oceans: Reef Life 3D 2022",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/53/e3/f053e3ea-8242-4c0b-c958-7a5db58b26ec/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/II7yq0gg",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:48:10.284Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:48:10.284Z"
+      }
+    ]
+  },
+  {
+    "name": "HikLink UAT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/de/69/73de699b-8488-1ae4-1ffe-b5bbb4e1f3e9/AppIcon-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/E4VNRQpP",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:48:10.284Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:48:10.284Z"
+      }
+    ]
   }
 ]
