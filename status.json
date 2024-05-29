@@ -456,5 +456,159 @@
         "timestamp": "2024-05-29T12:14:11.299Z"
       }
     ]
+  },
+  {
+    "name": "eGas-Note(標準版)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/51/b7/0351b775-1917-820f-a763-8a63c891e626/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6CZTTT6G",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:15:29.237Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:15:29.237Z"
+      }
+    ]
+  },
+  {
+    "name": "rdvz",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/0b/35/5e0b3557-3273-8094-3e88-edd4d800b118/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/cVOUQgVD",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:15:29.237Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:15:29.237Z"
+      }
+    ]
+  },
+  {
+    "name": "Vipps MT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/a9/e5/afa9e567-175c-4ea6-4836-ee978b257aef/AppIconMT-Vipps-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hTAYrwea",
+    "clickCount": 22,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:15:29.237Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:15:29.237Z"
+      }
+    ]
+  },
+  {
+    "name": "Float Remote",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/95/2f/6d952f63-74e2-a12f-d127-59397dd7ff61/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/lRG2HmW6",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:15:29.237Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:15:29.237Z"
+      }
+    ]
+  },
+  {
+    "name": "Avatar Musik",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/22/37/b222371a-7bfb-eee7-d3ba-a8aec03d54f8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/O0KKLALY",
+    "clickCount": 10,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:15:29.237Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:15:29.237Z"
+      }
+    ]
+  },
+  {
+    "name": "依米短视频",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/ba/1a/86ba1af5-9f1a-2224-17ad-ae94953e924a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8LDV312x",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:15:29.237Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:15:29.237Z"
+      }
+    ]
+  },
+  {
+    "name": "Compass 55. Map & GPS kit.",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/5d/d8/6b5dd883-ba66-9f99-f770-b0cee480b042/offroad_AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/AlVn2xFs",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:15:29.237Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:15:29.237Z"
+      }
+    ]
+  },
+  {
+    "name": "Moon Player: Play Everything",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/58/d6/1358d643-b9ef-bffd-b34f-1e089ff44288/AppIcon.lsr/200x200bb-800.png",
+    "link": "https://testflight.apple.com/join/jvjbvKYm",
+    "clickCount": 3,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:15:29.237Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:15:29.237Z"
+      }
+    ]
+  },
+  {
+    "name": "AZDOME",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/40/c2/b140c2fd-1669-0d0b-f024-fa59d09756ec/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/7NgrnJ91",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:15:29.237Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:15:29.237Z"
+      }
+    ]
+  },
+  {
+    "name": "Email App –  Mail.ru",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/0d/b6/d60db6e5-286d-8555-2454-68a36e708ccf/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/G04Eq2nO",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:15:29.237Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:15:29.237Z"
+      }
+    ]
   }
 ]
