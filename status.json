@@ -6892,5 +6892,155 @@
         "timestamp": "2024-05-29T12:56:10.272Z"
       }
     ]
+  },
+  {
+    "name": "Launchcraft",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0b/7c/58/0b7c583c-9d4d-9df6-b244-cf16bc448885/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/nSONe1lZ",
+    "clickCount": 112,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:57:09.502Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:57:09.502Z"
+      }
+    ]
+  },
+  {
+    "name": "Block Puzzle: Cops vs Robbers",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/41/80/cd41802e-7ec6-8d3c-a483-ceff4e6b22a5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JewMjU43",
+    "clickCount": 1,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:57:09.502Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T12:57:09.502Z"
+      }
+    ]
+  },
+  {
+    "name": "KKClicker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/27/40/ba2740be-b5d9-004c-b84a-e59ba296efce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/y2bNjrkT",
+    "clickCount": 13,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:57:09.502Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:57:09.502Z"
+      }
+    ]
+  },
+  {
+    "name": "Quizlet: AI-powered Flashcards",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/b9/c3/d6b9c3c1-9b4a-60f9-8274-eb7d853c25b9/AppIcon-production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mwhcPqxJ",
+    "clickCount": 4,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:57:09.502Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:57:09.502Z"
+      }
+    ]
+  },
+  {
+    "name": "Ensemble Cast",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/76/b4/cf76b468-a9fe-7c54-7d74-1e601bbacaa4/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Pq1HzHqe",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:57:09.502Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:57:09.502Z"
+      }
+    ]
+  },
+  {
+    "name": "A Fish Chat",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/49/af/a049af06-65a7-b292-e769-4e065b7b3f51/AppIcon.lsr/200x200bb-800.png",
+    "link": "https://testflight.apple.com/join/jzPv1lac",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:57:09.502Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:57:09.502Z"
+      }
+    ]
+  },
+  {
+    "name": "Pocket Space!",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/ea/92/e7ea9215-9f11-16b9-0be7-7dd94b08b83a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DHipLt9w",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:57:09.502Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:57:09.502Z"
+      }
+    ]
+  },
+  {
+    "name": "KMON: World of Kogaea",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/8f/f7/b18ff7ee-9836-519f-006a-31003d1a6153/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Nx5zl25z",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:57:09.502Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:57:09.502Z"
+      }
+    ]
+  },
+  {
+    "name": "Asurascans - Hot Manga Reader",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/1b/f3/591bf359-4553-eb9a-8966-89ef30255ce9/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VdR4sNPA",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:57:09.502Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:57:09.502Z"
+      }
+    ]
+  },
+  {
+    "name": "The Weekendest: NYC Subway Map",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/0d/af/270daf07-4942-1936-d272-7e4ffbab02f0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/QMF8mCtV",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:57:09.502Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:57:09.502Z"
+      }
+    ]
   }
 ]
