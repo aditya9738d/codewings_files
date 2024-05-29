@@ -20368,5 +20368,155 @@
         "timestamp": "2024-05-29T15:45:24.326Z"
       }
     ]
+  },
+  {
+    "name": "Lacoste demo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/06/14/970614bf-f3b5-7e9b-0432-dcd214aa6281/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NtTlCj0I",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:46:10.202Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:46:10.202Z"
+      }
+    ]
+  },
+  {
+    "name": "EyeScroll",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/17/31/ef/1731efdb-9ba6-a732-dee0-95edf93e40b3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/zWlrvtFq",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:46:10.202Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:46:10.202Z"
+      }
+    ]
+  },
+  {
+    "name": "vGatePassClient",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/9e/2a/dc9e2a19-13e6-08e9-3905-bebcd5001841/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/mapi2wfv",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:46:10.202Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:46:10.202Z"
+      }
+    ]
+  },
+  {
+    "name": "Thanh long order",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/97/ef/eb97ef68-2968-241a-9300-31b0e2ce8db7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/I1vJNFRX",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:46:10.202Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:46:10.202Z"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Excel",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/2c/83/bd2c83d9-d41c-cde0-9535-abe05c15ad95/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/3lIiz1eZ",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:46:10.202Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T15:46:10.202Z"
+      }
+    ]
+  },
+  {
+    "name": "APKTEST",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/92/f9/7392f904-0ed4-e7a5-771e-038066d1f885/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/RuiOxg8k",
+    "clickCount": 7,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:46:10.202Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:46:10.202Z"
+      }
+    ]
+  },
+  {
+    "name": "Focus Bear",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/93/5e/ec935e05-3538-5249-848e-3aba0d25380b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/axIWyrO7",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:46:10.202Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:46:10.202Z"
+      }
+    ]
+  },
+  {
+    "name": "ForeverRealm",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/7c/37/9c7c3779-413d-b6aa-f74b-5be665e1ff7e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/dy5TUU0M",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:46:10.202Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T15:46:10.202Z"
+      }
+    ]
+  },
+  {
+    "name": "ServiceNAVI Plus",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/86/70/95867028-1775-8cc2-0197-da0ee8cfd00f/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/ZfjkU2ui",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:46:10.202Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:46:10.202Z"
+      }
+    ]
+  },
+  {
+    "name": "Seestar",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/65/4c/5d654c3a-b1cb-0e07-9be6-28e44ed2afd4/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/E8NGuZbe",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:46:10.202Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:46:10.202Z"
+      }
+    ]
   }
 ]
