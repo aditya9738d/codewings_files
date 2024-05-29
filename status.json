@@ -2187,5 +2187,185 @@
         "timestamp": "2024-05-29T12:26:13.157Z"
       }
     ]
+  },
+  {
+    "name": "The Kings Wants To Laugh",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/98/3f/08983f93-ec13-b025-e24b-687c0ffc6390/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hTqcj6u2",
+    "clickCount": 5,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:27:09.029Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:27:09.029Z"
+      }
+    ]
+  },
+  {
+    "name": "Facebook",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/69/9b/23699bca-3331-b7cf-7b01-65f7e93c1716/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/C1a3MRG4",
+    "clickCount": 345,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Business"
+      ],
+      [
+        "Chat"
+      ],
+      [
+        "Entertainment"
+      ],
+      [
+        "Social Networking"
+      ],
+      [
+        "Video"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:27:09.029Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:27:09.029Z"
+      }
+    ]
+  },
+  {
+    "name": "NroChat",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/e6/ce/d2e6ce54-b5a3-4be4-b86a-b7d31fb45f21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/PPfQVoNB",
+    "clickCount": 13,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:27:09.029Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:27:09.029Z"
+      }
+    ]
+  },
+  {
+    "name": "La Terminal - SSH Client",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c6/1f/9ec61f5f-1890-f8b7-4f89-e4f076aee2f0/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/cpPS8YnX",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:27:09.029Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:27:09.029Z"
+      }
+    ]
+  },
+  {
+    "name": "GCash Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/b6/d0/1cb6d06d-52b6-5ed8-27f2-4c18916032d4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/gPda0z4L",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:27:09.029Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:27:09.029Z"
+      }
+    ]
+  },
+  {
+    "name": "Trello: organize anything!",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/d0/ee/3fd0ee68-40c5-0cf1-d42d-4b7fd449161c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/cRWMcQsr",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:27:09.029Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:27:09.029Z"
+      }
+    ]
+  },
+  {
+    "name": "Locket Widget",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/59/95/33599516-4382-1149-651d-69de8531fa89/app_icon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/IGjs9EMj",
+    "clickCount": 883,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Widgets"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:27:09.029Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:27:09.029Z"
+      }
+    ]
+  },
+  {
+    "name": "Photoroom: AI Photo Editor",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/bd/90/8abd90d0-9dcf-84e9-f502-5b56c59a76b8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/guZ2IygR",
+    "clickCount": 4,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Ai"
+      ],
+      [
+        "Photography"
+      ],
+      [
+        "Utility"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:27:09.029Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:27:09.029Z"
+      }
+    ]
+  },
+  {
+    "name": "SchoolMate – Ace the Day",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/85/97/49/85974991-bda4-15aa-33a3-af41947799cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/WZcoUcHQ",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:27:09.029Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:27:09.029Z"
+      }
+    ]
+  },
+  {
+    "name": "Screeps Observer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/42/c6/ea42c6dd-4335-936c-ab57-22f31c02dbfe/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/u4GlOWaL",
+    "clickCount": 7,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:27:09.029Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:27:09.029Z"
+      }
+    ]
   }
 ]
