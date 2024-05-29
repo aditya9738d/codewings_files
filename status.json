@@ -4498,5 +4498,155 @@
         "timestamp": "2024-05-29T13:52:10.939Z"
       }
     ]
+  },
+  {
+    "name": "AGEphone Cloud",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/ec/1c/d6ec1c20-72ce-422d-970d-45a1985a7965/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/D6hYD9bS",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:53:11.149Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T13:53:11.149Z"
+      }
+    ]
+  },
+  {
+    "name": "ifland - Social Metaverse",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/f0/30/a7f030d6-d08d-0af5-2449-22b427cd1e11/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/gwsjvjj7",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:53:11.149Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:53:11.149Z"
+      }
+    ]
+  },
+  {
+    "name": "MarkMark Legacy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/f9/df/6cf9df13-0c9e-d070-be95-e819a9e63df4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/2Udv5Czf",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:53:11.149Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:53:11.149Z"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft SwiftKey AI Keyboard",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/cf/78/c5cf7898-42ae-cc87-c841-61302efebcc6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/yhIhAvjp",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:53:11.149Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:53:11.149Z"
+      }
+    ]
+  },
+  {
+    "name": "DR3FanmadeViewer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/80/36/ab/8036ab1c-28cc-eb72-9c0c-22a4c77852b4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/zjbpRT9d",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:53:11.149Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:53:11.149Z"
+      }
+    ]
+  },
+  {
+    "name": "Level Home",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/3b/d8/213bd8d8-c57a-ccb5-c609-07364629ef83/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/jpibV2eQ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:53:11.149Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:53:11.149Z"
+      }
+    ]
+  },
+  {
+    "name": "Dilo Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/64/c9/6964c999-26ac-a30d-2380-641be56deeab/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/r19zMRr9",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:53:11.149Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:53:11.149Z"
+      }
+    ]
+  },
+  {
+    "name": "Ulanzi Connect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/cb/5b/e3cb5ba7-4989-d210-5b5f-66151d20811c/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/uToPGoFR",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:53:11.149Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:53:11.149Z"
+      }
+    ]
+  },
+  {
+    "name": "Lith IRC",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/5f/b4/f75fb49d-86ab-cdbf-07c0-110de873a410/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/QfcVgNHD",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:53:11.149Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:53:11.149Z"
+      }
+    ]
+  },
+  {
+    "name": "Apporio Preview - Partner",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/d1/1e/1bd11ec4-90d0-1bbc-31ff-2b039b182a39/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/y1SFcF3u",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T13:53:11.149Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T13:53:11.149Z"
+      }
+    ]
   }
 ]
