@@ -1,3 +1,5 @@
+- **葫芦娃-经典再现**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mE4SHGvn)
+
 - **老虎国际**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/be/42/23be425b-be1a-eaef-cfd5-53812eacfe20/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/27Pw9M0d)
 
 - **Composer: Automate Trades**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/b8/7b34b805-7b67-97d7-e85d-7ff38a8a9f80/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
@@ -45,5 +47,3 @@
 - **Jusour-Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/36/48/ae3648e7-9cc1-d3dd-af04-a901ca5a5f6c/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zdZpWEmB)
 
 - **FSCB Banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/e3/e6/eae3e6d0-a88c-f654-3890-120e7102164a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J0HJaCws)
-
-- **In Next Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/b3/63/3eb36360-82b1-d720-79e4-41b716785ee1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D50l7OXY)
