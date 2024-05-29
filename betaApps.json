@@ -2398,5 +2398,155 @@
         "timestamp": "2024-05-29T07:48:10.284Z"
       }
     ]
+  },
+  {
+    "name": "LLM Farm",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/5a/bc/ea5abc6d-05fc-a559-ffe9-bcca78d8548b/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6SpPLIVM",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:49:08.616Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:49:08.616Z"
+      }
+    ]
+  },
+  {
+    "name": "Bahari Nano Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/5f/40/325f4075-1b60-60da-e28e-c71edb4af2e7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/u6z8loND",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:49:08.616Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:49:08.616Z"
+      }
+    ]
+  },
+  {
+    "name": "Tikrar",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/c1/bd/8fc1bd37-ddab-4a6e-8dd7-9d1688daa763/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/vXnDcWO8",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:49:08.616Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:49:08.616Z"
+      }
+    ]
+  },
+  {
+    "name": "彩虹记忆",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cc/b0/8a/ccb08a34-8f69-8923-a14a-ad0ed0ee9c9f/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9vUcTSV9",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:49:08.616Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:49:08.616Z"
+      }
+    ]
+  },
+  {
+    "name": "Train Departures",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/09/88/78/0988781e-f406-f9a9-8f77-b601fa0a6f2e/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/B6nAShQh",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:49:08.616Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:49:08.616Z"
+      }
+    ]
+  },
+  {
+    "name": "TikTok -Global Video Community",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/c4/8e/32c48eac-143d-2449-90df-0d43b470e936/AppIcon_TestFlight-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/t31vtmca",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:49:08.616Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T07:49:08.616Z"
+      }
+    ]
+  },
+  {
+    "name": "TrackMyTour",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/34/9a/18349a91-bb16-f3bf-95e1-7612936b9d8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tv9dt6po",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:49:08.616Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:49:08.616Z"
+      }
+    ]
+  },
+  {
+    "name": "BAOVIET Smart",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/e5/a5/48e5a599-cf66-789d-0f6d-78b87a707b1d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1cm7bows",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:49:08.616Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:49:08.616Z"
+      }
+    ]
+  },
+  {
+    "name": "UNT WholeSale-SD",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e8/39/d4e8393c-c317-32c8-cc37-f8f96a1c9cd9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DI29EWBp",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:49:08.616Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:49:08.616Z"
+      }
+    ]
+  },
+  {
+    "name": "智意新UI",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/e4/7f/e2e47fa7-1b6a-6f5b-5987-d8f8ba0c641a/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/bvr1m8iC",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T07:49:08.616Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T07:49:08.616Z"
+      }
+    ]
   }
 ]
