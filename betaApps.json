@@ -10648,5 +10648,155 @@
         "timestamp": "2024-05-29T08:43:07.472Z"
       }
     ]
+  },
+  {
+    "name": "Cyclepath",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4c/cc/6b/4ccc6b57-7067-8f51-eedb-92dac18ca610/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hGDkrXqe",
+    "clickCount": 2,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:44:09.956Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:44:09.956Z"
+      }
+    ]
+  },
+  {
+    "name": "Cœur à Cœur",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/3e/11/7c3e11f0-3e44-b4b4-4ddc-d0d878a4880b/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/90czOX1j",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:44:09.956Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:44:09.956Z"
+      }
+    ]
+  },
+  {
+    "name": "D.B.Z",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/03/d2/4203d2f1-d655-5216-4daf-d9edba108edb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/BF7DyUhj",
+    "clickCount": 0,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:44:09.956Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T08:44:09.956Z"
+      }
+    ]
+  },
+  {
+    "name": "DANCEIMPERIAL",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/30/53/8b/30538b65-57e4-72a6-a516-12f997c61619/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tqMODL4u",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:44:09.956Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:44:09.956Z"
+      }
+    ]
+  },
+  {
+    "name": "DLT App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/7c/3e/ee7c3ea1-014a-8242-3ae7-79520043b59c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/54ieBZ0G",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:44:09.956Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:44:09.956Z"
+      }
+    ]
+  },
+  {
+    "name": "DOVE CLOUD",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/33/06/1b3306bc-a1dd-9894-16ec-98be97b9c941/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/YpOxKgMX",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:44:09.956Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:44:09.956Z"
+      }
+    ]
+  },
+  {
+    "name": "DPMS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/e7/fc/dce7fcd7-0474-cd40-0b20-4d44e362f39b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/KfOgZckD",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:44:09.956Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:44:09.956Z"
+      }
+    ]
+  },
+  {
+    "name": "DPN Client",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/42/6b/46426bda-cb69-55e5-7c86-cce2ceb34419/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zTvCn1Qe",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:44:09.956Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:44:09.956Z"
+      }
+    ]
+  },
+  {
+    "name": "DRC Test",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/45/1c/6a/451c6a92-7275-4b7d-11bb-3418e948ff2f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Vh3GXp2g",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:44:09.956Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:44:09.956Z"
+      }
+    ]
+  },
+  {
+    "name": "DTLearning",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/28/31/3f2831f5-2711-f8c0-96c7-5e7bc67f86b7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/z8yTvWWt",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:44:09.956Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:44:09.956Z"
+      }
+    ]
   }
 ]
