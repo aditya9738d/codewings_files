@@ -25560,5 +25560,155 @@
         "timestamp": "2024-05-29T05:46:09.502Z"
       }
     ]
+  },
+  {
+    "name": "bonbon shop",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/0c/52/570c526b-14e9-c718-4b0e-daa7b5b7c8c7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/phhemqCV",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:47:09.209Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:47:09.209Z"
+      }
+    ]
+  },
+  {
+    "name": "Loop: IRL & Local Activities",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/6a/8c/956a8c66-6ac7-ffec-a30d-3b4e9e0843aa/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/38HHz3EE",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:47:09.209Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:47:09.209Z"
+      }
+    ]
+  },
+  {
+    "name": "SRG+ OLD",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/24/2a/46/242a4677-2913-4710-560f-4142a1393b7e/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tLznKnUO",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:47:09.209Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:47:09.209Z"
+      }
+    ]
+  },
+  {
+    "name": "MiScreen Test",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/30/e4/92/30e492bc-1f40-2091-3123-ce472fe0ab58/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MjZ5M37C",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:47:09.209Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:47:09.209Z"
+      }
+    ]
+  },
+  {
+    "name": "JourneyMate",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/0b/a2/3e0ba2d9-740a-a6c4-6895-d09463d460ad/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/cxv6llBt",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:47:09.209Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:47:09.209Z"
+      }
+    ]
+  },
+  {
+    "name": "滦雄智慧建造",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/d6/70/6cd67061-5635-6dbc-4821-a01ecc0ee5a9/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8RxtAi7l",
+    "clickCount": 14,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:47:09.209Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:47:09.209Z"
+      }
+    ]
+  },
+  {
+    "name": "Radiacode",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/1a/99/c61a991f-2773-14bb-5a14-2f44eeabaf50/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8hSPtm4Z",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:47:09.209Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:47:09.209Z"
+      }
+    ]
+  },
+  {
+    "name": "Guardian",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ba/cd/8cbacd55-b93c-2de0-f584-95ad8d6edbb0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9rtEeZ1c",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:47:09.209Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:47:09.209Z"
+      }
+    ]
+  },
+  {
+    "name": "ÖPNV Navigator",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/28/16/c3281658-ab4a-1114-b86d-94abf3eafca7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Mb6yg0Z3",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:47:09.209Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:47:09.209Z"
+      }
+    ]
+  },
+  {
+    "name": "RP Connect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/98/39/43983905-46e2-a475-4608-8e95714241ae/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4nBHXkBG",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:47:09.209Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:47:09.209Z"
+      }
+    ]
   }
 ]
