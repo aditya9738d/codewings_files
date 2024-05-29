@@ -17248,5 +17248,155 @@
         "timestamp": "2024-05-29T09:28:09.968Z"
       }
     ]
+  },
+  {
+    "name": "LivePod",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2b/ff/34/2bff34ec-6d6e-e5c9-3954-8fa5da07180d/AppIcon1-Red-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/3nPQmd33",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:29:08.550Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:29:08.550Z"
+      }
+    ]
+  },
+  {
+    "name": "LoL Buidle",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/40/f5/d1/40f5d185-2a5e-925f-35c9-2006f5e74cfc/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/nBImFIQO",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:29:08.550Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:29:08.550Z"
+      }
+    ]
+  },
+  {
+    "name": "Load Covered!",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/86/e7/dc/86e7dc45-3fe4-35ae-f003-2b5faf9e0fa4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Fea3KnRv",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:29:08.550Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T09:29:08.550Z"
+      }
+    ]
+  },
+  {
+    "name": "Locked Notes: Access",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/dd/5c/7ddd5cbe-e186-5aa8-bbfb-20e826c32375/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/j9m6NZJV",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:29:08.550Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:29:08.550Z"
+      }
+    ]
+  },
+  {
+    "name": "Logic Tiles",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/32/9a/c5329adb-eb63-3e38-06e1-75e14176d60d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/AGu4bKeJ",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:29:08.550Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:29:08.550Z"
+      }
+    ]
+  },
+  {
+    "name": "Long Kiếm Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/68/78/5f6878d7-3eff-3d81-47ff-6569a576ce87/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/HqQRZsDZ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:29:08.550Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T09:29:08.550Z"
+      }
+    ]
+  },
+  {
+    "name": "LookingBus MN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/b8/25/b0b825ea-1c8d-31af-a9d2-7c78a29e31e9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/eRIjqTyZ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:29:08.550Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T09:29:08.550Z"
+      }
+    ]
+  },
+  {
+    "name": "LosslessSwitcherRemote",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/8a/0a/a88a0a6c-e7ca-e5f2-167c-b92330ef8a67/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/QDtXe7tV",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:29:08.550Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:29:08.550Z"
+      }
+    ]
+  },
+  {
+    "name": "Lotus trade concept",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/4b/68/d64b68f6-1a21-c072-116d-ade4a94ab707/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XhZ0wYUt",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:29:08.550Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T09:29:08.550Z"
+      }
+    ]
+  },
+  {
+    "name": "Love2D Game Maker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/20/44/90204420-8c6b-4e6f-d662-8e0bd6dacfad/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/bCLmQKfQ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T09:29:08.550Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T09:29:08.550Z"
+      }
+    ]
   }
 ]
