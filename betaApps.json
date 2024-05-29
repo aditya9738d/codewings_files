@@ -23098,5 +23098,155 @@
         "timestamp": "2024-05-29T10:07:10.040Z"
       }
     ]
+  },
+  {
+    "name": "QTALK 6",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/8f/d8/e88fd8e4-a035-cd69-640b-ed59d17c2fe7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/gpxQpTio",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:08:10.717Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:08:10.717Z"
+      }
+    ]
+  },
+  {
+    "name": "QTU Club",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/bf/30/babf30a3-b9d1-9913-add4-faaccfa9ccef/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/X80OpU6V",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:08:10.717Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:08:10.717Z"
+      }
+    ]
+  },
+  {
+    "name": "Qfile Pro",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/45/0b/94/450b94ce-2b97-7ba3-67e7-4fc1618c2bb9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MBaauJO8",
+    "clickCount": 1,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:08:10.717Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T10:08:10.717Z"
+      }
+    ]
+  },
+  {
+    "name": "Qithesizer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/3c/10/e03c104b-2dd1-41cd-9179-6798bc06681c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/uI4K65op",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:08:10.717Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:08:10.717Z"
+      }
+    ]
+  },
+  {
+    "name": "Quick Key Fob Remote for Tesla",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/12/d5/1e12d555-0958-49d1-2150-bb738cb0ce49/AppIcon-1x_U007ephone-0-P3-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/AJWzHt8x",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:08:10.717Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:08:10.717Z"
+      }
+    ]
+  },
+  {
+    "name": "Quick Quizzes",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/09/3e/73/093e7345-8bf9-10e2-630e-954da1f79222/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NMJeepvx",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:08:10.717Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:08:10.717Z"
+      }
+    ]
+  },
+  {
+    "name": "QuickStream for Vision Pro",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d7/50/76/d75076f2-b78c-b7b6-8af3-c6c683e2252a/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DxssEKzw",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:08:10.717Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T10:08:10.717Z"
+      }
+    ]
+  },
+  {
+    "name": "QuicklAI -  AI Chatbot",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/33/81/8733815e-a75c-1f8f-aa69-cbb992d19d86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/lBgAC6jd",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:08:10.717Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:08:10.717Z"
+      }
+    ]
+  },
+  {
+    "name": "QuitMate",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/bd/4b/a1bd4b60-b1f1-7a30-8b42-fed0421c80da/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/16noNg2J",
+    "clickCount": 0,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:08:10.717Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T10:08:10.717Z"
+      }
+    ]
+  },
+  {
+    "name": "Quiz Online - WRTeam",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/78/c1/5078c1dc-2da9-aee9-a512-16af71e0c9fb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/KvjntP8H",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T10:08:10.717Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T10:08:10.717Z"
+      }
+    ]
   }
 ]
