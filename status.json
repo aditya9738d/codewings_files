@@ -24810,5 +24810,155 @@
         "timestamp": "2024-05-29T05:41:09.802Z"
       }
     ]
+  },
+  {
+    "name": "SAP Concur",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/58/0d/4e580d3e-f85b-613f-2bd7-840719e4f219/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XHz0uxsp",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:42:11.581Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:42:11.581Z"
+      }
+    ]
+  },
+  {
+    "name": "AIBA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/56/df/56/56df56e6-8e03-ca07-a281-755f54d58d86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Xd1gMyzy",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:42:11.581Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:42:11.581Z"
+      }
+    ]
+  },
+  {
+    "name": "MOMI - Meet You",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/02/dd/d802dd5e-ddea-8346-4877-9d6c677d69b1/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Yb2rAMDO",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:42:11.581Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:42:11.581Z"
+      }
+    ]
+  },
+  {
+    "name": "Tapatalk - 200,000+ Forums",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/18/ce/6618ce3a-283a-de12-1d66-65d28fb4a4e0/FreeAppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/oGFXVgl6",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:42:11.581Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:42:11.581Z"
+      }
+    ]
+  },
+  {
+    "name": "Uzmart",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/b2/e8/14b2e82b-204a-09ac-7230-1b28e66c7fb6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/qlRpaL76",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:42:11.581Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:42:11.581Z"
+      }
+    ]
+  },
+  {
+    "name": "JGZQuant",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/fe/a8/b5fea8c5-b1ca-a7c6-4da8-e6f7be1722f7/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jZ5L0OQt",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:42:11.581Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:42:11.581Z"
+      }
+    ]
+  },
+  {
+    "name": "Loop E-Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/fd/4e/5cfd4e94-7e28-7831-83ae-2400eff4f91a/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/vaPWrMZC",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:42:11.581Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:42:11.581Z"
+      }
+    ]
+  },
+  {
+    "name": "ParkXL Parking",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/e4/59/74e459d2-9b15-af6c-f338-f5cda8f66b61/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/rvTTit9I",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:42:11.581Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:42:11.581Z"
+      }
+    ]
+  },
+  {
+    "name": "QRNext Support",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/09/cc/fe09cc2c-2c2f-466d-839f-e45f27bb712f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Is0RWxcf",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:42:11.581Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:42:11.581Z"
+      }
+    ]
+  },
+  {
+    "name": "Tân Phát ERP-HRM",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/74/7c/dd747c62-783d-5656-64df-4ad0943c3a7b/AppIcon-erp-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/brmIumhm",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:42:11.581Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:42:11.581Z"
+      }
+    ]
   }
 ]
