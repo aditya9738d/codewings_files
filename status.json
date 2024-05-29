@@ -1737,5 +1737,155 @@
         "timestamp": "2024-05-29T12:23:13.105Z"
       }
     ]
+  },
+  {
+    "name": "AstreOS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ZsGh6uYD",
+    "clickCount": 35,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:24:12.269Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:24:12.269Z"
+      }
+    ]
+  },
+  {
+    "name": "QQ",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c7/74/acc7744b-e38d-5cee-d585-622f1983699c/AppIcon-1-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/R5FNGUl3",
+    "clickCount": 44,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:24:12.269Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:24:12.269Z"
+      }
+    ]
+  },
+  {
+    "name": "eufy Clean (EufyHome)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/83/0c/7b830c86-020e-1748-6967-b736b05d76a2/AppIcon-all-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ABaSUurE",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:24:12.269Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:24:12.269Z"
+      }
+    ]
+  },
+  {
+    "name": "Cinema Time",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/6c/a3/886ca376-f279-5890-dcdf-04dccfbeac69/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/prtbcetS",
+    "clickCount": 40,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:24:12.269Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:24:12.269Z"
+      }
+    ]
+  },
+  {
+    "name": "DEXART Metaverse",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/95/d9/8295d967-3f21-e128-b26e-dfd64cf82ca1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ntsoqpNK",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:24:12.269Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:24:12.269Z"
+      }
+    ]
+  },
+  {
+    "name": "EMOTIV Launcher",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/97/4b/9e974bf8-0786-453f-f692-898dd31aa82c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jSL0XTP9",
+    "clickCount": 12,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:24:12.269Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:24:12.269Z"
+      }
+    ]
+  },
+  {
+    "name": "Swapple - Word Puzzle Game",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3c/0f/e43c0feb-7a5e-ede7-baad-98d13ab994c1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XU84IqaM",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:24:12.269Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:24:12.269Z"
+      }
+    ]
+  },
+  {
+    "name": "Harbour - Docker Manager",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/73/b2/8773b2df-6860-a69c-6a51-04f49178699c/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/F2vK7xo4",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:24:12.269Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:24:12.269Z"
+      }
+    ]
+  },
+  {
+    "name": "Norton 360 Security & VPN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/cd/f1/13cdf169-2e76-a2da-78ee-60881128031d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/iHcEgAaT",
+    "clickCount": 4,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:24:12.269Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:24:12.269Z"
+      }
+    ]
+  },
+  {
+    "name": "Power Apps",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/44/66/5f446670-97d1-69e7-ece1-f63aab30ac0c/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/u0qAVQC6",
+    "clickCount": 12,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:24:12.269Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:24:12.269Z"
+      }
+    ]
   }
 ]
