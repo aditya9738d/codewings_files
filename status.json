@@ -4586,5 +4586,166 @@
         "timestamp": "2024-05-29T12:41:08.695Z"
       }
     ]
+  },
+  {
+    "name": "Call of Duty Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/p2C7aFDw",
+    "clickCount": 603,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:42:12.236Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:42:12.236Z"
+      }
+    ]
+  },
+  {
+    "name": "OctaVPN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/bf/f0/74bff03d-e5c2-272c-8d6c-99045e23ad4f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/BhLLjqAX",
+    "clickCount": 95,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:42:12.236Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T12:42:12.236Z"
+      }
+    ]
+  },
+  {
+    "name": "GolfClubInfoTracker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/57/92/71/579271b6-0431-33b8-71c4-4136bd6a949f/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9ZKdwgYZ",
+    "clickCount": 9,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:42:12.236Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:42:12.236Z"
+      }
+    ]
+  },
+  {
+    "name": "dot.dot.dot.",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/13/55/781355d0-a5b0-97c6-2ed8-4e4977131c36/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Fc48B6AB",
+    "clickCount": 34,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:42:12.236Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:42:12.236Z"
+      }
+    ]
+  },
+  {
+    "name": "Groq",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/9a/66/c49a6692-318a-aff6-14e0-a84bc26a61bb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Y9X0wGsi",
+    "clickCount": 18,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:42:12.236Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:42:12.236Z"
+      }
+    ]
+  },
+  {
+    "name": "musicat.ai",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/58/b1/ee/58b1eef1-4dfc-47d9-059b-bba86adaca2d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9KdDFgbw",
+    "clickCount": 23,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Ai"
+      ],
+      [
+        "Music"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:42:12.236Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:42:12.236Z"
+      }
+    ]
+  },
+  {
+    "name": "Empty Fasting",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/b6/b3/f6b6b36f-bff3-a72e-3463-d1c46b3f9b11/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1Ex8uyu7",
+    "clickCount": 54,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:42:12.236Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T12:42:12.236Z"
+      }
+    ]
+  },
+  {
+    "name": "Fugl",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/61/9b/3b619b15-4e0b-e2f4-c6f4-e702a63f8e87/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/bZIZeB4N",
+    "clickCount": 70,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:42:12.236Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:42:12.236Z"
+      }
+    ]
+  },
+  {
+    "name": "Mirá Precios",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/a4/c4/97a4c4bd-c9be-dee6-868b-c44c3fd0ef67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/vRH6kJVa",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:42:12.236Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:42:12.236Z"
+      }
+    ]
+  },
+  {
+    "name": "Symbol Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/53/8e/d2538eeb-f29e-2151-89ea-872e08ac62a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/oKCyZkRa",
+    "clickCount": 21,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:42:12.236Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:42:12.236Z"
+      }
+    ]
   }
 ]
