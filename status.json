@@ -4426,5 +4426,165 @@
         "timestamp": "2024-05-29T12:40:25.240Z"
       }
     ]
+  },
+  {
+    "name": "Hookymia",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/95/90/c6959005-ed86-5fce-7200-790d648ba4f5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Myp9NrwZ",
+    "clickCount": 9,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:41:08.695Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:41:08.695Z"
+      }
+    ]
+  },
+  {
+    "name": "Life360: Find Friends & Family",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/cc/26/a0cc2664-d06a-6292-ce67-258d1bd9a937/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/syX6IOJF",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:41:08.695Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:41:08.695Z"
+      }
+    ]
+  },
+  {
+    "name": "Slack",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/bb/0e/7bbb0e8a-e861-9ee0-63df-31a8ada20932/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/QE3kgqJ2",
+    "clickCount": 14,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:41:08.695Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:41:08.695Z"
+      }
+    ]
+  },
+  {
+    "name": "Minecraft Preview",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/d5/a1/c5d5a1b7-0be2-4c8f-b804-069d36f89a9f/AppIcon-beta-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/qC1ZnReJ",
+    "clickCount": 1836,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Education"
+      ],
+      [
+        "Entertainment"
+      ],
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-05-29T12:41:08.695Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T12:41:08.695Z"
+      }
+    ]
+  },
+  {
+    "name": "Leplace World",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5b/fd/ca/5bfdcae6-6545-b7e5-d2b4-4d51d021c19a/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/WXZlJtL0",
+    "clickCount": 7,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:41:08.695Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:41:08.695Z"
+      }
+    ]
+  },
+  {
+    "name": "CCS Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/51/21/105121ab-47ef-384d-74c3-57f3c9276aa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/IAFHUVdV",
+    "clickCount": 23,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:41:08.695Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:41:08.695Z"
+      }
+    ]
+  },
+  {
+    "name": "Nostrmo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/12/70/921270f6-7a10-9cf1-a369-6947581a991d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/kvGz47De",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:41:08.695Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:41:08.695Z"
+      }
+    ]
+  },
+  {
+    "name": "HomeHabit",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/a6/8a/8fa68a5c-ae68-6283-b387-2a882ef494db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/KbpFHzx0",
+    "clickCount": 22,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:41:08.695Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T12:41:08.695Z"
+      }
+    ]
+  },
+  {
+    "name": "ClipBorad",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/16/09/88160915-cd66-d72c-47e9-538b3b7f9cdc/DefaultAppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zgd15gEU",
+    "clickCount": 13,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:41:08.695Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:41:08.695Z"
+      }
+    ]
+  },
+  {
+    "name": "TV Time: Track Shows & Movies",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/64/38/79643818-915f-278e-0e59-7755084b7156/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hjKkDsc4",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T12:41:08.695Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T12:41:08.695Z"
+      }
+    ]
   }
 ]
