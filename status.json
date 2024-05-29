@@ -20460,5 +20460,155 @@
         "timestamp": "2024-05-29T05:12:05.163Z"
       }
     ]
+  },
+  {
+    "name": "Anthem Remote",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b5/6a/30b56a8e-51cd-8af5-61db-9337edfe27f2/AppIcon-Anthem-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/AY1eBcKb",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:13:09.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:13:09.969Z"
+      }
+    ]
+  },
+  {
+    "name": "xREL",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cb/dd/78/cbdd784d-fb5c-3ae4-acbc-9a0dc934842c/AppIconBETA-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hnmpjwbR",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:13:09.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:13:09.969Z"
+      }
+    ]
+  },
+  {
+    "name": "BH Mobile System",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/a0/f3/1ba0f38f-ee55-8fb0-f957-b117d1bad4ca/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LI1VGv9F",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:13:09.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:13:09.969Z"
+      }
+    ]
+  },
+  {
+    "name": "远程互动课堂-AirTeach",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/6f/54/f76f547e-e52e-2747-8482-634a26799c23/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/i9iMnbNT",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:13:09.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:13:09.969Z"
+      }
+    ]
+  },
+  {
+    "name": "Club Tweed",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0f/25/340f25df-9b63-2742-00d4-7d2007cd4beb/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/YDOEdSKV",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:13:09.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:13:09.969Z"
+      }
+    ]
+  },
+  {
+    "name": "Resti",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/35/18/273518ea-4d1e-416f-3435-4b215b172be7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/g6EUcjx6",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:13:09.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:13:09.969Z"
+      }
+    ]
+  },
+  {
+    "name": "MessengerM",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/e5/c4/cde5c4ca-d2e4-8a9c-af5f-87c0d00ac9e3/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/aXJD0EBB",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:13:09.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:13:09.969Z"
+      }
+    ]
+  },
+  {
+    "name": "Insight box",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/8a/a2/c38aa244-38a5-e6a8-260e-4bcdcd8f73c8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MiJDXIts",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:13:09.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:13:09.969Z"
+      }
+    ]
+  },
+  {
+    "name": "慧勘察",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/25/82/88/258288ee-b5bf-9e3c-d297-01c577e4626e/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JdnuudiR",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:13:09.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:13:09.969Z"
+      }
+    ]
+  },
+  {
+    "name": "Pally - Research Anyone",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/f0/0a/3cf00ac8-4ffb-239b-bd5c-77e3034b4d88/AppIcon-production-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XD3Qzdsb",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:13:09.969Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:13:09.969Z"
+      }
+    ]
   }
 ]
