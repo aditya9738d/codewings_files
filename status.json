@@ -17668,5 +17668,155 @@
         "timestamp": "2024-05-29T15:27:10.062Z"
       }
     ]
+  },
+  {
+    "name": "Rattlegram",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/d3/2f/62d32f2d-116c-517b-8bab-5c400312a0dd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/VQKNeMkC",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:28:10.292Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:28:10.292Z"
+      }
+    ]
+  },
+  {
+    "name": "VATRadar",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/1b/b6/531bb68c-6470-058b-3127-c2c9e2bc9dbd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Xq5kz7Fk",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:28:10.292Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:28:10.292Z"
+      }
+    ]
+  },
+  {
+    "name": "Doctor G",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/f7/cf/60f7cf0b-de12-ad31-4efe-d18e1d245a45/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Hw3QCEX6",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:28:10.292Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T15:28:10.292Z"
+      }
+    ]
+  },
+  {
+    "name": "Cyber - Chat with Everyone",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/75/b7/a275b7b1-e34c-160c-4a7f-098c695a2d08/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UDNPwhUl",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:28:10.292Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:28:10.292Z"
+      }
+    ]
+  },
+  {
+    "name": "Savi Finance",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/b1/b4/86b1b42d-d6b3-dbab-0450-33474446126a/AppIcon-1x_U007epad-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/rEoRm62h",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:28:10.292Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:28:10.292Z"
+      }
+    ]
+  },
+  {
+    "name": "FanSee Social",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/01/d6/ee01d67b-8d5d-2289-be6e-1835fbc4ba89/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/du6pg1x5",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:28:10.292Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:28:10.292Z"
+      }
+    ]
+  },
+  {
+    "name": "Baseus",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/19/ad/4619ad29-8048-19fa-19fd-f1fa9957e71e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Xir761ph",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:28:10.292Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:28:10.292Z"
+      }
+    ]
+  },
+  {
+    "name": "StageLight - DMX Controller",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/92/4d/96924d1c-c5e2-5973-de6b-5d1d3dd486cd/AppIcon-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/X1Ja2Mai",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:28:10.292Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:28:10.292Z"
+      }
+    ]
+  },
+  {
+    "name": "Ollie: AI Smart Photo Cleaner",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/a1/96/1ea1961f-1350-9327-e288-47e6ab39e685/AppIcon-var-01-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Q1xqr01y",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:28:10.292Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:28:10.292Z"
+      }
+    ]
+  },
+  {
+    "name": "South Peak Resort",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/c9/32/17c9327b-8571-ddec-a03a-9df79fe851cf/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/EEi9Hq70",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T15:28:10.292Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T15:28:10.292Z"
+      }
+    ]
   }
 ]
