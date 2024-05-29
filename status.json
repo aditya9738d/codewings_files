@@ -23460,5 +23460,155 @@
         "timestamp": "2024-05-29T05:32:10.610Z"
       }
     ]
+  },
+  {
+    "name": "eMart - Driver App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/fd/a3/6afda3f7-e594-b5ba-586d-95f45edbfa85/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/L9QWhkU5",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:33:09.044Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:33:09.044Z"
+      }
+    ]
+  },
+  {
+    "name": "Fox Issue Tracker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/b6/d6/8db6d6b1-0c13-dba6-45d2-680ade90839a/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/qdNtwDj5",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:33:09.044Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:33:09.044Z"
+      }
+    ]
+  },
+  {
+    "name": "MedAngle",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/39/a3/c339a3d3-486b-59a5-0958-193f7a43a6df/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1goQB11K",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:33:09.044Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:33:09.044Z"
+      }
+    ]
+  },
+  {
+    "name": "云顺通-货主端",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/f5/d8/aef5d806-e221-7d8b-2abf-e771206435d8/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5h5s7ULW",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:33:09.044Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:33:09.044Z"
+      }
+    ]
+  },
+  {
+    "name": "Nuki Smart Lock",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/ec/16/e9ec1642-153a-5bc5-9593-19cdbb0e4adc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/yuoh6a6B",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:33:09.044Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:33:09.044Z"
+      }
+    ]
+  },
+  {
+    "name": "PlusTi Focus",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/b9/0f/1eb90f57-6faf-171d-88c8-4e752016ddb8/appicon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1Kb2vh4W",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:33:09.044Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:33:09.044Z"
+      }
+    ]
+  },
+  {
+    "name": "macadamia for nostr",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a9/63/cc/a963cc43-f15d-c187-cc1f-240808110307/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/FteRYrAZ",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:33:09.044Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:33:09.044Z"
+      }
+    ]
+  },
+  {
+    "name": "vDemo - Live and Vod Player",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c0/c0/a9/c0c0a9a7-08a4-7513-2d35-ef8cd83a2950/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/uzGcVGkr",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:33:09.044Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:33:09.044Z"
+      }
+    ]
+  },
+  {
+    "name": "掌上四海通",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/03/70/c80370d9-28c2-1b3d-4f0b-502519dec831/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/U2NnOOFW",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:33:09.044Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:33:09.044Z"
+      }
+    ]
+  },
+  {
+    "name": "Spark Work Permit Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/5a/95/b75a95c7-c6d8-b915-4fec-866c6ec9c273/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Njq5JHaP",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T05:33:09.044Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T05:33:09.044Z"
+      }
+    ]
   }
 ]
