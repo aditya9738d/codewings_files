@@ -23222,5 +23222,155 @@
         "timestamp": "2024-05-29T16:04:11.945Z"
       }
     ]
+  },
+  {
+    "name": "Relax_AN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/ba/3c/63ba3c6f-d7b0-b325-6bf9-f460d18cdd76/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/F9iQi6PG",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:05:18.403Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:05:18.403Z"
+      }
+    ]
+  },
+  {
+    "name": "HIPHOP SMART",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/a1/cd/4ba1cd3d-f63b-974a-6630-d77a80a46c70/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/fC4nrQfl",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:05:18.403Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T16:05:18.403Z"
+      }
+    ]
+  },
+  {
+    "name": "champion Beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/ac/da/aeacdaa3-3636-f395-e437-f9fb14d4fb35/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/ObKaA1Uz",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:05:18.403Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:05:18.403Z"
+      }
+    ]
+  },
+  {
+    "name": "iTools Drive",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/3b/49/fd3b497e-53cf-6f9a-471d-e9ae89412597/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4tSMG9BM",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:05:18.403Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T16:05:18.403Z"
+      }
+    ]
+  },
+  {
+    "name": "Dj Syxx Figgaz",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/b3/1e/55b31ea9-db3e-8273-1331-463a7e2a050b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tBRA2932",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:05:18.403Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:05:18.403Z"
+      }
+    ]
+  },
+  {
+    "name": "Hey mind",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/b1/74/e6b1740b-b595-667e-3470-1934d6577d22/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/F19nS5Lu",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:05:18.403Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:05:18.403Z"
+      }
+    ]
+  },
+  {
+    "name": "Abysswalkers",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/26/ba/7c26ba42-4a57-72a0-f43e-3149df207952/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/6Mt6RraS",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:05:18.403Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:05:18.403Z"
+      }
+    ]
+  },
+  {
+    "name": "The Lotus Project",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/69/f2/1769f291-025b-a31f-9ec9-230e8d6db217/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/M5cVtYyl",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:05:18.403Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:05:18.403Z"
+      }
+    ]
+  },
+  {
+    "name": "Quiz Hour Demo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3b/71/5c/3b715c03-78e0-6581-6e2c-2b77a6c73fcc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/G1H0zDfx",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:05:18.403Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:05:18.403Z"
+      }
+    ]
+  },
+  {
+    "name": "Kyroz",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/21/97/a32197c0-b85b-213c-6671-77defeb73cb3/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/8qAp1Uud",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T16:05:18.403Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T16:05:18.403Z"
+      }
+    ]
   }
 ]
