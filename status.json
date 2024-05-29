@@ -9583,5 +9583,155 @@
         "timestamp": "2024-05-29T14:30:47.456Z"
       }
     ]
+  },
+  {
+    "name": "Dolby Personalization Beta",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/63/8b/1d638bd3-4ec0-8e56-f9e6-a649af26d3b8/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/7lxusSow",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:31:09.781Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:31:09.781Z"
+      }
+    ]
+  },
+  {
+    "name": "GlobalTA Cloud",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/93/87/74938709-ff4a-f199-8d27-97f6430a1335/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/7jdsjM2V",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:31:09.781Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:31:09.781Z"
+      }
+    ]
+  },
+  {
+    "name": "NEO for Installers",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/43/73/694373c8-b441-3faa-f43f-7cf0d5868a8f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/rTiUh9eI",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:31:09.781Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:31:09.781Z"
+      }
+    ]
+  },
+  {
+    "name": "Tapped Ai",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/c8/40/4ec84014-9093-325c-a585-7a58a67e1e05/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/TbVZMGhA",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:31:09.781Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:31:09.781Z"
+      }
+    ]
+  },
+  {
+    "name": "Kagi for Safari",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/6a/0e/5a6a0e3a-6a78-0651-82d9-fee5e9fe1417/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/nx6Gvf4h",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:31:09.781Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:31:09.781Z"
+      }
+    ]
+  },
+  {
+    "name": "Swords!",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/14/08/eb1408a4-8f37-0d38-819a-6c419c6d215a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/7jREn7Ry",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:31:09.781Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:31:09.781Z"
+      }
+    ]
+  },
+  {
+    "name": "LazyBoard - Phrase Keyboard",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/5c/d0/f55cd046-543f-5e3c-1f90-5c001e4e9ada/AppIconBeta-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/yus6zCQ0",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:31:09.781Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:31:09.781Z"
+      }
+    ]
+  },
+  {
+    "name": "Encointer Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/e8/12/f6e81272-b864-ec9e-b83c-6264a419b740/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/LFuSsdwT",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:31:09.781Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:31:09.781Z"
+      }
+    ]
+  },
+  {
+    "name": "ECOVACS HOME",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/1c/13/631c1355-b8e8-f3c3-eb52-fedc816a0f60/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/gVXPtPlb",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:31:09.781Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:31:09.781Z"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Lists",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/c0/7e/03c07e6a-da82-8415-8b61-585fa6084596/ListsAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/FL3caOg6",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T14:31:09.781Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T14:31:09.781Z"
+      }
+    ]
   }
 ]
