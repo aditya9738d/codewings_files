@@ -29310,5 +29310,155 @@
         "timestamp": "2024-05-29T06:12:11.056Z"
       }
     ]
+  },
+  {
+    "name": "声涩",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/50/7a/4f507a00-6921-aa95-6c65-da8ce135ddbb/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/R1zMg5RN",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:13:09.845Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:13:09.845Z"
+      }
+    ]
+  },
+  {
+    "name": "Lenovo Smart Storage",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/4f/39/664f3939-c179-ab22-1a21-f02079558532/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/yjgUleaX",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:13:09.845Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:13:09.845Z"
+      }
+    ]
+  },
+  {
+    "name": "Oilbrush: Oil Painting Editor",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/12/3c/b7123c3c-1cf5-2f71-4a10-97aab42f02b3/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/M8nRADRo",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:13:09.845Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-05-29T06:13:09.845Z"
+      }
+    ]
+  },
+  {
+    "name": "АЗС Helios",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/fa/6c/7afa6c17-47a2-c404-c599-d3d2a524320c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/fg5ZvO1K",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:13:09.845Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:13:09.845Z"
+      }
+    ]
+  },
+  {
+    "name": "Mhaya Test",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/d8/b1/c4d8b170-f072-45bb-b5f0-5b435396bb26/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6FIIvKlJ",
+    "clickCount": 17,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:13:09.845Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:13:09.845Z"
+      }
+    ]
+  },
+  {
+    "name": "App for WooCommerce",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/d8/0f/49d80f3c-8ec6-131d-75bd-f4f03d707135/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LBoLdW0r",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:13:09.845Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:13:09.845Z"
+      }
+    ]
+  },
+  {
+    "name": "PiTT - PTT 行動裝置瀏覽器",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7f/06/7d/7f067dba-5132-f717-1b28-c65ceeaa7b9b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/HU8GWjtz",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:13:09.845Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:13:09.845Z"
+      }
+    ]
+  },
+  {
+    "name": "Astara",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/ce/b3/c1ceb39b-4759-c7da-dae3-b773651bec6b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ZWokb4hI",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:13:09.845Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:13:09.845Z"
+      }
+    ]
+  },
+  {
+    "name": "bitXin",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/73/f2/3073f2e7-9d08-9f9e-bd0a-7abcd342bec0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/AAqEldbE",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:13:09.845Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:13:09.845Z"
+      }
+    ]
+  },
+  {
+    "name": "EC App Dev",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/54/50/d2545006-97a8-ec82-9e30-f4d372ecae4e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/wdJjqbX5",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T06:13:09.845Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T06:13:09.845Z"
+      }
+    ]
   }
 ]
