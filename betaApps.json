@@ -10798,5 +10798,155 @@
         "timestamp": "2024-05-29T08:44:09.956Z"
       }
     ]
+  },
+  {
+    "name": "DTNewsApp",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b3/88/f7/b388f7f5-bfe1-6ca5-5253-67dd8915eb86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9LOKWQMn",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:46:10.608Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:46:10.608Z"
+      }
+    ]
+  },
+  {
+    "name": "DTWeb",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/30/25/72/302572cd-3ea3-fd71-43e1-8aa534cb6b0a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XtQzoc7P",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:46:10.608Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:46:10.608Z"
+      }
+    ]
+  },
+  {
+    "name": "DTect Parcel",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/34/28/4f34284f-9ab8-036c-863d-f9ea43c08845/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/sSN52W3D",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:46:10.608Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:46:10.608Z"
+      }
+    ]
+  },
+  {
+    "name": "DWOC自動量化交易系統",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d1/e8/a1/d1e8a1f9-acf7-bb0d-9bfa-415ef9d8163a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/clGWLowx",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:46:10.608Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:46:10.608Z"
+      }
+    ]
+  },
+  {
+    "name": "Dabbsson",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/41/f7/d6/41f7d68b-4b2f-1c67-0bc2-f2d527c79613/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VGm2QxEK",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:46:10.608Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:46:10.608Z"
+      }
+    ]
+  },
+  {
+    "name": "Daily Planner Calendar - Myday",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/2c/04/962c0448-0018-4850-2e63-121747f7f349/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/WtpRtuGC",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:46:10.608Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:46:10.608Z"
+      }
+    ]
+  },
+  {
+    "name": "Daily TODOs",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/e9/69/b5e96960-0c1f-1602-4f95-20c0fbb383c3/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/yI66XvVd",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:46:10.608Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:46:10.608Z"
+      }
+    ]
+  },
+  {
+    "name": "DanceDuel : Dance Game",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/06/71/000671f7-8a48-06a9-187d-f36dede90754/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/bXdvlprE",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:46:10.608Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-05-29T08:46:10.608Z"
+      }
+    ]
+  },
+  {
+    "name": "Dancing Line Community Edition",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/b7/90/81b7909c-2720-0a48-3deb-3bded481cf22/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XnV3J5fu",
+    "clickCount": 8,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:46:10.608Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-05-29T08:46:10.608Z"
+      }
+    ]
+  },
+  {
+    "name": "ElevateDarts",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/d3/af/6bd3aff7-4758-f856-cd41-92431b61f584/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/3jcns7lc",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:46:10.608Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:46:10.608Z"
+      }
+    ]
   }
 ]
