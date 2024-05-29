@@ -5998,5 +5998,155 @@
         "timestamp": "2024-05-29T08:12:12.951Z"
       }
     ]
+  },
+  {
+    "name": "Moblin",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/62/2d/ae622d35-8110-b4cd-bc9b-83103bf1c1e3/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/PDpxEaGh",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:13:09.494Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:13:09.494Z"
+      }
+    ]
+  },
+  {
+    "name": "Vhomenex",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f9/0b/68/f90b68f7-df8d-4b0a-cbc5-c459849f4c12/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/EYYN26bK",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:13:09.494Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:13:09.494Z"
+      }
+    ]
+  },
+  {
+    "name": "AmazFaces",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/0b/a5/b50ba535-a005-fa36-27dc-49a029e57c38/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4hBEKHHg",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:13:09.494Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:13:09.494Z"
+      }
+    ]
+  },
+  {
+    "name": "一生足迹 · 记录一生轨迹 - 旅行运动打卡地图",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/16/65/36166587-fe15-4fd1-d0b2-6b178c4e3d04/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XJnsja5Y",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:13:09.494Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:13:09.494Z"
+      }
+    ]
+  },
+  {
+    "name": "Wingmall STG",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/93/77/369377af-9d4a-bc0b-8c8e-e11cbd89ba27/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4hYrmxsV",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:13:09.494Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:13:09.494Z"
+      }
+    ]
+  },
+  {
+    "name": "Lokbuch für Träwelling",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/10/10/1a10102b-65f5-8fa4-b5fa-de9bf31fa7d4/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8djTU1G6",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:13:09.494Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:13:09.494Z"
+      }
+    ]
+  },
+  {
+    "name": "Incontrol Inspect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/8b/10/938b103e-2eb4-f4f5-879a-cdacb286e898/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/4MnA8fO7",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:13:09.494Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:13:09.494Z"
+      }
+    ]
+  },
+  {
+    "name": "Soprop Premium UAT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/08/f1/2408f1e6-af77-75dd-b375-39fc096bc7db/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/RdjGlKxD",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:13:09.494Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:13:09.494Z"
+      }
+    ]
+  },
+  {
+    "name": "Apphive",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/e0/e9/33e0e946-420c-a7c4-2e15-9b8c22d4abce/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/98eGSRhc",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:13:09.494Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:13:09.494Z"
+      }
+    ]
+  },
+  {
+    "name": "Standard Notes",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/aa/8a/e6aa8af0-6fc7-3891-237e-fe36e41acae0/Blue-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/H61MmmCA",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-05-29T08:13:09.494Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-05-29T08:13:09.494Z"
+      }
+    ]
   }
 ]
