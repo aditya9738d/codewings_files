@@ -37354,3 +37354,73 @@
 **Categories:**
 
 
+**Name:** [Jugnoo Taxi](https://testflight.apple.com/join/fRyDsYj1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:02:10.561Z
+**Categories:**
+
+
+**Name:** [Jumbl - Post Together](https://testflight.apple.com/join/UoUiHXqg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:02:10.588Z
+**Categories:**
+
+
+**Name:** [Jump Jerboa](https://testflight.apple.com/join/3KPCfC6D)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:02:10.618Z
+**Categories:**
+
+
+**Name:** [Just for Instagram](https://testflight.apple.com/join/3AEfj7cf)
+**Click Count:** 42
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:02:10.647Z
+**Categories:**
+
+
+**Name:** [JustCall - Cloud Phone System](https://testflight.apple.com/join/jLFqO26K)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:02:10.674Z
+**Categories:**
+
+
+**Name:** [JustPay](https://testflight.apple.com/join/J10tUKaI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:02:10.703Z
+**Categories:**
+
+
+**Name:** [KARAMI](https://testflight.apple.com/join/BxDBBGER)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:02:10.731Z
+**Categories:**
+
+
+**Name:** [KC Smart Robotic](https://testflight.apple.com/join/s48a87HK)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:02:10.759Z
+**Categories:**
+
+
+**Name:** [KDVS](https://testflight.apple.com/join/0aEHWqMD)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:02:10.787Z
+**Categories:**
+
+
+**Name:** [KEBS-MOB](https://testflight.apple.com/join/tbI4fXiL)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:02:10.815Z
+**Categories:**
+
+
