@@ -30564,3 +30564,73 @@
 **Categories:**
 
 
+**Name:** [MGAILogger](https://testflight.apple.com/join/qc5ZZQBT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:22:12.124Z
+**Categories:**
+
+
+**Name:** [Kitsun](https://testflight.apple.com/join/hMskPYYU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:22:12.151Z
+**Categories:**
+
+
+**Name:** [TAK Tracker](https://testflight.apple.com/join/N8I2JHyj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:22:12.179Z
+**Categories:**
+
+
+**Name:** [Freerse](https://testflight.apple.com/join/IbJTYBAa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:22:12.206Z
+**Categories:**
+
+
+**Name:** [Buriedbornes2](https://testflight.apple.com/join/0WaJj6rE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:22:12.234Z
+**Categories:**
+
+
+**Name:** [Pulsar for Salesforce](https://testflight.apple.com/join/6nz4I3Ct)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:22:12.261Z
+**Categories:**
+
+
+**Name:** [Uchumi](https://testflight.apple.com/join/GhgnJplX)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:22:12.288Z
+**Categories:**
+
+
+**Name:** [TickerChart Live for iPhone](https://testflight.apple.com/join/DF4uIvFW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:22:12.316Z
+**Categories:**
+
+
+**Name:** [OffBlock Beta](https://testflight.apple.com/join/BH8JRzif)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:22:12.344Z
+**Categories:**
+
+
+**Name:** [Nobias Finance](https://testflight.apple.com/join/CqBLPqS1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:22:12.372Z
+**Categories:**
+
+
