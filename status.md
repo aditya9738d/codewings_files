@@ -5784,3 +5784,73 @@
 **Categories:**
 
 
+**Name:** [Termius: Terminal & SSH client](https://testflight.apple.com/join/MnuClabg)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:16:10.815Z
+**Categories:**
+
+
+**Name:** [Photos Backup Anywhere](https://testflight.apple.com/join/TcDH3ccO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:16:10.851Z
+**Categories:**
+
+
+**Name:** [Marklog](https://testflight.apple.com/join/1OQuD2vJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:16:10.887Z
+**Categories:**
+
+
+**Name:** [Party Icons](https://testflight.apple.com/join/5yCOZGvM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:16:10.925Z
+**Categories:**
+
+
+**Name:** [BankWizCalc](https://testflight.apple.com/join/IviU4Oqh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:16:10.961Z
+**Categories:**
+
+
+**Name:** [BOSSAY](https://testflight.apple.com/join/RCCA7SsH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:16:10.997Z
+**Categories:**
+
+
+**Name:** [Dishdash](https://testflight.apple.com/join/u8NIoELS)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:16:11.033Z
+**Categories:**
+
+
+**Name:** [DKU FedCampus](https://testflight.apple.com/join/veDJckxp)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:16:11.069Z
+**Categories:**
+
+
+**Name:** [plappa](https://testflight.apple.com/join/CPlREvRs)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:16:11.104Z
+**Categories:**
+
+
+**Name:** [Wallet 3](https://testflight.apple.com/join/5acvlgyK)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:16:11.140Z
+**Categories:**
+
+
