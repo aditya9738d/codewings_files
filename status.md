@@ -18139,3 +18139,73 @@
 **Categories:**
 
 
+**Name:** [Warranty+](https://testflight.apple.com/join/nWLuICPs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:12.505Z
+**Categories:**
+
+
+**Name:** [DM Event Scanner](https://testflight.apple.com/join/WJ4n5rKy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:12.534Z
+**Categories:**
+
+
+**Name:** [AlchemCharts](https://testflight.apple.com/join/4PazuisX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:12.563Z
+**Categories:**
+
+
+**Name:** [Organic Maps: Offline Map](https://testflight.apple.com/join/lrKCl08I)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:12.592Z
+**Categories:**
+
+
+**Name:** [RunCline](https://testflight.apple.com/join/lreTEZW3)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:12.620Z
+**Categories:**
+
+
+**Name:** [Audit Manager – EPA Soluzioni](https://testflight.apple.com/join/KEfWx74F)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:12.649Z
+**Categories:**
+
+
+**Name:** [88 Mobile](https://testflight.apple.com/join/x5t2hBvy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:12.677Z
+**Categories:**
+
+
+**Name:** [ProdataKey](https://testflight.apple.com/join/OHwTybsU)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:12.706Z
+**Categories:**
+
+
+**Name:** [Current Craze](https://testflight.apple.com/join/z11YdMOn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:12.736Z
+**Categories:**
+
+
+**Name:** [RR Mine - IPFS & BTC Hashrate](https://testflight.apple.com/join/2KkOuBKi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:12.765Z
+**Categories:**
+
+
