@@ -1499,3 +1499,53 @@
 **Beta Available:** full
 **Last Checked:** 2024-05-30T11:27:09.634Z
 
+**Name:** [Ulysses: Writing App](https://testflight.apple.com/join/r7ehG0dQ)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:28:10.971Z
+
+**Name:** [Idle Iktah](https://testflight.apple.com/join/Xpg1aGvf)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:28:10.971Z
+
+**Name:** [Picsart AI Photo Video Editor](https://testflight.apple.com/join/d4gDz5s7)
+**Click Count:** 600
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:28:10.971Z
+
+**Name:** [Composer: AI Trading](https://testflight.apple.com/join/nnQC498c)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:28:10.971Z
+
+**Name:** [Suwatte](https://testflight.apple.com/join/qDyYMTLJ)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:28:10.971Z
+
+**Name:** [Geotag Alpha for Sony](https://testflight.apple.com/join/0Fht2ff6)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:28:10.971Z
+
+**Name:** [iReal Pro](https://testflight.apple.com/join/pNgXdvK7)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:28:10.971Z
+
+**Name:** [Palphone](https://testflight.apple.com/join/jVw2duqr)
+**Click Count:** 14
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:28:10.972Z
+
+**Name:** [WEB.DE Mail & Cloud](https://testflight.apple.com/join/Do48rouk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:28:10.972Z
+
+**Name:** [Mira Fertility & Cycle Tracker](https://testflight.apple.com/join/jVUPS68D)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:28:10.972Z
+
