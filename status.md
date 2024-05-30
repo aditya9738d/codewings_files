@@ -149,3 +149,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:00:52.286Z
 
+**Name:** [NRO by ixxc 01](https://testflight.apple.com/join/tFiMYRwn)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:01:07.489Z
+
+**Name:** [Moments - GIF Your Life](https://testflight.apple.com/join/DipKBlaZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:01:07.489Z
+
+**Name:** [Atlas - Spatial Ergonomics](https://testflight.apple.com/join/HbtqQVhn)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:01:07.489Z
+
+**Name:** [Mesh SMS](https://testflight.apple.com/join/6mKuAhbG)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:01:07.489Z
+
+**Name:** [Zesfy - Daily Planner](https://testflight.apple.com/join/vsr4s4L1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:01:07.489Z
+
+**Name:** [The Blue Litter Project Hub](https://testflight.apple.com/join/1w5G7HMr)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:01:07.489Z
+
+**Name:** [Video Game Tracker - Winston](https://testflight.apple.com/join/ePQGMrn0)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:01:07.489Z
+
+**Name:** [FityIt](https://testflight.apple.com/join/NrB5H1Zd)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:01:07.489Z
+
+**Name:** [filli app](https://testflight.apple.com/join/a9m7JO61)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:01:07.489Z
+
+**Name:** [Collabora Office](https://testflight.apple.com/join/TEnBWi68)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:01:07.489Z
+
