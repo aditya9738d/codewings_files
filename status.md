@@ -9882,3 +9882,73 @@
 **Categories:**
 
 
+**Name:** [AQUA Wallet](https://testflight.apple.com/join/a89WWtZW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:16:11.180Z
+**Categories:**
+
+
+**Name:** [Visionary](https://testflight.apple.com/join/ceIJWd8U)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:16:11.215Z
+**Categories:**
+
+
+**Name:** [Caritas App](https://testflight.apple.com/join/yl613COn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:16:11.254Z
+**Categories:**
+
+
+**Name:** [Disability Detect](https://testflight.apple.com/join/UoUSmiM7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:16:11.290Z
+**Categories:**
+
+
+**Name:** [MelaleucaRally](https://testflight.apple.com/join/mmcv8HtX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:16:11.326Z
+**Categories:**
+
+
+**Name:** [Microsoft Loop](https://testflight.apple.com/join/KNyadcIZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:16:11.361Z
+**Categories:**
+
+
+**Name:** [BisonBlock Auth - Sandbox](https://testflight.apple.com/join/IsqtiRVB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:16:11.398Z
+**Categories:**
+
+
+**Name:** [Hokotashi Car Race](https://testflight.apple.com/join/u2txqKAk)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:16:11.433Z
+**Categories:**
+
+
+**Name:** [Bird ID](https://testflight.apple.com/join/bTo6QzTV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:16:11.469Z
+**Categories:**
+
+
+**Name:** [Haylou Fun](https://testflight.apple.com/join/BNZKCK8J)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:16:11.505Z
+**Categories:**
+
+
