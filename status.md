@@ -5997,3 +5997,74 @@
 - Food
 - Shopping
 
+**Name:** [CBRO](https://testflight.apple.com/join/UDDdSKNn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:19:08.420Z
+**Categories:**
+- Games
+
+**Name:** [Watermelon__Game](https://testflight.apple.com/join/zEkLhX0L)
+**Click Count:** 11
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:19:08.456Z
+**Categories:**
+- Games
+
+**Name:** [BuddyBoss Branding App](https://testflight.apple.com/join/RyFaWoIr)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:19:08.492Z
+**Categories:**
+- Art & Design
+- Education
+
+**Name:** [NHTDSGAME](https://testflight.apple.com/join/gsF1MZGp)
+**Click Count:** 16
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:19:08.529Z
+**Categories:**
+
+
+**Name:** [Fraggy Road](https://testflight.apple.com/join/0LeFdx5d)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:19:08.565Z
+**Categories:**
+
+
+**Name:** [RTI Dashboard](https://testflight.apple.com/join/T1YKKlZ0)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:19:08.601Z
+**Categories:**
+
+
+**Name:** [Swapple - Letter Logic Puzzles](https://testflight.apple.com/join/XU84IqaM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:19:08.637Z
+**Categories:**
+- Games
+
+**Name:** [FYI.AI (Focus Your Ideas)](https://testflight.apple.com/join/MQ9xz3Qb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:19:08.673Z
+**Categories:**
+
+
+**Name:** [Applaydu & Friends games](https://testflight.apple.com/join/qwxFohAR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:19:08.709Z
+**Categories:**
+- Games
+
+**Name:** [True Compliance Go](https://testflight.apple.com/join/etFoJxFn)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:19:08.745Z
+**Categories:**
+
+
