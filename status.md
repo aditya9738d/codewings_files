@@ -1188,3 +1188,73 @@
 **Categories:**
 
 
+**Name:** [Spacegazer](https://testflight.apple.com/join/8YcnFE92)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:07:08.239Z
+**Categories:**
+
+
+**Name:** [Spaice](https://testflight.apple.com/join/xShJrhF8)
+**Click Count:** 2
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:07:08.276Z
+**Categories:**
+
+
+**Name:** [Spark Texture Compression Demo](https://testflight.apple.com/join/GCB0DcqA)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:07:08.313Z
+**Categories:**
+
+
+**Name:** [Sparse App](https://testflight.apple.com/join/8IJMzuKX)
+**Click Count:** 3
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:07:08.349Z
+**Categories:**
+
+
+**Name:** [Spatial Measure](https://testflight.apple.com/join/JZmafYo7)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:07:08.386Z
+**Categories:**
+
+
+**Name:** [Spatial Sprinkles](https://testflight.apple.com/join/M5yEvJyg)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:07:08.423Z
+**Categories:**
+
+
+**Name:** [SpatialGPT](https://testflight.apple.com/join/9y1Cn11J)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:07:08.459Z
+**Categories:**
+
+
+**Name:** [Spatialty Coffee](https://testflight.apple.com/join/oLgodUeL)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:07:08.495Z
+**Categories:**
+
+
+**Name:** [SpeakApp](https://testflight.apple.com/join/bzEmsLUM)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:07:08.532Z
+**Categories:**
+
+
+**Name:** [SpeciesID](https://testflight.apple.com/join/Kv6BkAbS)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:07:08.569Z
+**Categories:**
+
+
