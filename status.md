@@ -31544,3 +31544,73 @@
 **Categories:**
 
 
+**Name:** [Bedrift SSF](https://testflight.apple.com/join/i8rKY1gt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:36:09.973Z
+**Categories:**
+
+
+**Name:** [ThermoGrid](https://testflight.apple.com/join/2eJmqRZ9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:36:10.002Z
+**Categories:**
+
+
+**Name:** [Yadira](https://testflight.apple.com/join/h1QA5xQP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:36:10.031Z
+**Categories:**
+
+
+**Name:** [Pixwire](https://testflight.apple.com/join/PgY1zeKF)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:36:10.060Z
+**Categories:**
+
+
+**Name:** [Yup - Open Social All-In-One](https://testflight.apple.com/join/RlIGrKm5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:36:10.089Z
+**Categories:**
+
+
+**Name:** [Tussle Inc](https://testflight.apple.com/join/yyYSIplm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:36:10.118Z
+**Categories:**
+
+
+**Name:** [BIC Group](https://testflight.apple.com/join/FaP5D8Bo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:36:10.147Z
+**Categories:**
+
+
+**Name:** [HolyGrails](https://testflight.apple.com/join/Cv5DsqXL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:36:10.175Z
+**Categories:**
+
+
+**Name:** [Mealstar Cocinero](https://testflight.apple.com/join/5JTO4OKr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:36:10.204Z
+**Categories:**
+
+
+**Name:** [BetterShifts](https://testflight.apple.com/join/RheXgQ6R)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:36:10.233Z
+**Categories:**
+
+
