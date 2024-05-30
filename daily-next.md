@@ -1,5 +1,7 @@
 - **Học Viện TuVi Việt Nam**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/6e/b3/636eb3eb-bda3-0a89-3525-6b1c18d09a29/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rFMlokwB)
 
+- **Học Viện TuVi Việt Nam**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/6e/b3/636eb3eb-bda3-0a89-3525-6b1c18d09a29/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rFMlokwB)
+
 - **KSAS（クボタスマートアグリシステム）**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/4a/0d/394a0d8f-f72c-3bd5-a2de-0f86f3ce6951/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9qAbc8OZ)
 
 - **中国移动云盘-全民不限速**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/8f/bf/028fbfb6-ccea-3298-01cd-6ae7e10ff908/AppIcon-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cR3t7Cnj)
@@ -46,5 +48,3 @@
 - **Power Automate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/6c/5e/016c5e88-fefa-2cf4-a2da-e11f0fa47cfb/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/IQfqWDCi)
 - **1Password for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/87/97/b8879771-2b8c-dc45-db7d-55d61792e260/AppIcon-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png)](https://testflight.apple.com/join/wdCBan7N)
 - **Blaze Of Empires RTS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/78/56/207856b5-d2a6-cfc4-4b64-2fe892ed7518/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAyTMggk)
-- **Clipchamp Dev**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/84/8a/05848a6f-9947-fee1-36f4-c4e28b969c07/AppIcon-Dev-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rG93mFo8)
-- **AnyTV - IPTV Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/b3/1f/74b31fb6-f19f-d51b-069c-cf741cebb92d/AppIcon-0-0-1x_U007epad-0-10-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/NuYsARQq)
