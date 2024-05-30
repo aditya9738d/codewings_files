@@ -7051,3 +7051,73 @@
 **Categories:**
 
 
+**Name:** [WorkBuddy](https://testflight.apple.com/join/fSyJLJ4F)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:51:10.806Z
+**Categories:**
+
+
+**Name:** [Ducky Weather](https://testflight.apple.com/join/zE9voJ5H)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:51:10.835Z
+**Categories:**
+
+
+**Name:** [Spartan Camera Management](https://testflight.apple.com/join/Q2j4wD3u)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:51:10.863Z
+**Categories:**
+
+
+**Name:** [Maintenance IQ](https://testflight.apple.com/join/vIdktd75)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:51:10.891Z
+**Categories:**
+
+
+**Name:** [Nro SieuCap2.](https://testflight.apple.com/join/P2G81dBd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:51:10.919Z
+**Categories:**
+
+
+**Name:** [Libero Mail](https://testflight.apple.com/join/YEQsHyni)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:51:10.947Z
+**Categories:**
+
+
+**Name:** [HiFutureSelf - Future Messages](https://testflight.apple.com/join/zRKU0Od8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:51:10.975Z
+**Categories:**
+
+
+**Name:** [TruMonitor - TruVent](https://testflight.apple.com/join/8RIXkqVl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:51:11.003Z
+**Categories:**
+
+
+**Name:** [PowerAlarm](https://testflight.apple.com/join/G3MPcq6r)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:51:11.031Z
+**Categories:**
+
+
+**Name:** [Supernova AI English Practice](https://testflight.apple.com/join/t3WTd9eN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:51:11.059Z
+**Categories:**
+
+
