@@ -30284,3 +30284,73 @@
 **Categories:**
 
 
+**Name:** [Robot Vacuum Cleaner](https://testflight.apple.com/join/gbTAUSTY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:18:09.751Z
+**Categories:**
+
+
+**Name:** [Avatar Play](https://testflight.apple.com/join/1JRKMIYN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:18:09.786Z
+**Categories:**
+
+
+**Name:** [iSenser](https://testflight.apple.com/join/RZxTSSQ0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:18:09.821Z
+**Categories:**
+
+
+**Name:** [Tinnen](https://testflight.apple.com/join/D06n37Bi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:18:09.856Z
+**Categories:**
+
+
+**Name:** [360hideMe](https://testflight.apple.com/join/OUXp9o9h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:18:09.892Z
+**Categories:**
+
+
+**Name:** [us3ctkv2](https://testflight.apple.com/join/6ei8bHY8)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:18:09.927Z
+**Categories:**
+
+
+**Name:** [Swann Security](https://testflight.apple.com/join/3Xuoi0Zm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:18:09.961Z
+**Categories:**
+
+
+**Name:** [RedPlus](https://testflight.apple.com/join/o1JeJiAN)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:18:09.996Z
+**Categories:**
+
+
+**Name:** [Pixcall](https://testflight.apple.com/join/NBGdJjB5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:18:10.032Z
+**Categories:**
+
+
+**Name:** [HENGLINK](https://testflight.apple.com/join/GqyOZJf4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:18:10.067Z
+**Categories:**
+
+
