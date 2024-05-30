@@ -12441,3 +12441,73 @@
 **Categories:**
 
 
+**Name:** [Gibber - Communicate, Easily](https://testflight.apple.com/join/JbcYsfUF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:10:28.263Z
+**Categories:**
+
+
+**Name:** [My Friendly Eyes](https://testflight.apple.com/join/6dtvM8cp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:10:28.299Z
+**Categories:**
+
+
+**Name:** [Elloro – Mindshift & Wellness](https://testflight.apple.com/join/46vnnSnh)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T14:10:28.335Z
+**Categories:**
+
+
+**Name:** [Drivometer](https://testflight.apple.com/join/LKnK7eup)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:10:28.371Z
+**Categories:**
+
+
+**Name:** [MaaS360 Browser](https://testflight.apple.com/join/NBp8ZCtV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:10:28.408Z
+**Categories:**
+
+
+**Name:** [Reaslo](https://testflight.apple.com/join/90I3yOHf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:10:28.444Z
+**Categories:**
+
+
+**Name:** [Homey — A better smart home](https://testflight.apple.com/join/tA2e9vby)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:10:28.480Z
+**Categories:**
+
+
+**Name:** [Reeder 5.](https://testflight.apple.com/join/2w63KOGS)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:10:28.516Z
+**Categories:**
+
+
+**Name:** [Pixelfed](https://testflight.apple.com/join/dNcLnb1n)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:10:28.552Z
+**Categories:**
+
+
+**Name:** [Veritas Market](https://testflight.apple.com/join/8kksZ7jU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:10:28.589Z
+**Categories:**
+
+
