@@ -25944,3 +25944,73 @@
 **Categories:**
 
 
+**Name:** [Fleety Drivers App](https://testflight.apple.com/join/3OtaNKio)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:15:26.132Z
+**Categories:**
+
+
+**Name:** [Employee App](https://testflight.apple.com/join/talFHKiq)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:15:26.161Z
+**Categories:**
+
+
+**Name:** [Wonga Bingo 3.0](https://testflight.apple.com/join/YaPqaaHi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:15:26.189Z
+**Categories:**
+
+
+**Name:** [MeMoSA](https://testflight.apple.com/join/e1goFaf1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:15:26.217Z
+**Categories:**
+
+
+**Name:** [SCE TMS Mobile UAT](https://testflight.apple.com/join/b6glIoul)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:15:26.245Z
+**Categories:**
+
+
+**Name:** [Weather & Radar - Storm alerts](https://testflight.apple.com/join/siqFNUje)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:15:26.272Z
+**Categories:**
+
+
+**Name:** [SBI HRMS](https://testflight.apple.com/join/yyoOVpK6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:15:26.301Z
+**Categories:**
+
+
+**Name:** [Super POS](https://testflight.apple.com/join/kLxvgUIw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:15:26.329Z
+**Categories:**
+
+
+**Name:** [Jahwa Mobile](https://testflight.apple.com/join/vY97rK1z)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:15:26.357Z
+**Categories:**
+
+
+**Name:** [MedXperts](https://testflight.apple.com/join/cB8NiF2e)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:15:26.384Z
+**Categories:**
+
+
