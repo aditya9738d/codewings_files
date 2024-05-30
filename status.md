@@ -12472,3 +12472,73 @@
 **Categories:**
 
 
+**Name:** [Diabetes Cockpit](https://testflight.apple.com/join/y2VVZQ3Z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:53:07.509Z
+**Categories:**
+
+
+**Name:** [BBC Weather](https://testflight.apple.com/join/WLTdwbcK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:53:07.545Z
+**Categories:**
+
+
+**Name:** [Moon Portal: Frame, Widget, AI](https://testflight.apple.com/join/e5tVF4Q2)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:53:07.582Z
+**Categories:**
+
+
+**Name:** [Allthenticator](https://testflight.apple.com/join/WmVsH9M8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:53:07.618Z
+**Categories:**
+
+
+**Name:** [Monitok](https://testflight.apple.com/join/9HixraVR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:53:07.654Z
+**Categories:**
+
+
+**Name:** [peace out, a meditation timer](https://testflight.apple.com/join/yL6EDsoP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:53:07.690Z
+**Categories:**
+
+
+**Name:** [PALM Health App](https://testflight.apple.com/join/irTlqgn5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:53:07.726Z
+**Categories:**
+
+
+**Name:** [PN Seller](https://testflight.apple.com/join/xhkdVa2h)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:53:07.762Z
+**Categories:**
+
+
+**Name:** [swift.ly](https://testflight.apple.com/join/Ma5t7nuJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:53:07.798Z
+**Categories:**
+
+
+**Name:** [MSR@ITC](https://testflight.apple.com/join/DsJxDwQc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:53:07.834Z
+**Categories:**
+
+
