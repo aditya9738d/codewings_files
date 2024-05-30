@@ -23004,3 +23004,73 @@
 **Categories:**
 
 
+**Name:** [QRNext Support](https://testflight.apple.com/join/Is0RWxcf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:31:08.721Z
+**Categories:**
+
+
+**Name:** [Prologue](https://testflight.apple.com/join/mmH46578)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T16:31:08.749Z
+**Categories:**
+
+
+**Name:** [CT Connect](https://testflight.apple.com/join/CcEUxxmu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:31:08.777Z
+**Categories:**
+
+
+**Name:** [R1WURKS](https://testflight.apple.com/join/SP9WiLp6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:31:08.805Z
+**Categories:**
+
+
+**Name:** [CheggoutV2New](https://testflight.apple.com/join/I2EVMcAZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:31:08.833Z
+**Categories:**
+
+
+**Name:** [installer TEam](https://testflight.apple.com/join/vuuVZCUa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:31:08.861Z
+**Categories:**
+
+
+**Name:** [Lalaland Journal](https://testflight.apple.com/join/UycMtg9y)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:31:08.889Z
+**Categories:**
+
+
+**Name:** [BitPet - AR Virtual Pets](https://testflight.apple.com/join/xurnOPBO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:31:08.918Z
+**Categories:**
+
+
+**Name:** [EggRider](https://testflight.apple.com/join/XEu11F03)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:31:08.946Z
+**Categories:**
+
+
+**Name:** [Jackery](https://testflight.apple.com/join/Be7WNaVn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:31:08.974Z
+**Categories:**
+
+
