@@ -1328,3 +1328,73 @@
 **Categories:**
 
 
+**Name:** [SpringUI](https://testflight.apple.com/join/aPmNY3iB)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:09:09.237Z
+**Categories:**
+
+
+**Name:** [SpruceKit Wallet](https://testflight.apple.com/join/CPZON8Ho)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:09:09.273Z
+**Categories:**
+
+
+**Name:** [Stack Stack Boom](https://testflight.apple.com/join/9w3upzJB)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:09:09.309Z
+**Categories:**
+
+
+**Name:** [Stampede V6](https://testflight.apple.com/join/a1q1PpDx)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:09:09.344Z
+**Categories:**
+
+
+**Name:** [Starkeeper](https://testflight.apple.com/join/37q6squK)
+**Click Count:** 11
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:09:09.380Z
+**Categories:**
+
+
+**Name:** [Starvara Battle Royale](https://testflight.apple.com/join/WhZDJ4Xw)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:09:09.419Z
+**Categories:**
+
+
+**Name:** [StellarMate](https://testflight.apple.com/join/yPEDodh6)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:09:09.455Z
+**Categories:**
+
+
+**Name:** [Step Ring](https://testflight.apple.com/join/1hLiQ9vs)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:09:09.491Z
+**Categories:**
+
+
+**Name:** [Stoop inc](https://testflight.apple.com/join/nqHfoLin)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:09:09.527Z
+**Categories:**
+
+
+**Name:** [Stop Motion Studio Pro](https://testflight.apple.com/join/rfWbdRvr)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:09:09.564Z
+**Categories:**
+
+
