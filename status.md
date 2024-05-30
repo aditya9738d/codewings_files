@@ -3131,3 +3131,73 @@
 **Categories:**
 
 
+**Name:** [Manga Clash - Warrior Arena](https://testflight.apple.com/join/htIpxyDx)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:46.934Z
+**Categories:**
+
+
+**Name:** [Notes - Sight Reading Trainer](https://testflight.apple.com/join/l4ad6sxi)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:53:47.208Z
+**Categories:**
+
+
+**Name:** [GeoQuestAR](https://testflight.apple.com/join/Aqpi4Ote)
+**Click Count:** 33
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:47.481Z
+**Categories:**
+
+
+**Name:** [Sw!ftalyzer](https://testflight.apple.com/join/hqzrhjHd)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:47.755Z
+**Categories:**
+
+
+**Name:** [hockey.nl](https://testflight.apple.com/join/dEZe3xLJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:48.030Z
+**Categories:**
+
+
+**Name:** [Tivatrainer](https://testflight.apple.com/join/qkTTNyGj)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:48.309Z
+**Categories:**
+
+
+**Name:** [Payy: USDC Wallet](https://testflight.apple.com/join/rKCavMy1)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:48.583Z
+**Categories:**
+
+
+**Name:** [On Demand DFS](https://testflight.apple.com/join/jzQUDy1B)
+**Click Count:** 7
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:53:48.859Z
+**Categories:**
+
+
+**Name:** [ApicalTest](https://testflight.apple.com/join/osDRDUTt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:49.134Z
+**Categories:**
+
+
+**Name:** [Alpha Portal](https://testflight.apple.com/join/xVE9QGnk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:49.408Z
+**Categories:**
+
+
