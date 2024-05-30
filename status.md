@@ -2780,3 +2780,73 @@
 **Categories:**
 
 
+**Name:** [Per Watch](https://testflight.apple.com/join/kCM1SsCz)
+**Click Count:** 17
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:10.018Z
+**Categories:**
+
+
+**Name:** [ColorSlurp](https://testflight.apple.com/join/xxEw2j1X)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:10.046Z
+**Categories:**
+
+
+**Name:** [War Robots Test](https://testflight.apple.com/join/aE7qTf9G)
+**Click Count:** 94
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:10.074Z
+**Categories:**
+- Games
+
+**Name:** [Devil May Cry: Peak of Combat](https://testflight.apple.com/join/YwdVgCwp)
+**Click Count:** 17
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:49:10.102Z
+**Categories:**
+
+
+**Name:** [MotoWeek](https://testflight.apple.com/join/GqtAtfQu)
+**Click Count:** 33
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:10.130Z
+**Categories:**
+
+
+**Name:** [Beautiful Covers](https://testflight.apple.com/join/YSOynOzr)
+**Click Count:** 17
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:10.158Z
+**Categories:**
+
+
+**Name:** [VPN ExpressVPN - Fast & Secure](https://testflight.apple.com/join/6flRfmYW)
+**Click Count:** 12
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:49:10.186Z
+**Categories:**
+
+
+**Name:** [RAFA: AI Investment Copilot](https://testflight.apple.com/join/LqD6DlOe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:10.213Z
+**Categories:**
+
+
+**Name:** [Blocs - Website Builder](https://testflight.apple.com/join/B4bn2vEz)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:10.241Z
+**Categories:**
+
+
+**Name:** [Jetpack for WordPress](https://testflight.apple.com/join/AZG7g4Bg)
+**Click Count:** 41
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:10.269Z
+**Categories:**
+
+
