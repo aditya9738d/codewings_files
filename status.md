@@ -34484,3 +34484,73 @@
 **Categories:**
 
 
+**Name:** [Cinemagickh](https://testflight.apple.com/join/KeXQGtCR)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T19:19:09.229Z
+**Categories:**
+
+
+**Name:** [Circle iConnect](https://testflight.apple.com/join/NhO98aWx)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:19:09.258Z
+**Categories:**
+
+
+**Name:** [Citations](https://testflight.apple.com/join/vxobmPVp)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:19:09.286Z
+**Categories:**
+
+
+**Name:** [Citrix Secure Web](https://testflight.apple.com/join/DQ71ZZMK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:19:09.314Z
+**Categories:**
+
+
+**Name:** [Clarii](https://testflight.apple.com/join/4mUWjnx4)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:19:09.342Z
+**Categories:**
+
+
+**Name:** [Classifier: Collection Tracker](https://testflight.apple.com/join/HeIftx1S)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:19:09.371Z
+**Categories:**
+
+
+**Name:** [CleanPay Mobile](https://testflight.apple.com/join/ErKYR493)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:19:09.399Z
+**Categories:**
+
+
+**Name:** [Clear-Com Agent-IC](https://testflight.apple.com/join/USfpPQTt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:19:09.427Z
+**Categories:**
+
+
+**Name:** [ClearWatt](https://testflight.apple.com/join/fvBbiwLc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:19:09.456Z
+**Categories:**
+
+
+**Name:** [CleoCleaner](https://testflight.apple.com/join/2rV85hKb)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:19:09.484Z
+**Categories:**
+
+
