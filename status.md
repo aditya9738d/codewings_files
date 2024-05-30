@@ -11041,3 +11041,73 @@
 **Categories:**
 
 
+**Name:** [SmartRep | Saad Group](https://testflight.apple.com/join/AvFkzvCB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:50:26.590Z
+**Categories:**
+
+
+**Name:** [Goodnotes 6](https://testflight.apple.com/join/DRidxxgv)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:50:26.619Z
+**Categories:**
+
+
+**Name:** [Podcast Player RSSRadio](https://testflight.apple.com/join/1vxCQQJH)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:50:26.647Z
+**Categories:**
+
+
+**Name:** [Mullvad VPN](https://testflight.apple.com/join/gOpklnGw)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:50:26.675Z
+**Categories:**
+
+
+**Name:** [crumbs social](https://testflight.apple.com/join/8dVzkjxd)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:50:26.705Z
+**Categories:**
+
+
+**Name:** [Eating Reorder](https://testflight.apple.com/join/6uIpxLFg)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:50:26.734Z
+**Categories:**
+
+
+**Name:** [Mondee](https://testflight.apple.com/join/0Al6XhsF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:50:26.763Z
+**Categories:**
+
+
+**Name:** [Official Kodi Remote](https://testflight.apple.com/join/VQkpfqDN)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:50:26.792Z
+**Categories:**
+
+
+**Name:** [Picol Exchange](https://testflight.apple.com/join/DXL6yjae)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:50:26.820Z
+**Categories:**
+
+
+**Name:** [Minimal | Writing + Notes](https://testflight.apple.com/join/hfvQiGFK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:50:26.849Z
+**Categories:**
+
+
