@@ -13211,3 +13211,73 @@
 **Categories:**
 
 
+**Name:** [MaaS360 Secure Editor](https://testflight.apple.com/join/f5CXDBxn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:21:09.328Z
+**Categories:**
+
+
+**Name:** [Etendo](https://testflight.apple.com/join/MWqctJS2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:21:09.357Z
+**Categories:**
+
+
+**Name:** [agorum boost](https://testflight.apple.com/join/MP0bTVZU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:21:09.385Z
+**Categories:**
+
+
+**Name:** [Deep Dictionary](https://testflight.apple.com/join/lxzMMbZl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:21:09.414Z
+**Categories:**
+
+
+**Name:** [Affinity Photo 2 iPad Beta](https://testflight.apple.com/join/kMSouXpl)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:21:09.442Z
+**Categories:**
+
+
+**Name:** [CPayant](https://testflight.apple.com/join/3YbdkfZu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:21:09.470Z
+**Categories:**
+
+
+**Name:** [Cheatsheet — Quick Note Widget](https://testflight.apple.com/join/E7AnyPlA)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:21:09.498Z
+**Categories:**
+
+
+**Name:** [Mood - Make One&Only Day](https://testflight.apple.com/join/gGV7TgVC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:21:09.529Z
+**Categories:**
+
+
+**Name:** [Pocket 48](https://testflight.apple.com/join/I6CR0Kl8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:21:09.558Z
+**Categories:**
+
+
+**Name:** [Combo Koala - Battle Hero](https://testflight.apple.com/join/kdqq3qAN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:21:09.586Z
+**Categories:**
+
+
