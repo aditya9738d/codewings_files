@@ -21114,3 +21114,73 @@
 **Categories:**
 
 
+**Name:** [AdGuard Pro — adblock&privacy](https://testflight.apple.com/join/Eita1W29)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T16:03:09.140Z
+**Categories:**
+
+
+**Name:** [Liv Bank](https://testflight.apple.com/join/Ou5CKdgc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:03:09.179Z
+**Categories:**
+
+
+**Name:** [JX1 G4VN Mobile](https://testflight.apple.com/join/OnESLfw4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:03:09.215Z
+**Categories:**
+
+
+**Name:** [ORDA](https://testflight.apple.com/join/0pzoEzjx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:03:09.252Z
+**Categories:**
+
+
+**Name:** [Defence of Serenity: Castle](https://testflight.apple.com/join/SNpEhHA8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:03:09.288Z
+**Categories:**
+
+
+**Name:** [SM.MS](https://testflight.apple.com/join/bQz911w3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:03:09.324Z
+**Categories:**
+
+
+**Name:** [TOPPOINT](https://testflight.apple.com/join/21lcl1Ry)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:03:09.376Z
+**Categories:**
+
+
+**Name:** [Shadow PC](https://testflight.apple.com/join/PxpSW79P)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:03:09.412Z
+**Categories:**
+
+
+**Name:** [ScanDoc](https://testflight.apple.com/join/w5AukfoU)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:03:09.448Z
+**Categories:**
+
+
+**Name:** [Tokata Custom](https://testflight.apple.com/join/nZe6WOkG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:03:09.484Z
+**Categories:**
+
+
