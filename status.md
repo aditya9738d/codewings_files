@@ -12581,3 +12581,73 @@
 **Categories:**
 
 
+**Name:** [Diarly: Private Daily Journal](https://testflight.apple.com/join/g2vQL47L)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:12:14.775Z
+**Categories:**
+
+
+**Name:** [WidgetWall](https://testflight.apple.com/join/naLuk9N3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:12:14.879Z
+**Categories:**
+
+
+**Name:** [Sunsama](https://testflight.apple.com/join/ga9gmSns)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:12:14.983Z
+**Categories:**
+
+
+**Name:** [Rapid Rift](https://testflight.apple.com/join/93txVXhO)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:12:15.086Z
+**Categories:**
+
+
+**Name:** [Amagno.App](https://testflight.apple.com/join/tOXJC8Kf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:12:15.190Z
+**Categories:**
+
+
+**Name:** [Simon Care Management](https://testflight.apple.com/join/MF81MpPL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:12:15.296Z
+**Categories:**
+
+
+**Name:** [Light of Coco](https://testflight.apple.com/join/nURS8Hx2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:12:15.401Z
+**Categories:**
+
+
+**Name:** [Vilja](https://testflight.apple.com/join/7s1wL3HL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:12:15.505Z
+**Categories:**
+
+
+**Name:** [Ease-Amind](https://testflight.apple.com/join/Acq7jDLi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:12:15.612Z
+**Categories:**
+
+
+**Name:** [daoStk](https://testflight.apple.com/join/0FKLLJMM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:12:15.719Z
+**Categories:**
+
+
