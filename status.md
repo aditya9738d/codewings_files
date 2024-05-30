@@ -7413,3 +7413,74 @@
 **Categories:**
 
 
+**Name:** [Darkroom: Photo & Video Editor](https://testflight.apple.com/join/mzR3XvHe)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:39:11.592Z
+**Categories:**
+
+
+**Name:** [Daypage](https://testflight.apple.com/join/pSAEAqGk)
+**Click Count:** 22
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:39:11.628Z
+**Categories:**
+
+
+**Name:** [Vivaldi Snapshot](https://testflight.apple.com/join/RHz7zTUB)
+**Click Count:** 59
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:39:11.665Z
+**Categories:**
+
+
+**Name:** [Easy Unarchiver - ZIP, RAR](https://testflight.apple.com/join/jXX0Wyfy)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:39:11.701Z
+**Categories:**
+
+
+**Name:** [KFC](https://testflight.apple.com/join/vWsEPv3U)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:39:11.737Z
+**Categories:**
+
+
+**Name:** [Readwise Reader](https://testflight.apple.com/join/NSeQo22d)
+**Click Count:** 28
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:39:11.774Z
+**Categories:**
+
+
+**Name:** [enhanceAl](https://testflight.apple.com/join/P7nvmE22)
+**Click Count:** 24
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:39:11.809Z
+**Categories:**
+
+
+**Name:** [Adobe Acrobat Reader: Edit PDF](https://testflight.apple.com/join/8XhFnQlp)
+**Click Count:** 41
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:39:11.846Z
+**Categories:**
+
+
+**Name:** [Messenger](https://testflight.apple.com/join/njVWbUm0)
+**Click Count:** 82
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:39:11.882Z
+**Categories:**
+- Chat
+
+**Name:** [CapCut - Video Editor](https://testflight.apple.com/join/F35EKwCs)
+**Click Count:** 58
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:39:11.918Z
+**Categories:**
+- Utility
+- Video
+
