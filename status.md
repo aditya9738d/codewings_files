@@ -15031,3 +15031,73 @@
 **Categories:**
 
 
+**Name:** [AI Print by photobook.ai](https://testflight.apple.com/join/aLIjx9WB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:48:11.922Z
+**Categories:**
+
+
+**Name:** [ArcGIS Survey123](https://testflight.apple.com/join/Ba2igaQp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:48:11.951Z
+**Categories:**
+
+
+**Name:** [Outputs](https://testflight.apple.com/join/ZPBcgHRi)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:48:11.980Z
+**Categories:**
+
+
+**Name:** [Shortzz](https://testflight.apple.com/join/wmt67C6w)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:48:12.008Z
+**Categories:**
+
+
+**Name:** [BitNasdaq: Digital Education](https://testflight.apple.com/join/wr82YLnR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:48:12.035Z
+**Categories:**
+
+
+**Name:** [Moonlight VisionOS Preview](https://testflight.apple.com/join/4eE59dyH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:48:12.064Z
+**Categories:**
+
+
+**Name:** [Elite Connect Biz](https://testflight.apple.com/join/z2F6lnQk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:48:12.092Z
+**Categories:**
+
+
+**Name:** [Bidclover Backroom Staff App](https://testflight.apple.com/join/yneaVljE)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:48:12.119Z
+**Categories:**
+
+
+**Name:** [Swift Paperless](https://testflight.apple.com/join/bOpOdzwL)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:48:12.148Z
+**Categories:**
+
+
+**Name:** [CrewForce](https://testflight.apple.com/join/UKExYuNm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:48:12.179Z
+**Categories:**
+
+
