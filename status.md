@@ -34554,3 +34554,73 @@
 **Categories:**
 
 
+**Name:** [ClienWidget](https://testflight.apple.com/join/TEBsNPe9)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:20:21.747Z
+**Categories:**
+
+
+**Name:** [Client APP staging](https://testflight.apple.com/join/2FkXPCyY)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:20:21.778Z
+**Categories:**
+
+
+**Name:** [Clinflash eTMF](https://testflight.apple.com/join/SPFIThq0)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:20:21.806Z
+**Categories:**
+
+
+**Name:** [Clinic Companion](https://testflight.apple.com/join/yD0O4Af7)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:20:21.835Z
+**Categories:**
+
+
+**Name:** [Clinical Dementia Rating](https://testflight.apple.com/join/vCvP7h1s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:20:21.863Z
+**Categories:**
+
+
+**Name:** [Clockwise - Read the clock](https://testflight.apple.com/join/0kMxWstS)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:20:21.892Z
+**Categories:**
+
+
+**Name:** [CloudClip](https://testflight.apple.com/join/pYrj28b4)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:20:21.920Z
+**Categories:**
+
+
+**Name:** [Clump](https://testflight.apple.com/join/OqDBfh4J)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:20:21.949Z
+**Categories:**
+
+
+**Name:** [CoCoRaHS](https://testflight.apple.com/join/IfvoZAx5)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:20:21.978Z
+**Categories:**
+
+
+**Name:** [CoachRx](https://testflight.apple.com/join/slabzPHS)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:20:22.006Z
+**Categories:**
+
+
