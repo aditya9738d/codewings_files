@@ -39104,3 +39104,73 @@
 **Categories:**
 
 
+**Name:** [Note Taking - Email Me](https://testflight.apple.com/join/ZCXmn3qw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:30:42.585Z
+**Categories:**
+
+
+**Name:** [NotePlan - Daily Notes](https://testflight.apple.com/join/fm9q4OjE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:30:42.620Z
+**Categories:**
+
+
+**Name:** [Notespaces - Chat Your Notes](https://testflight.apple.com/join/SehoTtiS)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:30:42.656Z
+**Categories:**
+
+
+**Name:** [Notessimo](https://testflight.apple.com/join/e9rpQsKx)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:30:42.691Z
+**Categories:**
+
+
+**Name:** [NovaPay: перекази та платежі](https://testflight.apple.com/join/Fz3Xt343)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:30:42.727Z
+**Categories:**
+
+
+**Name:** [NovaX](https://testflight.apple.com/join/S595MBpx)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:30:42.763Z
+**Categories:**
+
+
+**Name:** [Nozbe Personal](https://testflight.apple.com/join/UE4ho1Z0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:30:42.798Z
+**Categories:**
+
+
+**Name:** [Nro Blue .](https://testflight.apple.com/join/qsnV2ifw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:30:42.834Z
+**Categories:**
+
+
+**Name:** [Nro Helios](https://testflight.apple.com/join/UQPXFpj0)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T20:30:42.869Z
+**Categories:**
+
+
+**Name:** [Nro O](https://testflight.apple.com/join/B4KxzFpu)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:30:42.905Z
+**Categories:**
+
+
