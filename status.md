@@ -27414,3 +27414,73 @@
 **Categories:**
 
 
+**Name:** [Swisscom myCloud](https://testflight.apple.com/join/Y5pOcWGk)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:37:09.234Z
+**Categories:**
+
+
+**Name:** [Mindbug](https://testflight.apple.com/join/GNUBgAQu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:37:09.270Z
+**Categories:**
+
+
+**Name:** [BopSyncNetPOC](https://testflight.apple.com/join/LFS1H99Q)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:37:09.305Z
+**Categories:**
+
+
+**Name:** [Judo: Design and Build Apps](https://testflight.apple.com/join/cgXp6iN9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:37:09.340Z
+**Categories:**
+
+
+**Name:** [HRMS Lite](https://testflight.apple.com/join/YDovsfMJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:37:09.376Z
+**Categories:**
+
+
+**Name:** [Beaver Pocket](https://testflight.apple.com/join/dSsmsGLY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:37:09.411Z
+**Categories:**
+
+
+**Name:** [Target](https://testflight.apple.com/join/qcx8yK1s)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:37:09.445Z
+**Categories:**
+
+
+**Name:** [BOG Lite](https://testflight.apple.com/join/LkWllLxe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:37:09.481Z
+**Categories:**
+
+
+**Name:** [BitMaps: Bite-Size Map Widgets](https://testflight.apple.com/join/7tjic8Hz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:37:09.516Z
+**Categories:**
+
+
+**Name:** [Uber Conta Hml](https://testflight.apple.com/join/GZHoMcHA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:37:09.552Z
+**Categories:**
+
+
