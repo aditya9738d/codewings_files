@@ -34064,3 +34064,73 @@
 **Categories:**
 
 
+**Name:** [CBLife](https://testflight.apple.com/join/exN2uLeo)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:13:09.407Z
+**Categories:**
+
+
+**Name:** [CNDO](https://testflight.apple.com/join/hQEdI7D0)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:13:09.436Z
+**Categories:**
+
+
+**Name:** [COLATV](https://testflight.apple.com/join/SIofWtuA)
+**Click Count:** 5
+**Beta Available:** error
+**Last Checked:** 2024-05-30T19:13:09.464Z
+**Categories:**
+
+
+**Name:** [COROS](https://testflight.apple.com/join/ytW7Pwzm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:13:09.493Z
+**Categories:**
+
+
+**Name:** [CPWDSewa](https://testflight.apple.com/join/6xNA8rZY)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:13:09.525Z
+**Categories:**
+
+
+**Name:** [CRM Analytics](https://testflight.apple.com/join/lqW6np0L)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:13:09.554Z
+**Categories:**
+
+
+**Name:** [CRM JCV](https://testflight.apple.com/join/Zh2fP7OG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:13:09.582Z
+**Categories:**
+
+
+**Name:** [CRM Messaging](https://testflight.apple.com/join/V8lodinz)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:13:09.611Z
+**Categories:**
+
+
+**Name:** [CS342 2024 Prisma](https://testflight.apple.com/join/bPu7kUoM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:13:09.639Z
+**Categories:**
+
+
+**Name:** [CTS Mobile UAEU](https://testflight.apple.com/join/QkIUaxfp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:13:09.668Z
+**Categories:**
+
+
