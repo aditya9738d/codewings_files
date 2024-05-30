@@ -31614,3 +31614,73 @@
 **Categories:**
 
 
+**Name:** [Square Point of Sale (POS)](https://testflight.apple.com/join/sjSddveJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:37:08.501Z
+**Categories:**
+
+
+**Name:** [Bdk Native App](https://testflight.apple.com/join/2hCVHjya)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:37:08.531Z
+**Categories:**
+
+
+**Name:** [PromoDescuentos: ofertas](https://testflight.apple.com/join/64cKelOa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:37:08.560Z
+**Categories:**
+
+
+**Name:** [Anglo Checklist App PREPROD](https://testflight.apple.com/join/JdRWlvky)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:37:08.589Z
+**Categories:**
+
+
+**Name:** [Surge Network Tester](https://testflight.apple.com/join/ABWQfJsU)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:37:08.617Z
+**Categories:**
+
+
+**Name:** [My Vodacom X](https://testflight.apple.com/join/6VTYMpIz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:37:08.646Z
+**Categories:**
+
+
+**Name:** [eDarkstore Shipping Transfers](https://testflight.apple.com/join/HxEFOrQp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:37:08.675Z
+**Categories:**
+
+
+**Name:** [Around Capture](https://testflight.apple.com/join/Fpox5bGg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:37:08.703Z
+**Categories:**
+
+
+**Name:** [Enceladus](https://testflight.apple.com/join/FZzHTdPi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:37:08.732Z
+**Categories:**
+
+
+**Name:** [ViSymulation](https://testflight.apple.com/join/y8gAh6Lf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:37:08.762Z
+**Categories:**
+
+
