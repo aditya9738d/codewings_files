@@ -1599,3 +1599,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:29:10.140Z
 
+**Name:** [Shortwave Email](https://testflight.apple.com/join/LwqFyO6L)
+**Click Count:** 13
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:30:44.111Z
+
+**Name:** [JB4 Mobile](https://testflight.apple.com/join/d2yNd4lK)
+**Click Count:** 14
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:30:44.111Z
+
+**Name:** [Hoarder App](https://testflight.apple.com/join/QifpNxAT)
+**Click Count:** 16
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:30:44.111Z
+
+**Name:** [E.](https://testflight.apple.com/join/7KmHv0CZ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:30:44.111Z
+
+**Name:** [Muse Teams](https://testflight.apple.com/join/r2JeOEbm)
+**Click Count:** 14
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:30:44.111Z
+
+**Name:** [Hanu HRV](https://testflight.apple.com/join/NpppQZLA)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:30:44.111Z
+
+**Name:** [ZEUS Wallet](https://testflight.apple.com/join/vVnODWoi)
+**Click Count:** 11
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:30:44.111Z
+
+**Name:** [pr0gramm App](https://testflight.apple.com/join/NubTl9vH)
+**Click Count:** 70
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:30:44.111Z
+
+**Name:** [F1ATV](https://testflight.apple.com/join/NRswe1IZ)
+**Click Count:** 26
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:30:44.111Z
+
+**Name:** [Axiome Wallet](https://testflight.apple.com/join/Bjz0XZ5v)
+**Click Count:** 55
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:30:44.111Z
+
