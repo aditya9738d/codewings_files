@@ -29514,3 +29514,73 @@
 **Categories:**
 
 
+**Name:** [GigmeHQ](https://testflight.apple.com/join/jNd6Nw6A)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:07:08.608Z
+**Categories:**
+
+
+**Name:** [Rease](https://testflight.apple.com/join/7W7K3pij)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:07:08.643Z
+**Categories:**
+
+
+**Name:** [YMCA Strong90](https://testflight.apple.com/join/LO3rZ9m4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:07:08.678Z
+**Categories:**
+
+
+**Name:** [Janus TZ](https://testflight.apple.com/join/YEVj8g6b)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:07:08.714Z
+**Categories:**
+
+
+**Name:** [Panels - Comic Reader](https://testflight.apple.com/join/uQHhfVl2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:07:08.750Z
+**Categories:**
+
+
+**Name:** [VinFast EU UAT](https://testflight.apple.com/join/y4WvJkvl)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:07:08.786Z
+**Categories:**
+
+
+**Name:** [Hotspotfin](https://testflight.apple.com/join/gFveOdmn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:07:08.821Z
+**Categories:**
+
+
+**Name:** [Ableton Note](https://testflight.apple.com/join/9gsYKCTP)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T18:07:08.856Z
+**Categories:**
+
+
+**Name:** [VCBBank](https://testflight.apple.com/join/JYjqPAvm)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:07:08.891Z
+**Categories:**
+
+
+**Name:** [Foodyman Drivers](https://testflight.apple.com/join/okzxOoWf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:07:08.926Z
+**Categories:**
+
+
