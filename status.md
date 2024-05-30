@@ -838,3 +838,73 @@
 **Categories:**
 
 
+**Name:** [Signicat - Assure Demo](https://testflight.apple.com/join/30TXS7EW)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:02:10.868Z
+**Categories:**
+
+
+**Name:** [Simma](https://testflight.apple.com/join/deHG8B69)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:02:10.904Z
+**Categories:**
+
+
+**Name:** [Simmer: Cooking for Couples](https://testflight.apple.com/join/Or7k1QLU)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:02:10.940Z
+**Categories:**
+
+
+**Name:** [Simple CrossFit WOD tracker](https://testflight.apple.com/join/HzFsNZ3A)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:02:10.976Z
+**Categories:**
+
+
+**Name:** [Simple LLM](https://testflight.apple.com/join/CTeTrDSH)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:02:11.012Z
+**Categories:**
+
+
+**Name:** [Simple Player For VisionOS](https://testflight.apple.com/join/lxythkF5)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:02:11.047Z
+**Categories:**
+
+
+**Name:** [Simple Practice](https://testflight.apple.com/join/pEWVpfVM)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:02:11.082Z
+**Categories:**
+
+
+**Name:** [SimpleMusic Transfer](https://testflight.apple.com/join/SUgkyY4I)
+**Click Count:** 3
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:02:11.118Z
+**Categories:**
+
+
+**Name:** [SingLand App](https://testflight.apple.com/join/TWoFujz4)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:02:11.153Z
+**Categories:**
+
+
+**Name:** [Singa Pro Karaoke](https://testflight.apple.com/join/grs5xfdB)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:02:11.189Z
+**Categories:**
+
+
