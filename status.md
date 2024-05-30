@@ -5021,3 +5021,73 @@
 **Categories:**
 
 
+**Name:** [HiGIA](https://testflight.apple.com/join/rdXtN6in)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:21:08.853Z
+**Categories:**
+
+
+**Name:** [StudySmart](https://testflight.apple.com/join/QMEXv96o)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:21:08.881Z
+**Categories:**
+
+
+**Name:** [ChannelKART HCCB](https://testflight.apple.com/join/y4CiHaPe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:21:08.911Z
+**Categories:**
+
+
+**Name:** [Metale](https://testflight.apple.com/join/S1W66Ebs)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:21:08.940Z
+**Categories:**
+
+
+**Name:** [LADDER Strength Training Plans](https://testflight.apple.com/join/Qzu62kK6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:21:08.968Z
+**Categories:**
+
+
+**Name:** [FileCloud](https://testflight.apple.com/join/gg6OW6K2)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:21:08.997Z
+**Categories:**
+
+
+**Name:** [Quick Resto](https://testflight.apple.com/join/wmQlfZbz)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:21:09.025Z
+**Categories:**
+
+
+**Name:** [GoFynd - Fashion Shopping App](https://testflight.apple.com/join/41VGBwRl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:21:09.053Z
+**Categories:**
+
+
+**Name:** [iTV Shows](https://testflight.apple.com/join/4XNn7vvl)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:21:09.082Z
+**Categories:**
+
+
+**Name:** [Block Blast！](https://testflight.apple.com/join/3Lq0cEQg)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T12:21:09.110Z
+**Categories:**
+
+
