@@ -10792,3 +10792,73 @@
 **Categories:**
 
 
+**Name:** [Money Fox](https://testflight.apple.com/join/3RO75JDs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:29:08.834Z
+**Categories:**
+
+
+**Name:** [Huddle - Get together](https://testflight.apple.com/join/FRg2IPXf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:29:08.871Z
+**Categories:**
+
+
+**Name:** [NostalgiX](https://testflight.apple.com/join/XC4ho7Iv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:29:08.907Z
+**Categories:**
+
+
+**Name:** [NFTTrack - new screen widgets](https://testflight.apple.com/join/XPP3geMf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:29:08.943Z
+**Categories:**
+
+
+**Name:** [100ms](https://testflight.apple.com/join/dhUSE7N8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:29:08.979Z
+**Categories:**
+
+
+**Name:** [UP Board Lens](https://testflight.apple.com/join/ZZsalAXV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:29:09.014Z
+**Categories:**
+
+
+**Name:** [I-CRM](https://testflight.apple.com/join/jYKfR9hO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:29:09.051Z
+**Categories:**
+
+
+**Name:** [Date-Buddy](https://testflight.apple.com/join/l5vU6FCI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:29:09.088Z
+**Categories:**
+
+
+**Name:** [Dynasty League Baseball](https://testflight.apple.com/join/GMIldzPW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:29:09.125Z
+**Categories:**
+
+
+**Name:** [SmashinGas](https://testflight.apple.com/join/X9aBP0Iq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:29:09.167Z
+**Categories:**
+
+
