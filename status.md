@@ -12752,3 +12752,73 @@
 **Categories:**
 
 
+**Name:** [XTS Trader](https://testflight.apple.com/join/rQ3HvURv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:57:08.454Z
+**Categories:**
+
+
+**Name:** [Burn Game](https://testflight.apple.com/join/ZQIcFmJ7)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:57:08.482Z
+**Categories:**
+
+
+**Name:** [Vo Lam Ngay Xua](https://testflight.apple.com/join/woEMo8c9)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:57:08.510Z
+**Categories:**
+
+
+**Name:** [GeoDrops](https://testflight.apple.com/join/tzFVFfgD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:57:08.538Z
+**Categories:**
+
+
+**Name:** [TRT Dinle: Müzik & Sesli Kitap](https://testflight.apple.com/join/KiuBvSp2)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:57:08.567Z
+**Categories:**
+
+
+**Name:** [Bous Echanj](https://testflight.apple.com/join/YWLf2Wgm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:57:08.594Z
+**Categories:**
+
+
+**Name:** [SANDS Movie](https://testflight.apple.com/join/3nfJLyC1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:57:08.622Z
+**Categories:**
+
+
+**Name:** [Rollo - Print Labels & Ship](https://testflight.apple.com/join/Gi2OlhLL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:57:08.651Z
+**Categories:**
+
+
+**Name:** [Tavangary](https://testflight.apple.com/join/yzV9SSr9)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:57:08.678Z
+**Categories:**
+
+
+**Name:** [Sworkit Fitness & Workout App](https://testflight.apple.com/join/zbpaDZqh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:57:08.705Z
+**Categories:**
+
+
