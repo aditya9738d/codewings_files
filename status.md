@@ -15311,3 +15311,73 @@
 **Categories:**
 
 
+**Name:** [NOS TV](https://testflight.apple.com/join/UgIz3p0R)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:52:10.613Z
+**Categories:**
+
+
+**Name:** [Safa Wallet](https://testflight.apple.com/join/BCfKR1m6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:52:10.641Z
+**Categories:**
+
+
+**Name:** [Digiteam](https://testflight.apple.com/join/Ra10vu6M)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:52:10.670Z
+**Categories:**
+
+
+**Name:** [GoLingo!](https://testflight.apple.com/join/LwM7iOqi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:52:10.728Z
+**Categories:**
+
+
+**Name:** [TP-Link Deco](https://testflight.apple.com/join/U5p3ccdw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:52:10.757Z
+**Categories:**
+
+
+**Name:** [Info HR App](https://testflight.apple.com/join/vF1UKGOT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:52:10.786Z
+**Categories:**
+
+
+**Name:** [Heavys - Stage](https://testflight.apple.com/join/2H7O9nFt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:52:10.814Z
+**Categories:**
+
+
+**Name:** [Podz: Family & Group Organizer](https://testflight.apple.com/join/FN4DdBCI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:52:10.843Z
+**Categories:**
+
+
+**Name:** [Nutstore](https://testflight.apple.com/join/ADY4hFVz)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T14:52:10.872Z
+**Categories:**
+
+
+**Name:** [Tabletop Battles](https://testflight.apple.com/join/XWOfQyll)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:52:10.900Z
+**Categories:**
+
+
