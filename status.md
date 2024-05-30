@@ -1799,3 +1799,53 @@
 **Beta Available:** full
 **Last Checked:** 2024-05-30T11:33:10.740Z
 
+**Name:** [CCClubs](https://testflight.apple.com/join/pLoQlfvn)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:34:10.192Z
+
+**Name:** [MLBB beta](https://testflight.apple.com/join/yYjKTTlT)
+**Click Count:** 334
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:34:10.192Z
+
+**Name:** [Planet Peanut - Make Math Fun](https://testflight.apple.com/join/8Vt8hLNo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:34:10.192Z
+
+**Name:** [Grow My Dragon](https://testflight.apple.com/join/loITCiZW)
+**Click Count:** 4
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:34:10.192Z
+
+**Name:** [StepVillapp](https://testflight.apple.com/join/oiTSmhCc)
+**Click Count:** 3
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:34:10.192Z
+
+**Name:** [Go2Ten](https://testflight.apple.com/join/T0rvjj1j)
+**Click Count:** 16
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:34:10.192Z
+
+**Name:** [Steam Mobile](https://testflight.apple.com/join/8BOPXsGz)
+**Click Count:** 57
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:34:10.192Z
+
+**Name:** [Crittarium](https://testflight.apple.com/join/NXwVzIZo)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:34:10.192Z
+
+**Name:** [KBINOS](https://testflight.apple.com/join/1MnmGGx4)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:34:10.192Z
+
+**Name:** [Mebot](https://testflight.apple.com/join/uNYLvN6Z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:34:10.192Z
+
