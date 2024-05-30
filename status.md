@@ -5651,3 +5651,73 @@
 **Categories:**
 
 
+**Name:** [iPOS Inventory V2(DEV-STAG)](https://testflight.apple.com/join/wMRUOvJE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:30:47.077Z
+**Categories:**
+
+
+**Name:** [TwoNav: Maps Routes](https://testflight.apple.com/join/d0uLPpsj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:30:47.106Z
+**Categories:**
+
+
+**Name:** [ATPRulesBook](https://testflight.apple.com/join/qFzXoEbk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:30:47.133Z
+**Categories:**
+
+
+**Name:** [In Spirit and Truth](https://testflight.apple.com/join/VVulCkvp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:30:47.160Z
+**Categories:**
+
+
+**Name:** [Weewx Weather](https://testflight.apple.com/join/6cDf6InF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:30:47.189Z
+**Categories:**
+
+
+**Name:** [FeatsClub](https://testflight.apple.com/join/z9hBqVML)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:30:47.217Z
+**Categories:**
+
+
+**Name:** [Payt](https://testflight.apple.com/join/RA4jRA8J)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:30:47.245Z
+**Categories:**
+
+
+**Name:** [Binance: Buy Bitcoin & Crypto](https://testflight.apple.com/join/vUT5Rdfz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:30:47.273Z
+**Categories:**
+
+
+**Name:** [Next Drop: Sneaker Releases](https://testflight.apple.com/join/Xa8STRkN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:30:47.300Z
+**Categories:**
+
+
+**Name:** [Campus App](https://testflight.apple.com/join/ERuYPDKA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:30:47.329Z
+**Categories:**
+
+
