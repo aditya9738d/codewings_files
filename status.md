@@ -7556,3 +7556,77 @@
 **Categories:**
 - Browser
 
+**Name:** [winston for Reddit](https://testflight.apple.com/join/3UF8bAUN)
+**Click Count:** 6
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:41:09.806Z
+**Categories:**
+
+
+**Name:** [WhatsApp Business](https://testflight.apple.com/join/oscYikr0)
+**Click Count:** 498
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:41:09.842Z
+**Categories:**
+- Business
+- Chat
+
+**Name:** [Snapchat](https://testflight.apple.com/join/p7hGbZUR)
+**Click Count:** 550
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:41:09.878Z
+**Categories:**
+- Chat
+- Entertainment
+- Photography
+- Social Networking
+
+**Name:** [Plex: Watch Live TV and Movies](https://testflight.apple.com/join/MY6JTzix)
+**Click Count:** 7
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:41:09.914Z
+**Categories:**
+
+
+**Name:** [CCClubs](https://testflight.apple.com/join/pLoQlfvn)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:41:09.950Z
+**Categories:**
+
+
+**Name:** [MLBB beta](https://testflight.apple.com/join/yYjKTTlT)
+**Click Count:** 334
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:41:09.986Z
+**Categories:**
+- Games
+
+**Name:** [Planet Peanut - Make Math Fun](https://testflight.apple.com/join/8Vt8hLNo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:41:10.022Z
+**Categories:**
+
+
+**Name:** [Grow My Dragon](https://testflight.apple.com/join/loITCiZW)
+**Click Count:** 4
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:41:10.058Z
+**Categories:**
+
+
+**Name:** [StepVillapp](https://testflight.apple.com/join/oiTSmhCc)
+**Click Count:** 3
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:41:10.094Z
+**Categories:**
+
+
+**Name:** [Go2Ten](https://testflight.apple.com/join/T0rvjj1j)
+**Click Count:** 16
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:41:10.129Z
+**Categories:**
+
+
