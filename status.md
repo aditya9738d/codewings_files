@@ -628,3 +628,73 @@
 **Categories:**
 
 
+**Name:** [Scoreboard Reader](https://testflight.apple.com/join/OCPyEeJq)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:59:07.505Z
+**Categories:**
+
+
+**Name:** [ScreenVision 3D](https://testflight.apple.com/join/ZBeNSKJX)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:59:07.533Z
+**Categories:**
+
+
+**Name:** [Scribe - Charting Made Easy](https://testflight.apple.com/join/b4fFcI7v)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:59:07.561Z
+**Categories:**
+
+
+**Name:** [Scripture.LY](https://testflight.apple.com/join/thZtAcMd)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:59:07.590Z
+**Categories:**
+
+
+**Name:** [Searchitron](https://testflight.apple.com/join/FklZj33m)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:59:07.618Z
+**Categories:**
+
+
+**Name:** [Sense — AI Chat](https://testflight.apple.com/join/R72eJyIm)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:59:07.646Z
+**Categories:**
+
+
+**Name:** [SenseAR Effects](https://testflight.apple.com/join/psgZybKI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:59:07.674Z
+**Categories:**
+
+
+**Name:** [Sensoria SKB](https://testflight.apple.com/join/htdxxQS8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:59:07.703Z
+**Categories:**
+
+
+**Name:** [Sentz Staging](https://testflight.apple.com/join/nfjbcrcE)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:59:07.730Z
+**Categories:**
+
+
+**Name:** [Senzei 1.1](https://testflight.apple.com/join/4QmxqYCB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:59:07.758Z
+**Categories:**
+
+
