@@ -30844,3 +30844,73 @@
 **Categories:**
 
 
+**Name:** [Lysten: Podcast Player](https://testflight.apple.com/join/7VS128LY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:26:15.182Z
+**Categories:**
+
+
+**Name:** [iPhoneMOBPOS](https://testflight.apple.com/join/HhNUDjSr)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:26:15.210Z
+**Categories:**
+
+
+**Name:** [Ponder: AI-powered Meditation](https://testflight.apple.com/join/tx2UzBdu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:26:15.238Z
+**Categories:**
+
+
+**Name:** [August International](https://testflight.apple.com/join/WslmLnd2)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T18:26:15.265Z
+**Categories:**
+
+
+**Name:** [AdonisBots](https://testflight.apple.com/join/0w5l6DOd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:26:15.293Z
+**Categories:**
+
+
+**Name:** [StrideTech GO](https://testflight.apple.com/join/M2imAzCP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:26:15.321Z
+**Categories:**
+
+
+**Name:** [OSE Meteri](https://testflight.apple.com/join/dgRyOaoo)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:26:15.348Z
+**Categories:**
+
+
+**Name:** [Vancy](https://testflight.apple.com/join/SQI4ipOm)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:26:15.375Z
+**Categories:**
+
+
+**Name:** [MySANY](https://testflight.apple.com/join/DN5sYoQ1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:26:15.403Z
+**Categories:**
+
+
+**Name:** [MetaLife.Social](https://testflight.apple.com/join/luqokCUq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:26:15.430Z
+**Categories:**
+
+
