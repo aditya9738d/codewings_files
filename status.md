@@ -9921,3 +9921,73 @@
 **Categories:**
 
 
+**Name:** [Encointer Wallet](https://testflight.apple.com/join/LFuSsdwT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:33:10.116Z
+**Categories:**
+
+
+**Name:** [ECOVACS HOME](https://testflight.apple.com/join/gVXPtPlb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:33:10.152Z
+**Categories:**
+
+
+**Name:** [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:33:10.187Z
+**Categories:**
+
+
+**Name:** [Temu: Shop Like a Billionaire](https://testflight.apple.com/join/x6U6zcbR)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T13:33:10.227Z
+**Categories:**
+
+
+**Name:** [Wagon](https://testflight.apple.com/join/M2xoL0bC)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:33:10.262Z
+**Categories:**
+
+
+**Name:** [glimpse - photo dumps](https://testflight.apple.com/join/L4owCuqX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:33:10.299Z
+**Categories:**
+
+
+**Name:** [VIT SelfCare](https://testflight.apple.com/join/XNCFbDIf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:33:10.335Z
+**Categories:**
+
+
+**Name:** [DM Electric Bike](https://testflight.apple.com/join/CBCs1rMu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:33:10.370Z
+**Categories:**
+
+
+**Name:** [Stick War: Saga](https://testflight.apple.com/join/eUx3WxVj)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:33:10.405Z
+**Categories:**
+
+
+**Name:** [Matrix go](https://testflight.apple.com/join/BX8EObic)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:33:10.440Z
+**Categories:**
+
+
