@@ -3551,3 +3551,73 @@
 **Categories:**
 
 
+**Name:** [MY ASSET - MIRAE ASSET(VN)](https://testflight.apple.com/join/1cImTeaT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:00:55.920Z
+**Categories:**
+
+
+**Name:** [Dubbing AI Voice Changer](https://testflight.apple.com/join/LX9ho2sb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:00:55.957Z
+**Categories:**
+
+
+**Name:** [LeesSimpel](https://testflight.apple.com/join/Y4wmUcGd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:00:55.994Z
+**Categories:**
+
+
+**Name:** [WordFlower](https://testflight.apple.com/join/eF9Rl4sc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:00:56.030Z
+**Categories:**
+
+
+**Name:** [CalcMate - notes calculator](https://testflight.apple.com/join/0TqHQ8Kj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:00:56.068Z
+**Categories:**
+
+
+**Name:** [LinkTrade Pro](https://testflight.apple.com/join/43hD6Qlc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:00:56.104Z
+**Categories:**
+
+
+**Name:** [Sveriges Radio Play](https://testflight.apple.com/join/JdU1hU1C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:00:56.140Z
+**Categories:**
+
+
+**Name:** [Salesforce](https://testflight.apple.com/join/PdNDqlHt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:00:56.176Z
+**Categories:**
+
+
+**Name:** [Chronomizer: Custom Watchfaces](https://testflight.apple.com/join/m5xuQxCN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:00:56.225Z
+**Categories:**
+
+
+**Name:** [BBVA Spain | Online banking](https://testflight.apple.com/join/Fjj4M9xp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:00:56.261Z
+**Categories:**
+
+
