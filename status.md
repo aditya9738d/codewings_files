@@ -6068,3 +6068,73 @@
 **Categories:**
 
 
+**Name:** [Chipotle UAT](https://testflight.apple.com/join/QmohviU2)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:20:23.481Z
+**Categories:**
+
+
+**Name:** [TOZO Wear](https://testflight.apple.com/join/z0fAkLp4)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:20:23.508Z
+**Categories:**
+
+
+**Name:** [Vulcanova Dzienniczek](https://testflight.apple.com/join/fGMjqr58)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:20:23.536Z
+**Categories:**
+
+
+**Name:** [Mlem for Lemmy](https://testflight.apple.com/join/MelFP11Y)
+**Click Count:** 24
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:20:23.563Z
+**Categories:**
+
+
+**Name:** [Strava: Run, Bike, Hike](https://testflight.apple.com/join/j1cjOW6Z)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:20:23.591Z
+**Categories:**
+
+
+**Name:** [Sumo Shapes](https://testflight.apple.com/join/urA1vYR8)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:20:23.619Z
+**Categories:**
+
+
+**Name:** [Pathao Talk](https://testflight.apple.com/join/gSrptqOf)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:20:23.648Z
+**Categories:**
+
+
+**Name:** [Channel - Staging](https://testflight.apple.com/join/DDIffbcT)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:20:23.675Z
+**Categories:**
+
+
+**Name:** [Qobuz Club](https://testflight.apple.com/join/bufxnrS4)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:20:23.702Z
+**Categories:**
+
+
+**Name:** [Nostur - Nostr client](https://testflight.apple.com/join/TyrRNCXA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:20:23.731Z
+**Categories:**
+
+
