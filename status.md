@@ -34204,3 +34204,73 @@
 **Categories:**
 
 
+**Name:** [Capshort: Relax, Learn & Earn](https://testflight.apple.com/join/mLd5IPlo)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:15:23.330Z
+**Categories:**
+
+
+**Name:** [CaptChores](https://testflight.apple.com/join/zpCkANIG)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:15:23.358Z
+**Categories:**
+
+
+**Name:** [Car Football ball](https://testflight.apple.com/join/rShFqmYq)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T19:15:23.388Z
+**Categories:**
+
+
+**Name:** [CarOS · Smart Dashboard](https://testflight.apple.com/join/Gc3iTcVY)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:15:23.416Z
+**Categories:**
+
+
+**Name:** [CardPointers for Credit Cards](https://testflight.apple.com/join/0cYRGKtA)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:15:23.444Z
+**Categories:**
+
+
+**Name:** [Cards Ahoy!](https://testflight.apple.com/join/oi94nW9B)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:15:23.473Z
+**Categories:**
+
+
+**Name:** [CareCam Pro](https://testflight.apple.com/join/WbxeslCS)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:15:23.502Z
+**Categories:**
+
+
+**Name:** [Carista OBD2](https://testflight.apple.com/join/gIveBHOs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:15:23.530Z
+**Categories:**
+
+
+**Name:** [Carly](https://testflight.apple.com/join/hdEF0fvr)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:15:23.558Z
+**Categories:**
+
+
+**Name:** [Carros Baixos Tunados](https://testflight.apple.com/join/MWQ90QBt)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:15:23.587Z
+**Categories:**
+
+
