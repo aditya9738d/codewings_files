@@ -13631,3 +13631,73 @@
 **Categories:**
 
 
+**Name:** [SXD247](https://testflight.apple.com/join/SUCSHvxM)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:27:10.331Z
+**Categories:**
+
+
+**Name:** [OSSOM APP](https://testflight.apple.com/join/cgY69ZKG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:27:10.359Z
+**Categories:**
+
+
+**Name:** [VLNB idle RPG](https://testflight.apple.com/join/P5J1TPPN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:27:10.388Z
+**Categories:**
+
+
+**Name:** [Rattlegram](https://testflight.apple.com/join/VQKNeMkC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:27:10.415Z
+**Categories:**
+
+
+**Name:** [VATRadar](https://testflight.apple.com/join/Xq5kz7Fk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:27:10.444Z
+**Categories:**
+
+
+**Name:** [Doctor G](https://testflight.apple.com/join/Hw3QCEX6)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:27:10.473Z
+**Categories:**
+
+
+**Name:** [Cyber - Chat with Everyone](https://testflight.apple.com/join/UDNPwhUl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:27:10.501Z
+**Categories:**
+
+
+**Name:** [Savi Finance](https://testflight.apple.com/join/rEoRm62h)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:27:10.529Z
+**Categories:**
+
+
+**Name:** [FanSee Social](https://testflight.apple.com/join/du6pg1x5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:27:10.557Z
+**Categories:**
+
+
+**Name:** [Baseus](https://testflight.apple.com/join/Xir761ph)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:27:10.586Z
+**Categories:**
+
+
