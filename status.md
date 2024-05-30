@@ -24894,3 +24894,73 @@
 **Categories:**
 
 
+**Name:** [Sejladsudsigt](https://testflight.apple.com/join/hHvhYQdR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:59:09.197Z
+**Categories:**
+
+
+**Name:** [Go Map!!](https://testflight.apple.com/join/T96F9wYq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:59:09.224Z
+**Categories:**
+
+
+**Name:** [Screen Mirror and Control](https://testflight.apple.com/join/zlnbGVKx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:59:09.253Z
+**Categories:**
+
+
+**Name:** [SRL POC](https://testflight.apple.com/join/vD0ck6ax)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T16:59:09.281Z
+**Categories:**
+
+
+**Name:** [Dazzle Me App](https://testflight.apple.com/join/cL75yPMn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:59:09.309Z
+**Categories:**
+
+
+**Name:** [DI.FM - Electronic Music Radio](https://testflight.apple.com/join/W4KYpH2f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:59:09.337Z
+**Categories:**
+
+
+**Name:** [Photo Club Hub](https://testflight.apple.com/join/RRSEBzdK)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:59:09.365Z
+**Categories:**
+
+
+**Name:** [Task Flow beta](https://testflight.apple.com/join/JyqxBPFf)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:59:09.394Z
+**Categories:**
+
+
+**Name:** [GracoTrack](https://testflight.apple.com/join/of6mLC2B)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:59:09.422Z
+**Categories:**
+
+
+**Name:** [Spider X](https://testflight.apple.com/join/VznC2tAe)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:59:09.450Z
+**Categories:**
+
+
