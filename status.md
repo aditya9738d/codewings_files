@@ -3061,3 +3061,73 @@
 **Categories:**
 
 
+**Name:** [KMON: World of Kogaea](https://testflight.apple.com/join/Nx5zl25z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:09.423Z
+**Categories:**
+
+
+**Name:** [Asurascans - Hot Manga Reader](https://testflight.apple.com/join/VdR4sNPA)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:09.451Z
+**Categories:**
+
+
+**Name:** [The Weekendest: NYC Subway Map](https://testflight.apple.com/join/QMF8mCtV)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:53:09.481Z
+**Categories:**
+
+
+**Name:** [GP Calendar - F1](https://testflight.apple.com/join/aKCOxRQU)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:09.509Z
+**Categories:**
+
+
+**Name:** [wthr.cloud](https://testflight.apple.com/join/xQvgZlZ9)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:53:09.538Z
+**Categories:**
+
+
+**Name:** [Salmonia3+](https://testflight.apple.com/join/JO6VICoZ)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:53:09.565Z
+**Categories:**
+
+
+**Name:** [LemonSqueezy - Unofficial](https://testflight.apple.com/join/yRCtKeaR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:09.594Z
+**Categories:**
+
+
+**Name:** [Pupgame](https://testflight.apple.com/join/IM3kTRUY)
+**Click Count:** 17
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:09.622Z
+**Categories:**
+
+
+**Name:** [Bitflex - Buy & Trade Crypto](https://testflight.apple.com/join/B086wN2p)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:53:09.650Z
+**Categories:**
+
+
+**Name:** [Swing Trials](https://testflight.apple.com/join/BgReQFnF)
+**Click Count:** 25
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:53:09.678Z
+**Categories:**
+
+
