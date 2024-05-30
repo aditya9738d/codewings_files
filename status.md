@@ -7916,3 +7916,73 @@
 **Categories:**
 
 
+**Name:** [eSchoool](https://testflight.apple.com/join/LopTn7zc)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:46:12.136Z
+**Categories:**
+
+
+**Name:** [Apollo](https://testflight.apple.com/join/5oPNS4nn)
+**Click Count:** 12
+**Beta Available:** error
+**Last Checked:** 2024-05-30T22:46:12.173Z
+**Categories:**
+
+
+**Name:** [Microsoft 365 (Office)](https://testflight.apple.com/join/eHAKJBtM)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:46:12.210Z
+**Categories:**
+
+
+**Name:** [Giftr - GIF Maker](https://testflight.apple.com/join/eyZbAhlV)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:46:12.246Z
+**Categories:**
+
+
+**Name:** [DR Expense Tracker](https://testflight.apple.com/join/pqWTpKCY)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:46:12.281Z
+**Categories:**
+
+
+**Name:** [Gamery - Game Tracker](https://testflight.apple.com/join/va16ipuj)
+**Click Count:** 29
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:46:12.317Z
+**Categories:**
+- Games
+
+**Name:** [Disney DLP Preview](https://testflight.apple.com/join/b6bWpoHB)
+**Click Count:** 42
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:46:12.353Z
+**Categories:**
+
+
+**Name:** [Hookymia](https://testflight.apple.com/join/Myp9NrwZ)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:46:12.389Z
+**Categories:**
+
+
+**Name:** [Life360: Find Friends & Family](https://testflight.apple.com/join/syX6IOJF)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:46:12.425Z
+**Categories:**
+
+
+**Name:** [Slack](https://testflight.apple.com/join/QE3kgqJ2)
+**Click Count:** 14
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:46:12.461Z
+**Categories:**
+
+
