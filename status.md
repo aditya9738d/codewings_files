@@ -8311,3 +8311,73 @@
 **Categories:**
 
 
+**Name:** [Blue Jay - Scan & Chat](https://testflight.apple.com/join/hJATDq6C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:10:26.520Z
+**Categories:**
+
+
+**Name:** [Qudini by Verint Store Team](https://testflight.apple.com/join/Kz8v8Qyg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:10:26.556Z
+**Categories:**
+
+
+**Name:** [Scanco Manufacturing 100](https://testflight.apple.com/join/QwrUI2qO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:10:26.594Z
+**Categories:**
+
+
+**Name:** [Storm: Deine Gaming-News](https://testflight.apple.com/join/cSXzy9My)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:10:26.630Z
+**Categories:**
+
+
+**Name:** [ZipperApplication](https://testflight.apple.com/join/W0uAfcw7)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:10:26.668Z
+**Categories:**
+
+
+**Name:** [ISTextinOlmDemo](https://testflight.apple.com/join/sRJlCA8K)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:10:26.704Z
+**Categories:**
+
+
+**Name:** [XX-Net VPN](https://testflight.apple.com/join/vDdoaZSJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:10:26.740Z
+**Categories:**
+
+
+**Name:** [Unilode E-ULD](https://testflight.apple.com/join/uU4mZjOa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:10:26.777Z
+**Categories:**
+
+
+**Name:** [Digio Hml](https://testflight.apple.com/join/ptJFDp86)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:10:26.813Z
+**Categories:**
+
+
+**Name:** [tahsaldar](https://testflight.apple.com/join/VQH4yQh0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:10:26.849Z
+**Categories:**
+
+
