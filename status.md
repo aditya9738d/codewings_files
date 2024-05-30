@@ -9851,3 +9851,73 @@
 **Categories:**
 
 
+**Name:** [Evergreen Mobile](https://testflight.apple.com/join/Nh5bypLY)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:32:11.624Z
+**Categories:**
+
+
+**Name:** [PowerLite Pro](https://testflight.apple.com/join/ZSjreOgi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:32:11.659Z
+**Categories:**
+
+
+**Name:** [Meine DLRG](https://testflight.apple.com/join/slKRYjpI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:32:11.694Z
+**Categories:**
+
+
+**Name:** [Dolby Personalization Beta](https://testflight.apple.com/join/7lxusSow)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:32:11.729Z
+**Categories:**
+
+
+**Name:** [GlobalTA Cloud](https://testflight.apple.com/join/7jdsjM2V)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:32:11.764Z
+**Categories:**
+
+
+**Name:** [NEO for Installers](https://testflight.apple.com/join/rTiUh9eI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:32:11.798Z
+**Categories:**
+
+
+**Name:** [Tapped Ai](https://testflight.apple.com/join/TbVZMGhA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:32:11.833Z
+**Categories:**
+
+
+**Name:** [Kagi for Safari](https://testflight.apple.com/join/nx6Gvf4h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:32:11.868Z
+**Categories:**
+
+
+**Name:** [Swords!](https://testflight.apple.com/join/7jREn7Ry)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:32:11.903Z
+**Categories:**
+
+
+**Name:** [LazyBoard - Phrase Keyboard](https://testflight.apple.com/join/yus6zCQ0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:32:11.938Z
+**Categories:**
+
+
