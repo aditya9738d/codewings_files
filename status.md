@@ -28884,3 +28884,73 @@
 **Categories:**
 
 
+**Name:** [RingConn](https://testflight.apple.com/join/vk26Ph2f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:58:12.511Z
+**Categories:**
+
+
+**Name:** [Seasn Stage](https://testflight.apple.com/join/hhlHG6Tc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:58:12.540Z
+**Categories:**
+
+
+**Name:** [VTNB C&T](https://testflight.apple.com/join/jUoU7QLo)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T17:58:12.567Z
+**Categories:**
+
+
+**Name:** [Onewheel Community Edition](https://testflight.apple.com/join/erN13tuH)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:58:12.594Z
+**Categories:**
+
+
+**Name:** [Discover Dairy](https://testflight.apple.com/join/PQMxZgB6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:58:12.622Z
+**Categories:**
+
+
+**Name:** [FRITZ!App Fon](https://testflight.apple.com/join/SGGCxyRp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:58:12.651Z
+**Categories:**
+
+
+**Name:** [Coinplay App](https://testflight.apple.com/join/Gy5HETM5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:58:12.678Z
+**Categories:**
+
+
+**Name:** [Intervals Pro: HIIT Timer](https://testflight.apple.com/join/Nn7iSOzY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:58:12.705Z
+**Categories:**
+
+
+**Name:** [FamOfficial](https://testflight.apple.com/join/nS7IscxG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:58:12.733Z
+**Categories:**
+
+
+**Name:** [VRCInfinity](https://testflight.apple.com/join/PKIlP7Sh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:58:12.761Z
+**Categories:**
+
+
