@@ -49,3 +49,53 @@
 **Beta Available:** full
 **Last Checked:** 2024-05-30T10:58:27.886Z
 
+**Name:** [Hami Video](https://testflight.apple.com/join/1wenTU1f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:59:09.520Z
+
+**Name:** [EVnSteven](https://testflight.apple.com/join/3HurFoSb)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:59:09.520Z
+
+**Name:** [Affinity iOS Beta](https://testflight.apple.com/join/DdFJxPLX)
+**Click Count:** 31
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:59:09.520Z
+
+**Name:** [Dharamik Signal](https://testflight.apple.com/join/BuwazBeq)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:59:09.520Z
+
+**Name:** [Joplin](https://testflight.apple.com/join/p5iLVzrG)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:59:09.520Z
+
+**Name:** [DiaBLE](https://testflight.apple.com/join/H48doU3l)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:59:09.520Z
+
+**Name:** [BROKOL](https://testflight.apple.com/join/YzZEAcjg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:59:09.520Z
+
+**Name:** [Dev6 Greenworks Tools](https://testflight.apple.com/join/alnsHiKu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:59:09.520Z
+
+**Name:** [Quadeye](https://testflight.apple.com/join/hzAFZjci)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:59:09.520Z
+
+**Name:** [Banfield React Native App](https://testflight.apple.com/join/8gfKMC4B)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T10:59:09.520Z
+
