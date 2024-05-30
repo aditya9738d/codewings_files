@@ -36654,3 +36654,73 @@
 **Categories:**
 
 
+**Name:** [HKBU Mobile (UAT)](https://testflight.apple.com/join/pi3Pgrml)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:51:08.326Z
+**Categories:**
+
+
+**Name:** [HOC VIEN SHINOBI](https://testflight.apple.com/join/fUx1y9Y8)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T19:51:08.361Z
+**Categories:**
+
+
+**Name:** [HPTTM Companion App](https://testflight.apple.com/join/dZ5Scx47)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:51:08.397Z
+**Categories:**
+
+
+**Name:** [HSO LENGEND](https://testflight.apple.com/join/wj539bhT)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:51:08.434Z
+**Categories:**
+
+
+**Name:** [HSOPLUS](https://testflight.apple.com/join/pZJbgrBG)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T19:51:08.470Z
+**Categories:**
+
+
+**Name:** [HTV merchant DEV](https://testflight.apple.com/join/rOiWWRF7)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:51:08.506Z
+**Categories:**
+
+
+**Name:** [HYPH](https://testflight.apple.com/join/DaysuSAF)
+**Click Count:** 3
+**Beta Available:** error
+**Last Checked:** 2024-05-30T19:51:08.542Z
+**Categories:**
+
+
+**Name:** [HaHa World](https://testflight.apple.com/join/6DVaTrfQ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:51:08.578Z
+**Categories:**
+
+
+**Name:** [Hako - Credit Card Points](https://testflight.apple.com/join/xzb1KAky)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:51:08.615Z
+**Categories:**
+
+
+**Name:** [Happeo](https://testflight.apple.com/join/2XwvIcJD)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:51:08.650Z
+**Categories:**
+
+
