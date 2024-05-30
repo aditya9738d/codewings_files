@@ -7630,3 +7630,73 @@
 **Categories:**
 
 
+**Name:** [Steam Mobile](https://testflight.apple.com/join/8BOPXsGz)
+**Click Count:** 57
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:42:11.408Z
+**Categories:**
+
+
+**Name:** [Crittarium](https://testflight.apple.com/join/NXwVzIZo)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:42:11.443Z
+**Categories:**
+
+
+**Name:** [KBINOS](https://testflight.apple.com/join/1MnmGGx4)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:42:11.479Z
+**Categories:**
+
+
+**Name:** [Mebot](https://testflight.apple.com/join/uNYLvN6Z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:42:11.515Z
+**Categories:**
+
+
+**Name:** [EoHoursLX](https://testflight.apple.com/join/4aN06VwY)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:42:11.552Z
+**Categories:**
+
+
+**Name:** [Let’s Roll - Roller Skating](https://testflight.apple.com/join/hWPfpxw5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:42:11.588Z
+**Categories:**
+
+
+**Name:** [Mx Rei Do Grau V2](https://testflight.apple.com/join/P7ugbi0C)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:42:11.624Z
+**Categories:**
+
+
+**Name:** [Bezel • Screen Broadcasting](https://testflight.apple.com/join/ai2zeoM4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:42:11.661Z
+**Categories:**
+
+
+**Name:** [CharMap](https://testflight.apple.com/join/br85GVrs)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:42:11.697Z
+**Categories:**
+
+
+**Name:** [Sticky Notes App + Note Widget](https://testflight.apple.com/join/Y9EO4f8w)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:42:11.734Z
+**Categories:**
+
+
