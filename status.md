@@ -31404,3 +31404,73 @@
 **Categories:**
 
 
+**Name:** [Days Since: Quit Habit Tracker](https://testflight.apple.com/join/wcSVTXdt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:34:10.249Z
+**Categories:**
+
+
+**Name:** [Wasl](https://testflight.apple.com/join/UGZO93ve)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:34:10.278Z
+**Categories:**
+
+
+**Name:** [Trading 212](https://testflight.apple.com/join/xs3VuheV)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:34:10.308Z
+**Categories:**
+
+
+**Name:** [D3DSocial](https://testflight.apple.com/join/qte7cYNn)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:34:10.337Z
+**Categories:**
+
+
+**Name:** [Proton VPN: Fast & Secure](https://testflight.apple.com/join/3yl2MSbw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:34:10.365Z
+**Categories:**
+
+
+**Name:** [Medisafe Medication Management](https://testflight.apple.com/join/4RXMF7OU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:34:10.396Z
+**Categories:**
+
+
+**Name:** [Sicoob](https://testflight.apple.com/join/qxOTQRZC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:34:10.425Z
+**Categories:**
+
+
+**Name:** [SmartPost - Post Scheduler](https://testflight.apple.com/join/a0zXMXbA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:34:10.455Z
+**Categories:**
+
+
+**Name:** [Beem: Video and Audio calls](https://testflight.apple.com/join/EdedfTyW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:34:10.484Z
+**Categories:**
+
+
+**Name:** [Boulder Logbook](https://testflight.apple.com/join/mfbctDHE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:34:10.513Z
+**Categories:**
+
+
