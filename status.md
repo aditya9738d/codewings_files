@@ -2588,3 +2588,73 @@
 **Categories:**
 
 
+**Name:** [VegasMate Travel Guide](https://testflight.apple.com/join/vaIUW6da)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:30:41.180Z
+**Categories:**
+
+
+**Name:** [Vegpal Dev](https://testflight.apple.com/join/FC214lhx)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:30:41.215Z
+**Categories:**
+
+
+**Name:** [Vi Movies & TV: OTT, Live News](https://testflight.apple.com/join/AHUDbuH0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:30:41.250Z
+**Categories:**
+
+
+**Name:** [Viascan Demo](https://testflight.apple.com/join/kHzL0ald)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:30:41.285Z
+**Categories:**
+
+
+**Name:** [VibeValley](https://testflight.apple.com/join/Ezt6hrxy)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:30:41.320Z
+**Categories:**
+
+
+**Name:** [ViiTALK](https://testflight.apple.com/join/SRSxjkFr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:30:41.355Z
+**Categories:**
+
+
+**Name:** [VilaNet](https://testflight.apple.com/join/2mcx1R3I)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:30:41.390Z
+**Categories:**
+
+
+**Name:** [Village – Curated Content](https://testflight.apple.com/join/kh7ql0KQ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:30:41.425Z
+**Categories:**
+
+
+**Name:** [VinFast Club UAT](https://testflight.apple.com/join/UODsux7p)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:30:41.460Z
+**Categories:**
+
+
+**Name:** [Viral Risk Calculator](https://testflight.apple.com/join/JaMC14uZ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:30:41.495Z
+**Categories:**
+
+
