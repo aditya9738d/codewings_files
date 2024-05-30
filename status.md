@@ -12231,3 +12231,73 @@
 **Categories:**
 
 
+**Name:** [Air Manager](https://testflight.apple.com/join/f81FJgKN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:07:11.095Z
+**Categories:**
+
+
+**Name:** [eM Client](https://testflight.apple.com/join/nzXZuIQs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:07:11.132Z
+**Categories:**
+
+
+**Name:** [Memento: Modern Reminders](https://testflight.apple.com/join/aRvubPov)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:07:11.170Z
+**Categories:**
+
+
+**Name:** [monpay](https://testflight.apple.com/join/kCeARWvI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:07:11.206Z
+**Categories:**
+
+
+**Name:** [repeatup-STG](https://testflight.apple.com/join/2JFHqcf0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:07:11.242Z
+**Categories:**
+
+
+**Name:** [Spiral Engineering](https://testflight.apple.com/join/iQt3or0z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:07:11.279Z
+**Categories:**
+
+
+**Name:** [Hanami - Manga Reader](https://testflight.apple.com/join/VUPzZpkc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:07:11.315Z
+**Categories:**
+
+
+**Name:** [The(Any)Thing](https://testflight.apple.com/join/PCdOj1hw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:07:11.351Z
+**Categories:**
+
+
+**Name:** [Windscribe VPN](https://testflight.apple.com/join/oKib5JOq)
+**Click Count:** 5
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:07:11.388Z
+**Categories:**
+
+
+**Name:** [ClasseViva Famiglia](https://testflight.apple.com/join/2JqucKuC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:07:11.425Z
+**Categories:**
+
+
