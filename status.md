@@ -599,3 +599,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:09:08.458Z
 
+**Name:** [VPBank Jarvis SalesApp](https://testflight.apple.com/join/nlZsButl)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:10:24.781Z
+
+**Name:** [KaedenAteMySandwich](https://testflight.apple.com/join/BXq4Uq9l)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:10:24.781Z
+
+**Name:** [Microsoft Designer](https://testflight.apple.com/join/KsuaylTZ)
+**Click Count:** 22
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:10:24.781Z
+
+**Name:** [Bike Hills](https://testflight.apple.com/join/rV7NDoNp)
+**Click Count:** 17
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:10:24.781Z
+
+**Name:** [Zapit Food Delivery](https://testflight.apple.com/join/dsR5F5FV)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:10:24.781Z
+
+**Name:** [Gumtree: local classified ads](https://testflight.apple.com/join/bXLgmUlj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:10:24.781Z
+
+**Name:** [Blast Royale](https://testflight.apple.com/join/oumKXOTP)
+**Click Count:** 22
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:10:24.781Z
+
+**Name:** [Olya Teste](https://testflight.apple.com/join/QLmmgWOR)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:10:24.781Z
+
+**Name:** [Mobile2](https://testflight.apple.com/join/3JRkdcDB)
+**Click Count:** 14
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:10:24.781Z
+
+**Name:** [EHW+](https://testflight.apple.com/join/JAOTh0ap)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:10:24.781Z
+
