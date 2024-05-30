@@ -7203,3 +7203,73 @@
 **Categories:**
 
 
+**Name:** [iReal Pro](https://testflight.apple.com/join/pNgXdvK7)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:36:12.812Z
+**Categories:**
+
+
+**Name:** [Palphone](https://testflight.apple.com/join/jVw2duqr)
+**Click Count:** 14
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:36:12.843Z
+**Categories:**
+
+
+**Name:** [WEB.DE Mail & Cloud](https://testflight.apple.com/join/Do48rouk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:36:12.872Z
+**Categories:**
+
+
+**Name:** [Mira Fertility & Cycle Tracker](https://testflight.apple.com/join/jVUPS68D)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:36:12.900Z
+**Categories:**
+
+
+**Name:** [beboConnect](https://testflight.apple.com/join/wdeQmls3)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:36:12.930Z
+**Categories:**
+
+
+**Name:** [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:36:12.958Z
+**Categories:**
+
+
+**Name:** [itsme](https://testflight.apple.com/join/ntZD6f9a)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:36:12.988Z
+**Categories:**
+
+
+**Name:** [Voyager for Lemmy](https://testflight.apple.com/join/nWLw1MBM)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:36:13.016Z
+**Categories:**
+
+
+**Name:** [VNPAY-CA](https://testflight.apple.com/join/o6j4lZii)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:36:13.045Z
+**Categories:**
+
+
+**Name:** [PDF Viewer - Annotation Expert](https://testflight.apple.com/join/6IMUtZ8n)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:36:13.077Z
+**Categories:**
+
+
