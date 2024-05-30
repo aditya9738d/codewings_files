@@ -248,3 +248,55 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T10:43:45.594Z
 
+### App Status
+
+**Name:** [Payconiq by Bancontact](https://testflight.apple.com/join/Mpza7scj)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:54:52.355Z
+
+**Name:** [Delta Digital](https://testflight.apple.com/join/AQ87Xg1x)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:54:52.365Z
+
+**Name:** [SCA UAT](https://testflight.apple.com/join/a2W8tS4N)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:54:52.365Z
+
+**Name:** [CPM VN](https://testflight.apple.com/join/Nu0VgBBq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:54:52.365Z
+
+**Name:** [Cartender](https://testflight.apple.com/join/cTm5n7yt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:54:52.365Z
+
+**Name:** [phyphox](https://testflight.apple.com/join/r05iODWL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:54:52.365Z
+
+**Name:** [Spark GPS](https://testflight.apple.com/join/EXLdmikh)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:54:52.365Z
+
+**Name:** [JXMB](https://testflight.apple.com/join/Ew3CJN8P)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:54:52.365Z
+
+**Name:** [Hunky City](https://testflight.apple.com/join/FYQR89fn)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:54:52.365Z
+
+**Name:** [DropZap World](https://testflight.apple.com/join/CdEXgjst)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:54:52.365Z
+
