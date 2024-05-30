@@ -7131,3 +7131,75 @@
 **Categories:**
 
 
+**Name:** [YabiVision](https://testflight.apple.com/join/AtFppKIy)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:35:15.986Z
+**Categories:**
+
+
+**Name:** [Zenmoney: expense tracker](https://testflight.apple.com/join/UNbjeBue)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:35:16.022Z
+**Categories:**
+
+
+**Name:** [SkyDemon](https://testflight.apple.com/join/hz1uLaJX)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:35:16.057Z
+**Categories:**
+
+
+**Name:** [AstroDX-Beta (Group B)](https://testflight.apple.com/join/ocj3yptn)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:35:16.094Z
+**Categories:**
+
+
+**Name:** [Ulysses: Writing App](https://testflight.apple.com/join/r7ehG0dQ)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:35:16.131Z
+**Categories:**
+
+
+**Name:** [Idle Iktah](https://testflight.apple.com/join/Xpg1aGvf)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:35:16.166Z
+**Categories:**
+
+
+**Name:** [Picsart AI Photo Video Editor](https://testflight.apple.com/join/d4gDz5s7)
+**Click Count:** 600
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:35:16.202Z
+**Categories:**
+- Art & Design
+- Photography
+- Utility
+
+**Name:** [Composer: AI Trading](https://testflight.apple.com/join/nnQC498c)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:35:16.237Z
+**Categories:**
+
+
+**Name:** [Suwatte](https://testflight.apple.com/join/qDyYMTLJ)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:35:16.272Z
+**Categories:**
+
+
+**Name:** [Geotag Alpha for Sony](https://testflight.apple.com/join/0Fht2ff6)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:35:16.308Z
+**Categories:**
+
+
