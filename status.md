@@ -39734,3 +39734,73 @@
 **Categories:**
 
 
+**Name:** [Padel Time Dev](https://testflight.apple.com/join/ifscZQas)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:39:08.893Z
+**Categories:**
+
+
+**Name:** [Pafera Share](https://testflight.apple.com/join/rl3qfQW7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:39:08.920Z
+**Categories:**
+
+
+**Name:** [Pal - AI Chat Client](https://testflight.apple.com/join/Vmd7XZa7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:39:08.952Z
+**Categories:**
+
+
+**Name:** [Pally - Deeper Relationships](https://testflight.apple.com/join/XD3Qzdsb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:39:08.982Z
+**Categories:**
+
+
+**Name:** [PalmPay](https://testflight.apple.com/join/bKon8lsd)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:39:09.010Z
+**Categories:**
+
+
+**Name:** [Panafrican CRM](https://testflight.apple.com/join/EtJdNaqQ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:39:09.039Z
+**Categories:**
+
+
+**Name:** [PanoX](https://testflight.apple.com/join/Uw4ZLtj8)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:39:09.066Z
+**Categories:**
+
+
+**Name:** [Panoee](https://testflight.apple.com/join/HhFvq8FE)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:39:09.094Z
+**Categories:**
+
+
+**Name:** [Papa Johns Qatar](https://testflight.apple.com/join/lKxa9KH8)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:39:09.123Z
+**Categories:**
+
+
+**Name:** [Parade Pal](https://testflight.apple.com/join/fyO88byX)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:39:09.151Z
+**Categories:**
+
+
