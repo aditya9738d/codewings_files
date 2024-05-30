@@ -23424,3 +23424,73 @@
 **Categories:**
 
 
+**Name:** [Coke Buddy - CCPBM](https://testflight.apple.com/join/f9yOGY7M)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:37:08.688Z
+**Categories:**
+
+
+**Name:** [Ticking](https://testflight.apple.com/join/l1e6wUP4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:37:08.724Z
+**Categories:**
+
+
+**Name:** [Rate That Crypto](https://testflight.apple.com/join/mxohmjCJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:37:08.760Z
+**Categories:**
+
+
+**Name:** [PROSIT](https://testflight.apple.com/join/8DRH8rOs)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:37:08.800Z
+**Categories:**
+
+
+**Name:** [Fusion Copilot](https://testflight.apple.com/join/wU9TD7Jk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:37:08.836Z
+**Categories:**
+
+
+**Name:** [Ride Wait Times: Know The Wait](https://testflight.apple.com/join/yQNmMRwB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:37:08.872Z
+**Categories:**
+
+
+**Name:** [ePort](https://testflight.apple.com/join/NYyIumsx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:37:08.908Z
+**Categories:**
+
+
+**Name:** [TSB-Partner App](https://testflight.apple.com/join/3WhHQ3P2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:37:08.943Z
+**Categories:**
+
+
+**Name:** [Bitsa](https://testflight.apple.com/join/gwGgnylX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:37:08.979Z
+**Categories:**
+
+
+**Name:** [TTL123](https://testflight.apple.com/join/AjhtDfuw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:37:09.015Z
+**Categories:**
+
+
