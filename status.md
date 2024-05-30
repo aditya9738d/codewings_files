@@ -11461,3 +11461,73 @@
 **Categories:**
 
 
+**Name:** [SG Vape](https://testflight.apple.com/join/HwvQiHNI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:56:12.164Z
+**Categories:**
+
+
+**Name:** [MeiJingA](https://testflight.apple.com/join/aOmgIMaB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:56:12.201Z
+**Categories:**
+
+
+**Name:** [Ruuvi Station](https://testflight.apple.com/join/loHFrEV1)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:56:12.237Z
+**Categories:**
+
+
+**Name:** [KryptoFighters](https://testflight.apple.com/join/odnfQIkv)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:56:12.272Z
+**Categories:**
+
+
+**Name:** [REV RENTAL](https://testflight.apple.com/join/omnKJX29)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:56:12.309Z
+**Categories:**
+
+
+**Name:** [iSH Shell](https://testflight.apple.com/join/97i7KM8O)
+**Click Count:** 6
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:56:12.347Z
+**Categories:**
+
+
+**Name:** [UTG - Up To Game Pro](https://testflight.apple.com/join/GlfHoZv5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:56:12.383Z
+**Categories:**
+
+
+**Name:** [Uzmart Seller](https://testflight.apple.com/join/ZjHulxhx)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T13:56:12.419Z
+**Categories:**
+
+
+**Name:** [Sofa: Downtime Organizer](https://testflight.apple.com/join/rKbEXs1C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:56:12.466Z
+**Categories:**
+
+
+**Name:** [iTravel Check-In](https://testflight.apple.com/join/zDGpXjRC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:56:12.503Z
+**Categories:**
+
+
