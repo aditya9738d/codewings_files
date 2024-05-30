@@ -37564,3 +37564,73 @@
 **Categories:**
 
 
+**Name:** [Kreator](https://testflight.apple.com/join/XIxCyoYI)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:05:16.095Z
+**Categories:**
+
+
+**Name:** [Krono Trivia 2024](https://testflight.apple.com/join/Q8uh1VUt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:05:16.123Z
+**Categories:**
+
+
+**Name:** [Kumome](https://testflight.apple.com/join/5Lk9ItLa)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:05:16.151Z
+**Categories:**
+
+
+**Name:** [Kuringo](https://testflight.apple.com/join/dPfl3Wyd)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:05:16.180Z
+**Categories:**
+
+
+**Name:** [L&T ART](https://testflight.apple.com/join/AY3H97Lg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:05:16.208Z
+**Categories:**
+
+
+**Name:** [LAsk Client](https://testflight.apple.com/join/jRdr9cw2)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:05:16.236Z
+**Categories:**
+
+
+**Name:** [LBank - Buy Bitcoin & Crypto](https://testflight.apple.com/join/WfoRNyTJ)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T20:05:16.264Z
+**Categories:**
+
+
+**Name:** [LD-HeartMath](https://testflight.apple.com/join/bKJtb7d8)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:05:16.292Z
+**Categories:**
+
+
+**Name:** [LR One](https://testflight.apple.com/join/Egd4djyh)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:05:16.320Z
+**Categories:**
+
+
+**Name:** [LSOA](https://testflight.apple.com/join/0hhq4Wgq)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:05:16.349Z
+**Categories:**
+
+
