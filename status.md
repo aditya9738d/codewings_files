@@ -17775,3 +17775,87 @@
 **Categories:**
 
 
+**Name:** [Write GT](https://testflight.apple.com/join/ZmKo5CMy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:41.849Z
+**Categories:**
+
+
+**Name:** [Can of Soup](https://testflight.apple.com/join/mUGNMWLC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:42.125Z
+**Categories:**
+
+
+**Name:** [Webful PasswordMaker](https://testflight.apple.com/join/3MnAJg3Z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:42.403Z
+**Categories:**
+
+
+**Name:** [cosinuss° Health](https://testflight.apple.com/join/icq0eiiq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:42.679Z
+**Categories:**
+
+
+**Name:** [Prowork](https://testflight.apple.com/join/x0ZYdEfu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:42.955Z
+**Categories:**
+
+
+**Name:** [Newsfreak Demo](https://testflight.apple.com/join/mFGxNnRM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:43.233Z
+**Categories:**
+
+
+**Name:** [Filwallet](https://testflight.apple.com/join/wG5UVUbI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:43.508Z
+**Categories:**
+
+
+**Name:** [Tailor - A.I. for news](https://testflight.apple.com/join/jlQPI7I8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:44.007Z
+**Categories:**
+
+
+**Name:** [AutoTempest - Car Search](https://testflight.apple.com/join/TkiavMax)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:44.284Z
+**Categories:**
+
+
+**Name:** [a-Shell mini](https://testflight.apple.com/join/REdHww5C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:44.563Z
+**Categories:**
+
+
+**Name:** [KareKimlik-PiLoT](https://testflight.apple.com/join/nLFmTF3Q)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:44.839Z
+**Categories:**
+
+
+**Name:** [ETHOS.PLUS](https://testflight.apple.com/join/O8aJHZhE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:45.115Z
+**Categories:**
+
+
