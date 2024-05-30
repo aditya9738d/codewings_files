@@ -9462,3 +9462,73 @@
 **Categories:**
 
 
+**Name:** [UU VIET EXPRESS](https://testflight.apple.com/join/sohtojoG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:10:22.059Z
+**Categories:**
+
+
+**Name:** [Mapillary](https://testflight.apple.com/join/ULVifZEZ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:10:22.095Z
+**Categories:**
+
+
+**Name:** [Speak Out+](https://testflight.apple.com/join/gMUSAk3M)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:10:22.130Z
+**Categories:**
+
+
+**Name:** [KeyboardKit](https://testflight.apple.com/join/i46nqNAM)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:10:22.165Z
+**Categories:**
+
+
+**Name:** [PLN Mobile](https://testflight.apple.com/join/DGO1D2kT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:10:22.201Z
+**Categories:**
+
+
+**Name:** [AppWage](https://testflight.apple.com/join/HLMemeqy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:10:22.236Z
+**Categories:**
+
+
+**Name:** [Nearby AI - GPT 4 Prompts Omni](https://testflight.apple.com/join/xHGrkViR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:10:22.273Z
+**Categories:**
+
+
+**Name:** [iPulse](https://testflight.apple.com/join/ZgvsV8jn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:10:22.309Z
+**Categories:**
+
+
+**Name:** [FLY OYA](https://testflight.apple.com/join/wcScfBmr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:10:22.345Z
+**Categories:**
+
+
+**Name:** [OpenEarable](https://testflight.apple.com/join/Kht3e1Cb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:10:22.380Z
+**Categories:**
+
+
