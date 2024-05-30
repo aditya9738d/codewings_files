@@ -7891,3 +7891,73 @@
 **Categories:**
 
 
+**Name:** [Bunpro Japanese SRS](https://testflight.apple.com/join/qWyvzy0e)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:03:09.396Z
+**Categories:**
+
+
+**Name:** [feeeed: rss reader and more](https://testflight.apple.com/join/ixRrWfQL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:03:09.431Z
+**Categories:**
+
+
+**Name:** [Thought Path](https://testflight.apple.com/join/mnhXOl91)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:03:09.468Z
+**Categories:**
+
+
+**Name:** [WalterChat: Meet New Personas](https://testflight.apple.com/join/NjydjCrm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:03:09.503Z
+**Categories:**
+
+
+**Name:** [Peercoin Wallet](https://testflight.apple.com/join/iilc4SvQ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:03:09.538Z
+**Categories:**
+
+
+**Name:** [Nemo App](https://testflight.apple.com/join/87mvDHEa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:03:09.574Z
+**Categories:**
+
+
+**Name:** [Spare](https://testflight.apple.com/join/TljIYgC7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:03:09.610Z
+**Categories:**
+
+
+**Name:** [Chatwoot](https://testflight.apple.com/join/yQ4yoSx4)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:03:09.645Z
+**Categories:**
+
+
+**Name:** [Keenetic](https://testflight.apple.com/join/dZEvORpb)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:03:09.680Z
+**Categories:**
+
+
+**Name:** [Vision employees](https://testflight.apple.com/join/oCwQvo6u)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:03:09.715Z
+**Categories:**
+
+
