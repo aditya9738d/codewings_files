@@ -2099,3 +2099,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:39:08.504Z
 
+**Name:** [HomeHabit](https://testflight.apple.com/join/KbpFHzx0)
+**Click Count:** 22
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:40:26.411Z
+
+**Name:** [ClipBorad](https://testflight.apple.com/join/zgd15gEU)
+**Click Count:** 13
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:40:26.411Z
+
+**Name:** [TV Time: Track Shows & Movies](https://testflight.apple.com/join/hjKkDsc4)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:40:26.411Z
+
+**Name:** [Call of Duty Mobile](https://testflight.apple.com/join/p2C7aFDw)
+**Click Count:** 605
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:40:26.412Z
+
+**Name:** [OctaVPN](https://testflight.apple.com/join/BhLLjqAX)
+**Click Count:** 95
+**Beta Available:** error
+**Last Checked:** 2024-05-30T11:40:26.412Z
+
+**Name:** [GolfClubInfoTracker](https://testflight.apple.com/join/9ZKdwgYZ)
+**Click Count:** 9
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:40:26.412Z
+
+**Name:** [dot.dot.dot.](https://testflight.apple.com/join/Fc48B6AB)
+**Click Count:** 34
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:40:26.412Z
+
+**Name:** [Groq](https://testflight.apple.com/join/Y9X0wGsi)
+**Click Count:** 18
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:40:26.412Z
+
+**Name:** [musicat.ai](https://testflight.apple.com/join/9KdDFgbw)
+**Click Count:** 23
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:40:26.412Z
+
+**Name:** [Empty Fasting](https://testflight.apple.com/join/1Ex8uyu7)
+**Click Count:** 54
+**Beta Available:** error
+**Last Checked:** 2024-05-30T11:40:26.412Z
+
