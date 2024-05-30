@@ -11251,3 +11251,73 @@
 **Categories:**
 
 
+**Name:** [ListenBrainz](https://testflight.apple.com/join/f0kxAV8e)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:53:09.466Z
+**Categories:**
+
+
+**Name:** [Miximum: Smart Playlist Maker](https://testflight.apple.com/join/6ZmnikuN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:53:09.502Z
+**Categories:**
+
+
+**Name:** [Candy Merge](https://testflight.apple.com/join/1YehFTVy)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:53:09.539Z
+**Categories:**
+
+
+**Name:** [Ly Hour Insurance](https://testflight.apple.com/join/BkSz2xaJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:53:09.576Z
+**Categories:**
+
+
+**Name:** [Pixoul Gaming](https://testflight.apple.com/join/HZ3TO9lE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:53:09.611Z
+**Categories:**
+
+
+**Name:** [Godspeed – To Do List](https://testflight.apple.com/join/QSnMRGPk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:53:09.648Z
+**Categories:**
+
+
+**Name:** [HTH Labs](https://testflight.apple.com/join/8Ouj4rD2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:53:09.684Z
+**Categories:**
+
+
+**Name:** [Defunc](https://testflight.apple.com/join/R6aQ0tyo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:53:09.720Z
+**Categories:**
+
+
+**Name:** [NoiseFit: Health & Fitness](https://testflight.apple.com/join/6SUMYo7q)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:53:09.756Z
+**Categories:**
+
+
+**Name:** [KnightUnityWorld2](https://testflight.apple.com/join/evokIQav)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:53:09.794Z
+**Categories:**
+
+
