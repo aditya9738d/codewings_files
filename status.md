@@ -6561,3 +6561,73 @@
 **Categories:**
 
 
+**Name:** [TMB App (Metro Bus Barcelona)](https://testflight.apple.com/join/c2FIzDkK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:44:11.341Z
+**Categories:**
+
+
+**Name:** [Coinyee_Beta](https://testflight.apple.com/join/IAufvK5J)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:44:11.378Z
+**Categories:**
+
+
+**Name:** [HSBC WorldTrader](https://testflight.apple.com/join/koKMbYcD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:44:11.414Z
+**Categories:**
+
+
+**Name:** [Dose Guru](https://testflight.apple.com/join/O16RBjPf)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:44:11.451Z
+**Categories:**
+
+
+**Name:** [Coke&Go](https://testflight.apple.com/join/HUyeJpZN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:44:11.487Z
+**Categories:**
+
+
+**Name:** [Mi App Megalabs](https://testflight.apple.com/join/zMHHWd3B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:44:11.523Z
+**Categories:**
+
+
+**Name:** [Note To Self Mail](https://testflight.apple.com/join/dYMPAThh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:44:11.561Z
+**Categories:**
+
+
+**Name:** [ROBOOTER+](https://testflight.apple.com/join/puG9uH7T)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:44:11.598Z
+**Categories:**
+
+
+**Name:** [Viidure](https://testflight.apple.com/join/2msJGLhk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:44:11.634Z
+**Categories:**
+
+
+**Name:** [HiCoffee - Caffeine Tracker](https://testflight.apple.com/join/yTaowxYa)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:44:11.670Z
+**Categories:**
+
+
