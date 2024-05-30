@@ -6558,3 +6558,73 @@
 **Categories:**
 
 
+**Name:** [iPlayTV AIO](https://testflight.apple.com/join/irMsXGg0)
+**Click Count:** 30
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:27:08.195Z
+**Categories:**
+
+
+**Name:** [Deskmodder](https://testflight.apple.com/join/m0B6XJbE)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:27:08.231Z
+**Categories:**
+
+
+**Name:** [Knight](https://testflight.apple.com/join/bOzxqdei)
+**Click Count:** 15
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:27:08.266Z
+**Categories:**
+- Games
+
+**Name:** [MyOrderApp Demo](https://testflight.apple.com/join/YzHlJoxQ)
+**Click Count:** 14
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:27:08.302Z
+**Categories:**
+
+
+**Name:** [NotePlan - Planning with Notes](https://testflight.apple.com/join/fm9q4OjE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:27:08.338Z
+**Categories:**
+
+
+**Name:** [Ninja School](https://testflight.apple.com/join/O1jTSJWE)
+**Click Count:** 39
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:27:08.373Z
+**Categories:**
+- Games
+
+**Name:** [Spezi Template Application](https://testflight.apple.com/join/ipEezBY1)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:27:08.409Z
+**Categories:**
+
+
+**Name:** [AMT Mobile V3](https://testflight.apple.com/join/PwQllkbR)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:27:08.445Z
+**Categories:**
+
+
+**Name:** [Walbi: AI Crypto Assistant](https://testflight.apple.com/join/QRbXi8u3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:27:08.481Z
+**Categories:**
+
+
+**Name:** [Syncfusion MAUI UI Controls](https://testflight.apple.com/join/EEOtwVNN)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:27:08.516Z
+**Categories:**
+
+
