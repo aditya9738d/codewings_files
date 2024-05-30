@@ -92,3 +92,55 @@
 **Beta Available:** open
 **Last Checked:** undefined
 
+### App Status
+
+**Name:** [Onboard Wallet](https://testflight.apple.com/join/XJU5cuus)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [SotaApp](https://testflight.apple.com/join/71IxEXG5)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Truther](https://testflight.apple.com/join/kdW8XFwc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [RADii Viewer](https://testflight.apple.com/join/XU57P5PD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [100ms Live](https://testflight.apple.com/join/Uhzebmut)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [WhatsApp Messenger](https://testflight.apple.com/join/8sLvv90R)
+**Click Count:** 946
+**Beta Available:** full
+**Last Checked:** undefined
+
+**Name:** [Mini Militia Classic](https://testflight.apple.com/join/mTdIgovd)
+**Click Count:** 299
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [McDonald's: Cupons e Delivery](https://testflight.apple.com/join/yBDER0Mf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Volleyball Warmup 9000](https://testflight.apple.com/join/APgB1wXX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [AT Mobile](https://testflight.apple.com/join/5MA0Pixb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
