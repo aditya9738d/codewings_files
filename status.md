@@ -1048,3 +1048,73 @@
 **Categories:**
 
 
+**Name:** [SnakeRidersMid](https://testflight.apple.com/join/cwjG9yse)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:05:18.145Z
+**Categories:**
+
+
+**Name:** [Snikket](https://testflight.apple.com/join/ayZ9Pxv7)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:05:18.180Z
+**Categories:**
+
+
+**Name:** [SnoTel Mapper](https://testflight.apple.com/join/9dYilL8f)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:05:18.217Z
+**Categories:**
+
+
+**Name:** [Snowpack-SNO](https://testflight.apple.com/join/oFvpDxPL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:05:18.253Z
+**Categories:**
+
+
+**Name:** [Soba - No-Code 3D Game Maker](https://testflight.apple.com/join/PJAJGNJP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:05:18.288Z
+**Categories:**
+
+
+**Name:** [Socrates - SocialFi & GameFi](https://testflight.apple.com/join/rI5UefEC)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:05:18.324Z
+**Categories:**
+
+
+**Name:** [SohuGloba](https://testflight.apple.com/join/66rRi3GW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:05:18.360Z
+**Categories:**
+
+
+**Name:** [SolaxCloud](https://testflight.apple.com/join/UZ7XGmiJ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:05:18.396Z
+**Categories:**
+
+
+**Name:** [Solstice](https://testflight.apple.com/join/gLxAcDxy)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:05:18.432Z
+**Categories:**
+
+
+**Name:** [Somneon](https://testflight.apple.com/join/4eRVz2zr)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:05:18.467Z
+**Categories:**
+
+
