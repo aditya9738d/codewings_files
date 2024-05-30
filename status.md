@@ -1149,3 +1149,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:20:27.519Z
 
+**Name:** [null](https://testflight.apple.com/join/lod3LiB6)
+**Click Count:** 35
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:21:09.118Z
+
+**Name:** [FileTunnel](https://testflight.apple.com/join/lod3LiB6)
+**Click Count:** 29
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:21:09.118Z
+
+**Name:** [Wink - Video AI Enhancement](https://testflight.apple.com/join/ZviH3WzG)
+**Click Count:** 15
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:21:09.118Z
+
+**Name:** [SolarEdge Go](https://testflight.apple.com/join/KzfUUDAC)
+**Click Count:** 19
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:21:09.118Z
+
+**Name:** [Map Alarm: Maps & Open Streets](https://testflight.apple.com/join/LF2SNq7J)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:21:09.118Z
+
+**Name:** [V-Guardian EVO](https://testflight.apple.com/join/n7ZP4qBe)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:21:09.118Z
+
+**Name:** [Fast Vpn Demo](https://testflight.apple.com/join/v6hQPX5p)
+**Click Count:** 65
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:21:09.118Z
+
+**Name:** [Avare - Journal Map](https://testflight.apple.com/join/kQF1GrAT)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:21:09.118Z
+
+**Name:** [AliExpress Shopping App](https://testflight.apple.com/join/TFhYeUyJ)
+**Click Count:** 35
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:21:09.118Z
+
+**Name:** [Hyalocare](https://testflight.apple.com/join/UAy33SuS)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:21:09.118Z
+
