@@ -34694,3 +34694,73 @@
 **Categories:**
 
 
+**Name:** [Combo Koala - Battle Checkers](https://testflight.apple.com/join/kdqq3qAN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:22:10.353Z
+**Categories:**
+
+
+**Name:** [Comind: Real-World Notetaker](https://testflight.apple.com/join/pGnHVNPC)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:22:10.381Z
+**Categories:**
+
+
+**Name:** [CommuniSki](https://testflight.apple.com/join/4vgUfbZ7)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:22:10.410Z
+**Categories:**
+
+
+**Name:** [Conciel](https://testflight.apple.com/join/WpHQWU2d)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:22:10.438Z
+**Categories:**
+
+
+**Name:** [Concordium - Testnet Wallet](https://testflight.apple.com/join/YaKKqYMA)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:22:10.467Z
+**Categories:**
+
+
+**Name:** [Condlink](https://testflight.apple.com/join/JmY48wSQ)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:22:10.496Z
+**Categories:**
+
+
+**Name:** [Coniecto](https://testflight.apple.com/join/ckdQofbU)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:22:10.524Z
+**Categories:**
+
+
+**Name:** [Connect with Social Bite](https://testflight.apple.com/join/NfSODWnw)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:22:10.552Z
+**Categories:**
+
+
+**Name:** [ConnectLifeTest](https://testflight.apple.com/join/EMqBjN7B)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:22:10.581Z
+**Categories:**
+
+
+**Name:** [ConnectUI - Apps Sales Reports](https://testflight.apple.com/join/SL1E10Ar)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:22:10.609Z
+**Categories:**
+
+
