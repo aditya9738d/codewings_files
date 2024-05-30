@@ -3288,3 +3288,73 @@
 **Categories:**
 
 
+**Name:** [Zenith Bank eaZymoney](https://testflight.apple.com/join/AS85ckOL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:40:21.864Z
+**Categories:**
+
+
+**Name:** [Zenleaps](https://testflight.apple.com/join/3QfJaQ5K)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:40:21.893Z
+**Categories:**
+
+
+**Name:** [Zest - Health & Fitness](https://testflight.apple.com/join/lAqDDbp5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:40:21.922Z
+**Categories:**
+
+
+**Name:** [Zetrix Wallet(new)](https://testflight.apple.com/join/BJGrhamE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:40:21.949Z
+**Categories:**
+
+
+**Name:** [Zno Instant](https://testflight.apple.com/join/LJ7oinOU)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:40:21.978Z
+**Categories:**
+
+
+**Name:** [Zoho ToDo - Get work organized](https://testflight.apple.com/join/NWD0OIc4)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:40:22.007Z
+**Categories:**
+
+
+**Name:** [Zoo Escape Endless Runner Game](https://testflight.apple.com/join/Huy7FAhM)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:40:22.035Z
+**Categories:**
+
+
+**Name:** [Zulip](https://testflight.apple.com/join/ZuzqwXGf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:40:22.063Z
+**Categories:**
+
+
+**Name:** [Zurf](https://testflight.apple.com/join/9vAjdPl7)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:40:22.091Z
+**Categories:**
+
+
+**Name:** [[DEV] Training Machine](https://testflight.apple.com/join/6oZHmzfa)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:40:22.122Z
+**Categories:**
+
+
