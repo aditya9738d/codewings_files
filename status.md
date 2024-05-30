@@ -11671,3 +11671,73 @@
 **Categories:**
 
 
+**Name:** [BADGE·R](https://testflight.apple.com/join/0dlHiWHB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:59:11.351Z
+**Categories:**
+
+
+**Name:** [AnyList: Grocery Shopping List](https://testflight.apple.com/join/xwvLPc6o)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:59:11.388Z
+**Categories:**
+
+
+**Name:** [MFiT Shop UAT](https://testflight.apple.com/join/Ps0aKmrJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:59:11.424Z
+**Categories:**
+
+
+**Name:** [HDFC_ERGO_BIP](https://testflight.apple.com/join/sHCbnplf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:59:11.460Z
+**Categories:**
+
+
+**Name:** [Actions](https://testflight.apple.com/join/fJGUrsZx)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:59:11.495Z
+**Categories:**
+
+
+**Name:** [Mixl.ai](https://testflight.apple.com/join/WpGYUXvc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:59:11.531Z
+**Categories:**
+
+
+**Name:** [Sygic Travel Maps Trip Planner](https://testflight.apple.com/join/LBRoKDBI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:59:11.566Z
+**Categories:**
+
+
+**Name:** [IdeaDreamOne](https://testflight.apple.com/join/hhN1BryN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:59:11.602Z
+**Categories:**
+
+
+**Name:** [Mapy.cz: maps & navigation](https://testflight.apple.com/join/2nXnREvO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:59:11.638Z
+**Categories:**
+
+
+**Name:** [Adonis Extension](https://testflight.apple.com/join/RFvgepLW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:59:11.674Z
+**Categories:**
+
+
