@@ -11492,3 +11492,73 @@
 **Categories:**
 
 
+**Name:** [FitMind: Mental Fitness](https://testflight.apple.com/join/G6qjtzj2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:39:10.215Z
+**Categories:**
+
+
+**Name:** [Calendar Information Service](https://testflight.apple.com/join/Ejd1iUI3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:39:10.251Z
+**Categories:**
+
+
+**Name:** [GU Chat](https://testflight.apple.com/join/ZqnI6v3m)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:39:10.287Z
+**Categories:**
+
+
+**Name:** [Emeltal](https://testflight.apple.com/join/NTIomxyk)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:39:10.323Z
+**Categories:**
+
+
+**Name:** [Raindrop.io](https://testflight.apple.com/join/Zbn9zjKk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:39:10.359Z
+**Categories:**
+
+
+**Name:** [Audit Manager - Burberry](https://testflight.apple.com/join/KsvcMKtw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:39:10.394Z
+**Categories:**
+
+
+**Name:** [Longtown](https://testflight.apple.com/join/232EyjxP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:39:10.430Z
+**Categories:**
+
+
+**Name:** [D-ROS](https://testflight.apple.com/join/cFKaKfro)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:39:10.466Z
+**Categories:**
+
+
+**Name:** [Varsom](https://testflight.apple.com/join/8xBP78ud)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:39:10.502Z
+**Categories:**
+
+
+**Name:** [ReHabit : Focus Life Goals](https://testflight.apple.com/join/vyKSon0K)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:39:10.538Z
+**Categories:**
+
+
