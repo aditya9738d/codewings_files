@@ -27554,3 +27554,73 @@
 **Categories:**
 
 
+**Name:** [Lexic](https://testflight.apple.com/join/9pJ8x81Y)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:39:09.321Z
+**Categories:**
+
+
+**Name:** [eschool Saas](https://testflight.apple.com/join/HxZcnKO6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:39:09.358Z
+**Categories:**
+
+
+**Name:** [Trap.nz](https://testflight.apple.com/join/SIZltsEm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:39:09.392Z
+**Categories:**
+
+
+**Name:** [Aliviado](https://testflight.apple.com/join/yxMciJ1R)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:39:09.428Z
+**Categories:**
+
+
+**Name:** [MSTravel Hub](https://testflight.apple.com/join/eKSC0pYL)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:39:09.463Z
+**Categories:**
+
+
+**Name:** [Exponent Energy](https://testflight.apple.com/join/5q9vsQMn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:39:09.498Z
+**Categories:**
+
+
+**Name:** [iMobile Pay: Banking, UPI](https://testflight.apple.com/join/vvSTVqxu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:39:09.534Z
+**Categories:**
+
+
+**Name:** [FP - Card Reader](https://testflight.apple.com/join/Hd1vt8p1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:39:09.569Z
+**Categories:**
+
+
+**Name:** [RAS UAT](https://testflight.apple.com/join/6uZNkFTd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:39:09.605Z
+**Categories:**
+
+
+**Name:** [time2u-eNoah](https://testflight.apple.com/join/ae0ayk56)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:39:09.641Z
+**Categories:**
+
+
