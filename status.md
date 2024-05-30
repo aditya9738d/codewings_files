@@ -9252,3 +9252,73 @@
 **Categories:**
 
 
+**Name:** [Vasion Automate Pro](https://testflight.apple.com/join/V6crlrbN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:07:09.863Z
+**Categories:**
+
+
+**Name:** [Jupiter WCS](https://testflight.apple.com/join/YE1S7oxZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:07:09.899Z
+**Categories:**
+
+
+**Name:** [iSpeechRecorder Live](https://testflight.apple.com/join/q17NZ1RO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:07:09.936Z
+**Categories:**
+
+
+**Name:** [Jitsi Meet](https://testflight.apple.com/join/isy6ja7S)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:07:09.972Z
+**Categories:**
+
+
+**Name:** [Coinoverse](https://testflight.apple.com/join/kh4CD9t2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:07:10.009Z
+**Categories:**
+
+
+**Name:** [Sleep Cycle - Tracker & Sounds](https://testflight.apple.com/join/tCeANbZi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:07:10.045Z
+**Categories:**
+
+
+**Name:** [Virgin TV Anywhere Ireland](https://testflight.apple.com/join/JTLqhtdP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:07:10.081Z
+**Categories:**
+
+
+**Name:** [Apptile Admin](https://testflight.apple.com/join/RjifTcpD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:07:10.118Z
+**Categories:**
+
+
+**Name:** [UptickPro NFT Market on IRIS](https://testflight.apple.com/join/B5no7LfQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:07:10.155Z
+**Categories:**
+
+
+**Name:** [HWLWorks Shift Planner](https://testflight.apple.com/join/ztK7pJsN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:07:10.191Z
+**Categories:**
+
+
