@@ -1949,3 +1949,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:36:10.133Z
 
+**Name:** [NOVI® – Visual IQ Puzzles](https://testflight.apple.com/join/Yn9iqGcZ)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:37:09.726Z
+
+**Name:** [X.AR](https://testflight.apple.com/join/smDJLIHx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:37:09.726Z
+
+**Name:** [myDash - APIServer Mobile](https://testflight.apple.com/join/WzvGL253)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:37:09.726Z
+
+**Name:** [Kita Bestee BTPN Syariah](https://testflight.apple.com/join/4xJ2E0MB)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:37:09.726Z
+
+**Name:** [BeCasso: Photo to Painting](https://testflight.apple.com/join/rzib2AQC)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:37:09.726Z
+
+**Name:** [Audracity](https://testflight.apple.com/join/mE9Ca5ms)
+**Click Count:** 13
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:37:09.726Z
+
+**Name:** [RFECU Performance 2.6](https://testflight.apple.com/join/OsApZdFs)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:37:09.726Z
+
+**Name:** [Evermoon MOBA](https://testflight.apple.com/join/wPiWib3x)
+**Click Count:** 14
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:37:09.726Z
+
+**Name:** [NRO BEAST](https://testflight.apple.com/join/UDDdSKNn)
+**Click Count:** 16
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:37:09.727Z
+
+**Name:** [CJK Staff](https://testflight.apple.com/join/obazMZMN)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:37:09.727Z
+
