@@ -7770,3 +7770,78 @@
 **Categories:**
 
 
+**Name:** [Avocado Wallet](https://testflight.apple.com/join/MxPn3PUa)
+**Click Count:** 23
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:44:09.905Z
+**Categories:**
+
+
+**Name:** [Telegram Messenger](https://testflight.apple.com/join/u6iogfd0)
+**Click Count:** 1594
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:44:09.941Z
+**Categories:**
+- Entertainment
+- Files & cloud
+- Photography
+- Social Networking
+- Utility
+- Video
+
+**Name:** [The Division Resurgence](https://testflight.apple.com/join/cZFrLJPZ)
+**Click Count:** 68
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:44:09.977Z
+**Categories:**
+
+
+**Name:** [3g2005](https://testflight.apple.com/join/weDKc93b)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:44:10.015Z
+**Categories:**
+
+
+**Name:** [NOVI® – Visual IQ Puzzles](https://testflight.apple.com/join/Yn9iqGcZ)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:44:10.051Z
+**Categories:**
+
+
+**Name:** [X.AR](https://testflight.apple.com/join/smDJLIHx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:44:10.086Z
+**Categories:**
+
+
+**Name:** [myDash - APIServer Mobile](https://testflight.apple.com/join/WzvGL253)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:44:10.123Z
+**Categories:**
+
+
+**Name:** [Kita Bestee BTPN Syariah](https://testflight.apple.com/join/4xJ2E0MB)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:44:10.158Z
+**Categories:**
+
+
+**Name:** [BeCasso: Photo to Painting](https://testflight.apple.com/join/rzib2AQC)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:44:10.194Z
+**Categories:**
+
+
+**Name:** [Audracity](https://testflight.apple.com/join/mE9Ca5ms)
+**Click Count:** 13
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:44:10.230Z
+**Categories:**
+
+
