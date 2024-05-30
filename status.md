@@ -3831,3 +3831,73 @@
 **Categories:**
 
 
+**Name:** [Youforce](https://testflight.apple.com/join/R9WWyjYe)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:04:13.670Z
+**Categories:**
+
+
+**Name:** [Listalux](https://testflight.apple.com/join/eT7qFzIw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:04:13.699Z
+**Categories:**
+
+
+**Name:** [Fintunes](https://testflight.apple.com/join/cf2AMDpx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:04:13.728Z
+**Categories:**
+
+
+**Name:** [XEX](https://testflight.apple.com/join/HbQJTSmk)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:04:13.756Z
+**Categories:**
+
+
+**Name:** [Yattee](https://testflight.apple.com/join/tLOhggn5)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:04:13.785Z
+**Categories:**
+
+
+**Name:** [FYI TV: Passionate Enthusiasts](https://testflight.apple.com/join/uQDt9nZo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:04:13.814Z
+**Categories:**
+
+
+**Name:** [AQUA Wallet](https://testflight.apple.com/join/a89WWtZW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:04:13.842Z
+**Categories:**
+
+
+**Name:** [Visionary](https://testflight.apple.com/join/ceIJWd8U)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:04:13.872Z
+**Categories:**
+
+
+**Name:** [Caritas App](https://testflight.apple.com/join/yl613COn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:04:13.901Z
+**Categories:**
+
+
+**Name:** [Disability Detect](https://testflight.apple.com/join/UoUSmiM7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:04:13.930Z
+**Categories:**
+
+
