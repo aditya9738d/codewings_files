@@ -488,3 +488,73 @@
 **Categories:**
 
 
+**Name:** [SUPLA](https://testflight.apple.com/join/GZyMLwH0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:57:08.640Z
+**Categories:**
+
+
+**Name:** [SV Trucking](https://testflight.apple.com/join/EtcKMHe1)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:57:08.669Z
+**Categories:**
+
+
+**Name:** [SYS™](https://testflight.apple.com/join/xt0WFuzE)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:57:08.697Z
+**Categories:**
+
+
+**Name:** [Saakuru: All-in-one Crypto App](https://testflight.apple.com/join/iHwPYAow)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:57:08.726Z
+**Categories:**
+
+
+**Name:** [Saas waiter](https://testflight.apple.com/join/1FOEhWfz)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:57:08.754Z
+**Categories:**
+
+
+**Name:** [Safe Dev](https://testflight.apple.com/join/Bu0OVZJd)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:57:08.782Z
+**Categories:**
+
+
+**Name:** [Sake Discovery - OneSip](https://testflight.apple.com/join/W5Z3eLUF)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:57:08.810Z
+**Categories:**
+
+
+**Name:** [Sammy Cash](https://testflight.apple.com/join/3abHwWlN)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:57:08.838Z
+**Categories:**
+
+
+**Name:** [Samplr](https://testflight.apple.com/join/VkpeP9uI)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:57:08.865Z
+**Categories:**
+
+
+**Name:** [Samurai Fight](https://testflight.apple.com/join/4a8K6ltZ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:57:08.894Z
+**Categories:**
+
+
