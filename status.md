@@ -12892,3 +12892,73 @@
 **Categories:**
 
 
+**Name:** [GNC LiveWell](https://testflight.apple.com/join/PlJqoLRc)
+**Click Count:** 1
+**Beta Available:** error
+**Last Checked:** 2024-05-30T23:59:07.544Z
+**Categories:**
+
+
+**Name:** [STACKAAR](https://testflight.apple.com/join/o0eSwBIs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:59:07.573Z
+**Categories:**
+
+
+**Name:** [bob World Digital Rupee](https://testflight.apple.com/join/FYc6DAdE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:59:07.600Z
+**Categories:**
+
+
+**Name:** [Sundaymart](https://testflight.apple.com/join/n3vjyJCx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:59:07.628Z
+**Categories:**
+
+
+**Name:** [Cash App Pay Sandbox](https://testflight.apple.com/join/TZY8IaM9)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:59:07.656Z
+**Categories:**
+
+
+**Name:** [VirtuaSWAP](https://testflight.apple.com/join/62K9dz4Z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:59:07.685Z
+**Categories:**
+
+
+**Name:** [wiggler](https://testflight.apple.com/join/O6FzQSu2)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:59:07.713Z
+**Categories:**
+
+
+**Name:** [NOVABOT-TEST](https://testflight.apple.com/join/ParKxA0P)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:59:07.741Z
+**Categories:**
+
+
+**Name:** [Gluon for Micro.blog](https://testflight.apple.com/join/RwbLiFcR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:59:07.769Z
+**Categories:**
+
+
+**Name:** [Caesars Palace Online Casino](https://testflight.apple.com/join/moreVpRL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:59:07.797Z
+**Categories:**
+
+
