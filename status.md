@@ -28324,3 +28324,73 @@
 **Categories:**
 
 
+**Name:** [Speedometer GPS And Compass](https://testflight.apple.com/join/y2nXKYRu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:50:23.131Z
+**Categories:**
+
+
+**Name:** [Bondee](https://testflight.apple.com/join/NoSsyQFv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:50:23.159Z
+**Categories:**
+
+
+**Name:** [Moreno Valley Inspector App](https://testflight.apple.com/join/Z0lTbApM)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:50:23.188Z
+**Categories:**
+
+
+**Name:** [Quote Me Happy](https://testflight.apple.com/join/fK1FJYmG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:50:23.215Z
+**Categories:**
+
+
+**Name:** [Widgets 212](https://testflight.apple.com/join/xu9Qi15z)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:50:23.244Z
+**Categories:**
+
+
+**Name:** [Record Workout](https://testflight.apple.com/join/GFvd3tM1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:50:23.272Z
+**Categories:**
+
+
+**Name:** [Towner](https://testflight.apple.com/join/CZUkvDbh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:50:23.300Z
+**Categories:**
+
+
+**Name:** [Take Stock — Film Metadata](https://testflight.apple.com/join/aYQGNXVc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:50:23.328Z
+**Categories:**
+
+
+**Name:** [Roon ARC](https://testflight.apple.com/join/yImqC6X5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:50:23.357Z
+**Categories:**
+
+
+**Name:** [WCWebPro](https://testflight.apple.com/join/k7o5tI7e)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:50:23.385Z
+**Categories:**
+
+
