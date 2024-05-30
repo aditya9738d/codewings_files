@@ -8971,3 +8971,74 @@
 **Categories:**
 
 
+**Name:** [Bamboo Dragonfly](https://testflight.apple.com/join/9yO95rQX)
+**Click Count:** 5
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:03:08.059Z
+**Categories:**
+
+
+**Name:** [Finiliar](https://testflight.apple.com/join/oFWpI2gy)
+**Click Count:** 15
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:03:08.095Z
+**Categories:**
+
+
+**Name:** [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0)
+**Click Count:** 80
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:03:08.131Z
+**Categories:**
+- Developer
+
+**Name:** [Flipper Mobile App](https://testflight.apple.com/join/oLyR7YeT)
+**Click Count:** 127
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:03:08.167Z
+**Categories:**
+- Developer
+- Utility
+
+**Name:** [Chronosphere - Clocks](https://testflight.apple.com/join/Mwfy3L0V)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:03:08.203Z
+**Categories:**
+
+
+**Name:** [AnyTrip](https://testflight.apple.com/join/z4jEQC9Z)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:03:08.240Z
+**Categories:**
+
+
+**Name:** [Text & Markup](https://testflight.apple.com/join/LH7qcUjG)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:03:08.276Z
+**Categories:**
+
+
+**Name:** [Launchcraft](https://testflight.apple.com/join/nSONe1lZ)
+**Click Count:** 112
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:03:08.311Z
+**Categories:**
+
+
+**Name:** [Block Puzzle: Cops vs Robbers](https://testflight.apple.com/join/JewMjU43)
+**Click Count:** 1
+**Beta Available:** error
+**Last Checked:** 2024-05-30T23:03:08.348Z
+**Categories:**
+
+
+**Name:** [KKClicker](https://testflight.apple.com/join/y2bNjrkT)
+**Click Count:** 13
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:03:08.384Z
+**Categories:**
+
+
