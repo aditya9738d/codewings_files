@@ -6985,3 +6985,77 @@
 **Categories:**
 
 
+**Name:** [MPL: Rummy, Poker, Patti Games](https://testflight.apple.com/join/j6Pz6p3E)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:33:09.078Z
+**Categories:**
+
+
+**Name:** [Lovewick: Relationship App](https://testflight.apple.com/join/W8EmsRMa)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:33:09.114Z
+**Categories:**
+
+
+**Name:** [Dupay Pro](https://testflight.apple.com/join/LpdH6PGp)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:33:09.149Z
+**Categories:**
+
+
+**Name:** [MAFC CRM](https://testflight.apple.com/join/V0RkG8PS)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:33:09.184Z
+**Categories:**
+
+
+**Name:** [eDispatches](https://testflight.apple.com/join/ah3T3o1b)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:33:09.220Z
+**Categories:**
+
+
+**Name:** [Mela 5 – AUv3: Synth, FX, MIDI](https://testflight.apple.com/join/4zbCXvXw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:33:09.269Z
+**Categories:**
+
+
+**Name:** [The Kings Wants To Laugh](https://testflight.apple.com/join/hTqcj6u2)
+**Click Count:** 5
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:33:09.309Z
+**Categories:**
+
+
+**Name:** [Facebook](https://testflight.apple.com/join/C1a3MRG4)
+**Click Count:** 345
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:33:09.344Z
+**Categories:**
+- Business
+- Chat
+- Entertainment
+- Social Networking
+- Video
+
+**Name:** [NroChat](https://testflight.apple.com/join/PPfQVoNB)
+**Click Count:** 13
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:33:09.379Z
+**Categories:**
+
+
+**Name:** [La Terminal - SSH Client](https://testflight.apple.com/join/cpPS8YnX)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:33:09.415Z
+**Categories:**
+
+
