@@ -10271,3 +10271,73 @@
 **Categories:**
 
 
+**Name:** [Vida by PADERNO](https://testflight.apple.com/join/YhPO0BFc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:38:11.323Z
+**Categories:**
+
+
+**Name:** [Void Note](https://testflight.apple.com/join/mrt0rnPw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:38:11.359Z
+**Categories:**
+
+
+**Name:** [KTC EConsent](https://testflight.apple.com/join/HcVX6Q35)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:38:11.394Z
+**Categories:**
+
+
+**Name:** [L2+](https://testflight.apple.com/join/hxLvaOh5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:38:11.430Z
+**Categories:**
+
+
+**Name:** [eGrocer Customer](https://testflight.apple.com/join/fcRe3J9F)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:38:11.464Z
+**Categories:**
+
+
+**Name:** [Bike Master Challenge](https://testflight.apple.com/join/nkLCjtCX)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T13:38:11.500Z
+**Categories:**
+
+
+**Name:** [Bring! Grocery Shopping List](https://testflight.apple.com/join/EUHdZJwQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:38:11.535Z
+**Categories:**
+
+
+**Name:** [Pulse – Network Logger](https://testflight.apple.com/join/1jcanE3q)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:38:11.570Z
+**Categories:**
+
+
+**Name:** [jamme3na](https://testflight.apple.com/join/11n9OP7K)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:38:11.605Z
+**Categories:**
+
+
+**Name:** [HI-DNTU](https://testflight.apple.com/join/uhnDhMcF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:38:11.640Z
+**Categories:**
+
+
