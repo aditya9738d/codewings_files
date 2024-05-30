@@ -38404,3 +38404,73 @@
 **Categories:**
 
 
+**Name:** [Mint: Budget & Expense Manager](https://testflight.apple.com/join/FIMPUoMI)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:19:08.546Z
+**Categories:**
+
+
+**Name:** [Mitigate](https://testflight.apple.com/join/SqwTf14Q)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:19:08.581Z
+**Categories:**
+
+
+**Name:** [Mizormor - Plan Trips & Tours](https://testflight.apple.com/join/vGSj1wes)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:19:08.616Z
+**Categories:**
+
+
+**Name:** [Mobile Banking - UAT](https://testflight.apple.com/join/nBbLgYON)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:19:08.651Z
+**Categories:**
+
+
+**Name:** [Mobile Fintech Customer](https://testflight.apple.com/join/4W1lBuCE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:19:08.686Z
+**Categories:**
+
+
+**Name:** [Mobile Work Requests](https://testflight.apple.com/join/tYLss14u)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:19:08.722Z
+**Categories:**
+
+
+**Name:** [Mobile for Jira](https://testflight.apple.com/join/kRd5EmcF)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:19:08.757Z
+**Categories:**
+
+
+**Name:** [Mobile-FP](https://testflight.apple.com/join/f9DINiJt)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:19:08.792Z
+**Categories:**
+
+
+**Name:** [Modum Token Swap](https://testflight.apple.com/join/IWTOdPEF)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:19:08.827Z
+**Categories:**
+
+
+**Name:** [Moje VSE](https://testflight.apple.com/join/pZHoQdC1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:19:08.862Z
+**Categories:**
+
+
