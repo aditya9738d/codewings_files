@@ -20064,3 +20064,73 @@
 **Categories:**
 
 
+**Name:** [BIKA Global Pro](https://testflight.apple.com/join/NoMIn8b7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:48:10.227Z
+**Categories:**
+
+
+**Name:** [ThrivePal](https://testflight.apple.com/join/TsVZk2EP)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:48:10.255Z
+**Categories:**
+
+
+**Name:** [MICO: Make Friends, Live Chat](https://testflight.apple.com/join/6Yu1OJAy)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:48:10.284Z
+**Categories:**
+
+
+**Name:** [Flow Internet with Wireguard](https://testflight.apple.com/join/1c97AYHj)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:48:10.312Z
+**Categories:**
+
+
+**Name:** [ZAX WIFI](https://testflight.apple.com/join/kYNzJ1QH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:48:10.340Z
+**Categories:**
+
+
+**Name:** [Rejoicify: Gospel Music](https://testflight.apple.com/join/Z57KUG3E)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:48:10.367Z
+**Categories:**
+
+
+**Name:** [HENDERSON: мужская одежда](https://testflight.apple.com/join/8cJMVw0M)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:48:10.396Z
+**Categories:**
+
+
+**Name:** [KSFinance](https://testflight.apple.com/join/gsJ4e4Y0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:48:10.430Z
+**Categories:**
+
+
+**Name:** [Cryptomator](https://testflight.apple.com/join/WMtYSrzD)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:48:10.458Z
+**Categories:**
+
+
+**Name:** [Mageki](https://testflight.apple.com/join/efWEB1qC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:48:10.486Z
+**Categories:**
+
+
