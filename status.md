@@ -15871,3 +15871,73 @@
 **Categories:**
 
 
+**Name:** [Jeep®](https://testflight.apple.com/join/YGQinHIa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:01:09.264Z
+**Categories:**
+
+
+**Name:** [StarEx - Buy Bitcoin](https://testflight.apple.com/join/XsgTpGZF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:01:09.357Z
+**Categories:**
+
+
+**Name:** [MadPay](https://testflight.apple.com/join/1959Lqzn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:01:09.394Z
+**Categories:**
+
+
+**Name:** [Planetary Social](https://testflight.apple.com/join/M9hPo1gA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:01:09.430Z
+**Categories:**
+
+
+**Name:** [MusicSync for Home Assistant](https://testflight.apple.com/join/4nCUW4lI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:01:09.474Z
+**Categories:**
+
+
+**Name:** [Filmlog](https://testflight.apple.com/join/ywiozhph)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:01:09.512Z
+**Categories:**
+
+
+**Name:** [Metacast: Podcast Player](https://testflight.apple.com/join/5ubyRzbg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:01:09.549Z
+**Categories:**
+
+
+**Name:** [MySecretCase](https://testflight.apple.com/join/oqovz2xl)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T15:01:09.585Z
+**Categories:**
+
+
+**Name:** [C4CG Staff](https://testflight.apple.com/join/x0ni7LH8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:01:09.621Z
+**Categories:**
+
+
+**Name:** [WeFTTR](https://testflight.apple.com/join/ah0Uqrw5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:01:09.658Z
+**Categories:**
+
+
