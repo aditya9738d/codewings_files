@@ -499,3 +499,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:07:10.783Z
 
+**Name:** [10MIN HEROES](https://testflight.apple.com/join/wjtEowth)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:08:12.085Z
+
+**Name:** [Fasty Tracker](https://testflight.apple.com/join/ArFEKEvI)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:08:12.085Z
+
+**Name:** [WillKey](https://testflight.apple.com/join/wJT1sQ37)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:08:12.085Z
+
+**Name:** [FormTime](https://testflight.apple.com/join/8oEvXjdL)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:08:12.085Z
+
+**Name:** [Decipher AI News](https://testflight.apple.com/join/9l9ci5dq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:08:12.085Z
+
+**Name:** [Lunch: Let's Grab Lunch](https://testflight.apple.com/join/TXiRrJ2e)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:08:12.085Z
+
+**Name:** [Termius: Terminal & SSH client](https://testflight.apple.com/join/MnuClabg)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:08:12.085Z
+
+**Name:** [Photos Backup Anywhere](https://testflight.apple.com/join/TcDH3ccO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:08:12.085Z
+
+**Name:** [Marklog](https://testflight.apple.com/join/1OQuD2vJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:08:12.085Z
+
+**Name:** [Party Icons](https://testflight.apple.com/join/5yCOZGvM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:08:12.085Z
+
