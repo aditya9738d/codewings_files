@@ -14331,3 +14331,73 @@
 **Categories:**
 
 
+**Name:** [Fettle](https://testflight.apple.com/join/96yjaBwS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:37:09.158Z
+**Categories:**
+
+
+**Name:** [Expo Go](https://testflight.apple.com/join/GZJxxfUU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:37:09.187Z
+**Categories:**
+
+
+**Name:** [Foreca Weather & Radar](https://testflight.apple.com/join/wG99Xsks)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:37:09.216Z
+**Categories:**
+
+
+**Name:** [Medeor Cloud](https://testflight.apple.com/join/opDByo0Q)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:37:09.247Z
+**Categories:**
+
+
+**Name:** [myWIC MOSAIC - UAT](https://testflight.apple.com/join/SRwp2yj5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:37:09.276Z
+**Categories:**
+
+
+**Name:** [gyc.app](https://testflight.apple.com/join/qwezw85T)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:37:09.304Z
+**Categories:**
+
+
+**Name:** [NamirialOTP Test](https://testflight.apple.com/join/4ZUE4zjf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:37:09.332Z
+**Categories:**
+
+
+**Name:** [Falla-Make new friends](https://testflight.apple.com/join/Z0PJKU5R)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:37:09.361Z
+**Categories:**
+
+
+**Name:** [S-AI](https://testflight.apple.com/join/2FEQ6bxb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:37:09.390Z
+**Categories:**
+
+
+**Name:** [InPost Mobile (Sandbox)](https://testflight.apple.com/join/ey6Yherd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:37:09.419Z
+**Categories:**
+
+
