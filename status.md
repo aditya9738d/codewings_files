@@ -15241,3 +15241,73 @@
 **Categories:**
 
 
+**Name:** [My MTG Collection](https://testflight.apple.com/join/QzRFLcGW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:51:09.801Z
+**Categories:**
+
+
+**Name:** [SuperFan](https://testflight.apple.com/join/4K5j8EXQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:51:09.831Z
+**Categories:**
+
+
+**Name:** [Givamaze (Dev)](https://testflight.apple.com/join/yXsSCmuy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:51:09.862Z
+**Categories:**
+
+
+**Name:** [ntv Nachrichten](https://testflight.apple.com/join/n65TDvGb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:51:09.893Z
+**Categories:**
+
+
+**Name:** [MP CRM](https://testflight.apple.com/join/NqTN0JgK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:51:09.922Z
+**Categories:**
+
+
+**Name:** [HelloFresh: Meal Kit Delivery](https://testflight.apple.com/join/zwhJ2o6f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:51:09.952Z
+**Categories:**
+
+
+**Name:** [Doppi: the nicest music player](https://testflight.apple.com/join/eMHoOSsL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:51:09.980Z
+**Categories:**
+
+
+**Name:** [Unicorn Pro:Privacy & Adblock](https://testflight.apple.com/join/Lr1vIu8x)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:51:10.009Z
+**Categories:**
+
+
+**Name:** [Crisp](https://testflight.apple.com/join/EiqYmhki)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:51:10.038Z
+**Categories:**
+
+
+**Name:** [UB UAT](https://testflight.apple.com/join/qVpMqG8k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:51:10.067Z
+**Categories:**
+
+
