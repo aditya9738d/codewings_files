@@ -12122,3 +12122,73 @@
 **Categories:**
 
 
+**Name:** [Xiaomi Kids](https://testflight.apple.com/join/YAdTqF1G)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:48:09.328Z
+**Categories:**
+
+
+**Name:** [Zepp Clarity](https://testflight.apple.com/join/JVUsHOTa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:48:09.363Z
+**Categories:**
+
+
+**Name:** [Daily Schedule Planner - Myday](https://testflight.apple.com/join/WtpRtuGC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:48:09.399Z
+**Categories:**
+
+
+**Name:** [eMart - Vendor App](https://testflight.apple.com/join/e6YrRtSn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:48:09.435Z
+**Categories:**
+
+
+**Name:** [iCountdown](https://testflight.apple.com/join/np8EtaPV)
+**Click Count:** 37
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:48:09.472Z
+**Categories:**
+
+
+**Name:** [iUBIK](https://testflight.apple.com/join/ijGm4j2h)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:48:09.508Z
+**Categories:**
+
+
+**Name:** [Niko Home](https://testflight.apple.com/join/Gieq9Zj2)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:48:09.544Z
+**Categories:**
+
+
+**Name:** [DXRating](https://testflight.apple.com/join/psw4PxSx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:48:09.580Z
+**Categories:**
+
+
+**Name:** [HKeMobility(UAT)](https://testflight.apple.com/join/4D1ZPFxw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:48:09.616Z
+**Categories:**
+
+
+**Name:** [MILITARY D-LIB](https://testflight.apple.com/join/ARQ9bL6K)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:48:09.652Z
+**Categories:**
+
+
