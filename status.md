@@ -13001,3 +13001,73 @@
 **Categories:**
 
 
+**Name:** [WooCommerce](https://testflight.apple.com/join/OG3fWsDc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:18:11.577Z
+**Categories:**
+
+
+**Name:** [Satispay](https://testflight.apple.com/join/BTd5yUrl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:18:11.605Z
+**Categories:**
+
+
+**Name:** [SAG Demo](https://testflight.apple.com/join/pWyUuGcp)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:18:11.633Z
+**Categories:**
+
+
+**Name:** [SparkPlug Test App](https://testflight.apple.com/join/YoiZB3GG)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:18:11.662Z
+**Categories:**
+
+
+**Name:** [App HawkSystem 3](https://testflight.apple.com/join/6PAVcKyd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:18:11.691Z
+**Categories:**
+
+
+**Name:** [Research Alert](https://testflight.apple.com/join/Wu2fUwAc)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:18:11.719Z
+**Categories:**
+
+
+**Name:** [StashApp Wallet](https://testflight.apple.com/join/cv3UCvFd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:18:11.747Z
+**Categories:**
+
+
+**Name:** [LaserOS](https://testflight.apple.com/join/a50EXCyb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:18:11.776Z
+**Categories:**
+
+
+**Name:** [Home Assistant](https://testflight.apple.com/join/1AlPbnLZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:18:11.804Z
+**Categories:**
+
+
+**Name:** [KabaOTC Basic](https://testflight.apple.com/join/Z59iD1rX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:18:11.832Z
+**Categories:**
+
+
