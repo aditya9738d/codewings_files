@@ -10761,3 +10761,73 @@
 **Categories:**
 
 
+**Name:** [Unique Health](https://testflight.apple.com/join/kwlzf7WJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:45:30.081Z
+**Categories:**
+
+
+**Name:** [SoundHunters App](https://testflight.apple.com/join/lV32lz89)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:45:30.117Z
+**Categories:**
+
+
+**Name:** [Benchmark Workout Tracker](https://testflight.apple.com/join/xi23tiNn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:45:30.154Z
+**Categories:**
+
+
+**Name:** [ContinuLink - Mobile Edge](https://testflight.apple.com/join/4ePdfGYS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:45:30.190Z
+**Categories:**
+
+
+**Name:** [CDS UAT](https://testflight.apple.com/join/zkWqALSD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:45:30.227Z
+**Categories:**
+
+
+**Name:** [Ton Sandbox Wallet](https://testflight.apple.com/join/wLSfTsyD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:45:30.263Z
+**Categories:**
+
+
+**Name:** [Pepper – Okazje i Kupony](https://testflight.apple.com/join/mpP6T6MN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:45:30.300Z
+**Categories:**
+
+
+**Name:** [PosPosPos](https://testflight.apple.com/join/8KMKs54Z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:45:30.336Z
+**Categories:**
+
+
+**Name:** [Glucose Direct](https://testflight.apple.com/join/dWDt5Wme)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:45:30.373Z
+**Categories:**
+
+
+**Name:** [Ultimate Cafe Franchise](https://testflight.apple.com/join/xYu5frI7)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:45:30.408Z
+**Categories:**
+
+
