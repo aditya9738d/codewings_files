@@ -2249,3 +2249,53 @@
 **Beta Available:** not accepting
 **Last Checked:** 2024-05-30T11:42:10.378Z
 
+**Name:** [Cali - Your new calendar](https://testflight.apple.com/join/yKXoESUD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:44:09.084Z
+
+**Name:** [Sila for Twitch](https://testflight.apple.com/join/tvPhZZ8w)
+**Click Count:** 16
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:44:09.084Z
+
+**Name:** [Carbon Browser](https://testflight.apple.com/join/Nd0sc84V)
+**Click Count:** 61
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:44:09.084Z
+
+**Name:** [Circle Finance](https://testflight.apple.com/join/t9LweeB5)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:44:09.084Z
+
+**Name:** [TiTi App](https://testflight.apple.com/join/NeXUqMRv)
+**Click Count:** 150
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:44:09.084Z
+
+**Name:** [NFTDuel Game](https://testflight.apple.com/join/xEyjKgoy)
+**Click Count:** 42
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:44:09.084Z
+
+**Name:** [Ask GPT Jesus](https://testflight.apple.com/join/qX0RYRDT)
+**Click Count:** 52
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:44:09.084Z
+
+**Name:** [AppMySite - My Web-to-App](https://testflight.apple.com/join/1cvKgAXc)
+**Click Count:** 13
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:44:09.084Z
+
+**Name:** [Flakey](https://testflight.apple.com/join/TGOVnAxT)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:44:09.084Z
+
+**Name:** [Get Hello World](https://testflight.apple.com/join/oRFmpWfV)
+**Click Count:** 25
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:44:09.084Z
+
