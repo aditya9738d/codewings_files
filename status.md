@@ -16851,3 +16851,73 @@
 **Categories:**
 
 
+**Name:** [Castmagic Companion](https://testflight.apple.com/join/s47OVZOS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:15:24.546Z
+**Categories:**
+
+
+**Name:** [VRBT](https://testflight.apple.com/join/g9motzTy)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:15:24.573Z
+**Categories:**
+
+
+**Name:** [BioMobile Staging](https://testflight.apple.com/join/4LOSpEHi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:15:24.602Z
+**Categories:**
+
+
+**Name:** [Travereel](https://testflight.apple.com/join/TtvTURQD)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T15:15:24.631Z
+**Categories:**
+
+
+**Name:** [Anytime Podcast Player](https://testflight.apple.com/join/C9D6ODqx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:15:24.658Z
+**Categories:**
+
+
+**Name:** [XIM NEXUS Manager](https://testflight.apple.com/join/n8ss80Zs)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:15:24.687Z
+**Categories:**
+
+
+**Name:** [Fair Plus 2](https://testflight.apple.com/join/sdBZzV82)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:15:24.716Z
+**Categories:**
+
+
+**Name:** [Wordler – Game Assistant](https://testflight.apple.com/join/Ct6gSdHk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:15:24.744Z
+**Categories:**
+
+
+**Name:** [SalesPro App](https://testflight.apple.com/join/IoBtbHF2)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:15:24.777Z
+**Categories:**
+
+
+**Name:** [Payoo Staging](https://testflight.apple.com/join/RmSi5XOX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:15:24.806Z
+**Categories:**
+
+
