@@ -12021,3 +12021,73 @@
 **Categories:**
 
 
+**Name:** [PickCard](https://testflight.apple.com/join/SNZQmonf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:04:09.956Z
+**Categories:**
+
+
+**Name:** [Orange Money JO Dev](https://testflight.apple.com/join/qvp4mFcA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:04:09.991Z
+**Categories:**
+
+
+**Name:** [Dato](https://testflight.apple.com/join/4CLefx8W)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:04:10.026Z
+**Categories:**
+
+
+**Name:** [Get A Drip](https://testflight.apple.com/join/ohtf1T5d)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:04:10.063Z
+**Categories:**
+
+
+**Name:** [Roborock](https://testflight.apple.com/join/hNr1Pz2Y)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:04:10.098Z
+**Categories:**
+
+
+**Name:** [Josplay](https://testflight.apple.com/join/EpoaguEa)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:04:10.134Z
+**Categories:**
+
+
+**Name:** [Exult Engine](https://testflight.apple.com/join/D1qeCZAB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:04:10.169Z
+**Categories:**
+
+
+**Name:** [Diligent: Minimal Daily Habits](https://testflight.apple.com/join/N9P4sCtz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:04:10.205Z
+**Categories:**
+
+
+**Name:** [Room 4™](https://testflight.apple.com/join/P7q8o1bb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:04:10.240Z
+**Categories:**
+
+
+**Name:** [CharMap — Unicode Characters](https://testflight.apple.com/join/jhiYnxfr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:04:10.276Z
+**Categories:**
+
+
