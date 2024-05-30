@@ -799,3 +799,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:13:08.808Z
 
+**Name:** [ONLINE Ticket](https://testflight.apple.com/join/YNwwlTvs)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:14:10.711Z
+
+**Name:** [BuddyBoss App for LearnDash](https://testflight.apple.com/join/nMz29b8b)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:14:10.711Z
+
+**Name:** [ZONT](https://testflight.apple.com/join/k4dsrhQc)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:14:10.711Z
+
+**Name:** [Planny • Daily Planner](https://testflight.apple.com/join/FhbZxvhv)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:14:10.711Z
+
+**Name:** [Blixt Wallet](https://testflight.apple.com/join/EXvGhRzS)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:14:10.711Z
+
+**Name:** [coffey community network](https://testflight.apple.com/join/8TYRTQz5)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:14:10.711Z
+
+**Name:** [Legatrix Mobile App](https://testflight.apple.com/join/q5mdzbKH)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:14:10.711Z
+
+**Name:** [Starr - Smart Calculator](https://testflight.apple.com/join/n2Ii3S0r)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:14:10.711Z
+
+**Name:** [Embibe Experiments Preprod](https://testflight.apple.com/join/YTAYIT3R)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:14:10.711Z
+
+**Name:** [Hand Mirror](https://testflight.apple.com/join/bnUjZUkE)
+**Click Count:** 6
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:14:10.711Z
+
