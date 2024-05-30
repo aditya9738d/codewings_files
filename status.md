@@ -11422,3 +11422,73 @@
 **Categories:**
 
 
+**Name:** [BILD News - Live Nachrichten](https://testflight.apple.com/join/dFd5Ep1N)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:38:10.076Z
+**Categories:**
+
+
+**Name:** [KingDomRaids](https://testflight.apple.com/join/8JFrpEQR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:38:10.112Z
+**Categories:**
+
+
+**Name:** [Device Jockey](https://testflight.apple.com/join/qRq26T4M)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:38:10.148Z
+**Categories:**
+
+
+**Name:** [Text Workflow: Text Converter](https://testflight.apple.com/join/ERvvaKA8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:38:10.185Z
+**Categories:**
+
+
+**Name:** [EMSD DWSS](https://testflight.apple.com/join/XF37MDj6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:38:10.221Z
+**Categories:**
+
+
+**Name:** [realme Link](https://testflight.apple.com/join/3R9OIbOM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:38:10.256Z
+**Categories:**
+
+
+**Name:** [O'Reilly](https://testflight.apple.com/join/NgZcGJdY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:38:10.292Z
+**Categories:**
+
+
+**Name:** [WhiteboardCam](https://testflight.apple.com/join/6AY81LWx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:38:10.328Z
+**Categories:**
+
+
+**Name:** [The BEATS, Resonate Your Soul](https://testflight.apple.com/join/OmsCSVSZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:38:10.365Z
+**Categories:**
+
+
+**Name:** [Garimpoo](https://testflight.apple.com/join/ChVFS6lf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:38:10.401Z
+**Categories:**
+
+
