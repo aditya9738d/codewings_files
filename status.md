@@ -9571,3 +9571,73 @@
 **Categories:**
 
 
+**Name:** [Spark Mail + AI: Email Inbox](https://testflight.apple.com/join/KbPFFvWt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:28:11.727Z
+**Categories:**
+
+
+**Name:** [sleepytime calculator](https://testflight.apple.com/join/onMsxaMt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:28:11.757Z
+**Categories:**
+
+
+**Name:** [YouKnow Social](https://testflight.apple.com/join/3t8GmeKJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:28:11.786Z
+**Categories:**
+
+
+**Name:** [MyYBS](https://testflight.apple.com/join/VKUZazR9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:28:11.814Z
+**Categories:**
+
+
+**Name:** [Piano Marvel - Lessons & Music](https://testflight.apple.com/join/QeTHyJNs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:28:11.843Z
+**Categories:**
+
+
+**Name:** [Bearable - Symptom Tracker](https://testflight.apple.com/join/tBjTRi0i)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:28:11.872Z
+**Categories:**
+
+
+**Name:** [R Plus Health - Pro](https://testflight.apple.com/join/hO6bDEAc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:28:11.900Z
+**Categories:**
+
+
+**Name:** [Bluecherry Mobile](https://testflight.apple.com/join/GM0CxkME)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:28:11.929Z
+**Categories:**
+
+
+**Name:** [VoisUWM](https://testflight.apple.com/join/DeRdeul7)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:28:11.958Z
+**Categories:**
+
+
+**Name:** [YesX.](https://testflight.apple.com/join/FFzx6ttQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:28:11.986Z
+**Categories:**
+
+
