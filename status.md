@@ -6351,3 +6351,73 @@
 **Categories:**
 
 
+**Name:** [Celo Alfajores Wallet](https://testflight.apple.com/join/8njpPy3g)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:41:12.832Z
+**Categories:**
+
+
+**Name:** [hoooks](https://testflight.apple.com/join/VktYTetp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:41:12.868Z
+**Categories:**
+
+
+**Name:** [n-Track Studio Pro | DAW](https://testflight.apple.com/join/eQFLmYjF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:41:12.905Z
+**Categories:**
+
+
+**Name:** [JOYN O&G](https://testflight.apple.com/join/nHxFuKBM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:41:12.941Z
+**Categories:**
+
+
+**Name:** [MySmartGuardPlus](https://testflight.apple.com/join/2gBa0633)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:41:12.979Z
+**Categories:**
+
+
+**Name:** [Malody V](https://testflight.apple.com/join/c3sDFUFw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:41:13.016Z
+**Categories:**
+
+
+**Name:** [Personal AI](https://testflight.apple.com/join/R53wIn4X)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:41:13.052Z
+**Categories:**
+
+
+**Name:** [Showcase - Track Movies/Shows](https://testflight.apple.com/join/7ajqVnNd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:41:13.088Z
+**Categories:**
+
+
+**Name:** [MY HAVAL](https://testflight.apple.com/join/759vMV0p)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:41:13.124Z
+**Categories:**
+
+
+**Name:** [Wyze - Make Your Home Smarter](https://testflight.apple.com/join/4QnbPoKn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:41:13.161Z
+**Categories:**
+
+
