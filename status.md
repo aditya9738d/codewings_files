@@ -40,3 +40,55 @@
 **Click Count:** 0
 **Beta Available:** open
 
+### App Status
+
+**Name:** [Empirical Sleep Tracker](https://testflight.apple.com/join/OVpc4O6M)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Hotlink STG](https://testflight.apple.com/join/76sCjfNY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Discord - Chat, Talk & Hangout](https://testflight.apple.com/join/gdE4pRzI)
+**Click Count:** 10
+**Beta Available:** full
+**Last Checked:** undefined
+
+**Name:** [Batonex](https://testflight.apple.com/join/3IiGX7uy)
+**Click Count:** 84
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [KOSPET FIT](https://testflight.apple.com/join/4Rfh1gQM)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Varzea](https://testflight.apple.com/join/hDTCtxrY)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [F8 LiveStream](https://testflight.apple.com/join/tvpJzFOW)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Graphite: Photo to Drawing](https://testflight.apple.com/join/gRhGuXzI)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** undefined
+
+**Name:** [Sapa Dev](https://testflight.apple.com/join/bACaymuB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [QLAT](https://testflight.apple.com/join/wELnBqRQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
