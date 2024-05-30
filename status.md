@@ -1118,3 +1118,73 @@
 **Categories:**
 
 
+**Name:** [Somos Referencia](https://testflight.apple.com/join/6x5fA1VZ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:06:11.525Z
+**Categories:**
+
+
+**Name:** [Sonar – Project Task Manager](https://testflight.apple.com/join/C1wZmUlK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:06:11.562Z
+**Categories:**
+
+
+**Name:** [Songpocket](https://testflight.apple.com/join/YsnTDequ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:06:11.598Z
+**Categories:**
+
+
+**Name:** [SonicJot](https://testflight.apple.com/join/Sr6LHdsR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:06:11.634Z
+**Categories:**
+
+
+**Name:** [SonicSphere](https://testflight.apple.com/join/Xnhl4qiL)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:06:11.670Z
+**Categories:**
+
+
+**Name:** [SortApp](https://testflight.apple.com/join/RIJubiZ0)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:06:11.708Z
+**Categories:**
+
+
+**Name:** [Soulie](https://testflight.apple.com/join/grMFiOKb)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:06:11.744Z
+**Categories:**
+
+
+**Name:** [Sound Credit Union Mobile](https://testflight.apple.com/join/JZPwQ9x4)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:06:11.781Z
+**Categories:**
+
+
+**Name:** [SoundHunters Vorabversion](https://testflight.apple.com/join/lV32lz89)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:06:11.818Z
+**Categories:**
+
+
+**Name:** [Space Editor](https://testflight.apple.com/join/nDBg1YBy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:06:11.854Z
+**Categories:**
+
+
