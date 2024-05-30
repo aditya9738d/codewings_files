@@ -15521,3 +15521,73 @@
 **Categories:**
 
 
+**Name:** [KSBank UAT](https://testflight.apple.com/join/q9iyx0PY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:55:20.752Z
+**Categories:**
+
+
+**Name:** [OSE Banfi STAGE](https://testflight.apple.com/join/6eY2iqjt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:55:20.789Z
+**Categories:**
+
+
+**Name:** [MTS Xpress](https://testflight.apple.com/join/oiqFKcb7)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T14:55:20.825Z
+**Categories:**
+
+
+**Name:** [iHRP QA](https://testflight.apple.com/join/FY2xNTcv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:55:20.862Z
+**Categories:**
+
+
+**Name:** [AEON Rohas UAT](https://testflight.apple.com/join/xyKrvf9m)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:55:20.899Z
+**Categories:**
+
+
+**Name:** [PRESTO](https://testflight.apple.com/join/nrw6ENok)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:55:20.936Z
+**Categories:**
+
+
+**Name:** [OneMeter](https://testflight.apple.com/join/xFdpjcCr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:55:20.972Z
+**Categories:**
+
+
+**Name:** [Pulse Ispu](https://testflight.apple.com/join/HeHMNmF9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:55:21.008Z
+**Categories:**
+
+
+**Name:** [DBOE](https://testflight.apple.com/join/txpR5LQT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:55:21.044Z
+**Categories:**
+
+
+**Name:** [PingPath](https://testflight.apple.com/join/ZTExoCh7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:55:21.081Z
+**Categories:**
+
+
