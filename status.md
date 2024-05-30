@@ -35184,3 +35184,73 @@
 **Categories:**
 
 
+**Name:** [Depesha](https://testflight.apple.com/join/7eK6bPOY)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:29:08.685Z
+**Categories:**
+
+
+**Name:** [Depict](https://testflight.apple.com/join/SE17ZkK7)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:29:08.718Z
+**Categories:**
+
+
+**Name:** [Desk](https://testflight.apple.com/join/vMm2P3Lg)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:29:08.747Z
+**Categories:**
+
+
+**Name:** [Destinations and more](https://testflight.apple.com/join/4KH29jSs)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:29:08.775Z
+**Categories:**
+
+
+**Name:** [DevShares](https://testflight.apple.com/join/VilFjxLF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:29:08.803Z
+**Categories:**
+
+
+**Name:** [Dialogy](https://testflight.apple.com/join/1Flw2nrl)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:29:08.832Z
+**Categories:**
+
+
+**Name:** [Diat](https://testflight.apple.com/join/h1QA5xQP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:29:08.860Z
+**Categories:**
+
+
+**Name:** [Dice by PCalc](https://testflight.apple.com/join/Cpvyld9O)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:29:08.889Z
+**Categories:**
+
+
+**Name:** [Dien Dan Xo So](https://testflight.apple.com/join/DUxrGP0m)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:29:08.917Z
+**Categories:**
+
+
+**Name:** [Digital Clock for Vision Pro](https://testflight.apple.com/join/fXuVnze7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:29:08.946Z
+**Categories:**
+
+
