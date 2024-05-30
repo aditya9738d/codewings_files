@@ -28674,3 +28674,73 @@
 **Categories:**
 
 
+**Name:** [Franck Muller Collection](https://testflight.apple.com/join/n2ImgOL3)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:55:17.169Z
+**Categories:**
+
+
+**Name:** [ArcGIS Field Maps (Preview)](https://testflight.apple.com/join/eVbcZEAZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:55:17.196Z
+**Categories:**
+
+
+**Name:** [MotoFUN-Int](https://testflight.apple.com/join/XmOeuqL8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:55:17.224Z
+**Categories:**
+
+
+**Name:** [AKCB Candy Wars](https://testflight.apple.com/join/OBQjEdc3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:55:17.251Z
+**Categories:**
+
+
+**Name:** [Babel](https://testflight.apple.com/join/fOJdWRcS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:55:17.278Z
+**Categories:**
+
+
+**Name:** [Simplenote](https://testflight.apple.com/join/Hg818y3x)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:55:17.305Z
+**Categories:**
+
+
+**Name:** [Wonga Lottery](https://testflight.apple.com/join/2HI4uWQP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:55:17.333Z
+**Categories:**
+
+
+**Name:** [LLM on FHIR](https://testflight.apple.com/join/HBFZ5WOn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:55:17.360Z
+**Categories:**
+
+
+**Name:** [HoloKit](https://testflight.apple.com/join/dYfqUTw6)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:55:17.388Z
+**Categories:**
+
+
+**Name:** [DNE Ecosystem](https://testflight.apple.com/join/noFcnPvI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:55:17.415Z
+**Categories:**
+
+
