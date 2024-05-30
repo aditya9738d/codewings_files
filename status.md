@@ -25664,3 +25664,73 @@
 **Categories:**
 
 
+**Name:** [Timelines Time Tracking](https://testflight.apple.com/join/zxFgcULE)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:10:26.940Z
+**Categories:**
+
+
+**Name:** [Dextra: AI Business Assistant](https://testflight.apple.com/join/vhpbl19u)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:10:26.968Z
+**Categories:**
+
+
+**Name:** [CareMonitor](https://testflight.apple.com/join/Gz3y9pb6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:10:26.996Z
+**Categories:**
+
+
+**Name:** [Leemify](https://testflight.apple.com/join/ydTGSovz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:10:27.023Z
+**Categories:**
+
+
+**Name:** [Tokkeni](https://testflight.apple.com/join/A84VY0e9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:10:27.051Z
+**Categories:**
+
+
+**Name:** [UniFi](https://testflight.apple.com/join/Pkd9a658)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:10:27.079Z
+**Categories:**
+
+
+**Name:** [Education xr](https://testflight.apple.com/join/l1XH8sFY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:10:27.107Z
+**Categories:**
+
+
+**Name:** [WidgetHealth - Widget & Health](https://testflight.apple.com/join/G0Wh2Ft0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:10:27.135Z
+**Categories:**
+
+
+**Name:** [VCM Digitization Project](https://testflight.apple.com/join/EhBNBAmr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:10:27.164Z
+**Categories:**
+
+
+**Name:** [L[AI]ban](https://testflight.apple.com/join/L1BcTYd6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:10:27.192Z
+**Categories:**
+
+
