@@ -20624,3 +20624,73 @@
 **Categories:**
 
 
+**Name:** [BETA_SoundBar](https://testflight.apple.com/join/ihUDCKgt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:56:10.138Z
+**Categories:**
+
+
+**Name:** [Vesputio](https://testflight.apple.com/join/nb7I51Fm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:56:10.167Z
+**Categories:**
+
+
+**Name:** [FunimBeta](https://testflight.apple.com/join/qZ5ZHVy8)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:56:10.196Z
+**Categories:**
+
+
+**Name:** [SAl Maryah Bank](https://testflight.apple.com/join/7qMnjhjs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:56:10.225Z
+**Categories:**
+
+
+**Name:** [NaviExpert - Nawigacja i Mapy](https://testflight.apple.com/join/TceKlU8h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:56:10.254Z
+**Categories:**
+
+
+**Name:** [Blume CarrierGo UAT](https://testflight.apple.com/join/dzsCoM5k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:56:10.283Z
+**Categories:**
+
+
+**Name:** [Bitkit Wallet Beta](https://testflight.apple.com/join/lGXhnwcC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:56:10.311Z
+**Categories:**
+
+
+**Name:** [performify](https://testflight.apple.com/join/hPe3jZ6C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:56:10.339Z
+**Categories:**
+
+
+**Name:** [The Neighborhood Squatch](https://testflight.apple.com/join/IDdMLWVz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:56:10.368Z
+**Categories:**
+
+
+**Name:** [Solis Finance App](https://testflight.apple.com/join/hSZPPY3X)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:56:10.397Z
+**Categories:**
+
+
