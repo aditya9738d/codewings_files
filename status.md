@@ -11531,3 +11531,73 @@
 **Categories:**
 
 
+**Name:** [Reading List: Book Tracker](https://testflight.apple.com/join/pceGkOgP)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:57:11.558Z
+**Categories:**
+
+
+**Name:** [Glance for Plausible](https://testflight.apple.com/join/hG0MV7FC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:57:11.595Z
+**Categories:**
+
+
+**Name:** [Merlion](https://testflight.apple.com/join/FHqco8og)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:57:11.631Z
+**Categories:**
+
+
+**Name:** [Iframe App](https://testflight.apple.com/join/hH8qBRVA)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:57:11.666Z
+**Categories:**
+
+
+**Name:** [Drafts](https://testflight.apple.com/join/Req1Hfo7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:57:11.702Z
+**Categories:**
+
+
+**Name:** [My MobiFone](https://testflight.apple.com/join/sJerfO8I)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:57:11.738Z
+**Categories:**
+
+
+**Name:** [DTLive](https://testflight.apple.com/join/NrPgK6wi)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:57:11.774Z
+**Categories:**
+
+
+**Name:** [Calibrex - Trainer](https://testflight.apple.com/join/rhFSDH0E)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:57:11.810Z
+**Categories:**
+
+
+**Name:** [mobileraker](https://testflight.apple.com/join/h9JwuyR0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:57:11.846Z
+**Categories:**
+
+
+**Name:** [MLC Chat](https://testflight.apple.com/join/57zd7oxa)
+**Click Count:** 7
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:57:11.882Z
+**Categories:**
+
+
