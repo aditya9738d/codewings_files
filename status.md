@@ -299,3 +299,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:03:08.069Z
 
+**Name:** [BOG X](https://testflight.apple.com/join/r7gWXcHK)
+**Click Count:** 36
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:04:09.645Z
+
+**Name:** [KI Competitor](https://testflight.apple.com/join/Bj4wQBC8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:04:09.645Z
+
+**Name:** [9HOLES - Golf Scorecard Editor](https://testflight.apple.com/join/huBwl3If)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:04:09.645Z
+
+**Name:** [ToneBarrier](https://testflight.apple.com/join/LqGKPwdG)
+**Click Count:** 72
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:04:09.645Z
+
+**Name:** [Vultisig](https://testflight.apple.com/join/CHHICwnO)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:04:09.645Z
+
+**Name:** [VibeStir](https://testflight.apple.com/join/JUr8BK4D)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:04:09.645Z
+
+**Name:** [Lazy Soccer](https://testflight.apple.com/join/4YpidcKp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:04:09.645Z
+
+**Name:** [PCM Wallet](https://testflight.apple.com/join/H83L59j0)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:04:09.645Z
+
+**Name:** [Chatter Social](https://testflight.apple.com/join/5OnpZ3vt)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:04:09.645Z
+
+**Name:** [Satpile - BTC Balance Tracker](https://testflight.apple.com/join/t64ljQX9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:04:09.645Z
+
