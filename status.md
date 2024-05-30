@@ -4251,3 +4251,73 @@
 **Categories:**
 
 
+**Name:** [Burger King® Baltics](https://testflight.apple.com/join/K7wGJrAN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:10:28.154Z
+**Categories:**
+
+
+**Name:** [GTMR](https://testflight.apple.com/join/aNYdAP3Z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:10:28.182Z
+**Categories:**
+
+
+**Name:** [Fleetwork](https://testflight.apple.com/join/xQdTfUGY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:10:28.210Z
+**Categories:**
+
+
+**Name:** [with Mountain Smiling](https://testflight.apple.com/join/E5S9WqvB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:10:28.238Z
+**Categories:**
+
+
+**Name:** [PI.FYI by Perfectly Imperfect](https://testflight.apple.com/join/TYTltngj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:10:28.266Z
+**Categories:**
+
+
+**Name:** [ASAKI SOUND+](https://testflight.apple.com/join/3EHi1VDt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:10:28.298Z
+**Categories:**
+
+
+**Name:** [HUAWEI CLOUD WeLink](https://testflight.apple.com/join/ve6MJxxW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:10:28.327Z
+**Categories:**
+
+
+**Name:** [Gorlov Space](https://testflight.apple.com/join/E0MADv3W)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:10:28.355Z
+**Categories:**
+
+
+**Name:** [openHAB](https://testflight.apple.com/join/563WBakc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:10:28.383Z
+**Categories:**
+
+
+**Name:** [Clean El Paso](https://testflight.apple.com/join/pAI7meoP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:10:28.415Z
+**Categories:**
+
+
