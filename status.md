@@ -28394,3 +28394,73 @@
 **Categories:**
 
 
+**Name:** [To Earn NOW](https://testflight.apple.com/join/UIdBgJp1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:51:09.472Z
+**Categories:**
+
+
+**Name:** [IronBullet](https://testflight.apple.com/join/v3htf5Q2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:51:09.500Z
+**Categories:**
+
+
+**Name:** [OPUS Connect](https://testflight.apple.com/join/ZBfFNnAg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:51:09.528Z
+**Categories:**
+
+
+**Name:** [Threema. The Secure Messenger](https://testflight.apple.com/join/R6GB5S4Q)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:51:09.556Z
+**Categories:**
+
+
+**Name:** [IIMS](https://testflight.apple.com/join/J3fdiIGZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:51:09.585Z
+**Categories:**
+
+
+**Name:** [Ultimate: Crypto DeFi Wallet](https://testflight.apple.com/join/tC4VeB8D)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:51:09.613Z
+**Categories:**
+
+
+**Name:** [AiCam AI Smart Security Camera](https://testflight.apple.com/join/iIMNrXye)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:51:09.642Z
+**Categories:**
+
+
+**Name:** [ELogistic_NorthSardiniaSail](https://testflight.apple.com/join/7Xi3zfXr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:51:09.671Z
+**Categories:**
+
+
+**Name:** [Surviving+Thriving](https://testflight.apple.com/join/DEVSJrzs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:51:09.699Z
+**Categories:**
+
+
+**Name:** [7-Eleven: Rewards & Shopping](https://testflight.apple.com/join/aC8uhJd9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:51:09.726Z
+**Categories:**
+
+
