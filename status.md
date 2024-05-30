@@ -31474,3 +31474,73 @@
 **Categories:**
 
 
+**Name:** [Soro - For Sonos](https://testflight.apple.com/join/kZxRJCNw)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T18:35:17.417Z
+**Categories:**
+
+
+**Name:** [Genesis Intelligent Assistant](https://testflight.apple.com/join/Jw6NmgWd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:35:17.446Z
+**Categories:**
+
+
+**Name:** [Monal - XMPP chat](https://testflight.apple.com/join/lLLlgHpB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:35:17.475Z
+**Categories:**
+
+
+**Name:** [Pal: Caregiver Support](https://testflight.apple.com/join/rcsTBqvI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:35:17.504Z
+**Categories:**
+
+
+**Name:** [S3 Mobile](https://testflight.apple.com/join/M7NhkZs8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:35:17.533Z
+**Categories:**
+
+
+**Name:** [Caffeine++](https://testflight.apple.com/join/o9hmznWk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:35:17.562Z
+**Categories:**
+
+
+**Name:** [SATS Beta](https://testflight.apple.com/join/HvkKHERr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:35:17.592Z
+**Categories:**
+
+
+**Name:** [VolleyballRotation](https://testflight.apple.com/join/U3rfXl4k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:35:17.620Z
+**Categories:**
+
+
+**Name:** [ONECTA](https://testflight.apple.com/join/AQUnDNBV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:35:17.650Z
+**Categories:**
+
+
+**Name:** [Harley-Davidson Connect](https://testflight.apple.com/join/JNctGH5N)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:35:17.678Z
+**Categories:**
+
+
