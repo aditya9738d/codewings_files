@@ -1349,3 +1349,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:24:10.480Z
 
+**Name:** [Innov8tifIDV](https://testflight.apple.com/join/ViWOvrlu)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:25:19.075Z
+
+**Name:** [Rumble Beans](https://testflight.apple.com/join/L8E6pwG8)
+**Click Count:** 22
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:25:19.075Z
+
+**Name:** [Revolut: Send, spend and save](https://testflight.apple.com/join/oqrinjQB)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:25:19.075Z
+
+**Name:** [YakiHonne](https://testflight.apple.com/join/tcXozZIu)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:25:19.075Z
+
+**Name:** [Balance: Meditation & Sleep](https://testflight.apple.com/join/5V7gW8Zc)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:25:19.075Z
+
+**Name:** [GameScent](https://testflight.apple.com/join/QMLqUfts)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:25:19.075Z
+
+**Name:** [MPL: Rummy, Poker, Patti Games](https://testflight.apple.com/join/j6Pz6p3E)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:25:19.075Z
+
+**Name:** [Lovewick: Relationship App](https://testflight.apple.com/join/W8EmsRMa)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:25:19.075Z
+
+**Name:** [Dupay Pro](https://testflight.apple.com/join/LpdH6PGp)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:25:19.075Z
+
+**Name:** [MAFC CRM](https://testflight.apple.com/join/V0RkG8PS)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:25:19.075Z
+
