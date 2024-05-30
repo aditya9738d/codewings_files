@@ -26434,3 +26434,73 @@
 **Categories:**
 
 
+**Name:** [Volt Wallet](https://testflight.apple.com/join/etYtq5k5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:23:08.403Z
+**Categories:**
+
+
+**Name:** [Castaway: Spatial HDMI Monitor](https://testflight.apple.com/join/H0ow9JUP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:23:08.438Z
+**Categories:**
+
+
+**Name:** [Nautica Opencart](https://testflight.apple.com/join/iqj9I1FQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:23:08.473Z
+**Categories:**
+
+
+**Name:** [AYA PAY Wallet](https://testflight.apple.com/join/YxX8VRsr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:23:08.508Z
+**Categories:**
+
+
+**Name:** [Luxury Card Lifestyle - STG](https://testflight.apple.com/join/O0TFGuAA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:23:08.543Z
+**Categories:**
+
+
+**Name:** [ZCore Wallet](https://testflight.apple.com/join/FIzCicGV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:23:08.579Z
+**Categories:**
+
+
+**Name:** [Visionbrew - Motion Capture](https://testflight.apple.com/join/IfiL2NPu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:23:08.614Z
+**Categories:**
+
+
+**Name:** [IWS 2020](https://testflight.apple.com/join/bfyIC77k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:23:08.649Z
+**Categories:**
+
+
+**Name:** [Meraki Go](https://testflight.apple.com/join/LdobmsN9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:23:08.684Z
+**Categories:**
+
+
+**Name:** [Fandelo Preview](https://testflight.apple.com/join/f7L4NBen)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:23:08.721Z
+**Categories:**
+
+
