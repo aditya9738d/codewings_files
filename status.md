@@ -1299,3 +1299,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:23:09.431Z
 
+**Name:** [Swapple - Word Puzzle Game](https://testflight.apple.com/join/XU84IqaM)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:24:10.480Z
+
+**Name:** [Harbour - Docker Manager](https://testflight.apple.com/join/F2vK7xo4)
+**Click Count:** 3
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:24:10.480Z
+
+**Name:** [Norton 360 Security & VPN](https://testflight.apple.com/join/iHcEgAaT)
+**Click Count:** 4
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:24:10.480Z
+
+**Name:** [Power Apps](https://testflight.apple.com/join/u0qAVQC6)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:24:10.480Z
+
+**Name:** [Gama Bingo](https://testflight.apple.com/join/3XiyIWZD)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:24:10.480Z
+
+**Name:** [IMDb: Movies & TV Shows](https://testflight.apple.com/join/Y9yo0X5t)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:24:10.480Z
+
+**Name:** [Feditext](https://testflight.apple.com/join/3Ik3KBjj)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:24:10.480Z
+
+**Name:** [Steps+](https://testflight.apple.com/join/jNEMGh4b)
+**Click Count:** 3
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:24:10.480Z
+
+**Name:** [Zello Walkie Talkie](https://testflight.apple.com/join/2Tux4moG)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:24:10.480Z
+
+**Name:** [Camera Companion](https://testflight.apple.com/join/z18Ngj0N)
+**Click Count:** 30
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:24:10.480Z
+
