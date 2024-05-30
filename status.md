@@ -18944,3 +18944,73 @@
 **Categories:**
 
 
+**Name:** [Infomaniak Mail](https://testflight.apple.com/join/t8dXx60N)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:32:12.038Z
+**Categories:**
+
+
+**Name:** [Appeon Workspace](https://testflight.apple.com/join/VqQv2TMz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:32:12.073Z
+**Categories:**
+
+
+**Name:** [BeKa Apps](https://testflight.apple.com/join/zPG0b0Po)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:32:12.107Z
+**Categories:**
+
+
+**Name:** [eBlockchain](https://testflight.apple.com/join/MHF9zwit)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:32:12.143Z
+**Categories:**
+
+
+**Name:** [cc-flutter-profitness](https://testflight.apple.com/join/5mPAa2UR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:32:12.179Z
+**Categories:**
+
+
+**Name:** [OnionShare](https://testflight.apple.com/join/ZCJeY65W)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:32:12.214Z
+**Categories:**
+
+
+**Name:** [Maidzo](https://testflight.apple.com/join/1tF0eQrB)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:32:12.249Z
+**Categories:**
+
+
+**Name:** [UniSecure Mobile](https://testflight.apple.com/join/bk4QLalb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:32:12.285Z
+**Categories:**
+
+
+**Name:** [Helium HNT Wallet](https://testflight.apple.com/join/SsAjbJEi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:32:12.319Z
+**Categories:**
+
+
+**Name:** [FEWS](https://testflight.apple.com/join/RpVVKAvz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:32:12.354Z
+**Categories:**
+
+
