@@ -18594,3 +18594,108 @@
 **Categories:**
 
 
+**Name:** [Akiflow](https://testflight.apple.com/join/EkR2moK1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.207Z
+**Categories:**
+
+
+**Name:** [Idle Island Builder](https://testflight.apple.com/join/mtzfb7Qu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.235Z
+**Categories:**
+
+
+**Name:** [Copia Wealth](https://testflight.apple.com/join/oUStxehv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.262Z
+**Categories:**
+
+
+**Name:** [Stanpro Genio](https://testflight.apple.com/join/LvtzYDAF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.379Z
+**Categories:**
+
+
+**Name:** [Techbit](https://testflight.apple.com/join/JbudYMLz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.407Z
+**Categories:**
+
+
+**Name:** [Audials Play - Radio & Podcast](https://testflight.apple.com/join/33fiI1b4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.439Z
+**Categories:**
+
+
+**Name:** [Tops-SIT](https://testflight.apple.com/join/d0DHc5aD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.466Z
+**Categories:**
+
+
+**Name:** [TimeSoul App](https://testflight.apple.com/join/9LjZvst1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.495Z
+**Categories:**
+
+
+**Name:** [Matchely](https://testflight.apple.com/join/nmK65ZZ3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.523Z
+**Categories:**
+
+
+**Name:** [Mita](https://testflight.apple.com/join/nYc4u0E4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.553Z
+**Categories:**
+
+
+**Name:** [MoBuddy - Language Learning](https://testflight.apple.com/join/Kc79xIIm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.582Z
+**Categories:**
+
+
+**Name:** [UPowr Installer](https://testflight.apple.com/join/po8JeuE7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.609Z
+**Categories:**
+
+
+**Name:** [Pillarbox](https://testflight.apple.com/join/TS6ngLqf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.638Z
+**Categories:**
+
+
+**Name:** [GSC Staging](https://testflight.apple.com/join/PlUcxhPI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.665Z
+**Categories:**
+
+
+**Name:** [GoShops Customer](https://testflight.apple.com/join/HQwX7A6j)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:28:13.694Z
+**Categories:**
+
+
