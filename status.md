@@ -1999,3 +1999,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:37:09.727Z
 
+**Name:** [Firefox web browser](https://testflight.apple.com/join/JdsubPZs)
+**Click Count:** 48
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:38:11.120Z
+
+**Name:** [DTVideo](https://testflight.apple.com/join/iD4Gh1AM)
+**Click Count:** 24
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:38:11.120Z
+
+**Name:** [Resy DEMO](https://testflight.apple.com/join/ra4JdZuI)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:38:11.120Z
+
+**Name:** [Twitch](https://testflight.apple.com/join/8vRKFAiY)
+**Click Count:** 28
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:38:11.120Z
+
+**Name:** [MyWeight²](https://testflight.apple.com/join/tCFT6Kfr)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:38:11.120Z
+
+**Name:** [Xade Finance](https://testflight.apple.com/join/ppdLa9dl)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:38:11.120Z
+
+**Name:** [eSchoool](https://testflight.apple.com/join/LopTn7zc)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:38:11.120Z
+
+**Name:** [Apollo](https://testflight.apple.com/join/5oPNS4nn)
+**Click Count:** 12
+**Beta Available:** error
+**Last Checked:** 2024-05-30T11:38:11.120Z
+
+**Name:** [Microsoft 365 (Office)](https://testflight.apple.com/join/eHAKJBtM)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:38:11.120Z
+
+**Name:** [Giftr - GIF Maker](https://testflight.apple.com/join/eyZbAhlV)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:38:11.120Z
+
