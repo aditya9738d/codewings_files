@@ -99,3 +99,53 @@
 **Beta Available:** full
 **Last Checked:** 2024-05-30T10:59:09.520Z
 
+**Name:** [mydealz – Gutscheine, Angebote](https://testflight.apple.com/join/LUbo3fzi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:00:52.286Z
+
+**Name:** [ObsIdentify](https://testflight.apple.com/join/mBfNWeIY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:00:52.286Z
+
+**Name:** [Zincir Market Beta](https://testflight.apple.com/join/S2QCk2zj)
+**Click Count:** 17
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:00:52.286Z
+
+**Name:** [ThreadMaster](https://testflight.apple.com/join/JwlFTX03)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:00:52.286Z
+
+**Name:** [UB-OK](https://testflight.apple.com/join/pAsYu0rE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:00:52.286Z
+
+**Name:** [talk for me](https://testflight.apple.com/join/hCuDAQT6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:00:52.286Z
+
+**Name:** [Pushover Notifications](https://testflight.apple.com/join/vkwfdWM0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:00:52.286Z
+
+**Name:** [Zoom Tan](https://testflight.apple.com/join/FgdrHesl)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:00:52.286Z
+
+**Name:** [WiFi Setup](https://testflight.apple.com/join/DIDfVri2)
+**Click Count:** 11
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:00:52.286Z
+
+**Name:** [Kade Pay Beta](https://testflight.apple.com/join/jhlHJFKC)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:00:52.286Z
+
