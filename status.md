@@ -2399,3 +2399,73 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:46:14.025Z
 
+**Name:** [SimpleX Chat: secure messenger](https://testflight.apple.com/join/DWuT2LQu)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:46:35.097Z
+**Categories:**
+
+
+**Name:** [Science of Reading](https://testflight.apple.com/join/sKBQlu0w)
+**Click Count:** 55
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:46:35.380Z
+**Categories:**
+
+
+**Name:** [VisionCode](https://testflight.apple.com/join/W7N1Vk9q)
+**Click Count:** 73
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:46:35.661Z
+**Categories:**
+
+
+**Name:** [Reach Infinity](https://testflight.apple.com/join/4rdyJbDf)
+**Click Count:** 118
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:46:35.941Z
+**Categories:**
+
+
+**Name:** [Heat — Ask Anything](https://testflight.apple.com/join/AX9JftGk)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:46:36.224Z
+**Categories:**
+
+
+**Name:** [DriverApp Dev](https://testflight.apple.com/join/VPSg1dyq)
+**Click Count:** 108
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:46:36.507Z
+**Categories:**
+
+
+**Name:** [fortitude](https://testflight.apple.com/join/IO9jqeaB)
+**Click Count:** 105
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:46:36.792Z
+**Categories:**
+
+
+**Name:** [Hyena VPN-secure & fast](https://testflight.apple.com/join/zRvqNj4y)
+**Click Count:** 2
+**Beta Available:** error
+**Last Checked:** 2024-05-30T11:46:37.078Z
+**Categories:**
+
+
+**Name:** [Waydger](https://testflight.apple.com/join/xckrvkWD)
+**Click Count:** 61
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:46:37.362Z
+**Categories:**
+
+
+**Name:** [Poolview](https://testflight.apple.com/join/JqdvQprT)
+**Click Count:** 71
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:46:37.656Z
+**Categories:**
+
+
