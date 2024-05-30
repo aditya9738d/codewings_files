@@ -978,3 +978,73 @@
 **Categories:**
 
 
+**Name:** [Smart Card Utility](https://testflight.apple.com/join/eMO0PY8T)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:04:10.101Z
+**Categories:**
+
+
+**Name:** [Smart Card Utility AVP](https://testflight.apple.com/join/3J4RfCfp)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:04:10.137Z
+**Categories:**
+
+
+**Name:** [Smart Card Utility Browser](https://testflight.apple.com/join/tqE9oCTS)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:04:10.173Z
+**Categories:**
+
+
+**Name:** [Smart Duel Disk](https://testflight.apple.com/join/eBlsGP1I)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:04:10.209Z
+**Categories:**
+
+
+**Name:** [Smart Duel Gazer](https://testflight.apple.com/join/3eAV5YYt)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:04:10.244Z
+**Categories:**
+
+
+**Name:** [Smart-Travel](https://testflight.apple.com/join/PwBJ6Clz)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:04:10.280Z
+**Categories:**
+
+
+**Name:** [SmartLoop](https://testflight.apple.com/join/qSgJB0pI)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:04:10.316Z
+**Categories:**
+
+
+**Name:** [SmokingArea](https://testflight.apple.com/join/GjTVceT9)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:04:10.351Z
+**Categories:**
+
+
+**Name:** [SmoothTrack: Head Tracker](https://testflight.apple.com/join/ytc1tAdA)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:04:10.388Z
+**Categories:**
+
+
+**Name:** [Smugshot: Catfish-Proof Dating](https://testflight.apple.com/join/L3fAq4nr)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:04:10.423Z
+**Categories:**
+
+
