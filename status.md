@@ -558,3 +558,73 @@
 **Categories:**
 
 
+**Name:** [SaoRong](https://testflight.apple.com/join/0fcvJObP)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:58:08.785Z
+**Categories:**
+
+
+**Name:** [Sari](https://testflight.apple.com/join/nkfcGmjE)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:58:08.813Z
+**Categories:**
+
+
+**Name:** [Satodime](https://testflight.apple.com/join/1nQlvjgn)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:58:08.841Z
+**Categories:**
+
+
+**Name:** [Save Mart Supermarkets](https://testflight.apple.com/join/lC1SEIkz)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:58:08.868Z
+**Categories:**
+
+
+**Name:** [SaveDay - Your Knowledge Buddy](https://testflight.apple.com/join/g7rqSkKQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:58:08.896Z
+**Categories:**
+
+
+**Name:** [Scanner App: Genius Scan](https://testflight.apple.com/join/v2xNVdTt)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:58:08.924Z
+**Categories:**
+
+
+**Name:** [SceneShot](https://testflight.apple.com/join/H7iMSV4u)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:58:08.951Z
+**Categories:**
+
+
+**Name:** [Schiphalast](https://testflight.apple.com/join/Qy67ai4p)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:58:08.980Z
+**Categories:**
+
+
+**Name:** [ScooterLui](https://testflight.apple.com/join/xV4bLOSD)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:58:09.008Z
+**Categories:**
+
+
+**Name:** [Scopi - VR Camera](https://testflight.apple.com/join/KhjqHJuI)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:58:09.036Z
+**Categories:**
+
+
