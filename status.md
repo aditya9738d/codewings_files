@@ -31964,3 +31964,73 @@
 **Categories:**
 
 
+**Name:** [SN Lift](https://testflight.apple.com/join/PkTLYlpJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:43:10.351Z
+**Categories:**
+
+
+**Name:** [Home AC](https://testflight.apple.com/join/nbXXSEpD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:43:10.380Z
+**Categories:**
+
+
+**Name:** [Decathlon Outdoor : randonnée](https://testflight.apple.com/join/U2ccfsaY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:43:10.408Z
+**Categories:**
+
+
+**Name:** [MyUWLUAT](https://testflight.apple.com/join/0qCfYNn9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:43:10.436Z
+**Categories:**
+
+
+**Name:** [Jcoin Shop ST](https://testflight.apple.com/join/AM3GWvJW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:43:10.464Z
+**Categories:**
+
+
+**Name:** [Sangoma Meet](https://testflight.apple.com/join/BEd12vi5)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:43:10.492Z
+**Categories:**
+
+
+**Name:** [Tidus Wallet](https://testflight.apple.com/join/kJyhyCne)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:43:10.521Z
+**Categories:**
+
+
+**Name:** [PostFinance App](https://testflight.apple.com/join/936S1cyU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:43:10.549Z
+**Categories:**
+
+
+**Name:** [Airveep](https://testflight.apple.com/join/t4bgGEWe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:43:10.580Z
+**Categories:**
+
+
+**Name:** [Deliverect(Staging)](https://testflight.apple.com/join/4dCmSumR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:43:10.608Z
+**Categories:**
+
+
