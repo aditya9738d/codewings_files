@@ -7541,3 +7541,73 @@
 **Categories:**
 
 
+**Name:** [Ulanzi Connect](https://testflight.apple.com/join/uToPGoFR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:58:14.110Z
+**Categories:**
+
+
+**Name:** [Lith IRC](https://testflight.apple.com/join/QfcVgNHD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:58:14.139Z
+**Categories:**
+
+
+**Name:** [Apporio Preview - Partner](https://testflight.apple.com/join/y1SFcF3u)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:58:14.169Z
+**Categories:**
+
+
+**Name:** [ACN](https://testflight.apple.com/join/mkW1kia1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:58:14.198Z
+**Categories:**
+
+
+**Name:** [EVA VPN App](https://testflight.apple.com/join/9ZHaA0JP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:58:14.225Z
+**Categories:**
+
+
+**Name:** [GigOmni](https://testflight.apple.com/join/P1B9aFy4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:58:14.253Z
+**Categories:**
+
+
+**Name:** [Courier Rider VN](https://testflight.apple.com/join/saF5qiaj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:58:14.282Z
+**Categories:**
+
+
+**Name:** [Duet](https://testflight.apple.com/join/ltKGGLIf)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:58:14.310Z
+**Categories:**
+
+
+**Name:** [F/Mobile](https://testflight.apple.com/join/SOOpPlZ5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:58:14.339Z
+**Categories:**
+
+
+**Name:** [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:58:14.368Z
+**Categories:**
+
+
