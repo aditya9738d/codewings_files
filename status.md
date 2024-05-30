@@ -8831,3 +8831,73 @@
 **Categories:**
 
 
+**Name:** [VPN ExpressVPN - Fast & Secure](https://testflight.apple.com/join/6flRfmYW)
+**Click Count:** 12
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:01:12.468Z
+**Categories:**
+
+
+**Name:** [RAFA: AI Investment Copilot](https://testflight.apple.com/join/LqD6DlOe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:01:12.504Z
+**Categories:**
+
+
+**Name:** [Blocs - Website Builder](https://testflight.apple.com/join/B4bn2vEz)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:01:12.540Z
+**Categories:**
+
+
+**Name:** [Jetpack for WordPress](https://testflight.apple.com/join/AZG7g4Bg)
+**Click Count:** 41
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:01:12.577Z
+**Categories:**
+
+
+**Name:** [Icons Of Theia: Tactical RPG](https://testflight.apple.com/join/XZYouium)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:01:12.613Z
+**Categories:**
+
+
+**Name:** [Applight – Next App Switcher](https://testflight.apple.com/join/DG64k6Ag)
+**Click Count:** 7
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:01:12.650Z
+**Categories:**
+
+
+**Name:** [AirPages](https://testflight.apple.com/join/ISWpAxRP)
+**Click Count:** 18
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:01:12.685Z
+**Categories:**
+
+
+**Name:** [Carnets - Jupyter (with scipy)](https://testflight.apple.com/join/UbNIjkjp)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:01:12.722Z
+**Categories:**
+
+
+**Name:** [Foursquare City Guide](https://testflight.apple.com/join/At7rr385)
+**Click Count:** 20
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:01:12.759Z
+**Categories:**
+
+
+**Name:** [Al Noor Prayer](https://testflight.apple.com/join/2w56J00s)
+**Click Count:** 34
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:01:12.795Z
+**Categories:**
+
+
