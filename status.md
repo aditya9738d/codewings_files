@@ -4712,3 +4712,74 @@
 **Categories:**
 
 
+**Name:** [Firefox Beta web browser](https://testflight.apple.com/join/JdsubPZs)
+**Click Count:** 71
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:01:08.886Z
+**Categories:**
+- Browser
+- Utility
+
+**Name:** [SyenApp: Private Search & Shop](https://testflight.apple.com/join/GxsamE35)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:01:08.916Z
+**Categories:**
+
+
+**Name:** [Charge HQ](https://testflight.apple.com/join/yJr5Y0O9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:01:08.944Z
+**Categories:**
+
+
+**Name:** [Truck Maps Navigation](https://testflight.apple.com/join/vpYkazUc)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:01:08.972Z
+**Categories:**
+
+
+**Name:** [FoxCloud2.0](https://testflight.apple.com/join/MxSFUO60)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:01:08.999Z
+**Categories:**
+
+
+**Name:** [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:01:09.027Z
+**Categories:**
+
+
+**Name:** [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:01:09.056Z
+**Categories:**
+
+
+**Name:** [Traini -Dog Training & AI Chat](https://testflight.apple.com/join/dA6l0fWU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:01:09.084Z
+**Categories:**
+
+
+**Name:** [phaze](https://testflight.apple.com/join/fkQWk37B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:01:09.112Z
+**Categories:**
+
+
+**Name:** [monteStory](https://testflight.apple.com/join/EkfsDlme)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:01:09.141Z
+**Categories:**
+
+
