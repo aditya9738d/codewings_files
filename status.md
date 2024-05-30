@@ -9322,3 +9322,73 @@
 **Categories:**
 
 
+**Name:** [Connect Social: Everything app](https://testflight.apple.com/join/TFOyqUZD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:08:10.898Z
+**Categories:**
+
+
+**Name:** [RESWUE](https://testflight.apple.com/join/IuHQgJ7s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:08:10.934Z
+**Categories:**
+
+
+**Name:** [cnvrs](https://testflight.apple.com/join/ERFxInZg)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:08:10.969Z
+**Categories:**
+
+
+**Name:** [SIMOSA (Previously Jazz World)](https://testflight.apple.com/join/522ZboUu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:08:11.005Z
+**Categories:**
+
+
+**Name:** [Otis Lift](https://testflight.apple.com/join/wfVQ3WRf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:08:11.041Z
+**Categories:**
+
+
+**Name:** [AccuStore® 6](https://testflight.apple.com/join/G9LcbUPW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:08:11.077Z
+**Categories:**
+
+
+**Name:** [Mobile Forms](https://testflight.apple.com/join/zKEewGUW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:08:11.113Z
+**Categories:**
+
+
+**Name:** [Dope Wars (Weed Edition) Lite](https://testflight.apple.com/join/r5UDBOOa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:08:11.149Z
+**Categories:**
+
+
+**Name:** [Selcom Bank](https://testflight.apple.com/join/AdEDRmXH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:08:11.185Z
+**Categories:**
+
+
+**Name:** [fukushimabank-stg-3](https://testflight.apple.com/join/iF0Er5Gy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:08:11.221Z
+**Categories:**
+
+
