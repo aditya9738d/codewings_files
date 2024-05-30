@@ -17859,3 +17859,73 @@
 **Categories:**
 
 
+**Name:** [Movavi: Photo & Video Editor](https://testflight.apple.com/join/Fbqgk7Fv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:24:05.659Z
+**Categories:**
+
+
+**Name:** [HondaTouch](https://testflight.apple.com/join/SlTAvT7i)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:24:05.934Z
+**Categories:**
+
+
+**Name:** [JSTCC](https://testflight.apple.com/join/wHWkBbHw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:24:06.221Z
+**Categories:**
+
+
+**Name:** [phizlive](https://testflight.apple.com/join/uBmt7vKb)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:24:06.497Z
+**Categories:**
+
+
+**Name:** [AdGuard  — adblock&privacy](https://testflight.apple.com/join/PMfu4nmW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:24:06.777Z
+**Categories:**
+
+
+**Name:** [MyGOtv](https://testflight.apple.com/join/gXYXZLgF)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:24:07.054Z
+**Categories:**
+
+
+**Name:** [Mobox Wallet](https://testflight.apple.com/join/abV2hPXU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:24:07.330Z
+**Categories:**
+
+
+**Name:** [MyCHIPs](https://testflight.apple.com/join/5IP35ipV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:24:07.605Z
+**Categories:**
+
+
+**Name:** [Connectcz](https://testflight.apple.com/join/ScBdVqMB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:24:07.881Z
+**Categories:**
+
+
+**Name:** [shanglifetest](https://testflight.apple.com/join/9c3C2Nz6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:24:08.158Z
+**Categories:**
+
+
