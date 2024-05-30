@@ -33644,3 +33644,73 @@
 **Categories:**
 
 
+**Name:** [Birthday calendar and reminder](https://testflight.apple.com/join/gVTAc8tM)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:07:08.877Z
+**Categories:**
+
+
+**Name:** [Bit Idle Clicker](https://testflight.apple.com/join/05tsD7pA)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:07:08.905Z
+**Categories:**
+
+
+**Name:** [Bit.com](https://testflight.apple.com/join/WzCYBFt5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:07:08.933Z
+**Categories:**
+
+
+**Name:** [BitRemote](https://testflight.apple.com/join/hFmuaUmv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:07:08.962Z
+**Categories:**
+
+
+**Name:** [BitRemote Deprecated](https://testflight.apple.com/join/yOuPRI3A)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:07:08.990Z
+**Categories:**
+
+
+**Name:** [Bitget Wallet-Formerly BitKeep](https://testflight.apple.com/join/gMNlVK4J)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:07:09.019Z
+**Categories:**
+
+
+**Name:** [Bitkit Wallet](https://testflight.apple.com/join/lGXhnwcC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:07:09.048Z
+**Categories:**
+
+
+**Name:** [Bitsika](https://testflight.apple.com/join/RebaZl7S)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:07:09.077Z
+**Categories:**
+
+
+**Name:** [Bitstar War](https://testflight.apple.com/join/4l75oRYV)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:07:09.106Z
+**Categories:**
+
+
+**Name:** [Bizpoint Social](https://testflight.apple.com/join/D3hp3VO5)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:07:09.134Z
+**Categories:**
+
+
