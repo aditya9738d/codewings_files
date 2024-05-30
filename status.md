@@ -17621,3 +17621,73 @@
 **Categories:**
 
 
+**Name:** [Qubika](https://testflight.apple.com/join/iI7bpjVW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:08.347Z
+**Categories:**
+
+
+**Name:** [Imprivata Locker](https://testflight.apple.com/join/bU0feGam)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:08.382Z
+**Categories:**
+
+
+**Name:** [Prime Web](https://testflight.apple.com/join/l6t5kD1G)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:08.419Z
+**Categories:**
+
+
+**Name:** [Yaapt](https://testflight.apple.com/join/DiMLxTC4)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:08.454Z
+**Categories:**
+
+
+**Name:** [BOOM CRM](https://testflight.apple.com/join/HoCiXQql)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:08.490Z
+**Categories:**
+
+
+**Name:** [Bitunix : Crypto & BTC Trading](https://testflight.apple.com/join/riLL6dc0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:08.527Z
+**Categories:**
+
+
+**Name:** [Meditation Timer - Zenitizer](https://testflight.apple.com/join/QvKyRJ8x)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:08.563Z
+**Categories:**
+
+
+**Name:** [Xelerate Suite](https://testflight.apple.com/join/L89HPOdQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:08.600Z
+**Categories:**
+
+
+**Name:** [Pace-Calc](https://testflight.apple.com/join/Ge4pa25s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:08.635Z
+**Categories:**
+
+
+**Name:** [Rondo Measure and Quote](https://testflight.apple.com/join/Hc0drHQj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:08.671Z
+**Categories:**
+
+
