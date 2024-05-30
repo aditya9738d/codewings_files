@@ -31124,3 +31124,73 @@
 **Categories:**
 
 
+**Name:** [iVoRi XR V4](https://testflight.apple.com/join/RbesVa8g)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:30:43.059Z
+**Categories:**
+
+
+**Name:** [Abilition Rise](https://testflight.apple.com/join/zKopXYyf)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:30:43.095Z
+**Categories:**
+
+
+**Name:** [HOM - Unimed Cooperado](https://testflight.apple.com/join/bRkYYlJ9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:30:43.132Z
+**Categories:**
+
+
+**Name:** [WebLink Host](https://testflight.apple.com/join/1G6evopJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:30:43.168Z
+**Categories:**
+
+
+**Name:** [Sonar by Kujira](https://testflight.apple.com/join/ISbDaKs7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:30:43.205Z
+**Categories:**
+
+
+**Name:** [izibank: легкий мобільний банк](https://testflight.apple.com/join/1tKyw5jh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:30:43.241Z
+**Categories:**
+
+
+**Name:** [iOiO New](https://testflight.apple.com/join/UfgjAldx)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:30:43.277Z
+**Categories:**
+
+
+**Name:** [LoanKiemUs](https://testflight.apple.com/join/XHeMYnlj)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:30:43.314Z
+**Categories:**
+
+
+**Name:** [Combustion Inc.](https://testflight.apple.com/join/tpQZYiNV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:30:43.353Z
+**Categories:**
+
+
+**Name:** [Owwll Beta](https://testflight.apple.com/join/uraOO51T)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:30:43.389Z
+**Categories:**
+
+
