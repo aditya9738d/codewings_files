@@ -40434,3 +40434,73 @@
 **Categories:**
 
 
+**Name:** [R Plus Health - Pro Edition](https://testflight.apple.com/join/hO6bDEAc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:49:09.050Z
+**Categories:**
+
+
+**Name:** [R Wings](https://testflight.apple.com/join/n2HqT1AC)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:49:09.086Z
+**Categories:**
+
+
+**Name:** [RAM Rally Tracker](https://testflight.apple.com/join/Q8mmK3JV)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:49:09.123Z
+**Categories:**
+
+
+**Name:** [RB Link](https://testflight.apple.com/join/HLOIF0k2)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:49:09.159Z
+**Categories:**
+
+
+**Name:** [RFR](https://testflight.apple.com/join/WLxRmdZG)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:49:09.194Z
+**Categories:**
+
+
+**Name:** [RPM -- Give Every Day A Song](https://testflight.apple.com/join/leEkooCZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:49:09.232Z
+**Categories:**
+
+
+**Name:** [RPro](https://testflight.apple.com/join/rdsVfdjz)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:49:09.267Z
+**Categories:**
+
+
+**Name:** [RTiPanel](https://testflight.apple.com/join/gPKY8Fje)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:49:09.304Z
+**Categories:**
+
+
+**Name:** [Raccoon City](https://testflight.apple.com/join/eH7QRcKe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:49:09.340Z
+**Categories:**
+
+
+**Name:** [Rain Viewer: Weather Radar](https://testflight.apple.com/join/OZ1B4sTS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:49:09.375Z
+**Categories:**
+
+
