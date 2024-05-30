@@ -19434,3 +19434,73 @@
 **Categories:**
 
 
+**Name:** [Aljazary Sales Reps](https://testflight.apple.com/join/SrTr8pQP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:39:08.857Z
+**Categories:**
+
+
+**Name:** [Venus Agency](https://testflight.apple.com/join/Gnxzbexp)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:39:08.885Z
+**Categories:**
+
+
+**Name:** [Florisium](https://testflight.apple.com/join/XTBahndu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:39:08.913Z
+**Categories:**
+
+
+**Name:** [SendingMe](https://testflight.apple.com/join/nGIMz8oy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:39:08.942Z
+**Categories:**
+
+
+**Name:** [Magic Ahoi P](https://testflight.apple.com/join/dvfyC5LH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:39:08.970Z
+**Categories:**
+
+
+**Name:** [Interlink](https://testflight.apple.com/join/gPYboS6p)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:39:09.000Z
+**Categories:**
+
+
+**Name:** [Cambox V3+](https://testflight.apple.com/join/5EkChLzu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:39:09.029Z
+**Categories:**
+
+
+**Name:** [Noicely.ai](https://testflight.apple.com/join/Vprynawt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:39:09.057Z
+**Categories:**
+
+
+**Name:** [ReSt](https://testflight.apple.com/join/RXaPhq53)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:39:09.085Z
+**Categories:**
+
+
+**Name:** [VPN & Antivirus by Kaspersky](https://testflight.apple.com/join/UgSdu1K8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:39:09.115Z
+**Categories:**
+
+
