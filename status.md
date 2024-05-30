@@ -27484,3 +27484,73 @@
 **Categories:**
 
 
+**Name:** [Consolinno Energy HEMS](https://testflight.apple.com/join/WsGtsHsP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:38:15.224Z
+**Categories:**
+
+
+**Name:** [J-Wallet](https://testflight.apple.com/join/ie76LZCG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:38:15.259Z
+**Categories:**
+
+
+**Name:** [Microsoft Planner](https://testflight.apple.com/join/moiTpIqb)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:38:15.293Z
+**Categories:**
+
+
+**Name:** [Al Mayadeen](https://testflight.apple.com/join/jReQ1L8Y)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:38:15.329Z
+**Categories:**
+
+
+**Name:** [Capital 28](https://testflight.apple.com/join/sWvydMQn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:38:15.364Z
+**Categories:**
+
+
+**Name:** [WeCopyTrade](https://testflight.apple.com/join/kBZXJVd4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:38:15.398Z
+**Categories:**
+
+
+**Name:** [Gate of Abyss: GPS-Based RPG](https://testflight.apple.com/join/t7VtpoRD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:38:15.434Z
+**Categories:**
+
+
+**Name:** [UniFi Access](https://testflight.apple.com/join/CCG4Os70)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:38:15.470Z
+**Categories:**
+
+
+**Name:** [RecipeChef: Recipe Manager](https://testflight.apple.com/join/j5urtlwj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:38:15.505Z
+**Categories:**
+
+
+**Name:** [HiWater: Powerful Water Logger](https://testflight.apple.com/join/JamzElgi)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:38:15.540Z
+**Categories:**
+
+
