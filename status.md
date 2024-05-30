@@ -12612,3 +12612,73 @@
 **Categories:**
 
 
+**Name:** [Note To Self Mail](https://testflight.apple.com/join/dYMPAThh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:55:17.146Z
+**Categories:**
+
+
+**Name:** [ROBOOTER+](https://testflight.apple.com/join/puG9uH7T)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:55:17.181Z
+**Categories:**
+
+
+**Name:** [Viidure](https://testflight.apple.com/join/2msJGLhk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:55:17.216Z
+**Categories:**
+
+
+**Name:** [HiCoffee - Caffeine Tracker](https://testflight.apple.com/join/yTaowxYa)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:55:17.252Z
+**Categories:**
+
+
+**Name:** [Wombat - Home of NFT Gaming](https://testflight.apple.com/join/0G9Qe0it)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:55:17.287Z
+**Categories:**
+
+
+**Name:** [KFC India online ordering app](https://testflight.apple.com/join/NaEKmoFx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:55:17.324Z
+**Categories:**
+
+
+**Name:** [alfaview](https://testflight.apple.com/join/uPaaoT1e)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:55:17.359Z
+**Categories:**
+
+
+**Name:** [Incom Mobile](https://testflight.apple.com/join/KXIdBk2h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:55:17.394Z
+**Categories:**
+
+
+**Name:** [Infomaniak kDrive](https://testflight.apple.com/join/qZHSGy5B)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:55:17.430Z
+**Categories:**
+
+
+**Name:** [MyPace - Control Your I-Pace](https://testflight.apple.com/join/SPMprsWo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:55:17.466Z
+**Categories:**
+
+
