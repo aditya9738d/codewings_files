@@ -9501,3 +9501,73 @@
 **Categories:**
 
 
+**Name:** [Seznam Messenger](https://testflight.apple.com/join/Fkh1NPuw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:27:11.100Z
+**Categories:**
+
+
+**Name:** [Pagos por Whatsapp](https://testflight.apple.com/join/d2eVesnW)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:27:11.129Z
+**Categories:**
+
+
+**Name:** [Aislingeach](https://testflight.apple.com/join/Q6WyyEpS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:27:11.158Z
+**Categories:**
+
+
+**Name:** [LevelApp](https://testflight.apple.com/join/6prz5TOR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:27:11.186Z
+**Categories:**
+
+
+**Name:** [Pivot88](https://testflight.apple.com/join/bNJ2ITDM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:27:11.216Z
+**Categories:**
+
+
+**Name:** [adoc Studio](https://testflight.apple.com/join/0mDOqdOt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:27:11.245Z
+**Categories:**
+
+
+**Name:** [PicPay: Conta, Pix e Cartão](https://testflight.apple.com/join/4lJVk53x)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:27:11.274Z
+**Categories:**
+
+
+**Name:** [OBDeleven Car diagnostics app](https://testflight.apple.com/join/PmfOjo0T)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:27:11.303Z
+**Categories:**
+
+
+**Name:** [VeSync](https://testflight.apple.com/join/fJBKUFNX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:27:11.331Z
+**Categories:**
+
+
+**Name:** [Link Trade](https://testflight.apple.com/join/KLy5fJat)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:27:11.359Z
+**Categories:**
+
+
