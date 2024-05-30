@@ -7121,3 +7121,73 @@
 **Categories:**
 
 
+**Name:** [UPC TV](https://testflight.apple.com/join/CuDxceM5)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:52:10.647Z
+**Categories:**
+
+
+**Name:** [My LEXUS](https://testflight.apple.com/join/bvdS5Fd2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:52:10.675Z
+**Categories:**
+
+
+**Name:** [PurplePages.App](https://testflight.apple.com/join/ECKcvtwi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:52:10.703Z
+**Categories:**
+
+
+**Name:** [Nukua Gestor Comercial STAS](https://testflight.apple.com/join/X9jhbpWW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:52:10.730Z
+**Categories:**
+
+
+**Name:** [HCL Connections](https://testflight.apple.com/join/4aWO2Eib)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:52:10.758Z
+**Categories:**
+
+
+**Name:** [Lock Launcher - Screen Widgets](https://testflight.apple.com/join/LAl8MicM)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:52:10.787Z
+**Categories:**
+
+
+**Name:** [Dopple.AI](https://testflight.apple.com/join/Trkz2Sx1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:52:10.814Z
+**Categories:**
+
+
+**Name:** [Ame Digital QA](https://testflight.apple.com/join/NfWE3Lyi)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:52:10.842Z
+**Categories:**
+
+
+**Name:** [iCL Filler 2](https://testflight.apple.com/join/UXxH9a4F)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:52:10.869Z
+**Categories:**
+
+
+**Name:** [CA Vietnam Patient](https://testflight.apple.com/join/7kDWlWrr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:52:10.897Z
+**Categories:**
+
+
