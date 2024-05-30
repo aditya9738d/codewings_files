@@ -1099,3 +1099,53 @@
 **Beta Available:** not accepting
 **Last Checked:** 2024-05-30T11:19:10.279Z
 
+**Name:** [NotePlan - Planning with Notes](https://testflight.apple.com/join/fm9q4OjE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:20:27.519Z
+
+**Name:** [Ninja School](https://testflight.apple.com/join/O1jTSJWE)
+**Click Count:** 39
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:20:27.519Z
+
+**Name:** [Spezi Template Application](https://testflight.apple.com/join/ipEezBY1)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:20:27.519Z
+
+**Name:** [AMT Mobile V3](https://testflight.apple.com/join/PwQllkbR)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:20:27.519Z
+
+**Name:** [Walbi: AI Crypto Assistant](https://testflight.apple.com/join/QRbXi8u3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:20:27.519Z
+
+**Name:** [Syncfusion MAUI UI Controls](https://testflight.apple.com/join/EEOtwVNN)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:20:27.519Z
+
+**Name:** [YoWindow Weather 2](https://testflight.apple.com/join/pFytRDso)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:20:27.519Z
+
+**Name:** [Flightman Flight Crew](https://testflight.apple.com/join/JAkLLOPT)
+**Click Count:** 27
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:20:27.519Z
+
+**Name:** [Nanoleaf](https://testflight.apple.com/join/e6YpifHl)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:20:27.519Z
+
+**Name:** [JEFIT Workout Planner Gym Log](https://testflight.apple.com/join/xQf8YqKR)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:20:27.519Z
+
