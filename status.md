@@ -3691,3 +3691,73 @@
 **Categories:**
 
 
+**Name:** [LeitzXPert](https://testflight.apple.com/join/Ugn8mYBJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:02:12.009Z
+**Categories:**
+
+
+**Name:** [FIO MOTUS](https://testflight.apple.com/join/cYi790XR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:02:12.040Z
+**Categories:**
+
+
+**Name:** [Training Camp](https://testflight.apple.com/join/9mDQ8dl8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:02:12.069Z
+**Categories:**
+
+
+**Name:** [CryptoQR Pay](https://testflight.apple.com/join/0IOfCbnR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:02:12.100Z
+**Categories:**
+
+
+**Name:** [iHome Clean](https://testflight.apple.com/join/O1BELvNa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:02:12.128Z
+**Categories:**
+
+
+**Name:** [MobiPoints](https://testflight.apple.com/join/zzjnifFr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:02:12.161Z
+**Categories:**
+
+
+**Name:** [Wacky Genes](https://testflight.apple.com/join/1OTnKDDd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:02:12.189Z
+**Categories:**
+
+
+**Name:** [Sydbanks Mobilbank Privat](https://testflight.apple.com/join/Yh7ENG71)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:02:12.219Z
+**Categories:**
+
+
+**Name:** [HIV Testing App](https://testflight.apple.com/join/NRNtAI3J)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:02:12.247Z
+**Categories:**
+
+
+**Name:** [SSBeauty: Beauty Shopping App](https://testflight.apple.com/join/clWVMqlG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:02:12.301Z
+**Categories:**
+
+
