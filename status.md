@@ -24264,3 +24264,73 @@
 **Categories:**
 
 
+**Name:** [AC Capital Market](https://testflight.apple.com/join/YF6xIlCq)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:50:24.615Z
+**Categories:**
+
+
+**Name:** [Radio by @oliverapps](https://testflight.apple.com/join/cihSea1P)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:50:24.643Z
+**Categories:**
+
+
+**Name:** [MMOB Preview](https://testflight.apple.com/join/SRkmO1Im)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:50:24.671Z
+**Categories:**
+
+
+**Name:** [IPGuard VPN](https://testflight.apple.com/join/AJsCqFlf)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:50:24.699Z
+**Categories:**
+
+
+**Name:** [Enpass - Password Manager](https://testflight.apple.com/join/ZKjpX8qr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:50:24.728Z
+**Categories:**
+
+
+**Name:** [Tachimanga](https://testflight.apple.com/join/FD3X8KuX)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T16:50:24.757Z
+**Categories:**
+
+
+**Name:** [HatTrac V](https://testflight.apple.com/join/18aRM7zS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:50:24.785Z
+**Categories:**
+
+
+**Name:** [OvaDrive](https://testflight.apple.com/join/BRi0RDwa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:50:24.814Z
+**Categories:**
+
+
+**Name:** [Partner app for WooCommerce](https://testflight.apple.com/join/G6H4vdqI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:50:24.842Z
+**Categories:**
+
+
+**Name:** [Allwyn](https://testflight.apple.com/join/wDCK3CI0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:50:24.871Z
+**Categories:**
+
+
