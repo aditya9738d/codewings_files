@@ -17201,3 +17201,73 @@
 **Categories:**
 
 
+**Name:** [Serial Reader](https://testflight.apple.com/join/T8mtWpmc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:20:27.686Z
+**Categories:**
+
+
+**Name:** [KEIYO Alcohol Sensor](https://testflight.apple.com/join/lASfXSKZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:20:27.715Z
+**Categories:**
+
+
+**Name:** [Yandex Browser](https://testflight.apple.com/join/Y4k4ze6V)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:20:27.745Z
+**Categories:**
+
+
+**Name:** [Waffle Project](https://testflight.apple.com/join/PRP1YCVJ)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T15:20:27.773Z
+**Categories:**
+
+
+**Name:** [Blackout Lighting Console](https://testflight.apple.com/join/01GUYfy7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:20:27.801Z
+**Categories:**
+
+
+**Name:** [Praying Lots](https://testflight.apple.com/join/b25rY2vZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:20:27.830Z
+**Categories:**
+
+
+**Name:** [Crouton: Recipe Manager](https://testflight.apple.com/join/jwtQpV11)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:20:27.860Z
+**Categories:**
+
+
+**Name:** [ABA Simulator](https://testflight.apple.com/join/HNyq7UCm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:20:27.891Z
+**Categories:**
+
+
+**Name:** [ACCIONA Linked Site - Dev](https://testflight.apple.com/join/G8YHVAJM)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:20:27.919Z
+**Categories:**
+
+
+**Name:** [Vice Streaming](https://testflight.apple.com/join/yeg3HaSe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:20:27.954Z
+**Categories:**
+
+
