@@ -9641,3 +9641,73 @@
 **Categories:**
 
 
+**Name:** [Flexer](https://testflight.apple.com/join/4Tzz5co9)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:29:10.745Z
+**Categories:**
+
+
+**Name:** [Morpher: Trading and Investing](https://testflight.apple.com/join/bpqEWAq2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:29:10.779Z
+**Categories:**
+
+
+**Name:** [AnyGo](https://testflight.apple.com/join/7brbunBZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:29:10.807Z
+**Categories:**
+
+
+**Name:** [AnkiMobile Flashcards](https://testflight.apple.com/join/awbk2iH2)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:29:10.835Z
+**Categories:**
+
+
+**Name:** [Razer Audio](https://testflight.apple.com/join/E4ADmQFT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:29:10.865Z
+**Categories:**
+
+
+**Name:** [Property Finder — Real Estate](https://testflight.apple.com/join/ctQoX4vC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:29:10.894Z
+**Categories:**
+
+
+**Name:** [Marker - YouTube Chapters](https://testflight.apple.com/join/L0Mh507n)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:29:10.922Z
+**Categories:**
+
+
+**Name:** [Trucker Path: Truck GPS & Fuel](https://testflight.apple.com/join/FDRtw5Ic)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:29:10.952Z
+**Categories:**
+
+
+**Name:** [WorkPass Beta](https://testflight.apple.com/join/eLWDy9oc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:29:10.982Z
+**Categories:**
+
+
+**Name:** [Floor  - (app)](https://testflight.apple.com/join/luTKB5xB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:29:11.013Z
+**Categories:**
+
+
