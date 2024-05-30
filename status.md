@@ -29304,3 +29304,73 @@
 **Categories:**
 
 
+**Name:** [Insentry mobile client](https://testflight.apple.com/join/2Cm5DraL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:04:12.718Z
+**Categories:**
+
+
+**Name:** [Defly Wallet](https://testflight.apple.com/join/S66wwJpq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:04:12.754Z
+**Categories:**
+
+
+**Name:** [DealSpillers](https://testflight.apple.com/join/8Som2O8O)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:04:12.789Z
+**Categories:**
+
+
+**Name:** [Pullbet](https://testflight.apple.com/join/FXhZvwpI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:04:12.823Z
+**Categories:**
+
+
+**Name:** [NOAH: Bitcoin & Stablecoins](https://testflight.apple.com/join/kZD0OScB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:04:12.859Z
+**Categories:**
+
+
+**Name:** [Mi Tigo (Antes Tigo Shop)](https://testflight.apple.com/join/g95uW7fw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:04:12.895Z
+**Categories:**
+
+
+**Name:** [Do The Thing: Tame Your To-Dos](https://testflight.apple.com/join/zIqOWWjv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:04:12.930Z
+**Categories:**
+
+
+**Name:** [eufy Security](https://testflight.apple.com/join/c7OS3Cdv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:04:12.966Z
+**Categories:**
+
+
+**Name:** [TDSEE](https://testflight.apple.com/join/2l0KgzIW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:04:13.001Z
+**Categories:**
+
+
+**Name:** [MyMoji Keyboard-AI Emoji](https://testflight.apple.com/join/NoPMTahI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:04:13.037Z
+**Categories:**
+
+
