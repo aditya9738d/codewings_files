@@ -26924,3 +26924,73 @@
 **Categories:**
 
 
+**Name:** [MagicContact](https://testflight.apple.com/join/9wn8hdTa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:30:42.835Z
+**Categories:**
+
+
+**Name:** [PBS KIDS Games](https://testflight.apple.com/join/MkXGm8vv)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:30:42.863Z
+**Categories:**
+
+
+**Name:** [Namshi - We Move Fashion](https://testflight.apple.com/join/mMvHQCZK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:30:42.891Z
+**Categories:**
+
+
+**Name:** [8xTrade](https://testflight.apple.com/join/4pBopdcl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:30:42.919Z
+**Categories:**
+
+
+**Name:** [Vajro Admin App](https://testflight.apple.com/join/DUp76zy1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:30:42.947Z
+**Categories:**
+
+
+**Name:** [GMX - Mail & Cloud](https://testflight.apple.com/join/diwYbeBj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:30:42.975Z
+**Categories:**
+
+
+**Name:** [IMS-Intelligent Manage System](https://testflight.apple.com/join/f1qDaOkX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:30:43.003Z
+**Categories:**
+
+
+**Name:** [Ground Cover](https://testflight.apple.com/join/7O6P555D)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:30:43.030Z
+**Categories:**
+
+
+**Name:** [Barbee - Hide Menu Bar Items](https://testflight.apple.com/join/HPKNaKKv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:30:43.058Z
+**Categories:**
+
+
+**Name:** [Airties Vision](https://testflight.apple.com/join/QhZreVWg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:30:43.086Z
+**Categories:**
+
+
