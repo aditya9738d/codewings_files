@@ -899,3 +899,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:15:27.540Z
 
+**Name:** [Habits Coach](https://testflight.apple.com/join/GXGB7zzt)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:16:11.239Z
+
+**Name:** [AnHei](https://testflight.apple.com/join/rs1LxsdB)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:16:11.239Z
+
+**Name:** [Farmacia Sucre](https://testflight.apple.com/join/mkeLhGSF)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:16:11.239Z
+
+**Name:** [rdvz](https://testflight.apple.com/join/cVOUQgVD)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:16:11.239Z
+
+**Name:** [Vipps MT](https://testflight.apple.com/join/hTAYrwea)
+**Click Count:** 22
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:16:11.239Z
+
+**Name:** [Float Remote](https://testflight.apple.com/join/lRG2HmW6)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:16:11.239Z
+
+**Name:** [Avatar Musik](https://testflight.apple.com/join/O0KKLALY)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:16:11.239Z
+
+**Name:** [Compass 55. Map & GPS kit.](https://testflight.apple.com/join/AlVn2xFs)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:16:11.239Z
+
+**Name:** [Moon Player: Play Everything](https://testflight.apple.com/join/jvjbvKYm)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:16:11.239Z
+
+**Name:** [AZDOME](https://testflight.apple.com/join/7NgrnJ91)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:16:11.239Z
+
