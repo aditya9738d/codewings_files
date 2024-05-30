@@ -3621,3 +3621,73 @@
 **Categories:**
 
 
+**Name:** [School Assistant – Planner](https://testflight.apple.com/join/KWohJ5aL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:01:11.214Z
+**Categories:**
+
+
+**Name:** [deadsound](https://testflight.apple.com/join/7KNeR1zy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:01:11.250Z
+**Categories:**
+
+
+**Name:** [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:01:11.287Z
+**Categories:**
+
+
+**Name:** [CoreLogic Smart Survey Test](https://testflight.apple.com/join/mauENzvi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:01:11.324Z
+**Categories:**
+
+
+**Name:** [Boop - Instant Networking](https://testflight.apple.com/join/lhiEluu4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:01:11.362Z
+**Categories:**
+
+
+**Name:** [PuffGo](https://testflight.apple.com/join/8gX0EHpR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:01:11.398Z
+**Categories:**
+
+
+**Name:** [TaraMap](https://testflight.apple.com/join/hPAmQcl3)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:01:11.435Z
+**Categories:**
+
+
+**Name:** [Pro epicery](https://testflight.apple.com/join/8NrpK6Bc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:01:11.472Z
+**Categories:**
+
+
+**Name:** [Simple Scan • Quick Scanner](https://testflight.apple.com/join/5I9XpfUP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:01:11.508Z
+**Categories:**
+
+
+**Name:** [ONE Link – Device management](https://testflight.apple.com/join/A2sl6Kiu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:01:11.545Z
+**Categories:**
+
+
