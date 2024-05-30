@@ -21604,3 +21604,73 @@
 **Categories:**
 
 
+**Name:** [CorrigoPro](https://testflight.apple.com/join/SL2PQU6w)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:11:08.626Z
+**Categories:**
+
+
+**Name:** [Loxone](https://testflight.apple.com/join/54JTsdTf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:11:08.655Z
+**Categories:**
+
+
+**Name:** [WinZO: Jogos de Buraco e Truco](https://testflight.apple.com/join/1Lhm2xtq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:11:08.684Z
+**Categories:**
+
+
+**Name:** [Spectora v10](https://testflight.apple.com/join/d92gCR0s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:11:08.712Z
+**Categories:**
+
+
+**Name:** [Mapletree FMS STG](https://testflight.apple.com/join/Wz0eptdq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:11:08.741Z
+**Categories:**
+
+
+**Name:** [Easy Menu](https://testflight.apple.com/join/5J1NkbiB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:11:08.770Z
+**Categories:**
+
+
+**Name:** [UAT Jenbunjerd](https://testflight.apple.com/join/HgCSDTd9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:11:08.798Z
+**Categories:**
+
+
+**Name:** [IDentitySDK2 Ionic](https://testflight.apple.com/join/VEiBfP8E)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:11:08.826Z
+**Categories:**
+
+
+**Name:** [FocalPaint](https://testflight.apple.com/join/1adnuUHv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:11:08.854Z
+**Categories:**
+
+
+**Name:** [Mastodon](https://testflight.apple.com/join/ebSjPU84)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:11:08.882Z
+**Categories:**
+
+
