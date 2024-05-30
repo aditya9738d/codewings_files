@@ -37704,3 +37704,73 @@
 **Categories:**
 
 
+**Name:** [LetsChat: With Close Friends](https://testflight.apple.com/join/hbuquoCi)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:08:11.171Z
+**Categories:**
+
+
+**Name:** [Libssah](https://testflight.apple.com/join/G0mogUcA)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:08:11.208Z
+**Categories:**
+
+
+**Name:** [Lichess](https://testflight.apple.com/join/WEurB7MT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:08:11.243Z
+**Categories:**
+
+
+**Name:** [Licky's Escape](https://testflight.apple.com/join/ZjKTYv47)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:08:11.278Z
+**Categories:**
+
+
+**Name:** [Lien Minh](https://testflight.apple.com/join/LNQ8lMlr)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:08:11.313Z
+**Categories:**
+
+
+**Name:** [Life Sound - Meditation](https://testflight.apple.com/join/1KwDcpOl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:08:11.351Z
+**Categories:**
+
+
+**Name:** [LifeGuard SmartMobile](https://testflight.apple.com/join/Bfo7X4nB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:08:11.386Z
+**Categories:**
+
+
+**Name:** [Lifelog - Shape Your Wellness!](https://testflight.apple.com/join/XNH8QffB)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:08:11.421Z
+**Categories:**
+
+
+**Name:** [Liftin' Workout Tracker](https://testflight.apple.com/join/WTXiGTTA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:08:11.456Z
+**Categories:**
+
+
+**Name:** [Liftoff: Space Launch Schedule](https://testflight.apple.com/join/2hLX9txr)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:08:11.492Z
+**Categories:**
+
+
