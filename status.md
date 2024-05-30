@@ -14051,3 +14051,73 @@
 **Categories:**
 
 
+**Name:** [Spamdrain - clean email](https://testflight.apple.com/join/dXHMfCSC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:33:09.392Z
+**Categories:**
+
+
+**Name:** [NSOVIETSO1](https://testflight.apple.com/join/Yq7ZfKGc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:33:09.422Z
+**Categories:**
+
+
+**Name:** [Peeree](https://testflight.apple.com/join/nEontnke)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:33:09.451Z
+**Categories:**
+
+
+**Name:** [Super Stock Portal](https://testflight.apple.com/join/fcr9ihqE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:33:09.480Z
+**Categories:**
+
+
+**Name:** [Flitsmeister](https://testflight.apple.com/join/JzpPZJsg)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:33:09.508Z
+**Categories:**
+
+
+**Name:** [KFC Kiosk App](https://testflight.apple.com/join/IEZbXvto)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:33:09.537Z
+**Categories:**
+
+
+**Name:** [ActionBuddy](https://testflight.apple.com/join/8yMFEL6g)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:33:09.566Z
+**Categories:**
+
+
+**Name:** [SpaConBridge](https://testflight.apple.com/join/YeTMX3Um)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:33:09.594Z
+**Categories:**
+
+
+**Name:** [Livraria Lello](https://testflight.apple.com/join/gZ8Ay0Q7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:33:09.623Z
+**Categories:**
+
+
+**Name:** [Hayat Finans](https://testflight.apple.com/join/P6Proc7g)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:33:09.652Z
+**Categories:**
+
+
