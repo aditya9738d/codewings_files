@@ -26294,3 +26294,73 @@
 **Categories:**
 
 
+**Name:** [DETokenPlus](https://testflight.apple.com/join/Dn8HqoL4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:21:11.612Z
+**Categories:**
+
+
+**Name:** [FarmGo](https://testflight.apple.com/join/VQdIwCj7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:21:11.641Z
+**Categories:**
+
+
+**Name:** [Maparoni](https://testflight.apple.com/join/SRSMIS7k)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:21:11.669Z
+**Categories:**
+
+
+**Name:** [RayStar](https://testflight.apple.com/join/Y7UGcs86)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:21:11.697Z
+**Categories:**
+
+
+**Name:** [Daikin WH Keeper](https://testflight.apple.com/join/CzfagVlc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:21:11.727Z
+**Categories:**
+
+
+**Name:** [Nam Viet Corp](https://testflight.apple.com/join/XhywUd3m)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:21:11.755Z
+**Categories:**
+
+
+**Name:** [MUUVS Maps](https://testflight.apple.com/join/Pvp1SbHS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:21:11.783Z
+**Categories:**
+
+
+**Name:** [S3XY Watch Key Fob](https://testflight.apple.com/join/eKkI97SF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:21:11.811Z
+**Categories:**
+
+
+**Name:** [NCB OTP TEST](https://testflight.apple.com/join/eteBAdfs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:21:11.838Z
+**Categories:**
+
+
+**Name:** [Tops-UAT](https://testflight.apple.com/join/jNcbqrm3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:21:11.866Z
+**Categories:**
+
+
