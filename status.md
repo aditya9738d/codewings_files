@@ -17271,3 +17271,73 @@
 **Categories:**
 
 
+**Name:** [MyFriday - Official](https://testflight.apple.com/join/HFnLbCeN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:21:11.066Z
+**Categories:**
+
+
+**Name:** [Zapry - Web3 Social Platform](https://testflight.apple.com/join/SmkcFDVx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:21:11.094Z
+**Categories:**
+
+
+**Name:** [EverBank Mobile Banking](https://testflight.apple.com/join/1rMRvGT1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:21:11.123Z
+**Categories:**
+
+
+**Name:** [RegioBank](https://testflight.apple.com/join/BVkiZacv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:21:11.151Z
+**Categories:**
+
+
+**Name:** [Jurnalle](https://testflight.apple.com/join/rpiFzOZF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:21:11.180Z
+**Categories:**
+
+
+**Name:** [Retail Suite](https://testflight.apple.com/join/kuVd8Fuq)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:21:11.210Z
+**Categories:**
+
+
+**Name:** [NextStats](https://testflight.apple.com/join/9a4X8KBQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:21:11.239Z
+**Categories:**
+
+
+**Name:** [vokiemus](https://testflight.apple.com/join/sbLruW6l)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:21:11.268Z
+**Categories:**
+
+
+**Name:** [iDMS.Nazzy](https://testflight.apple.com/join/sWI9SK87)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:21:11.297Z
+**Categories:**
+
+
+**Name:** [FRITZ!App Smart Home](https://testflight.apple.com/join/kzVJhIg1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:21:11.328Z
+**Categories:**
+
+
