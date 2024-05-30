@@ -12262,3 +12262,73 @@
 **Categories:**
 
 
+**Name:** [Polyfonica](https://testflight.apple.com/join/rU5a0Rog)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:50:22.158Z
+**Categories:**
+
+
+**Name:** [ZeestaApp Beta](https://testflight.apple.com/join/HeedG8nw)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:50:22.194Z
+**Categories:**
+
+
+**Name:** [Brew Coffee](https://testflight.apple.com/join/yo3qrfji)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:50:22.230Z
+**Categories:**
+
+
+**Name:** [My TXO](https://testflight.apple.com/join/wqu8mbUM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:50:22.268Z
+**Categories:**
+
+
+**Name:** [Electric Avenue Install](https://testflight.apple.com/join/Y3g5isk5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:50:22.303Z
+**Categories:**
+
+
+**Name:** [Candide Wallet](https://testflight.apple.com/join/A6GK52W1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:50:22.339Z
+**Categories:**
+
+
+**Name:** [Unwrappd](https://testflight.apple.com/join/wiErMx8s)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:50:22.375Z
+**Categories:**
+
+
+**Name:** [UBI CRM EDGE](https://testflight.apple.com/join/Pd1FSy0A)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:50:22.411Z
+**Categories:**
+
+
+**Name:** [Gaia GPS: Mobile Trail Maps](https://testflight.apple.com/join/p8VbkGyT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:50:22.447Z
+**Categories:**
+
+
+**Name:** [unitelOrder](https://testflight.apple.com/join/xCujhfBY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:50:22.483Z
+**Categories:**
+
+
