@@ -12791,3 +12791,73 @@
 **Categories:**
 
 
+**Name:** [Smart Admin](https://testflight.apple.com/join/u4Ep8Mpo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:15:24.715Z
+**Categories:**
+
+
+**Name:** [DrugN](https://testflight.apple.com/join/S4SbpUjZ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:15:24.742Z
+**Categories:**
+
+
+**Name:** [RaundTable](https://testflight.apple.com/join/OIQ6oWbs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:15:24.771Z
+**Categories:**
+
+
+**Name:** [AnetaEd](https://testflight.apple.com/join/g1vKLVi2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:15:24.799Z
+**Categories:**
+
+
+**Name:** [Trident App](https://testflight.apple.com/join/Vs7MAj0D)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:15:24.827Z
+**Categories:**
+
+
+**Name:** [Inofia Life](https://testflight.apple.com/join/AKsraRDV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:15:24.854Z
+**Categories:**
+
+
+**Name:** [Money: track income & expenses](https://testflight.apple.com/join/UAzr0dcN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:15:24.882Z
+**Categories:**
+
+
+**Name:** [VIP Station](https://testflight.apple.com/join/lIHB40dx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:15:24.910Z
+**Categories:**
+
+
+**Name:** [Nect TEST](https://testflight.apple.com/join/e9QJ1gzZ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:15:24.939Z
+**Categories:**
+
+
+**Name:** [Ida](https://testflight.apple.com/join/4WvvUAuu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:15:24.966Z
+**Categories:**
+
+
