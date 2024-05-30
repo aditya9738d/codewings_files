@@ -4391,3 +4391,73 @@
 **Categories:**
 
 
+**Name:** [OpenInYT](https://testflight.apple.com/join/k604MXnM)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:12:10.916Z
+**Categories:**
+
+
+**Name:** [Sandbox Fresh KDS](https://testflight.apple.com/join/yWR1751L)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:12:10.944Z
+**Categories:**
+
+
+**Name:** [MinuPlus](https://testflight.apple.com/join/Q1zPYbSZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:12:10.976Z
+**Categories:**
+
+
+**Name:** [SMEConnect](https://testflight.apple.com/join/RoiHSYUr)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:12:11.004Z
+**Categories:**
+
+
+**Name:** [Endpt](https://testflight.apple.com/join/emE0d6Mf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:12:11.034Z
+**Categories:**
+
+
+**Name:** [FarmMe Fantasy](https://testflight.apple.com/join/Jij73Mst)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:12:11.062Z
+**Categories:**
+
+
+**Name:** [Forex Lab](https://testflight.apple.com/join/jcRdzLRR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:12:11.090Z
+**Categories:**
+
+
+**Name:** [PeerEquip](https://testflight.apple.com/join/ZCSe5Ypc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:12:11.118Z
+**Categories:**
+
+
+**Name:** [EHC STMobile](https://testflight.apple.com/join/bbDNgXCb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:12:11.147Z
+**Categories:**
+
+
+**Name:** [Office Cafe](https://testflight.apple.com/join/lYvGnnZK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:12:11.176Z
+**Categories:**
+
+
