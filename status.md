@@ -11982,3 +11982,73 @@
 **Categories:**
 
 
+**Name:** [Publisher Playground](https://testflight.apple.com/join/H5ShLSZs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:46:10.819Z
+**Categories:**
+
+
+**Name:** [HCC](https://testflight.apple.com/join/oYO03U7S)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:46:10.855Z
+**Categories:**
+
+
+**Name:** [Tomorrow – Mobile Banking](https://testflight.apple.com/join/gcyJwYvr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:46:10.890Z
+**Categories:**
+
+
+**Name:** [slice: pay later - Beta](https://testflight.apple.com/join/6Vs7WMVQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:46:10.926Z
+**Categories:**
+
+
+**Name:** [GuaGuaChat](https://testflight.apple.com/join/dqYPZDSw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:46:10.962Z
+**Categories:**
+
+
+**Name:** [republica](https://testflight.apple.com/join/vf2XROFY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:46:10.999Z
+**Categories:**
+
+
+**Name:** [Olympsis](https://testflight.apple.com/join/a7umbhrk)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T23:46:11.035Z
+**Categories:**
+
+
+**Name:** [RUNERGY](https://testflight.apple.com/join/FxyqcmQV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:46:11.071Z
+**Categories:**
+
+
+**Name:** [Coupang](https://testflight.apple.com/join/Zkl9efvU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:46:11.108Z
+**Categories:**
+
+
+**Name:** [Arena Virtual](https://testflight.apple.com/join/Wpwycpln)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:46:11.144Z
+**Categories:**
+
+
