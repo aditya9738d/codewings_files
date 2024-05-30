@@ -9361,3 +9361,73 @@
 **Categories:**
 
 
+**Name:** [SimpleManga](https://testflight.apple.com/join/7COCzj1V)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:25:20.351Z
+**Categories:**
+
+
+**Name:** [Litewallet: Buy Litecoin](https://testflight.apple.com/join/zNmFTm37)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:25:20.379Z
+**Categories:**
+
+
+**Name:** [Toggl Track: Hours & Time Log](https://testflight.apple.com/join/dONNQfWl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:25:20.407Z
+**Categories:**
+
+
+**Name:** [Strings Messenger](https://testflight.apple.com/join/B8X26MxM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:25:20.435Z
+**Categories:**
+
+
+**Name:** [Kress Commercial](https://testflight.apple.com/join/nUEGQnQt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:25:20.463Z
+**Categories:**
+
+
+**Name:** [The Wardrobe](https://testflight.apple.com/join/Yctx5DtW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:25:20.492Z
+**Categories:**
+
+
+**Name:** [Tunda Island - BFF & Dating](https://testflight.apple.com/join/Afx8xXRn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:25:20.521Z
+**Categories:**
+
+
+**Name:** [csl.](https://testflight.apple.com/join/JhvirvMs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:25:20.548Z
+**Categories:**
+
+
+**Name:** [SuperNews: custom news app](https://testflight.apple.com/join/SKj6fn5k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:25:20.578Z
+**Categories:**
+
+
+**Name:** [iBoot - StartupDisk shortcut](https://testflight.apple.com/join/yjWEwvq1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:25:20.605Z
+**Categories:**
+
+
