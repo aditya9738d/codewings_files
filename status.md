@@ -19504,3 +19504,73 @@
 **Categories:**
 
 
+**Name:** [Flip, Play, Go](https://testflight.apple.com/join/75RjVPvY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:40:24.761Z
+**Categories:**
+
+
+**Name:** [OnSong 2020](https://testflight.apple.com/join/kHLFryWw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:40:24.789Z
+**Categories:**
+
+
+**Name:** [BCVN Portal](https://testflight.apple.com/join/c9h1qfDN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:40:24.817Z
+**Categories:**
+
+
+**Name:** [Eksperden](https://testflight.apple.com/join/e1DCF52f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:40:24.844Z
+**Categories:**
+
+
+**Name:** [Mergin Maps: QGIS in pocket](https://testflight.apple.com/join/JO5EIywn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:40:24.872Z
+**Categories:**
+
+
+**Name:** [NadaPay](https://testflight.apple.com/join/CnJmPm51)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:40:24.900Z
+**Categories:**
+
+
+**Name:** [What 2 Eat Today](https://testflight.apple.com/join/O1zRaCMS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:40:24.928Z
+**Categories:**
+
+
+**Name:** [SKIEATS](https://testflight.apple.com/join/3mY4clPS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:40:24.956Z
+**Categories:**
+
+
+**Name:** [AppCafe](https://testflight.apple.com/join/5fMttdpe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:40:24.984Z
+**Categories:**
+
+
+**Name:** [Queo Access](https://testflight.apple.com/join/mTAvtPPs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:40:25.012Z
+**Categories:**
+
+
