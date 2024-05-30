@@ -8941,3 +8941,73 @@
 **Categories:**
 
 
+**Name:** [OzRunways EFB](https://testflight.apple.com/join/CAr9bOXm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:19:10.435Z
+**Categories:**
+
+
+**Name:** [Mela - Recipe Manager](https://testflight.apple.com/join/JXPIqwTR)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:19:10.465Z
+**Categories:**
+
+
+**Name:** [PDF Owl](https://testflight.apple.com/join/5JBMctKj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:19:10.494Z
+**Categories:**
+
+
+**Name:** [Repeat One](https://testflight.apple.com/join/pnP3yVv3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:19:10.524Z
+**Categories:**
+
+
+**Name:** [Pixel Odyssey](https://testflight.apple.com/join/Ow7mpJUQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:19:10.554Z
+**Categories:**
+
+
+**Name:** [Class Chat EDU](https://testflight.apple.com/join/755Uk1kT)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:19:10.584Z
+**Categories:**
+
+
+**Name:** [Salon Realtor](https://testflight.apple.com/join/8w0EiIFt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:19:10.614Z
+**Categories:**
+
+
+**Name:** [Phiano](https://testflight.apple.com/join/XCJq0vrw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:19:10.644Z
+**Categories:**
+
+
+**Name:** [Native AI Actions](https://testflight.apple.com/join/LdwfSZvG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:19:10.674Z
+**Categories:**
+
+
+**Name:** [IWC Innovations](https://testflight.apple.com/join/AxeHRv3Y)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:19:10.705Z
+**Categories:**
+
+
