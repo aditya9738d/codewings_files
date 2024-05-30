@@ -27064,3 +27064,73 @@
 **Categories:**
 
 
+**Name:** [FutureLog Dev](https://testflight.apple.com/join/5FlCce89)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:32:11.693Z
+**Categories:**
+
+
+**Name:** [Federated Farmers Wallet](https://testflight.apple.com/join/BAVx66sN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:32:11.721Z
+**Categories:**
+
+
+**Name:** [Fusion: Stations and Playlists](https://testflight.apple.com/join/mgKIQ9hU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:32:11.749Z
+**Categories:**
+
+
+**Name:** [Embibe Classroom Preprod](https://testflight.apple.com/join/3qrHb5kN)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:32:11.776Z
+**Categories:**
+
+
+**Name:** [Wattpad - Read & Write Stories](https://testflight.apple.com/join/CXefLgKK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:32:11.805Z
+**Categories:**
+
+
+**Name:** [smallcase: Stock Investments](https://testflight.apple.com/join/XSkiZoQf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:32:11.832Z
+**Categories:**
+
+
+**Name:** [iContentPro](https://testflight.apple.com/join/m0rBXZzt)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:32:11.860Z
+**Categories:**
+
+
+**Name:** [Steps - Activity Tracker](https://testflight.apple.com/join/YWU5fJLj)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:32:11.888Z
+**Categories:**
+
+
+**Name:** [Vimcal: Calendar and Schedule](https://testflight.apple.com/join/W7evUHfZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:32:11.916Z
+**Categories:**
+
+
+**Name:** [iCanMall](https://testflight.apple.com/join/r6ZHVEFA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:32:11.944Z
+**Categories:**
+
+
