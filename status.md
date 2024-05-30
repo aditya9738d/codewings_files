@@ -949,3 +949,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:16:11.239Z
 
+**Name:** [Email App –  Mail.ru](https://testflight.apple.com/join/G04Eq2nO)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:17:07.683Z
+
+**Name:** [Windmill - Best mobile booster](https://testflight.apple.com/join/ATmUrGm5)
+**Click Count:** 5
+**Beta Available:** error
+**Last Checked:** 2024-05-30T11:17:07.683Z
+
+**Name:** [Gigantix Wallet](https://testflight.apple.com/join/J48mQeRd)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:17:07.683Z
+
+**Name:** [Vida Journal](https://testflight.apple.com/join/zBWk4QZ1)
+**Click Count:** 11
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:17:07.683Z
+
+**Name:** [NTNU CVCS 2021](https://testflight.apple.com/join/GkbLawaz)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:17:07.683Z
+
+**Name:** [Oooh: Way Better Group Chats](https://testflight.apple.com/join/dlm34fHd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:17:07.683Z
+
+**Name:** [Flickplay: Digital Characters](https://testflight.apple.com/join/xr5o788R)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:17:07.683Z
+
+**Name:** [Vetero° Weather](https://testflight.apple.com/join/sAJWcbZ9)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:17:07.683Z
+
+**Name:** [Nootti](https://testflight.apple.com/join/LDJGX8QV)
+**Click Count:** 7
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:17:07.683Z
+
+**Name:** [YouSee Musik](https://testflight.apple.com/join/bUlXGEb8)
+**Click Count:** 69
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:17:07.683Z
+
