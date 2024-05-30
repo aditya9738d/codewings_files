@@ -10061,3 +10061,73 @@
 **Categories:**
 
 
+**Name:** [Wedort](https://testflight.apple.com/join/SG1EJSXy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:35:19.876Z
+**Categories:**
+
+
+**Name:** [Sun Direct Go](https://testflight.apple.com/join/S0WAeAPY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:35:19.904Z
+**Categories:**
+
+
+**Name:** [MusicSmart - Liner Notes](https://testflight.apple.com/join/Rkfj7TSD)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:35:19.933Z
+**Categories:**
+
+
+**Name:** [My NTRA](https://testflight.apple.com/join/idT2CKHB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:35:19.961Z
+**Categories:**
+
+
+**Name:** [Alkepedia](https://testflight.apple.com/join/PMK2fqhz)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:35:19.989Z
+**Categories:**
+
+
+**Name:** [Jumbosouq](https://testflight.apple.com/join/Ka7Jficj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:35:20.017Z
+**Categories:**
+
+
+**Name:** [Onjabet](https://testflight.apple.com/join/6BMzRnUw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:35:20.046Z
+**Categories:**
+
+
+**Name:** [FAN Academy App](https://testflight.apple.com/join/oELDReWR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:35:20.074Z
+**Categories:**
+
+
+**Name:** [Hrapp](https://testflight.apple.com/join/O0BY0Fcu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:35:20.103Z
+**Categories:**
+
+
+**Name:** [Firefly - Quiz based matches](https://testflight.apple.com/join/LRJXegxs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:35:20.131Z
+**Categories:**
+
+
