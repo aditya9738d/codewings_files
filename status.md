@@ -10302,3 +10302,73 @@
 **Categories:**
 
 
+**Name:** [HUAWEI CLOUD WeLink](https://testflight.apple.com/join/ve6MJxxW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:22:10.679Z
+**Categories:**
+
+
+**Name:** [Gorlov Space](https://testflight.apple.com/join/E0MADv3W)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:22:10.715Z
+**Categories:**
+
+
+**Name:** [openHAB](https://testflight.apple.com/join/563WBakc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:22:10.751Z
+**Categories:**
+
+
+**Name:** [Clean El Paso](https://testflight.apple.com/join/pAI7meoP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:22:10.787Z
+**Categories:**
+
+
+**Name:** [KeyStage 2.2](https://testflight.apple.com/join/GdaGgxU3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:22:10.823Z
+**Categories:**
+
+
+**Name:** [Kyocera Printer Setup Tool](https://testflight.apple.com/join/BUybTnU0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:22:10.861Z
+**Categories:**
+
+
+**Name:** [ASUS Health Promotion](https://testflight.apple.com/join/shZQWBSr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:22:10.897Z
+**Categories:**
+
+
+**Name:** [Onsight Field Service](https://testflight.apple.com/join/4zl8Z87S)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:22:10.933Z
+**Categories:**
+
+
+**Name:** [CFMOTO RIDE](https://testflight.apple.com/join/gMVlHLCY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:22:10.969Z
+**Categories:**
+
+
+**Name:** [Clix](https://testflight.apple.com/join/dn3sNrts)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:22:11.004Z
+**Categories:**
+
+
