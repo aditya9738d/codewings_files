@@ -2589,3 +2589,73 @@
 **Categories:**
 
 
+**Name:** [Soulver 3](https://testflight.apple.com/join/Vlb55Wtr)
+**Click Count:** 38
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:48:05.281Z
+**Categories:**
+
+
+**Name:** [Cue - Text Reminders](https://testflight.apple.com/join/9u7vbYkh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:48:05.562Z
+**Categories:**
+
+
+**Name:** [ArithFi](https://testflight.apple.com/join/SEb1TLyN)
+**Click Count:** 24
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:48:05.843Z
+**Categories:**
+
+
+**Name:** [wdym chat (testflight)](https://testflight.apple.com/join/p4RyyKRz)
+**Click Count:** 15
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:48:06.126Z
+**Categories:**
+
+
+**Name:** [Newborn-MWEB](https://testflight.apple.com/join/Asvav3ms)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:48:06.408Z
+**Categories:**
+
+
+**Name:** [Tasks for Notion - To-Do List](https://testflight.apple.com/join/ugwXyNya)
+**Click Count:** 21
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:48:06.688Z
+**Categories:**
+
+
+**Name:** [Mystro Driver: Drive & Deliver](https://testflight.apple.com/join/TEfpgoc9)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:48:06.967Z
+**Categories:**
+
+
+**Name:** [Time Master: World Clock Pro 2](https://testflight.apple.com/join/V7Y14FmW)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:48:07.250Z
+**Categories:**
+
+
+**Name:** [What's going on? Social Diary](https://testflight.apple.com/join/nZqhMgc3)
+**Click Count:** 4
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:48:07.529Z
+**Categories:**
+
+
+**Name:** [CyberKeyFob](https://testflight.apple.com/join/wzaCXTpH)
+**Click Count:** 10
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:48:07.810Z
+**Categories:**
+
+
