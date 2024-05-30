@@ -1,3 +1,5 @@
+- **云宝加速器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/09/26/a909266d-0124-943a-1e47-3b9d789c9a70/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nBkljFCK)
+
 - **Thập Đại Anh Hùng 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/fd/49/80fd4913-d739-6708-eb21-5007e3300a0d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAG6vC6N)
 
 - **Composer: Automate Trades**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/b8/7b34b805-7b67-97d7-e85d-7ff38a8a9f80/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
@@ -46,5 +48,3 @@
 - **The Blue Litter Project Hub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a4/57/ada457a5-1765-81b4-60ab-49013ee2da38/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w5G7HMr)
 
 - **Video Game Tracker - Winston**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/9e/55/409e55ef-082b-791c-11fc-0cde8dd57368/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ePQGMrn0)
-- **FityIt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/d7/e9/18d7e909-9f45-d8d2-bb63-0c4c2dd0ff9c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NrB5H1Zd)
-- **filli app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/15/90/b115900e-5425-7399-5268-ecb9741d0c94/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a9m7JO61)
