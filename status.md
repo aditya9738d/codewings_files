@@ -2991,3 +2991,73 @@
 - Developer
 - Utility
 
+**Name:** [Chronosphere - Clocks](https://testflight.apple.com/join/Mwfy3L0V)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:52:10.070Z
+**Categories:**
+
+
+**Name:** [AnyTrip](https://testflight.apple.com/join/z4jEQC9Z)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:52:10.098Z
+**Categories:**
+
+
+**Name:** [Text & Markup](https://testflight.apple.com/join/LH7qcUjG)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:52:10.126Z
+**Categories:**
+
+
+**Name:** [Launchcraft](https://testflight.apple.com/join/nSONe1lZ)
+**Click Count:** 112
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:52:10.154Z
+**Categories:**
+
+
+**Name:** [Block Puzzle: Cops vs Robbers](https://testflight.apple.com/join/JewMjU43)
+**Click Count:** 1
+**Beta Available:** error
+**Last Checked:** 2024-05-30T11:52:10.182Z
+**Categories:**
+
+
+**Name:** [KKClicker](https://testflight.apple.com/join/y2bNjrkT)
+**Click Count:** 13
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:52:10.210Z
+**Categories:**
+
+
+**Name:** [Quizlet: AI-powered Flashcards](https://testflight.apple.com/join/mwhcPqxJ)
+**Click Count:** 4
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:52:10.237Z
+**Categories:**
+
+
+**Name:** [Ensemble Cast](https://testflight.apple.com/join/Pq1HzHqe)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:52:10.266Z
+**Categories:**
+
+
+**Name:** [A Fish Chat](https://testflight.apple.com/join/jzPv1lac)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:52:10.293Z
+**Categories:**
+
+
+**Name:** [Pocket Space!](https://testflight.apple.com/join/DHipLt9w)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:52:10.322Z
+**Categories:**
+
+
