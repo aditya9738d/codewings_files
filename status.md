@@ -11632,3 +11632,73 @@
 **Categories:**
 
 
+**Name:** [Village Playdates](https://testflight.apple.com/join/tAknV9Dy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:41:11.068Z
+**Categories:**
+
+
+**Name:** [Kafi Wealth](https://testflight.apple.com/join/4VGRGvow)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:41:11.104Z
+**Categories:**
+
+
+**Name:** [One Plus](https://testflight.apple.com/join/mIt9uVcU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:41:11.141Z
+**Categories:**
+
+
+**Name:** [InstaPlan-UAT](https://testflight.apple.com/join/ikqPfq52)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:41:11.179Z
+**Categories:**
+
+
+**Name:** [iPOS Inventory V2(DEV-STAG)](https://testflight.apple.com/join/wMRUOvJE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:41:11.215Z
+**Categories:**
+
+
+**Name:** [TwoNav: Maps Routes](https://testflight.apple.com/join/d0uLPpsj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:41:11.252Z
+**Categories:**
+
+
+**Name:** [ATPRulesBook](https://testflight.apple.com/join/qFzXoEbk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:41:11.288Z
+**Categories:**
+
+
+**Name:** [In Spirit and Truth](https://testflight.apple.com/join/VVulCkvp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:41:11.324Z
+**Categories:**
+
+
+**Name:** [Weewx Weather](https://testflight.apple.com/join/6cDf6InF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:41:11.360Z
+**Categories:**
+
+
+**Name:** [FeatsClub](https://testflight.apple.com/join/z9hBqVML)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:41:11.396Z
+**Categories:**
+
+
