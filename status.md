@@ -6845,3 +6845,73 @@
 **Categories:**
 
 
+**Name:** [eufy Clean (EufyHome)](https://testflight.apple.com/join/ABaSUurE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:31:10.319Z
+**Categories:**
+
+
+**Name:** [Cinema Time](https://testflight.apple.com/join/prtbcetS)
+**Click Count:** 40
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:31:10.356Z
+**Categories:**
+
+
+**Name:** [DEXART Metaverse](https://testflight.apple.com/join/ntsoqpNK)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:31:10.392Z
+**Categories:**
+
+
+**Name:** [EMOTIV Launcher](https://testflight.apple.com/join/jSL0XTP9)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:31:10.427Z
+**Categories:**
+
+
+**Name:** [Swapple - Word Puzzle Game](https://testflight.apple.com/join/XU84IqaM)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:31:10.463Z
+**Categories:**
+
+
+**Name:** [Harbour - Docker Manager](https://testflight.apple.com/join/F2vK7xo4)
+**Click Count:** 3
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:31:10.499Z
+**Categories:**
+
+
+**Name:** [Norton 360 Security & VPN](https://testflight.apple.com/join/iHcEgAaT)
+**Click Count:** 4
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:31:10.535Z
+**Categories:**
+
+
+**Name:** [Power Apps](https://testflight.apple.com/join/u0qAVQC6)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:31:10.570Z
+**Categories:**
+
+
+**Name:** [Gama Bingo](https://testflight.apple.com/join/3XiyIWZD)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:31:10.606Z
+**Categories:**
+
+
+**Name:** [IMDb: Movies & TV Shows](https://testflight.apple.com/join/Y9yo0X5t)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:31:10.641Z
+**Categories:**
+
+
