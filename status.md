@@ -6628,3 +6628,73 @@
 **Categories:**
 
 
+**Name:** [YoWindow Weather 2](https://testflight.apple.com/join/pFytRDso)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:28:09.678Z
+**Categories:**
+
+
+**Name:** [Flightman Flight Crew](https://testflight.apple.com/join/JAkLLOPT)
+**Click Count:** 27
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:28:09.714Z
+**Categories:**
+
+
+**Name:** [Nanoleaf](https://testflight.apple.com/join/e6YpifHl)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:28:09.749Z
+**Categories:**
+
+
+**Name:** [JEFIT Workout Planner Gym Log](https://testflight.apple.com/join/xQf8YqKR)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:28:09.786Z
+**Categories:**
+
+
+**Name:** [null](https://testflight.apple.com/join/lod3LiB6)
+**Click Count:** 35
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:28:09.822Z
+**Categories:**
+
+
+**Name:** [FileTunnel](https://testflight.apple.com/join/lod3LiB6)
+**Click Count:** 29
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:28:09.858Z
+**Categories:**
+
+
+**Name:** [Wink - Video AI Enhancement](https://testflight.apple.com/join/ZviH3WzG)
+**Click Count:** 15
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:28:09.894Z
+**Categories:**
+- Video
+
+**Name:** [SolarEdge Go](https://testflight.apple.com/join/KzfUUDAC)
+**Click Count:** 19
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:28:09.929Z
+**Categories:**
+
+
+**Name:** [Map Alarm: Maps & Open Streets](https://testflight.apple.com/join/LF2SNq7J)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:28:09.965Z
+**Categories:**
+
+
+**Name:** [V-Guardian EVO](https://testflight.apple.com/join/n7ZP4qBe)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:28:10.001Z
+**Categories:**
+
+
