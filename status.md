@@ -649,3 +649,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:10:24.781Z
 
+**Name:** [GRATIS GERADOR](https://testflight.apple.com/join/G33cUkPM)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:11:08.033Z
+
+**Name:** [DigiFT](https://testflight.apple.com/join/KKGOWQed)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:11:08.033Z
+
+**Name:** [OSIM Staging](https://testflight.apple.com/join/opxes352)
+**Click Count:** 21
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:11:08.033Z
+
+**Name:** [NRO by ixxc 05](https://testflight.apple.com/join/Yqvol7gV)
+**Click Count:** 14
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:11:08.033Z
+
+**Name:** [Stethophone](https://testflight.apple.com/join/psEDgC3w)
+**Click Count:** 3
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:11:08.033Z
+
+**Name:** [eRestro Singlevendor Rider](https://testflight.apple.com/join/wqMcr5at)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:11:08.033Z
+
+**Name:** [CBRO](https://testflight.apple.com/join/UDDdSKNn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:11:08.033Z
+
+**Name:** [Watermelon__Game](https://testflight.apple.com/join/zEkLhX0L)
+**Click Count:** 11
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:11:08.033Z
+
+**Name:** [BuddyBoss Branding App](https://testflight.apple.com/join/RyFaWoIr)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:11:08.033Z
+
+**Name:** [NHTDSGAME](https://testflight.apple.com/join/gsF1MZGp)
+**Click Count:** 16
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:11:08.033Z
+
