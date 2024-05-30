@@ -549,3 +549,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:08:12.085Z
 
+**Name:** [BankWizCalc](https://testflight.apple.com/join/IviU4Oqh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:09:08.458Z
+
+**Name:** [BOSSAY](https://testflight.apple.com/join/RCCA7SsH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:09:08.458Z
+
+**Name:** [Dishdash](https://testflight.apple.com/join/u8NIoELS)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:09:08.458Z
+
+**Name:** [DKU FedCampus](https://testflight.apple.com/join/veDJckxp)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:09:08.458Z
+
+**Name:** [plappa](https://testflight.apple.com/join/CPlREvRs)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:09:08.458Z
+
+**Name:** [Wallet 3](https://testflight.apple.com/join/5acvlgyK)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:09:08.458Z
+
+**Name:** [TerraMow](https://testflight.apple.com/join/a22IhpE2)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:09:08.458Z
+
+**Name:** [[DEV] Mental Vision](https://testflight.apple.com/join/jEZtTnwk)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:09:08.458Z
+
+**Name:** [Legal Smoke Guide](https://testflight.apple.com/join/84QZJuDs)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:09:08.458Z
+
+**Name:** [Device Management App](https://testflight.apple.com/join/ZspSdWIi)
+**Click Count:** 36
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:09:08.458Z
+
