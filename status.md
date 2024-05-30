@@ -17061,3 +17061,73 @@
 **Categories:**
 
 
+**Name:** [Ninja World War: Global Force](https://testflight.apple.com/join/2maWknqu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:18:09.821Z
+**Categories:**
+
+
+**Name:** [Brang](https://testflight.apple.com/join/JddbRrMz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:18:09.849Z
+**Categories:**
+
+
+**Name:** [DKB](https://testflight.apple.com/join/NwCXWAEI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:18:09.877Z
+**Categories:**
+
+
+**Name:** [NewsBlur](https://testflight.apple.com/join/hYk9WU3f)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:18:09.905Z
+**Categories:**
+
+
+**Name:** [Regimen Fitness](https://testflight.apple.com/join/q1QWLF7f)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:18:09.933Z
+**Categories:**
+
+
+**Name:** [Kia Connect](https://testflight.apple.com/join/PUPQclJM)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:18:09.961Z
+**Categories:**
+
+
+**Name:** [Soli: Music Practice Journal](https://testflight.apple.com/join/zOKDvImR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:18:09.988Z
+**Categories:**
+
+
+**Name:** [Crew Relay Chat](https://testflight.apple.com/join/qdV6ViVi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:18:10.016Z
+**Categories:**
+
+
+**Name:** [Terncy](https://testflight.apple.com/join/CE5vg472)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:18:10.044Z
+**Categories:**
+
+
+**Name:** [Unimed Cooperado](https://testflight.apple.com/join/e08yaqvH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:18:10.073Z
+**Categories:**
+
+
