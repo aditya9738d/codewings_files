@@ -6631,3 +6631,73 @@
 **Categories:**
 
 
+**Name:** [Wombat - Home of NFT Gaming](https://testflight.apple.com/join/0G9Qe0it)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:45:30.958Z
+**Categories:**
+
+
+**Name:** [KFC India online ordering app](https://testflight.apple.com/join/NaEKmoFx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:45:30.995Z
+**Categories:**
+
+
+**Name:** [alfaview](https://testflight.apple.com/join/uPaaoT1e)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:45:31.031Z
+**Categories:**
+
+
+**Name:** [Incom Mobile](https://testflight.apple.com/join/KXIdBk2h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:45:31.067Z
+**Categories:**
+
+
+**Name:** [Infomaniak kDrive](https://testflight.apple.com/join/qZHSGy5B)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:45:31.103Z
+**Categories:**
+
+
+**Name:** [MyPace - Control Your I-Pace](https://testflight.apple.com/join/SPMprsWo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:45:31.139Z
+**Categories:**
+
+
+**Name:** [Swift Lebanon](https://testflight.apple.com/join/w7B1yq0s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:45:31.176Z
+**Categories:**
+
+
+**Name:** [Pizzeria Italia by Ordinalo](https://testflight.apple.com/join/TDkwJ6zG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:45:31.212Z
+**Categories:**
+
+
+**Name:** [AppMySite - My Custom App](https://testflight.apple.com/join/DKgriDVM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:45:31.249Z
+**Categories:**
+
+
+**Name:** [Ninja Reawakening](https://testflight.apple.com/join/5KnqC5Fr)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:45:31.285Z
+**Categories:**
+
+
