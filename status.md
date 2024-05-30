@@ -3271,3 +3271,73 @@
 **Categories:**
 
 
+**Name:** [Coinoverse](https://testflight.apple.com/join/kh4CD9t2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:55:19.265Z
+**Categories:**
+
+
+**Name:** [Sleep Cycle - Tracker & Sounds](https://testflight.apple.com/join/tCeANbZi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:55:19.293Z
+**Categories:**
+
+
+**Name:** [Virgin TV Anywhere Ireland](https://testflight.apple.com/join/JTLqhtdP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:55:19.320Z
+**Categories:**
+
+
+**Name:** [Apptile Admin](https://testflight.apple.com/join/RjifTcpD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:55:19.348Z
+**Categories:**
+
+
+**Name:** [UptickPro NFT Market on IRIS](https://testflight.apple.com/join/B5no7LfQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:55:19.376Z
+**Categories:**
+
+
+**Name:** [HWLWorks Shift Planner](https://testflight.apple.com/join/ztK7pJsN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:55:19.404Z
+**Categories:**
+
+
+**Name:** [Connect Social: Everything app](https://testflight.apple.com/join/TFOyqUZD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:55:19.433Z
+**Categories:**
+
+
+**Name:** [RESWUE](https://testflight.apple.com/join/IuHQgJ7s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:55:19.461Z
+**Categories:**
+
+
+**Name:** [cnvrs](https://testflight.apple.com/join/ERFxInZg)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:55:19.488Z
+**Categories:**
+
+
+**Name:** [SIMOSA (Previously Jazz World)](https://testflight.apple.com/join/522ZboUu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:55:19.516Z
+**Categories:**
+
+
