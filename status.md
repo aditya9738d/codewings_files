@@ -2299,3 +2299,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:44:09.084Z
 
+**Name:** [Any Recipe Keeper](https://testflight.apple.com/join/eedsEgLh)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:45:27.904Z
+
+**Name:** [Monetum](https://testflight.apple.com/join/Av9ileb2)
+**Click Count:** 15
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:45:27.905Z
+
+**Name:** [Notesnook: Private note taking](https://testflight.apple.com/join/tYrz0XXl)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:45:27.905Z
+
+**Name:** [onchain vision](https://testflight.apple.com/join/HinmLjRA)
+**Click Count:** 22
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:45:27.905Z
+
+**Name:** [Febriq](https://testflight.apple.com/join/K5bloOXm)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:45:27.905Z
+
+**Name:** [fortitude - simple journal](https://testflight.apple.com/join/IO9jqeaB)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:45:27.905Z
+
+**Name:** [Nyx VPN](https://testflight.apple.com/join/2aE0bm76)
+**Click Count:** 340
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:45:27.905Z
+
+**Name:** [Split Cash](https://testflight.apple.com/join/cWq3sfD6)
+**Click Count:** 20
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:45:27.905Z
+
+**Name:** [Ozone Wallet](https://testflight.apple.com/join/O7ZUzsod)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:45:27.905Z
+
+**Name:** [Vroom - Race Companion](https://testflight.apple.com/join/s6QStrog)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:45:27.905Z
+
