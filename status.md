@@ -14121,3 +14121,73 @@
 **Categories:**
 
 
+**Name:** [1Team.mn](https://testflight.apple.com/join/ODgTgRrY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:34:12.458Z
+**Categories:**
+
+
+**Name:** [StraboSpot2](https://testflight.apple.com/join/RHM31xfL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:34:12.487Z
+**Categories:**
+
+
+**Name:** [CheckHWPlus](https://testflight.apple.com/join/dHntzkGb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:34:12.515Z
+**Categories:**
+
+
+**Name:** [Club Wizard](https://testflight.apple.com/join/iWBdAqET)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:34:12.544Z
+**Categories:**
+
+
+**Name:** [eduID](https://testflight.apple.com/join/Ogk1TxKu)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T14:34:12.573Z
+**Categories:**
+
+
+**Name:** [SEPHORA Bra Staging](https://testflight.apple.com/join/0paAIDFp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:34:12.600Z
+**Categories:**
+
+
+**Name:** [BotGem](https://testflight.apple.com/join/NVP0zRFW)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:34:12.630Z
+**Categories:**
+
+
+**Name:** [chargEV UAT](https://testflight.apple.com/join/lygg1Zkv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:34:12.658Z
+**Categories:**
+
+
+**Name:** [Shrimoney Hybrid](https://testflight.apple.com/join/d3wuMKFK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:34:12.687Z
+**Categories:**
+
+
+**Name:** [HomeService Dev](https://testflight.apple.com/join/7uaqsLKw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:34:12.715Z
+**Categories:**
+
+
