@@ -30634,3 +30634,73 @@
 **Categories:**
 
 
+**Name:** [SC Mobile Hong Kong](https://testflight.apple.com/join/bOidRPCm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:23:08.987Z
+**Categories:**
+
+
+**Name:** [SmartMixin Weather](https://testflight.apple.com/join/p5HKoM9Z)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:23:09.014Z
+**Categories:**
+
+
+**Name:** [TEPRA Lite+](https://testflight.apple.com/join/v0x9PWyG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:23:09.041Z
+**Categories:**
+
+
+**Name:** [FreeChat](https://testflight.apple.com/join/0l9vfBxX)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:23:09.070Z
+**Categories:**
+
+
+**Name:** [Ekhon Charge](https://testflight.apple.com/join/P6eRb7AQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:23:09.097Z
+**Categories:**
+
+
+**Name:** [SAGA Plus](https://testflight.apple.com/join/omiTVLEZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:23:09.125Z
+**Categories:**
+
+
+**Name:** [BSO E-Account](https://testflight.apple.com/join/d5GG9TFx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:23:09.152Z
+**Categories:**
+
+
+**Name:** [AutoresetApp](https://testflight.apple.com/join/nuvbfzot)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:23:09.180Z
+**Categories:**
+
+
+**Name:** [SoCatch](https://testflight.apple.com/join/vRHeAY5a)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T18:23:09.208Z
+**Categories:**
+
+
+**Name:** [Aerofly FS Global](https://testflight.apple.com/join/O2K1t3YG)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:23:09.235Z
+**Categories:**
+
+
