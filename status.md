@@ -14191,3 +14191,73 @@
 **Categories:**
 
 
+**Name:** [La Positiva Dev](https://testflight.apple.com/join/R4EiypuH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:35:21.337Z
+**Categories:**
+
+
+**Name:** [Intershop IMS](https://testflight.apple.com/join/inGQxXgH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:35:21.364Z
+**Categories:**
+
+
+**Name:** [ArgoFX](https://testflight.apple.com/join/qZEwvILg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:35:21.393Z
+**Categories:**
+
+
+**Name:** [TrainAsONE- AI Running Plans](https://testflight.apple.com/join/lJ1z2chB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:35:21.422Z
+**Categories:**
+
+
+**Name:** [AJC News](https://testflight.apple.com/join/42iYI2ir)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:35:21.450Z
+**Categories:**
+
+
+**Name:** [Docutain SDK ShowCase](https://testflight.apple.com/join/EJy6I3ZE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:35:21.479Z
+**Categories:**
+
+
+**Name:** [Sales Plus](https://testflight.apple.com/join/s3hBNGSM)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:35:21.506Z
+**Categories:**
+
+
+**Name:** [LightSum](https://testflight.apple.com/join/8AdtGd1b)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:35:21.535Z
+**Categories:**
+
+
+**Name:** [Smart Vaults](https://testflight.apple.com/join/1CFTiTXh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:35:21.563Z
+**Categories:**
+
+
+**Name:** [Translucent – Spatial Web Apps](https://testflight.apple.com/join/64xgwI8e)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:35:21.591Z
+**Categories:**
+
+
