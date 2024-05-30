@@ -1649,3 +1649,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:30:44.111Z
 
+**Name:** [Quiet Mobile](https://testflight.apple.com/join/yaUjeiW7)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:31:10.200Z
+
+**Name:** [Sticker Maker Studio](https://testflight.apple.com/join/eucMfZTb)
+**Click Count:** 26
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:31:10.200Z
+
+**Name:** [2024 Eclipse Live](https://testflight.apple.com/join/95C7IOEx)
+**Click Count:** 5
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:31:10.200Z
+
+**Name:** [IITC-Mobile](https://testflight.apple.com/join/UOHpFy01)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:31:10.200Z
+
+**Name:** [Untitled Podcast App](https://testflight.apple.com/join/a4bmx5rA)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:31:10.200Z
+
+**Name:** [SafeExamBrowser](https://testflight.apple.com/join/egxLmc4j)
+**Click Count:** 13
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:31:10.200Z
+
+**Name:** [Darkroom: Photo & Video Editor](https://testflight.apple.com/join/mzR3XvHe)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:31:10.200Z
+
+**Name:** [Daypage](https://testflight.apple.com/join/pSAEAqGk)
+**Click Count:** 22
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:31:10.200Z
+
+**Name:** [Vivaldi Snapshot](https://testflight.apple.com/join/RHz7zTUB)
+**Click Count:** 59
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:31:10.200Z
+
+**Name:** [Easy Unarchiver - ZIP, RAR](https://testflight.apple.com/join/jXX0Wyfy)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:31:10.200Z
+
