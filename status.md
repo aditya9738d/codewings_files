@@ -1748,3 +1748,73 @@
 **Categories:**
 
 
+**Name:** [Tajneed UAE](https://testflight.apple.com/join/ZvLGGRrZ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:16:09.805Z
+**Categories:**
+
+
+**Name:** [TaleSpace](https://testflight.apple.com/join/u3sxw4pc)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:16:09.842Z
+**Categories:**
+
+
+**Name:** [Taler Wallet](https://testflight.apple.com/join/4fjyoe1N)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:16:09.877Z
+**Categories:**
+
+
+**Name:** [TalkD99](https://testflight.apple.com/join/qp520cSy)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:16:09.912Z
+**Categories:**
+
+
+**Name:** [TalkMe: AI Speak buddy](https://testflight.apple.com/join/Oib2Ffr9)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:16:09.951Z
+**Categories:**
+
+
+**Name:** [TanKiemThe](https://testflight.apple.com/join/mlTb4WhB)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:16:09.987Z
+**Categories:**
+
+
+**Name:** [Tanaki](https://testflight.apple.com/join/WOZqfIS4)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:16:10.023Z
+**Categories:**
+
+
+**Name:** [Tandoori Fusion](https://testflight.apple.com/join/6AOmSv7T)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:16:10.062Z
+**Categories:**
+
+
+**Name:** [Tankbot Battle](https://testflight.apple.com/join/rpG73kXC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:16:10.098Z
+**Categories:**
+
+
+**Name:** [Tap BPM Watch](https://testflight.apple.com/join/6WyMWPVR)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:16:10.135Z
+**Categories:**
+
+
