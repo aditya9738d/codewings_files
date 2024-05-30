@@ -2920,3 +2920,74 @@
 **Categories:**
 
 
+**Name:** [Foursquare Swarm: Check-in App](https://testflight.apple.com/join/0rRfTytM)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:51:09.080Z
+**Categories:**
+
+
+**Name:** [Opener ‒ open links in apps](https://testflight.apple.com/join/jXivVMPE)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:51:09.115Z
+**Categories:**
+
+
+**Name:** [Clash of MOland](https://testflight.apple.com/join/IXSVtiZJ)
+**Click Count:** 23
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:51:09.151Z
+**Categories:**
+
+
+**Name:** [Game Of Revenge](https://testflight.apple.com/join/5uee2m5t)
+**Click Count:** 11
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:51:09.188Z
+**Categories:**
+
+
+**Name:** [Freebox Connect](https://testflight.apple.com/join/bxifCoxH)
+**Click Count:** 25
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:51:09.226Z
+**Categories:**
+
+
+**Name:** [HDHomeRun](https://testflight.apple.com/join/nn30hcfY)
+**Click Count:** 52
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:51:09.263Z
+**Categories:**
+
+
+**Name:** [Bamboo Dragonfly](https://testflight.apple.com/join/9yO95rQX)
+**Click Count:** 5
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:51:09.300Z
+**Categories:**
+
+
+**Name:** [Finiliar](https://testflight.apple.com/join/oFWpI2gy)
+**Click Count:** 15
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:51:09.335Z
+**Categories:**
+
+
+**Name:** [GitHub HyperList](https://testflight.apple.com/join/qfPzqQM0)
+**Click Count:** 80
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:51:09.370Z
+**Categories:**
+- Developer
+
+**Name:** [Flipper Mobile App](https://testflight.apple.com/join/oLyR7YeT)
+**Click Count:** 126
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:51:09.407Z
+**Categories:**
+- Developer
+- Utility
+
