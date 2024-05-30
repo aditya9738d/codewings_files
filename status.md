@@ -8871,3 +8871,73 @@
 **Categories:**
 
 
+**Name:** [DarknessBot](https://testflight.apple.com/join/B6r39HPw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:18:11.044Z
+**Categories:**
+
+
+**Name:** [Beeminder](https://testflight.apple.com/join/U26BrdwB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:18:11.074Z
+**Categories:**
+
+
+**Name:** [Yalla - Group Voice Chat Rooms](https://testflight.apple.com/join/LUV13Im7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:18:11.103Z
+**Categories:**
+
+
+**Name:** [Mammotion](https://testflight.apple.com/join/GsYEMjIk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:18:11.137Z
+**Categories:**
+
+
+**Name:** [FunFinances](https://testflight.apple.com/join/pqWTpKCY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:18:11.166Z
+**Categories:**
+
+
+**Name:** [Worklog - AI Time Tracking](https://testflight.apple.com/join/TeHjOP3I)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T13:18:11.196Z
+**Categories:**
+
+
+**Name:** [Playbite - Mobile Arcade](https://testflight.apple.com/join/5EaZwS36)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:18:11.226Z
+**Categories:**
+
+
+**Name:** [Aloha Browser - Private VPN](https://testflight.apple.com/join/Xh9VNQoA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:18:11.255Z
+**Categories:**
+
+
+**Name:** [SOLD](https://testflight.apple.com/join/S8htmnA6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:18:11.285Z
+**Categories:**
+
+
+**Name:** [Tiny-Fins](https://testflight.apple.com/join/AKKsWpCM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:18:11.315Z
+**Categories:**
+
+
