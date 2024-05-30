@@ -10092,3 +10092,73 @@
 **Categories:**
 
 
+**Name:** [kilowatts grid](https://testflight.apple.com/join/ZRfgNtsL)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:19:07.948Z
+**Categories:**
+
+
+**Name:** [Grand Indonesia UAT](https://testflight.apple.com/join/NRp2Gk4X)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:19:07.984Z
+**Categories:**
+
+
+**Name:** [MSB mBank](https://testflight.apple.com/join/xyXBEsA5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:19:08.020Z
+**Categories:**
+
+
+**Name:** [Cirkles - OTT Friends Circle](https://testflight.apple.com/join/JIDrXNmu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:19:08.056Z
+**Categories:**
+
+
+**Name:** [YesStyle - Fashion & Beauty](https://testflight.apple.com/join/RufJzrWG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:19:08.092Z
+**Categories:**
+
+
+**Name:** [EasyBroadcast OTT Demo](https://testflight.apple.com/join/KIkGM2Cw)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:19:08.128Z
+**Categories:**
+
+
+**Name:** [Me - Making Health Intuitive.](https://testflight.apple.com/join/iRkFTHwG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:19:08.165Z
+**Categories:**
+
+
+**Name:** [Snack Sports](https://testflight.apple.com/join/S5S0ztAo)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:19:08.200Z
+**Categories:**
+
+
+**Name:** [Codea](https://testflight.apple.com/join/JTBukCEX)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:19:08.237Z
+**Categories:**
+
+
+**Name:** [MBRSIC](https://testflight.apple.com/join/XaztTbcg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:19:08.273Z
+**Categories:**
+
+
