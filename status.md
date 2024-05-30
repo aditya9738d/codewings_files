@@ -749,3 +749,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:12:11.650Z
 
+**Name:** [Strava: Run, Bike, Hike](https://testflight.apple.com/join/j1cjOW6Z)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:13:08.808Z
+
+**Name:** [Sumo Shapes](https://testflight.apple.com/join/urA1vYR8)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:13:08.808Z
+
+**Name:** [Pathao Talk](https://testflight.apple.com/join/gSrptqOf)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:13:08.808Z
+
+**Name:** [Channel - Staging](https://testflight.apple.com/join/DDIffbcT)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:13:08.808Z
+
+**Name:** [Qobuz Club](https://testflight.apple.com/join/bufxnrS4)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:13:08.808Z
+
+**Name:** [Nostur - Nostr client](https://testflight.apple.com/join/TyrRNCXA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:13:08.808Z
+
+**Name:** [Axm Wallet](https://testflight.apple.com/join/Bjz0XZ5v)
+**Click Count:** 16
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:13:08.808Z
+
+**Name:** [3x3 CubeSpeed](https://testflight.apple.com/join/mIk6RkqE)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:13:08.808Z
+
+**Name:** [EIC App](https://testflight.apple.com/join/B45OhL1o)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:13:08.808Z
+
+**Name:** [IntraMOB](https://testflight.apple.com/join/QH7hDuCE)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:13:08.808Z
+
