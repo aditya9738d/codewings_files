@@ -25034,3 +25034,73 @@
 **Categories:**
 
 
+**Name:** [KA Power Boss](https://testflight.apple.com/join/WRXz6hFA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:01:12.062Z
+**Categories:**
+
+
+**Name:** [Demo 3 - enCappture](https://testflight.apple.com/join/8V7poWDO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:01:12.098Z
+**Categories:**
+
+
+**Name:** [InfoWear](https://testflight.apple.com/join/n0uOZqYR)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:01:12.133Z
+**Categories:**
+
+
+**Name:** [Jainam Space](https://testflight.apple.com/join/9P6KyOdE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:01:12.169Z
+**Categories:**
+
+
+**Name:** [Melpot](https://testflight.apple.com/join/K4x3PKQN)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:01:12.205Z
+**Categories:**
+
+
+**Name:** [MamaMia Hemma](https://testflight.apple.com/join/pRhpmdv8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:01:12.240Z
+**Categories:**
+
+
+**Name:** [QuettaScan](https://testflight.apple.com/join/qwPBKOq9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:01:12.276Z
+**Categories:**
+
+
+**Name:** [AmneziaVPN](https://testflight.apple.com/join/cQ1ndT9p)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:01:12.311Z
+**Categories:**
+
+
+**Name:** [Real Hire](https://testflight.apple.com/join/n94EaaVY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:01:12.347Z
+**Categories:**
+
+
+**Name:** [HOANG ANH - FACTORY](https://testflight.apple.com/join/qi8oPgKV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:01:12.382Z
+**Categories:**
+
+
