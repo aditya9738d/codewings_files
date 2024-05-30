@@ -300,3 +300,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T10:54:52.365Z
 
+**Name:** [Aventon: MyRide](https://testflight.apple.com/join/R285EnR0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:56:35.262Z
+
+**Name:** [mSale++](https://testflight.apple.com/join/NfK9P5L4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:56:35.262Z
+
+**Name:** [Microsoft Authenticator](https://testflight.apple.com/join/Coqmmppd)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:56:35.262Z
+
+**Name:** [VNSDK](https://testflight.apple.com/join/toblTDxv)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:56:35.262Z
+
+**Name:** [Rehive Wallet](https://testflight.apple.com/join/al5S1cHe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:56:35.262Z
+
+**Name:** [Trans FnB Attendance](https://testflight.apple.com/join/DEZOcqPw)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:56:35.262Z
+
+**Name:** [Voiders](https://testflight.apple.com/join/hC20LpY8)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:56:35.262Z
+
+**Name:** [SomniusTestApp](https://testflight.apple.com/join/yxeNsUiP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:56:35.262Z
+
+**Name:** [HSBuddy](https://testflight.apple.com/join/YcxaaTG2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:56:35.262Z
+
+**Name:** [Sangam Lite](https://testflight.apple.com/join/ffchyHEd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:56:35.262Z
+
