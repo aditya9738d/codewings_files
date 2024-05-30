@@ -3218,3 +3218,73 @@
 **Categories:**
 
 
+**Name:** [YouChat AI](https://testflight.apple.com/join/TNT9BeLf)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:39:08.456Z
+**Categories:**
+
+
+**Name:** [Youniq: Personalized nutrition](https://testflight.apple.com/join/6cTtKxdm)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:39:08.485Z
+**Categories:**
+
+
+**Name:** [Yuan Line](https://testflight.apple.com/join/99fzgLKP)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:39:08.513Z
+**Categories:**
+
+
+**Name:** [ZKBioiCare](https://testflight.apple.com/join/KjMy4syQ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:39:08.541Z
+**Categories:**
+
+
+**Name:** [ZMobile Ghana](https://testflight.apple.com/join/JwhjpeDR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:39:09.033Z
+**Categories:**
+
+
+**Name:** [Zakat App Calculator & Finance](https://testflight.apple.com/join/upiuWAYK)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:39:09.062Z
+**Categories:**
+
+
+**Name:** [Zamlift Order](https://testflight.apple.com/join/mjsEfdo5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:39:09.091Z
+**Categories:**
+
+
+**Name:** [Ze Car Finder](https://testflight.apple.com/join/Q0T97aME)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:39:09.119Z
+**Categories:**
+
+
+**Name:** [Zealous Notes](https://testflight.apple.com/join/LH7qcUjG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:39:09.147Z
+**Categories:**
+
+
+**Name:** [Zemlift Dispatcher](https://testflight.apple.com/join/0tmFisIJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:39:09.175Z
+**Categories:**
+
+
