@@ -12371,3 +12371,73 @@
 **Categories:**
 
 
+**Name:** [NYC Connect Call](https://testflight.apple.com/join/kme6IlBV)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:09:09.907Z
+**Categories:**
+
+
+**Name:** [Shinobi Go](https://testflight.apple.com/join/xdFGvw71)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:09:09.944Z
+**Categories:**
+
+
+**Name:** [BAMS CONNECT](https://testflight.apple.com/join/aJuNytbY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:09:09.980Z
+**Categories:**
+
+
+**Name:** [Recco Showcase](https://testflight.apple.com/join/6gAcLQtf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:09:10.016Z
+**Categories:**
+
+
+**Name:** [Threaded for Mastodon](https://testflight.apple.com/join/zepqQW1Z)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:09:10.052Z
+**Categories:**
+
+
+**Name:** [Bahnfinder](https://testflight.apple.com/join/ApOg97KB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:09:10.089Z
+**Categories:**
+
+
+**Name:** [LTS X Cloud](https://testflight.apple.com/join/cd0TOwaA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:09:10.126Z
+**Categories:**
+
+
+**Name:** [Neuro Goal](https://testflight.apple.com/join/U3XgZKM9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:09:10.162Z
+**Categories:**
+
+
+**Name:** [Simple Pay Global](https://testflight.apple.com/join/Y8z5REP2)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T14:09:10.199Z
+**Categories:**
+
+
+**Name:** [SierraBooks Invoices](https://testflight.apple.com/join/KZx6AD22)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:09:10.234Z
+**Categories:**
+
+
