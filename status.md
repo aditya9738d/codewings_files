@@ -12682,3 +12682,73 @@
 **Categories:**
 
 
+**Name:** [Swift Lebanon](https://testflight.apple.com/join/w7B1yq0s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:56:11.083Z
+**Categories:**
+
+
+**Name:** [Pizzeria Italia by Ordinalo](https://testflight.apple.com/join/TDkwJ6zG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:56:11.112Z
+**Categories:**
+
+
+**Name:** [AppMySite - My Custom App](https://testflight.apple.com/join/DKgriDVM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:56:11.140Z
+**Categories:**
+
+
+**Name:** [Ninja Reawakening](https://testflight.apple.com/join/5KnqC5Fr)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:56:11.169Z
+**Categories:**
+
+
+**Name:** [VIB Smart Sales](https://testflight.apple.com/join/Tx2oXWfX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:56:11.197Z
+**Categories:**
+
+
+**Name:** [Garuda Pro](https://testflight.apple.com/join/fgGv10B6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:56:11.225Z
+**Categories:**
+
+
+**Name:** [BinDay](https://testflight.apple.com/join/fHPrJuZ2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:56:11.254Z
+**Categories:**
+
+
+**Name:** [Aximmetry Eye - VP & XR tools](https://testflight.apple.com/join/cS6MFIRP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:56:11.282Z
+**Categories:**
+
+
+**Name:** [Are We Dating The Same Guy?](https://testflight.apple.com/join/K0bfxxeK)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:56:11.311Z
+**Categories:**
+
+
+**Name:** [PalmPay - Transfers, Bills](https://testflight.apple.com/join/bKon8lsd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:56:11.338Z
+**Categories:**
+
+
