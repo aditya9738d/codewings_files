@@ -5284,3 +5284,78 @@
 **Categories:**
 - Utility
 
+**Name:** [Video Game Tracker - Winston](https://testflight.apple.com/join/ePQGMrn0)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:09:09.181Z
+**Categories:**
+- Entertainment
+- Games
+
+**Name:** [FityIt](https://testflight.apple.com/join/NrB5H1Zd)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:09:09.216Z
+**Categories:**
+- Games
+
+**Name:** [filli app](https://testflight.apple.com/join/a9m7JO61)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:09:09.253Z
+**Categories:**
+- Utility
+
+**Name:** [Collabora Office](https://testflight.apple.com/join/TEnBWi68)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:09:09.288Z
+**Categories:**
+- Utility
+
+**Name:** [Power Automate](https://testflight.apple.com/join/IQfqWDCi)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:09:09.323Z
+**Categories:**
+- Utility
+
+**Name:** [1Password for Safari](https://testflight.apple.com/join/wdCBan7N)
+**Click Count:** 15
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:09:09.359Z
+**Categories:**
+- Browser
+- Utility
+
+**Name:** [Blaze Of Empires RTS](https://testflight.apple.com/join/MAyTMggk)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:09:09.394Z
+**Categories:**
+- Games
+
+**Name:** [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:09:09.429Z
+**Categories:**
+- Utility
+- Video
+
+**Name:** [AnyTV - IPTV Player](https://testflight.apple.com/join/NuYsARQq)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:09:09.465Z
+**Categories:**
+- Video
+
+**Name:** [Obsidian - Connected Notes](https://testflight.apple.com/join/f3moqRS1)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:09:09.500Z
+**Categories:**
+- Developer
+- List & To Do
+- Utility
+
