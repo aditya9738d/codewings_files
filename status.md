@@ -8058,3 +8058,74 @@
 **Categories:**
 
 
+**Name:** [dot.dot.dot.](https://testflight.apple.com/join/Fc48B6AB)
+**Click Count:** 34
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:48:10.002Z
+**Categories:**
+
+
+**Name:** [Groq](https://testflight.apple.com/join/Y9X0wGsi)
+**Click Count:** 18
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:48:10.038Z
+**Categories:**
+
+
+**Name:** [musicat.ai](https://testflight.apple.com/join/9KdDFgbw)
+**Click Count:** 23
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:48:10.074Z
+**Categories:**
+- Ai
+- Music
+
+**Name:** [Empty Fasting](https://testflight.apple.com/join/1Ex8uyu7)
+**Click Count:** 54
+**Beta Available:** error
+**Last Checked:** 2024-05-30T22:48:10.109Z
+**Categories:**
+
+
+**Name:** [Fugl](https://testflight.apple.com/join/bZIZeB4N)
+**Click Count:** 70
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:48:10.145Z
+**Categories:**
+
+
+**Name:** [Symbol Wallet](https://testflight.apple.com/join/oKCyZkRa)
+**Click Count:** 21
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:48:10.182Z
+**Categories:**
+
+
+**Name:** [Devomon Callisto](https://testflight.apple.com/join/zP1EuUwb)
+**Click Count:** 21
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:48:10.220Z
+**Categories:**
+
+
+**Name:** [Midicircuit](https://testflight.apple.com/join/pNyAUEac)
+**Click Count:** 8
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:48:10.256Z
+**Categories:**
+
+
+**Name:** [Pikamoon](https://testflight.apple.com/join/YBKQzFTx)
+**Click Count:** 22
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:48:10.292Z
+**Categories:**
+
+
+**Name:** [Djablobeats](https://testflight.apple.com/join/gLcQh8g3)
+**Click Count:** 32
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:48:10.329Z
+**Categories:**
+
+
