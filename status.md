@@ -5301,3 +5301,73 @@
 **Categories:**
 
 
+**Name:** [Session - Pomodoro Focus Timer](https://testflight.apple.com/join/8RwXF4v7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:25:19.214Z
+**Categories:**
+
+
+**Name:** [FVCrew](https://testflight.apple.com/join/uPBEIbPJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:25:19.243Z
+**Categories:**
+
+
+**Name:** [Dustland Runner](https://testflight.apple.com/join/j3aaHsHj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:25:19.271Z
+**Categories:**
+
+
+**Name:** [Plum Music Player](https://testflight.apple.com/join/NTNN2SHE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:25:19.299Z
+**Categories:**
+
+
+**Name:** [Napkinmatic](https://testflight.apple.com/join/FvQUhvHT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:25:19.327Z
+**Categories:**
+
+
+**Name:** [Nahpu](https://testflight.apple.com/join/b18Rs4ju)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:25:19.356Z
+**Categories:**
+
+
+**Name:** [Spiral Productivity](https://testflight.apple.com/join/0sAkgmv7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:25:19.385Z
+**Categories:**
+
+
+**Name:** [SalesCRM-2.0](https://testflight.apple.com/join/wDAor02r)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:25:19.414Z
+**Categories:**
+
+
+**Name:** [N01ZET](https://testflight.apple.com/join/qnPblFSD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:25:19.442Z
+**Categories:**
+
+
+**Name:** [ArB Mobile](https://testflight.apple.com/join/vLXuTaDH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:25:19.470Z
+**Categories:**
+
+
