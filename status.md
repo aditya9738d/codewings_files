@@ -27624,3 +27624,73 @@
 **Categories:**
 
 
+**Name:** [Profoto Control Desktop](https://testflight.apple.com/join/XAMYj1Hr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:40:25.666Z
+**Categories:**
+
+
+**Name:** [CrewWorks](https://testflight.apple.com/join/R0ZE1tt6)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T17:40:25.701Z
+**Categories:**
+
+
+**Name:** [Journal365ai](https://testflight.apple.com/join/crr4Eu99)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:40:25.737Z
+**Categories:**
+
+
+**Name:** [FluvalSmart](https://testflight.apple.com/join/74j34HG2)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:40:25.773Z
+**Categories:**
+
+
+**Name:** [Subscriptions - Track Expenses](https://testflight.apple.com/join/6jbgrn7l)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:40:25.809Z
+**Categories:**
+
+
+**Name:** [VSE BIKER GN](https://testflight.apple.com/join/UY2EfyLO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:40:25.844Z
+**Categories:**
+
+
+**Name:** [Stelyum](https://testflight.apple.com/join/uPyl9y6m)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:40:25.880Z
+**Categories:**
+
+
+**Name:** [AAB New Apps Dev](https://testflight.apple.com/join/Hkiz5yar)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:40:25.915Z
+**Categories:**
+
+
+**Name:** [Recipe Keeper — Any Recipe](https://testflight.apple.com/join/eedsEgLh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:40:25.951Z
+**Categories:**
+
+
+**Name:** [AstrofamilyDVR](https://testflight.apple.com/join/9XDPxUpF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:40:25.987Z
+**Categories:**
+
+
