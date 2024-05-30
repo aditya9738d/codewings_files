@@ -34134,3 +34134,73 @@
 **Categories:**
 
 
+**Name:** [CUZINBEATS](https://testflight.apple.com/join/Aq9EdS4I)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:14:10.313Z
+**Categories:**
+
+
+**Name:** [CX One App - UAT](https://testflight.apple.com/join/JsSSjSEL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:14:10.342Z
+**Categories:**
+
+
+**Name:** [Cabme Customer](https://testflight.apple.com/join/xgO4dIna)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:14:10.370Z
+**Categories:**
+
+
+**Name:** [Caesars Sportsbook](https://testflight.apple.com/join/yMTSVesS)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:14:10.398Z
+**Categories:**
+
+
+**Name:** [CamDigiKeyExternalDev](https://testflight.apple.com/join/Rmiw8D8h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:14:10.427Z
+**Categories:**
+
+
+**Name:** [Campus - POC Gent](https://testflight.apple.com/join/ERuYPDKA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:14:10.455Z
+**Categories:**
+
+
+**Name:** [CanZE](https://testflight.apple.com/join/gypjWAtk)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:14:10.483Z
+**Categories:**
+
+
+**Name:** [Candle: Automate Your Finances](https://testflight.apple.com/join/6RGagpwc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:14:10.514Z
+**Categories:**
+
+
+**Name:** [Canoo Fleet-stage](https://testflight.apple.com/join/vSDwEAPQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:14:10.558Z
+**Categories:**
+
+
+**Name:** [Canopy - Creator Community App](https://testflight.apple.com/join/9Hi7Edky)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:14:10.586Z
+**Categories:**
+
+
