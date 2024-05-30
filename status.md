@@ -6071,3 +6071,73 @@
 **Categories:**
 
 
+**Name:** [Met Office Weather Forecast](https://testflight.apple.com/join/MIUMNYDz)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:37:10.786Z
+**Categories:**
+
+
+**Name:** [Forbes](https://testflight.apple.com/join/E8Tgou8D)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:37:10.822Z
+**Categories:**
+
+
+**Name:** [SWIPE The App](https://testflight.apple.com/join/BnYiqRzA)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:37:10.858Z
+**Categories:**
+
+
+**Name:** [NOMA - Manchester](https://testflight.apple.com/join/sasHE2GQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:37:10.894Z
+**Categories:**
+
+
+**Name:** [Coffee Notes by Fecapp](https://testflight.apple.com/join/p51EEPOE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:37:10.930Z
+**Categories:**
+
+
+**Name:** [Hala-Providers](https://testflight.apple.com/join/HIeNvHGW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:37:10.966Z
+**Categories:**
+
+
+**Name:** [Xiaomi Kids](https://testflight.apple.com/join/YAdTqF1G)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:37:11.002Z
+**Categories:**
+
+
+**Name:** [Zepp Clarity](https://testflight.apple.com/join/JVUsHOTa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:37:11.039Z
+**Categories:**
+
+
+**Name:** [Daily Schedule Planner - Myday](https://testflight.apple.com/join/WtpRtuGC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:37:11.075Z
+**Categories:**
+
+
+**Name:** [eMart - Vendor App](https://testflight.apple.com/join/e6YrRtSn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:37:11.111Z
+**Categories:**
+
+
