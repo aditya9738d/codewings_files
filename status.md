@@ -33224,3 +33224,73 @@
 **Categories:**
 
 
+**Name:** [Assault Bots](https://testflight.apple.com/join/DoWqqxYC)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:01:08.211Z
+**Categories:**
+
+
+**Name:** [AstraUTM UAE (Beta)](https://testflight.apple.com/join/LnAZgCQ1)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:01:08.240Z
+**Categories:**
+
+
+**Name:** [Astro Playbook Showcase](https://testflight.apple.com/join/4oNF3Add)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:01:08.267Z
+**Categories:**
+
+
+**Name:** [Astrysk](https://testflight.apple.com/join/7EFQaTxj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:01:08.295Z
+**Categories:**
+
+
+**Name:** [Ather](https://testflight.apple.com/join/KBOc7OYz)
+**Click Count:** 4
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:01:08.323Z
+**Categories:**
+
+
+**Name:** [Atomic Connect](https://testflight.apple.com/join/V2fqBu19)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:01:08.352Z
+**Categories:**
+
+
+**Name:** [AubAI](https://testflight.apple.com/join/XuTpIgyY)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:01:08.380Z
+**Categories:**
+
+
+**Name:** [Audio Panning Repro](https://testflight.apple.com/join/hqyG666W)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:01:08.408Z
+**Categories:**
+
+
+**Name:** [Aur](https://testflight.apple.com/join/o2YgXZDb)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:01:08.436Z
+**Categories:**
+
+
+**Name:** [Authenticator 2FA | Sentinel](https://testflight.apple.com/join/TqRZOFqa)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:01:08.465Z
+**Categories:**
+
+
