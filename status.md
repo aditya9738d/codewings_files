@@ -17516,3 +17516,108 @@
 **Categories:**
 
 
+**Name:** [eBird](https://testflight.apple.com/join/DKfaffbx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:57.700Z
+**Categories:**
+
+
+**Name:** [Lao Viet Bank Smart UAT](https://testflight.apple.com/join/SaAKAeLP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:57.980Z
+**Categories:**
+
+
+**Name:** [SHARE NOW | Free2move](https://testflight.apple.com/join/1SsBDNCj)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:22:58.260Z
+**Categories:**
+
+
+**Name:** [Unread: An RSS Reader](https://testflight.apple.com/join/rponV8NB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:58.541Z
+**Categories:**
+
+
+**Name:** [YourTRIBE Student](https://testflight.apple.com/join/pJdVB4KC)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:58.821Z
+**Categories:**
+
+
+**Name:** [PeaceLine 2](https://testflight.apple.com/join/Okbu7IFZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:59.102Z
+**Categories:**
+
+
+**Name:** [Going-Link SRM mobile](https://testflight.apple.com/join/71lrJifL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:59.383Z
+**Categories:**
+
+
+**Name:** [Burency](https://testflight.apple.com/join/NLN5D29w)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:59.667Z
+**Categories:**
+
+
+**Name:** [zInspector 3](https://testflight.apple.com/join/5cgw6z3Q)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:59.949Z
+**Categories:**
+
+
+**Name:** [Landscape: Mountaineering](https://testflight.apple.com/join/SrVraMCy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:00.234Z
+**Categories:**
+
+
+**Name:** [Wayback](https://testflight.apple.com/join/WdjIsZcp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:00.527Z
+**Categories:**
+
+
+**Name:** [B9ChatAI](https://testflight.apple.com/join/ATSq4vfs)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:00.808Z
+**Categories:**
+
+
+**Name:** [Lumina_aiimpulse](https://testflight.apple.com/join/RfXZTKIY)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:01.096Z
+**Categories:**
+
+
+**Name:** [F-Portal Develop](https://testflight.apple.com/join/bpuMVnWz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:01.376Z
+**Categories:**
+
+
+**Name:** [Milta](https://testflight.apple.com/join/arhLKWmO)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T15:23:01.658Z
+**Categories:**
+
+
