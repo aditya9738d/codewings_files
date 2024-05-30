@@ -1749,3 +1749,53 @@
 **Beta Available:** full
 **Last Checked:** 2024-05-30T11:32:09.756Z
 
+**Name:** [Spotify - Music and Podcasts](https://testflight.apple.com/join/1SyedSId)
+**Click Count:** 61
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:33:10.740Z
+
+**Name:** [Stick War](https://testflight.apple.com/join/eUx3WxVj)
+**Click Count:** 10
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:33:10.740Z
+
+**Name:** [Envision AI](https://testflight.apple.com/join/QzPGfNeH)
+**Click Count:** 22
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:33:10.740Z
+
+**Name:** [Xbox Game Pass](https://testflight.apple.com/join/wytcNylk)
+**Click Count:** 112
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:33:10.740Z
+
+**Name:** [Solar Eclipse 2024 Mobile](https://testflight.apple.com/join/eCrIcC6x)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:33:10.740Z
+
+**Name:** [Google Chrome](https://testflight.apple.com/join/LPQmtkUs)
+**Click Count:** 185
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:33:10.740Z
+
+**Name:** [winston for Reddit](https://testflight.apple.com/join/3UF8bAUN)
+**Click Count:** 6
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:33:10.740Z
+
+**Name:** [WhatsApp Business](https://testflight.apple.com/join/oscYikr0)
+**Click Count:** 498
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:33:10.740Z
+
+**Name:** [Snapchat](https://testflight.apple.com/join/p7hGbZUR)
+**Click Count:** 549
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:33:10.740Z
+
+**Name:** [Plex: Watch Live TV and Movies](https://testflight.apple.com/join/MY6JTzix)
+**Click Count:** 7
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:33:10.740Z
+
