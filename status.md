@@ -10411,3 +10411,73 @@
 **Categories:**
 
 
+**Name:** [Mobipetz](https://testflight.apple.com/join/fPx4rDhW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:40:28.156Z
+**Categories:**
+
+
+**Name:** [Frigoligo](https://testflight.apple.com/join/nYnbySd8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:40:28.184Z
+**Categories:**
+
+
+**Name:** [VictronConnect](https://testflight.apple.com/join/cvufYMEh)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:40:28.213Z
+**Categories:**
+
+
+**Name:** [Co-op Drive](https://testflight.apple.com/join/J9uhSXNj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:40:28.241Z
+**Categories:**
+
+
+**Name:** [Folksable: Photo Habit Tracker](https://testflight.apple.com/join/fzKoD6Ob)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:40:28.269Z
+**Categories:**
+
+
+**Name:** [hotukdeals - Deals & Discounts](https://testflight.apple.com/join/7atk1rqA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:40:28.297Z
+**Categories:**
+
+
+**Name:** [StreamYard Guest](https://testflight.apple.com/join/2m8gFtdT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:40:28.325Z
+**Categories:**
+
+
+**Name:** [mygov](https://testflight.apple.com/join/VpNnZW9V)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:40:28.353Z
+**Categories:**
+
+
+**Name:** [DaiKimLogistic](https://testflight.apple.com/join/xD3X7kBc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:40:28.381Z
+**Categories:**
+
+
+**Name:** [UXUY: TestFlight Ver](https://testflight.apple.com/join/B7eHUhDy)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:40:28.410Z
+**Categories:**
+
+
