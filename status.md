@@ -33994,3 +33994,73 @@
 **Categories:**
 
 
+**Name:** [Burraco points taker](https://testflight.apple.com/join/4ZXsaaqC)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:12:10.162Z
+**Categories:**
+
+
+**Name:** [Business Directory App](https://testflight.apple.com/join/ohQfpQgK)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:12:10.190Z
+**Categories:**
+
+
+**Name:** [BuzzFeed - Quiz, Trivia & News](https://testflight.apple.com/join/P529XpjS)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:12:10.218Z
+**Categories:**
+
+
+**Name:** [Byndr Social](https://testflight.apple.com/join/nKblMzL3)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:12:10.246Z
+**Categories:**
+
+
+**Name:** [Byte Exchange Bitcoin & Crypto](https://testflight.apple.com/join/uBgc4M2B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:12:10.275Z
+**Categories:**
+
+
+**Name:** [C6HAWK](https://testflight.apple.com/join/NIjFX1cX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:12:10.303Z
+**Categories:**
+
+
+**Name:** [CAMP Pk](https://testflight.apple.com/join/YJStBNvD)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:12:10.332Z
+**Categories:**
+
+
+**Name:** [CARES4WOUNDS C4W-B](https://testflight.apple.com/join/GRUNKVmx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:12:10.360Z
+**Categories:**
+
+
+**Name:** [CATTLEytics](https://testflight.apple.com/join/7lHgKiJP)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:12:10.389Z
+**Categories:**
+
+
+**Name:** [CBChoice](https://testflight.apple.com/join/Gh5tKqWn)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:12:10.417Z
+**Categories:**
+
+
