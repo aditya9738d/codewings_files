@@ -4601,3 +4601,73 @@
 **Categories:**
 
 
+**Name:** [DI-Manage](https://testflight.apple.com/join/jZy4ayXa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:15:26.590Z
+**Categories:**
+
+
+**Name:** [Mobox Pro](https://testflight.apple.com/join/zusuXNhi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:15:26.619Z
+**Categories:**
+
+
+**Name:** [NOSTRA LOGISTICS ePOD](https://testflight.apple.com/join/E729A3lz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:15:26.647Z
+**Categories:**
+
+
+**Name:** [Awesome Habits: Habit Tracker](https://testflight.apple.com/join/4ptd8XuD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:15:26.677Z
+**Categories:**
+
+
+**Name:** [Brain in Hand Mobile](https://testflight.apple.com/join/h0joowGW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:15:26.724Z
+**Categories:**
+
+
+**Name:** [Solplanet](https://testflight.apple.com/join/fDnLKHJT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:15:26.753Z
+**Categories:**
+
+
+**Name:** [HomefarmShip](https://testflight.apple.com/join/V5WM5A3M)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:15:26.782Z
+**Categories:**
+
+
+**Name:** [Openvy](https://testflight.apple.com/join/o1Sq2K1h)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:15:26.811Z
+**Categories:**
+
+
+**Name:** [Streaks](https://testflight.apple.com/join/xYB3TvdT)
+**Click Count:** 4
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T12:15:26.839Z
+**Categories:**
+
+
+**Name:** [Element X - Secure messenger](https://testflight.apple.com/join/uZbeZCOi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:15:26.868Z
+**Categories:**
+
+
