@@ -11352,3 +11352,73 @@
 **Categories:**
 
 
+**Name:** [Spiral Productivity](https://testflight.apple.com/join/0sAkgmv7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:37:12.050Z
+**Categories:**
+
+
+**Name:** [SalesCRM-2.0](https://testflight.apple.com/join/wDAor02r)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:37:12.086Z
+**Categories:**
+
+
+**Name:** [N01ZET](https://testflight.apple.com/join/qnPblFSD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:37:12.122Z
+**Categories:**
+
+
+**Name:** [ArB Mobile](https://testflight.apple.com/join/vLXuTaDH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:37:12.158Z
+**Categories:**
+
+
+**Name:** [Jarvis World](https://testflight.apple.com/join/nPy0c7Yi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:37:12.193Z
+**Categories:**
+
+
+**Name:** [Participant for Zoom](https://testflight.apple.com/join/iwZesoSE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:37:12.229Z
+**Categories:**
+
+
+**Name:** [Relx SG](https://testflight.apple.com/join/n5xzwIH0)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:37:12.264Z
+**Categories:**
+
+
+**Name:** [EdgeLife](https://testflight.apple.com/join/RlnQBUsd)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:37:12.300Z
+**Categories:**
+
+
+**Name:** [Smartware-Staging](https://testflight.apple.com/join/XjCjDAeU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:37:12.337Z
+**Categories:**
+
+
+**Name:** [QuikWallet - UPI & Payments](https://testflight.apple.com/join/ZDGrkiPX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:37:12.373Z
+**Categories:**
+
+
