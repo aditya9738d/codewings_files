@@ -1538,3 +1538,73 @@
 **Categories:**
 
 
+**Name:** [SwoleMate: Workout Planner](https://testflight.apple.com/join/RIpV13lf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:12:10.493Z
+**Categories:**
+
+
+**Name:** [Sygic Truck & RV Navigation](https://testflight.apple.com/join/lxBCLzFG)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:12:10.529Z
+**Categories:**
+
+
+**Name:** [Symbolic Icon Designer](https://testflight.apple.com/join/3JE662iB)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:12:10.564Z
+**Categories:**
+
+
+**Name:** [Symcon Visualization](https://testflight.apple.com/join/GSkFZvWK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:12:10.600Z
+**Categories:**
+
+
+**Name:** [Syncronex Hub](https://testflight.apple.com/join/51KHUXzb)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:12:10.636Z
+**Categories:**
+
+
+**Name:** [T.Gargour & Fils](https://testflight.apple.com/join/0EAeiYFK)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:12:10.673Z
+**Categories:**
+
+
+**Name:** [T@book](https://testflight.apple.com/join/1RJnykEj)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:12:10.709Z
+**Categories:**
+
+
+**Name:** [TAG - Phone Calls Reimagined](https://testflight.apple.com/join/2s6wqq4F)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:12:10.745Z
+**Categories:**
+
+
+**Name:** [TANK: автомобили, общение](https://testflight.apple.com/join/0mXuamGR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:12:10.781Z
+**Categories:**
+
+
+**Name:** [TCS One App](https://testflight.apple.com/join/5BlpO9is)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:12:10.817Z
+**Categories:**
+
+
