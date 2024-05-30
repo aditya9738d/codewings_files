@@ -11912,3 +11912,73 @@
 **Categories:**
 
 
+**Name:** [WikiTree Browser Ext (Preview)](https://testflight.apple.com/join/P0lkfEXV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:45:25.155Z
+**Categories:**
+
+
+**Name:** [TrueMoney Wallet - NonProd](https://testflight.apple.com/join/FFgcl8kO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:45:25.191Z
+**Categories:**
+
+
+**Name:** [OfficeSuite Documents](https://testflight.apple.com/join/gyV031Jk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:45:25.227Z
+**Categories:**
+
+
+**Name:** [IPC360 Home](https://testflight.apple.com/join/p35MH8pJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:45:25.263Z
+**Categories:**
+
+
+**Name:** [Greeks.live](https://testflight.apple.com/join/QGPOEUBM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:45:25.298Z
+**Categories:**
+
+
+**Name:** [Alook Browser - 8x Speed](https://testflight.apple.com/join/I4MFSZp1)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:45:25.334Z
+**Categories:**
+
+
+**Name:** [CPA V2](https://testflight.apple.com/join/sFINr56t)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:45:25.370Z
+**Categories:**
+
+
+**Name:** [Focus – Productivity Timer](https://testflight.apple.com/join/4GWAwNsU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:45:25.406Z
+**Categories:**
+
+
+**Name:** [ZiaCapture](https://testflight.apple.com/join/l44AAS5W)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:45:25.441Z
+**Categories:**
+
+
+**Name:** [Nextcloud Talk](https://testflight.apple.com/join/cxzyr1eO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:45:25.477Z
+**Categories:**
+
+
