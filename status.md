@@ -9991,3 +9991,73 @@
 **Categories:**
 
 
+**Name:** [1Talent](https://testflight.apple.com/join/XSpgiKVk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:34:11.635Z
+**Categories:**
+
+
+**Name:** [Very Ireland : Online Shopping](https://testflight.apple.com/join/cyidqZ3g)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T13:34:11.664Z
+**Categories:**
+
+
+**Name:** [Bushnell Golf Mobile Beta](https://testflight.apple.com/join/LIsefxvz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:34:11.694Z
+**Categories:**
+
+
+**Name:** [KudoCook](https://testflight.apple.com/join/DmaZFDlw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:34:11.723Z
+**Categories:**
+
+
+**Name:** [Verdant Bank Super App](https://testflight.apple.com/join/0rFnzXio)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:34:11.752Z
+**Categories:**
+
+
+**Name:** [MyPayble](https://testflight.apple.com/join/DMgzBcNC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:34:11.780Z
+**Categories:**
+
+
+**Name:** [BuddyBoss Communities App](https://testflight.apple.com/join/gpIZXRSB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:34:11.809Z
+**Categories:**
+
+
+**Name:** [Budget Saudi Car Rental](https://testflight.apple.com/join/pnwln5Cy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:34:11.838Z
+**Categories:**
+
+
+**Name:** [HRM WETEK](https://testflight.apple.com/join/aQOvak9a)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:34:11.867Z
+**Categories:**
+
+
+**Name:** [Sales App - Vietnam](https://testflight.apple.com/join/nOSnYrG5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:34:11.897Z
+**Categories:**
+
+
