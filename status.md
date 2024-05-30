@@ -27274,3 +27274,73 @@
 **Categories:**
 
 
+**Name:** [Ekiva MS](https://testflight.apple.com/join/Xhh2wFC0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:35:16.574Z
+**Categories:**
+
+
+**Name:** [AMEXPAY](https://testflight.apple.com/join/uHc8oQV5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:35:16.601Z
+**Categories:**
+
+
+**Name:** [Singo: Music Bingo for Hosts](https://testflight.apple.com/join/iTejlllM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:35:16.631Z
+**Categories:**
+
+
+**Name:** [We@Hettich](https://testflight.apple.com/join/WY2pTjNq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:35:16.658Z
+**Categories:**
+
+
+**Name:** [Detz](https://testflight.apple.com/join/rWqEUTtm)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:35:16.686Z
+**Categories:**
+
+
+**Name:** [Datadog](https://testflight.apple.com/join/UNFB4E9Q)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:35:16.715Z
+**Categories:**
+
+
+**Name:** [CloudMeetApp](https://testflight.apple.com/join/AsFFqLVU)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:35:16.795Z
+**Categories:**
+
+
+**Name:** [WAS - We Are Soccer](https://testflight.apple.com/join/KFI1gSnf)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:35:16.823Z
+**Categories:**
+
+
+**Name:** [MindNode – Mind Map & Outline](https://testflight.apple.com/join/oZLi68WG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:35:16.851Z
+**Categories:**
+
+
+**Name:** [Hama Fit Move](https://testflight.apple.com/join/vipm8nvK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:35:16.879Z
+**Categories:**
+
+
