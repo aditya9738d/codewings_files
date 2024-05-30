@@ -1258,3 +1258,73 @@
 **Categories:**
 
 
+**Name:** [Specter by stats.fm](https://testflight.apple.com/join/1xVyzRwt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:08:10.512Z
+**Categories:**
+
+
+**Name:** [Spectro by Spectro B.V.](https://testflight.apple.com/join/sVecCTfP)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:08:10.548Z
+**Categories:**
+
+
+**Name:** [Speechless: audios to texts](https://testflight.apple.com/join/LDy50x1A)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:08:10.584Z
+**Categories:**
+
+
+**Name:** [Spher Internal Test](https://testflight.apple.com/join/p36uhXJv)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:08:10.620Z
+**Categories:**
+
+
+**Name:** [Spillt: Recipe & Meal Plan App](https://testflight.apple.com/join/MtWYWuiL)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:08:10.657Z
+**Categories:**
+
+
+**Name:** [Spin Cricket](https://testflight.apple.com/join/evSNfx6v)
+**Click Count:** 17
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:08:10.694Z
+**Categories:**
+
+
+**Name:** [Spindown - Life Tracker](https://testflight.apple.com/join/y0uPEhmH)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:08:10.730Z
+**Categories:**
+
+
+**Name:** [Spirits of the Realms](https://testflight.apple.com/join/lo1xJreb)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:08:10.766Z
+**Categories:**
+
+
+**Name:** [Splat Attack!](https://testflight.apple.com/join/JX4td6PX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:08:10.803Z
+**Categories:**
+
+
+**Name:** [Spooky AI](https://testflight.apple.com/join/hMFfQbuo)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:08:10.839Z
+**Categories:**
+
+
