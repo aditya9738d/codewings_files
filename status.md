@@ -24194,3 +24194,73 @@
 **Categories:**
 
 
+**Name:** [MyTan - Chat with AI](https://testflight.apple.com/join/TOiadljg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:49:12.199Z
+**Categories:**
+
+
+**Name:** [AstroDX-Beta (Group C)](https://testflight.apple.com/join/CuMxZE2M)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T16:49:12.228Z
+**Categories:**
+
+
+**Name:** [Hayyacom](https://testflight.apple.com/join/SuQH5AMK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:49:12.256Z
+**Categories:**
+
+
+**Name:** [TAKA Sports](https://testflight.apple.com/join/oe4iyl4C)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:49:12.284Z
+**Categories:**
+
+
+**Name:** [OnTheList HK](https://testflight.apple.com/join/Psb7gFQ3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:49:12.312Z
+**Categories:**
+
+
+**Name:** [mHealth Connect Follower](https://testflight.apple.com/join/Spf3ZOpM)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T16:49:12.341Z
+**Categories:**
+
+
+**Name:** [SmartGuard](https://testflight.apple.com/join/E0yyZjVe)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:49:12.369Z
+**Categories:**
+
+
+**Name:** [Capture - Quick Notes](https://testflight.apple.com/join/iipKV4OA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:49:12.401Z
+**Categories:**
+
+
+**Name:** [Hung Duy](https://testflight.apple.com/join/DiMPR659)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:49:12.429Z
+**Categories:**
+
+
+**Name:** [APE of Mind](https://testflight.apple.com/join/gxrhxwos)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:49:12.460Z
+**Categories:**
+
+
