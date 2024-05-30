@@ -17691,3 +17691,87 @@
 **Categories:**
 
 
+**Name:** [Qubika](https://testflight.apple.com/join/iI7bpjVW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:19.263Z
+**Categories:**
+
+
+**Name:** [Imprivata Locker](https://testflight.apple.com/join/bU0feGam)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:19.537Z
+**Categories:**
+
+
+**Name:** [Prime Web](https://testflight.apple.com/join/l6t5kD1G)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:19.813Z
+**Categories:**
+
+
+**Name:** [Yaapt](https://testflight.apple.com/join/DiMLxTC4)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:20.091Z
+**Categories:**
+
+
+**Name:** [BOOM CRM](https://testflight.apple.com/join/HoCiXQql)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:20.365Z
+**Categories:**
+
+
+**Name:** [Bitunix : Crypto & BTC Trading](https://testflight.apple.com/join/riLL6dc0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:20.645Z
+**Categories:**
+
+
+**Name:** [Meditation Timer - Zenitizer](https://testflight.apple.com/join/QvKyRJ8x)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:20.925Z
+**Categories:**
+
+
+**Name:** [Xelerate Suite](https://testflight.apple.com/join/L89HPOdQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:21.202Z
+**Categories:**
+
+
+**Name:** [Pace-Calc](https://testflight.apple.com/join/Ge4pa25s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:21.478Z
+**Categories:**
+
+
+**Name:** [Rondo Measure and Quote](https://testflight.apple.com/join/Hc0drHQj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:21.754Z
+**Categories:**
+
+
+**Name:** [Ever Play - HiFi Music Player](https://testflight.apple.com/join/MzvaziMT)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:23:22.029Z
+**Categories:**
+
+
+**Name:** [Alta Networks](https://testflight.apple.com/join/jbfXiKNg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:23:22.304Z
+**Categories:**
+
+
