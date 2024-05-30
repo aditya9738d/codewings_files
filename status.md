@@ -10551,3 +10551,73 @@
 **Categories:**
 
 
+**Name:** [Shop Local: Explore nearby](https://testflight.apple.com/join/7sb4CPgd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:42:13.171Z
+**Categories:**
+
+
+**Name:** [DPN App](https://testflight.apple.com/join/zTvCn1Qe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:42:13.207Z
+**Categories:**
+
+
+**Name:** [ShikiIpad 2](https://testflight.apple.com/join/O6rYR5jM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:42:13.244Z
+**Categories:**
+
+
+**Name:** [AhaaaDevTools](https://testflight.apple.com/join/1v9dlDt9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:42:13.280Z
+**Categories:**
+
+
+**Name:** [A Slight Chance of Sawblades](https://testflight.apple.com/join/ERxrUUEI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:42:13.316Z
+**Categories:**
+
+
+**Name:** [Following - Influencers App](https://testflight.apple.com/join/F3vIPF0f)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:42:13.352Z
+**Categories:**
+
+
+**Name:** [ClasseViva Studenti](https://testflight.apple.com/join/liNewegH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:42:13.388Z
+**Categories:**
+
+
+**Name:** [ShadowLens](https://testflight.apple.com/join/akkmuWEe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:42:13.423Z
+**Categories:**
+
+
+**Name:** [The Guardian - Live World News](https://testflight.apple.com/join/8EsDeq7Y)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:42:13.460Z
+**Categories:**
+
+
+**Name:** [TONALY: Write & Practice Songs](https://testflight.apple.com/join/Vlpj120l)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:42:13.495Z
+**Categories:**
+
+
