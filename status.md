@@ -26574,3 +26574,73 @@
 **Categories:**
 
 
+**Name:** [Jira Cloud by Atlassian](https://testflight.apple.com/join/2lm7vHBS)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:25:15.275Z
+**Categories:**
+
+
+**Name:** [Kennen Asset Management](https://testflight.apple.com/join/yfhyscAR)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T17:25:15.303Z
+**Categories:**
+
+
+**Name:** [Logos: Deep Bible Study](https://testflight.apple.com/join/ftLCn5d6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:25:15.331Z
+**Categories:**
+
+
+**Name:** [A Better Ride](https://testflight.apple.com/join/8udVF6fj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:25:15.358Z
+**Categories:**
+
+
+**Name:** [Simpla](https://testflight.apple.com/join/n1nMbaqk)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:25:15.386Z
+**Categories:**
+
+
+**Name:** [NINJA GAME](https://testflight.apple.com/join/HVLT4aBq)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:25:15.413Z
+**Categories:**
+
+
+**Name:** [Prosper Savings](https://testflight.apple.com/join/YDkQeCbu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:25:15.441Z
+**Categories:**
+
+
+**Name:** [tripmind](https://testflight.apple.com/join/u4DHLMj1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:25:15.469Z
+**Categories:**
+
+
+**Name:** [App Solution Demo](https://testflight.apple.com/join/532BWvp7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:25:15.497Z
+**Categories:**
+
+
+**Name:** [9Cat Saga - Co-op Game Demo](https://testflight.apple.com/join/9m4Pprsl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:25:15.524Z
+**Categories:**
+
+
