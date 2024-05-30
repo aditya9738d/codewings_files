@@ -19294,3 +19294,73 @@
 **Categories:**
 
 
+**Name:** [KEKKAI-Web3 Security Browser](https://testflight.apple.com/join/GfmhwgmN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:37:08.259Z
+**Categories:**
+
+
+**Name:** [MAZ Mirror](https://testflight.apple.com/join/oL6vXvje)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:37:08.294Z
+**Categories:**
+
+
+**Name:** [essence - Prix carburants](https://testflight.apple.com/join/jAWDobNh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:37:08.329Z
+**Categories:**
+
+
+**Name:** [Shopik](https://testflight.apple.com/join/L8PiBUYU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:37:08.364Z
+**Categories:**
+
+
+**Name:** [AWS+](https://testflight.apple.com/join/hxBHqDTi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:37:08.399Z
+**Categories:**
+
+
+**Name:** [waipu.tv - Live TV Streaming](https://testflight.apple.com/join/l72L1OK3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:37:08.434Z
+**Categories:**
+
+
+**Name:** [BlinkReceipt Demo App](https://testflight.apple.com/join/3oGcYulN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:37:08.470Z
+**Categories:**
+
+
+**Name:** [DropletFuel Driver](https://testflight.apple.com/join/aXAxIilC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:37:08.506Z
+**Categories:**
+
+
+**Name:** [Waylet Pre](https://testflight.apple.com/join/1QHOFclG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:37:08.540Z
+**Categories:**
+
+
+**Name:** [Prettycharm](https://testflight.apple.com/join/phHKHeD9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:37:08.576Z
+**Categories:**
+
+
