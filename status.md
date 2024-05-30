@@ -4499,3 +4499,73 @@
 **Categories:**
 
 
+**Name:** [DatumConnect](https://testflight.apple.com/join/KiOrAhP0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:58:09.954Z
+**Categories:**
+
+
+**Name:** [Train Guide](https://testflight.apple.com/join/GpYQd7Fz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:58:09.983Z
+**Categories:**
+
+
+**Name:** [EarthId](https://testflight.apple.com/join/EPZ5JjJh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:58:10.011Z
+**Categories:**
+
+
+**Name:** [BitMEX: Trade Bitcoin & Crypto](https://testflight.apple.com/join/K5veBoJm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:58:10.040Z
+**Categories:**
+
+
+**Name:** [Empirical Sleep Tracker](https://testflight.apple.com/join/OVpc4O6M)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:58:10.069Z
+**Categories:**
+
+
+**Name:** [Hotlink STG](https://testflight.apple.com/join/76sCjfNY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:58:10.097Z
+**Categories:**
+
+
+**Name:** [Discord - Chat, Talk & Hangout](https://testflight.apple.com/join/gdE4pRzI)
+**Click Count:** 10
+**Beta Available:** full
+**Last Checked:** 2024-05-30T21:58:10.126Z
+**Categories:**
+
+
+**Name:** [Batonex](https://testflight.apple.com/join/3IiGX7uy)
+**Click Count:** 84
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:58:10.154Z
+**Categories:**
+
+
+**Name:** [KOSPET FIT](https://testflight.apple.com/join/4Rfh1gQM)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:58:10.182Z
+**Categories:**
+
+
+**Name:** [Varzea](https://testflight.apple.com/join/hDTCtxrY)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:58:10.211Z
+**Categories:**
+
+
