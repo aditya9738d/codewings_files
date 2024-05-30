@@ -11282,3 +11282,73 @@
 **Categories:**
 
 
+**Name:** [Sprit-Rechner Plus](https://testflight.apple.com/join/7zKcg5eF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:36:12.058Z
+**Categories:**
+
+
+**Name:** [StepsApp Pedometer](https://testflight.apple.com/join/gz1xcfBL)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:36:12.094Z
+**Categories:**
+
+
+**Name:** [Binana](https://testflight.apple.com/join/KH0E6Tbk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:36:12.130Z
+**Categories:**
+
+
+**Name:** [Gradvisor](https://testflight.apple.com/join/EfvtbzGU)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:36:12.167Z
+**Categories:**
+
+
+**Name:** [Session - Pomodoro Focus Timer](https://testflight.apple.com/join/8RwXF4v7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:36:12.203Z
+**Categories:**
+
+
+**Name:** [FVCrew](https://testflight.apple.com/join/uPBEIbPJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:36:12.239Z
+**Categories:**
+
+
+**Name:** [Dustland Runner](https://testflight.apple.com/join/j3aaHsHj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:36:12.275Z
+**Categories:**
+
+
+**Name:** [Plum Music Player](https://testflight.apple.com/join/NTNN2SHE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:36:12.311Z
+**Categories:**
+
+
+**Name:** [Napkinmatic](https://testflight.apple.com/join/FvQUhvHT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:36:12.347Z
+**Categories:**
+
+
+**Name:** [Nahpu](https://testflight.apple.com/join/b18Rs4ju)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:36:12.383Z
+**Categories:**
+
+
