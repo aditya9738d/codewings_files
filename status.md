@@ -7751,3 +7751,73 @@
 **Categories:**
 
 
+**Name:** [reFilc](https://testflight.apple.com/join/ZDxpcKqD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:01:09.948Z
+**Categories:**
+
+
+**Name:** [OpenCap](https://testflight.apple.com/join/l0LnKWBf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:01:09.984Z
+**Categories:**
+
+
+**Name:** [KendalFloralCostcoInventory](https://testflight.apple.com/join/HqexobWQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:01:10.019Z
+**Categories:**
+
+
+**Name:** [MAGIC SHOES - WEB3 FITNESS](https://testflight.apple.com/join/588ursID)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:01:10.054Z
+**Categories:**
+
+
+**Name:** [iNook](https://testflight.apple.com/join/gJEnxk0e)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:01:10.090Z
+**Categories:**
+
+
+**Name:** [Mighty Fitness](https://testflight.apple.com/join/AOQfq8vx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:01:10.126Z
+**Categories:**
+
+
+**Name:** [CAPSULE SENSE](https://testflight.apple.com/join/QQcc877m)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:01:10.161Z
+**Categories:**
+
+
+**Name:** [Text With History](https://testflight.apple.com/join/yb47rJki)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:01:10.197Z
+**Categories:**
+
+
+**Name:** [Nexar Classic](https://testflight.apple.com/join/f8tSQ2q0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:01:10.232Z
+**Categories:**
+
+
+**Name:** [Muvonda Access](https://testflight.apple.com/join/kChXTPEC)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:01:10.268Z
+**Categories:**
+
+
