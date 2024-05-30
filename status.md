@@ -999,3 +999,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:17:07.683Z
 
+**Name:** [KingPoker.Club](https://testflight.apple.com/join/hFIiD6km)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:18:10.697Z
+
+**Name:** [Mbuntu](https://testflight.apple.com/join/aDVXKCIm)
+**Click Count:** 17
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:18:10.697Z
+
+**Name:** [FOLKLORE: Enjoy festivals!](https://testflight.apple.com/join/whnVOjRc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:18:10.697Z
+
+**Name:** [MeetIRL](https://testflight.apple.com/join/w8XEqaKg)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:18:10.697Z
+
+**Name:** [Eyva](https://testflight.apple.com/join/n8M2itWd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:18:10.697Z
+
+**Name:** [Untappd - Discover Beer](https://testflight.apple.com/join/EbIrz3mA)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:18:10.697Z
+
+**Name:** [Player Epic IRB Trial](https://testflight.apple.com/join/5iQxoMHb)
+**Click Count:** 20
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:18:10.697Z
+
+**Name:** [Retro - Social Photo Journal](https://testflight.apple.com/join/ZLhPhXDv)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:18:10.697Z
+
+**Name:** [Kobble](https://testflight.apple.com/join/Zg8avLEy)
+**Click Count:** 10
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:18:10.697Z
+
+**Name:** [IPSView](https://testflight.apple.com/join/YzBApZGy)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:18:10.697Z
+
