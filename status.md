@@ -2199,3 +2199,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:41:09.592Z
 
+**Name:** [Gird](https://testflight.apple.com/join/eQLqqX9o)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:42:10.378Z
+
+**Name:** [Zealer](https://testflight.apple.com/join/m0qGxEPZ)
+**Click Count:** 57
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:42:10.378Z
+
+**Name:** [WOW: Wars of Wanon](https://testflight.apple.com/join/UZ4tYFb6)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:42:10.378Z
+
+**Name:** [Chore Champ](https://testflight.apple.com/join/eMqx5DEF)
+**Click Count:** 6
+**Beta Available:** error
+**Last Checked:** 2024-05-30T11:42:10.378Z
+
+**Name:** [Apple AMB](https://testflight.apple.com/join/DsJkKvf8)
+**Click Count:** 28
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:42:10.378Z
+
+**Name:** [Cyber Key Fob](https://testflight.apple.com/join/wzaCXTpH)
+**Click Count:** 16
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:42:10.378Z
+
+**Name:** [nospace](https://testflight.apple.com/join/8To9vUPJ)
+**Click Count:** 19
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:42:10.378Z
+
+**Name:** [MOONDROP](https://testflight.apple.com/join/jih3rTIP)
+**Click Count:** 30
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:42:10.378Z
+
+**Name:** [Matrixport](https://testflight.apple.com/join/s5rARDvM)
+**Click Count:** 57
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:42:10.378Z
+
+**Name:** [Ohere Wallet - Pay & Get Paid](https://testflight.apple.com/join/jsf7ZPVr)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:42:10.378Z
+
