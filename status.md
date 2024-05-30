@@ -9392,3 +9392,73 @@
 **Categories:**
 
 
+**Name:** [Radisys Impromptu](https://testflight.apple.com/join/Uz2l72zC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:09:08.819Z
+**Categories:**
+
+
+**Name:** [JioFinance](https://testflight.apple.com/join/ZiVWeCXG)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:09:08.854Z
+**Categories:**
+
+
+**Name:** [GeoGebra Classic](https://testflight.apple.com/join/quhPlOuu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:09:08.890Z
+**Categories:**
+
+
+**Name:** [JET-P21](https://testflight.apple.com/join/Ngwm6g2H)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:09:08.926Z
+**Categories:**
+
+
+**Name:** [Gother DEV](https://testflight.apple.com/join/d5TbRWDx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:09:08.961Z
+**Categories:**
+
+
+**Name:** [Dessage](https://testflight.apple.com/join/8rZ1eH4s)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:09:08.997Z
+**Categories:**
+
+
+**Name:** [StopMaster](https://testflight.apple.com/join/z7lVdgx8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:09:09.034Z
+**Categories:**
+
+
+**Name:** [JobLog - Application Tracker](https://testflight.apple.com/join/9bxP6NCH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:09:09.070Z
+**Categories:**
+
+
+**Name:** [Urban - Resident App (Staging)](https://testflight.apple.com/join/C7pDmQD8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:09:09.106Z
+**Categories:**
+
+
+**Name:** [Alephium Wallet](https://testflight.apple.com/join/oRHkgVPU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:09:09.142Z
+**Categories:**
+
+
