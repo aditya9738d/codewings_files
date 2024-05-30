@@ -10232,3 +10232,73 @@
 **Categories:**
 
 
+**Name:** [Budget App - Spending Tracker](https://testflight.apple.com/join/RlzjB4hV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:21:08.765Z
+**Categories:**
+
+
+**Name:** [Mary Kay® Interactive Catalog](https://testflight.apple.com/join/2X7PZGUL)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:21:08.802Z
+**Categories:**
+
+
+**Name:** [1409](https://testflight.apple.com/join/B5CCTVv9)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:21:08.837Z
+**Categories:**
+
+
+**Name:** [EufyLife](https://testflight.apple.com/join/s2VwsIVW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:21:08.873Z
+**Categories:**
+
+
+**Name:** [Burger King® Baltics](https://testflight.apple.com/join/K7wGJrAN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:21:08.909Z
+**Categories:**
+
+
+**Name:** [GTMR](https://testflight.apple.com/join/aNYdAP3Z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:21:08.945Z
+**Categories:**
+
+
+**Name:** [Fleetwork](https://testflight.apple.com/join/xQdTfUGY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:21:08.983Z
+**Categories:**
+
+
+**Name:** [with Mountain Smiling](https://testflight.apple.com/join/E5S9WqvB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:21:09.018Z
+**Categories:**
+
+
+**Name:** [PI.FYI by Perfectly Imperfect](https://testflight.apple.com/join/TYTltngj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:21:09.054Z
+**Categories:**
+
+
+**Name:** [ASAKI SOUND+](https://testflight.apple.com/join/3EHi1VDt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:21:09.090Z
+**Categories:**
+
+
