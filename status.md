@@ -34344,3 +34344,73 @@
 **Categories:**
 
 
+**Name:** [CellDe Smart Transfer](https://testflight.apple.com/join/2H9NE6oA)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:17:08.544Z
+**Categories:**
+
+
+**Name:** [CellarTracker Beta](https://testflight.apple.com/join/TiV6SrKG)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:17:08.572Z
+**Categories:**
+
+
+**Name:** [Cennec](https://testflight.apple.com/join/YB4jIjbZ)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:17:08.601Z
+**Categories:**
+
+
+**Name:** [Central App - Shopping Online](https://testflight.apple.com/join/UR6LNcKb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:17:08.629Z
+**Categories:**
+
+
+**Name:** [Centropix](https://testflight.apple.com/join/9ZJFcvNX)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:17:08.657Z
+**Categories:**
+
+
+**Name:** [ChainBow](https://testflight.apple.com/join/VthiUgYF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:17:08.685Z
+**Categories:**
+
+
+**Name:** [Channel - AI with Friends](https://testflight.apple.com/join/DDIffbcT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:17:08.714Z
+**Categories:**
+
+
+**Name:** [Chatbox AI](https://testflight.apple.com/join/40nHblIb)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:17:08.745Z
+**Categories:**
+
+
+**Name:** [Chato](https://testflight.apple.com/join/axaO3S26)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:17:08.774Z
+**Categories:**
+
+
+**Name:** [Check! Game](https://testflight.apple.com/join/DrJz8xxH)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:17:08.802Z
+**Categories:**
+
+
