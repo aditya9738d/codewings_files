@@ -6418,3 +6418,73 @@
 **Categories:**
 
 
+**Name:** [Flickplay: Digital Characters](https://testflight.apple.com/join/xr5o788R)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:25:15.598Z
+**Categories:**
+- Social Networking
+
+**Name:** [Vetero° Weather](https://testflight.apple.com/join/sAJWcbZ9)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:25:15.633Z
+**Categories:**
+
+
+**Name:** [Nootti](https://testflight.apple.com/join/LDJGX8QV)
+**Click Count:** 7
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:25:15.670Z
+**Categories:**
+
+
+**Name:** [YouSee Musik](https://testflight.apple.com/join/bUlXGEb8)
+**Click Count:** 69
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:25:15.706Z
+**Categories:**
+- Music
+
+**Name:** [KingPoker.Club](https://testflight.apple.com/join/hFIiD6km)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:25:15.742Z
+**Categories:**
+
+
+**Name:** [Mbuntu](https://testflight.apple.com/join/aDVXKCIm)
+**Click Count:** 17
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:25:15.777Z
+**Categories:**
+
+
+**Name:** [FOLKLORE: Enjoy festivals!](https://testflight.apple.com/join/whnVOjRc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:25:15.813Z
+**Categories:**
+
+
+**Name:** [MeetIRL](https://testflight.apple.com/join/w8XEqaKg)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:25:15.849Z
+**Categories:**
+
+
+**Name:** [Eyva](https://testflight.apple.com/join/n8M2itWd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:25:15.885Z
+**Categories:**
+
+
+**Name:** [Untappd - Discover Beer](https://testflight.apple.com/join/EbIrz3mA)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:25:15.920Z
+**Categories:**
+
+
