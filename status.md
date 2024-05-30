@@ -18699,3 +18699,108 @@
 **Categories:**
 
 
+**Name:** [FieldNET](https://testflight.apple.com/join/npY9lmhn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.366Z
+**Categories:**
+
+
+**Name:** [Xbox](https://testflight.apple.com/join/dfUeaFHS)
+**Click Count:** 11
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:29:12.394Z
+**Categories:**
+
+
+**Name:** [Bit TodoTemplate](https://testflight.apple.com/join/2qhcabSl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.423Z
+**Categories:**
+
+
+**Name:** [Seek by iNaturalist](https://testflight.apple.com/join/LM5oO3P7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.451Z
+**Categories:**
+
+
+**Name:** [ELOQUII](https://testflight.apple.com/join/OJk4Uenf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.479Z
+**Categories:**
+
+
+**Name:** [Drive 2 Survive](https://testflight.apple.com/join/NSP76djg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.507Z
+**Categories:**
+
+
+**Name:** [What's On TV](https://testflight.apple.com/join/L3GA3TR8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.535Z
+**Categories:**
+
+
+**Name:** [Everycards: Flashcards Quizzes](https://testflight.apple.com/join/vPjeZ0Kq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.563Z
+**Categories:**
+
+
+**Name:** [Free Your Kitchen](https://testflight.apple.com/join/bDqCbq2k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.592Z
+**Categories:**
+
+
+**Name:** [Yalla Ludo - Ludo&Domino](https://testflight.apple.com/join/MVaIYlGT)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:29:12.620Z
+**Categories:**
+
+
+**Name:** [RailCube Mobile](https://testflight.apple.com/join/hI9YK266)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.648Z
+**Categories:**
+
+
+**Name:** [MobiSign](https://testflight.apple.com/join/3VDw6koW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.677Z
+**Categories:**
+
+
+**Name:** [Shapr3D Beta](https://testflight.apple.com/join/Dm6lqUW7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.705Z
+**Categories:**
+
+
+**Name:** [Synappx Go](https://testflight.apple.com/join/do0mqh9y)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.733Z
+**Categories:**
+
+
+**Name:** [Navigraph Charts](https://testflight.apple.com/join/nHCIhOwX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:29:12.760Z
+**Categories:**
+
+
