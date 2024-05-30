@@ -1399,3 +1399,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:25:19.075Z
 
+**Name:** [eDispatches](https://testflight.apple.com/join/ah3T3o1b)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:26:11.620Z
+
+**Name:** [Mela 5 – AUv3: Synth, FX, MIDI](https://testflight.apple.com/join/4zbCXvXw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:26:11.620Z
+
+**Name:** [The Kings Wants To Laugh](https://testflight.apple.com/join/hTqcj6u2)
+**Click Count:** 5
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:26:11.620Z
+
+**Name:** [Facebook](https://testflight.apple.com/join/C1a3MRG4)
+**Click Count:** 345
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:26:11.620Z
+
+**Name:** [NroChat](https://testflight.apple.com/join/PPfQVoNB)
+**Click Count:** 13
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:26:11.620Z
+
+**Name:** [La Terminal - SSH Client](https://testflight.apple.com/join/cpPS8YnX)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:26:11.620Z
+
+**Name:** [GCash Mobile](https://testflight.apple.com/join/gPda0z4L)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:26:11.620Z
+
+**Name:** [Trello: organize anything!](https://testflight.apple.com/join/cRWMcQsr)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:26:11.620Z
+
+**Name:** [Locket Widget](https://testflight.apple.com/join/IGjs9EMj)
+**Click Count:** 901
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:26:11.620Z
+
+**Name:** [Photoroom: AI Photo Editor](https://testflight.apple.com/join/guZ2IygR)
+**Click Count:** 4
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:26:11.620Z
+
