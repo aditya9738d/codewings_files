@@ -20694,3 +20694,73 @@
 **Categories:**
 
 
+**Name:** [Nozbe](https://testflight.apple.com/join/P4TnAn85)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:57:09.216Z
+**Categories:**
+
+
+**Name:** [Aburra](https://testflight.apple.com/join/uLiAhdUA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:57:09.245Z
+**Categories:**
+
+
+**Name:** [AtaOnline](https://testflight.apple.com/join/dARiQ3uL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:57:09.273Z
+**Categories:**
+
+
+**Name:** [Halasat HRMS](https://testflight.apple.com/join/Mrcoo96t)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:57:09.301Z
+**Categories:**
+
+
+**Name:** [Unitree Robotics](https://testflight.apple.com/join/HkN8x2vc)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:57:09.330Z
+**Categories:**
+
+
+**Name:** [SPONT POS - Kassa](https://testflight.apple.com/join/L6Tx1Px1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:57:09.361Z
+**Categories:**
+
+
+**Name:** [Orna: The GPS RPG (BETA)](https://testflight.apple.com/join/5U2DDNNQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:57:09.389Z
+**Categories:**
+
+
+**Name:** [Optima CRM](https://testflight.apple.com/join/biKQAAaH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:57:09.417Z
+**Categories:**
+
+
+**Name:** [KloudGin](https://testflight.apple.com/join/E4mEnK51)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:57:09.447Z
+**Categories:**
+
+
+**Name:** [Winee3](https://testflight.apple.com/join/IFjwtnsG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:57:09.474Z
+**Categories:**
+
+
