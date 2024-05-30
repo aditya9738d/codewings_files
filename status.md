@@ -12192,3 +12192,73 @@
 **Categories:**
 
 
+**Name:** [Bose QCE Staging](https://testflight.apple.com/join/gRsE08gV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:49:10.787Z
+**Categories:**
+
+
+**Name:** [TianPlan](https://testflight.apple.com/join/beToEn3M)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:49:10.823Z
+**Categories:**
+
+
+**Name:** [Catch for Plex](https://testflight.apple.com/join/P8C0tMcJ)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:49:10.862Z
+**Categories:**
+
+
+**Name:** [Olark Mobile](https://testflight.apple.com/join/KG1HsiuQ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:49:10.899Z
+**Categories:**
+
+
+**Name:** [Microsoft OneNote](https://testflight.apple.com/join/uDgoqfGS)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:49:10.934Z
+**Categories:**
+
+
+**Name:** [Puzzle - Aleo Wallet](https://testflight.apple.com/join/bikon7Nj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:49:10.970Z
+**Categories:**
+
+
+**Name:** [cention](https://testflight.apple.com/join/wYemVAvb)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:49:11.007Z
+**Categories:**
+
+
+**Name:** [ZCITY - UAT](https://testflight.apple.com/join/OI8oz46n)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:49:11.042Z
+**Categories:**
+
+
+**Name:** [Twos: Remember & Share Things](https://testflight.apple.com/join/LUYlGm6k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:49:11.079Z
+**Categories:**
+
+
+**Name:** [Feedly - Smart News Reader](https://testflight.apple.com/join/03ER1aUo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:49:11.115Z
+**Categories:**
+
+
