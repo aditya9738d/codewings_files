@@ -22654,3 +22654,73 @@
 **Categories:**
 
 
+**Name:** [Imperans](https://testflight.apple.com/join/cRXeF8OC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:26:11.616Z
+**Categories:**
+
+
+**Name:** [Tuned Global Demo](https://testflight.apple.com/join/9m8ISI1w)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:26:11.645Z
+**Categories:**
+
+
+**Name:** [Smart Industry - IoT Solution](https://testflight.apple.com/join/bjGyWXnj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:26:11.674Z
+**Categories:**
+
+
+**Name:** [OPEN SuperApp](https://testflight.apple.com/join/O4dOEWed)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:26:11.702Z
+**Categories:**
+
+
+**Name:** [WiseCRM365](https://testflight.apple.com/join/Gh4sPVC3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:26:11.730Z
+**Categories:**
+
+
+**Name:** [Kolumbus](https://testflight.apple.com/join/96HAjNXJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:26:11.758Z
+**Categories:**
+
+
+**Name:** [Pashouses Sales Portal](https://testflight.apple.com/join/cFa1rdON)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:26:11.786Z
+**Categories:**
+
+
+**Name:** [Square Invoices: Invoice Maker](https://testflight.apple.com/join/6kzaqhuF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:26:11.815Z
+**Categories:**
+
+
+**Name:** [Aartas-ConnectPlus](https://testflight.apple.com/join/vINAz0J7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:26:11.843Z
+**Categories:**
+
+
+**Name:** [Overland GPS Tracker](https://testflight.apple.com/join/6UD8Jcvz)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:26:11.871Z
+**Categories:**
+
+
