@@ -144,3 +144,55 @@
 **Beta Available:** open
 **Last Checked:** undefined
 
+### App Status
+
+**Name:** [Taxi Muscat](https://testflight.apple.com/join/tY141EEj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Starmed](https://testflight.apple.com/join/RSb459B8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Survey Valuation Test](https://testflight.apple.com/join/rRvD2jkL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Hatchy Rampage](https://testflight.apple.com/join/FPHPdI0s)
+**Click Count:** 11
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Get10101](https://testflight.apple.com/join/WhwnPUh8)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [ORPHE ANALYTICS Recorder](https://testflight.apple.com/join/el6fn1Y0)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Firefox Beta web browser](https://testflight.apple.com/join/JdsubPZs)
+**Click Count:** 71
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [SyenApp: Private Search & Shop](https://testflight.apple.com/join/GxsamE35)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Charge HQ](https://testflight.apple.com/join/yJr5Y0O9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** undefined
+
+**Name:** [Truck Maps Navigation](https://testflight.apple.com/join/vpYkazUc)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** undefined
+
