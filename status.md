@@ -28254,3 +28254,73 @@
 **Categories:**
 
 
+**Name:** [VinHMS Staff](https://testflight.apple.com/join/VPHTX6OH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:49:08.949Z
+**Categories:**
+
+
+**Name:** [Fyreplace](https://testflight.apple.com/join/uWP3m9q7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:49:08.977Z
+**Categories:**
+
+
+**Name:** [Trustee Plus | Wallet & Card](https://testflight.apple.com/join/VMvbSSX3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:49:09.005Z
+**Categories:**
+
+
+**Name:** [4STREAM](https://testflight.apple.com/join/uIk56ID1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:49:09.032Z
+**Categories:**
+
+
+**Name:** [QReate - QR code editor](https://testflight.apple.com/join/B5D8pm9C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:49:09.060Z
+**Categories:**
+
+
+**Name:** [Connectix VPN](https://testflight.apple.com/join/ATDvld9Y)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:49:09.088Z
+**Categories:**
+
+
+**Name:** [BBX UAT](https://testflight.apple.com/join/GiI5AG4r)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:49:09.117Z
+**Categories:**
+
+
+**Name:** [Campfire - Cozy AI Villagers](https://testflight.apple.com/join/6Tzr0UYy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:49:09.145Z
+**Categories:**
+
+
+**Name:** [EasyChem: химия просто](https://testflight.apple.com/join/tcl2Hz3C)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:49:09.173Z
+**Categories:**
+
+
+**Name:** [APTV-Mac](https://testflight.apple.com/join/QN934ULR)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:49:09.201Z
+**Categories:**
+
+
