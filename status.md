@@ -10131,3 +10131,73 @@
 **Categories:**
 
 
+**Name:** [AixPro](https://testflight.apple.com/join/y6GWgaGM)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:36:10.810Z
+**Categories:**
+
+
+**Name:** [PSX Multi-Purpose Classified](https://testflight.apple.com/join/Q7aJ6tnK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:36:10.839Z
+**Categories:**
+
+
+**Name:** [Skedulo Plus](https://testflight.apple.com/join/NcMZL2e3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:36:10.867Z
+**Categories:**
+
+
+**Name:** [My Vodafone Ukraine](https://testflight.apple.com/join/Lg9WYrsn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:36:10.895Z
+**Categories:**
+
+
+**Name:** [FS8](https://testflight.apple.com/join/tQOHoB8x)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:36:10.924Z
+**Categories:**
+
+
+**Name:** [Habit Tracker](https://testflight.apple.com/join/VwXGrgLq)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:36:10.954Z
+**Categories:**
+
+
+**Name:** [Teste Notify](https://testflight.apple.com/join/ZwRf86x3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:36:10.982Z
+**Categories:**
+
+
+**Name:** [The Five](https://testflight.apple.com/join/fGdS4O6y)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:36:11.011Z
+**Categories:**
+
+
+**Name:** [FlipMe Demo App](https://testflight.apple.com/join/rzlfFfWF)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:36:11.040Z
+**Categories:**
+
+
+**Name:** [Lemio: Dopamine Phone Detox](https://testflight.apple.com/join/aOhPP9qo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:36:11.068Z
+**Categories:**
+
+
