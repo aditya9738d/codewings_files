@@ -9952,3 +9952,73 @@
 **Categories:**
 
 
+**Name:** [Tari Aurora](https://testflight.apple.com/join/8ccFp84C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:17:08.760Z
+**Categories:**
+
+
+**Name:** [ZipGrade](https://testflight.apple.com/join/pjs0PkU2)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:17:08.795Z
+**Categories:**
+
+
+**Name:** [EMMA by AXA (UAT)](https://testflight.apple.com/join/ZxMAa3Nk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:17:08.831Z
+**Categories:**
+
+
+**Name:** [Posts by Read.cv](https://testflight.apple.com/join/OTiyTXl2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:17:08.867Z
+**Categories:**
+
+
+**Name:** [kpiee](https://testflight.apple.com/join/jr29oeen)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:17:08.903Z
+**Categories:**
+
+
+**Name:** [Oppen](https://testflight.apple.com/join/IQdovXjj)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:17:08.939Z
+**Categories:**
+
+
+**Name:** [FITSMILES](https://testflight.apple.com/join/QNwqkZKn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:17:08.975Z
+**Categories:**
+
+
+**Name:** [Unified by hg](https://testflight.apple.com/join/SXNi1cb8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:17:09.011Z
+**Categories:**
+
+
+**Name:** [Orange Flutter](https://testflight.apple.com/join/yh05lfbH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:17:09.046Z
+**Categories:**
+
+
+**Name:** [Uzmart Driver](https://testflight.apple.com/join/yRkN7RZE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:17:09.083Z
+**Categories:**
+
+
