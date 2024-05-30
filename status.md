@@ -6981,3 +6981,73 @@
 **Categories:**
 
 
+**Name:** [Smart Sale 2](https://testflight.apple.com/join/k3Vi2v0i)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:50:24.430Z
+**Categories:**
+
+
+**Name:** [Birding Local](https://testflight.apple.com/join/sfVJt2aY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:50:24.458Z
+**Categories:**
+
+
+**Name:** [FasTrack Fasting](https://testflight.apple.com/join/oWlQDcE8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:50:24.486Z
+**Categories:**
+
+
+**Name:** [Destinations and more Stg](https://testflight.apple.com/join/kdUD3voB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:50:24.515Z
+**Categories:**
+
+
+**Name:** [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:50:24.543Z
+**Categories:**
+
+
+**Name:** [Meshtastic DFU](https://testflight.apple.com/join/cRJK8Gyh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:50:24.570Z
+**Categories:**
+
+
+**Name:** [BAS-IP Link](https://testflight.apple.com/join/gDCbIOD8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:50:24.599Z
+**Categories:**
+
+
+**Name:** [miu.fm](https://testflight.apple.com/join/Id3xNWAZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:50:24.626Z
+**Categories:**
+
+
+**Name:** [MinuteTaker - Meeting Notes](https://testflight.apple.com/join/Kl2MqemH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:50:24.655Z
+**Categories:**
+
+
+**Name:** [DayPlus](https://testflight.apple.com/join/2MdRcOkG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:50:24.683Z
+**Categories:**
+
+
