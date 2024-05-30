@@ -25874,3 +25874,73 @@
 **Categories:**
 
 
+**Name:** [YouSee Play](https://testflight.apple.com/join/jsZVs96K)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:13:07.779Z
+**Categories:**
+
+
+**Name:** [Chaos Alpha](https://testflight.apple.com/join/TAsTjvnv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:13:07.806Z
+**Categories:**
+
+
+**Name:** [Dental 99 Pro](https://testflight.apple.com/join/1Rje4cEy)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:13:07.834Z
+**Categories:**
+
+
+**Name:** [soundcore](https://testflight.apple.com/join/kp4vs6Kb)
+**Click Count:** 1
+**Beta Available:** error
+**Last Checked:** 2024-05-30T17:13:07.862Z
+**Categories:**
+
+
+**Name:** [agingWatch dev](https://testflight.apple.com/join/zS5PWCo9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:13:07.890Z
+**Categories:**
+
+
+**Name:** [Photo Safe - private photos](https://testflight.apple.com/join/kLEbv33I)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:13:07.917Z
+**Categories:**
+
+
+**Name:** [PowerScribe Radiologist](https://testflight.apple.com/join/8ydAvntY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:13:07.945Z
+**Categories:**
+
+
+**Name:** [Nebula.](https://testflight.apple.com/join/p2hAgouU)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:13:07.973Z
+**Categories:**
+
+
+**Name:** [GTP](https://testflight.apple.com/join/arCCdBmm)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:13:08.000Z
+**Categories:**
+
+
+**Name:** [Tap Tap Reloaded](https://testflight.apple.com/join/SpvyEydY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:13:08.027Z
+**Categories:**
+
+
