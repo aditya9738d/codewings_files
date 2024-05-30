@@ -1,3 +1,5 @@
+- **KSAS（クボタスマートアグリシステム）**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/4a/0d/394a0d8f-f72c-3bd5-a2de-0f86f3ce6951/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9qAbc8OZ)
+
 - **中国移动云盘-全民不限速**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/8f/bf/028fbfb6-ccea-3298-01cd-6ae7e10ff908/AppIcon-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cR3t7Cnj)
 
 - **Rồng Thần Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/fb/46/abfb466f-6a33-f63f-d5b7-a01b9293835e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/k8584n03)
