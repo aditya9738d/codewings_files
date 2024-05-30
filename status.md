@@ -1398,3 +1398,73 @@
 **Categories:**
 
 
+**Name:** [StopwatchDevelop](https://testflight.apple.com/join/rQTvK01U)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:10:23.942Z
+**Categories:**
+
+
+**Name:** [StreamCam for OBS & Streamlabs](https://testflight.apple.com/join/G2nWjlsH)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:10:23.983Z
+**Categories:**
+
+
+**Name:** [Streamsaver - Stream Companion](https://testflight.apple.com/join/QYe4O6Tr)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:10:24.018Z
+**Categories:**
+
+
+**Name:** [StreetBookies](https://testflight.apple.com/join/ycSUylsI)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:10:24.055Z
+**Categories:**
+
+
+**Name:** [Strides: Habit Tracker + Goals](https://testflight.apple.com/join/yf1QglKW)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:10:24.090Z
+**Categories:**
+
+
+**Name:** [Strings Catalog Translator](https://testflight.apple.com/join/JcKYYGab)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:10:24.174Z
+**Categories:**
+
+
+**Name:** [Study Snacks: Languages & More](https://testflight.apple.com/join/PBaw6V7Y)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:10:24.210Z
+**Categories:**
+
+
+**Name:** [StudyStream](https://testflight.apple.com/join/BWd7tE6E)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:10:24.246Z
+**Categories:**
+
+
+**Name:** [Subjects — school planner](https://testflight.apple.com/join/BnN6jEaJ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:10:24.281Z
+**Categories:**
+
+
+**Name:** [Sudoku Cloudscape: Solve Relax](https://testflight.apple.com/join/8CRMXkRl)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:10:24.317Z
+**Categories:**
+
+
