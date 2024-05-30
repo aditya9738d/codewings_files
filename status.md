@@ -1699,3 +1699,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:31:10.200Z
 
+**Name:** [KFC](https://testflight.apple.com/join/vWsEPv3U)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:32:09.756Z
+
+**Name:** [Readwise Reader](https://testflight.apple.com/join/NSeQo22d)
+**Click Count:** 28
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:32:09.756Z
+
+**Name:** [enhanceAl](https://testflight.apple.com/join/P7nvmE22)
+**Click Count:** 24
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:32:09.756Z
+
+**Name:** [Adobe Acrobat Reader: Edit PDF](https://testflight.apple.com/join/8XhFnQlp)
+**Click Count:** 41
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:32:09.756Z
+
+**Name:** [Messenger](https://testflight.apple.com/join/njVWbUm0)
+**Click Count:** 81
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:32:09.756Z
+
+**Name:** [CapCut - Video Editor](https://testflight.apple.com/join/F35EKwCs)
+**Click Count:** 58
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:32:09.756Z
+
+**Name:** [TikTok](https://testflight.apple.com/join/pLmKZJKw)
+**Click Count:** 186
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:32:09.756Z
+
+**Name:** [1Blocker - Ad Blocker](https://testflight.apple.com/join/KjmVWFnT)
+**Click Count:** 4
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:32:09.756Z
+
+**Name:** [ListenNow Air](https://testflight.apple.com/join/WFQmpxgp)
+**Click Count:** 109
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:32:09.756Z
+
+**Name:** [Pencil Paper Notebook: Penbook](https://testflight.apple.com/join/km3LkqB1)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:32:09.756Z
+
