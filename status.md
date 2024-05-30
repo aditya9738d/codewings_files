@@ -14471,3 +14471,73 @@
 **Categories:**
 
 
+**Name:** [Levana.ai](https://testflight.apple.com/join/hntBsPDi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:39:07.937Z
+**Categories:**
+
+
+**Name:** [SRS-MY](https://testflight.apple.com/join/5KyoOvpK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:39:07.966Z
+**Categories:**
+
+
+**Name:** [Pablo - AI Voice Chat](https://testflight.apple.com/join/raZGq35o)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:39:07.995Z
+**Categories:**
+
+
+**Name:** [iDeliberate: Live Consciously](https://testflight.apple.com/join/kELs398P)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:39:08.023Z
+**Categories:**
+
+
+**Name:** [Claire's Clarity](https://testflight.apple.com/join/8nWo9fPw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:39:08.051Z
+**Categories:**
+
+
+**Name:** [Navatics](https://testflight.apple.com/join/YAY2SOPi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:39:08.080Z
+**Categories:**
+
+
+**Name:** [Teslogic Dash](https://testflight.apple.com/join/YS2Nsl5q)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:39:08.109Z
+**Categories:**
+
+
+**Name:** [TiKi](https://testflight.apple.com/join/rlHdD6qZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:39:08.138Z
+**Categories:**
+
+
+**Name:** [Reflect for iPad](https://testflight.apple.com/join/ERcDXcPQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:39:08.166Z
+**Categories:**
+
+
+**Name:** [Mobile VMS](https://testflight.apple.com/join/dTEj0p5f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:39:08.195Z
+**Categories:**
+
+
