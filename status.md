@@ -20974,3 +20974,73 @@
 **Categories:**
 
 
+**Name:** [Healthway Medical Doctor](https://testflight.apple.com/join/jtHExqEw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:01:10.138Z
+**Categories:**
+
+
+**Name:** [MccRemitOne](https://testflight.apple.com/join/wsHijQvZ)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T16:01:10.174Z
+**Categories:**
+
+
+**Name:** [Stampede V7](https://testflight.apple.com/join/a1q1PpDx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:01:10.210Z
+**Categories:**
+
+
+**Name:** [mentalport Mental Health Coach](https://testflight.apple.com/join/95pdvCKt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:01:10.246Z
+**Categories:**
+
+
+**Name:** [TEC Canada Staging](https://testflight.apple.com/join/CqNckDJ3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:01:10.281Z
+**Categories:**
+
+
+**Name:** [ChaoPatient](https://testflight.apple.com/join/gAxlW0Kd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:01:10.316Z
+**Categories:**
+
+
+**Name:** [IncisionS](https://testflight.apple.com/join/zguy84Rc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:01:10.352Z
+**Categories:**
+
+
+**Name:** [Aung Bar Lay](https://testflight.apple.com/join/lyJ4vghJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:01:10.388Z
+**Categories:**
+
+
+**Name:** [Twitch Beta](https://testflight.apple.com/join/8vRKFAiY)
+**Click Count:** 115
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:01:10.423Z
+**Categories:**
+
+
+**Name:** [Tamweel](https://testflight.apple.com/join/5Xw0cTFz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:01:10.460Z
+**Categories:**
+
+
