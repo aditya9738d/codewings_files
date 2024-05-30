@@ -5854,3 +5854,75 @@
 **Categories:**
 
 
+**Name:** [TerraMow](https://testflight.apple.com/join/a22IhpE2)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:17:09.451Z
+**Categories:**
+
+
+**Name:** [[DEV] Mental Vision](https://testflight.apple.com/join/jEZtTnwk)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:17:09.488Z
+**Categories:**
+
+
+**Name:** [Legal Smoke Guide](https://testflight.apple.com/join/84QZJuDs)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:17:09.524Z
+**Categories:**
+
+
+**Name:** [Device Management App](https://testflight.apple.com/join/ZspSdWIi)
+**Click Count:** 37
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:17:09.560Z
+**Categories:**
+
+
+**Name:** [VPBank Jarvis SalesApp](https://testflight.apple.com/join/nlZsButl)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:17:09.596Z
+**Categories:**
+
+
+**Name:** [KaedenAteMySandwich](https://testflight.apple.com/join/BXq4Uq9l)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:17:09.632Z
+**Categories:**
+
+
+**Name:** [Microsoft Designer](https://testflight.apple.com/join/KsuaylTZ)
+**Click Count:** 22
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:17:09.668Z
+**Categories:**
+- Art & Design
+
+**Name:** [Bike Hills](https://testflight.apple.com/join/rV7NDoNp)
+**Click Count:** 17
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:17:09.705Z
+**Categories:**
+- Games
+
+**Name:** [Zapit Food Delivery](https://testflight.apple.com/join/dsR5F5FV)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:17:09.741Z
+**Categories:**
+- Food
+- Shopping
+- Utility
+
+**Name:** [Gumtree: local classified ads](https://testflight.apple.com/join/bXLgmUlj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:17:09.777Z
+**Categories:**
+
+
