@@ -10831,3 +10831,73 @@
 **Categories:**
 
 
+**Name:** [SmartumPay](https://testflight.apple.com/join/G26deldP)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:46:12.269Z
+**Categories:**
+
+
+**Name:** [PMP App Dev](https://testflight.apple.com/join/lbmpmtQ9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:46:12.305Z
+**Categories:**
+
+
+**Name:** [Guarding Vision](https://testflight.apple.com/join/AtU9J2Xn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:46:12.343Z
+**Categories:**
+
+
+**Name:** [Breaking News](https://testflight.apple.com/join/W85f0g3L)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:46:12.380Z
+**Categories:**
+
+
+**Name:** [Pikalist](https://testflight.apple.com/join/XnUYLSHN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:46:12.416Z
+**Categories:**
+
+
+**Name:** [Huawei e+](https://testflight.apple.com/join/tr1WU6iX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:46:12.464Z
+**Categories:**
+
+
+**Name:** [Blu - Financial Tracker](https://testflight.apple.com/join/JInmTNff)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:46:12.500Z
+**Categories:**
+
+
+**Name:** [Auchan](https://testflight.apple.com/join/ZN5yKVN7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:46:12.538Z
+**Categories:**
+
+
+**Name:** [Safewave](https://testflight.apple.com/join/hPs6FGvq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:46:12.574Z
+**Categories:**
+
+
+**Name:** [GhostMove](https://testflight.apple.com/join/DR5VLHcn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:46:12.611Z
+**Categories:**
+
+
