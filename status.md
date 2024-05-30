@@ -249,3 +249,53 @@
 **Beta Available:** full
 **Last Checked:** 2024-05-30T11:02:11.290Z
 
+**Name:** [Jusour-Beta](https://testflight.apple.com/join/zdZpWEmB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:03:08.069Z
+
+**Name:** [FSCB Banking](https://testflight.apple.com/join/J0HJaCws)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:03:08.069Z
+
+**Name:** [Lyd - Vision Remote for Sonos](https://testflight.apple.com/join/NDTrJKcG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:03:08.069Z
+
+**Name:** [Onto](https://testflight.apple.com/join/1QL1gXrP)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:03:08.069Z
+
+**Name:** [Buno](https://testflight.apple.com/join/Ml8Cn0Fs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:03:08.069Z
+
+**Name:** [Jusoor](https://testflight.apple.com/join/1Obdkyq9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:03:08.069Z
+
+**Name:** [PGArcher](https://testflight.apple.com/join/6xQslzME)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:03:08.069Z
+
+**Name:** [Satsuma Wallet](https://testflight.apple.com/join/QfWYprVO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:03:08.069Z
+
+**Name:** [Changelog Publisher](https://testflight.apple.com/join/4YdmtpbZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:03:08.069Z
+
+**Name:** [push – workout counter](https://testflight.apple.com/join/pyNg1Nhc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:03:08.069Z
+
