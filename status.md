@@ -32454,3 +32454,73 @@
 **Categories:**
 
 
+**Name:** [Standard Notes](https://testflight.apple.com/join/H61MmmCA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:50:23.694Z
+**Categories:**
+
+
+**Name:** [Sesame, Open Sesame](https://testflight.apple.com/join/Rok4GOFD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:50:23.722Z
+**Categories:**
+
+
+**Name:** [BM Online](https://testflight.apple.com/join/DbXBjWdN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:50:23.749Z
+**Categories:**
+
+
+**Name:** [Soralution](https://testflight.apple.com/join/670hF438)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:50:23.777Z
+**Categories:**
+
+
+**Name:** [ITC-ReqSt](https://testflight.apple.com/join/BOQBlqj5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:50:23.806Z
+**Categories:**
+
+
+**Name:** [Alpha Energy Capital](https://testflight.apple.com/join/DEtEmmac)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:50:23.833Z
+**Categories:**
+
+
+**Name:** [AlignMate - Aligner Tracker](https://testflight.apple.com/join/x023Iads)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:50:23.861Z
+**Categories:**
+
+
+**Name:** [Airport Boss](https://testflight.apple.com/join/qg85NoSA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:50:23.889Z
+**Categories:**
+
+
+**Name:** [AirBeams](https://testflight.apple.com/join/0368BN86)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:50:23.916Z
+**Categories:**
+
+
+**Name:** [Afrimoney AO](https://testflight.apple.com/join/P0JPrchZ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T18:50:23.944Z
+**Categories:**
+
+
