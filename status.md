@@ -25104,3 +25104,73 @@
 **Categories:**
 
 
+**Name:** [PopAi-AI Chat with PDF & Image](https://testflight.apple.com/join/suD1oHP1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:02:13.862Z
+**Categories:**
+
+
+**Name:** [ArchiveME](https://testflight.apple.com/join/YWzAZiRs)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:02:13.897Z
+**Categories:**
+
+
+**Name:** [iAnyGo-2](https://testflight.apple.com/join/fU362zmT)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:02:13.933Z
+**Categories:**
+
+
+**Name:** [Maikr](https://testflight.apple.com/join/61cBo7QN)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:02:13.968Z
+**Categories:**
+
+
+**Name:** [PhoenixV](https://testflight.apple.com/join/xFHXiUkl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:02:14.004Z
+**Categories:**
+
+
+**Name:** [MyHitron+](https://testflight.apple.com/join/ey7Ffnp3)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T17:02:14.039Z
+**Categories:**
+
+
+**Name:** [MPWT News UAT](https://testflight.apple.com/join/aRMaAdnH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:02:14.075Z
+**Categories:**
+
+
+**Name:** [JMB Business Mobile](https://testflight.apple.com/join/2xNkYHjU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:02:14.110Z
+**Categories:**
+
+
+**Name:** [Crestron Home](https://testflight.apple.com/join/qvEvUmop)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:02:14.146Z
+**Categories:**
+
+
+**Name:** [RAR Partner](https://testflight.apple.com/join/U2CVy8Z8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:02:14.182Z
+**Categories:**
+
+
