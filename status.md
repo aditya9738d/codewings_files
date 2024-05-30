@@ -6211,3 +6211,73 @@
 **Categories:**
 
 
+**Name:** [Microsoft OneNote](https://testflight.apple.com/join/uDgoqfGS)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:39:12.647Z
+**Categories:**
+
+
+**Name:** [Puzzle - Aleo Wallet](https://testflight.apple.com/join/bikon7Nj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:39:12.683Z
+**Categories:**
+
+
+**Name:** [cention](https://testflight.apple.com/join/wYemVAvb)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T12:39:12.720Z
+**Categories:**
+
+
+**Name:** [ZCITY - UAT](https://testflight.apple.com/join/OI8oz46n)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:39:12.756Z
+**Categories:**
+
+
+**Name:** [Twos: Remember & Share Things](https://testflight.apple.com/join/LUYlGm6k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:39:12.792Z
+**Categories:**
+
+
+**Name:** [Feedly - Smart News Reader](https://testflight.apple.com/join/03ER1aUo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:39:12.829Z
+**Categories:**
+
+
+**Name:** [Polyfonica](https://testflight.apple.com/join/rU5a0Rog)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:39:12.865Z
+**Categories:**
+
+
+**Name:** [ZeestaApp Beta](https://testflight.apple.com/join/HeedG8nw)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:39:12.902Z
+**Categories:**
+
+
+**Name:** [Brew Coffee](https://testflight.apple.com/join/yo3qrfji)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:39:12.939Z
+**Categories:**
+
+
+**Name:** [My TXO](https://testflight.apple.com/join/wqu8mbUM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:39:12.976Z
+**Categories:**
+
+
