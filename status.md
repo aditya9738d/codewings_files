@@ -5504,3 +5504,73 @@
 **Categories:**
 
 
+**Name:** [Lazy Soccer](https://testflight.apple.com/join/4YpidcKp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:12:12.611Z
+**Categories:**
+
+
+**Name:** [PCM Wallet](https://testflight.apple.com/join/H83L59j0)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:12:12.639Z
+**Categories:**
+
+
+**Name:** [Chatter Social](https://testflight.apple.com/join/5OnpZ3vt)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:12:12.667Z
+**Categories:**
+
+
+**Name:** [Satpile - BTC Balance Tracker](https://testflight.apple.com/join/t64ljQX9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:12:12.695Z
+**Categories:**
+
+
+**Name:** [Raseel](https://testflight.apple.com/join/P0SFs7G8)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:12:12.723Z
+**Categories:**
+
+
+**Name:** [Indo-NonOfficiel](https://testflight.apple.com/join/Hpb1XZzf)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:12:12.750Z
+**Categories:**
+
+
+**Name:** [Keka](https://testflight.apple.com/join/gPYINGCJ)
+**Click Count:** 19
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:12:12.778Z
+**Categories:**
+
+
+**Name:** [Pino - DeFi Wallet](https://testflight.apple.com/join/2UYERVD3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:12:12.806Z
+**Categories:**
+
+
+**Name:** [Wavlake](https://testflight.apple.com/join/eWnqECG4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:12:12.833Z
+**Categories:**
+
+
+**Name:** [NgajiQuran](https://testflight.apple.com/join/4ErE5nTw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:12:12.861Z
+**Categories:**
+
+
