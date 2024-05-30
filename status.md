@@ -5231,3 +5231,73 @@
 **Categories:**
 
 
+**Name:** [Dubline - 2 telnrs op 1 mobiel](https://testflight.apple.com/join/BC5ymYdU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:24:10.725Z
+**Categories:**
+
+
+**Name:** [ScopeMateCAM](https://testflight.apple.com/join/vun9j5Uz)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:24:10.753Z
+**Categories:**
+
+
+**Name:** [Pocket Pass Manager](https://testflight.apple.com/join/NeYmSS4B)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:24:10.781Z
+**Categories:**
+
+
+**Name:** [Wellness Coach:Mind Body Sleep](https://testflight.apple.com/join/BTtsdcCg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:24:10.810Z
+**Categories:**
+
+
+**Name:** [BBEdit](https://testflight.apple.com/join/imiQlCyL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:24:10.840Z
+**Categories:**
+
+
+**Name:** [Cat Inspect UAT](https://testflight.apple.com/join/GmtFFsvK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:24:10.869Z
+**Categories:**
+
+
+**Name:** [Sprit-Rechner Plus](https://testflight.apple.com/join/7zKcg5eF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:24:10.898Z
+**Categories:**
+
+
+**Name:** [StepsApp Pedometer](https://testflight.apple.com/join/gz1xcfBL)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:24:10.928Z
+**Categories:**
+
+
+**Name:** [Binana](https://testflight.apple.com/join/KH0E6Tbk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:24:10.956Z
+**Categories:**
+
+
+**Name:** [Gradvisor](https://testflight.apple.com/join/EfvtbzGU)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:24:10.985Z
+**Categories:**
+
+
