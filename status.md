@@ -9112,3 +9112,73 @@
 **Categories:**
 
 
+**Name:** [LemonSqueezy - Unofficial](https://testflight.apple.com/join/yRCtKeaR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:05:14.177Z
+**Categories:**
+
+
+**Name:** [Pupgame](https://testflight.apple.com/join/IM3kTRUY)
+**Click Count:** 17
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:05:14.214Z
+**Categories:**
+
+
+**Name:** [Bitflex - Buy & Trade Crypto](https://testflight.apple.com/join/B086wN2p)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:05:14.250Z
+**Categories:**
+
+
+**Name:** [Swing Trials](https://testflight.apple.com/join/BgReQFnF)
+**Click Count:** 25
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:05:14.286Z
+**Categories:**
+
+
+**Name:** [Manga Clash - Warrior Arena](https://testflight.apple.com/join/htIpxyDx)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:05:14.322Z
+**Categories:**
+
+
+**Name:** [Notes - Sight Reading Trainer](https://testflight.apple.com/join/l4ad6sxi)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:05:14.358Z
+**Categories:**
+
+
+**Name:** [GeoQuestAR](https://testflight.apple.com/join/Aqpi4Ote)
+**Click Count:** 33
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:05:14.393Z
+**Categories:**
+
+
+**Name:** [Sw!ftalyzer](https://testflight.apple.com/join/hqzrhjHd)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:05:14.435Z
+**Categories:**
+
+
+**Name:** [hockey.nl](https://testflight.apple.com/join/dEZe3xLJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:05:14.471Z
+**Categories:**
+
+
+**Name:** [Tivatrainer](https://testflight.apple.com/join/qkTTNyGj)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:05:14.507Z
+**Categories:**
+
+
