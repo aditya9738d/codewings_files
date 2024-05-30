@@ -6348,3 +6348,73 @@
 **Categories:**
 
 
+**Name:** [Avatar Musik](https://testflight.apple.com/join/O0KKLALY)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:24:09.891Z
+**Categories:**
+- Games
+
+**Name:** [Compass 55. Map & GPS kit.](https://testflight.apple.com/join/AlVn2xFs)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:24:09.919Z
+**Categories:**
+
+
+**Name:** [Moon Player: Play Everything](https://testflight.apple.com/join/jvjbvKYm)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:24:09.947Z
+**Categories:**
+
+
+**Name:** [AZDOME](https://testflight.apple.com/join/7NgrnJ91)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:24:09.974Z
+**Categories:**
+
+
+**Name:** [Email App –  Mail.ru](https://testflight.apple.com/join/G04Eq2nO)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:24:10.001Z
+**Categories:**
+
+
+**Name:** [Windmill - Best mobile booster](https://testflight.apple.com/join/ATmUrGm5)
+**Click Count:** 5
+**Beta Available:** error
+**Last Checked:** 2024-05-30T22:24:10.029Z
+**Categories:**
+
+
+**Name:** [Gigantix Wallet](https://testflight.apple.com/join/J48mQeRd)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:24:10.057Z
+**Categories:**
+
+
+**Name:** [Vida Journal](https://testflight.apple.com/join/zBWk4QZ1)
+**Click Count:** 11
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:24:10.085Z
+**Categories:**
+
+
+**Name:** [NTNU CVCS 2021](https://testflight.apple.com/join/GkbLawaz)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:24:10.113Z
+**Categories:**
+
+
+**Name:** [Oooh: Way Better Group Chats](https://testflight.apple.com/join/dlm34fHd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:24:10.141Z
+**Categories:**
+
+
