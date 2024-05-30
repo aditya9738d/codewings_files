@@ -18384,3 +18384,108 @@
 **Categories:**
 
 
+**Name:** [Kiki: Social](https://testflight.apple.com/join/4HytpS8B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:14.658Z
+**Categories:**
+
+
+**Name:** [Bank of Montserrat](https://testflight.apple.com/join/CDJ3OVH0)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:14.694Z
+**Categories:**
+
+
+**Name:** [THORWallet: DeFi Crypto Wallet](https://testflight.apple.com/join/f5LW68I8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:14.730Z
+**Categories:**
+
+
+**Name:** [APS Wallet Agent UAT](https://testflight.apple.com/join/HDZDSWDe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:14.767Z
+**Categories:**
+
+
+**Name:** [HuiOne-test](https://testflight.apple.com/join/oEUeqGeZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:14.803Z
+**Categories:**
+
+
+**Name:** [SM Data](https://testflight.apple.com/join/Y9naobS1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:14.838Z
+**Categories:**
+
+
+**Name:** [VanigliaPro](https://testflight.apple.com/join/kKlcn37G)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:14.874Z
+**Categories:**
+
+
+**Name:** [KeyCard BBM](https://testflight.apple.com/join/5EukzLT1)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:26:14.910Z
+**Categories:**
+
+
+**Name:** [Deezer: Music Player, Podcast](https://testflight.apple.com/join/e7mCOEeg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:14.947Z
+**Categories:**
+
+
+**Name:** [DTPocketFM](https://testflight.apple.com/join/1FP0EBMN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:14.983Z
+**Categories:**
+
+
+**Name:** [Nick Pinwheel](https://testflight.apple.com/join/JX4td6PX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:15.018Z
+**Categories:**
+
+
+**Name:** [InfiniTime - Widget Reminders](https://testflight.apple.com/join/VYgsR7d8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:15.055Z
+**Categories:**
+
+
+**Name:** [DFM - Dubai Financial Market](https://testflight.apple.com/join/aCoL0El2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:15.095Z
+**Categories:**
+
+
+**Name:** [Sitefotos](https://testflight.apple.com/join/mUfUXNwb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:15.131Z
+**Categories:**
+
+
+**Name:** [Shopify - Your Ecommerce Store](https://testflight.apple.com/join/XuMIYekt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:26:15.167Z
+**Categories:**
+
+
