@@ -30004,3 +30004,73 @@
 **Categories:**
 
 
+**Name:** [Zeus by Kayyo](https://testflight.apple.com/join/3YG9GdcS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:14:09.748Z
+**Categories:**
+
+
+**Name:** [Celucenter App 2](https://testflight.apple.com/join/LdcbmOdk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:14:09.783Z
+**Categories:**
+
+
+**Name:** [Doomlings Companion](https://testflight.apple.com/join/MYMtSAFD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:14:09.818Z
+**Categories:**
+
+
+**Name:** [BETANDYOU - Best bets for you](https://testflight.apple.com/join/x6aMHlck)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:14:09.853Z
+**Categories:**
+
+
+**Name:** [RZChatMobile](https://testflight.apple.com/join/dZ7sTdyY)
+**Click Count:** 19
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:14:09.888Z
+**Categories:**
+
+
+**Name:** [Arctic For Lemmy](https://testflight.apple.com/join/ddFR6MQo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:14:09.922Z
+**Categories:**
+
+
+**Name:** [My Genie: Personality AI](https://testflight.apple.com/join/Hl5wgodr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:14:09.958Z
+**Categories:**
+
+
+**Name:** [Printer Setup Tool](https://testflight.apple.com/join/drvGMmgX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:14:09.992Z
+**Categories:**
+
+
+**Name:** [PRINCE Merchant QA](https://testflight.apple.com/join/Yzi70jTM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:14:10.027Z
+**Categories:**
+
+
+**Name:** [Flying Lap F1](https://testflight.apple.com/join/2ubEielm)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T18:14:10.062Z
+**Categories:**
+
+
