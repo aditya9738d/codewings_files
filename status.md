@@ -9602,3 +9602,73 @@
 **Categories:**
 
 
+**Name:** [Sveriges Radio Play](https://testflight.apple.com/join/JdU1hU1C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:12:11.338Z
+**Categories:**
+
+
+**Name:** [Salesforce](https://testflight.apple.com/join/PdNDqlHt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:12:11.374Z
+**Categories:**
+
+
+**Name:** [Chronomizer: Custom Watchfaces](https://testflight.apple.com/join/m5xuQxCN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:12:11.410Z
+**Categories:**
+
+
+**Name:** [BBVA Spain | Online banking](https://testflight.apple.com/join/Fjj4M9xp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:12:11.446Z
+**Categories:**
+
+
+**Name:** [School Assistant – Planner](https://testflight.apple.com/join/KWohJ5aL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:12:11.483Z
+**Categories:**
+
+
+**Name:** [deadsound](https://testflight.apple.com/join/7KNeR1zy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:12:11.519Z
+**Categories:**
+
+
+**Name:** [Parcel - Delivery Tracking](https://testflight.apple.com/join/fMeg6C4A)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:12:11.555Z
+**Categories:**
+
+
+**Name:** [CoreLogic Smart Survey Test](https://testflight.apple.com/join/mauENzvi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:12:11.591Z
+**Categories:**
+
+
+**Name:** [Boop - Instant Networking](https://testflight.apple.com/join/lhiEluu4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:12:11.626Z
+**Categories:**
+
+
+**Name:** [PuffGo](https://testflight.apple.com/join/8gX0EHpR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:12:11.663Z
+**Categories:**
+
+
