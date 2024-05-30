@@ -36234,3 +36234,73 @@
 **Categories:**
 
 
+**Name:** [Frameo](https://testflight.apple.com/join/uxO0AWDJ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:45:24.442Z
+**Categories:**
+
+
+**Name:** [FreeWiFi.MO.UAT](https://testflight.apple.com/join/oDfAq24k)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:45:24.478Z
+**Categories:**
+
+
+**Name:** [Freedom SuperApp](https://testflight.apple.com/join/OpcdP7Sk)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T19:45:24.514Z
+**Categories:**
+
+
+**Name:** [Frive](https://testflight.apple.com/join/qpAi1CMP)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:45:24.550Z
+**Categories:**
+
+
+**Name:** [Frog - The social network fr.](https://testflight.apple.com/join/4sfxgE7i)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:45:24.585Z
+**Categories:**
+
+
+**Name:** [Fryd](https://testflight.apple.com/join/V1VuMGdz)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:45:24.621Z
+**Categories:**
+
+
+**Name:** [Fuel & Recovery Zone](https://testflight.apple.com/join/WPpZjzC8)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:45:24.657Z
+**Categories:**
+
+
+**Name:** [FulGaz](https://testflight.apple.com/join/Ji1V82RN)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:45:24.693Z
+**Categories:**
+
+
+**Name:** [Fun on the Links](https://testflight.apple.com/join/PEoBGIfQ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:45:24.728Z
+**Categories:**
+
+
+**Name:** [Funiverse: family party game](https://testflight.apple.com/join/cEyPdAGm)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:45:24.764Z
+**Categories:**
+
+
