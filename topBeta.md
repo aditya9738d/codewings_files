@@ -1,3 +1,5 @@
+- **Thập Đại Anh Hùng 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/fd/49/80fd4913-d739-6708-eb21-5007e3300a0d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAG6vC6N)
+
 - **Composer: Automate Trades**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/b8/7b34b805-7b67-97d7-e85d-7ff38a8a9f80/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
 
 - **Học Viện TuVi Việt Nam**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/6e/b3/636eb3eb-bda3-0a89-3525-6b1c18d09a29/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rFMlokwB)
