@@ -6278,3 +6278,73 @@
 **Categories:**
 
 
+**Name:** [One Technical Lite](https://testflight.apple.com/join/uwpTKire)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:23:08.447Z
+**Categories:**
+
+
+**Name:** [Waverly](https://testflight.apple.com/join/uT8hwVyG)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:23:08.475Z
+**Categories:**
+
+
+**Name:** [MixMob: Racer 1](https://testflight.apple.com/join/ljXumv54)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:23:08.505Z
+**Categories:**
+
+
+**Name:** [WunderLINQ](https://testflight.apple.com/join/Nlw5rUn2)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:23:08.532Z
+**Categories:**
+
+
+**Name:** [Habits Coach](https://testflight.apple.com/join/GXGB7zzt)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:23:08.559Z
+**Categories:**
+
+
+**Name:** [AnHei](https://testflight.apple.com/join/rs1LxsdB)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:23:08.588Z
+**Categories:**
+
+
+**Name:** [Farmacia Sucre](https://testflight.apple.com/join/mkeLhGSF)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:23:08.615Z
+**Categories:**
+
+
+**Name:** [rdvz](https://testflight.apple.com/join/cVOUQgVD)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:23:08.642Z
+**Categories:**
+
+
+**Name:** [Vipps MT](https://testflight.apple.com/join/hTAYrwea)
+**Click Count:** 22
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:23:08.669Z
+**Categories:**
+
+
+**Name:** [Float Remote](https://testflight.apple.com/join/lRG2HmW6)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:23:08.697Z
+**Categories:**
+
+
