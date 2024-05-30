@@ -349,3 +349,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:04:09.645Z
 
+**Name:** [Raseel](https://testflight.apple.com/join/P0SFs7G8)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:05:19.841Z
+
+**Name:** [Indo-NonOfficiel](https://testflight.apple.com/join/Hpb1XZzf)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:05:19.841Z
+
+**Name:** [Keka](https://testflight.apple.com/join/gPYINGCJ)
+**Click Count:** 19
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:05:19.841Z
+
+**Name:** [Pino - DeFi Wallet](https://testflight.apple.com/join/2UYERVD3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:05:19.841Z
+
+**Name:** [Wavlake](https://testflight.apple.com/join/eWnqECG4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:05:19.841Z
+
+**Name:** [NgajiQuran](https://testflight.apple.com/join/4ErE5nTw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:05:19.841Z
+
+**Name:** [Lupiiya Books](https://testflight.apple.com/join/uCUSujtY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:05:19.841Z
+
+**Name:** [SlidewayZ™: A Musical Journey](https://testflight.apple.com/join/iMT7hNzC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:05:19.841Z
+
+**Name:** [Teletable](https://testflight.apple.com/join/V8V9fqhg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:05:19.841Z
+
+**Name:** [Ethos - Cinematic Music](https://testflight.apple.com/join/jiLbZFB7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:05:19.841Z
+
