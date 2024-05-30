@@ -21674,3 +21674,73 @@
 **Categories:**
 
 
+**Name:** [Akuvox SmartPlus](https://testflight.apple.com/join/wr0awr7k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:12:10.615Z
+**Categories:**
+
+
+**Name:** [Elestrals TCG](https://testflight.apple.com/join/c3eNuA4G)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:12:10.644Z
+**Categories:**
+
+
+**Name:** [MomianDr.](https://testflight.apple.com/join/OpUeLJSQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:12:10.672Z
+**Categories:**
+
+
+**Name:** [WhaleCloud Miniapp POC](https://testflight.apple.com/join/xHe9rfdn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:12:10.700Z
+**Categories:**
+
+
+**Name:** [Learn languages with LENGO](https://testflight.apple.com/join/YBkLS3cd)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T16:12:10.729Z
+**Categories:**
+
+
+**Name:** [TriiiX: SocialFi Trading](https://testflight.apple.com/join/at0hPFTk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:12:10.757Z
+**Categories:**
+
+
+**Name:** [FairMoney Business](https://testflight.apple.com/join/q5qn8tnh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:12:10.785Z
+**Categories:**
+
+
+**Name:** [Janbee](https://testflight.apple.com/join/dzDoXrPL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:12:10.813Z
+**Categories:**
+
+
+**Name:** [PTE - Synovus Gateway Mobile](https://testflight.apple.com/join/lNZVr14B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:12:10.842Z
+**Categories:**
+
+
+**Name:** [Board Papers for Intune](https://testflight.apple.com/join/mwUqBiAR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:12:10.870Z
+**Categories:**
+
+
