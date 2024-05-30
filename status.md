@@ -3481,3 +3481,73 @@
 **Categories:**
 
 
+**Name:** [PLN Mobile](https://testflight.apple.com/join/DGO1D2kT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:59:09.298Z
+**Categories:**
+
+
+**Name:** [AppWage](https://testflight.apple.com/join/HLMemeqy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:59:09.327Z
+**Categories:**
+
+
+**Name:** [Nearby AI - GPT 4 Prompts Omni](https://testflight.apple.com/join/xHGrkViR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:59:09.357Z
+**Categories:**
+
+
+**Name:** [iPulse](https://testflight.apple.com/join/ZgvsV8jn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:59:09.385Z
+**Categories:**
+
+
+**Name:** [FLY OYA](https://testflight.apple.com/join/wcScfBmr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:59:09.414Z
+**Categories:**
+
+
+**Name:** [OpenEarable](https://testflight.apple.com/join/Kht3e1Cb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:59:09.444Z
+**Categories:**
+
+
+**Name:** [Diane](https://testflight.apple.com/join/zSpWn6S0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:59:09.473Z
+**Categories:**
+
+
+**Name:** [LK8386](https://testflight.apple.com/join/UxJHV2an)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:59:09.501Z
+**Categories:**
+
+
+**Name:** [InterPals](https://testflight.apple.com/join/yZMcGPCc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:59:09.531Z
+**Categories:**
+
+
+**Name:** [Malwarebytes - Mobile Security](https://testflight.apple.com/join/3jvaSuyE)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:59:09.562Z
+**Categories:**
+
+
