@@ -2938,3 +2938,73 @@
 **Categories:**
 
 
+**Name:** [WellTra.AI](https://testflight.apple.com/join/LVOBuFfv)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:35:15.593Z
+**Categories:**
+
+
+**Name:** [Wemates](https://testflight.apple.com/join/fuBJEElq)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:35:15.622Z
+**Categories:**
+
+
+**Name:** [Westside](https://testflight.apple.com/join/pfvhMuad)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:35:15.650Z
+**Categories:**
+
+
+**Name:** [What Are Those!? App](https://testflight.apple.com/join/5sQrm9MF)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:35:15.679Z
+**Categories:**
+
+
+**Name:** [Whatever - Dates for Couples](https://testflight.apple.com/join/6uvfdowB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:35:15.708Z
+**Categories:**
+
+
+**Name:** [Widgetsmith](https://testflight.apple.com/join/U1xowuoZ)
+**Click Count:** 7
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:35:15.736Z
+**Categories:**
+
+
+**Name:** [Winee3 Beta](https://testflight.apple.com/join/IFjwtnsG)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:35:15.764Z
+**Categories:**
+
+
+**Name:** [Wingman](https://testflight.apple.com/join/I63dW4bi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:35:15.792Z
+**Categories:**
+
+
+**Name:** [Winners List](https://testflight.apple.com/join/SnIvJgRg)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:35:15.820Z
+**Categories:**
+
+
+**Name:** [Wisej.NET Hybrid](https://testflight.apple.com/join/WcgU4Oil)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:35:15.849Z
+**Categories:**
+
+
