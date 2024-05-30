@@ -8410,3 +8410,73 @@
 **Categories:**
 
 
+**Name:** [Bracket Buddy - Esports Events](https://testflight.apple.com/join/5yab6pxu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:53:07.261Z
+**Categories:**
+
+
+**Name:** [Mikuture](https://testflight.apple.com/join/jRN2sLGz)
+**Click Count:** 50
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:53:07.297Z
+**Categories:**
+
+
+**Name:** [Sentinel: Decentralized VPN](https://testflight.apple.com/join/CHRhpwKQ)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:53:07.334Z
+**Categories:**
+
+
+**Name:** [HEAT APP Mining](https://testflight.apple.com/join/5VrmUlmj)
+**Click Count:** 30
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:53:07.370Z
+**Categories:**
+
+
+**Name:** [SimpleX Chat: secure messenger](https://testflight.apple.com/join/DWuT2LQu)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:53:07.407Z
+**Categories:**
+
+
+**Name:** [Science of Reading](https://testflight.apple.com/join/sKBQlu0w)
+**Click Count:** 55
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:53:07.443Z
+**Categories:**
+
+
+**Name:** [VisionCode](https://testflight.apple.com/join/W7N1Vk9q)
+**Click Count:** 73
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:53:07.480Z
+**Categories:**
+
+
+**Name:** [Reach Infinity](https://testflight.apple.com/join/4rdyJbDf)
+**Click Count:** 118
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:53:07.516Z
+**Categories:**
+
+
+**Name:** [Heat — Ask Anything](https://testflight.apple.com/join/AX9JftGk)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:53:07.553Z
+**Categories:**
+
+
+**Name:** [DriverApp Dev](https://testflight.apple.com/join/VPSg1dyq)
+**Click Count:** 108
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:53:07.590Z
+**Categories:**
+
+
