@@ -3918,3 +3918,73 @@
 **Categories:**
 
 
+**Name:** [mySailing](https://testflight.apple.com/join/1Rsca767)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:49:07.879Z
+**Categories:**
+
+
+**Name:** [mySpreader](https://testflight.apple.com/join/9GLjaltT)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:49:07.908Z
+**Categories:**
+
+
+**Name:** [nPulse - Nadi Pulse](https://testflight.apple.com/join/tAP62fZh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:49:07.937Z
+**Categories:**
+
+
+**Name:** [nRide Driver](https://testflight.apple.com/join/dSqwBCGK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:49:07.964Z
+**Categories:**
+
+
+**Name:** [nRide Rider](https://testflight.apple.com/join/xKRauVfM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:49:07.993Z
+**Categories:**
+
+
+**Name:** [nami.ai](https://testflight.apple.com/join/XBXFniuA)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:49:08.021Z
+**Categories:**
+
+
+**Name:** [neom community](https://testflight.apple.com/join/IK3HKfl2)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:49:08.049Z
+**Categories:**
+
+
+**Name:** [newdev](https://testflight.apple.com/join/F1VR40UR)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:49:08.077Z
+**Categories:**
+
+
+**Name:** [nghien_ngoc_rong](https://testflight.apple.com/join/fZR954ND)
+**Click Count:** 1
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:49:08.105Z
+**Categories:**
+
+
+**Name:** [nro rise](https://testflight.apple.com/join/qsB5i2ey)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:49:08.132Z
+**Categories:**
+
+
