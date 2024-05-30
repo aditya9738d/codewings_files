@@ -8101,3 +8101,73 @@
 **Categories:**
 
 
+**Name:** [The CHAMP Plan](https://testflight.apple.com/join/ktFCgVLx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:06:12.510Z
+**Categories:**
+
+
+**Name:** [ScaleSmith (BS Magic)](https://testflight.apple.com/join/488x1Sk4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:06:12.547Z
+**Categories:**
+
+
+**Name:** [Flamingo Dating](https://testflight.apple.com/join/nXXHuaiX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:06:12.582Z
+**Categories:**
+
+
+**Name:** [Exxar Huddle](https://testflight.apple.com/join/9eFpiPaZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:06:12.617Z
+**Categories:**
+
+
+**Name:** [Reoqoo](https://testflight.apple.com/join/nYpiuvD4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:06:12.654Z
+**Categories:**
+
+
+**Name:** [Loco: Live Game Streaming](https://testflight.apple.com/join/KBJzjxSJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:06:12.689Z
+**Categories:**
+
+
+**Name:** [Strum Machine Beta](https://testflight.apple.com/join/eabHfWMa)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:06:12.724Z
+**Categories:**
+
+
+**Name:** [Maestro App](https://testflight.apple.com/join/uYJrBSSz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:06:12.760Z
+**Categories:**
+
+
+**Name:** [Paytm-PG](https://testflight.apple.com/join/oeXnj05q)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:06:12.796Z
+**Categories:**
+
+
+**Name:** [BETA El Paso iCodeOfficer App](https://testflight.apple.com/join/0hcV0gjR)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:06:12.832Z
+**Categories:**
+
+
