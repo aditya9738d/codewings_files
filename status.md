@@ -8270,3 +8270,73 @@
 **Categories:**
 
 
+**Name:** [Ask GPT Jesus](https://testflight.apple.com/join/qX0RYRDT)
+**Click Count:** 52
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:51:08.791Z
+**Categories:**
+
+
+**Name:** [AppMySite - My Web-to-App](https://testflight.apple.com/join/1cvKgAXc)
+**Click Count:** 13
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:51:08.827Z
+**Categories:**
+
+
+**Name:** [Flakey](https://testflight.apple.com/join/TGOVnAxT)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:51:08.863Z
+**Categories:**
+
+
+**Name:** [Get Hello World](https://testflight.apple.com/join/oRFmpWfV)
+**Click Count:** 25
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:51:08.899Z
+**Categories:**
+
+
+**Name:** [Any Recipe Keeper](https://testflight.apple.com/join/eedsEgLh)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:51:08.936Z
+**Categories:**
+
+
+**Name:** [Monetum](https://testflight.apple.com/join/Av9ileb2)
+**Click Count:** 15
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:51:08.972Z
+**Categories:**
+
+
+**Name:** [Notesnook: Private note taking](https://testflight.apple.com/join/tYrz0XXl)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:51:09.008Z
+**Categories:**
+
+
+**Name:** [onchain vision](https://testflight.apple.com/join/HinmLjRA)
+**Click Count:** 22
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:51:09.044Z
+**Categories:**
+
+
+**Name:** [Febriq](https://testflight.apple.com/join/K5bloOXm)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:51:09.080Z
+**Categories:**
+
+
+**Name:** [fortitude - simple journal](https://testflight.apple.com/join/IO9jqeaB)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:51:09.117Z
+**Categories:**
+
+
