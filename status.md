@@ -2149,3 +2149,53 @@
 **Beta Available:** error
 **Last Checked:** 2024-05-30T11:40:26.412Z
 
+**Name:** [Fugl](https://testflight.apple.com/join/bZIZeB4N)
+**Click Count:** 70
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:41:09.592Z
+
+**Name:** [Symbol Wallet](https://testflight.apple.com/join/oKCyZkRa)
+**Click Count:** 21
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:41:09.592Z
+
+**Name:** [Devomon Callisto](https://testflight.apple.com/join/zP1EuUwb)
+**Click Count:** 21
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:41:09.592Z
+
+**Name:** [Midicircuit](https://testflight.apple.com/join/pNyAUEac)
+**Click Count:** 8
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:41:09.592Z
+
+**Name:** [Pikamoon](https://testflight.apple.com/join/YBKQzFTx)
+**Click Count:** 22
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:41:09.592Z
+
+**Name:** [Djablobeats](https://testflight.apple.com/join/gLcQh8g3)
+**Click Count:** 32
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:41:09.592Z
+
+**Name:** [Her AI Chat](https://testflight.apple.com/join/vYkfwoti)
+**Click Count:** 46
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:41:09.592Z
+
+**Name:** [FinEasy](https://testflight.apple.com/join/uXyp7xTM)
+**Click Count:** 13
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:41:09.592Z
+
+**Name:** [okane – Currency Converter](https://testflight.apple.com/join/esER74k0)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:41:09.592Z
+
+**Name:** [Zincir Market](https://testflight.apple.com/join/S2QCk2zj)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:41:09.592Z
+
