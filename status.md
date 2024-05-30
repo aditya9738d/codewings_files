@@ -418,3 +418,73 @@
 **Categories:**
 
 
+**Name:** [SIMS LTD](https://testflight.apple.com/join/Wpug2yiB)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:56:09.142Z
+**Categories:**
+
+
+**Name:** [SMART MOBILITY ALMERIA](https://testflight.apple.com/join/fzQlYt6Z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:56:09.171Z
+**Categories:**
+
+
+**Name:** [SMBDY.ai](https://testflight.apple.com/join/5spdCo4S)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:56:09.199Z
+**Categories:**
+
+
+**Name:** [SMRT Lighting Controls](https://testflight.apple.com/join/IIgMTCch)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:56:09.227Z
+**Categories:**
+
+
+**Name:** [SMS ONE Democenter](https://testflight.apple.com/join/Z6cBynMR)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:56:09.255Z
+**Categories:**
+
+
+**Name:** [SPAR India Online Shopping App](https://testflight.apple.com/join/BXV7nk0H)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:56:09.282Z
+**Categories:**
+
+
+**Name:** [SRG+](https://testflight.apple.com/join/tLznKnUO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:56:09.310Z
+**Categories:**
+
+
+**Name:** [SSIKHJ Weather with WeatherKit](https://testflight.apple.com/join/yNfV6ehk)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:56:09.338Z
+**Categories:**
+
+
+**Name:** [SSO+](https://testflight.apple.com/join/5TaqxnCM)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:56:09.366Z
+**Categories:**
+
+
+**Name:** [STJ Beta](https://testflight.apple.com/join/9qHB2ZZx)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:56:09.393Z
+**Categories:**
+
+
