@@ -11562,3 +11562,73 @@
 **Categories:**
 
 
+**Name:** [Nifty Pro Hybrid](https://testflight.apple.com/join/VH78fti2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:40:23.259Z
+**Categories:**
+
+
+**Name:** [Dubai Verse Cup](https://testflight.apple.com/join/69rwpgjn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:40:23.295Z
+**Categories:**
+
+
+**Name:** [TOTVS RH Clock In](https://testflight.apple.com/join/LommVhsn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:40:23.332Z
+**Categories:**
+
+
+**Name:** [Revive - Focus Timer](https://testflight.apple.com/join/TfxHXkvb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:40:23.369Z
+**Categories:**
+
+
+**Name:** [Foodie - Restaurant App](https://testflight.apple.com/join/9rg7MZQu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:40:23.406Z
+**Categories:**
+
+
+**Name:** [InstaBaby Dev](https://testflight.apple.com/join/ByLqX3t8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:40:23.442Z
+**Categories:**
+
+
+**Name:** [Life Planning - Plan Your Life](https://testflight.apple.com/join/ubhhnZoz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:40:23.478Z
+**Categories:**
+
+
+**Name:** [Ohouse - Home Styling Ideas](https://testflight.apple.com/join/Lsvg7cJJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:40:23.514Z
+**Categories:**
+
+
+**Name:** [Every Word: Audiobook Player](https://testflight.apple.com/join/OlQd8WVV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:40:23.550Z
+**Categories:**
+
+
+**Name:** [BackpackWallet](https://testflight.apple.com/join/YAAWF4RL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:40:23.586Z
+**Categories:**
+
+
