@@ -29374,3 +29374,73 @@
 **Categories:**
 
 
+**Name:** [Pimsleur: Language Learning](https://testflight.apple.com/join/PAc9Zrpb)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T18:05:16.663Z
+**Categories:**
+
+
+**Name:** [Wanaka Farm](https://testflight.apple.com/join/jUdIq7tn)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:05:16.691Z
+**Categories:**
+
+
+**Name:** [Mengly J. Quach Education](https://testflight.apple.com/join/gIEH5SP4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:05:16.718Z
+**Categories:**
+
+
+**Name:** [MyPwr](https://testflight.apple.com/join/G8r6S2XQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:05:16.746Z
+**Categories:**
+
+
+**Name:** [Hertz Staging](https://testflight.apple.com/join/kD6BpH5U)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:05:16.774Z
+**Categories:**
+
+
+**Name:** [Velox Nxt](https://testflight.apple.com/join/S5anQZDI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:05:16.801Z
+**Categories:**
+
+
+**Name:** [Die Losungen als Widget](https://testflight.apple.com/join/CAP2uULs)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:05:16.830Z
+**Categories:**
+
+
+**Name:** [RadisysNavigationTest](https://testflight.apple.com/join/3O4T7WRe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:05:16.857Z
+**Categories:**
+
+
+**Name:** [MSIG Connecting Employees](https://testflight.apple.com/join/k0ds687H)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:05:16.884Z
+**Categories:**
+
+
+**Name:** [Note-Today](https://testflight.apple.com/join/IadnSLbP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:05:16.913Z
+**Categories:**
+
+
