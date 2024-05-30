@@ -15941,3 +15941,73 @@
 **Categories:**
 
 
+**Name:** [LILIN Pro](https://testflight.apple.com/join/9XwvKbjH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:02:11.226Z
+**Categories:**
+
+
+**Name:** [KlipC:FX Copytrading Community](https://testflight.apple.com/join/sb8EbOpI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:02:11.262Z
+**Categories:**
+
+
+**Name:** [Textico](https://testflight.apple.com/join/2FByd1sj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:02:11.298Z
+**Categories:**
+
+
+**Name:** [Argyle Beta](https://testflight.apple.com/join/8lkKGriz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:02:11.334Z
+**Categories:**
+
+
+**Name:** [solider-pro](https://testflight.apple.com/join/Imex7ySX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:02:11.372Z
+**Categories:**
+
+
+**Name:** [UDTalk](https://testflight.apple.com/join/EoNrvbEy)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:02:11.409Z
+**Categories:**
+
+
+**Name:** [DevExpress .NET MAUI UI](https://testflight.apple.com/join/NYyTTjvB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:02:11.445Z
+**Categories:**
+
+
+**Name:** [Atomic Finance: Bitcoin DeFi](https://testflight.apple.com/join/AjYeBiZl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:02:11.481Z
+**Categories:**
+
+
+**Name:** [DTRadio](https://testflight.apple.com/join/KbyWMTAa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:02:11.517Z
+**Categories:**
+
+
+**Name:** [star*club](https://testflight.apple.com/join/08sK4Ag5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:02:11.553Z
+**Categories:**
+
+
