@@ -9221,3 +9221,73 @@
 **Categories:**
 
 
+**Name:** [Nifty Smashers](https://testflight.apple.com/join/3A5LcqyO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:23:11.072Z
+**Categories:**
+
+
+**Name:** [Ooredoo Super App](https://testflight.apple.com/join/72GZlKsl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:23:11.107Z
+**Categories:**
+
+
+**Name:** [Thunder for Lemmy](https://testflight.apple.com/join/9n8xrqvH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:23:11.142Z
+**Categories:**
+
+
+**Name:** [Groceries Tracker app](https://testflight.apple.com/join/KdQntzKz)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:23:11.178Z
+**Categories:**
+
+
+**Name:** [Lotus Pioneer Token](https://testflight.apple.com/join/90A0xr4F)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:23:11.215Z
+**Categories:**
+
+
+**Name:** [BarTab EPOS](https://testflight.apple.com/join/nO0e2wIJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:23:11.250Z
+**Categories:**
+
+
+**Name:** [DEV - Headphone Control](https://testflight.apple.com/join/ymUbCuD5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:23:11.286Z
+**Categories:**
+
+
+**Name:** [eDeelz](https://testflight.apple.com/join/KDpPztaM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:23:11.320Z
+**Categories:**
+
+
+**Name:** [Virgin TV Go](https://testflight.apple.com/join/Et9sfGw3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:23:11.355Z
+**Categories:**
+
+
+**Name:** [BankDhofar Entertainer](https://testflight.apple.com/join/dbFpsVYH)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:23:11.391Z
+**Categories:**
+
+
