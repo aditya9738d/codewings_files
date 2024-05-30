@@ -5931,3 +5931,73 @@
 **Categories:**
 
 
+**Name:** [Greeks.live](https://testflight.apple.com/join/QGPOEUBM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:35:19.905Z
+**Categories:**
+
+
+**Name:** [Alook Browser - 8x Speed](https://testflight.apple.com/join/I4MFSZp1)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:35:19.941Z
+**Categories:**
+
+
+**Name:** [CPA V2](https://testflight.apple.com/join/sFINr56t)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:35:19.977Z
+**Categories:**
+
+
+**Name:** [Focus – Productivity Timer](https://testflight.apple.com/join/4GWAwNsU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:35:20.013Z
+**Categories:**
+
+
+**Name:** [ZiaCapture](https://testflight.apple.com/join/l44AAS5W)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:35:20.050Z
+**Categories:**
+
+
+**Name:** [Nextcloud Talk](https://testflight.apple.com/join/cxzyr1eO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:35:20.087Z
+**Categories:**
+
+
+**Name:** [Publisher Playground](https://testflight.apple.com/join/H5ShLSZs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:35:20.123Z
+**Categories:**
+
+
+**Name:** [HCC](https://testflight.apple.com/join/oYO03U7S)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:35:20.160Z
+**Categories:**
+
+
+**Name:** [Tomorrow – Mobile Banking](https://testflight.apple.com/join/gcyJwYvr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:35:20.196Z
+**Categories:**
+
+
+**Name:** [slice: pay later - Beta](https://testflight.apple.com/join/6Vs7WMVQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:35:20.232Z
+**Categories:**
+
+
