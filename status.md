@@ -20834,3 +20834,73 @@
 **Categories:**
 
 
+**Name:** [FSM Wickes](https://testflight.apple.com/join/ByjqmRIQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:59:09.094Z
+**Categories:**
+
+
+**Name:** [Morgen Calendar & Task Manager](https://testflight.apple.com/join/7cRTLbI3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:59:09.122Z
+**Categories:**
+
+
+**Name:** [LVB DigiBank](https://testflight.apple.com/join/IYXIoC4t)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:59:09.150Z
+**Categories:**
+
+
+**Name:** [Opera: AI browser with VPN](https://testflight.apple.com/join/ASrCFVHB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:59:09.181Z
+**Categories:**
+
+
+**Name:** [BarbetSound](https://testflight.apple.com/join/IrNYzUr2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:59:09.209Z
+**Categories:**
+
+
+**Name:** [CreatCloud](https://testflight.apple.com/join/fjKozjTr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:59:09.238Z
+**Categories:**
+
+
+**Name:** [Ludus](https://testflight.apple.com/join/8ELW7QTo)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:59:09.265Z
+**Categories:**
+
+
+**Name:** [Text With Jesus](https://testflight.apple.com/join/d8ESJVQE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:59:09.293Z
+**Categories:**
+
+
+**Name:** [Chainers Universe](https://testflight.apple.com/join/uf0FQG1F)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:59:09.321Z
+**Categories:**
+
+
+**Name:** [Sparkle!](https://testflight.apple.com/join/G1UlOO1U)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:59:09.350Z
+**Categories:**
+
+
