@@ -208,3 +208,73 @@
 **Categories:**
 
 
+**Name:** [Reolink](https://testflight.apple.com/join/vrJKodta)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:53:08.750Z
+**Categories:**
+
+
+**Name:** [Repay Digital Banking](https://testflight.apple.com/join/haJu53wJ)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T20:53:08.787Z
+**Categories:**
+
+
+**Name:** [Resecurity](https://testflight.apple.com/join/cE8fyxdw)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:53:08.823Z
+**Categories:**
+
+
+**Name:** [ResidentScreen](https://testflight.apple.com/join/1j2zTwc5)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:53:08.860Z
+**Categories:**
+
+
+**Name:** [Retro Wallet](https://testflight.apple.com/join/n71vOGwl)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:53:08.896Z
+**Categories:**
+
+
+**Name:** [Retrospecs](https://testflight.apple.com/join/Nj54Pufb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:53:08.933Z
+**Categories:**
+
+
+**Name:** [Rhema Journal](https://testflight.apple.com/join/Fg8mhlTe)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:53:08.969Z
+**Categories:**
+
+
+**Name:** [Rhythm*IZ](https://testflight.apple.com/join/3gpsI6wD)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:53:09.006Z
+**Categories:**
+
+
+**Name:** [RioPlay](https://testflight.apple.com/join/9EA54Av9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:53:09.042Z
+**Categories:**
+
+
+**Name:** [Rituals - Routines and Lists](https://testflight.apple.com/join/ipCf7rIu)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:53:09.079Z
+**Categories:**
+
+
