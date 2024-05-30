@@ -29724,3 +29724,73 @@
 **Categories:**
 
 
+**Name:** [Tapaday - Daily Minigames](https://testflight.apple.com/join/JdhOWXqp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:10:22.753Z
+**Categories:**
+
+
+**Name:** [1Password: Password Manager](https://testflight.apple.com/join/fzDLkIVK)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T18:10:22.790Z
+**Categories:**
+
+
+**Name:** [Axos Beta](https://testflight.apple.com/join/NV4zvK7U)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:10:22.825Z
+**Categories:**
+
+
+**Name:** [Easee Installer](https://testflight.apple.com/join/8vFggOIU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:10:22.859Z
+**Categories:**
+
+
+**Name:** [Zoho Tables - Work Management](https://testflight.apple.com/join/04FUxbkg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:10:22.894Z
+**Categories:**
+
+
+**Name:** [JGD Patient Demo](https://testflight.apple.com/join/6MxTQulO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:10:22.928Z
+**Categories:**
+
+
+**Name:** [Meta Horse](https://testflight.apple.com/join/EFZgK0qz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:10:22.963Z
+**Categories:**
+
+
+**Name:** [POAPin](https://testflight.apple.com/join/nFWRXrDg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:10:22.998Z
+**Categories:**
+
+
+**Name:** [Happitech Medical demo](https://testflight.apple.com/join/ixC8OvwP)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:10:23.033Z
+**Categories:**
+
+
+**Name:** [inlog](https://testflight.apple.com/join/YiDaCoAU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:10:23.069Z
+**Categories:**
+
+
