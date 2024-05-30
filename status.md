@@ -17411,3 +17411,108 @@
 **Categories:**
 
 
+**Name:** [BTG Pactual Empresas (UAT)](https://testflight.apple.com/join/pV7ml4bt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:29.340Z
+**Categories:**
+
+
+**Name:** [Aurora Catch](https://testflight.apple.com/join/qkGBWF1j)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:29.633Z
+**Categories:**
+
+
+**Name:** [Opera GX](https://testflight.apple.com/join/t3k1AVL3)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:29.916Z
+**Categories:**
+
+
+**Name:** [HWCLink](https://testflight.apple.com/join/rdvuydiF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:30.200Z
+**Categories:**
+
+
+**Name:** [Pedal – Your cycling companion](https://testflight.apple.com/join/WOYFrthX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:30.481Z
+**Categories:**
+
+
+**Name:** [Leobank - mobil bank](https://testflight.apple.com/join/CttKRgOa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:30.765Z
+**Categories:**
+
+
+**Name:** [vApp: Energized Web3](https://testflight.apple.com/join/vLpCsgHT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:31.045Z
+**Categories:**
+
+
+**Name:** [Relingo](https://testflight.apple.com/join/BqlSJG5M)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:31.330Z
+**Categories:**
+
+
+**Name:** [Check Later](https://testflight.apple.com/join/7GeZxGXl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:31.613Z
+**Categories:**
+
+
+**Name:** [NETGEAR Nighthawk - WiFi App](https://testflight.apple.com/join/hj5dd0En)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:32.370Z
+**Categories:**
+
+
+**Name:** [CollateAI](https://testflight.apple.com/join/18GrnMEr)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:32.652Z
+**Categories:**
+
+
+**Name:** [ASUS MediConnect](https://testflight.apple.com/join/K8alBiZw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:32.932Z
+**Categories:**
+
+
+**Name:** [DZ Browser](https://testflight.apple.com/join/Xc3Nmb6c)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:33.216Z
+**Categories:**
+
+
+**Name:** [NBCU Campus](https://testflight.apple.com/join/pksAacv3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:33.497Z
+**Categories:**
+
+
+**Name:** [Re-Engage and Perspectives](https://testflight.apple.com/join/owrvZPaZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:33.779Z
+**Categories:**
+
+
