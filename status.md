@@ -18069,3 +18069,73 @@
 **Categories:**
 
 
+**Name:** [S.Mario](https://testflight.apple.com/join/HLKh7Jx9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:04.885Z
+**Categories:**
+
+
+**Name:** [Baseline - How to get fit](https://testflight.apple.com/join/3XpiHAwS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:04.913Z
+**Categories:**
+
+
+**Name:** [Whatever - Discover new places](https://testflight.apple.com/join/6uvfdowB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:04.943Z
+**Categories:**
+
+
+**Name:** [UHD Radio](https://testflight.apple.com/join/3HTqnpRN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:04.974Z
+**Categories:**
+
+
+**Name:** [SuperDuper Controller](https://testflight.apple.com/join/Tl0UibRY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:05.002Z
+**Categories:**
+
+
+**Name:** [Upwork for Freelancers](https://testflight.apple.com/join/ef3GQatk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:05.032Z
+**Categories:**
+
+
+**Name:** [monday.com - Work Management](https://testflight.apple.com/join/u48va7lC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:05.063Z
+**Categories:**
+
+
+**Name:** [EvoWalk App](https://testflight.apple.com/join/iZFJpZ8F)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:05.091Z
+**Categories:**
+
+
+**Name:** [Authenticator 2FA+](https://testflight.apple.com/join/PDUIq4bp)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:25:05.122Z
+**Categories:**
+
+
+**Name:** [EZFare](https://testflight.apple.com/join/priE8rm1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:25:05.151Z
+**Categories:**
+
+
