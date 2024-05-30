@@ -18489,3 +18489,108 @@
 **Categories:**
 
 
+**Name:** [Mamalift-UAT New](https://testflight.apple.com/join/bqvRMoKO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:11.933Z
+**Categories:**
+
+
+**Name:** [CryptoGeeks](https://testflight.apple.com/join/6K1acH32)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:11.969Z
+**Categories:**
+
+
+**Name:** [Queens of Fortune](https://testflight.apple.com/join/5Fsv22M5)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.005Z
+**Categories:**
+
+
+**Name:** [RISYR](https://testflight.apple.com/join/JFO5eJ07)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.041Z
+**Categories:**
+
+
+**Name:** [Lampa MX](https://testflight.apple.com/join/4xqg1q15)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.076Z
+**Categories:**
+
+
+**Name:** [Brick-Tracker](https://testflight.apple.com/join/OkRFIGEq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.111Z
+**Categories:**
+
+
+**Name:** [baseus Security](https://testflight.apple.com/join/opHcP4Ei)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.147Z
+**Categories:**
+
+
+**Name:** [Newwave Solutions JSC - Portal](https://testflight.apple.com/join/73LC8QQg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.182Z
+**Categories:**
+
+
+**Name:** [4me App DEMO](https://testflight.apple.com/join/WMxlRNxv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.217Z
+**Categories:**
+
+
+**Name:** [Wizz App - chat now](https://testflight.apple.com/join/bqvqe3Js)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.252Z
+**Categories:**
+
+
+**Name:** [MyTonWallet: Anyway TON Wallet](https://testflight.apple.com/join/rFESSnmy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.288Z
+**Categories:**
+
+
+**Name:** [DuroFlex](https://testflight.apple.com/join/YHLMqGNc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.323Z
+**Categories:**
+
+
+**Name:** [Entonal Studio](https://testflight.apple.com/join/dK8z4mxw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.363Z
+**Categories:**
+
+
+**Name:** [Oliphaunt](https://testflight.apple.com/join/QLqIRNwe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:27:12.400Z
+**Categories:**
+
+
+**Name:** [TwoNav Premium: Maps Routes](https://testflight.apple.com/join/4SFNwRfY)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:27:12.435Z
+**Categories:**
+
+
