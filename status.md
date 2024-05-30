@@ -199,3 +199,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:01:07.489Z
 
+**Name:** [Power Automate](https://testflight.apple.com/join/IQfqWDCi)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:02:11.290Z
+
+**Name:** [1Password for Safari](https://testflight.apple.com/join/wdCBan7N)
+**Click Count:** 15
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:02:11.290Z
+
+**Name:** [Blaze Of Empires RTS](https://testflight.apple.com/join/MAyTMggk)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:02:11.290Z
+
+**Name:** [Clipchamp Dev](https://testflight.apple.com/join/rG93mFo8)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:02:11.290Z
+
+**Name:** [AnyTV - IPTV Player](https://testflight.apple.com/join/NuYsARQq)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:02:11.290Z
+
+**Name:** [Obsidian - Connected Notes](https://testflight.apple.com/join/f3moqRS1)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:02:11.290Z
+
+**Name:** [Rave - Watch Party](https://testflight.apple.com/join/OrZ9CLQU)
+**Click Count:** 53
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:02:11.290Z
+
+**Name:** [Wikipedia](https://testflight.apple.com/join/Z0AU0KXC)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:02:11.290Z
+
+**Name:** [On: Shop Shoes & Apparel](https://testflight.apple.com/join/xXPcBCE3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:02:11.290Z
+
+**Name:** [Arm Arena](https://testflight.apple.com/join/OaBr1tzV)
+**Click Count:** 7
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:02:11.290Z
+
