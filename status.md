@@ -30914,3 +30914,73 @@
 **Categories:**
 
 
+**Name:** [IRCCloud](https://testflight.apple.com/join/MApr7Une)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:27:11.491Z
+**Categories:**
+
+
+**Name:** [RadarScope](https://testflight.apple.com/join/IBDF1eC7)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T18:27:11.527Z
+**Categories:**
+
+
+**Name:** [J2L3x](https://testflight.apple.com/join/ikliWgmi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:27:11.562Z
+**Categories:**
+
+
+**Name:** [Candle - Smart Wallet](https://testflight.apple.com/join/6RGagpwc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:27:11.597Z
+**Categories:**
+
+
+**Name:** [GoRich](https://testflight.apple.com/join/Jk0uZ09X)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:27:11.632Z
+**Categories:**
+
+
+**Name:** [Caffeine Utility](https://testflight.apple.com/join/WHIbsose)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:27:11.667Z
+**Categories:**
+
+
+**Name:** [MenubarX](https://testflight.apple.com/join/Tqr03a4h)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T18:27:11.702Z
+**Categories:**
+
+
+**Name:** [Unitree Go Test](https://testflight.apple.com/join/KraKgqam)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:27:11.737Z
+**Categories:**
+
+
+**Name:** [BlackBox FMS](https://testflight.apple.com/join/F1tMRoDf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:27:11.773Z
+**Categories:**
+
+
+**Name:** [Botslab](https://testflight.apple.com/join/7IId9J7l)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:27:11.807Z
+**Categories:**
+
+
