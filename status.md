@@ -699,3 +699,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:11:08.033Z
 
+**Name:** [Fraggy Road](https://testflight.apple.com/join/0LeFdx5d)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:12:11.650Z
+
+**Name:** [RTI Dashboard](https://testflight.apple.com/join/T1YKKlZ0)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:12:11.650Z
+
+**Name:** [Swapple - Letter Logic Puzzles](https://testflight.apple.com/join/XU84IqaM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:12:11.650Z
+
+**Name:** [FYI.AI (Focus Your Ideas)](https://testflight.apple.com/join/MQ9xz3Qb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:12:11.650Z
+
+**Name:** [Applaydu & Friends games](https://testflight.apple.com/join/qwxFohAR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:12:11.650Z
+
+**Name:** [True Compliance Go](https://testflight.apple.com/join/etFoJxFn)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:12:11.650Z
+
+**Name:** [Chipotle UAT](https://testflight.apple.com/join/QmohviU2)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:12:11.650Z
+
+**Name:** [TOZO Wear](https://testflight.apple.com/join/z0fAkLp4)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:12:11.650Z
+
+**Name:** [Vulcanova Dzienniczek](https://testflight.apple.com/join/fGMjqr58)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:12:11.650Z
+
+**Name:** [Mlem for Lemmy](https://testflight.apple.com/join/MelFP11Y)
+**Click Count:** 24
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:12:11.650Z
+
