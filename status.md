@@ -6208,3 +6208,73 @@
 **Categories:**
 
 
+**Name:** [Legatrix Mobile App](https://testflight.apple.com/join/q5mdzbKH)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:22:09.880Z
+**Categories:**
+
+
+**Name:** [Starr - Smart Calculator](https://testflight.apple.com/join/n2Ii3S0r)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:22:09.918Z
+**Categories:**
+
+
+**Name:** [Embibe Experiments Preprod](https://testflight.apple.com/join/YTAYIT3R)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:22:09.954Z
+**Categories:**
+
+
+**Name:** [Hand Mirror](https://testflight.apple.com/join/bnUjZUkE)
+**Click Count:** 6
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:22:09.989Z
+**Categories:**
+
+
+**Name:** [Treegaze Cove: Merge & Craft](https://testflight.apple.com/join/4l65h1Yz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:22:10.025Z
+**Categories:**
+
+
+**Name:** [HISTORY Vault](https://testflight.apple.com/join/nPNYe0PY)
+**Click Count:** 133
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:22:10.060Z
+**Categories:**
+- Entertainment
+
+**Name:** [FUT Sniping Bot](https://testflight.apple.com/join/t7766iRc)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:22:10.096Z
+**Categories:**
+
+
+**Name:** [Mage: Strength Coaching](https://testflight.apple.com/join/ELyfxQcj)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:22:10.134Z
+**Categories:**
+
+
+**Name:** [Doris by dgApps](https://testflight.apple.com/join/dTdLfvIK)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:22:10.171Z
+**Categories:**
+
+
+**Name:** [PSX Real Estates Classified](https://testflight.apple.com/join/qouq41dn)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:22:10.207Z
+**Categories:**
+
+
