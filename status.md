@@ -8129,3 +8129,74 @@
 **Categories:**
 
 
+**Name:** [Her AI Chat](https://testflight.apple.com/join/vYkfwoti)
+**Click Count:** 46
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:49:07.957Z
+**Categories:**
+- Ai
+- Chat
+
+**Name:** [FinEasy](https://testflight.apple.com/join/uXyp7xTM)
+**Click Count:** 13
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:49:07.993Z
+**Categories:**
+
+
+**Name:** [okane – Currency Converter](https://testflight.apple.com/join/esER74k0)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:49:08.028Z
+**Categories:**
+
+
+**Name:** [Zincir Market](https://testflight.apple.com/join/S2QCk2zj)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:49:08.065Z
+**Categories:**
+
+
+**Name:** [Gird](https://testflight.apple.com/join/eQLqqX9o)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:49:08.102Z
+**Categories:**
+
+
+**Name:** [Zealer](https://testflight.apple.com/join/m0qGxEPZ)
+**Click Count:** 57
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:49:08.138Z
+**Categories:**
+
+
+**Name:** [WOW: Wars of Wanon](https://testflight.apple.com/join/UZ4tYFb6)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:49:08.174Z
+**Categories:**
+
+
+**Name:** [Chore Champ](https://testflight.apple.com/join/eMqx5DEF)
+**Click Count:** 6
+**Beta Available:** error
+**Last Checked:** 2024-05-30T22:49:08.210Z
+**Categories:**
+
+
+**Name:** [Apple AMB](https://testflight.apple.com/join/DsJkKvf8)
+**Click Count:** 28
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:49:08.246Z
+**Categories:**
+
+
+**Name:** [Cyber Key Fob](https://testflight.apple.com/join/wzaCXTpH)
+**Click Count:** 16
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:49:08.283Z
+**Categories:**
+
+
