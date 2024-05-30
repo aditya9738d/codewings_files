@@ -36024,3 +36024,73 @@
 **Categories:**
 
 
+**Name:** [Flare for social network](https://testflight.apple.com/join/iYP7QZME)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:42:10.102Z
+**Categories:**
+
+
+**Name:** [Fleety Driver Test](https://testflight.apple.com/join/3OtaNKio)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:42:10.137Z
+**Categories:**
+
+
+**Name:** [Flexii Dev](https://testflight.apple.com/join/9EsW5CLn)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:42:10.173Z
+**Categories:**
+
+
+**Name:** [Flight Stream X](https://testflight.apple.com/join/PCZOmOv1)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:42:10.266Z
+**Categories:**
+
+
+**Name:** [Flourish: Net Worth Tracker](https://testflight.apple.com/join/QgOvlVBT)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:42:10.301Z
+**Categories:**
+
+
+**Name:** [Flow Work - Find your flow](https://testflight.apple.com/join/R7lKtZdJ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:42:10.337Z
+**Categories:**
+
+
+**Name:** [Flow: Make AI Friends](https://testflight.apple.com/join/b0zKrDC4)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:42:10.373Z
+**Categories:**
+
+
+**Name:** [FlowNote, Notes & To-Do Lists](https://testflight.apple.com/join/flHFdltG)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T19:42:10.409Z
+**Categories:**
+
+
+**Name:** [Floxcore](https://testflight.apple.com/join/vkCWMf9L)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:42:10.445Z
+**Categories:**
+
+
+**Name:** [Flutter Chat Messenger](https://testflight.apple.com/join/3IQWraJZ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:42:10.480Z
+**Categories:**
+
+
