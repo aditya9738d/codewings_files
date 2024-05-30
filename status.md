@@ -18874,3 +18874,73 @@
 **Categories:**
 
 
+**Name:** [onWheel STG](https://testflight.apple.com/join/NGiU0A6m)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:31:08.823Z
+**Categories:**
+
+
+**Name:** [World Instrument](https://testflight.apple.com/join/hYqWFgxj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:31:08.851Z
+**Categories:**
+
+
+**Name:** [Landa: Invest in Real Estate](https://testflight.apple.com/join/aTO20D3p)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:31:08.879Z
+**Categories:**
+
+
+**Name:** [Our Wallet App](https://testflight.apple.com/join/B57cCdXi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:31:08.906Z
+**Categories:**
+
+
+**Name:** [WoW: Wars of Wanon](https://testflight.apple.com/join/UZ4tYFb6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:31:08.935Z
+**Categories:**
+
+
+**Name:** [El Abd Patisserie](https://testflight.apple.com/join/dUsEzy9O)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:31:08.963Z
+**Categories:**
+
+
+**Name:** [Tinh Trong Thien Ha](https://testflight.apple.com/join/hHoSgsex)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:31:08.991Z
+**Categories:**
+
+
+**Name:** [GoalsWon™ Accountability Coach](https://testflight.apple.com/join/mSDBTfwe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:31:09.019Z
+**Categories:**
+
+
+**Name:** [Univera](https://testflight.apple.com/join/g8aw4kOg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:31:10.781Z
+**Categories:**
+
+
+**Name:** [51Talk](https://testflight.apple.com/join/zfGTfO4O)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:31:10.813Z
+**Categories:**
+
+
