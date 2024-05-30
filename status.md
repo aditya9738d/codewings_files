@@ -6841,3 +6841,73 @@
 **Categories:**
 
 
+**Name:** [Yoroi Nightly](https://testflight.apple.com/join/BGVt9Fbd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:48:12.033Z
+**Categories:**
+
+
+**Name:** [SmartValue](https://testflight.apple.com/join/59TmMSNX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:48:12.061Z
+**Categories:**
+
+
+**Name:** [TP-Link Tether Beta](https://testflight.apple.com/join/pULHhLSn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:48:12.089Z
+**Categories:**
+
+
+**Name:** [EXO UAT](https://testflight.apple.com/join/2tBjOY6b)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:48:12.118Z
+**Categories:**
+
+
+**Name:** [eDOT](https://testflight.apple.com/join/SZb9xc3H)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:48:12.147Z
+**Categories:**
+
+
+**Name:** [KoMoto](https://testflight.apple.com/join/IJYIPhCI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:48:12.175Z
+**Categories:**
+
+
+**Name:** [GNC LiveWell](https://testflight.apple.com/join/PlJqoLRc)
+**Click Count:** 1
+**Beta Available:** error
+**Last Checked:** 2024-05-30T12:48:12.203Z
+**Categories:**
+
+
+**Name:** [STACKAAR](https://testflight.apple.com/join/o0eSwBIs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:48:12.231Z
+**Categories:**
+
+
+**Name:** [bob World Digital Rupee](https://testflight.apple.com/join/FYc6DAdE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:48:12.260Z
+**Categories:**
+
+
+**Name:** [Sundaymart](https://testflight.apple.com/join/n3vjyJCx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:48:12.287Z
+**Categories:**
+
+
