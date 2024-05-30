@@ -9672,3 +9672,73 @@
 **Categories:**
 
 
+**Name:** [TaraMap](https://testflight.apple.com/join/hPAmQcl3)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:13:08.780Z
+**Categories:**
+
+
+**Name:** [Pro epicery](https://testflight.apple.com/join/8NrpK6Bc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:13:08.816Z
+**Categories:**
+
+
+**Name:** [Simple Scan • Quick Scanner](https://testflight.apple.com/join/5I9XpfUP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:13:08.852Z
+**Categories:**
+
+
+**Name:** [ONE Link – Device management](https://testflight.apple.com/join/A2sl6Kiu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:13:08.888Z
+**Categories:**
+
+
+**Name:** [LeitzXPert](https://testflight.apple.com/join/Ugn8mYBJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:13:08.925Z
+**Categories:**
+
+
+**Name:** [FIO MOTUS](https://testflight.apple.com/join/cYi790XR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:13:08.961Z
+**Categories:**
+
+
+**Name:** [Training Camp](https://testflight.apple.com/join/9mDQ8dl8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:13:08.997Z
+**Categories:**
+
+
+**Name:** [CryptoQR Pay](https://testflight.apple.com/join/0IOfCbnR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:13:09.033Z
+**Categories:**
+
+
+**Name:** [iHome Clean](https://testflight.apple.com/join/O1BELvNa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:13:09.069Z
+**Categories:**
+
+
+**Name:** [MobiPoints](https://testflight.apple.com/join/zzjnifFr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:13:09.105Z
+**Categories:**
+
+
