@@ -35044,3 +35044,73 @@
 **Categories:**
 
 
+**Name:** [DTLearning](https://testflight.apple.com/join/z8yTvWWt)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:27:07.600Z
+**Categories:**
+
+
+**Name:** [DTNewsApp](https://testflight.apple.com/join/9LOKWQMn)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:27:07.629Z
+**Categories:**
+
+
+**Name:** [DTWeb](https://testflight.apple.com/join/XtQzoc7P)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:27:07.659Z
+**Categories:**
+
+
+**Name:** [DTect Parcel](https://testflight.apple.com/join/sSN52W3D)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:27:07.687Z
+**Categories:**
+
+
+**Name:** [Dabbsson](https://testflight.apple.com/join/VGm2QxEK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:27:07.716Z
+**Categories:**
+
+
+**Name:** [Daily Planner Calendar - Myday](https://testflight.apple.com/join/WtpRtuGC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:27:07.745Z
+**Categories:**
+
+
+**Name:** [Daily TODOs](https://testflight.apple.com/join/yI66XvVd)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:27:07.773Z
+**Categories:**
+
+
+**Name:** [DanceDuel : Dance Game](https://testflight.apple.com/join/bXdvlprE)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:27:07.801Z
+**Categories:**
+
+
+**Name:** [Dancing Line Community Edition](https://testflight.apple.com/join/XnV3J5fu)
+**Click Count:** 8
+**Beta Available:** error
+**Last Checked:** 2024-05-30T19:27:07.830Z
+**Categories:**
+
+
+**Name:** [ElevateDarts](https://testflight.apple.com/join/3jcns7lc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:27:07.859Z
+**Categories:**
+
+
