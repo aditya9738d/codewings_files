@@ -35884,3 +35884,73 @@
 **Categories:**
 
 
+**Name:** [Farda](https://testflight.apple.com/join/knC6xqqI)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:40:22.604Z
+**Categories:**
+
+
+**Name:** [Fasting Now](https://testflight.apple.com/join/dGuWXTzq)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:40:22.639Z
+**Categories:**
+
+
+**Name:** [Fate of Nika Mobile](https://testflight.apple.com/join/oKCfCw3g)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T19:40:22.676Z
+**Categories:**
+
+
+**Name:** [Favs - Social Networking](https://testflight.apple.com/join/2XsrvUyh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:40:22.711Z
+**Categories:**
+
+
+**Name:** [Fiddlicator2 Core](https://testflight.apple.com/join/5EnDDqnI)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:40:22.747Z
+**Categories:**
+
+
+**Name:** [Figo - AI Finance Pet](https://testflight.apple.com/join/GkykkmoZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:40:22.782Z
+**Categories:**
+
+
+**Name:** [FiiO DSP](https://testflight.apple.com/join/zfdXQMrE)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:40:22.819Z
+**Categories:**
+
+
+**Name:** [Filter of Hope](https://testflight.apple.com/join/wvcengUV)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:40:22.854Z
+**Categories:**
+
+
+**Name:** [Finance Bay: Portfolio Tracker](https://testflight.apple.com/join/y4etT8Ht)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T19:40:22.889Z
+**Categories:**
+
+
+**Name:** [Finbank](https://testflight.apple.com/join/8Jv9PVWz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:40:22.926Z
+**Categories:**
+
+
