@@ -25314,3 +25314,73 @@
 **Categories:**
 
 
+**Name:** [LFVN Seller](https://testflight.apple.com/join/2hlN9oxN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:05:19.604Z
+**Categories:**
+
+
+**Name:** [Luno Bitcoin & Cryptocurrency](https://testflight.apple.com/join/rwd9Fajs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:05:19.639Z
+**Categories:**
+
+
+**Name:** [NearbyStores](https://testflight.apple.com/join/G3FnOZoT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:05:19.675Z
+**Categories:**
+
+
+**Name:** [InstaLauncher](https://testflight.apple.com/join/EkylgE8G)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:05:19.711Z
+**Categories:**
+
+
+**Name:** [eplusDev](https://testflight.apple.com/join/0GDhnEkQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:05:19.747Z
+**Categories:**
+
+
+**Name:** [Featherweight UI](https://testflight.apple.com/join/3HPI9h3W)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:05:19.783Z
+**Categories:**
+
+
+**Name:** [Lazy Mobile](https://testflight.apple.com/join/TDwWJhJy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:05:19.820Z
+**Categories:**
+
+
+**Name:** [Structured - Daily Planner](https://testflight.apple.com/join/k3x7jn8B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:05:19.856Z
+**Categories:**
+
+
+**Name:** [WashSMa](https://testflight.apple.com/join/J58fpV8u)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:05:19.892Z
+**Categories:**
+
+
+**Name:** [icube laser](https://testflight.apple.com/join/bPVMbqS9)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:05:19.928Z
+**Categories:**
+
+
