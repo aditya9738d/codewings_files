@@ -11881,3 +11881,73 @@
 **Categories:**
 
 
+**Name:** [OVPN](https://testflight.apple.com/join/Iar37APz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:02:11.900Z
+**Categories:**
+
+
+**Name:** [DoorDash - Dasher](https://testflight.apple.com/join/8lknDp4C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:02:11.938Z
+**Categories:**
+
+
+**Name:** [AdGuard for Safari](https://testflight.apple.com/join/c31mEr6q)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:02:11.974Z
+**Categories:**
+
+
+**Name:** [Top Sticker Maker - WaSticker](https://testflight.apple.com/join/VYSzYtOq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:02:12.009Z
+**Categories:**
+
+
+**Name:** [Pizzahut Japan UAT](https://testflight.apple.com/join/dJaAwjPv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:02:12.044Z
+**Categories:**
+
+
+**Name:** [eMango Wallet](https://testflight.apple.com/join/9I8CjcOb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:02:12.079Z
+**Categories:**
+
+
+**Name:** [Euphony - Beta](https://testflight.apple.com/join/kGzSP7g7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:02:12.115Z
+**Categories:**
+
+
+**Name:** [Yanosik](https://testflight.apple.com/join/Oim5943l)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:02:12.151Z
+**Categories:**
+
+
+**Name:** [ClienKit](https://testflight.apple.com/join/IUssNRpy)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:02:12.187Z
+**Categories:**
+
+
+**Name:** [Geovelo : bike GPS](https://testflight.apple.com/join/3tGq4Vsv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:02:12.222Z
+**Categories:**
+
+
