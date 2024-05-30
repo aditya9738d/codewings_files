@@ -9812,3 +9812,73 @@
 **Categories:**
 
 
+**Name:** [App Movil CCB STG](https://testflight.apple.com/join/gN9zFxoX)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:15:21.407Z
+**Categories:**
+
+
+**Name:** [Wasserflug](https://testflight.apple.com/join/aYwKPFNF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:15:21.443Z
+**Categories:**
+
+
+**Name:** [Allcooks - Food Community](https://testflight.apple.com/join/1GSLtzuj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:15:21.479Z
+**Categories:**
+
+
+**Name:** [Recordi - Smart AI Recorder](https://testflight.apple.com/join/yoeKy7gR)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:15:21.515Z
+**Categories:**
+
+
+**Name:** [Youforce](https://testflight.apple.com/join/R9WWyjYe)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:15:21.551Z
+**Categories:**
+
+
+**Name:** [Listalux](https://testflight.apple.com/join/eT7qFzIw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:15:21.587Z
+**Categories:**
+
+
+**Name:** [Fintunes](https://testflight.apple.com/join/cf2AMDpx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:15:21.622Z
+**Categories:**
+
+
+**Name:** [XEX](https://testflight.apple.com/join/HbQJTSmk)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:15:21.657Z
+**Categories:**
+
+
+**Name:** [Yattee](https://testflight.apple.com/join/tLOhggn5)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:15:21.693Z
+**Categories:**
+
+
+**Name:** [FYI TV: Passionate Enthusiasts](https://testflight.apple.com/join/uQDt9nZo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:15:21.729Z
+**Categories:**
+
+
