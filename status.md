@@ -3078,3 +3078,73 @@
 **Categories:**
 
 
+**Name:** [World Reborn](https://testflight.apple.com/join/nxPJzyDe)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:37:10.158Z
+**Categories:**
+
+
+**Name:** [Wugo: discover local events](https://testflight.apple.com/join/bkCQOX3i)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:37:10.185Z
+**Categories:**
+
+
+**Name:** [WunderLINQ GoPro Remote](https://testflight.apple.com/join/lIl1Uamg)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:37:10.214Z
+**Categories:**
+
+
+**Name:** [X-CITE IMMO](https://testflight.apple.com/join/YViZdegX)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:37:10.241Z
+**Categories:**
+
+
+**Name:** [XC Partner](https://testflight.apple.com/join/yOL1ULQF)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:37:10.270Z
+**Categories:**
+
+
+**Name:** [XCSweepRobot](https://testflight.apple.com/join/IwHX5NxP)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:37:10.299Z
+**Categories:**
+
+
+**Name:** [XGPT: AI Crypto Assistant](https://testflight.apple.com/join/4ORn5SiB)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:37:10.328Z
+**Categories:**
+
+
+**Name:** [XIM MATRIX Manager](https://testflight.apple.com/join/wpojexto)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:37:10.357Z
+**Categories:**
+
+
+**Name:** [XVIII Convegno UNISVET](https://testflight.apple.com/join/KEpHSj7X)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:37:10.386Z
+**Categories:**
+
+
+**Name:** [XXLPoker](https://testflight.apple.com/join/5PXHiuLi)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:37:10.413Z
+**Categories:**
+
+
