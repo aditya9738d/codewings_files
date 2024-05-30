@@ -9042,3 +9042,73 @@
 **Categories:**
 
 
+**Name:** [Quizlet: AI-powered Flashcards](https://testflight.apple.com/join/mwhcPqxJ)
+**Click Count:** 4
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:04:09.039Z
+**Categories:**
+
+
+**Name:** [Ensemble Cast](https://testflight.apple.com/join/Pq1HzHqe)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:04:09.077Z
+**Categories:**
+
+
+**Name:** [A Fish Chat](https://testflight.apple.com/join/jzPv1lac)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:04:09.114Z
+**Categories:**
+
+
+**Name:** [Pocket Space!](https://testflight.apple.com/join/DHipLt9w)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:04:09.150Z
+**Categories:**
+
+
+**Name:** [KMON: World of Kogaea](https://testflight.apple.com/join/Nx5zl25z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:04:09.185Z
+**Categories:**
+
+
+**Name:** [Asurascans - Hot Manga Reader](https://testflight.apple.com/join/VdR4sNPA)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:04:09.221Z
+**Categories:**
+
+
+**Name:** [The Weekendest: NYC Subway Map](https://testflight.apple.com/join/QMF8mCtV)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:04:09.257Z
+**Categories:**
+
+
+**Name:** [GP Calendar - F1](https://testflight.apple.com/join/aKCOxRQU)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:04:09.293Z
+**Categories:**
+
+
+**Name:** [wthr.cloud](https://testflight.apple.com/join/xQvgZlZ9)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:04:09.331Z
+**Categories:**
+
+
+**Name:** [Salmonia3+](https://testflight.apple.com/join/JO6VICoZ)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:04:09.366Z
+**Categories:**
+
+
