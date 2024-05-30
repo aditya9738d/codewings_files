@@ -30214,3 +30214,73 @@
 **Categories:**
 
 
+**Name:** [JPX68](https://testflight.apple.com/join/afauo4mE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:17:08.004Z
+**Categories:**
+
+
+**Name:** [WiDAR Demo](https://testflight.apple.com/join/KpxQ5kw9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:17:08.039Z
+**Categories:**
+
+
+**Name:** [Drag To Speak](https://testflight.apple.com/join/vtF6OUoo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:17:08.074Z
+**Categories:**
+
+
+**Name:** [VinylViz](https://testflight.apple.com/join/PGYXxQIK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:17:08.109Z
+**Categories:**
+
+
+**Name:** [ATest Mobile](https://testflight.apple.com/join/HDommVPY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:17:08.144Z
+**Categories:**
+
+
+**Name:** [WalletAppV2](https://testflight.apple.com/join/09bTAryp)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:17:08.178Z
+**Categories:**
+
+
+**Name:** [Yacht Cabin: Shared boat trips](https://testflight.apple.com/join/XL0bBfHe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:17:08.213Z
+**Categories:**
+
+
+**Name:** [Tata Neu - Shop, Travel, Pay](https://testflight.apple.com/join/nxwnETuo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:17:08.248Z
+**Categories:**
+
+
+**Name:** [CardioBot: Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T18:17:08.283Z
+**Categories:**
+
+
+**Name:** [TickTick:To-Do List & Calendar](https://testflight.apple.com/join/tY60du3s)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T18:17:08.318Z
+**Categories:**
+
+
