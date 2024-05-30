@@ -4321,3 +4321,73 @@
 **Categories:**
 
 
+**Name:** [KeyStage 2.2](https://testflight.apple.com/join/GdaGgxU3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:11:09.876Z
+**Categories:**
+
+
+**Name:** [Kyocera Printer Setup Tool](https://testflight.apple.com/join/BUybTnU0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:11:09.904Z
+**Categories:**
+
+
+**Name:** [ASUS Health Promotion](https://testflight.apple.com/join/shZQWBSr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:11:09.933Z
+**Categories:**
+
+
+**Name:** [Onsight Field Service](https://testflight.apple.com/join/4zl8Z87S)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:11:09.961Z
+**Categories:**
+
+
+**Name:** [CFMOTO RIDE](https://testflight.apple.com/join/gMVlHLCY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:11:09.991Z
+**Categories:**
+
+
+**Name:** [Clix](https://testflight.apple.com/join/dn3sNrts)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:11:10.019Z
+**Categories:**
+
+
+**Name:** [Malice Mobile](https://testflight.apple.com/join/EGftPQfZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:11:10.048Z
+**Categories:**
+
+
+**Name:** [Shokz](https://testflight.apple.com/join/hkK6ANDy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:11:10.077Z
+**Categories:**
+
+
+**Name:** [Fixi BETA](https://testflight.apple.com/join/Ukxk4mhg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:11:10.106Z
+**Categories:**
+
+
+**Name:** [KioPay Mobile](https://testflight.apple.com/join/Aitx3oOS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:11:10.134Z
+**Categories:**
+
+
