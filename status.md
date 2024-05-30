@@ -4531,3 +4531,73 @@
 **Categories:**
 
 
+**Name:** [FoodShiner: Pantry Companion](https://testflight.apple.com/join/mMsAFf8q)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:14:12.162Z
+**Categories:**
+
+
+**Name:** [OPENPOINT TEST](https://testflight.apple.com/join/EOvrOpa9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:14:12.190Z
+**Categories:**
+
+
+**Name:** [Notespaedia](https://testflight.apple.com/join/7aCjoaPV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:14:12.219Z
+**Categories:**
+
+
+**Name:** [Brume Wallet](https://testflight.apple.com/join/WtNNiY98)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:14:12.247Z
+**Categories:**
+
+
+**Name:** [Cubric](https://testflight.apple.com/join/jajh7Sd6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:14:12.274Z
+**Categories:**
+
+
+**Name:** [Orca - RSS x AI English Tutor](https://testflight.apple.com/join/CM9LumSO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:14:12.302Z
+**Categories:**
+
+
+**Name:** [Two-Eyed Seeing for Parents](https://testflight.apple.com/join/QD2sxMTD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:14:12.331Z
+**Categories:**
+
+
+**Name:** [Freightster](https://testflight.apple.com/join/LF9YS7kz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:14:12.360Z
+**Categories:**
+
+
+**Name:** [Vi Movies & TV - 13 OTTs in 1](https://testflight.apple.com/join/AHUDbuH0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:14:12.388Z
+**Categories:**
+
+
+**Name:** [Apostagram App](https://testflight.apple.com/join/XQmKYN1t)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:14:12.417Z
+**Categories:**
+
+
