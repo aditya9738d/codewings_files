@@ -22164,3 +22164,73 @@
 **Categories:**
 
 
+**Name:** [FinancialWell](https://testflight.apple.com/join/Z4CekvDa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:19:08.787Z
+**Categories:**
+
+
+**Name:** [RitMeter](https://testflight.apple.com/join/1x1EROoV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:19:08.816Z
+**Categories:**
+
+
+**Name:** [PolyFling](https://testflight.apple.com/join/2liO8nWS)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:19:08.854Z
+**Categories:**
+
+
+**Name:** [HERE WeGo - BETA](https://testflight.apple.com/join/Y4bJp9CR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:19:08.882Z
+**Categories:**
+
+
+**Name:** [Sharezone - Schulplaner](https://testflight.apple.com/join/4luKeRNN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:19:08.911Z
+**Categories:**
+
+
+**Name:** [JibJab QA](https://testflight.apple.com/join/JcSNLXht)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:19:08.938Z
+**Categories:**
+
+
+**Name:** [VietMap navigation](https://testflight.apple.com/join/72lT6D0w)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:19:08.967Z
+**Categories:**
+
+
+**Name:** [Human App: claim Human Dollars](https://testflight.apple.com/join/G73isbuI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:19:08.998Z
+**Categories:**
+
+
+**Name:** [curtis-tradeshow](https://testflight.apple.com/join/HtXYawJE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:19:09.026Z
+**Categories:**
+
+
+**Name:** [MRI Agile Mobile](https://testflight.apple.com/join/esGlt4t2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:19:09.054Z
+**Categories:**
+
+
