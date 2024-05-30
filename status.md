@@ -8661,3 +8661,73 @@
 **Categories:**
 
 
+**Name:** [My-Caddy](https://testflight.apple.com/join/JXR68OBi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:15:28.315Z
+**Categories:**
+
+
+**Name:** [weScan by 3DUniversum](https://testflight.apple.com/join/5VhPT8du)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:15:28.345Z
+**Categories:**
+
+
+**Name:** [Venex Staging](https://testflight.apple.com/join/vHuVvnuM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:15:28.376Z
+**Categories:**
+
+
+**Name:** [LightTwist](https://testflight.apple.com/join/3NhJIIHU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:15:28.406Z
+**Categories:**
+
+
+**Name:** [SWFT Blockchain Pro](https://testflight.apple.com/join/gptqL2NT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:15:28.437Z
+**Categories:**
+
+
+**Name:** [CardBeat – Plot Your Story](https://testflight.apple.com/join/iu3QlyJ8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:15:28.466Z
+**Categories:**
+
+
+**Name:** [Model Colors](https://testflight.apple.com/join/jJmnVnB5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:15:28.496Z
+**Categories:**
+
+
+**Name:** [SurvMaster](https://testflight.apple.com/join/y4DmdfRI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:15:28.525Z
+**Categories:**
+
+
+**Name:** [ZealiD Q dev](https://testflight.apple.com/join/Z0SkGyS2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:15:28.555Z
+**Categories:**
+
+
+**Name:** [FIBUscan Mobile Receipt Scan](https://testflight.apple.com/join/7ZY59gpn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:15:28.586Z
+**Categories:**
+
+
