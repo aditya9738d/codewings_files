@@ -35324,3 +35324,73 @@
 **Categories:**
 
 
+**Name:** [Do it! — Kids habit tracker](https://testflight.apple.com/join/aPYRstIj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:31:09.226Z
+**Categories:**
+
+
+**Name:** [Docnet](https://testflight.apple.com/join/NRizWqBU)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:31:09.262Z
+**Categories:**
+
+
+**Name:** [Doctor App Template](https://testflight.apple.com/join/pCbu3RLT)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:31:09.299Z
+**Categories:**
+
+
+**Name:** [Doctor Peter](https://testflight.apple.com/join/awhA9cF3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:31:09.334Z
+**Categories:**
+
+
+**Name:** [Dongled](https://testflight.apple.com/join/ZH4r0PZ5)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:31:09.371Z
+**Categories:**
+
+
+**Name:** [Doppi 5](https://testflight.apple.com/join/eMHoOSsL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:31:09.408Z
+**Categories:**
+
+
+**Name:** [Doro - Focus Timer](https://testflight.apple.com/join/eC2yCjkh)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:31:09.444Z
+**Categories:**
+
+
+**Name:** [Downpour — make a game](https://testflight.apple.com/join/FiogE1Qm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:31:09.480Z
+**Categories:**
+
+
+**Name:** [Dr Bienestar+](https://testflight.apple.com/join/5DPA4orJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:31:09.517Z
+**Categories:**
+
+
+**Name:** [Drago Wallet](https://testflight.apple.com/join/0W4ELGHr)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:31:09.553Z
+**Categories:**
+
+
