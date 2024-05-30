@@ -4741,3 +4741,73 @@
 **Categories:**
 
 
+**Name:** [Count.kcal](https://testflight.apple.com/join/wfFReSna)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:17:10.072Z
+**Categories:**
+
+
+**Name:** [Skyhigh Client](https://testflight.apple.com/join/MwsNRgjs)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:17:10.100Z
+**Categories:**
+
+
+**Name:** [Local Weather: RainViewer](https://testflight.apple.com/join/ntr4FJtg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:17:10.129Z
+**Categories:**
+
+
+**Name:** [Microsoft Outlook](https://testflight.apple.com/join/AhS6fRDK)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:17:10.158Z
+**Categories:**
+
+
+**Name:** [Tap to Sign](https://testflight.apple.com/join/cjPYii2o)
+**Click Count:** 11
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:17:10.186Z
+**Categories:**
+
+
+**Name:** [Unity Play to Device Host](https://testflight.apple.com/join/FVMH8aiG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:17:10.214Z
+**Categories:**
+
+
+**Name:** [Money Fox](https://testflight.apple.com/join/3RO75JDs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:17:10.243Z
+**Categories:**
+
+
+**Name:** [Huddle - Get together](https://testflight.apple.com/join/FRg2IPXf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:17:10.270Z
+**Categories:**
+
+
+**Name:** [NostalgiX](https://testflight.apple.com/join/XC4ho7Iv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:17:10.298Z
+**Categories:**
+
+
+**Name:** [NFTTrack - new screen widgets](https://testflight.apple.com/join/XPP3geMf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:17:10.327Z
+**Categories:**
+
+
