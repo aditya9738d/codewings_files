@@ -37634,3 +37634,73 @@
 **Categories:**
 
 
+**Name:** [LUKA partying](https://testflight.apple.com/join/35kSgIMt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:07:08.297Z
+**Categories:**
+
+
+**Name:** [Languages with Michel Thomas](https://testflight.apple.com/join/fQLm65W9)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:07:08.325Z
+**Categories:**
+
+
+**Name:** [LeanDock](https://testflight.apple.com/join/7wEeZLjt)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:07:08.353Z
+**Categories:**
+
+
+**Name:** [Learnmer](https://testflight.apple.com/join/bKuIvyl8)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:07:08.382Z
+**Categories:**
+
+
+**Name:** [Legitmark](https://testflight.apple.com/join/NhQdlqOW)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:07:08.411Z
+**Categories:**
+
+
+**Name:** [Lemmios](https://testflight.apple.com/join/BF7pq1hn)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:07:08.439Z
+**Categories:**
+
+
+**Name:** [Lengi](https://testflight.apple.com/join/65M1Xd18)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:07:08.468Z
+**Categories:**
+
+
+**Name:** [LensPlay](https://testflight.apple.com/join/kFTTFlGZ)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:07:08.496Z
+**Categories:**
+
+
+**Name:** [LentPal](https://testflight.apple.com/join/U7cAfa9q)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:07:08.525Z
+**Categories:**
+
+
+**Name:** [Leplayer](https://testflight.apple.com/join/Bpa6BOWG)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:07:08.552Z
+**Categories:**
+
+
