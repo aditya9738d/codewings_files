@@ -1249,3 +1249,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:22:12.761Z
 
+**Name:** [Camera Companion BETA](https://testflight.apple.com/join/z18Ngj0N)
+**Click Count:** 14
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:23:09.431Z
+
+**Name:** [Big Mail](https://testflight.apple.com/join/wboU3bTt)
+**Click Count:** 59
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:23:09.431Z
+
+**Name:** [Hunters On-Chain](https://testflight.apple.com/join/mnB642dv)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:23:09.431Z
+
+**Name:** [Egern](https://testflight.apple.com/join/AzU6kAzX)
+**Click Count:** 121
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:23:09.431Z
+
+**Name:** [AstreOS](https://testflight.apple.com/join/ZsGh6uYD)
+**Click Count:** 35
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:23:09.431Z
+
+**Name:** [QQ](https://testflight.apple.com/join/R5FNGUl3)
+**Click Count:** 44
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:23:09.431Z
+
+**Name:** [eufy Clean (EufyHome)](https://testflight.apple.com/join/ABaSUurE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:23:09.431Z
+
+**Name:** [Cinema Time](https://testflight.apple.com/join/prtbcetS)
+**Click Count:** 40
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:23:09.431Z
+
+**Name:** [DEXART Metaverse](https://testflight.apple.com/join/ntsoqpNK)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:23:09.431Z
+
+**Name:** [EMOTIV Launcher](https://testflight.apple.com/join/jSL0XTP9)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:23:09.431Z
+
