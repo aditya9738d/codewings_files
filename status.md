@@ -11321,3 +11321,73 @@
 **Categories:**
 
 
+**Name:** [Hookd | Dating Elevated](https://testflight.apple.com/join/HM6rRPSC)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T13:54:12.779Z
+**Categories:**
+
+
+**Name:** [Northstar Clinic](https://testflight.apple.com/join/ny7poibM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:54:12.810Z
+**Categories:**
+
+
+**Name:** [FULiveDemo](https://testflight.apple.com/join/g1BKCZu7)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:54:12.840Z
+**Categories:**
+
+
+**Name:** [Brave Beta](https://testflight.apple.com/join/Trcbh1o3)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:54:12.869Z
+**Categories:**
+
+
+**Name:** [M-Sub Movie NextGen](https://testflight.apple.com/join/1hvzbyWX)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:54:12.897Z
+**Categories:**
+
+
+**Name:** [Awful - SA Forums browser](https://testflight.apple.com/join/530cS7a7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:54:12.925Z
+**Categories:**
+
+
+**Name:** [uTrading-AI](https://testflight.apple.com/join/zFuCHIbI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:54:12.954Z
+**Categories:**
+
+
+**Name:** [BKG Speed](https://testflight.apple.com/join/XQ1gCGyX)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T13:54:12.983Z
+**Categories:**
+
+
+**Name:** [Play Together LITE Party Games](https://testflight.apple.com/join/mckojJxN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:54:13.013Z
+**Categories:**
+
+
+**Name:** [7 Brew](https://testflight.apple.com/join/u0aCrJFD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:54:13.042Z
+**Categories:**
+
+
