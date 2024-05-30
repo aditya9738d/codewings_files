@@ -16641,3 +16641,73 @@
 **Categories:**
 
 
+**Name:** [Screener Task](https://testflight.apple.com/join/PrZRzx5d)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:12:11.795Z
+**Categories:**
+
+
+**Name:** [5Chat](https://testflight.apple.com/join/VZ9DJRQ2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:12:11.823Z
+**Categories:**
+
+
+**Name:** [Snitch!](https://testflight.apple.com/join/rjnkyxgl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:12:11.851Z
+**Categories:**
+
+
+**Name:** [SharPay](https://testflight.apple.com/join/bUjQPXgh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:12:11.880Z
+**Categories:**
+
+
+**Name:** [WatchTube](https://testflight.apple.com/join/hiYWRRqq)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T15:12:11.910Z
+**Categories:**
+
+
+**Name:** [Lifetime: TV Shows & Movies](https://testflight.apple.com/join/teq9lCJC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:12:11.938Z
+**Categories:**
+
+
+**Name:** [FindMe Show](https://testflight.apple.com/join/1jsXHD60)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:12:11.966Z
+**Categories:**
+
+
+**Name:** [tomedo Praxissoftware](https://testflight.apple.com/join/SO0klpxy)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:12:11.994Z
+**Categories:**
+
+
+**Name:** [Leon Delivery](https://testflight.apple.com/join/A1LvEoG0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:12:12.022Z
+**Categories:**
+
+
+**Name:** [Smantry: Smart pantry](https://testflight.apple.com/join/gNSUhCi2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:12:12.050Z
+**Categories:**
+
+
