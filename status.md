@@ -9081,3 +9081,73 @@
 **Categories:**
 
 
+**Name:** [Hyperswitch Demo](https://testflight.apple.com/join/WhPLmrT6)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:21:12.395Z
+**Categories:**
+
+
+**Name:** [Merge Love](https://testflight.apple.com/join/1OsWu1mW)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:21:12.429Z
+**Categories:**
+
+
+**Name:** [Puzzle Mago](https://testflight.apple.com/join/98zO86bo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:21:12.461Z
+**Categories:**
+
+
+**Name:** [My2N](https://testflight.apple.com/join/5NuiAkIu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:21:12.499Z
+**Categories:**
+
+
+**Name:** [Manifest: Wellness Copilot](https://testflight.apple.com/join/WwVB0Y6E)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:21:12.529Z
+**Categories:**
+
+
+**Name:** [MADP Playground2](https://testflight.apple.com/join/gkcX0FWI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:21:12.559Z
+**Categories:**
+
+
+**Name:** [Citrix Workspace](https://testflight.apple.com/join/U7tkotNq)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:21:12.591Z
+**Categories:**
+
+
+**Name:** [OneTap Check-In](https://testflight.apple.com/join/oKKFSzxX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:21:12.625Z
+**Categories:**
+
+
+**Name:** [Safer VPN](https://testflight.apple.com/join/vYK0Uvhz)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:21:12.655Z
+**Categories:**
+
+
+**Name:** [Livetec Biosecurity [STG]](https://testflight.apple.com/join/vMUbpW6j)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:21:12.685Z
+**Categories:**
+
+
