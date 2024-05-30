@@ -24754,3 +24754,73 @@
 **Categories:**
 
 
+**Name:** [Astara](https://testflight.apple.com/join/ZWokb4hI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:57:09.246Z
+**Categories:**
+
+
+**Name:** [bitXin](https://testflight.apple.com/join/AAqEldbE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:57:09.274Z
+**Categories:**
+
+
+**Name:** [EC App Dev](https://testflight.apple.com/join/wdJjqbX5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:57:09.303Z
+**Categories:**
+
+
+**Name:** [KidZoo - Playdates Made Easy](https://testflight.apple.com/join/sIDpnb8C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:57:09.331Z
+**Categories:**
+
+
+**Name:** [Triodos](https://testflight.apple.com/join/NTTi3y2g)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:57:09.360Z
+**Categories:**
+
+
+**Name:** [Remain in The Game Mobile App](https://testflight.apple.com/join/qgNfalhe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:57:09.388Z
+**Categories:**
+
+
+**Name:** [Indigo Education](https://testflight.apple.com/join/tTCxbyGo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:57:09.417Z
+**Categories:**
+
+
+**Name:** [Cloud Baby Monitor](https://testflight.apple.com/join/cXRn9NCj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:57:09.445Z
+**Categories:**
+
+
+**Name:** [Peerlist](https://testflight.apple.com/join/1KDD1Gqr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:57:09.473Z
+**Categories:**
+
+
+**Name:** [Superlist - Tasks & Lists](https://testflight.apple.com/join/b4fbhjqf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:57:09.501Z
+**Categories:**
+
+
