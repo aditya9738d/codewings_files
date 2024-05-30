@@ -31824,3 +31824,73 @@
 **Categories:**
 
 
+**Name:** [Pizzahut Malaysia UAT](https://testflight.apple.com/join/ndcKZw7D)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:40:22.978Z
+**Categories:**
+
+
+**Name:** [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:40:23.008Z
+**Categories:**
+
+
+**Name:** [CalTopo](https://testflight.apple.com/join/lgUcGCij)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:40:23.036Z
+**Categories:**
+
+
+**Name:** [Free to Me](https://testflight.apple.com/join/UwgEx7ZN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:40:23.065Z
+**Categories:**
+
+
+**Name:** [Listen-Up](https://testflight.apple.com/join/4Ohcr5T5)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T18:40:23.136Z
+**Categories:**
+
+
+**Name:** [SenseMARS Avatar](https://testflight.apple.com/join/sidMI3xb)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:40:23.164Z
+**Categories:**
+
+
+**Name:** [Z-Xplore Ghana](https://testflight.apple.com/join/n6ebTv8F)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:40:23.194Z
+**Categories:**
+
+
+**Name:** [Topspace](https://testflight.apple.com/join/NlbYGtVq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:40:23.222Z
+**Categories:**
+
+
+**Name:** [Interhaptics Player](https://testflight.apple.com/join/fmkQL4w8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:40:23.252Z
+**Categories:**
+
+
+**Name:** [Koinly](https://testflight.apple.com/join/MO3gDk9G)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T18:40:23.279Z
+**Categories:**
+
+
