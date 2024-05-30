@@ -12091,3 +12091,73 @@
 **Categories:**
 
 
+**Name:** [MedPal-AI](https://testflight.apple.com/join/MQIM3fFZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:05:19.758Z
+**Categories:**
+
+
+**Name:** [WW.Rocket.Chat](https://testflight.apple.com/join/tgoNx3rx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:05:19.793Z
+**Categories:**
+
+
+**Name:** [KeePassium (KeePass passwords)](https://testflight.apple.com/join/y8R6iLlK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:05:19.830Z
+**Categories:**
+
+
+**Name:** [EMobile7](https://testflight.apple.com/join/zzkHHQtj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:05:19.871Z
+**Categories:**
+
+
+**Name:** [ConnectEBT(UAT)](https://testflight.apple.com/join/qolQIhD4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:05:19.907Z
+**Categories:**
+
+
+**Name:** [TCL Connect](https://testflight.apple.com/join/aAJoEr9z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:05:19.942Z
+**Categories:**
+
+
+**Name:** [Goverland - All DAOs, One App](https://testflight.apple.com/join/RXPCZXIg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:05:19.978Z
+**Categories:**
+
+
+**Name:** [Unnus](https://testflight.apple.com/join/52wdtrc9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:05:20.014Z
+**Categories:**
+
+
+**Name:** [ProgTV](https://testflight.apple.com/join/RKN8upW7)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:05:20.050Z
+**Categories:**
+
+
+**Name:** [S3XY Watch](https://testflight.apple.com/join/194LkkmW)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:05:20.086Z
+**Categories:**
+
+
