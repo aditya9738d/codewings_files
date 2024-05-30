@@ -8731,3 +8731,73 @@
 **Categories:**
 
 
+**Name:** [YWallet](https://testflight.apple.com/join/ff2E7h7o)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:16:14.009Z
+**Categories:**
+
+
+**Name:** [SmartPay DSA Assist](https://testflight.apple.com/join/L1ufNxRS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:16:14.039Z
+**Categories:**
+
+
+**Name:** [iO](https://testflight.apple.com/join/Iu2Ak4pj)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:16:14.071Z
+**Categories:**
+
+
+**Name:** [Dreame Design](https://testflight.apple.com/join/y3e9Wpe5)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:16:14.101Z
+**Categories:**
+
+
+**Name:** [Dynamite Dyfused](https://testflight.apple.com/join/czgeVK7D)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:16:14.136Z
+**Categories:**
+
+
+**Name:** [Sol](https://testflight.apple.com/join/Tb7eoqs8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:16:14.166Z
+**Categories:**
+
+
+**Name:** [Hue Essentials](https://testflight.apple.com/join/u1953sBd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:16:14.196Z
+**Categories:**
+
+
+**Name:** [DingDing - Make It Happen](https://testflight.apple.com/join/nGQtRTxB)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T13:16:14.226Z
+**Categories:**
+
+
+**Name:** [myVineland](https://testflight.apple.com/join/kbNFHzkd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:16:14.256Z
+**Categories:**
+
+
+**Name:** [iToolsBTV4](https://testflight.apple.com/join/GIvxKVR5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:16:14.287Z
+**Categories:**
+
+
