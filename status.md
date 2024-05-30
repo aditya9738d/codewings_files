@@ -28744,3 +28744,73 @@
 **Categories:**
 
 
+**Name:** [Fuel. Calorie Counter](https://testflight.apple.com/join/IQzpJKqh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:56:10.527Z
+**Categories:**
+
+
+**Name:** [Dangcindog](https://testflight.apple.com/join/hKHGpfgw)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:56:10.555Z
+**Categories:**
+
+
+**Name:** [BankingZV](https://testflight.apple.com/join/x5sOCqY1)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T17:56:10.582Z
+**Categories:**
+
+
+**Name:** [Govee Tool](https://testflight.apple.com/join/ZiUofZJw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:56:10.609Z
+**Categories:**
+
+
+**Name:** [Matchful](https://testflight.apple.com/join/MRqGblKF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:56:10.636Z
+**Categories:**
+
+
+**Name:** [MathGPTPro](https://testflight.apple.com/join/Q4ISuSqQ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:56:10.663Z
+**Categories:**
+
+
+**Name:** [My WEY-The Wey. A Way Forward.](https://testflight.apple.com/join/GAJvHmek)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:56:10.691Z
+**Categories:**
+
+
+**Name:** [Television Time](https://testflight.apple.com/join/eP0BTwVi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:56:10.718Z
+**Categories:**
+
+
+**Name:** [Personary/PLR 2021](https://testflight.apple.com/join/PxpiebQA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:56:10.745Z
+**Categories:**
+
+
+**Name:** [iFlame PRO](https://testflight.apple.com/join/1cQr8PE7)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:56:10.773Z
+**Categories:**
+
+
