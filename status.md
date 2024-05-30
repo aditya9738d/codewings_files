@@ -1899,3 +1899,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:35:17.179Z
 
+**Name:** [Das E-Rezept](https://testflight.apple.com/join/rL8GdXdD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:36:10.133Z
+
+**Name:** [Kalaam - Learn Quranic Arabic](https://testflight.apple.com/join/xOzIjSrN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:36:10.133Z
+
+**Name:** [dEmpire of Vampire](https://testflight.apple.com/join/I0939Yj3)
+**Click Count:** 20
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:36:10.133Z
+
+**Name:** [Occto](https://testflight.apple.com/join/HPbYkfzz)
+**Click Count:** 9
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:36:10.133Z
+
+**Name:** [TP-Link Aria](https://testflight.apple.com/join/T99UPBgQ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:36:10.133Z
+
+**Name:** [CoinPocket](https://testflight.apple.com/join/ye6YT9Rc)
+**Click Count:** 26
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:36:10.133Z
+
+**Name:** [Avocado Wallet](https://testflight.apple.com/join/MxPn3PUa)
+**Click Count:** 23
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:36:10.133Z
+
+**Name:** [Telegram Messenger](https://testflight.apple.com/join/u6iogfd0)
+**Click Count:** 1589
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:36:10.133Z
+
+**Name:** [The Division Resurgence](https://testflight.apple.com/join/cZFrLJPZ)
+**Click Count:** 68
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:36:10.133Z
+
+**Name:** [3g2005](https://testflight.apple.com/join/weDKc93b)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:36:10.133Z
+
