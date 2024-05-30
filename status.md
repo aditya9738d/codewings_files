@@ -21954,3 +21954,73 @@
 **Categories:**
 
 
+**Name:** [Garenta Servis UAT](https://testflight.apple.com/join/Jt9CsSkz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:16:10.499Z
+**Categories:**
+
+
+**Name:** [Mobile One X](https://testflight.apple.com/join/ptQt8ZpL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:16:10.528Z
+**Categories:**
+
+
+**Name:** [DigitalCoach - IBA DU](https://testflight.apple.com/join/k5wtPqlB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:16:10.557Z
+**Categories:**
+
+
+**Name:** [Simple Utils](https://testflight.apple.com/join/b2XOhwnH)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:16:10.585Z
+**Categories:**
+
+
+**Name:** [Verbum Catholic Bible Study](https://testflight.apple.com/join/MBY04Qmv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:16:10.613Z
+**Categories:**
+
+
+**Name:** [wojutiantang](https://testflight.apple.com/join/nf3HzUns)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:16:10.641Z
+**Categories:**
+
+
+**Name:** [Wedort Fahrer](https://testflight.apple.com/join/T7miFQZu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:16:10.669Z
+**Categories:**
+
+
+**Name:** [eamsapp](https://testflight.apple.com/join/SCLclDR6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:16:10.700Z
+**Categories:**
+
+
+**Name:** [MetaMediaLab](https://testflight.apple.com/join/FhnvRgjR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:16:10.728Z
+**Categories:**
+
+
+**Name:** [Yoto: Music, Stories, Sleep](https://testflight.apple.com/join/di4bwD5z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:16:10.755Z
+**Categories:**
+
+
