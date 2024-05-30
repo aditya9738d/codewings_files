@@ -17341,3 +17341,73 @@
 **Categories:**
 
 
+**Name:** [Capacities](https://testflight.apple.com/join/agRhmlby)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:11.245Z
+**Categories:**
+
+
+**Name:** [BeauTech2](https://testflight.apple.com/join/LbpX2l7O)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:11.272Z
+**Categories:**
+
+
+**Name:** [NL Classifieds: Shop Local](https://testflight.apple.com/join/mgBYidoN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:11.301Z
+**Categories:**
+
+
+**Name:** [PLAY SWING](https://testflight.apple.com/join/3TsNwhkd)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:11.329Z
+**Categories:**
+
+
+**Name:** [Roon Remote](https://testflight.apple.com/join/uyG60hp2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:11.358Z
+**Categories:**
+
+
+**Name:** [Strongineering](https://testflight.apple.com/join/1zhF7cmn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:11.387Z
+**Categories:**
+
+
+**Name:** [N1broker](https://testflight.apple.com/join/Ql500K0e)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:11.415Z
+**Categories:**
+
+
+**Name:** [eShop Multivendor Customer](https://testflight.apple.com/join/ekx7AYUP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:11.444Z
+**Categories:**
+
+
+**Name:** [Onion Browser](https://testflight.apple.com/join/90DvGBOE)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:11.472Z
+**Categories:**
+
+
+**Name:** [V2Box - V2ray Client](https://testflight.apple.com/join/IlTFf5Id)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:22:11.499Z
+**Categories:**
+
+
