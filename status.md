@@ -3498,3 +3498,73 @@
 **Categories:**
 
 
+**Name:** [debtMe](https://testflight.apple.com/join/QH523MIn)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:43:08.881Z
+**Categories:**
+
+
+**Name:** [dime.algo](https://testflight.apple.com/join/qCH71rx7)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:43:08.909Z
+**Categories:**
+
+
+**Name:** [doForms BETA](https://testflight.apple.com/join/reM6lFmL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:43:08.938Z
+**Categories:**
+
+
+**Name:** [doForms Mobile Data](https://testflight.apple.com/join/VUgxqwt5)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:43:08.967Z
+**Categories:**
+
+
+**Name:** [doForms Mobile Data Platform](https://testflight.apple.com/join/sb5vHqk1)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:43:08.995Z
+**Categories:**
+
+
+**Name:** [dumbbe: add fun text to photos](https://testflight.apple.com/join/BlTCbUNR)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:43:09.023Z
+**Categories:**
+
+
+**Name:** [e-Gro Portable](https://testflight.apple.com/join/LGmI6uff)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:43:09.051Z
+**Categories:**
+
+
+**Name:** [e-Port Viaggi Autotrasporto](https://testflight.apple.com/join/jGRTzW0x)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:43:09.079Z
+**Categories:**
+
+
+**Name:** [eBroker Flutter App](https://testflight.apple.com/join/nrmIds1a)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:43:09.107Z
+**Categories:**
+
+
+**Name:** [eCommerce-SwiftUI](https://testflight.apple.com/join/xnB0ols9)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:43:09.135Z
+**Categories:**
+
+
