@@ -1549,3 +1549,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:28:10.972Z
 
+**Name:** [beboConnect](https://testflight.apple.com/join/wdeQmls3)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:29:10.140Z
+
+**Name:** [MyFRITZ!App](https://testflight.apple.com/join/U0v1rBE5)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:29:10.140Z
+
+**Name:** [itsme](https://testflight.apple.com/join/ntZD6f9a)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:29:10.140Z
+
+**Name:** [Voyager for Lemmy](https://testflight.apple.com/join/nWLw1MBM)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:29:10.140Z
+
+**Name:** [VNPAY-CA](https://testflight.apple.com/join/o6j4lZii)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:29:10.140Z
+
+**Name:** [PDF Viewer - Annotation Expert](https://testflight.apple.com/join/6IMUtZ8n)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:29:10.140Z
+
+**Name:** [Voxel Max - 3D Modeling](https://testflight.apple.com/join/TdNA6XSC)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:29:10.140Z
+
+**Name:** [Riveo | Video Effects Enhancer](https://testflight.apple.com/join/v6ceOm4r)
+**Click Count:** 3
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:29:10.140Z
+
+**Name:** [Project Pentjet](https://testflight.apple.com/join/YOm3zrcG)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:29:10.140Z
+
+**Name:** [JeeConnect](https://testflight.apple.com/join/luZsKILI)
+**Click Count:** 47
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:29:10.140Z
+
