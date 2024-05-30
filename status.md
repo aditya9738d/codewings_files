@@ -15171,3 +15171,73 @@
 **Categories:**
 
 
+**Name:** [Home Service Near You](https://testflight.apple.com/join/VhugajHG)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T14:50:24.192Z
+**Categories:**
+
+
+**Name:** [SimpleTix Organizer](https://testflight.apple.com/join/zyByZSX8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:50:24.220Z
+**Categories:**
+
+
+**Name:** [Long Ago](https://testflight.apple.com/join/lSUBOcUu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:50:24.248Z
+**Categories:**
+
+
+**Name:** [Mountain Mike's Pizza](https://testflight.apple.com/join/5pSMjqMz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:50:24.276Z
+**Categories:**
+
+
+**Name:** [UD Mobile](https://testflight.apple.com/join/xHtzI5R3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:50:24.304Z
+**Categories:**
+
+
+**Name:** [Mastery by Sir Brad](https://testflight.apple.com/join/WbpwRW3Q)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:50:24.332Z
+**Categories:**
+
+
+**Name:** [all 4 hue   (for Philips Hue)](https://testflight.apple.com/join/4Jc5hX2s)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:50:24.360Z
+**Categories:**
+
+
+**Name:** [iV2EX](https://testflight.apple.com/join/LvKIxl69)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:50:24.388Z
+**Categories:**
+
+
+**Name:** [Everand: Ebooks and audiobooks](https://testflight.apple.com/join/hJZY2QeX)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:50:24.417Z
+**Categories:**
+
+
+**Name:** [Secolink Pro](https://testflight.apple.com/join/5rvPhg4s)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:50:24.445Z
+**Categories:**
+
+
