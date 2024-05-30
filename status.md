@@ -12542,3 +12542,73 @@
 **Categories:**
 
 
+**Name:** [OH-Radio](https://testflight.apple.com/join/VrIFeZ3K)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:54:10.249Z
+**Categories:**
+
+
+**Name:** [EDIS electrical certificates](https://testflight.apple.com/join/NgkYv12x)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:54:10.285Z
+**Categories:**
+
+
+**Name:** [B.tv par Bouygues Telecom](https://testflight.apple.com/join/3eJMLBeq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:54:10.321Z
+**Categories:**
+
+
+**Name:** [VAM - ocio, cultura y eventos](https://testflight.apple.com/join/iz0mCrE4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:54:10.357Z
+**Categories:**
+
+
+**Name:** [TMB App (Metro Bus Barcelona)](https://testflight.apple.com/join/c2FIzDkK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:54:10.392Z
+**Categories:**
+
+
+**Name:** [Coinyee_Beta](https://testflight.apple.com/join/IAufvK5J)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:54:10.428Z
+**Categories:**
+
+
+**Name:** [HSBC WorldTrader](https://testflight.apple.com/join/koKMbYcD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:54:10.464Z
+**Categories:**
+
+
+**Name:** [Dose Guru](https://testflight.apple.com/join/O16RBjPf)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:54:10.500Z
+**Categories:**
+
+
+**Name:** [Coke&Go](https://testflight.apple.com/join/HUyeJpZN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:54:10.535Z
+**Categories:**
+
+
+**Name:** [Mi App Megalabs](https://testflight.apple.com/join/zMHHWd3B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:54:10.571Z
+**Categories:**
+
+
