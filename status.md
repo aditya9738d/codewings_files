@@ -5065,3 +5065,73 @@
 **Categories:**
 
 
+**Name:** [In Stock Scanner](https://testflight.apple.com/join/faSXXGzT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:06:10.260Z
+**Categories:**
+
+
+**Name:** [Ordway](https://testflight.apple.com/join/TdgH2IhC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:06:10.288Z
+**Categories:**
+
+
+**Name:** [Ready4Sea: safe boating!](https://testflight.apple.com/join/cklHSFXd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:06:10.316Z
+**Categories:**
+
+
+**Name:** [LoFi Cam: Film Digital Camera](https://testflight.apple.com/join/hUIJ8aAa)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:06:10.344Z
+**Categories:**
+
+
+**Name:** [Hami Video](https://testflight.apple.com/join/1wenTU1f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:06:10.372Z
+**Categories:**
+
+
+**Name:** [EVnSteven](https://testflight.apple.com/join/3HurFoSb)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:06:10.400Z
+**Categories:**
+
+
+**Name:** [Affinity iOS Beta](https://testflight.apple.com/join/DdFJxPLX)
+**Click Count:** 31
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:06:10.428Z
+**Categories:**
+
+
+**Name:** [Dharamik Signal](https://testflight.apple.com/join/BuwazBeq)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:06:10.456Z
+**Categories:**
+
+
+**Name:** [Joplin](https://testflight.apple.com/join/p5iLVzrG)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:06:10.484Z
+**Categories:**
+
+
+**Name:** [DiaBLE](https://testflight.apple.com/join/H48doU3l)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:06:10.512Z
+**Categories:**
+
+
