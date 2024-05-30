@@ -2709,3 +2709,74 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:48:14.264Z
 
+**Name:** [Music Discovery with Fusion](https://testflight.apple.com/join/mgKIQ9hU)
+**Click Count:** 45
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:01.549Z
+**Categories:**
+- Music
+
+**Name:** [BetaMonkeyEmpire](https://testflight.apple.com/join/VhdGSRMd)
+**Click Count:** 43
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:01.822Z
+**Categories:**
+
+
+**Name:** [Axon 3](https://testflight.apple.com/join/MI1za2wg)
+**Click Count:** 34
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:02.096Z
+**Categories:**
+
+
+**Name:** [3D Scan Pro](https://testflight.apple.com/join/29NljUzy)
+**Click Count:** 13
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:49:02.368Z
+**Categories:**
+
+
+**Name:** [AppDab](https://testflight.apple.com/join/tMhEgIVI)
+**Click Count:** 55
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:02.643Z
+**Categories:**
+
+
+**Name:** [Supercut for Netflix](https://testflight.apple.com/join/FINyZ9Lh)
+**Click Count:** 161
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:49:02.915Z
+**Categories:**
+- Video
+
+**Name:** [GeoGroups](https://testflight.apple.com/join/8RdWY0qK)
+**Click Count:** 14
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:03.187Z
+**Categories:**
+
+
+**Name:** [IMDb](https://testflight.apple.com/join/Y9yo0X5t)
+**Click Count:** 220
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:03.461Z
+**Categories:**
+- Entertainment
+- Video
+
+**Name:** [PotClock](https://testflight.apple.com/join/ivCR0RIe)
+**Click Count:** 25
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:03.734Z
+**Categories:**
+
+
+**Name:** [Avici -Buy bitcoin with UPI](https://testflight.apple.com/join/Rl2vfoRy)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:49:04.015Z
+**Categories:**
+
+
