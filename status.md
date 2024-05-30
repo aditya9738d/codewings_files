@@ -348,3 +348,73 @@
 **Categories:**
 
 
+**Name:** [Rumble Kong League](https://testflight.apple.com/join/FKHsFUMi)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:55:15.228Z
+**Categories:**
+
+
+**Name:** [Runestone Text Editor](https://testflight.apple.com/join/kDXvZwlD)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:55:15.256Z
+**Categories:**
+
+
+**Name:** [Running Peas](https://testflight.apple.com/join/mWtz8DPE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:55:15.285Z
+**Categories:**
+
+
+**Name:** [Ryobi™ Robotic Mower](https://testflight.apple.com/join/Bylj1Hk8)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:55:15.315Z
+**Categories:**
+
+
+**Name:** [S2M Customer](https://testflight.apple.com/join/RZug4688)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:55:15.343Z
+**Categories:**
+
+
+**Name:** [SAAN GO prod](https://testflight.apple.com/join/EEUVqB6C)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:55:15.372Z
+**Categories:**
+
+
+**Name:** [SAFE by FieldEx](https://testflight.apple.com/join/E4KexlIs)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:55:15.402Z
+**Categories:**
+
+
+**Name:** [SAIMU-UAT](https://testflight.apple.com/join/IpE4pYqL)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:55:15.431Z
+**Categories:**
+
+
+**Name:** [SC Thrive Hub Client](https://testflight.apple.com/join/Qeh2WRdy)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:55:15.459Z
+**Categories:**
+
+
+**Name:** [SEEC HomeOwners](https://testflight.apple.com/join/5ClON9Sr)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:55:15.488Z
+**Categories:**
+
+
