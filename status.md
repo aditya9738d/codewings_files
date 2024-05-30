@@ -1468,3 +1468,73 @@
 **Categories:**
 
 
+**Name:** [Sukiru](https://testflight.apple.com/join/A8bB6OQo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:11:09.109Z
+**Categories:**
+
+
+**Name:** [Super Rich Dev](https://testflight.apple.com/join/shf70gTU)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:11:09.145Z
+**Categories:**
+
+
+**Name:** [SuperDeker App](https://testflight.apple.com/join/w4x8bC22)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:11:09.182Z
+**Categories:**
+
+
+**Name:** [Superbloom Science](https://testflight.apple.com/join/CBWEOlEy)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:11:09.221Z
+**Categories:**
+
+
+**Name:** [Superhero Wallet](https://testflight.apple.com/join/3o5r4dQQ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:11:09.261Z
+**Categories:**
+
+
+**Name:** [Superpets Demo](https://testflight.apple.com/join/YVQODg4S)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:11:09.298Z
+**Categories:**
+
+
+**Name:** [Suptho](https://testflight.apple.com/join/OSBjZlhn)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:11:09.335Z
+**Categories:**
+
+
+**Name:** [Svarupaa](https://testflight.apple.com/join/YGZd63FH)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:11:09.371Z
+**Categories:**
+
+
+**Name:** [Sweet Life record - 6686](https://testflight.apple.com/join/kgCE3HJF)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:11:09.407Z
+**Categories:**
+
+
+**Name:** [Swishot_MVP](https://testflight.apple.com/join/1v4jF2AP)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:11:09.444Z
+**Categories:**
+
+
