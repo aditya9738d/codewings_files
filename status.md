@@ -33294,3 +33294,73 @@
 **Categories:**
 
 
+**Name:** [AutoGrip GFS-100](https://testflight.apple.com/join/D30zGnUE)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:02:09.179Z
+**Categories:**
+
+
+**Name:** [AutoZoomFlutter](https://testflight.apple.com/join/sYyHEn8m)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:02:09.207Z
+**Categories:**
+
+
+**Name:** [Autofy App](https://testflight.apple.com/join/x4CJwNFp)
+**Click Count:** 3
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:02:09.235Z
+**Categories:**
+
+
+**Name:** [Automanual for YNAB](https://testflight.apple.com/join/9gH57dyB)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:02:09.263Z
+**Categories:**
+
+
+**Name:** [Automatic Timetracking](https://testflight.apple.com/join/3wWIxvJj)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:02:09.291Z
+**Categories:**
+
+
+**Name:** [Avatar Land](https://testflight.apple.com/join/6lyeXvj5)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:02:09.319Z
+**Categories:**
+
+
+**Name:** [Avatour: Khám phá chất bản địa](https://testflight.apple.com/join/zCTMbACx)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:02:09.349Z
+**Categories:**
+
+
+**Name:** [Aventon](https://testflight.apple.com/join/R285EnR0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:02:09.378Z
+**Categories:**
+
+
+**Name:** [Avery Dennison](https://testflight.apple.com/join/VSqKSAWS)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:02:09.406Z
+**Categories:**
+
+
+**Name:** [Avgeek - Log Flights](https://testflight.apple.com/join/GUZ8oaj9)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T19:02:09.436Z
+**Categories:**
+
+
