@@ -4461,3 +4461,73 @@
 **Categories:**
 
 
+**Name:** [walkie-talkie-iphone](https://testflight.apple.com/join/vEEwtoF1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:13:09.667Z
+**Categories:**
+
+
+**Name:** [LING Club Beta](https://testflight.apple.com/join/9s2YL9jr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:13:09.695Z
+**Categories:**
+
+
+**Name:** [Zabb World](https://testflight.apple.com/join/SU8pjhQa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:13:09.723Z
+**Categories:**
+
+
+**Name:** [Canton Smart](https://testflight.apple.com/join/EuujoCDc)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:13:09.753Z
+**Categories:**
+
+
+**Name:** [PicMate Photo Organizer](https://testflight.apple.com/join/Lyuh61tN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:13:09.781Z
+**Categories:**
+
+
+**Name:** [e-kupon | Digital Coupon](https://testflight.apple.com/join/VOxvgMHs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:13:09.808Z
+**Categories:**
+
+
+**Name:** [HashPhotos](https://testflight.apple.com/join/NR8WA4xu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:13:09.836Z
+**Categories:**
+
+
+**Name:** [Vexl 2.0](https://testflight.apple.com/join/SuPp5FF2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:13:09.863Z
+**Categories:**
+
+
+**Name:** [xcloc](https://testflight.apple.com/join/xC5Pa2KA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:13:09.892Z
+**Categories:**
+
+
+**Name:** [Albums - album focused player](https://testflight.apple.com/join/8ZpnHGwr)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T12:13:09.920Z
+**Categories:**
+
+
