@@ -8591,3 +8591,73 @@
 **Categories:**
 
 
+**Name:** [Cashku Staging](https://testflight.apple.com/join/sBU8vrHB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:14:11.032Z
+**Categories:**
+
+
+**Name:** [SDR GO](https://testflight.apple.com/join/KvBmPQ5w)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:14:11.062Z
+**Categories:**
+
+
+**Name:** [maevsi](https://testflight.apple.com/join/kkStPDoc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:14:11.092Z
+**Categories:**
+
+
+**Name:** [KIEMTHEMB](https://testflight.apple.com/join/g8PLsHaI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:14:11.123Z
+**Categories:**
+
+
+**Name:** [Power Of Power](https://testflight.apple.com/join/iOu2V3xs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:14:11.152Z
+**Categories:**
+
+
+**Name:** [Corsano](https://testflight.apple.com/join/cuAOjWGs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:14:11.182Z
+**Categories:**
+
+
+**Name:** [Max Me](https://testflight.apple.com/join/2qa5beAh)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:14:11.212Z
+**Categories:**
+
+
+**Name:** [DragonC](https://testflight.apple.com/join/iRTotZtD)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:14:11.242Z
+**Categories:**
+
+
+**Name:** [Zigbee Tool - Flight](https://testflight.apple.com/join/56u1S5SH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:14:11.272Z
+**Categories:**
+
+
+**Name:** [Embody Space](https://testflight.apple.com/join/JqfxmMzw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:14:11.302Z
+**Categories:**
+
+
