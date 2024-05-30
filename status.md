@@ -16361,3 +16361,73 @@
 **Categories:**
 
 
+**Name:** [Cleo: Up to \$250 Cash Advance](https://testflight.apple.com/join/fDG9hWng)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:08:11.776Z
+**Categories:**
+
+
+**Name:** [Japfa Feed - Sales](https://testflight.apple.com/join/Zh2fP7OG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:08:11.805Z
+**Categories:**
+
+
+**Name:** [zDrip](https://testflight.apple.com/join/ckUeZYVm)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:08:11.833Z
+**Categories:**
+
+
+**Name:** [Tata CLiQ Palette: Shop Beauty](https://testflight.apple.com/join/SPetKI7I)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:08:11.861Z
+**Categories:**
+
+
+**Name:** [Nautica WooCommerce](https://testflight.apple.com/join/mrvIRLfw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:08:11.889Z
+**Categories:**
+
+
+**Name:** [HerVenture](https://testflight.apple.com/join/8nPxfqGS)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:08:11.918Z
+**Categories:**
+
+
+**Name:** [A1Metal](https://testflight.apple.com/join/zAwmxkh5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:08:11.948Z
+**Categories:**
+
+
+**Name:** [I Remember When](https://testflight.apple.com/join/hEh8SXPI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:08:11.975Z
+**Categories:**
+
+
+**Name:** [Twilar](https://testflight.apple.com/join/dKYsGQ2n)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:08:12.003Z
+**Categories:**
+
+
+**Name:** [Wire • Secure Messenger](https://testflight.apple.com/join/TiFZsCXi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:08:12.031Z
+**Categories:**
+
+
