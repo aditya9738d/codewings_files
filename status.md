@@ -28114,3 +28114,73 @@
 **Categories:**
 
 
+**Name:** [ZiiP Bus](https://testflight.apple.com/join/M9HsbMn4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:47:08.625Z
+**Categories:**
+
+
+**Name:** [Neotriad app](https://testflight.apple.com/join/WoReCtbD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:47:08.653Z
+**Categories:**
+
+
+**Name:** [Karofi Service](https://testflight.apple.com/join/rfgyiZ1k)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T17:47:08.681Z
+**Categories:**
+
+
+**Name:** [Rocket.Chat](https://testflight.apple.com/join/3gcYeoMr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:47:08.709Z
+**Categories:**
+
+
+**Name:** [Syai Tag](https://testflight.apple.com/join/60v32zBi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:47:08.738Z
+**Categories:**
+
+
+**Name:** [Guardian Staging](https://testflight.apple.com/join/jz3MalPf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:47:08.765Z
+**Categories:**
+
+
+**Name:** [Cloud_Med](https://testflight.apple.com/join/fFx7Jsz9)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T17:47:08.793Z
+**Categories:**
+
+
+**Name:** [Marvelous](https://testflight.apple.com/join/x17Sg8bh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:47:08.821Z
+**Categories:**
+
+
+**Name:** [haitau.vn v2](https://testflight.apple.com/join/cbMrvEdy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:47:08.848Z
+**Categories:**
+
+
+**Name:** [Konnect: Web3 Social](https://testflight.apple.com/join/jurjHSwo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:47:08.877Z
+**Categories:**
+
+
