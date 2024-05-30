@@ -6769,3 +6769,79 @@
 **Categories:**
 
 
+**Name:** [Swiggy Food, Grocery & Dineout](https://testflight.apple.com/join/IERuiSEL)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:30:43.916Z
+**Categories:**
+- Food
+- Shopping
+- Utility
+- Food
+- Shopping
+
+**Name:** [RoQoL](https://testflight.apple.com/join/53H1QbUr)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:30:43.952Z
+**Categories:**
+
+
+**Name:** [Misty lite](https://testflight.apple.com/join/cKNtU9TX)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:30:43.988Z
+**Categories:**
+
+
+**Name:** [Magic Tiles 3: Piano Game](https://testflight.apple.com/join/NTu06NVE)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:30:44.023Z
+**Categories:**
+- Games
+
+**Name:** [Camera Companion BETA](https://testflight.apple.com/join/z18Ngj0N)
+**Click Count:** 17
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:30:44.058Z
+**Categories:**
+
+
+**Name:** [Big Mail](https://testflight.apple.com/join/wboU3bTt)
+**Click Count:** 59
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:30:44.093Z
+**Categories:**
+- Chat
+- Email & Calandar
+- Utility
+
+**Name:** [Hunters On-Chain](https://testflight.apple.com/join/mnB642dv)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:30:44.129Z
+**Categories:**
+- Games
+
+**Name:** [Egern](https://testflight.apple.com/join/AzU6kAzX)
+**Click Count:** 121
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:30:44.169Z
+**Categories:**
+
+
+**Name:** [AstreOS](https://testflight.apple.com/join/ZsGh6uYD)
+**Click Count:** 35
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:30:44.205Z
+**Categories:**
+
+
+**Name:** [QQ](https://testflight.apple.com/join/R5FNGUl3)
+**Click Count:** 44
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:30:44.241Z
+**Categories:**
+
+
