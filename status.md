@@ -1449,3 +1449,53 @@
 **Beta Available:** full
 **Last Checked:** 2024-05-30T11:26:11.620Z
 
+**Name:** [SchoolMate – Ace the Day](https://testflight.apple.com/join/WZcoUcHQ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:27:09.634Z
+
+**Name:** [Screeps Observer](https://testflight.apple.com/join/u4GlOWaL)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:27:09.634Z
+
+**Name:** [My McDonald's QA](https://testflight.apple.com/join/ftRKu5mE)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:27:09.634Z
+
+**Name:** [WordPress – Website Builder](https://testflight.apple.com/join/AkJQt8Pw)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:27:09.634Z
+
+**Name:** [Wink - Video Enhancing Tool](https://testflight.apple.com/join/ZviH3WzG)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:27:09.634Z
+
+**Name:** [PanTiltZoom](https://testflight.apple.com/join/ZUtNX7V2)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:27:09.634Z
+
+**Name:** [YabiVision](https://testflight.apple.com/join/AtFppKIy)
+**Click Count:** 18
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:27:09.634Z
+
+**Name:** [Zenmoney: expense tracker](https://testflight.apple.com/join/UNbjeBue)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:27:09.634Z
+
+**Name:** [SkyDemon](https://testflight.apple.com/join/hz1uLaJX)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:27:09.634Z
+
+**Name:** [AstroDX-Beta (Group B)](https://testflight.apple.com/join/ocj3yptn)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:27:09.634Z
+
