@@ -10481,3 +10481,73 @@
 **Categories:**
 
 
+**Name:** [Builterra Pro](https://testflight.apple.com/join/wHZ2Im46)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:41:12.497Z
+**Categories:**
+
+
+**Name:** [Mibro Fit](https://testflight.apple.com/join/YyF2WB6Q)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:41:12.533Z
+**Categories:**
+
+
+**Name:** [Hero's Quest: Automatic RPG](https://testflight.apple.com/join/AtfKNuB5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:41:12.568Z
+**Categories:**
+
+
+**Name:** [EvivaApp](https://testflight.apple.com/join/5cKbirS6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:41:12.604Z
+**Categories:**
+
+
+**Name:** [Mobile Money Customer](https://testflight.apple.com/join/4W1lBuCE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:41:12.640Z
+**Categories:**
+
+
+**Name:** [MICPro](https://testflight.apple.com/join/jKs83omj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:41:12.675Z
+**Categories:**
+
+
+**Name:** [Handyapp - Home Repairs Now](https://testflight.apple.com/join/HXlIeYtK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:41:12.710Z
+**Categories:**
+
+
+**Name:** [AVIATOR98](https://testflight.apple.com/join/gpxQpTio)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:41:12.746Z
+**Categories:**
+
+
+**Name:** [Watch Faces by Facer](https://testflight.apple.com/join/KvwL5htc)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:41:12.782Z
+**Categories:**
+
+
+**Name:** [Thrive CAR-T](https://testflight.apple.com/join/aUgk0jxM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:41:12.817Z
+**Categories:**
+
+
