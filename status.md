@@ -3761,3 +3761,73 @@
 **Categories:**
 
 
+**Name:** [SkipperLog](https://testflight.apple.com/join/NiiVIwqu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:03:10.539Z
+**Categories:**
+
+
+**Name:** [Anonymous Chat / AnonChat](https://testflight.apple.com/join/GFiki70y)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:03:10.567Z
+**Categories:**
+
+
+**Name:** [Rabbani Portal](https://testflight.apple.com/join/M2Dr6Hgi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:03:10.600Z
+**Categories:**
+
+
+**Name:** [AsDeporte Dev](https://testflight.apple.com/join/E6kcmgC7)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:03:10.630Z
+**Categories:**
+
+
+**Name:** [Art Of War 3:RTS Strategy Game](https://testflight.apple.com/join/YVxtZcBV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:03:10.658Z
+**Categories:**
+
+
+**Name:** [CoinEasy](https://testflight.apple.com/join/u8CSCSCl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:03:10.687Z
+**Categories:**
+
+
+**Name:** [App Movil CCB STG](https://testflight.apple.com/join/gN9zFxoX)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:03:10.716Z
+**Categories:**
+
+
+**Name:** [Wasserflug](https://testflight.apple.com/join/aYwKPFNF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:03:10.751Z
+**Categories:**
+
+
+**Name:** [Allcooks - Food Community](https://testflight.apple.com/join/1GSLtzuj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:03:10.781Z
+**Categories:**
+
+
+**Name:** [Recordi - Smart AI Recorder](https://testflight.apple.com/join/yoeKy7gR)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T12:03:10.813Z
+**Categories:**
+
+
