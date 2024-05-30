@@ -19714,3 +19714,73 @@
 **Categories:**
 
 
+**Name:** [Hik-Connect - for End user](https://testflight.apple.com/join/fJXKZnb5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:43:09.126Z
+**Categories:**
+
+
+**Name:** [KPLUS Shop UAT](https://testflight.apple.com/join/ANrcLvUt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:43:09.154Z
+**Categories:**
+
+
+**Name:** [LifeGuardian](https://testflight.apple.com/join/Bfo7X4nB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:43:09.183Z
+**Categories:**
+
+
+**Name:** [Nagad Customer](https://testflight.apple.com/join/xhBJPuRp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:43:09.211Z
+**Categories:**
+
+
+**Name:** [Nova Health](https://testflight.apple.com/join/UUQw0cM2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:43:09.240Z
+**Categories:**
+
+
+**Name:** [Konekt](https://testflight.apple.com/join/OqSdJFWW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:43:09.267Z
+**Categories:**
+
+
+**Name:** [H-E-B Scanner](https://testflight.apple.com/join/YrzoRxPV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:43:09.295Z
+**Categories:**
+
+
+**Name:** [HealthWear](https://testflight.apple.com/join/ISIFWxDT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:43:09.326Z
+**Categories:**
+
+
+**Name:** [VNeCSGT](https://testflight.apple.com/join/0a4TvLR7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:43:09.354Z
+**Categories:**
+
+
+**Name:** [Bottled.: Savoure l'inattendu](https://testflight.apple.com/join/z6rrXvc5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:43:09.382Z
+**Categories:**
+
+
