@@ -849,3 +849,53 @@
 **Beta Available:** not accepting
 **Last Checked:** 2024-05-30T11:14:10.711Z
 
+**Name:** [Treegaze Cove: Merge & Craft](https://testflight.apple.com/join/4l65h1Yz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:15:27.540Z
+
+**Name:** [HISTORY Vault](https://testflight.apple.com/join/nPNYe0PY)
+**Click Count:** 133
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:15:27.540Z
+
+**Name:** [FUT Sniping Bot](https://testflight.apple.com/join/t7766iRc)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:15:27.540Z
+
+**Name:** [Mage: Strength Coaching](https://testflight.apple.com/join/ELyfxQcj)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:15:27.540Z
+
+**Name:** [Doris by dgApps](https://testflight.apple.com/join/dTdLfvIK)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:15:27.540Z
+
+**Name:** [PSX Real Estates Classified](https://testflight.apple.com/join/qouq41dn)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:15:27.540Z
+
+**Name:** [One Technical Lite](https://testflight.apple.com/join/uwpTKire)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:15:27.540Z
+
+**Name:** [Waverly](https://testflight.apple.com/join/uT8hwVyG)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:15:27.540Z
+
+**Name:** [MixMob: Racer 1](https://testflight.apple.com/join/ljXumv54)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:15:27.540Z
+
+**Name:** [WunderLINQ](https://testflight.apple.com/join/Nlw5rUn2)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:15:27.540Z
+
