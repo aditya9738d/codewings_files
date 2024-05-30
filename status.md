@@ -3988,3 +3988,73 @@
 **Categories:**
 
 
+**Name:** [oneSafe 6](https://testflight.apple.com/join/uvdLNeE0)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:50:21.770Z
+**Categories:**
+
+
+**Name:** [ownCloud - File Sync and Share](https://testflight.apple.com/join/Oktj0iKv)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:50:21.797Z
+**Categories:**
+
+
+**Name:** [paent - AR graffiti](https://testflight.apple.com/join/UMd3u2IA)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:50:21.826Z
+**Categories:**
+
+
+**Name:** [plus Auth](https://testflight.apple.com/join/M6oYf8wm)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:50:21.855Z
+**Categories:**
+
+
+**Name:** [popper social](https://testflight.apple.com/join/Wpa0PAOP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:50:21.883Z
+**Categories:**
+
+
+**Name:** [privacyIDEA Authenticator](https://testflight.apple.com/join/hcpxWPt0)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:50:21.912Z
+**Categories:**
+
+
+**Name:** [rejsekort](https://testflight.apple.com/join/eeJMlIFY)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:50:21.940Z
+**Categories:**
+
+
+**Name:** [sauceclip_dev](https://testflight.apple.com/join/ZbN3ZAZW)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:50:21.968Z
+**Categories:**
+
+
+**Name:** [scan my T3SLA](https://testflight.apple.com/join/Xra3qrlo)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:50:21.996Z
+**Categories:**
+
+
+**Name:** [spectwhirl](https://testflight.apple.com/join/tSjoUpc1)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:50:22.025Z
+**Categories:**
+
+
