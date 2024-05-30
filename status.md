@@ -25734,3 +25734,73 @@
 **Categories:**
 
 
+**Name:** [MFL Platinum](https://testflight.apple.com/join/FWg4IbLd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:11:11.161Z
+**Categories:**
+
+
+**Name:** [POS Dealer STG](https://testflight.apple.com/join/Rro2QfYU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:11:11.188Z
+**Categories:**
+
+
+**Name:** [Metabox AR](https://testflight.apple.com/join/IFUB7cVT)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T17:11:11.216Z
+**Categories:**
+
+
+**Name:** [SSM Sales Force Automation UAT](https://testflight.apple.com/join/f460coYa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:11:11.244Z
+**Categories:**
+
+
+**Name:** [Wam! Staging](https://testflight.apple.com/join/Qjr8ORdC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:11:11.271Z
+**Categories:**
+
+
+**Name:** [Smart Timetable - Schedule](https://testflight.apple.com/join/cNK5nhb3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:11:11.301Z
+**Categories:**
+
+
+**Name:** [Buienradar - weer](https://testflight.apple.com/join/TP0DtCQh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:11:11.328Z
+**Categories:**
+
+
+**Name:** [Tippgeber24](https://testflight.apple.com/join/4yF4dWDq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:11:11.357Z
+**Categories:**
+
+
+**Name:** [MT Recorder](https://testflight.apple.com/join/bG01NzO0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:11:11.384Z
+**Categories:**
+
+
+**Name:** [Believeu](https://testflight.apple.com/join/pWlGeXxV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:11:11.412Z
+**Categories:**
+
+
