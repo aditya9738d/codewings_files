@@ -12161,3 +12161,73 @@
 **Categories:**
 
 
+**Name:** [OceanEx-Test](https://testflight.apple.com/join/PkPRNIIp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:06:11.961Z
+**Categories:**
+
+
+**Name:** [Status++](https://testflight.apple.com/join/F1KmUg6K)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:06:12.000Z
+**Categories:**
+
+
+**Name:** [Swish Sandbox](https://testflight.apple.com/join/iQTsRg5b)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:06:12.041Z
+**Categories:**
+
+
+**Name:** [Sky Go](https://testflight.apple.com/join/27XwW4TL)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:06:12.078Z
+**Categories:**
+
+
+**Name:** [GoodBarber Commerce](https://testflight.apple.com/join/7Kh2Y3sP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:06:12.115Z
+**Categories:**
+
+
+**Name:** [RSLog OnSite](https://testflight.apple.com/join/jEqggnlv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:06:12.151Z
+**Categories:**
+
+
+**Name:** [Quatro Booking](https://testflight.apple.com/join/YG23lJxL)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:06:12.187Z
+**Categories:**
+
+
+**Name:** [BESV Smart Plus App](https://testflight.apple.com/join/FLmvkYS8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:06:12.224Z
+**Categories:**
+
+
+**Name:** [Fair Plus](https://testflight.apple.com/join/Ao0G8UZD)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:06:12.259Z
+**Categories:**
+
+
+**Name:** [GO-ACT](https://testflight.apple.com/join/qxWL77Pv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:06:12.295Z
+**Categories:**
+
+
