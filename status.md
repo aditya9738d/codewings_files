@@ -13771,3 +13771,73 @@
 **Categories:**
 
 
+**Name:** [DoAI](https://testflight.apple.com/join/jmD319UT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:29:09.801Z
+**Categories:**
+
+
+**Name:** [Seafi](https://testflight.apple.com/join/iLhMYCOC)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:29:09.829Z
+**Categories:**
+
+
+**Name:** [Gentler](https://testflight.apple.com/join/wSH4p6PU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:29:09.859Z
+**Categories:**
+
+
+**Name:** [AI-Chef](https://testflight.apple.com/join/cWx9R8OK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:29:09.888Z
+**Categories:**
+
+
+**Name:** [OfficeSuite Sheets](https://testflight.apple.com/join/i5vRfqkD)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:29:09.917Z
+**Categories:**
+
+
+**Name:** [KryptoPoker](https://testflight.apple.com/join/Mv3vEy0C)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:29:09.947Z
+**Categories:**
+
+
+**Name:** [LNDU+](https://testflight.apple.com/join/TBR0bOOL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:29:09.976Z
+**Categories:**
+
+
+**Name:** [Samsung Shop](https://testflight.apple.com/join/FVoXfI5R)
+**Click Count:** 3
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:29:10.005Z
+**Categories:**
+
+
+**Name:** [Castle Empire](https://testflight.apple.com/join/p6Vl1pLP)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:29:10.034Z
+**Categories:**
+
+
+**Name:** [SushiDebtOff](https://testflight.apple.com/join/TWfxi97k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:29:10.062Z
+**Categories:**
+
+
