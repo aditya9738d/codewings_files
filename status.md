@@ -11072,3 +11072,73 @@
 **Categories:**
 
 
+**Name:** [Quick Resto](https://testflight.apple.com/join/wmQlfZbz)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:33:11.189Z
+**Categories:**
+
+
+**Name:** [GoFynd - Fashion Shopping App](https://testflight.apple.com/join/41VGBwRl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:33:11.225Z
+**Categories:**
+
+
+**Name:** [iTV Shows](https://testflight.apple.com/join/4XNn7vvl)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:33:11.261Z
+**Categories:**
+
+
+**Name:** [Block Blast！](https://testflight.apple.com/join/3Lq0cEQg)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:33:11.297Z
+**Categories:**
+
+
+**Name:** [Sausage Man(Beta)](https://testflight.apple.com/join/l9pLEoxh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:33:11.334Z
+**Categories:**
+
+
+**Name:** [MouseSync](https://testflight.apple.com/join/RX6348bt)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:33:11.370Z
+**Categories:**
+
+
+**Name:** [Era3](https://testflight.apple.com/join/ElsNpqjU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:33:11.409Z
+**Categories:**
+
+
+**Name:** [Clarius Ultrasound App](https://testflight.apple.com/join/0TJwEgb0)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:33:11.447Z
+**Categories:**
+
+
+**Name:** [Huma-Demo-Environment](https://testflight.apple.com/join/vkv5lZVj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:33:11.484Z
+**Categories:**
+
+
+**Name:** [MyTV+](https://testflight.apple.com/join/bO6vuMOw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:33:11.520Z
+**Categories:**
+
+
