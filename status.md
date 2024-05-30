@@ -10582,3 +10582,73 @@
 **Categories:**
 
 
+**Name:** [Two-Eyed Seeing for Parents](https://testflight.apple.com/join/QD2sxMTD)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:26:10.655Z
+**Categories:**
+
+
+**Name:** [Freightster](https://testflight.apple.com/join/LF9YS7kz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:26:10.691Z
+**Categories:**
+
+
+**Name:** [Vi Movies & TV - 13 OTTs in 1](https://testflight.apple.com/join/AHUDbuH0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:26:10.728Z
+**Categories:**
+
+
+**Name:** [Apostagram App](https://testflight.apple.com/join/XQmKYN1t)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:26:10.763Z
+**Categories:**
+
+
+**Name:** [DI-Manage](https://testflight.apple.com/join/jZy4ayXa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:26:10.799Z
+**Categories:**
+
+
+**Name:** [Mobox Pro](https://testflight.apple.com/join/zusuXNhi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:26:10.835Z
+**Categories:**
+
+
+**Name:** [NOSTRA LOGISTICS ePOD](https://testflight.apple.com/join/E729A3lz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:26:10.871Z
+**Categories:**
+
+
+**Name:** [Awesome Habits: Habit Tracker](https://testflight.apple.com/join/4ptd8XuD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:26:10.907Z
+**Categories:**
+
+
+**Name:** [Brain in Hand Mobile](https://testflight.apple.com/join/h0joowGW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:26:10.943Z
+**Categories:**
+
+
+**Name:** [Solplanet](https://testflight.apple.com/join/fDnLKHJT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:26:10.979Z
+**Categories:**
+
+
