@@ -278,3 +278,73 @@
 **Categories:**
 
 
+**Name:** [Roam Around.](https://testflight.apple.com/join/SbQtBzDq)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:54:12.360Z
+**Categories:**
+
+
+**Name:** [RoamX](https://testflight.apple.com/join/THQB9l4u)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:54:12.388Z
+**Categories:**
+
+
+**Name:** [Robotic Mower](https://testflight.apple.com/join/GNjkpuSE)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:54:12.418Z
+**Categories:**
+
+
+**Name:** [Rocket Switch](https://testflight.apple.com/join/irypUbT3)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:54:12.447Z
+**Categories:**
+
+
+**Name:** [Rodgal](https://testflight.apple.com/join/gqJD4gXh)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:54:12.476Z
+**Categories:**
+
+
+**Name:** [Roi: Track & Grow Net Worth](https://testflight.apple.com/join/3esSlb5V)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:54:12.506Z
+**Categories:**
+
+
+**Name:** [Roommate Albert](https://testflight.apple.com/join/xWsUfVIx)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:54:12.535Z
+**Categories:**
+
+
+**Name:** [Routific Driver](https://testflight.apple.com/join/6cHpVucR)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:54:12.564Z
+**Categories:**
+
+
+**Name:** [Rubber Bands Beta](https://testflight.apple.com/join/U7RgeUUT)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:54:12.594Z
+**Categories:**
+
+
+**Name:** [Ruddarr](https://testflight.apple.com/join/WbWNuoos)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:54:12.624Z
+**Categories:**
+
+
