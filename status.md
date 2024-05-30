@@ -13281,3 +13281,73 @@
 **Categories:**
 
 
+**Name:** [Niantic Wayfarer](https://testflight.apple.com/join/VXu1F2jf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:22:14.258Z
+**Categories:**
+
+
+**Name:** [Eagle Eye Demo](https://testflight.apple.com/join/wP2BDFsk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:22:14.287Z
+**Categories:**
+
+
+**Name:** [Ungdungsinhvien.com](https://testflight.apple.com/join/qdUjhQP7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:22:14.316Z
+**Categories:**
+
+
+**Name:** [Notilify](https://testflight.apple.com/join/900xOXOk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:22:14.345Z
+**Categories:**
+
+
+**Name:** [CareAR Scan](https://testflight.apple.com/join/HTQEJaTk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:22:14.376Z
+**Categories:**
+
+
+**Name:** [Hytech Gizmo](https://testflight.apple.com/join/XqAOyZXH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:22:14.404Z
+**Categories:**
+
+
+**Name:** [The New York Times](https://testflight.apple.com/join/gfiSREAr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:22:14.432Z
+**Categories:**
+
+
+**Name:** [TRViS](https://testflight.apple.com/join/yYBaAdqX)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:22:14.462Z
+**Categories:**
+
+
+**Name:** [Microsoft PowerPoint](https://testflight.apple.com/join/a9Ef0N3g)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:22:14.492Z
+**Categories:**
+
+
+**Name:** [Remote Desktop Mobile Beta](https://testflight.apple.com/join/vkLIflUJ)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:22:14.521Z
+**Categories:**
+
+
