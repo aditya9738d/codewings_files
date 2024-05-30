@@ -9182,3 +9182,73 @@
 **Categories:**
 
 
+**Name:** [Payy: USDC Wallet](https://testflight.apple.com/join/rKCavMy1)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:06:11.391Z
+**Categories:**
+
+
+**Name:** [On Demand DFS](https://testflight.apple.com/join/jzQUDy1B)
+**Click Count:** 7
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T23:06:11.428Z
+**Categories:**
+
+
+**Name:** [ApicalTest](https://testflight.apple.com/join/osDRDUTt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:06:11.465Z
+**Categories:**
+
+
+**Name:** [Alpha Portal](https://testflight.apple.com/join/xVE9QGnk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:06:11.504Z
+**Categories:**
+
+
+**Name:** [Easy Move EM](https://testflight.apple.com/join/eqMwBqYP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:06:11.540Z
+**Categories:**
+
+
+**Name:** [GSG Hub](https://testflight.apple.com/join/ZLJiCmn8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:06:11.576Z
+**Categories:**
+
+
+**Name:** [ConstCash: Budget Manager](https://testflight.apple.com/join/J8ZGt0bI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:06:11.612Z
+**Categories:**
+
+
+**Name:** [Airbuds Widget](https://testflight.apple.com/join/0nEOUD24)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:06:11.649Z
+**Categories:**
+
+
+**Name:** [ImmersiShare](https://testflight.apple.com/join/U3hiGLkV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:06:11.685Z
+**Categories:**
+
+
+**Name:** [ms24](https://testflight.apple.com/join/uRwF4TEx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:06:11.723Z
+**Categories:**
+
+
