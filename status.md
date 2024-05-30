@@ -20554,3 +20554,73 @@
 **Categories:**
 
 
+**Name:** [CarbingRepairApp](https://testflight.apple.com/join/GA7GuCNQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:55:16.115Z
+**Categories:**
+
+
+**Name:** [UniFi Connect EA](https://testflight.apple.com/join/EU2GB4D2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:55:16.144Z
+**Categories:**
+
+
+**Name:** [BASD](https://testflight.apple.com/join/SVvmtHeR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:55:16.172Z
+**Categories:**
+
+
+**Name:** [Lady & gentleman CITY](https://testflight.apple.com/join/keUChAvk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:55:16.201Z
+**Categories:**
+
+
+**Name:** [Assistant](https://testflight.apple.com/join/e9U5Mfz4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:55:16.230Z
+**Categories:**
+
+
+**Name:** [Zepp (formerly Amazfit)](https://testflight.apple.com/join/kBbaIpT3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:55:16.259Z
+**Categories:**
+
+
+**Name:** [auth. - 2FA Smart Sync](https://testflight.apple.com/join/8XDBCC4Q)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:55:16.287Z
+**Categories:**
+
+
+**Name:** [UDisc Disc Golf](https://testflight.apple.com/join/vRPkDDy1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:55:16.316Z
+**Categories:**
+
+
+**Name:** [Mate - Live Video Chat & Meet](https://testflight.apple.com/join/V2L1PH8N)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:55:16.346Z
+**Categories:**
+
+
+**Name:** [Queued Up](https://testflight.apple.com/join/HL0fmJAX)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T15:55:16.374Z
+**Categories:**
+
+
