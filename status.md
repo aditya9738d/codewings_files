@@ -23564,3 +23564,73 @@
 **Categories:**
 
 
+**Name:** [Weather Champs](https://testflight.apple.com/join/xjuEeHhl)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:39:08.667Z
+**Categories:**
+
+
+**Name:** [BR Installer](https://testflight.apple.com/join/92xnXQdZ)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T16:39:08.701Z
+**Categories:**
+
+
+**Name:** [foodora: Food Delivery](https://testflight.apple.com/join/bvN8GUcQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:39:08.737Z
+**Categories:**
+
+
+**Name:** [PatternMA](https://testflight.apple.com/join/5TImYsjh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:39:08.771Z
+**Categories:**
+
+
+**Name:** [SupaPro-UAT](https://testflight.apple.com/join/dfXZhhm9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:39:08.811Z
+**Categories:**
+
+
+**Name:** [Castamatic Podcast Player](https://testflight.apple.com/join/Uc63akXE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:39:08.846Z
+**Categories:**
+
+
+**Name:** [CosmicAI](https://testflight.apple.com/join/5MA2baD8)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:39:08.882Z
+**Categories:**
+
+
+**Name:** [Mobile Agent Dev](https://testflight.apple.com/join/gM9CGhpn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:39:08.917Z
+**Categories:**
+
+
+**Name:** [Euro Cup 2024 Score Predictor](https://testflight.apple.com/join/H1XDE4V9)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:39:08.951Z
+**Categories:**
+
+
+**Name:** [Mobius Template](https://testflight.apple.com/join/cISp06fo)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:39:08.987Z
+**Categories:**
+
+
