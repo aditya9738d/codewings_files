@@ -9431,3 +9431,73 @@
 **Categories:**
 
 
+**Name:** [Whalestream Flow](https://testflight.apple.com/join/muxvoB7l)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:26:12.694Z
+**Categories:**
+
+
+**Name:** [TILT Mobile BETA](https://testflight.apple.com/join/SporEXST)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:26:12.724Z
+**Categories:**
+
+
+**Name:** [ObjectDetection2](https://testflight.apple.com/join/Hv7T2Ozg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:26:12.753Z
+**Categories:**
+
+
+**Name:** [Scrcpy Remote](https://testflight.apple.com/join/9ZE6xhRt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:26:12.784Z
+**Categories:**
+
+
+**Name:** [KiwiCamera](https://testflight.apple.com/join/z7jwuTms)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:26:12.813Z
+**Categories:**
+
+
+**Name:** [MyMCash](https://testflight.apple.com/join/zD8SpM0H)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:26:12.843Z
+**Categories:**
+
+
+**Name:** [SVIBES](https://testflight.apple.com/join/rVjGsgdt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:26:12.873Z
+**Categories:**
+
+
+**Name:** [Swop - Connecting The World](https://testflight.apple.com/join/JFvrk5Qs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:26:12.902Z
+**Categories:**
+
+
+**Name:** [lipa wallet](https://testflight.apple.com/join/J4SmDW5N)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:26:12.931Z
+**Categories:**
+
+
+**Name:** [PaySika](https://testflight.apple.com/join/Y9WgJwBG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T13:26:12.961Z
+**Categories:**
+
+
