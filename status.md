@@ -25174,3 +25174,73 @@
 **Categories:**
 
 
+**Name:** [Cosmo Pic](https://testflight.apple.com/join/gXpYuS4R)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:03:09.926Z
+**Categories:**
+
+
+**Name:** [Pionex - Crypto Trading Bots](https://testflight.apple.com/join/61qN730h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:03:09.962Z
+**Categories:**
+
+
+**Name:** [Test - Service Ape](https://testflight.apple.com/join/v4iAsIiH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:03:09.998Z
+**Categories:**
+
+
+**Name:** [Roze Messenger](https://testflight.apple.com/join/6HCft1JH)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:03:10.033Z
+**Categories:**
+
+
+**Name:** [Singora](https://testflight.apple.com/join/ZauDAUft)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:03:10.070Z
+**Categories:**
+
+
+**Name:** [FIDS CSI](https://testflight.apple.com/join/nUbq3agO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:03:10.105Z
+**Categories:**
+
+
+**Name:** [Makerspace Zone](https://testflight.apple.com/join/dlxCMblc)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:03:10.140Z
+**Categories:**
+
+
+**Name:** [FoXray](https://testflight.apple.com/join/CcuVfzon)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:03:10.176Z
+**Categories:**
+
+
+**Name:** [PrioBike](https://testflight.apple.com/join/GXdqWpdn)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:03:10.212Z
+**Categories:**
+
+
+**Name:** [HERE Crypto Wallet](https://testflight.apple.com/join/osMqBAZ9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T17:03:10.247Z
+**Categories:**
+
+
