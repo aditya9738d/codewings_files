@@ -138,3 +138,73 @@
 **Categories:**
 
 
+**Name:** [RedZonkey - Fitness Buddy](https://testflight.apple.com/join/pdCu4V5w)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:52:10.398Z
+**Categories:**
+
+
+**Name:** [Redneck Bounce](https://testflight.apple.com/join/J1VIE1Md)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:52:10.435Z
+**Categories:**
+
+
+**Name:** [Reflect Notes](https://testflight.apple.com/join/v3yFxXaX)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:52:10.470Z
+**Categories:**
+
+
+**Name:** [Regula Document Reader](https://testflight.apple.com/join/3iOVYpeB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:52:10.508Z
+**Categories:**
+
+
+**Name:** [Rekwest: Song requests](https://testflight.apple.com/join/83BQyS5G)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:52:10.546Z
+**Categories:**
+
+
+**Name:** [Relocity (DEV)](https://testflight.apple.com/join/0KrzAGZV)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:52:10.582Z
+**Categories:**
+
+
+**Name:** [Reltime](https://testflight.apple.com/join/iG0Az2I3)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:52:10.619Z
+**Categories:**
+
+
+**Name:** [Renaissance Kingdoms](https://testflight.apple.com/join/KkFL0EvO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:52:10.655Z
+**Categories:**
+
+
+**Name:** [Renogy Diagnosis](https://testflight.apple.com/join/vmZcpfaL)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:52:10.691Z
+**Categories:**
+
+
+**Name:** [RentalBuddy](https://testflight.apple.com/join/E6dkYz1A)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:52:10.728Z
+**Categories:**
+
+
