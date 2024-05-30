@@ -2798,3 +2798,73 @@
 **Categories:**
 
 
+**Name:** [WATAFACT - Fun Facts Daily](https://testflight.apple.com/join/i5vvGb0O)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:33:07.387Z
+**Categories:**
+
+
+**Name:** [WDIC](https://testflight.apple.com/join/8svpgmwk)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:33:07.417Z
+**Categories:**
+
+
+**Name:** [WIN2RICH](https://testflight.apple.com/join/MHdioefr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:33:07.445Z
+**Categories:**
+
+
+**Name:** [WOW EARN: BTC & Crypto Wallet](https://testflight.apple.com/join/GPkKntJo)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:33:07.474Z
+**Categories:**
+
+
+**Name:** [WOWNOW -Food Delivery Shopping](https://testflight.apple.com/join/J7eBRagg)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:33:07.503Z
+**Categories:**
+
+
+**Name:** [WTPay-VCard](https://testflight.apple.com/join/KhagbfCX)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:33:07.532Z
+**Categories:**
+
+
+**Name:** [WaiterOne](https://testflight.apple.com/join/RzByKIma)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:33:07.561Z
+**Categories:**
+
+
+**Name:** [WaiterOne Remote](https://testflight.apple.com/join/yVrON1h7)
+**Click Count:** 0
+**Beta Available:** error
+**Last Checked:** 2024-05-30T21:33:07.589Z
+**Categories:**
+
+
+**Name:** [WalkingDoggo](https://testflight.apple.com/join/xiPCiYPS)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:33:07.619Z
+**Categories:**
+
+
+**Name:** [Walleri](https://testflight.apple.com/join/kex6mnjV)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:33:07.648Z
+**Categories:**
+
+
