@@ -20414,3 +20414,73 @@
 **Categories:**
 
 
+**Name:** [Dangify](https://testflight.apple.com/join/RvPeC0xU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:53:10.480Z
+**Categories:**
+
+
+**Name:** [OSS Document Scanner](https://testflight.apple.com/join/sxiV4ZKL)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:53:10.508Z
+**Categories:**
+
+
+**Name:** [EIMSApp](https://testflight.apple.com/join/3Xbgfcdq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:53:10.537Z
+**Categories:**
+
+
+**Name:** [Firewalla](https://testflight.apple.com/join/qtUnSjJp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:53:10.565Z
+**Categories:**
+
+
+**Name:** [BosMon Mobile](https://testflight.apple.com/join/maJOZ07a)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:53:10.594Z
+**Categories:**
+
+
+**Name:** [Cheatsheet Notes](https://testflight.apple.com/join/m84D5aUu)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:53:10.623Z
+**Categories:**
+
+
+**Name:** [WidgetWorks: Custom Widgets](https://testflight.apple.com/join/bc5frL3T)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T15:53:10.652Z
+**Categories:**
+
+
+**Name:** [KaraFun - Karaoke Singing](https://testflight.apple.com/join/zeZMtvcX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:53:10.680Z
+**Categories:**
+
+
+**Name:** [Oura](https://testflight.apple.com/join/NPhd6XTF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:53:10.706Z
+**Categories:**
+
+
+**Name:** [Zotero](https://testflight.apple.com/join/Rjyua6Mq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T15:53:10.734Z
+**Categories:**
+
+
