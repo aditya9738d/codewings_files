@@ -2868,3 +2868,73 @@
 **Categories:**
 
 
+**Name:** [Walletry](https://testflight.apple.com/join/zXT4XA9V)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:34:08.646Z
+**Categories:**
+
+
+**Name:** [WarehouseX](https://testflight.apple.com/join/9AzkMRFQ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:34:08.674Z
+**Categories:**
+
+
+**Name:** [Wataniya WiseDrive](https://testflight.apple.com/join/BDBVnvpv)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:34:08.702Z
+**Categories:**
+
+
+**Name:** [Water Taxis AUS - Skippers](https://testflight.apple.com/join/uncAa91l)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:34:08.730Z
+**Categories:**
+
+
+**Name:** [Watsons eDr UAT](https://testflight.apple.com/join/vAES6efH)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:34:08.760Z
+**Categories:**
+
+
+**Name:** [WeHear OX](https://testflight.apple.com/join/Wk3hRTbK)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:34:08.789Z
+**Categories:**
+
+
+**Name:** [WeShre-Private](https://testflight.apple.com/join/MFAluwhp)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:34:08.817Z
+**Categories:**
+
+
+**Name:** [WeTeach: منصة تعليمية](https://testflight.apple.com/join/o5bFrCvl)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:34:08.846Z
+**Categories:**
+
+
+**Name:** [Web3bank - Wallet](https://testflight.apple.com/join/0lAGJz5e)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:34:08.874Z
+**Categories:**
+
+
+**Name:** [WeechatRemote](https://testflight.apple.com/join/0jFsQpot)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:34:08.902Z
+**Categories:**
+
+
