@@ -6911,3 +6911,73 @@
 **Categories:**
 
 
+**Name:** [Cash App Pay Sandbox](https://testflight.apple.com/join/TZY8IaM9)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:49:10.443Z
+**Categories:**
+
+
+**Name:** [VirtuaSWAP](https://testflight.apple.com/join/62K9dz4Z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:49:10.471Z
+**Categories:**
+
+
+**Name:** [wiggler](https://testflight.apple.com/join/O6FzQSu2)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T12:49:10.506Z
+**Categories:**
+
+
+**Name:** [NOVABOT-TEST](https://testflight.apple.com/join/ParKxA0P)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:49:10.536Z
+**Categories:**
+
+
+**Name:** [Gluon for Micro.blog](https://testflight.apple.com/join/RwbLiFcR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:49:10.569Z
+**Categories:**
+
+
+**Name:** [Caesars Palace Online Casino](https://testflight.apple.com/join/moreVpRL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:49:10.597Z
+**Categories:**
+
+
+**Name:** [NotePlan - To-Do List & Notes](https://testflight.apple.com/join/fm9q4OjE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:49:10.625Z
+**Categories:**
+
+
+**Name:** [White Album](https://testflight.apple.com/join/L4NRSHp0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:49:10.654Z
+**Categories:**
+
+
+**Name:** [Windows App Preview](https://testflight.apple.com/join/YqNaYeyS)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:49:10.683Z
+**Categories:**
+
+
+**Name:** [ZingPlay Beta test](https://testflight.apple.com/join/CHlUL9QF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:49:10.711Z
+**Categories:**
+
+
