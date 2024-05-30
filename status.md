@@ -7331,3 +7331,73 @@
 **Categories:**
 
 
+**Name:** [EDU365 Trial](https://testflight.apple.com/join/DJLBMjhQ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:55:16.498Z
+**Categories:**
+
+
+**Name:** [myRLC home: Internal Launch](https://testflight.apple.com/join/S2P0Oegz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:55:16.527Z
+**Categories:**
+
+
+**Name:** [VeoTech](https://testflight.apple.com/join/TglhwVko)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:55:16.556Z
+**Categories:**
+
+
+**Name:** [BookPlayer](https://testflight.apple.com/join/xLDneJXN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:55:16.584Z
+**Categories:**
+
+
+**Name:** [Katinat Dev](https://testflight.apple.com/join/gTsntwor)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:55:16.612Z
+**Categories:**
+
+
+**Name:** [Piks | NFT Camera](https://testflight.apple.com/join/XYjRDTMy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:55:16.643Z
+**Categories:**
+
+
+**Name:** [Looks Like Rain](https://testflight.apple.com/join/wAkO0ddI)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:55:16.671Z
+**Categories:**
+
+
+**Name:** [map-creator](https://testflight.apple.com/join/SpKh9PiW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:55:16.700Z
+**Categories:**
+
+
+**Name:** [Downcast](https://testflight.apple.com/join/81Geh1jh)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:55:16.729Z
+**Categories:**
+
+
+**Name:** [AMT Remoto Mobile](https://testflight.apple.com/join/0vWOTv0G)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T12:55:16.756Z
+**Categories:**
+
+
