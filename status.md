@@ -449,3 +449,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:06:10.762Z
 
+**Name:** [Nachos and Movies](https://testflight.apple.com/join/doaG1qHl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:07:10.783Z
+
+**Name:** [Futy](https://testflight.apple.com/join/p27wWTGd)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:07:10.783Z
+
+**Name:** [Freebox Files](https://testflight.apple.com/join/T8Op14Wg)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:07:10.783Z
+
+**Name:** [ChatyN](https://testflight.apple.com/join/O1KUa1m3)
+**Click Count:** 72
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:07:10.783Z
+
+**Name:** [Cake Wallet](https://testflight.apple.com/join/f9yFYx9H)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:07:10.783Z
+
+**Name:** [RuBaRu](https://testflight.apple.com/join/mbz7OTlH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:07:10.783Z
+
+**Name:** [Hiddify](https://testflight.apple.com/join/e5OHNkaF)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:07:10.783Z
+
+**Name:** [ALVR](https://testflight.apple.com/join/YoK2nuX6)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:07:10.783Z
+
+**Name:** [TerraTrek](https://testflight.apple.com/join/7jIs4sEX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:07:10.783Z
+
+**Name:** [LipLok](https://testflight.apple.com/join/05UFXXqf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:07:10.783Z
+
