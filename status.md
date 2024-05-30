@@ -10372,3 +10372,73 @@
 **Categories:**
 
 
+**Name:** [Malice Mobile](https://testflight.apple.com/join/EGftPQfZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:23:08.564Z
+**Categories:**
+
+
+**Name:** [Shokz](https://testflight.apple.com/join/hkK6ANDy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:23:08.599Z
+**Categories:**
+
+
+**Name:** [Fixi BETA](https://testflight.apple.com/join/Ukxk4mhg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:23:08.635Z
+**Categories:**
+
+
+**Name:** [KioPay Mobile](https://testflight.apple.com/join/Aitx3oOS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:23:08.670Z
+**Categories:**
+
+
+**Name:** [OpenInYT](https://testflight.apple.com/join/k604MXnM)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-30T23:23:08.706Z
+**Categories:**
+
+
+**Name:** [Sandbox Fresh KDS](https://testflight.apple.com/join/yWR1751L)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:23:08.742Z
+**Categories:**
+
+
+**Name:** [MinuPlus](https://testflight.apple.com/join/Q1zPYbSZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:23:08.778Z
+**Categories:**
+
+
+**Name:** [SMEConnect](https://testflight.apple.com/join/RoiHSYUr)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:23:08.813Z
+**Categories:**
+
+
+**Name:** [Endpt](https://testflight.apple.com/join/emE0d6Mf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:23:08.849Z
+**Categories:**
+
+
+**Name:** [FarmMe Fantasy](https://testflight.apple.com/join/Jij73Mst)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T23:23:08.884Z
+**Categories:**
+
+
