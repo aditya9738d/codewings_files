@@ -35254,3 +35254,73 @@
 **Categories:**
 
 
+**Name:** [Digits: Sports News & Stats](https://testflight.apple.com/join/Yjr6CyCu)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:30:46.408Z
+**Categories:**
+
+
+**Name:** [Diligent Daily Habits](https://testflight.apple.com/join/N9P4sCtz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:30:46.444Z
+**Categories:**
+
+
+**Name:** [Dime: Budget & Expense Tracker](https://testflight.apple.com/join/5pjgVpyM)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:30:46.480Z
+**Categories:**
+
+
+**Name:** [Dino Ex](https://testflight.apple.com/join/sF0gLHJ8)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:30:46.518Z
+**Categories:**
+
+
+**Name:** [DiscDuck](https://testflight.apple.com/join/PENMqZbS)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:30:46.555Z
+**Categories:**
+
+
+**Name:** [Discogs](https://testflight.apple.com/join/MLrxqR4n)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:30:46.591Z
+**Categories:**
+
+
+**Name:** [DiscountExpress](https://testflight.apple.com/join/sQwWXn71)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:30:46.627Z
+**Categories:**
+
+
+**Name:** [Discover Culture AC](https://testflight.apple.com/join/HzUeAOlz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:30:46.664Z
+**Categories:**
+
+
+**Name:** [Distance Track](https://testflight.apple.com/join/yA1N8Ykd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T19:30:46.700Z
+**Categories:**
+
+
+**Name:** [DitSitRit-beta](https://testflight.apple.com/join/TsUNwLK1)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T19:30:46.737Z
+**Categories:**
+
+
