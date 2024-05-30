@@ -2049,3 +2049,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:38:11.120Z
 
+**Name:** [DR Expense Tracker](https://testflight.apple.com/join/pqWTpKCY)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:39:08.504Z
+
+**Name:** [Gamery - Game Tracker](https://testflight.apple.com/join/va16ipuj)
+**Click Count:** 29
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:39:08.504Z
+
+**Name:** [Disney DLP Preview](https://testflight.apple.com/join/b6bWpoHB)
+**Click Count:** 42
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:39:08.504Z
+
+**Name:** [Hookymia](https://testflight.apple.com/join/Myp9NrwZ)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:39:08.504Z
+
+**Name:** [Life360: Find Friends & Family](https://testflight.apple.com/join/syX6IOJF)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:39:08.504Z
+
+**Name:** [Slack](https://testflight.apple.com/join/QE3kgqJ2)
+**Click Count:** 14
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:39:08.504Z
+
+**Name:** [Minecraft Preview](https://testflight.apple.com/join/qC1ZnReJ)
+**Click Count:** 1862
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:39:08.504Z
+
+**Name:** [Leplace World](https://testflight.apple.com/join/WXZlJtL0)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:39:08.504Z
+
+**Name:** [CCS Mobile](https://testflight.apple.com/join/IAFHUVdV)
+**Click Count:** 23
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:39:08.504Z
+
+**Name:** [Nostrmo](https://testflight.apple.com/join/kvGz47De)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:39:08.504Z
+
