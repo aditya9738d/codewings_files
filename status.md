@@ -24054,3 +24054,73 @@
 **Categories:**
 
 
+**Name:** [DTV Game Control Matrix](https://testflight.apple.com/join/px0DZu7E)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:47:08.704Z
+**Categories:**
+
+
+**Name:** [LEX – Order Management System](https://testflight.apple.com/join/PYIZOMs1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:47:08.732Z
+**Categories:**
+
+
+**Name:** [NoesisHome Global](https://testflight.apple.com/join/u5eGmZAY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:47:08.761Z
+**Categories:**
+
+
+**Name:** [BinBoxAdmin](https://testflight.apple.com/join/0NPeMykm)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:47:08.790Z
+**Categories:**
+
+
+**Name:** [Rabo SmartPin](https://testflight.apple.com/join/O0AVpkcM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:47:08.818Z
+**Categories:**
+
+
+**Name:** [IntuU2 App](https://testflight.apple.com/join/W2ibKvZc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:47:08.848Z
+**Categories:**
+
+
+**Name:** [PAYable](https://testflight.apple.com/join/RHhWQxC1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:47:08.878Z
+**Categories:**
+
+
+**Name:** [Misty pro](https://testflight.apple.com/join/UpHFesdi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:47:08.906Z
+**Categories:**
+
+
+**Name:** [222](https://testflight.apple.com/join/SQemfP0O)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T16:47:08.935Z
+**Categories:**
+
+
+**Name:** [BCR Safi](https://testflight.apple.com/join/VLOxIPcE)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T16:47:08.963Z
+**Categories:**
+
+
