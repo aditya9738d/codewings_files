@@ -768,3 +768,73 @@
 **Categories:**
 
 
+**Name:** [Shiny Cards](https://testflight.apple.com/join/MIejZzhl)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:01:12.263Z
+**Categories:**
+
+
+**Name:** [Shmeal](https://testflight.apple.com/join/y59GQbLy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:01:12.299Z
+**Categories:**
+
+
+**Name:** [Shorts or Pants?](https://testflight.apple.com/join/Z1hbzqYg)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:01:12.335Z
+**Categories:**
+
+
+**Name:** [ShowMIDI](https://testflight.apple.com/join/kTNj26rK)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:01:12.370Z
+**Categories:**
+
+
+**Name:** [Showing Up](https://testflight.apple.com/join/iVFFyNAT)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T21:01:12.406Z
+**Categories:**
+
+
+**Name:** [Showplaces](https://testflight.apple.com/join/803WP9We)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:01:12.442Z
+**Categories:**
+
+
+**Name:** [Shred Crew](https://testflight.apple.com/join/S4vpMXJQ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:01:12.478Z
+**Categories:**
+
+
+**Name:** [Shuffle: Connecting students](https://testflight.apple.com/join/ngNRJnuz)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:01:12.514Z
+**Categories:**
+
+
+**Name:** [Siglota-Test](https://testflight.apple.com/join/OmeNBe5T)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:01:12.549Z
+**Categories:**
+
+
+**Name:** [SignScribe](https://testflight.apple.com/join/yeW1EozJ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T21:01:12.584Z
+**Categories:**
+
+
