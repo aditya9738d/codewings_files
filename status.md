@@ -196,3 +196,55 @@
 **Beta Available:** open
 **Last Checked:** undefined
 
+### App Status
+
+**Name:** [FoxCloud2.0](https://testflight.apple.com/join/MxSFUO60)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:43:45.584Z
+
+**Name:** [NS Travel Planner](https://testflight.apple.com/join/ldBwapIg)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-30T10:43:45.594Z
+
+**Name:** [Grindr - Gay Dating & Chat](https://testflight.apple.com/join/eO265vw7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:43:45.594Z
+
+**Name:** [Traini -Dog Training & AI Chat](https://testflight.apple.com/join/dA6l0fWU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:43:45.594Z
+
+**Name:** [phaze](https://testflight.apple.com/join/fkQWk37B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:43:45.594Z
+
+**Name:** [monteStory](https://testflight.apple.com/join/EkfsDlme)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:43:45.594Z
+
+**Name:** [Stork](https://testflight.apple.com/join/pOk0I70t)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:43:45.594Z
+
+**Name:** [stats.fm for Spotify Music App](https://testflight.apple.com/join/ATXJemn4)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:43:45.594Z
+
+**Name:** [Mythic Mischief](https://testflight.apple.com/join/Zm34KszI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:43:45.594Z
+
+**Name:** [Rachana Ranade Regional](https://testflight.apple.com/join/sp79yAyj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T10:43:45.594Z
+
