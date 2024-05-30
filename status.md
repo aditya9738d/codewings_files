@@ -8690,3 +8690,73 @@
 **Categories:**
 - Developer
 
+**Name:** [Super Fren: Super App for NFTs](https://testflight.apple.com/join/2IU6MlDR)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:59:10.378Z
+**Categories:**
+
+
+**Name:** [Family - Ethereum Wallet](https://testflight.apple.com/join/oUKAfJbr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:59:10.414Z
+**Categories:**
+
+
+**Name:** [Games - Manage your collection](https://testflight.apple.com/join/GbPsDyg4)
+**Click Count:** 21
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:59:10.451Z
+**Categories:**
+
+
+**Name:** [Simple Focus](https://testflight.apple.com/join/Gs80E65C)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:59:10.487Z
+**Categories:**
+
+
+**Name:** [Music Discovery with Fusion](https://testflight.apple.com/join/mgKIQ9hU)
+**Click Count:** 45
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:59:10.523Z
+**Categories:**
+- Music
+
+**Name:** [BetaMonkeyEmpire](https://testflight.apple.com/join/VhdGSRMd)
+**Click Count:** 43
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:59:10.558Z
+**Categories:**
+
+
+**Name:** [Axon 3](https://testflight.apple.com/join/MI1za2wg)
+**Click Count:** 34
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:59:10.594Z
+**Categories:**
+
+
+**Name:** [3D Scan Pro](https://testflight.apple.com/join/29NljUzy)
+**Click Count:** 13
+**Beta Available:** full
+**Last Checked:** 2024-05-30T22:59:10.632Z
+**Categories:**
+
+
+**Name:** [AppDab](https://testflight.apple.com/join/tMhEgIVI)
+**Click Count:** 55
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:59:10.668Z
+**Categories:**
+
+
+**Name:** [Supercut for Netflix](https://testflight.apple.com/join/FINyZ9Lh)
+**Click Count:** 161
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:59:10.704Z
+**Categories:**
+- Video
+
