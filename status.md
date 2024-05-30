@@ -1049,3 +1049,53 @@
 **Beta Available:** open
 **Last Checked:** 2024-05-30T11:18:10.697Z
 
+**Name:** [(Dev) Daikin ti premia](https://testflight.apple.com/join/19OkzluX)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:19:10.279Z
+
+**Name:** [Zeroqode Native Preview](https://testflight.apple.com/join/htav1QLA)
+**Click Count:** 5
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:19:10.279Z
+
+**Name:** [ngoc rong wow](https://testflight.apple.com/join/1UKBoVDU)
+**Click Count:** 17
+**Beta Available:** error
+**Last Checked:** 2024-05-30T11:19:10.279Z
+
+**Name:** [Windows App Mobile Preview](https://testflight.apple.com/join/q4ha2nsh)
+**Click Count:** 190
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:19:10.279Z
+
+**Name:** [SiYuan](https://testflight.apple.com/join/BBLHMJ4g)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:19:10.279Z
+
+**Name:** [Telenet TV](https://testflight.apple.com/join/nYWzw0px)
+**Click Count:** 31
+**Beta Available:** full
+**Last Checked:** 2024-05-30T11:19:10.279Z
+
+**Name:** [iPlayTV AIO](https://testflight.apple.com/join/irMsXGg0)
+**Click Count:** 30
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:19:10.279Z
+
+**Name:** [Deskmodder](https://testflight.apple.com/join/m0B6XJbE)
+**Click Count:** 9
+**Beta Available:** open
+**Last Checked:** 2024-05-30T11:19:10.279Z
+
+**Name:** [Knight](https://testflight.apple.com/join/bOzxqdei)
+**Click Count:** 15
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:19:10.279Z
+
+**Name:** [MyOrderApp Demo](https://testflight.apple.com/join/YzHlJoxQ)
+**Click Count:** 14
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T11:19:10.279Z
+
