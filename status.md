@@ -12861,3 +12861,73 @@
 **Categories:**
 
 
+**Name:** [Solfy](https://testflight.apple.com/join/WE3U3mGv)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T14:16:12.140Z
+**Categories:**
+
+
+**Name:** [Smart DigiBook](https://testflight.apple.com/join/2yvBp9cw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:16:12.168Z
+**Categories:**
+
+
+**Name:** [Closwap](https://testflight.apple.com/join/zuRQv3Dv)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-30T14:16:12.198Z
+**Categories:**
+
+
+**Name:** [CamDigiKey: ExternalDev](https://testflight.apple.com/join/Rmiw8D8h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:16:12.226Z
+**Categories:**
+
+
+**Name:** [Richter-Tools](https://testflight.apple.com/join/eNb6iMb1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:16:12.253Z
+**Categories:**
+
+
+**Name:** [Leboncoin](https://testflight.apple.com/join/6Bqlhlha)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:16:12.283Z
+**Categories:**
+
+
+**Name:** [Nos Social](https://testflight.apple.com/join/YBBlRWc8)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:16:12.310Z
+**Categories:**
+
+
+**Name:** [NCBA NOW TEST](https://testflight.apple.com/join/jRnz9Kxt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:16:12.339Z
+**Categories:**
+
+
+**Name:** [Menuverse](https://testflight.apple.com/join/9uKaannN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:16:12.367Z
+**Categories:**
+
+
+**Name:** [eSatsang Dayalbagh](https://testflight.apple.com/join/RlryJv2c)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-30T14:16:12.396Z
+**Categories:**
+
+
