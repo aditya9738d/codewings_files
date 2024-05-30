@@ -6915,3 +6915,73 @@
 **Categories:**
 
 
+**Name:** [Feditext](https://testflight.apple.com/join/3Ik3KBjj)
+**Click Count:** 10
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:32:11.258Z
+**Categories:**
+
+
+**Name:** [Steps+](https://testflight.apple.com/join/jNEMGh4b)
+**Click Count:** 3
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:32:11.293Z
+**Categories:**
+
+
+**Name:** [Zello Walkie Talkie](https://testflight.apple.com/join/2Tux4moG)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:32:11.328Z
+**Categories:**
+
+
+**Name:** [Camera Companion](https://testflight.apple.com/join/z18Ngj0N)
+**Click Count:** 31
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:32:11.365Z
+**Categories:**
+
+
+**Name:** [Innov8tifIDV](https://testflight.apple.com/join/ViWOvrlu)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:32:11.401Z
+**Categories:**
+
+
+**Name:** [Rumble Beans](https://testflight.apple.com/join/L8E6pwG8)
+**Click Count:** 22
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:32:11.437Z
+**Categories:**
+
+
+**Name:** [Revolut: Send, spend and save](https://testflight.apple.com/join/oqrinjQB)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:32:11.473Z
+**Categories:**
+
+
+**Name:** [YakiHonne](https://testflight.apple.com/join/tcXozZIu)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T22:32:11.508Z
+**Categories:**
+
+
+**Name:** [Balance: Meditation & Sleep](https://testflight.apple.com/join/5V7gW8Zc)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:32:11.544Z
+**Categories:**
+
+
+**Name:** [GameScent](https://testflight.apple.com/join/QMLqUfts)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-30T22:32:11.580Z
+**Categories:**
+
+
