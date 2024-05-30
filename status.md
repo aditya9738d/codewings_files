@@ -37494,3 +37494,73 @@
 **Categories:**
 
 
+**Name:** [Kikitrade: Social](https://testflight.apple.com/join/4HytpS8B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:04:09.427Z
+**Categories:**
+
+
+**Name:** [Kikoeru](https://testflight.apple.com/join/Zh9mreFq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:04:09.471Z
+**Categories:**
+
+
+**Name:** [KindnessMinute](https://testflight.apple.com/join/G6ndvT4R)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:04:09.498Z
+**Categories:**
+
+
+**Name:** [Kinnu Labs](https://testflight.apple.com/join/jg5G5XCe)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:04:09.526Z
+**Categories:**
+
+
+**Name:** [Kinopio](https://testflight.apple.com/join/VoN2TmsM)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:04:09.555Z
+**Categories:**
+
+
+**Name:** [Kip: Track Scores](https://testflight.apple.com/join/IBM0brlE)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:04:09.583Z
+**Categories:**
+
+
+**Name:** [Klewos](https://testflight.apple.com/join/3cLBFt5K)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:04:09.610Z
+**Categories:**
+
+
+**Name:** [KlickTalk](https://testflight.apple.com/join/QICyie9e)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:04:09.639Z
+**Categories:**
+
+
+**Name:** [KlipC](https://testflight.apple.com/join/sb8EbOpI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-30T20:04:09.667Z
+**Categories:**
+
+
+**Name:** [Knob-UserApp](https://testflight.apple.com/join/cOrChT47)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-30T20:04:09.696Z
+**Categories:**
+
+
