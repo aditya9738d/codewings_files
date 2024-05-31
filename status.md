@@ -18002,3 +18002,73 @@
 **Categories:**
 
 
+**Name:** [Diligent: Minimal Daily Habits](https://testflight.apple.com/join/N9P4sCtz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:15:21.004Z
+**Categories:**
+
+
+**Name:** [Room 4™](https://testflight.apple.com/join/P7q8o1bb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:15:21.040Z
+**Categories:**
+
+
+**Name:** [CharMap — Unicode Characters](https://testflight.apple.com/join/jhiYnxfr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:15:21.077Z
+**Categories:**
+
+
+**Name:** [MedPal-AI](https://testflight.apple.com/join/MQIM3fFZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:15:21.112Z
+**Categories:**
+
+
+**Name:** [WW.Rocket.Chat](https://testflight.apple.com/join/tgoNx3rx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:15:21.148Z
+**Categories:**
+
+
+**Name:** [KeePassium (KeePass passwords)](https://testflight.apple.com/join/y8R6iLlK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:15:21.184Z
+**Categories:**
+
+
+**Name:** [EMobile7](https://testflight.apple.com/join/zzkHHQtj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:15:21.220Z
+**Categories:**
+
+
+**Name:** [ConnectEBT(UAT)](https://testflight.apple.com/join/qolQIhD4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:15:21.256Z
+**Categories:**
+
+
+**Name:** [TCL Connect](https://testflight.apple.com/join/aAJoEr9z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:15:21.292Z
+**Categories:**
+
+
+**Name:** [Goverland - All DAOs, One App](https://testflight.apple.com/join/RXPCZXIg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:15:21.328Z
+**Categories:**
+
+
