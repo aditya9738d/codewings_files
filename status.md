@@ -36517,3 +36517,73 @@
 **Categories:**
 
 
+**Name:** [BSO E-Account](https://testflight.apple.com/join/d5GG9TFx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:32:09.874Z
+**Categories:**
+
+
+**Name:** [AutoresetApp](https://testflight.apple.com/join/nuvbfzot)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:32:09.902Z
+**Categories:**
+
+
+**Name:** [SoCatch](https://testflight.apple.com/join/vRHeAY5a)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T05:32:09.929Z
+**Categories:**
+
+
+**Name:** [Aerofly FS Global](https://testflight.apple.com/join/O2K1t3YG)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:32:09.957Z
+**Categories:**
+
+
+**Name:** [Autooth](https://testflight.apple.com/join/da8mRQpG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:32:09.985Z
+**Categories:**
+
+
+**Name:** [Keeper for Safari](https://testflight.apple.com/join/OlJmNYgR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:32:10.014Z
+**Categories:**
+
+
+**Name:** [Jollibee Vietnam](https://testflight.apple.com/join/1UIcKV1S)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:32:10.042Z
+**Categories:**
+
+
+**Name:** [Isoping](https://testflight.apple.com/join/uuAp0qkj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:32:10.070Z
+**Categories:**
+
+
+**Name:** [FPT.AI eKYC](https://testflight.apple.com/join/k76YlAcP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:32:10.097Z
+**Categories:**
+
+
+**Name:** [OurSphere](https://testflight.apple.com/join/aXh71uMm)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:32:10.125Z
+**Categories:**
+
+
