@@ -29762,3 +29762,73 @@
 **Categories:**
 
 
+**Name:** [CE+ Consorcio Express](https://testflight.apple.com/join/jhyyNNmH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:04:12.653Z
+**Categories:**
+
+
+**Name:** [DEXSuperX](https://testflight.apple.com/join/e0wl8gtO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:04:12.689Z
+**Categories:**
+
+
+**Name:** [Coincall：Crypto Option&Futures](https://testflight.apple.com/join/bGq6o0ii)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:04:12.724Z
+**Categories:**
+
+
+**Name:** [TiTum](https://testflight.apple.com/join/N6qigwAa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:04:12.759Z
+**Categories:**
+
+
+**Name:** [Payoo Sandbox](https://testflight.apple.com/join/pZWZU3Mq)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:04:12.794Z
+**Categories:**
+
+
+**Name:** [ACE 3.0 DEV](https://testflight.apple.com/join/nw2c6rbI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:04:12.830Z
+**Categories:**
+
+
+**Name:** [RV Trip Co-pilot](https://testflight.apple.com/join/diODCvtt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:04:12.865Z
+**Categories:**
+
+
+**Name:** [iInfringe](https://testflight.apple.com/join/djyMKWo0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:04:12.900Z
+**Categories:**
+
+
+**Name:** [Wallet 2.0](https://testflight.apple.com/join/yzAhUXGV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:04:12.936Z
+**Categories:**
+
+
+**Name:** [Ellie - Daily Planner](https://testflight.apple.com/join/mX1G5TQi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:04:12.971Z
+**Categories:**
+
+
