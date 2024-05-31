@@ -20102,3 +20102,73 @@
 **Categories:**
 
 
+**Name:** [Shrimoney Hybrid](https://testflight.apple.com/join/d3wuMKFK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:45:24.511Z
+**Categories:**
+
+
+**Name:** [HomeService Dev](https://testflight.apple.com/join/7uaqsLKw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:45:24.547Z
+**Categories:**
+
+
+**Name:** [La Positiva Dev](https://testflight.apple.com/join/R4EiypuH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:45:24.582Z
+**Categories:**
+
+
+**Name:** [Intershop IMS](https://testflight.apple.com/join/inGQxXgH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:45:24.616Z
+**Categories:**
+
+
+**Name:** [ArgoFX](https://testflight.apple.com/join/qZEwvILg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:45:24.651Z
+**Categories:**
+
+
+**Name:** [TrainAsONE- AI Running Plans](https://testflight.apple.com/join/lJ1z2chB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:45:24.686Z
+**Categories:**
+
+
+**Name:** [AJC News](https://testflight.apple.com/join/42iYI2ir)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:45:24.721Z
+**Categories:**
+
+
+**Name:** [Docutain SDK ShowCase](https://testflight.apple.com/join/EJy6I3ZE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:45:24.757Z
+**Categories:**
+
+
+**Name:** [Sales Plus](https://testflight.apple.com/join/s3hBNGSM)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:45:24.792Z
+**Categories:**
+
+
+**Name:** [LightSum](https://testflight.apple.com/join/8AdtGd1b)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:45:24.827Z
+**Categories:**
+
+
