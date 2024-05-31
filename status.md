@@ -22552,3 +22552,73 @@
 **Categories:**
 
 
+**Name:** [Simulado Nu](https://testflight.apple.com/join/zgPIXQHg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:20:21.381Z
+**Categories:**
+
+
+**Name:** [VNU-Office](https://testflight.apple.com/join/z2lXJjX3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:20:21.416Z
+**Categories:**
+
+
+**Name:** [manage4ALL](https://testflight.apple.com/join/0P4qUQYr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:20:21.445Z
+**Categories:**
+
+
+**Name:** [Native: AI Writer](https://testflight.apple.com/join/ATBHGCjf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:20:21.473Z
+**Categories:**
+
+
+**Name:** [Homefood Gobio](https://testflight.apple.com/join/q13iLakJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:20:21.501Z
+**Categories:**
+
+
+**Name:** [WorkFlowy: Note, List, Outline](https://testflight.apple.com/join/9lWfy4UJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:20:21.531Z
+**Categories:**
+
+
+**Name:** [DateStamper](https://testflight.apple.com/join/1SjoJEhx)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:20:21.560Z
+**Categories:**
+
+
+**Name:** [Hadge](https://testflight.apple.com/join/rFLkfNSu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:20:21.588Z
+**Categories:**
+
+
+**Name:** [Grow Rural](https://testflight.apple.com/join/mhBAdLUe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:20:21.616Z
+**Categories:**
+
+
+**Name:** [Faithlife Study Bible](https://testflight.apple.com/join/FNWhic7i)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:20:21.644Z
+**Categories:**
+
+
