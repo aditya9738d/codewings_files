@@ -23326,3 +23326,147 @@ Last Checked: 2024-05-31T21:11:12.255Z
 Categories:
 
 
+Name: RZChatMobile
+Url: https://testflight.apple.com/join/dZ7sTdyY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bf/e6/a7/bfe6a701-cac1-f803-7e3b-a5043d2cdae9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 19
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.314Z
+Categories:
+
+
+Name: Arctic For Lemmy
+Url: https://testflight.apple.com/join/ddFR6MQo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/83/68/e08368c0-2706-2873-d036-221514561855/AppIcon-0-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.342Z
+Categories:
+
+
+Name: My Genie: Personality AI
+Url: https://testflight.apple.com/join/Hl5wgodr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/20/ed/8a/20ed8a46-7a9d-cfe5-e8a7-456955e06ed7/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.371Z
+Categories:
+
+
+Name: Printer Setup Tool
+Url: https://testflight.apple.com/join/drvGMmgX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/32/c6/41/32c64141-292f-ceff-e1fb-c202ad7927d1/AppIcon-utax-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.399Z
+Categories:
+
+
+Name: PRINCE Merchant QA
+Url: https://testflight.apple.com/join/Yzi70jTM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/85/04/3d850411-f9fc-673f-eaa4-d176ebfe1602/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.426Z
+Categories:
+
+
+Name: Flying Lap F1
+Url: https://testflight.apple.com/join/2ubEielm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/25/06/71/250671db-f499-38c9-3cdc-43c70c03ef8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-05-31T21:12:12.454Z
+Categories:
+
+
+Name: NT IPTV
+Url: https://testflight.apple.com/join/ShJAiPMD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/01/a9/2e01a998-0691-4d66-35f5-61418bdce77d/AppIcon-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.482Z
+Categories:
+
+
+Name: Matter Verifier
+Url: https://testflight.apple.com/join/6BYFuCrW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7d/97/27/7d9727b7-8ce3-5bbe-a265-973b8cb1504f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.510Z
+Categories:
+
+
+Name: Elite Quiz
+Url: https://testflight.apple.com/join/sRD6VDm1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/70/bd/4170bd0c-e0c5-c3b4-80cc-3f29ec728fc1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.537Z
+Categories:
+
+
+Name: Accor ALL - sandbox
+Url: https://testflight.apple.com/join/DroAuuwu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/c0/9d/b9c09d66-76f4-1207-ba2d-5416c19a7a9b/AppIcon.sandbox-development-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.565Z
+Categories:
+
+
+Name: EasyVFR 4
+Url: https://testflight.apple.com/join/Zxbi0Hof
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/1b/21/0e1b2178-f5fc-764a-e5d9-9eefe63c5e1d/Brand_Assets-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.601Z
+Categories:
+
+
+Name: SoProp UAT
+Url: https://testflight.apple.com/join/VbnXX6cD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/df/00/9fdf00d3-76d5-3610-5123-d5e73ece1916/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.629Z
+Categories:
+
+
+Name: idealo - Price Comparison
+Url: https://testflight.apple.com/join/P8TWxiFT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/b4/0d/cab40d37-2d78-bcac-5903-613400ffbea5/AppIcon-0-0-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.657Z
+Categories:
+
+
+Name: Home Health Check
+Url: https://testflight.apple.com/join/nfKbmd7J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/34/8d/ce348d1f-0e1a-c4cb-c690-4f33e3d71b02/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.684Z
+Categories:
+
+
+Name: HikLink
+Url: https://testflight.apple.com/join/k3DLVKFM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/3e/62/bf3e6252-537b-0e23-faed-8df6730fafc3/AppIcon-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.713Z
+Categories:
+
+
+Name: B&D  Bakery&Delicacies
+Url: https://testflight.apple.com/join/fgonb2eQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2d/09/5b/2d095b43-8069-25ec-9edf-422cf19a3b5c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T21:12:12.741Z
+Categories:
+
+
