@@ -427,3 +427,73 @@ Categories:
 **Categories:**
 
 
+**Name:** [Aloha Browser: Private VPN](https://testflight.apple.com/join/Xh9VNQoA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:29:52.322Z
+**Categories:**
+
+
+**Name:** [AlphaEnergyCapital](https://testflight.apple.com/join/DEtEmmac)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:29:52.350Z
+**Categories:**
+
+
+**Name:** [Alphonso](https://testflight.apple.com/join/Gs8UC1bR)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:52.378Z
+**Categories:**
+
+
+**Name:** [Amaziograph](https://testflight.apple.com/join/3Ma3OWrG)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:52.404Z
+**Categories:**
+
+
+**Name:** [Amazon Location Demo](https://testflight.apple.com/join/zh52FrVh)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:52.432Z
+**Categories:**
+
+
+**Name:** [Amber](https://testflight.apple.com/join/W1O5WlMR)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:52.459Z
+**Categories:**
+
+
+**Name:** [Amiilog - Collect 'em all](https://testflight.apple.com/join/JapWWVAI)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:52.486Z
+**Categories:**
+
+
+**Name:** [Amity - Social Music Player](https://testflight.apple.com/join/vcSr1T3x)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:52.514Z
+**Categories:**
+
+
+**Name:** [Amphetamine](https://testflight.apple.com/join/GeZMOAsG)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:52.542Z
+**Categories:**
+
+
+**Name:** [Amway Healthy Home](https://testflight.apple.com/join/lupWGyPQ)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:52.569Z
+**Categories:**
+
+
