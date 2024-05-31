@@ -18422,3 +18422,73 @@
 **Categories:**
 
 
+**Name:** [Reeder 5.](https://testflight.apple.com/join/2w63KOGS)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:21:09.236Z
+**Categories:**
+
+
+**Name:** [Pixelfed](https://testflight.apple.com/join/dNcLnb1n)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:21:09.272Z
+**Categories:**
+
+
+**Name:** [Veritas Market](https://testflight.apple.com/join/8kksZ7jU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:21:09.308Z
+**Categories:**
+
+
+**Name:** [ABC Self Order Plus](https://testflight.apple.com/join/xtxVUgmp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:21:09.343Z
+**Categories:**
+
+
+**Name:** [ISAI Cloud](https://testflight.apple.com/join/nylJX8pq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:21:09.380Z
+**Categories:**
+
+
+**Name:** [Passio Nutrition-AI Demo](https://testflight.apple.com/join/E8X1SS5l)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:21:09.416Z
+**Categories:**
+
+
+**Name:** [DTalks](https://testflight.apple.com/join/QhTCjaUQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:21:09.452Z
+**Categories:**
+
+
+**Name:** [HICity Fusen Dev](https://testflight.apple.com/join/krqiRZOU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:21:09.488Z
+**Categories:**
+
+
+**Name:** [KSBB Universe](https://testflight.apple.com/join/kxNZnqHu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:21:09.523Z
+**Categories:**
+
+
+**Name:** [Bouncie](https://testflight.apple.com/join/wdcTwUbX)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:21:09.559Z
+**Categories:**
+
+
