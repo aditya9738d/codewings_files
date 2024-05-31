@@ -22972,3 +22972,73 @@
 **Categories:**
 
 
+**Name:** [Dolphin EasyReader](https://testflight.apple.com/join/oFGxAFUO)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T02:26:09.888Z
+**Categories:**
+
+
+**Name:** [Spot Rust](https://testflight.apple.com/join/jsPKt1ze)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:26:09.916Z
+**Categories:**
+
+
+**Name:** [MoreApp Forms](https://testflight.apple.com/join/RmKhWWuG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:26:09.944Z
+**Categories:**
+
+
+**Name:** [Planningify : Work timesheet](https://testflight.apple.com/join/jBdYWPvN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:26:09.972Z
+**Categories:**
+
+
+**Name:** [ottrade](https://testflight.apple.com/join/gHgPyqaC)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T02:26:10.001Z
+**Categories:**
+
+
+**Name:** [Shift](https://testflight.apple.com/join/Dq4zhRbr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:26:10.030Z
+**Categories:**
+
+
+**Name:** [The Guardian Editions](https://testflight.apple.com/join/O2EojUEl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:26:10.057Z
+**Categories:**
+
+
+**Name:** [WTB Market](https://testflight.apple.com/join/Cb9SBDz0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:26:10.085Z
+**Categories:**
+
+
+**Name:** [OuttaWRLD](https://testflight.apple.com/join/sVSZ34kL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:26:10.113Z
+**Categories:**
+
+
+**Name:** [Relatica](https://testflight.apple.com/join/GvzYnAwn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:26:10.140Z
+**Categories:**
+
+
