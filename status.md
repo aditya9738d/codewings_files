@@ -35712,3 +35712,108 @@
 **Categories:**
 
 
+**Name:** [AMManagementContact](https://testflight.apple.com/join/7tSZJPL7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:30.050Z
+**Categories:**
+
+
+**Name:** [McDonald's Japan](https://testflight.apple.com/join/Hv4ansIj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:30.327Z
+**Categories:**
+
+
+**Name:** [Boson: Headphones Control](https://testflight.apple.com/join/A5KoHhPO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:30.600Z
+**Categories:**
+
+
+**Name:** [Wooforoof](https://testflight.apple.com/join/BnAhjG8W)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:30.971Z
+**Categories:**
+
+
+**Name:** [PlayerChat](https://testflight.apple.com/join/r6H9YvY4)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:31.282Z
+**Categories:**
+
+
+**Name:** [iEventTimer](https://testflight.apple.com/join/u7rYMxYN)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T05:21:31.580Z
+**Categories:**
+
+
+**Name:** [Thepha Doctor 2024](https://testflight.apple.com/join/FCzRgd3u)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:31.893Z
+**Categories:**
+
+
+**Name:** [Wicked Pay](https://testflight.apple.com/join/xzu2aLo1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:32.201Z
+**Categories:**
+
+
+**Name:** [Yr beta](https://testflight.apple.com/join/Me9nxl5B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:32.508Z
+**Categories:**
+
+
+**Name:** [Culture Drive](https://testflight.apple.com/join/68m4jiFo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:32.920Z
+**Categories:**
+
+
+**Name:** [Picme - Get the Real Picture.](https://testflight.apple.com/join/MmJ4tvUr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:33.196Z
+**Categories:**
+
+
+**Name:** [BeUs](https://testflight.apple.com/join/dRdvY8tY)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T05:21:33.530Z
+**Categories:**
+
+
+**Name:** [DiscoCat: Discography Catalog](https://testflight.apple.com/join/Ej6BjCOX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:33.806Z
+**Categories:**
+
+
+**Name:** [Emerging Wealth](https://testflight.apple.com/join/d8gZfHIF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:34.081Z
+**Categories:**
+
+
+**Name:** [Galaxy Mix - Planet Watermelon](https://testflight.apple.com/join/jiUTaOLn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:21:34.357Z
+**Categories:**
+
+
