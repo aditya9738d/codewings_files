@@ -19682,3 +19682,73 @@
 **Categories:**
 
 
+**Name:** [Aroraboll](https://testflight.apple.com/join/kkhcYE3O)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:39:10.358Z
+**Categories:**
+
+
+**Name:** [ProSafeT](https://testflight.apple.com/join/eORSQW4B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:39:10.394Z
+**Categories:**
+
+
+**Name:** [DoAI](https://testflight.apple.com/join/jmD319UT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:39:10.429Z
+**Categories:**
+
+
+**Name:** [Seafi](https://testflight.apple.com/join/iLhMYCOC)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:39:10.467Z
+**Categories:**
+
+
+**Name:** [Gentler](https://testflight.apple.com/join/wSH4p6PU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:39:10.503Z
+**Categories:**
+
+
+**Name:** [AI-Chef](https://testflight.apple.com/join/cWx9R8OK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:39:10.540Z
+**Categories:**
+
+
+**Name:** [OfficeSuite Sheets](https://testflight.apple.com/join/i5vRfqkD)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:39:10.575Z
+**Categories:**
+
+
+**Name:** [KryptoPoker](https://testflight.apple.com/join/Mv3vEy0C)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:39:10.611Z
+**Categories:**
+
+
+**Name:** [LNDU+](https://testflight.apple.com/join/TBR0bOOL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:39:10.646Z
+**Categories:**
+
+
+**Name:** [Samsung Shop](https://testflight.apple.com/join/FVoXfI5R)
+**Click Count:** 4
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:39:10.681Z
+**Categories:**
+
+
