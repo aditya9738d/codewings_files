@@ -15342,3 +15342,73 @@
 **Categories:**
 
 
+**Name:** [csl.](https://testflight.apple.com/join/JhvirvMs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:36:10.478Z
+**Categories:**
+
+
+**Name:** [SuperNews: custom news app](https://testflight.apple.com/join/SKj6fn5k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:36:10.505Z
+**Categories:**
+
+
+**Name:** [iBoot - StartupDisk shortcut](https://testflight.apple.com/join/yjWEwvq1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:36:10.534Z
+**Categories:**
+
+
+**Name:** [Whalestream Flow](https://testflight.apple.com/join/muxvoB7l)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:36:10.562Z
+**Categories:**
+
+
+**Name:** [TILT Mobile BETA](https://testflight.apple.com/join/SporEXST)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:36:10.589Z
+**Categories:**
+
+
+**Name:** [ObjectDetection2](https://testflight.apple.com/join/Hv7T2Ozg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:36:10.617Z
+**Categories:**
+
+
+**Name:** [Scrcpy Remote](https://testflight.apple.com/join/9ZE6xhRt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:36:10.646Z
+**Categories:**
+
+
+**Name:** [KiwiCamera](https://testflight.apple.com/join/z7jwuTms)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:36:10.673Z
+**Categories:**
+
+
+**Name:** [MyMCash](https://testflight.apple.com/join/zD8SpM0H)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:36:10.701Z
+**Categories:**
+
+
+**Name:** [SVIBES](https://testflight.apple.com/join/rVjGsgdt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:36:10.729Z
+**Categories:**
+
+
