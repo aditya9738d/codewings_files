@@ -15762,3 +15762,73 @@
 **Categories:**
 
 
+**Name:** [Kagi for Safari](https://testflight.apple.com/join/nx6Gvf4h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:43:08.608Z
+**Categories:**
+
+
+**Name:** [Swords!](https://testflight.apple.com/join/7jREn7Ry)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:43:08.636Z
+**Categories:**
+
+
+**Name:** [LazyBoard - Phrase Keyboard](https://testflight.apple.com/join/yus6zCQ0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:43:08.664Z
+**Categories:**
+
+
+**Name:** [Encointer Wallet](https://testflight.apple.com/join/LFuSsdwT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:43:08.692Z
+**Categories:**
+
+
+**Name:** [ECOVACS HOME](https://testflight.apple.com/join/gVXPtPlb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:43:08.721Z
+**Categories:**
+
+
+**Name:** [Microsoft Lists](https://testflight.apple.com/join/FL3caOg6)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:43:08.749Z
+**Categories:**
+
+
+**Name:** [Temu: Shop Like a Billionaire](https://testflight.apple.com/join/x6U6zcbR)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T00:43:08.777Z
+**Categories:**
+
+
+**Name:** [Wagon](https://testflight.apple.com/join/M2xoL0bC)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:43:08.805Z
+**Categories:**
+
+
+**Name:** [glimpse - photo dumps](https://testflight.apple.com/join/L4owCuqX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:43:08.835Z
+**Categories:**
+
+
+**Name:** [VIT SelfCare](https://testflight.apple.com/join/XNCFbDIf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:43:08.862Z
+**Categories:**
+
+
