@@ -18492,3 +18492,73 @@
 **Categories:**
 
 
+**Name:** [Reumathic](https://testflight.apple.com/join/V5VOYEL6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:22:09.925Z
+**Categories:**
+
+
+**Name:** [FarmByte Staging](https://testflight.apple.com/join/GsQTRWNJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:22:09.961Z
+**Categories:**
+
+
+**Name:** [Orka Health](https://testflight.apple.com/join/7X0HDPNR)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:22:09.997Z
+**Categories:**
+
+
+**Name:** [Diarly: Private Daily Journal](https://testflight.apple.com/join/g2vQL47L)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:22:10.033Z
+**Categories:**
+
+
+**Name:** [WidgetWall](https://testflight.apple.com/join/naLuk9N3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:22:10.069Z
+**Categories:**
+
+
+**Name:** [Sunsama](https://testflight.apple.com/join/ga9gmSns)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:22:10.105Z
+**Categories:**
+
+
+**Name:** [Rapid Rift](https://testflight.apple.com/join/93txVXhO)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:22:10.142Z
+**Categories:**
+
+
+**Name:** [Amagno.App](https://testflight.apple.com/join/tOXJC8Kf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:22:10.179Z
+**Categories:**
+
+
+**Name:** [Simon Care Management](https://testflight.apple.com/join/MF81MpPL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:22:10.215Z
+**Categories:**
+
+
+**Name:** [Light of Coco](https://testflight.apple.com/join/nURS8Hx2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:22:10.250Z
+**Categories:**
+
+
