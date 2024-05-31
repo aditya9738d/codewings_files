@@ -14852,3 +14852,73 @@
 **Categories:**
 
 
+**Name:** [Aloha Browser - Private VPN](https://testflight.apple.com/join/Xh9VNQoA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:29:08.993Z
+**Categories:**
+
+
+**Name:** [SOLD](https://testflight.apple.com/join/S8htmnA6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:29:09.020Z
+**Categories:**
+
+
+**Name:** [Tiny-Fins](https://testflight.apple.com/join/AKKsWpCM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:29:09.047Z
+**Categories:**
+
+
+**Name:** [OzRunways EFB](https://testflight.apple.com/join/CAr9bOXm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:29:09.075Z
+**Categories:**
+
+
+**Name:** [Mela - Recipe Manager](https://testflight.apple.com/join/JXPIqwTR)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T00:29:09.102Z
+**Categories:**
+
+
+**Name:** [PDF Owl](https://testflight.apple.com/join/5JBMctKj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:29:09.129Z
+**Categories:**
+
+
+**Name:** [Repeat One](https://testflight.apple.com/join/pnP3yVv3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:29:09.157Z
+**Categories:**
+
+
+**Name:** [Pixel Odyssey](https://testflight.apple.com/join/Ow7mpJUQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:29:09.184Z
+**Categories:**
+
+
+**Name:** [Class Chat EDU](https://testflight.apple.com/join/755Uk1kT)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:29:09.211Z
+**Categories:**
+
+
+**Name:** [Salon Realtor](https://testflight.apple.com/join/8w0EiIFt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:29:09.239Z
+**Categories:**
+
+
