@@ -1,9 +1,9 @@
-## Beem: Video and Audio calls
-- **Link**: https://testflight.apple.com/join/EdedfTyW
+## Soro - For Sonos
+- **Link**: https://testflight.apple.com/join/kZxRJCNw
 - **Click Count**: 0
-- **Beta Available**: open
+- **Beta Available**: full
 
-## Boulder Logbook
-- **Link**: https://testflight.apple.com/join/mfbctDHE
+## Genesis Intelligent Assistant
+- **Link**: https://testflight.apple.com/join/Jw6NmgWd
 - **Click Count**: 0
 - **Beta Available**: open
