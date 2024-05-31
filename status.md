@@ -22692,3 +22692,73 @@
 **Categories:**
 
 
+**Name:** [Leon Delivery](https://testflight.apple.com/join/A1LvEoG0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:22:09.331Z
+**Categories:**
+
+
+**Name:** [Smantry: Smart pantry](https://testflight.apple.com/join/gNSUhCi2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:22:09.360Z
+**Categories:**
+
+
+**Name:** [RealityGuard](https://testflight.apple.com/join/WUOiuC2s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:22:09.392Z
+**Categories:**
+
+
+**Name:** [CellTrust SL2](https://testflight.apple.com/join/n5uZn1bW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:22:09.421Z
+**Categories:**
+
+
+**Name:** [Migaku - Learn Languages](https://testflight.apple.com/join/LtFkhwCk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:22:09.449Z
+**Categories:**
+
+
+**Name:** [App HawkSystem](https://testflight.apple.com/join/qnr6YaRx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:22:09.477Z
+**Categories:**
+
+
+**Name:** [Mapxus Map Sample](https://testflight.apple.com/join/2jp7G7pc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:22:09.514Z
+**Categories:**
+
+
+**Name:** [WG Compass](https://testflight.apple.com/join/QwqZBSmJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:22:09.557Z
+**Categories:**
+
+
+**Name:** [Crypto Raiders](https://testflight.apple.com/join/fqOxLyvt)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:22:09.586Z
+**Categories:**
+
+
+**Name:** [QBMT Study app](https://testflight.apple.com/join/MKPhU3Dk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:22:09.617Z
+**Categories:**
+
+
