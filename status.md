@@ -21852,3 +21852,73 @@
 **Categories:**
 
 
+**Name:** [Vult DEV](https://testflight.apple.com/join/DCXRcJAD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:10:26.690Z
+**Categories:**
+
+
+**Name:** [Notion - notes, docs, tasks](https://testflight.apple.com/join/YSo8aVCS)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T02:10:26.726Z
+**Categories:**
+
+
+**Name:** [Jeep®](https://testflight.apple.com/join/YGQinHIa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:10:26.762Z
+**Categories:**
+
+
+**Name:** [StarEx - Buy Bitcoin](https://testflight.apple.com/join/XsgTpGZF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:10:26.797Z
+**Categories:**
+
+
+**Name:** [MadPay](https://testflight.apple.com/join/1959Lqzn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:10:26.832Z
+**Categories:**
+
+
+**Name:** [Planetary Social](https://testflight.apple.com/join/M9hPo1gA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:10:26.870Z
+**Categories:**
+
+
+**Name:** [MusicSync for Home Assistant](https://testflight.apple.com/join/4nCUW4lI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:10:26.905Z
+**Categories:**
+
+
+**Name:** [Filmlog](https://testflight.apple.com/join/ywiozhph)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:10:26.941Z
+**Categories:**
+
+
+**Name:** [Metacast: Podcast Player](https://testflight.apple.com/join/5ubyRzbg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:10:26.976Z
+**Categories:**
+
+
+**Name:** [MySecretCase](https://testflight.apple.com/join/oqovz2xl)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T02:10:27.012Z
+**Categories:**
+
+
