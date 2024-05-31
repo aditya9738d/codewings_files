@@ -17442,3 +17442,73 @@
 **Categories:**
 
 
+**Name:** [Uzmart Seller](https://testflight.apple.com/join/ZjHulxhx)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T01:07:08.168Z
+**Categories:**
+
+
+**Name:** [Sofa: Downtime Organizer](https://testflight.apple.com/join/rKbEXs1C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:07:08.207Z
+**Categories:**
+
+
+**Name:** [iTravel Check-In](https://testflight.apple.com/join/zDGpXjRC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:07:08.243Z
+**Categories:**
+
+
+**Name:** [Reading List: Book Tracker](https://testflight.apple.com/join/pceGkOgP)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:07:08.279Z
+**Categories:**
+
+
+**Name:** [Glance for Plausible](https://testflight.apple.com/join/hG0MV7FC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:07:08.315Z
+**Categories:**
+
+
+**Name:** [Merlion](https://testflight.apple.com/join/FHqco8og)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:07:08.351Z
+**Categories:**
+
+
+**Name:** [Iframe App](https://testflight.apple.com/join/hH8qBRVA)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:07:08.387Z
+**Categories:**
+
+
+**Name:** [Drafts](https://testflight.apple.com/join/Req1Hfo7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:07:08.424Z
+**Categories:**
+
+
+**Name:** [My MobiFone](https://testflight.apple.com/join/sJerfO8I)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:07:08.459Z
+**Categories:**
+
+
+**Name:** [DTLive](https://testflight.apple.com/join/NrPgK6wi)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:07:08.499Z
+**Categories:**
+
+
