@@ -34032,3 +34032,73 @@
 **Categories:**
 
 
+**Name:** [GoodGain - Campeonatos Online](https://testflight.apple.com/join/DH5AVXQ0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:06:10.739Z
+**Categories:**
+
+
+**Name:** [Sunrider Demo](https://testflight.apple.com/join/antJitui)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:06:10.775Z
+**Categories:**
+
+
+**Name:** [Pitel Connect](https://testflight.apple.com/join/0iU7OKQX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:06:10.811Z
+**Categories:**
+
+
+**Name:** [xDrip Bubble](https://testflight.apple.com/join/SsUhF4ub)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T05:06:10.848Z
+**Categories:**
+
+
+**Name:** [Grafana OnCall](https://testflight.apple.com/join/mGMAjYml)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:06:10.884Z
+**Categories:**
+
+
+**Name:** [amblelog](https://testflight.apple.com/join/QNFW8iVT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:06:10.920Z
+**Categories:**
+
+
+**Name:** [Pouchii](https://testflight.apple.com/join/66oJM3yD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:06:10.955Z
+**Categories:**
+
+
+**Name:** [Solar Wallet](https://testflight.apple.com/join/bwSpe2P9)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:06:10.993Z
+**Categories:**
+
+
+**Name:** [CC App](https://testflight.apple.com/join/Ap7kRs7W)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:06:11.029Z
+**Categories:**
+
+
+**Name:** [VinHMS Staff](https://testflight.apple.com/join/VPHTX6OH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:06:11.065Z
+**Categories:**
+
+
