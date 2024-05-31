@@ -19052,3 +19052,73 @@
 **Categories:**
 
 
+**Name:** [QTGoing](https://testflight.apple.com/join/meDoBAsu)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:30:43.937Z
+**Categories:**
+
+
+**Name:** [Faithlife Ebooks](https://testflight.apple.com/join/uOB3MBmz)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:30:43.973Z
+**Categories:**
+
+
+**Name:** [Stumbll](https://testflight.apple.com/join/t3cwnmJw)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:30:44.009Z
+**Categories:**
+
+
+**Name:** [Essistant WApp (mobile)](https://testflight.apple.com/join/nMG0FnVy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:30:44.045Z
+**Categories:**
+
+
+**Name:** [BenchApp - Sports Team Manager](https://testflight.apple.com/join/iJVviXVl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:30:44.081Z
+**Categories:**
+
+
+**Name:** [Mochi Pets - Cute Pet Widget](https://testflight.apple.com/join/XhrDhcFH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:30:44.121Z
+**Categories:**
+
+
+**Name:** [Tunna](https://testflight.apple.com/join/dqMoJObA)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:30:44.157Z
+**Categories:**
+
+
+**Name:** [Bombay App](https://testflight.apple.com/join/wqwvP37T)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:30:44.193Z
+**Categories:**
+
+
+**Name:** [Samply - Listen & Share](https://testflight.apple.com/join/ACiAGB0g)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:30:44.229Z
+**Categories:**
+
+
+**Name:** [Duolingo - Language Lessons](https://testflight.apple.com/join/Sq8bYSnJ)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:30:44.265Z
+**Categories:**
+
+
