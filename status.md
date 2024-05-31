@@ -20592,3 +20592,73 @@
 **Categories:**
 
 
+**Name:** [eTicket Famille](https://testflight.apple.com/join/1ZDAyKFI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:52:11.328Z
+**Categories:**
+
+
+**Name:** [[S]VitaDairy](https://testflight.apple.com/join/96Fj74GD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:52:11.363Z
+**Categories:**
+
+
+**Name:** [odinMusicPlayer](https://testflight.apple.com/join/S43IfU6b)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:52:11.399Z
+**Categories:**
+
+
+**Name:** [MocPOGO](https://testflight.apple.com/join/0HdQYsQF)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:52:11.434Z
+**Categories:**
+
+
+**Name:** [DLIS Traning](https://testflight.apple.com/join/RGmurNCT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:52:11.470Z
+**Categories:**
+
+
+**Name:** [Workout Sessions](https://testflight.apple.com/join/dDSurLeT)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:52:11.505Z
+**Categories:**
+
+
+**Name:** [Watch to 5K - Couch to 5K plan](https://testflight.apple.com/join/y8yGWqbj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:52:11.540Z
+**Categories:**
+
+
+**Name:** [iNFC](https://testflight.apple.com/join/rb51qZ8N)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:52:11.575Z
+**Categories:**
+
+
+**Name:** [Visionboard: Your Status Bar](https://testflight.apple.com/join/Gg0Pk5MM)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T01:52:11.610Z
+**Categories:**
+
+
+**Name:** [Jeedom App](https://testflight.apple.com/join/jB60tOol)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:52:11.646Z
+**Categories:**
+
+
