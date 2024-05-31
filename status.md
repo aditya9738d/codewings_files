@@ -20032,3 +20032,73 @@
 **Categories:**
 
 
+**Name:** [Livraria Lello](https://testflight.apple.com/join/gZ8Ay0Q7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:44:12.388Z
+**Categories:**
+
+
+**Name:** [Hayat Finans](https://testflight.apple.com/join/P6Proc7g)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:44:12.423Z
+**Categories:**
+
+
+**Name:** [1Team.mn](https://testflight.apple.com/join/ODgTgRrY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:44:12.458Z
+**Categories:**
+
+
+**Name:** [StraboSpot2](https://testflight.apple.com/join/RHM31xfL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:44:12.496Z
+**Categories:**
+
+
+**Name:** [CheckHWPlus](https://testflight.apple.com/join/dHntzkGb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:44:12.531Z
+**Categories:**
+
+
+**Name:** [Club Wizard](https://testflight.apple.com/join/iWBdAqET)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:44:12.567Z
+**Categories:**
+
+
+**Name:** [eduID](https://testflight.apple.com/join/Ogk1TxKu)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T01:44:12.602Z
+**Categories:**
+
+
+**Name:** [SEPHORA Bra Staging](https://testflight.apple.com/join/0paAIDFp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:44:12.637Z
+**Categories:**
+
+
+**Name:** [BotGem](https://testflight.apple.com/join/NVP0zRFW)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:44:12.673Z
+**Categories:**
+
+
+**Name:** [chargEV UAT](https://testflight.apple.com/join/lygg1Zkv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:44:12.709Z
+**Categories:**
+
+
