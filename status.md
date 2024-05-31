@@ -21782,3 +21782,73 @@
 **Categories:**
 
 
+**Name:** [Atividades CESAT](https://testflight.apple.com/join/iZuYcaED)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:09:09.321Z
+**Categories:**
+
+
+**Name:** [FM Chat](https://testflight.apple.com/join/2YkUXwk7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:09:09.349Z
+**Categories:**
+
+
+**Name:** [glinet](https://testflight.apple.com/join/8XEBMu8T)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:09:09.377Z
+**Categories:**
+
+
+**Name:** [AdvisorZone](https://testflight.apple.com/join/563RDDqZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:09:09.406Z
+**Categories:**
+
+
+**Name:** [CRAFT - the Social Beer App](https://testflight.apple.com/join/oD1kIq3s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:09:09.433Z
+**Categories:**
+
+
+**Name:** [MWeb - Markdown Writing, Notes](https://testflight.apple.com/join/XDGRHrm3)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T02:09:09.461Z
+**Categories:**
+
+
+**Name:** [RoseStation](https://testflight.apple.com/join/J0cvhgqw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:09:09.489Z
+**Categories:**
+
+
+**Name:** [Square Kitchen Display System](https://testflight.apple.com/join/3pkewqyV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:09:09.519Z
+**Categories:**
+
+
+**Name:** [Fastastic](https://testflight.apple.com/join/MmhnoVae)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T02:09:09.570Z
+**Categories:**
+
+
+**Name:** [Geo Gods](https://testflight.apple.com/join/zTAdypfH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:09:09.610Z
+**Categories:**
+
+
