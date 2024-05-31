@@ -33542,3 +33542,73 @@
 **Categories:**
 
 
+**Name:** [Cobo Crypto Wallet: BTC & DASH](https://testflight.apple.com/join/AjCO87zA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:59:10.541Z
+**Categories:**
+
+
+**Name:** [SIFU Dev](https://testflight.apple.com/join/vbNwMlKz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:59:10.568Z
+**Categories:**
+
+
+**Name:** [Audit App](https://testflight.apple.com/join/g2fS8AHA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:59:10.597Z
+**Categories:**
+
+
+**Name:** [Innovative Libraries](https://testflight.apple.com/join/Wd2F7SO5)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T04:59:10.625Z
+**Categories:**
+
+
+**Name:** [ZEEKR](https://testflight.apple.com/join/lyu3rgmd)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:59:10.654Z
+**Categories:**
+
+
+**Name:** [eGov Mobile](https://testflight.apple.com/join/ml5B60m8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:59:10.682Z
+**Categories:**
+
+
+**Name:** [Loungebird](https://testflight.apple.com/join/86myR6st)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-31T04:59:10.710Z
+**Categories:**
+
+
+**Name:** [Microsoft Word](https://testflight.apple.com/join/hw76phYi)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T04:59:10.739Z
+**Categories:**
+
+
+**Name:** [Fraction Steps: Learn Visually](https://testflight.apple.com/join/VhzZ7q96)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:59:10.767Z
+**Categories:**
+
+
+**Name:** [Kacam](https://testflight.apple.com/join/FlJ1GV2u)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:59:10.794Z
+**Categories:**
+
+
