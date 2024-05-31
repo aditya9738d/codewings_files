@@ -12751,3 +12751,131 @@ Beta Available: not accepting
 Last Checked: 2024-05-31T08:17:08.836Z
 Categories:
 
+Name: SwiftTask
+Url: https://testflight.apple.com/join/uPYoVBBN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/db/76/05db76ee-25cc-b1d4-2805-7df5520963ac/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.444Z
+Categories:
+
+Name: GoEffects
+Url: https://testflight.apple.com/join/76TbaVKJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b3/d0/9ab3d017-3a68-47e1-5d0d-2b2a7890a22e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.479Z
+Categories:
+
+Name: 云宝加速器
+Url: https://testflight.apple.com/join/nBkljFCK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/09/26/a909266d-0124-943a-1e47-3b9d789c9a70/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.515Z
+Categories:
+
+Name: Thập Đại Anh Hùng 2
+Url: https://testflight.apple.com/join/NAG6vC6N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/fd/49/80fd4913-d739-6708-eb21-5007e3300a0d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.550Z
+Categories:
+
+Name: Composer: Automate Trades
+Url: https://testflight.apple.com/join/nnQC498c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/b8/7b34b805-7b67-97d7-e85d-7ff38a8a9f80/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.585Z
+Categories:
+
+Name: Học Viện TuVi Việt Nam
+Url: https://testflight.apple.com/join/rFMlokwB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/6e/b3/636eb3eb-bda3-0a89-3525-6b1c18d09a29/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.621Z
+Categories:
+
+Name: KSAS（クボタスマートアグリシステム）
+Url: https://testflight.apple.com/join/9qAbc8OZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/4a/0d/394a0d8f-f72c-3bd5-a2de-0f86f3ce6951/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.656Z
+Categories:
+
+Name: 中国移动云盘-全民不限速
+Url: https://testflight.apple.com/join/cR3t7Cnj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/8f/bf/028fbfb6-ccea-3298-01cd-6ae7e10ff908/AppIcon-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.692Z
+Categories:
+
+Name: Rồng Thần Online
+Url: https://testflight.apple.com/join/k8584n03
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/fb/46/abfb466f-6a33-f63f-d5b7-a01b9293835e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.727Z
+Categories:
+
+Name: 思拓新闻
+Url: https://testflight.apple.com/join/jbVM8nuq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/47/34/03473451-bfd5-15d9-d04b-0d9092df7179/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.763Z
+Categories:
+
+Name: 棋路-象棋课堂
+Url: https://testflight.apple.com/join/s9SdLije
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/47/fd/6347fdfd-d951-7dd7-aaf5-5a9ad5dedd4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.799Z
+Categories:
+
+Name: WeChat
+Url: https://testflight.apple.com/join/xHCJ0qBT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/12/e1/9012e10b-7eac-bd36-23d7-e24f372c976d/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 25
+Beta Available: full
+Last Checked: 2024-05-31T08:18:14.835Z
+Categories:
+
+Name: 逢客签
+Url: https://testflight.apple.com/join/H39dsyzG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/d6/99/22d69906-8c45-fa85-4c81-ca190bdfcc09/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.871Z
+Categories:
+
+Name: 葫芦娃-经典再现
+Url: https://testflight.apple.com/join/mE4SHGvn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.907Z
+Categories:
+
+Name: 老虎国际
+Url: https://testflight.apple.com/join/27Pw9M0d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/be/42/23be425b-be1a-eaef-cfd5-53812eacfe20/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.942Z
+Categories:
+
+Name: Starship -Your Stars On GitHub
+Url: https://testflight.apple.com/join/748P3fGS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b7/c4/78/b7c478a4-c72e-19a8-a60c-230903f62e64/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T08:18:14.978Z
+Categories:
+
