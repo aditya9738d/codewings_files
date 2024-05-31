@@ -30742,3 +30742,73 @@
 **Categories:**
 
 
+**Name:** [Supercopy for Safari](https://testflight.apple.com/join/NnJV6ZTU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:18:11.540Z
+**Categories:**
+
+
+**Name:** [Manga x Manga VHS](https://testflight.apple.com/join/kgpmIC7f)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T04:18:11.582Z
+**Categories:**
+
+
+**Name:** [AI Partner PLUS](https://testflight.apple.com/join/cBIec0Ml)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:18:11.618Z
+**Categories:**
+
+
+**Name:** [Axolotl Reader](https://testflight.apple.com/join/6NURI03h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:18:11.654Z
+**Categories:**
+
+
+**Name:** [Symbolsaurus](https://testflight.apple.com/join/37LGuo07)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:18:11.689Z
+**Categories:**
+
+
+**Name:** [Krono Timeline History Trivia](https://testflight.apple.com/join/Q8uh1VUt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:18:11.725Z
+**Categories:**
+
+
+**Name:** [TOPTAXI Driver](https://testflight.apple.com/join/2yiFM7xT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:18:11.761Z
+**Categories:**
+
+
+**Name:** [Asana: Work in one place](https://testflight.apple.com/join/ts6Q3gjw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:18:11.797Z
+**Categories:**
+
+
+**Name:** [Y Combinator](https://testflight.apple.com/join/TrHIcvNN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:18:11.834Z
+**Categories:**
+
+
+**Name:** [Moon FM - The Podcasts App](https://testflight.apple.com/join/c6NtF2xP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:18:11.870Z
+**Categories:**
+
+
