@@ -33192,3 +33192,73 @@
 **Categories:**
 
 
+**Name:** [Toast Now](https://testflight.apple.com/join/O2iSXotz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:54:10.626Z
+**Categories:**
+
+
+**Name:** [Trip.com: Book Flights, Hotels](https://testflight.apple.com/join/M2HUqe2P)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:54:10.654Z
+**Categories:**
+
+
+**Name:** [the week: share your cal](https://testflight.apple.com/join/Mvkb3NXg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:54:10.682Z
+**Categories:**
+
+
+**Name:** [Lichess beta](https://testflight.apple.com/join/WEurB7MT)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:54:10.710Z
+**Categories:**
+
+
+**Name:** [Pick Up My Meds](https://testflight.apple.com/join/IHnTq0bA)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:54:10.738Z
+**Categories:**
+
+
+**Name:** [Exify](https://testflight.apple.com/join/EpGlutqv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:54:10.766Z
+**Categories:**
+
+
+**Name:** [SuperOffice Mobile CRM](https://testflight.apple.com/join/VaSLz5VC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:54:10.795Z
+**Categories:**
+
+
+**Name:** [Cash App](https://testflight.apple.com/join/An0RiOFF)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:54:10.823Z
+**Categories:**
+
+
+**Name:** [Scarlett: Skincare Assistant](https://testflight.apple.com/join/MFwjG3FV)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T04:54:10.852Z
+**Categories:**
+
+
+**Name:** [Swisscom myCloud](https://testflight.apple.com/join/Y5pOcWGk)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:54:10.879Z
+**Categories:**
+
+
