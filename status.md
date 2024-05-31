@@ -12962,3 +12962,73 @@
 **Categories:**
 
 
+**Name:** [NotePlan - To-Do List & Notes](https://testflight.apple.com/join/fm9q4OjE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:00:50.410Z
+**Categories:**
+
+
+**Name:** [White Album](https://testflight.apple.com/join/L4NRSHp0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:00:50.437Z
+**Categories:**
+
+
+**Name:** [Windows App Preview](https://testflight.apple.com/join/YqNaYeyS)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:00:50.465Z
+**Categories:**
+
+
+**Name:** [ZingPlay Beta test](https://testflight.apple.com/join/CHlUL9QF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:00:50.493Z
+**Categories:**
+
+
+**Name:** [Smart Sale 2](https://testflight.apple.com/join/k3Vi2v0i)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:00:50.521Z
+**Categories:**
+
+
+**Name:** [Birding Local](https://testflight.apple.com/join/sfVJt2aY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:00:50.548Z
+**Categories:**
+
+
+**Name:** [FasTrack Fasting](https://testflight.apple.com/join/oWlQDcE8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:00:50.576Z
+**Categories:**
+
+
+**Name:** [Destinations and more Stg](https://testflight.apple.com/join/kdUD3voB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:00:50.603Z
+**Categories:**
+
+
+**Name:** [Sabertooth for Mastodon](https://testflight.apple.com/join/pBGgMKw2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:00:50.632Z
+**Categories:**
+
+
+**Name:** [Meshtastic DFU](https://testflight.apple.com/join/cRJK8Gyh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:00:50.659Z
+**Categories:**
+
+
