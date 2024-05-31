@@ -497,3 +497,73 @@
 **Categories:**
 
 
+**Name:** [Banking4](https://testflight.apple.com/join/qeJYyYT7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:08:25.251Z
+**Categories:**
+
+
+**Name:** [AU 0101: Savings, Credit, UPI](https://testflight.apple.com/join/gKA8xV1a)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:08:25.549Z
+**Categories:**
+
+
+**Name:** [LIGA TV](https://testflight.apple.com/join/xCCxzUo2)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:08:25.840Z
+**Categories:**
+
+
+**Name:** [Actionary](https://testflight.apple.com/join/SqjfVM7g)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:08:26.137Z
+**Categories:**
+
+
+**Name:** [TV Forecast: Shows & Movies](https://testflight.apple.com/join/NYFJ36tq)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T06:08:26.444Z
+**Categories:**
+
+
+**Name:** [Mornin Key](https://testflight.apple.com/join/jNMEhKU4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:08:26.737Z
+**Categories:**
+
+
+**Name:** [Prompt Care-STG](https://testflight.apple.com/join/7FsZJnG4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:08:27.022Z
+**Categories:**
+
+
+**Name:** [FieldEdge 3](https://testflight.apple.com/join/Sn5ZlSry)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:08:27.328Z
+**Categories:**
+
+
+**Name:** [winTwins](https://testflight.apple.com/join/hvem47iU)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:08:27.652Z
+**Categories:**
+
+
+**Name:** [Open Food Facts - Product Scan](https://testflight.apple.com/join/c2tiBHgd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:08:27.945Z
+**Categories:**
+
+
