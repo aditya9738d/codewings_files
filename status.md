@@ -36657,3 +36657,73 @@
 **Categories:**
 
 
+**Name:** [Skinmate](https://testflight.apple.com/join/uowK2yZc)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:34:09.138Z
+**Categories:**
+
+
+**Name:** [Vega Hotel](https://testflight.apple.com/join/K90OmD3e)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:34:09.166Z
+**Categories:**
+
+
+**Name:** [Amato: Friendship Tracker CRM](https://testflight.apple.com/join/vYS3QkMe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:34:09.194Z
+**Categories:**
+
+
+**Name:** [3CX](https://testflight.apple.com/join/5MPjSs2T)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:34:09.221Z
+**Categories:**
+
+
+**Name:** [Lysten: Podcast Player](https://testflight.apple.com/join/7VS128LY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:34:09.249Z
+**Categories:**
+
+
+**Name:** [iPhoneMOBPOS](https://testflight.apple.com/join/HhNUDjSr)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:34:09.278Z
+**Categories:**
+
+
+**Name:** [Ponder: AI-powered Meditation](https://testflight.apple.com/join/tx2UzBdu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:34:09.306Z
+**Categories:**
+
+
+**Name:** [August International](https://testflight.apple.com/join/WslmLnd2)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T05:34:09.335Z
+**Categories:**
+
+
+**Name:** [AdonisBots](https://testflight.apple.com/join/0w5l6DOd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:34:09.363Z
+**Categories:**
+
+
+**Name:** [StrideTech GO](https://testflight.apple.com/join/M2imAzCP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:34:09.390Z
+**Categories:**
+
+
