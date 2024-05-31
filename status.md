@@ -21222,3 +21222,73 @@
 **Categories:**
 
 
+**Name:** [Everand: Ebooks and audiobooks](https://testflight.apple.com/join/hJZY2QeX)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T02:01:10.381Z
+**Categories:**
+
+
+**Name:** [Secolink Pro](https://testflight.apple.com/join/5rvPhg4s)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:01:10.409Z
+**Categories:**
+
+
+**Name:** [My MTG Collection](https://testflight.apple.com/join/QzRFLcGW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:01:10.439Z
+**Categories:**
+
+
+**Name:** [SuperFan](https://testflight.apple.com/join/4K5j8EXQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:01:10.468Z
+**Categories:**
+
+
+**Name:** [Givamaze (Dev)](https://testflight.apple.com/join/yXsSCmuy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:01:10.498Z
+**Categories:**
+
+
+**Name:** [ntv Nachrichten](https://testflight.apple.com/join/n65TDvGb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:01:10.527Z
+**Categories:**
+
+
+**Name:** [MP CRM](https://testflight.apple.com/join/NqTN0JgK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:01:10.557Z
+**Categories:**
+
+
+**Name:** [HelloFresh: Meal Kit Delivery](https://testflight.apple.com/join/zwhJ2o6f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:01:10.586Z
+**Categories:**
+
+
+**Name:** [Doppi: the nicest music player](https://testflight.apple.com/join/eMHoOSsL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:01:10.615Z
+**Categories:**
+
+
+**Name:** [Unicorn Pro:Privacy & Adblock](https://testflight.apple.com/join/Lr1vIu8x)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:01:10.644Z
+**Categories:**
+
+
