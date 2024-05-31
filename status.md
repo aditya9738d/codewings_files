@@ -14082,3 +14082,73 @@
 **Categories:**
 
 
+**Name:** [Kasa Smart](https://testflight.apple.com/join/AvhWfwqs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:16:10.142Z
+**Categories:**
+
+
+**Name:** [D2C AR App](https://testflight.apple.com/join/watR3OOS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:16:10.177Z
+**Categories:**
+
+
+**Name:** [Tactic Legends](https://testflight.apple.com/join/OnRQLDUN)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:16:10.213Z
+**Categories:**
+
+
+**Name:** [The CHAMP Plan](https://testflight.apple.com/join/ktFCgVLx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:16:10.250Z
+**Categories:**
+
+
+**Name:** [ScaleSmith (BS Magic)](https://testflight.apple.com/join/488x1Sk4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:16:10.285Z
+**Categories:**
+
+
+**Name:** [Flamingo Dating](https://testflight.apple.com/join/nXXHuaiX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:16:10.320Z
+**Categories:**
+
+
+**Name:** [Exxar Huddle](https://testflight.apple.com/join/9eFpiPaZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:16:10.355Z
+**Categories:**
+
+
+**Name:** [Reoqoo](https://testflight.apple.com/join/nYpiuvD4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:16:10.390Z
+**Categories:**
+
+
+**Name:** [Loco: Live Game Streaming](https://testflight.apple.com/join/KBJzjxSJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:16:10.427Z
+**Categories:**
+
+
+**Name:** [Strum Machine Beta](https://testflight.apple.com/join/eabHfWMa)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:16:10.462Z
+**Categories:**
+
+
