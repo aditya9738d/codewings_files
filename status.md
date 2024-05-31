@@ -18352,3 +18352,73 @@
 **Categories:**
 
 
+**Name:** [Neuro Goal](https://testflight.apple.com/join/U3XgZKM9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:20:20.742Z
+**Categories:**
+
+
+**Name:** [Simple Pay Global](https://testflight.apple.com/join/Y8z5REP2)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T01:20:20.778Z
+**Categories:**
+
+
+**Name:** [SierraBooks Invoices](https://testflight.apple.com/join/KZx6AD22)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:20:20.814Z
+**Categories:**
+
+
+**Name:** [Gibber - Communicate, Easily](https://testflight.apple.com/join/JbcYsfUF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:20:20.849Z
+**Categories:**
+
+
+**Name:** [My Friendly Eyes](https://testflight.apple.com/join/6dtvM8cp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:20:20.886Z
+**Categories:**
+
+
+**Name:** [Elloro – Mindshift & Wellness](https://testflight.apple.com/join/46vnnSnh)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T01:20:20.922Z
+**Categories:**
+
+
+**Name:** [Drivometer](https://testflight.apple.com/join/LKnK7eup)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:20:20.958Z
+**Categories:**
+
+
+**Name:** [MaaS360 Browser](https://testflight.apple.com/join/NBp8ZCtV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:20:20.994Z
+**Categories:**
+
+
+**Name:** [Reaslo](https://testflight.apple.com/join/90I3yOHf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:20:21.029Z
+**Categories:**
+
+
+**Name:** [Homey — A better smart home](https://testflight.apple.com/join/tA2e9vby)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:20:21.066Z
+**Categories:**
+
+
