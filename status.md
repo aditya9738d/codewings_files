@@ -22622,3 +22622,73 @@
 **Categories:**
 
 
+**Name:** [MyJuno- Group chat translation](https://testflight.apple.com/join/17GkczkW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:21:07.902Z
+**Categories:**
+
+
+**Name:** [NepTunes for iTunes & Spotify](https://testflight.apple.com/join/5ZWNA7Mn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:21:07.930Z
+**Categories:**
+
+
+**Name:** [Screener Task](https://testflight.apple.com/join/PrZRzx5d)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:21:07.957Z
+**Categories:**
+
+
+**Name:** [5Chat](https://testflight.apple.com/join/VZ9DJRQ2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:21:07.986Z
+**Categories:**
+
+
+**Name:** [Snitch!](https://testflight.apple.com/join/rjnkyxgl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:21:08.014Z
+**Categories:**
+
+
+**Name:** [SharPay](https://testflight.apple.com/join/bUjQPXgh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:21:08.042Z
+**Categories:**
+
+
+**Name:** [WatchTube](https://testflight.apple.com/join/hiYWRRqq)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T02:21:08.070Z
+**Categories:**
+
+
+**Name:** [Lifetime: TV Shows & Movies](https://testflight.apple.com/join/teq9lCJC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:21:08.100Z
+**Categories:**
+
+
+**Name:** [FindMe Show](https://testflight.apple.com/join/1jsXHD60)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:21:08.128Z
+**Categories:**
+
+
+**Name:** [tomedo Praxissoftware](https://testflight.apple.com/join/SO0klpxy)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:21:08.155Z
+**Categories:**
+
+
