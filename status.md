@@ -18772,3 +18772,73 @@
 **Categories:**
 
 
+**Name:** [VIP Station](https://testflight.apple.com/join/lIHB40dx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:26:11.968Z
+**Categories:**
+
+
+**Name:** [Nect TEST](https://testflight.apple.com/join/e9QJ1gzZ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:26:12.003Z
+**Categories:**
+
+
+**Name:** [Ida](https://testflight.apple.com/join/4WvvUAuu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:26:12.039Z
+**Categories:**
+
+
+**Name:** [Solfy](https://testflight.apple.com/join/WE3U3mGv)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T01:26:12.075Z
+**Categories:**
+
+
+**Name:** [Smart DigiBook](https://testflight.apple.com/join/2yvBp9cw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:26:12.110Z
+**Categories:**
+
+
+**Name:** [Closwap](https://testflight.apple.com/join/zuRQv3Dv)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:26:12.146Z
+**Categories:**
+
+
+**Name:** [CamDigiKey: ExternalDev](https://testflight.apple.com/join/Rmiw8D8h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:26:12.182Z
+**Categories:**
+
+
+**Name:** [Richter-Tools](https://testflight.apple.com/join/eNb6iMb1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:26:12.217Z
+**Categories:**
+
+
+**Name:** [Leboncoin](https://testflight.apple.com/join/6Bqlhlha)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:26:12.253Z
+**Categories:**
+
+
+**Name:** [Nos Social](https://testflight.apple.com/join/YBBlRWc8)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:26:12.289Z
+**Categories:**
+
+
