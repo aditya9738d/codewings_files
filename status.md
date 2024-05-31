@@ -15482,3 +15482,73 @@
 **Categories:**
 
 
+**Name:** [Bluecherry Mobile](https://testflight.apple.com/join/GM0CxkME)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T00:39:12.564Z
+**Categories:**
+
+
+**Name:** [VoisUWM](https://testflight.apple.com/join/DeRdeul7)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:39:12.596Z
+**Categories:**
+
+
+**Name:** [YesX.](https://testflight.apple.com/join/FFzx6ttQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:39:12.624Z
+**Categories:**
+
+
+**Name:** [Flexer](https://testflight.apple.com/join/4Tzz5co9)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:39:12.652Z
+**Categories:**
+
+
+**Name:** [Morpher: Trading and Investing](https://testflight.apple.com/join/bpqEWAq2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:39:12.680Z
+**Categories:**
+
+
+**Name:** [AnyGo](https://testflight.apple.com/join/7brbunBZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:39:12.711Z
+**Categories:**
+
+
+**Name:** [AnkiMobile Flashcards](https://testflight.apple.com/join/awbk2iH2)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T00:39:12.738Z
+**Categories:**
+
+
+**Name:** [Razer Audio](https://testflight.apple.com/join/E4ADmQFT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:39:12.766Z
+**Categories:**
+
+
+**Name:** [Property Finder — Real Estate](https://testflight.apple.com/join/ctQoX4vC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:39:12.795Z
+**Categories:**
+
+
+**Name:** [Marker - YouTube Chapters](https://testflight.apple.com/join/L0Mh507n)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:39:12.824Z
+**Categories:**
+
+
