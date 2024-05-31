@@ -15062,3 +15062,73 @@
 **Categories:**
 
 
+**Name:** [OneTap Check-In](https://testflight.apple.com/join/oKKFSzxX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:32:10.033Z
+**Categories:**
+
+
+**Name:** [Safer VPN](https://testflight.apple.com/join/vYK0Uvhz)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:32:10.069Z
+**Categories:**
+
+
+**Name:** [Livetec Biosecurity [STG]](https://testflight.apple.com/join/vMUbpW6j)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:32:10.105Z
+**Categories:**
+
+
+**Name:** [Centralimo](https://testflight.apple.com/join/4uancpdF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:32:10.141Z
+**Categories:**
+
+
+**Name:** [Dr. MOOVES A&D](https://testflight.apple.com/join/jCIEAVMk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:32:10.178Z
+**Categories:**
+
+
+**Name:** [UniFi Protect](https://testflight.apple.com/join/EkFJsGvX)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:32:10.215Z
+**Categories:**
+
+
+**Name:** [Microsoft Defender: Security](https://testflight.apple.com/join/AYVtbvfc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:32:10.252Z
+**Categories:**
+
+
+**Name:** [SuperFreshApp](https://testflight.apple.com/join/ixZJVnSg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:32:10.289Z
+**Categories:**
+
+
+**Name:** [Nomie6-aw](https://testflight.apple.com/join/RebxBuIO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:32:10.326Z
+**Categories:**
+
+
+**Name:** [Booze Buddy](https://testflight.apple.com/join/IdSp2EJa)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:32:10.363Z
+**Categories:**
+
+
