@@ -20452,3 +20452,73 @@
 **Categories:**
 
 
+**Name:** [Reflect for iPad](https://testflight.apple.com/join/ERcDXcPQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:50:23.355Z
+**Categories:**
+
+
+**Name:** [Mobile VMS](https://testflight.apple.com/join/dTEj0p5f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:50:23.390Z
+**Categories:**
+
+
+**Name:** [RFOX VALT](https://testflight.apple.com/join/bPUkXcr3)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:50:23.425Z
+**Categories:**
+
+
+**Name:** [Memoro](https://testflight.apple.com/join/WQr1JiWh)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:50:23.460Z
+**Categories:**
+
+
+**Name:** [Metanote-beta](https://testflight.apple.com/join/pAYGdOQe)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:50:23.496Z
+**Categories:**
+
+
+**Name:** [THE FIRE Creator](https://testflight.apple.com/join/CHBIkPpV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:50:23.531Z
+**Categories:**
+
+
+**Name:** [Mobile CDP](https://testflight.apple.com/join/7jPTTAYj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:50:23.566Z
+**Categories:**
+
+
+**Name:** [Graph Theorist](https://testflight.apple.com/join/sPstVIxn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:50:23.602Z
+**Categories:**
+
+
+**Name:** [mytonies](https://testflight.apple.com/join/8FxA7laF)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:50:23.637Z
+**Categories:**
+
+
+**Name:** [Open Trickler](https://testflight.apple.com/join/1XSoUPL3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:50:23.673Z
+**Categories:**
+
+
