@@ -15552,3 +15552,73 @@
 **Categories:**
 
 
+**Name:** [Trucker Path: Truck GPS & Fuel](https://testflight.apple.com/join/FDRtw5Ic)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:40:25.747Z
+**Categories:**
+
+
+**Name:** [WorkPass Beta](https://testflight.apple.com/join/eLWDy9oc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:40:25.775Z
+**Categories:**
+
+
+**Name:** [Floor  - (app)](https://testflight.apple.com/join/luTKB5xB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:40:25.804Z
+**Categories:**
+
+
+**Name:** [Teo App](https://testflight.apple.com/join/dtyDtJzZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:40:25.832Z
+**Categories:**
+
+
+**Name:** [MirageXR](https://testflight.apple.com/join/NjFirLwB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:40:25.861Z
+**Categories:**
+
+
+**Name:** [YouKon](https://testflight.apple.com/join/aKAd0AwD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:40:25.889Z
+**Categories:**
+
+
+**Name:** [SHADE](https://testflight.apple.com/join/alUDkx8l)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:40:25.918Z
+**Categories:**
+
+
+**Name:** [Shovely World](https://testflight.apple.com/join/DusoJrtk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:40:25.946Z
+**Categories:**
+
+
+**Name:** [SPISearch](https://testflight.apple.com/join/DaVCrzZp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:40:25.975Z
+**Categories:**
+
+
+**Name:** [ICSCM](https://testflight.apple.com/join/fbBlDmFU)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:40:26.004Z
+**Categories:**
+
+
