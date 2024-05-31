@@ -30252,3 +30252,73 @@
 **Categories:**
 
 
+**Name:** [Cenomi Rewards UAT](https://testflight.apple.com/join/RDaa35mr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:11:10.270Z
+**Categories:**
+
+
+**Name:** [StreamMagic by Cambridge Audio](https://testflight.apple.com/join/SIgTLuHz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:11:10.297Z
+**Categories:**
+
+
+**Name:** [MiCare MyMed](https://testflight.apple.com/join/eCbFpS6f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:11:10.325Z
+**Categories:**
+
+
+**Name:** [Zavala](https://testflight.apple.com/join/iFbND23m)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:11:10.352Z
+**Categories:**
+
+
+**Name:** [Passio GO](https://testflight.apple.com/join/GkoL7RfS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:11:10.380Z
+**Categories:**
+
+
+**Name:** [ST ERP](https://testflight.apple.com/join/4Z1LX9wB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:11:10.409Z
+**Categories:**
+
+
+**Name:** [zheluDocu](https://testflight.apple.com/join/JsFZlqNF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:11:10.436Z
+**Categories:**
+
+
+**Name:** [UltraWater Solutions Dealers](https://testflight.apple.com/join/ShU1I3zu)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T04:11:10.464Z
+**Categories:**
+
+
+**Name:** [AI Photo Enhancer - Nero Lens](https://testflight.apple.com/join/ovS85vhw)
+**Click Count:** 13
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:11:10.492Z
+**Categories:**
+
+
+**Name:** [Sufra Rewards](https://testflight.apple.com/join/3yblSMk6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:11:10.520Z
+**Categories:**
+
+
