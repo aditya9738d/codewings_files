@@ -16742,3 +16742,73 @@
 **Categories:**
 
 
+**Name:** [Auchan](https://testflight.apple.com/join/ZN5yKVN7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:57:11.261Z
+**Categories:**
+
+
+**Name:** [Safewave](https://testflight.apple.com/join/hPs6FGvq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:57:11.300Z
+**Categories:**
+
+
+**Name:** [GhostMove](https://testflight.apple.com/join/DR5VLHcn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:57:11.336Z
+**Categories:**
+
+
+**Name:** [Filamingo Beta](https://testflight.apple.com/join/DIkvSViL)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:57:11.371Z
+**Categories:**
+
+
+**Name:** [CashBud](https://testflight.apple.com/join/U3ZKm77o)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:57:11.407Z
+**Categories:**
+
+
+**Name:** [ESS 45 Zebra](https://testflight.apple.com/join/eb2VgXeu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:57:11.443Z
+**Categories:**
+
+
+**Name:** [IPAS ONLINE](https://testflight.apple.com/join/bD5sg47d)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:57:11.478Z
+**Categories:**
+
+
+**Name:** [BeloChat](https://testflight.apple.com/join/mPftmGko)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:57:11.514Z
+**Categories:**
+
+
+**Name:** [[DEV] Extra 10](https://testflight.apple.com/join/pp5p0tyH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:57:11.549Z
+**Categories:**
+
+
+**Name:** [ProxyPin](https://testflight.apple.com/join/gURGH6B4)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:57:11.585Z
+**Categories:**
+
+
