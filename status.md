@@ -34802,3 +34802,73 @@
 **Categories:**
 
 
+**Name:** [Hevy - Workout Tracker Gym Log](https://testflight.apple.com/join/tAlRPch6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:17:10.086Z
+**Categories:**
+
+
+**Name:** [TradeZero](https://testflight.apple.com/join/rRBSZhUP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:17:10.121Z
+**Categories:**
+
+
+**Name:** [UIS Mobile](https://testflight.apple.com/join/TaNgDFcD)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:17:10.158Z
+**Categories:**
+
+
+**Name:** [Samsung-S](https://testflight.apple.com/join/yham4UcU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:17:10.193Z
+**Categories:**
+
+
+**Name:** [KFC DSR](https://testflight.apple.com/join/mEaucAkB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:17:10.228Z
+**Categories:**
+
+
+**Name:** [Abu Dhabi 360](https://testflight.apple.com/join/4kxqnVgM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:17:10.264Z
+**Categories:**
+
+
+**Name:** [Pocket Qt](https://testflight.apple.com/join/cbExq27M)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:17:10.301Z
+**Categories:**
+
+
+**Name:** [Communite](https://testflight.apple.com/join/ZJcMZYwV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:17:10.643Z
+**Categories:**
+
+
+**Name:** [ASN Bank](https://testflight.apple.com/join/sGPfrD4t)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:17:10.679Z
+**Categories:**
+
+
+**Name:** [Portfolio Tracker Finance Bay](https://testflight.apple.com/join/y4etT8Ht)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T05:17:10.714Z
+**Categories:**
+
+
