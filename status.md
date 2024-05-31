@@ -33052,3 +33052,73 @@
 **Categories:**
 
 
+**Name:** [AlevelMath](https://testflight.apple.com/join/kH2a8fZS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:52:09.321Z
+**Categories:**
+
+
+**Name:** [Mobiliz Yetkili Servis](https://testflight.apple.com/join/cbpZlnUM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:52:09.349Z
+**Categories:**
+
+
+**Name:** [Grammo](https://testflight.apple.com/join/h7hyOJ99)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:52:09.378Z
+**Categories:**
+
+
+**Name:** [GeoGebra 3D Calculator](https://testflight.apple.com/join/wDq81Ktm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:52:09.406Z
+**Categories:**
+
+
+**Name:** [MB Test](https://testflight.apple.com/join/poKSCOW8)
+**Click Count:** 4
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T04:52:09.433Z
+**Categories:**
+
+
+**Name:** [iDig - Recording Archaeology](https://testflight.apple.com/join/vwPDeAwQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:52:09.461Z
+**Categories:**
+
+
+**Name:** [TV 2 Sport](https://testflight.apple.com/join/vEv7PL4F)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:52:09.488Z
+**Categories:**
+
+
+**Name:** [EchoStream - AI Memory Agent](https://testflight.apple.com/join/x18p4hz7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:52:09.516Z
+**Categories:**
+
+
+**Name:** [tado°](https://testflight.apple.com/join/vcxVYb7M)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T04:52:09.545Z
+**Categories:**
+
+
+**Name:** [Ekiva MS](https://testflight.apple.com/join/Xhh2wFC0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:52:09.573Z
+**Categories:**
+
+
