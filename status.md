@@ -24022,3 +24022,73 @@
 **Categories:**
 
 
+**Name:** [SuperDuper Controller](https://testflight.apple.com/join/Tl0UibRY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:41:09.142Z
+**Categories:**
+
+
+**Name:** [Upwork for Freelancers](https://testflight.apple.com/join/ef3GQatk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:41:09.170Z
+**Categories:**
+
+
+**Name:** [monday.com - Work Management](https://testflight.apple.com/join/u48va7lC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:41:09.197Z
+**Categories:**
+
+
+**Name:** [EvoWalk App](https://testflight.apple.com/join/iZFJpZ8F)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:41:09.226Z
+**Categories:**
+
+
+**Name:** [Authenticator 2FA+](https://testflight.apple.com/join/PDUIq4bp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:41:09.254Z
+**Categories:**
+
+
+**Name:** [EZFare](https://testflight.apple.com/join/priE8rm1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:41:09.282Z
+**Categories:**
+
+
+**Name:** [Warranty+](https://testflight.apple.com/join/nWLuICPs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:41:09.310Z
+**Categories:**
+
+
+**Name:** [DM Event Scanner](https://testflight.apple.com/join/WJ4n5rKy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:41:09.337Z
+**Categories:**
+
+
+**Name:** [AlchemCharts](https://testflight.apple.com/join/4PazuisX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:41:09.365Z
+**Categories:**
+
+
+**Name:** [Organic Maps: Offline Map](https://testflight.apple.com/join/lrKCl08I)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:41:09.395Z
+**Categories:**
+
+
