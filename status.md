@@ -357,3 +357,73 @@ Categories:
 **Categories:**
 
 
+**Name:** [Air Botswana](https://testflight.apple.com/join/j29Q4L4V)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:21.923Z
+**Categories:**
+
+
+**Name:** [Air China](https://testflight.apple.com/join/WBkvyQWT)
+**Click Count:** 2
+**Beta Available:** error
+**Last Checked:** 2024-05-31T06:29:21.950Z
+**Categories:**
+
+
+**Name:** [AirChord 2](https://testflight.apple.com/join/YrPuAj7n)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:21.976Z
+**Categories:**
+
+
+**Name:** [AirMusic Control](https://testflight.apple.com/join/zrP7UBIG)
+**Click Count:** 2
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:22.004Z
+**Categories:**
+
+
+**Name:** [Akbati AVM](https://testflight.apple.com/join/VCbcqTxf)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:22.031Z
+**Categories:**
+
+
+**Name:** [Alarm.com](https://testflight.apple.com/join/CGUMAQfd)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:22.059Z
+**Categories:**
+
+
+**Name:** [AlignMate](https://testflight.apple.com/join/x023Iads)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T06:29:22.087Z
+**Categories:**
+
+
+**Name:** [Alkashier Pos](https://testflight.apple.com/join/cZG0FeYa)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:22.113Z
+**Categories:**
+
+
+**Name:** [Alleo.ai To-Do List & Calendar](https://testflight.apple.com/join/D0gVDq5I)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:22.141Z
+**Categories:**
+
+
+**Name:** [Allo driver](https://testflight.apple.com/join/49G3LFrY)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T06:29:22.169Z
+**Categories:**
+
+
