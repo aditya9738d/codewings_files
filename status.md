@@ -22272,3 +22272,73 @@
 **Categories:**
 
 
+**Name:** [XPro XTECH](https://testflight.apple.com/join/eZxLNTLc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:16:11.025Z
+**Categories:**
+
+
+**Name:** [MyDigicel - Beta](https://testflight.apple.com/join/bne5GoPr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:16:11.061Z
+**Categories:**
+
+
+**Name:** [Air Native](https://testflight.apple.com/join/nOAx89vp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:16:11.097Z
+**Categories:**
+
+
+**Name:** [Food Village](https://testflight.apple.com/join/LbSsFS4E)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:16:11.134Z
+**Categories:**
+
+
+**Name:** [MySecuritas Beta](https://testflight.apple.com/join/oseJu254)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:16:11.169Z
+**Categories:**
+
+
+**Name:** [ALZ Fundraising Test](https://testflight.apple.com/join/SwegOW6G)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:16:11.205Z
+**Categories:**
+
+
+**Name:** [Solus Library App](https://testflight.apple.com/join/6bfvTRRM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:16:11.241Z
+**Categories:**
+
+
+**Name:** [Eyemove](https://testflight.apple.com/join/Td13UUmw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:16:11.277Z
+**Categories:**
+
+
+**Name:** [Elfie • Health & Rewards](https://testflight.apple.com/join/JdRKcT3U)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:16:11.313Z
+**Categories:**
+
+
+**Name:** [Spot – Electricity prices](https://testflight.apple.com/join/wS5TVGF4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:16:11.349Z
+**Categories:**
+
+
