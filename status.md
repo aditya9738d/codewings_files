@@ -14992,3 +14992,73 @@
 **Categories:**
 
 
+**Name:** [vRotors Pilot for DJI Drones](https://testflight.apple.com/join/JV6qJIYi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:31:09.313Z
+**Categories:**
+
+
+**Name:** [Fairtravel Battle](https://testflight.apple.com/join/EmqUFnLG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:31:09.347Z
+**Categories:**
+
+
+**Name:** [ION Sound Control™](https://testflight.apple.com/join/kMx0OKK3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:31:09.382Z
+**Categories:**
+
+
+**Name:** [Hyperswitch Demo](https://testflight.apple.com/join/WhPLmrT6)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:31:09.418Z
+**Categories:**
+
+
+**Name:** [Merge Love](https://testflight.apple.com/join/1OsWu1mW)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:31:09.453Z
+**Categories:**
+
+
+**Name:** [Puzzle Mago](https://testflight.apple.com/join/98zO86bo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:31:09.488Z
+**Categories:**
+
+
+**Name:** [My2N](https://testflight.apple.com/join/5NuiAkIu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:31:09.523Z
+**Categories:**
+
+
+**Name:** [Manifest: Wellness Copilot](https://testflight.apple.com/join/WwVB0Y6E)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:31:09.560Z
+**Categories:**
+
+
+**Name:** [MADP Playground2](https://testflight.apple.com/join/gkcX0FWI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:31:09.594Z
+**Categories:**
+
+
+**Name:** [Citrix Workspace](https://testflight.apple.com/join/U7tkotNq)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:31:09.629Z
+**Categories:**
+
+
