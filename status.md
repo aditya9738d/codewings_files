@@ -4990,3 +4990,131 @@ Beta Available: open
 Last Checked: 2024-05-31T10:48:12.884Z
 Categories:
 
+Name: Docutain SDK ShowCase
+Url: https://testflight.apple.com/join/EJy6I3ZE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/d4/63/1bd46321-424f-a339-ac02-3297bf0cd348/AppIcon-0-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.298Z
+Categories:
+
+Name: Sales Plus
+Url: https://testflight.apple.com/join/s3hBNGSM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d2/98/a6/d298a61f-2810-158e-b90a-ec6bbfea238d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.334Z
+Categories:
+
+Name: LightSum
+Url: https://testflight.apple.com/join/8AdtGd1b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/40/d8/bd40d8ff-9c9c-d0e3-8676-c201d554a846/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.370Z
+Categories:
+
+Name: Smart Vaults
+Url: https://testflight.apple.com/join/1CFTiTXh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/36/8c/ad/368cad5e-9629-ed28-c5e6-0cdf5b0d8725/AppTestnetIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.406Z
+Categories:
+
+Name: Translucent – Spatial Web Apps
+Url: https://testflight.apple.com/join/64xgwI8e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/d9/bf/bad9bf28-d64e-f944-67ba-e15c2e2ad1a4/AppIcon-white.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.441Z
+Categories:
+
+Name: Sunrise TV
+Url: https://testflight.apple.com/join/OQYErdTj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/9d/8f/3d9d8fac-1530-c0bf-3aa7-b3fe5848efd0/AppIcon-upc_ch-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.477Z
+Categories:
+
+Name: Microsoft To Do
+Url: https://testflight.apple.com/join/JSq3UkAz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/99/d6/ce/99d6ce94-dcba-c914-c2b6-d219b34c85a0/To-Do-AppStore-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.513Z
+Categories:
+
+Name: Matic Candidate
+Url: https://testflight.apple.com/join/d6vWsDZF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/aa/d1/b4aad140-c909-ce10-bd7b-b3c60b081c5d/AppIconCandidate-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.550Z
+Categories:
+
+Name: Apollo Weiterbildungen
+Url: https://testflight.apple.com/join/crO6xJ3t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/33/09/6c330939-1a06-b666-f574-5705bdadd6b5/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.585Z
+Categories:
+
+Name: HitFit Pro
+Url: https://testflight.apple.com/join/SVSfdxVC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/c1/e5/47c1e512-b0dc-ac3f-94be-c5944e18ab31/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.621Z
+Categories:
+
+Name: Esker Anywhere
+Url: https://testflight.apple.com/join/I6dNjjRl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/c4/ba/98c4ba2b-0a0d-7fcf-d293-0903162a6f42/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.657Z
+Categories:
+
+Name: Bright Visions
+Url: https://testflight.apple.com/join/yX1kpCil
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/4a/df/1e4adfbc-3ed0-05cf-e564-0d107c23424f/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.693Z
+Categories:
+
+Name: Bricksee
+Url: https://testflight.apple.com/join/wkPAMReO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/0d/6e/9a0d6ed6-ae31-d4f9-852b-0e0405611960/app_icon-0-0-1x_U007epad-0-0-0-0-0-85-220.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.728Z
+Categories:
+
+Name: QQT
+Url: https://testflight.apple.com/join/GAHLp8FA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/de/45/c7de4579-e114-490c-aebb-714d4a68bfb2/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.764Z
+Categories:
+
+Name: Film Trailers
+Url: https://testflight.apple.com/join/NixSFQIX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/5d/24/bd5d24d3-264f-1c6c-988a-110cdf27c3ce/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.801Z
+Categories:
+
+Name: Fettle
+Url: https://testflight.apple.com/join/96yjaBwS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/56/07/c0/5607c019-bd17-324f-b276-60a7ca9017f4/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T10:49:13.837Z
+Categories:
+
