@@ -27522,3 +27522,73 @@
 **Categories:**
 
 
+**Name:** [Rover Demo](https://testflight.apple.com/join/ArZHl0jA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:32:10.528Z
+**Categories:**
+
+
+**Name:** [CorrigoPro](https://testflight.apple.com/join/SL2PQU6w)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:32:10.564Z
+**Categories:**
+
+
+**Name:** [Loxone](https://testflight.apple.com/join/54JTsdTf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:32:10.599Z
+**Categories:**
+
+
+**Name:** [WinZO: Jogos de Buraco e Truco](https://testflight.apple.com/join/1Lhm2xtq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:32:10.637Z
+**Categories:**
+
+
+**Name:** [Spectora v10](https://testflight.apple.com/join/d92gCR0s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:32:10.673Z
+**Categories:**
+
+
+**Name:** [Mapletree FMS STG](https://testflight.apple.com/join/Wz0eptdq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:32:10.708Z
+**Categories:**
+
+
+**Name:** [Easy Menu](https://testflight.apple.com/join/5J1NkbiB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:32:10.745Z
+**Categories:**
+
+
+**Name:** [UAT Jenbunjerd](https://testflight.apple.com/join/HgCSDTd9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:32:10.780Z
+**Categories:**
+
+
+**Name:** [IDentitySDK2 Ionic](https://testflight.apple.com/join/VEiBfP8E)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:32:10.816Z
+**Categories:**
+
+
+**Name:** [FocalPaint](https://testflight.apple.com/join/1adnuUHv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:32:10.852Z
+**Categories:**
+
+
