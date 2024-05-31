@@ -33822,3 +33822,73 @@
 **Categories:**
 
 
+**Name:** [Bizvoice UC 2.0](https://testflight.apple.com/join/QU60rK1I)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:03:10.030Z
+**Categories:**
+
+
+**Name:** [TytoCare](https://testflight.apple.com/join/XkQ0wygP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:03:10.065Z
+**Categories:**
+
+
+**Name:** [Evolv Fit: Get Personal Coach](https://testflight.apple.com/join/sru5N6Fc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:03:10.100Z
+**Categories:**
+
+
+**Name:** [Auto ModList](https://testflight.apple.com/join/2hLtgUdN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:03:10.136Z
+**Categories:**
+
+
+**Name:** [Mercaso UAT](https://testflight.apple.com/join/PR1IENkc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:03:10.172Z
+**Categories:**
+
+
+**Name:** [aiwa wear](https://testflight.apple.com/join/8TOVMlwm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:03:10.207Z
+**Categories:**
+
+
+**Name:** [Hermannpost](https://testflight.apple.com/join/XpbGU0R8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:03:10.243Z
+**Categories:**
+
+
+**Name:** [Zerodha Kite - Trade & Invest](https://testflight.apple.com/join/Z8a3CqcZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:03:10.279Z
+**Categories:**
+
+
+**Name:** [CoScribes](https://testflight.apple.com/join/bCGrPgLb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:03:10.315Z
+**Categories:**
+
+
+**Name:** [Grazie for Safari](https://testflight.apple.com/join/XjmWmmHB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:03:10.351Z
+**Categories:**
+
+
