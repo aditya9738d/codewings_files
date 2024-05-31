@@ -22283,3 +22283,131 @@ Beta Available: open
 Last Checked: 2024-05-31T09:40:26.416Z
 Categories:
 
+Name: Destinations and more Stg
+Url: https://testflight.apple.com/join/kdUD3voB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/63/0f/5b630f5d-d11f-605c-9e7c-969c98426ea8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.337Z
+Categories:
+
+Name: Sabertooth for Mastodon
+Url: https://testflight.apple.com/join/pBGgMKw2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/7a/03/e67a0317-1a05-84fe-75d1-554676aceb2e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.373Z
+Categories:
+
+Name: Meshtastic DFU
+Url: https://testflight.apple.com/join/cRJK8Gyh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/46/16/a4461692-00a1-0fac-0f03-d64b71fe5163/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.408Z
+Categories:
+
+Name: BAS-IP Link
+Url: https://testflight.apple.com/join/gDCbIOD8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/de/4b/3cde4b3f-9d5d-88a3-7bbd-bb5f64a86a57/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.443Z
+Categories:
+
+Name: miu.fm
+Url: https://testflight.apple.com/join/Id3xNWAZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/2f/06/882f06b3-9a91-725e-c2e6-f0e3df341f79/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.479Z
+Categories:
+
+Name: MinuteTaker - Meeting Notes
+Url: https://testflight.apple.com/join/Kl2MqemH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/63/c7/8663c7b4-711b-b21b-b6bb-e4c6d1d297ca/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.514Z
+Categories:
+
+Name: DayPlus
+Url: https://testflight.apple.com/join/2MdRcOkG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/a4/f8/97a4f8df-d94d-f082-f326-bd23a290cf69/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.552Z
+Categories:
+
+Name: WorkBuddy
+Url: https://testflight.apple.com/join/fSyJLJ4F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/e1/0a/49e10a23-b653-b720-3cd1-dbc55ac58ccb/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.587Z
+Categories:
+
+Name: Ducky Weather
+Url: https://testflight.apple.com/join/zE9voJ5H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/3c/f1/063cf1d9-c1cb-b9e6-184d-fd9ead2e6624/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.622Z
+Categories:
+
+Name: Spartan Camera Management
+Url: https://testflight.apple.com/join/Q2j4wD3u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/77/f6/49/77f64979-5f90-4605-5d51-e17bda804394/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.657Z
+Categories:
+
+Name: Maintenance IQ
+Url: https://testflight.apple.com/join/vIdktd75
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/6d/64/bd6d6404-218f-3b06-b96e-65e221e235bb/AppIcons-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.692Z
+Categories:
+
+Name: Nro SieuCap2.
+Url: https://testflight.apple.com/join/P2G81dBd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/3e/dc/873edcc3-94a1-3076-384b-71a6b7c622e3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.727Z
+Categories:
+
+Name: Libero Mail
+Url: https://testflight.apple.com/join/YEQsHyni
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/a6/d4/0fa6d4b7-404d-fd87-cb2c-e61b06934809/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.763Z
+Categories:
+
+Name: HiFutureSelf - Future Messages
+Url: https://testflight.apple.com/join/zRKU0Od8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/76/3e/50763eaf-5750-0119-29ab-bc5f620a0bda/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.797Z
+Categories:
+
+Name: TruMonitor - TruVent
+Url: https://testflight.apple.com/join/8RIXkqVl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/40/49/6e/40496e05-8657-507a-b4b9-b3e4f774938f/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.832Z
+Categories:
+
+Name: PowerAlarm
+Url: https://testflight.apple.com/join/G3MPcq6r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/91/4c/3c914c16-5943-0e2b-dce9-f7da080e5ce6/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:41:10.867Z
+Categories:
+
