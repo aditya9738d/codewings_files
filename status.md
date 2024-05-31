@@ -36097,3 +36097,73 @@
 **Categories:**
 
 
+**Name:** [Yacht Cabin: Shared boat trips](https://testflight.apple.com/join/XL0bBfHe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:26:09.575Z
+**Categories:**
+
+
+**Name:** [Tata Neu - Shop, Travel, Pay](https://testflight.apple.com/join/nxwnETuo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:26:09.604Z
+**Categories:**
+
+
+**Name:** [CardioBot: Heart Rate Monitor](https://testflight.apple.com/join/H82FVVt6)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T05:26:09.633Z
+**Categories:**
+
+
+**Name:** [TickTick:To-Do List & Calendar](https://testflight.apple.com/join/tY60du3s)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T05:26:09.662Z
+**Categories:**
+
+
+**Name:** [Robot Vacuum Cleaner](https://testflight.apple.com/join/gbTAUSTY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:26:09.689Z
+**Categories:**
+
+
+**Name:** [Avatar Play](https://testflight.apple.com/join/1JRKMIYN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:26:09.718Z
+**Categories:**
+
+
+**Name:** [iSenser](https://testflight.apple.com/join/RZxTSSQ0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:26:09.745Z
+**Categories:**
+
+
+**Name:** [Tinnen](https://testflight.apple.com/join/D06n37Bi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:26:09.773Z
+**Categories:**
+
+
+**Name:** [360hideMe](https://testflight.apple.com/join/OUXp9o9h)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:26:09.801Z
+**Categories:**
+
+
+**Name:** [us3ctkv2](https://testflight.apple.com/join/6ei8bHY8)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:26:09.830Z
+**Categories:**
+
+
