@@ -20242,3 +20242,73 @@
 **Categories:**
 
 
+**Name:** [QQT](https://testflight.apple.com/join/GAHLp8FA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:47:09.465Z
+**Categories:**
+
+
+**Name:** [Film Trailers](https://testflight.apple.com/join/NixSFQIX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:47:09.501Z
+**Categories:**
+
+
+**Name:** [Fettle](https://testflight.apple.com/join/96yjaBwS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:47:09.537Z
+**Categories:**
+
+
+**Name:** [Expo Go](https://testflight.apple.com/join/GZJxxfUU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:47:09.572Z
+**Categories:**
+
+
+**Name:** [Foreca Weather & Radar](https://testflight.apple.com/join/wG99Xsks)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:47:09.607Z
+**Categories:**
+
+
+**Name:** [Medeor Cloud](https://testflight.apple.com/join/opDByo0Q)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:47:09.642Z
+**Categories:**
+
+
+**Name:** [myWIC MOSAIC - UAT](https://testflight.apple.com/join/SRwp2yj5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:47:09.677Z
+**Categories:**
+
+
+**Name:** [gyc.app](https://testflight.apple.com/join/qwezw85T)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:47:09.713Z
+**Categories:**
+
+
+**Name:** [NamirialOTP Test](https://testflight.apple.com/join/4ZUE4zjf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:47:09.749Z
+**Categories:**
+
+
+**Name:** [Falla-Make new friends](https://testflight.apple.com/join/Z0PJKU5R)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:47:09.783Z
+**Categories:**
+
+
