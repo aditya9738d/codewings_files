@@ -26962,3 +26962,73 @@
 **Categories:**
 
 
+**Name:** [Tamweel](https://testflight.apple.com/join/5Xw0cTFz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:24:10.427Z
+**Categories:**
+
+
+**Name:** [Nexus - Mobile Wallet](https://testflight.apple.com/join/dJLBiKzt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:24:10.463Z
+**Categories:**
+
+
+**Name:** [Wonga Swiss 2.0](https://testflight.apple.com/join/4qzEY0Xg)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T03:24:10.499Z
+**Categories:**
+
+
+**Name:** [24 Hour Wallpaper](https://testflight.apple.com/join/OW9iNMED)
+**Click Count:** 12
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:24:10.535Z
+**Categories:**
+
+
+**Name:** [Taska for GitHub/GitLab Issues](https://testflight.apple.com/join/C1wZmUlK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:24:10.570Z
+**Categories:**
+
+
+**Name:** [Zenze](https://testflight.apple.com/join/E03ZubTj)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:24:10.607Z
+**Categories:**
+
+
+**Name:** [ECOXPLORE WMS](https://testflight.apple.com/join/x5kKuVuU)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:24:10.643Z
+**Categories:**
+
+
+**Name:** [NFS Room Panel](https://testflight.apple.com/join/abk8i54v)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:24:10.679Z
+**Categories:**
+
+
+**Name:** [FMIS Portal Lite](https://testflight.apple.com/join/R50vNXA4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:24:10.715Z
+**Categories:**
+
+
+**Name:** [iTelevision](https://testflight.apple.com/join/woLYKBj6)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T03:24:10.751Z
+**Categories:**
+
+
