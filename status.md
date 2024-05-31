@@ -25352,3 +25352,73 @@
 **Categories:**
 
 
+**Name:** [Flydog Prof](https://testflight.apple.com/join/KFpxOcgX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:00:52.726Z
+**Categories:**
+
+
+**Name:** [Aljazary Sales Reps](https://testflight.apple.com/join/SrTr8pQP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:00:52.754Z
+**Categories:**
+
+
+**Name:** [Venus Agency](https://testflight.apple.com/join/Gnxzbexp)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:00:52.781Z
+**Categories:**
+
+
+**Name:** [Florisium](https://testflight.apple.com/join/XTBahndu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:00:52.809Z
+**Categories:**
+
+
+**Name:** [SendingMe](https://testflight.apple.com/join/nGIMz8oy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:00:52.837Z
+**Categories:**
+
+
+**Name:** [Magic Ahoi P](https://testflight.apple.com/join/dvfyC5LH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:00:52.864Z
+**Categories:**
+
+
+**Name:** [Interlink](https://testflight.apple.com/join/gPYboS6p)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:00:52.892Z
+**Categories:**
+
+
+**Name:** [Cambox V3+](https://testflight.apple.com/join/5EkChLzu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:00:52.921Z
+**Categories:**
+
+
+**Name:** [Noicely.ai](https://testflight.apple.com/join/Vprynawt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:00:52.949Z
+**Categories:**
+
+
+**Name:** [ReSt](https://testflight.apple.com/join/RXaPhq53)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:00:52.977Z
+**Categories:**
+
+
