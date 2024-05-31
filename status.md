@@ -21712,3 +21712,73 @@
 **Categories:**
 
 
+**Name:** [Backflow Pro](https://testflight.apple.com/join/GsOJ4Ufo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:08:10.618Z
+**Categories:**
+
+
+**Name:** [CFHarvest - awstest](https://testflight.apple.com/join/pTP6HfZb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:08:10.654Z
+**Categories:**
+
+
+**Name:** [SynthMaker](https://testflight.apple.com/join/BKEgzNCg)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:08:10.689Z
+**Categories:**
+
+
+**Name:** [Flamingo Service Center](https://testflight.apple.com/join/dCllybfa)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:08:10.725Z
+**Categories:**
+
+
+**Name:** [Mattermost Beta](https://testflight.apple.com/join/Q7Rx7K9P)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:08:10.761Z
+**Categories:**
+
+
+**Name:** [Cric Cam](https://testflight.apple.com/join/vF0PYIzi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:08:10.796Z
+**Categories:**
+
+
+**Name:** [My Airtel Africa](https://testflight.apple.com/join/D7BlzNvW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:08:10.831Z
+**Categories:**
+
+
+**Name:** [Line-up. Sports App](https://testflight.apple.com/join/0d7rBRBx)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T02:08:10.868Z
+**Categories:**
+
+
+**Name:** [Bielaruskaja Lacinka](https://testflight.apple.com/join/pfIj5vHJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:08:10.904Z
+**Categories:**
+
+
+**Name:** [Potunes](https://testflight.apple.com/join/LswWKGfh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:08:10.940Z
+**Categories:**
+
+
