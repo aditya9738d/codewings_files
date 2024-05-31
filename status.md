@@ -19122,3 +19122,73 @@
 **Categories:**
 
 
+**Name:** [Watsons TH SIT / D1](https://testflight.apple.com/join/2MZJIAMk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:31:09.839Z
+**Categories:**
+
+
+**Name:** [PinspectSKAT](https://testflight.apple.com/join/HVoQRe7y)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:31:09.875Z
+**Categories:**
+
+
+**Name:** [Vibrance - Inspire Yourself](https://testflight.apple.com/join/mhLJeEo4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:31:09.911Z
+**Categories:**
+
+
+**Name:** [MaaS360 Secure Editor](https://testflight.apple.com/join/f5CXDBxn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:31:10.322Z
+**Categories:**
+
+
+**Name:** [Etendo](https://testflight.apple.com/join/MWqctJS2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:31:10.358Z
+**Categories:**
+
+
+**Name:** [agorum boost](https://testflight.apple.com/join/MP0bTVZU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:31:10.394Z
+**Categories:**
+
+
+**Name:** [Deep Dictionary](https://testflight.apple.com/join/lxzMMbZl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:31:10.431Z
+**Categories:**
+
+
+**Name:** [Affinity Photo 2 iPad Beta](https://testflight.apple.com/join/kMSouXpl)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:31:10.467Z
+**Categories:**
+
+
+**Name:** [CPayant](https://testflight.apple.com/join/3YbdkfZu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:31:10.503Z
+**Categories:**
+
+
+**Name:** [Cheatsheet — Quick Note Widget](https://testflight.apple.com/join/E7AnyPlA)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:31:10.538Z
+**Categories:**
+
+
