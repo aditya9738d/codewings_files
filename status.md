@@ -23672,3 +23672,73 @@
 **Categories:**
 
 
+**Name:** [Pace-Calc](https://testflight.apple.com/join/Ge4pa25s)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:36:09.071Z
+**Categories:**
+
+
+**Name:** [Rondo Measure and Quote](https://testflight.apple.com/join/Hc0drHQj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:36:09.106Z
+**Categories:**
+
+
+**Name:** [Ever Play - HiFi Music Player](https://testflight.apple.com/join/MzvaziMT)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T02:36:09.141Z
+**Categories:**
+
+
+**Name:** [Alta Networks](https://testflight.apple.com/join/jbfXiKNg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:36:09.176Z
+**Categories:**
+
+
+**Name:** [Write GT](https://testflight.apple.com/join/ZmKo5CMy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:36:09.211Z
+**Categories:**
+
+
+**Name:** [Can of Soup](https://testflight.apple.com/join/mUGNMWLC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:36:09.247Z
+**Categories:**
+
+
+**Name:** [Webful PasswordMaker](https://testflight.apple.com/join/3MnAJg3Z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:36:09.284Z
+**Categories:**
+
+
+**Name:** [cosinuss° Health](https://testflight.apple.com/join/icq0eiiq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:36:09.319Z
+**Categories:**
+
+
+**Name:** [Prowork](https://testflight.apple.com/join/x0ZYdEfu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:36:09.354Z
+**Categories:**
+
+
+**Name:** [Newsfreak Demo](https://testflight.apple.com/join/mFGxNnRM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:36:09.390Z
+**Categories:**
+
+
