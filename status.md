@@ -14712,3 +14712,73 @@
 **Categories:**
 
 
+**Name:** [SurvMaster](https://testflight.apple.com/join/y4DmdfRI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:26:13.736Z
+**Categories:**
+
+
+**Name:** [ZealiD Q dev](https://testflight.apple.com/join/Z0SkGyS2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:26:13.764Z
+**Categories:**
+
+
+**Name:** [FIBUscan Mobile Receipt Scan](https://testflight.apple.com/join/7ZY59gpn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:26:13.792Z
+**Categories:**
+
+
+**Name:** [YWallet](https://testflight.apple.com/join/ff2E7h7o)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:26:13.819Z
+**Categories:**
+
+
+**Name:** [SmartPay DSA Assist](https://testflight.apple.com/join/L1ufNxRS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:26:13.847Z
+**Categories:**
+
+
+**Name:** [iO](https://testflight.apple.com/join/Iu2Ak4pj)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:26:13.875Z
+**Categories:**
+
+
+**Name:** [Dreame Design](https://testflight.apple.com/join/y3e9Wpe5)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:26:13.903Z
+**Categories:**
+
+
+**Name:** [Dynamite Dyfused](https://testflight.apple.com/join/czgeVK7D)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:26:13.930Z
+**Categories:**
+
+
+**Name:** [Sol](https://testflight.apple.com/join/Tb7eoqs8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:26:13.958Z
+**Categories:**
+
+
+**Name:** [Hue Essentials](https://testflight.apple.com/join/u1953sBd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:26:13.988Z
+**Categories:**
+
+
