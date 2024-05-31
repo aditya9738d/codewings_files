@@ -18315,3 +18315,131 @@ Beta Available: open
 Last Checked: 2024-05-31T09:07:12.575Z
 Categories:
 
+Name: LK8386
+Url: https://testflight.apple.com/join/UxJHV2an
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/07/2d/df072d3a-d879-0266-675d-8028b82d65f9/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-05-31T09:08:13.363Z
+Categories:
+
+Name: InterPals
+Url: https://testflight.apple.com/join/yZMcGPCc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/c2/b0/14c2b09d-6673-4203-8f3c-3ff83fef2bdb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.390Z
+Categories:
+
+Name: Malwarebytes - Mobile Security
+Url: https://testflight.apple.com/join/3jvaSuyE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/6d/0d/fb6d0d80-026f-5273-b210-7d30e6e03485/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-05-31T09:08:13.419Z
+Categories:
+
+Name: MY ASSET - MIRAE ASSET(VN)
+Url: https://testflight.apple.com/join/1cImTeaT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/03/6f/e8036fa6-ad1b-6950-5b46-d83bc0120f1c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.447Z
+Categories:
+
+Name: Dubbing AI Voice Changer
+Url: https://testflight.apple.com/join/LX9ho2sb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/d8/67/8ad86711-efb6-570a-ef7a-d2ead3965684/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.475Z
+Categories:
+
+Name: LeesSimpel
+Url: https://testflight.apple.com/join/Y4wmUcGd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/f5/01/def5010f-b2da-3471-e74d-04d49e3083f8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.503Z
+Categories:
+
+Name: WordFlower
+Url: https://testflight.apple.com/join/eF9Rl4sc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/7c/85/e77c85ee-1965-bb12-a9c2-f72f71453089/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.532Z
+Categories:
+
+Name: CalcMate - notes calculator
+Url: https://testflight.apple.com/join/0TqHQ8Kj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a4/b5/37/a4b537e4-5d4a-0d3c-9afe-50ac042146bd/AppIconBeta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.561Z
+Categories:
+
+Name: LinkTrade Pro
+Url: https://testflight.apple.com/join/43hD6Qlc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b6/0f/b0b60f9c-032c-289b-29af-b4f795a4f9d9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.590Z
+Categories:
+
+Name: Sveriges Radio Play
+Url: https://testflight.apple.com/join/JdU1hU1C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/7f/af/ca7faf5e-d910-9e4e-ac6e-0a1ac3df0123/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.617Z
+Categories:
+
+Name: Salesforce
+Url: https://testflight.apple.com/join/PdNDqlHt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/df/f4/0cdff4e4-46de-258a-bdb5-d328c97a3963/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.646Z
+Categories:
+
+Name: Chronomizer: Custom Watchfaces
+Url: https://testflight.apple.com/join/m5xuQxCN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/ec/68/a5ec68c4-6ccd-9d02-8e6f-db45b1b4ac39/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.673Z
+Categories:
+
+Name: BBVA Spain | Online banking
+Url: https://testflight.apple.com/join/Fjj4M9xp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d1/79/15/d1791563-abe6-a7fc-6f0f-3c931dfb3aeb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.701Z
+Categories:
+
+Name: School Assistant – Planner
+Url: https://testflight.apple.com/join/KWohJ5aL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/12/d6/df12d62a-897c-6e9f-237d-5a45959924f4/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.729Z
+Categories:
+
+Name: deadsound
+Url: https://testflight.apple.com/join/7KNeR1zy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/8a/21/988a2127-fdde-50b6-a6fd-43a890e2484f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.756Z
+Categories:
+
+Name: Parcel - Delivery Tracking
+Url: https://testflight.apple.com/join/fMeg6C4A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/2c/45/8c2c45c8-9d13-2c67-4f68-7d58a72e4670/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T09:08:13.784Z
+Categories:
+
