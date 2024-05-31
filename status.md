@@ -33892,3 +33892,73 @@
 **Categories:**
 
 
+**Name:** [BAL Connect Alpha (Staging)](https://testflight.apple.com/join/l4hVapAJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:04:10.497Z
+**Categories:**
+
+
+**Name:** [Galxe](https://testflight.apple.com/join/bF15toL9)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-31T05:04:10.533Z
+**Categories:**
+
+
+**Name:** [Sky X](https://testflight.apple.com/join/emExEMm6)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:04:10.568Z
+**Categories:**
+
+
+**Name:** [Mayo Clinic (STAGE)](https://testflight.apple.com/join/xBeWbWiv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:04:10.604Z
+**Categories:**
+
+
+**Name:** [1st for Women - SIT](https://testflight.apple.com/join/1zvvw6kh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:04:10.640Z
+**Categories:**
+
+
+**Name:** [WeatherDate](https://testflight.apple.com/join/fLKrfyWT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:04:10.676Z
+**Categories:**
+
+
+**Name:** [React Native Pro](https://testflight.apple.com/join/OPhFWnmu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:04:10.712Z
+**Categories:**
+
+
+**Name:** [Tazte - UAT](https://testflight.apple.com/join/H3sdfdJb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:04:10.748Z
+**Categories:**
+
+
+**Name:** [Bitmax](https://testflight.apple.com/join/RPeMymBd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:04:10.784Z
+**Categories:**
+
+
+**Name:** [ZiiP Bus](https://testflight.apple.com/join/M9HsbMn4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:04:10.819Z
+**Categories:**
+
+
