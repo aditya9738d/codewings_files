@@ -36027,3 +36027,73 @@
 **Categories:**
 
 
+**Name:** [Yoosee](https://testflight.apple.com/join/AHQYkxRO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:25:17.099Z
+**Categories:**
+
+
+**Name:** [Kinima Seniors](https://testflight.apple.com/join/jxbhSrBh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:25:17.128Z
+**Categories:**
+
+
+**Name:** [DGB CAM](https://testflight.apple.com/join/qa68Mq5o)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:25:17.155Z
+**Categories:**
+
+
+**Name:** [Untis Mobile](https://testflight.apple.com/join/yg48UjK9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:25:17.185Z
+**Categories:**
+
+
+**Name:** [JPX68](https://testflight.apple.com/join/afauo4mE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:25:17.212Z
+**Categories:**
+
+
+**Name:** [WiDAR Demo](https://testflight.apple.com/join/KpxQ5kw9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:25:17.242Z
+**Categories:**
+
+
+**Name:** [Drag To Speak](https://testflight.apple.com/join/vtF6OUoo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:25:17.272Z
+**Categories:**
+
+
+**Name:** [VinylViz](https://testflight.apple.com/join/PGYXxQIK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:25:17.300Z
+**Categories:**
+
+
+**Name:** [ATest Mobile](https://testflight.apple.com/join/HDommVPY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:25:17.328Z
+**Categories:**
+
+
+**Name:** [WalletAppV2](https://testflight.apple.com/join/09bTAryp)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:25:17.356Z
+**Categories:**
+
+
