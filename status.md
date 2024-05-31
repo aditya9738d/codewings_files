@@ -28222,3 +28222,73 @@
 **Categories:**
 
 
+**Name:** [afterFIT (beta)](https://testflight.apple.com/join/SPnjZ34L)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:42:09.654Z
+**Categories:**
+
+
+**Name:** [movebooth](https://testflight.apple.com/join/CkBZM6xw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:42:09.682Z
+**Categories:**
+
+
+**Name:** [Web Translator for DeepL](https://testflight.apple.com/join/QmZCoDZb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:42:09.710Z
+**Categories:**
+
+
+**Name:** [Bezogia](https://testflight.apple.com/join/iQjCrSCt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:42:09.737Z
+**Categories:**
+
+
+**Name:** [Football Mates](https://testflight.apple.com/join/KHYnxy3f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:42:09.765Z
+**Categories:**
+
+
+**Name:** [ZBX](https://testflight.apple.com/join/veVdy7LQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:42:09.793Z
+**Categories:**
+
+
+**Name:** [Blueye](https://testflight.apple.com/join/H2HWjbK3)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:42:09.820Z
+**Categories:**
+
+
+**Name:** [Pixelborn](https://testflight.apple.com/join/Gj4bLeoo)
+**Click Count:** 2
+**Beta Available:** full
+**Last Checked:** 2024-05-31T03:42:09.848Z
+**Categories:**
+
+
+**Name:** [OpenNutriTracker](https://testflight.apple.com/join/j7uKoEDl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:42:09.875Z
+**Categories:**
+
+
+**Name:** [BeReal. Your friends for real.](https://testflight.apple.com/join/IM4jE5XY)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T03:42:09.902Z
+**Categories:**
+
+
