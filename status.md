@@ -36727,3 +36727,73 @@
 **Categories:**
 
 
+**Name:** [OSE Meteri](https://testflight.apple.com/join/dgRyOaoo)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:35:16.579Z
+**Categories:**
+
+
+**Name:** [Vancy](https://testflight.apple.com/join/SQI4ipOm)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:35:16.606Z
+**Categories:**
+
+
+**Name:** [MySANY](https://testflight.apple.com/join/DN5sYoQ1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:35:16.635Z
+**Categories:**
+
+
+**Name:** [MetaLife.Social](https://testflight.apple.com/join/luqokCUq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:35:16.664Z
+**Categories:**
+
+
+**Name:** [IRCCloud](https://testflight.apple.com/join/MApr7Une)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:35:16.694Z
+**Categories:**
+
+
+**Name:** [RadarScope](https://testflight.apple.com/join/IBDF1eC7)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T05:35:16.722Z
+**Categories:**
+
+
+**Name:** [J2L3x](https://testflight.apple.com/join/ikliWgmi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:35:16.754Z
+**Categories:**
+
+
+**Name:** [Candle - Smart Wallet](https://testflight.apple.com/join/6RGagpwc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:35:16.783Z
+**Categories:**
+
+
+**Name:** [GoRich](https://testflight.apple.com/join/Jk0uZ09X)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:35:16.810Z
+**Categories:**
+
+
+**Name:** [Caffeine Utility](https://testflight.apple.com/join/WHIbsose)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:35:16.839Z
+**Categories:**
+
+
