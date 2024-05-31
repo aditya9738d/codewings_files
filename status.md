@@ -27732,3 +27732,73 @@
 **Categories:**
 
 
+**Name:** [DT Profile Admin](https://testflight.apple.com/join/0uCXKZcI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:35:16.482Z
+**Categories:**
+
+
+**Name:** [Topo Maps+](https://testflight.apple.com/join/pSEBpvB3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:35:16.510Z
+**Categories:**
+
+
+**Name:** [Dario Lightning Tester](https://testflight.apple.com/join/nAAVKc1A)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:35:16.537Z
+**Categories:**
+
+
+**Name:** [ArcGIS QuickCapture](https://testflight.apple.com/join/uORl3GWS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:35:16.566Z
+**Categories:**
+
+
+**Name:** [Aspen iSAVE](https://testflight.apple.com/join/kKA2LoEh)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T03:35:16.594Z
+**Categories:**
+
+
+**Name:** [Net Worth Tracker – Sumio](https://testflight.apple.com/join/9908Qo7c)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T03:35:16.621Z
+**Categories:**
+
+
+**Name:** [SaruMoney](https://testflight.apple.com/join/4rBv12aW)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:35:16.648Z
+**Categories:**
+
+
+**Name:** [Log-In Homolog](https://testflight.apple.com/join/IwWjz5bM)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T03:35:16.677Z
+**Categories:**
+
+
+**Name:** [AppWizard Business App](https://testflight.apple.com/join/VZf1aegQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:35:16.704Z
+**Categories:**
+
+
+**Name:** [Touch&](https://testflight.apple.com/join/g7Edi10N)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:35:16.734Z
+**Categories:**
+
+
