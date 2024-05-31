@@ -21292,3 +21292,73 @@
 **Categories:**
 
 
+**Name:** [Crisp](https://testflight.apple.com/join/EiqYmhki)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:02:11.148Z
+**Categories:**
+
+
+**Name:** [UB UAT](https://testflight.apple.com/join/qVpMqG8k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:02:11.176Z
+**Categories:**
+
+
+**Name:** [NOS TV](https://testflight.apple.com/join/UgIz3p0R)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:02:11.205Z
+**Categories:**
+
+
+**Name:** [Safa Wallet](https://testflight.apple.com/join/BCfKR1m6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:02:11.233Z
+**Categories:**
+
+
+**Name:** [Digiteam](https://testflight.apple.com/join/Ra10vu6M)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:02:11.259Z
+**Categories:**
+
+
+**Name:** [GoLingo!](https://testflight.apple.com/join/LwM7iOqi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:02:11.287Z
+**Categories:**
+
+
+**Name:** [TP-Link Deco](https://testflight.apple.com/join/U5p3ccdw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:02:11.313Z
+**Categories:**
+
+
+**Name:** [Info HR App](https://testflight.apple.com/join/vF1UKGOT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:02:11.342Z
+**Categories:**
+
+
+**Name:** [Heavys - Stage](https://testflight.apple.com/join/2H7O9nFt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:02:11.370Z
+**Categories:**
+
+
+**Name:** [Podz: Family & Group Organizer](https://testflight.apple.com/join/FN4DdBCI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:02:11.398Z
+**Categories:**
+
+
