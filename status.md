@@ -34662,3 +34662,73 @@
 **Categories:**
 
 
+**Name:** [Inventory - Asset Management](https://testflight.apple.com/join/aXKHypal)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:15:21.626Z
+**Categories:**
+
+
+**Name:** [KDI Go](https://testflight.apple.com/join/bevveK5W)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:15:21.662Z
+**Categories:**
+
+
+**Name:** [RURadar](https://testflight.apple.com/join/FUGWkWWA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:15:21.698Z
+**Categories:**
+
+
+**Name:** [Petra Wallet](https://testflight.apple.com/join/T6NagMlJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:15:21.734Z
+**Categories:**
+
+
+**Name:** [Singlife Plan & Protect (SIT)](https://testflight.apple.com/join/tJeoOyrb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:15:21.770Z
+**Categories:**
+
+
+**Name:** [JERNAS](https://testflight.apple.com/join/NAu2FIjx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:15:21.807Z
+**Categories:**
+
+
+**Name:** [Hoopt Beta](https://testflight.apple.com/join/Ho3VRDxT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:15:21.842Z
+**Categories:**
+
+
+**Name:** [JX1 Mobile 2023](https://testflight.apple.com/join/hf7xI4q6)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:15:21.878Z
+**Categories:**
+
+
+**Name:** [SEP Staging](https://testflight.apple.com/join/kYwvNwW5)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:15:21.914Z
+**Categories:**
+
+
+**Name:** [RingConn](https://testflight.apple.com/join/vk26Ph2f)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:15:21.949Z
+**Categories:**
+
+
