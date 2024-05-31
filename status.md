@@ -26262,3 +26262,73 @@
 **Categories:**
 
 
+**Name:** [Bindo POS Lite](https://testflight.apple.com/join/dilYXlkK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:14:10.173Z
+**Categories:**
+
+
+**Name:** [VidPlay](https://testflight.apple.com/join/EMf4MhpG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:14:10.210Z
+**Categories:**
+
+
+**Name:** [YoCity](https://testflight.apple.com/join/LX4qKixM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:14:10.246Z
+**Categories:**
+
+
+**Name:** [ketl](https://testflight.apple.com/join/YX6vybtd)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:14:10.283Z
+**Categories:**
+
+
+**Name:** [Packed!?](https://testflight.apple.com/join/NTRm1UiB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:14:10.319Z
+**Categories:**
+
+
+**Name:** [TIS Mobile](https://testflight.apple.com/join/m2dP6mxk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:14:10.355Z
+**Categories:**
+
+
+**Name:** [Hushh_dev](https://testflight.apple.com/join/PCkFSIyu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:14:10.391Z
+**Categories:**
+
+
+**Name:** [tabifolk](https://testflight.apple.com/join/K7Xw4iM9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:14:10.428Z
+**Categories:**
+
+
+**Name:** [NFC-EBT](https://testflight.apple.com/join/unmYPwJH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:14:10.464Z
+**Categories:**
+
+
+**Name:** [Prestan Testing](https://testflight.apple.com/join/SxMdzL97)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:14:10.501Z
+**Categories:**
+
+
