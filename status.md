@@ -32282,3 +32282,73 @@
 **Categories:**
 
 
+**Name:** [Pyware 3D Mobile Editor](https://testflight.apple.com/join/3qhjlHaZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:40:21.044Z
+**Categories:**
+
+
+**Name:** [SVT Nyheter](https://testflight.apple.com/join/KWWcSkTi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:40:21.073Z
+**Categories:**
+
+
+**Name:** [PriBank mBanking Test](https://testflight.apple.com/join/GujYmbdr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:40:21.101Z
+**Categories:**
+
+
+**Name:** [Fun Toast](https://testflight.apple.com/join/9FffIbCS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:40:21.129Z
+**Categories:**
+
+
+**Name:** [Duel Revolution Beta](https://testflight.apple.com/join/F8yXrZdF)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T04:40:21.157Z
+**Categories:**
+
+
+**Name:** [SoulRealm - NEMO](https://testflight.apple.com/join/kCfcJBw3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:40:21.186Z
+**Categories:**
+
+
+**Name:** [BBX SIT](https://testflight.apple.com/join/tO7C4u9n)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:40:21.214Z
+**Categories:**
+
+
+**Name:** [Nextdoor: Neighborhood Network](https://testflight.apple.com/join/hWa4fUQe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:40:21.243Z
+**Categories:**
+
+
+**Name:** [Microsoft Edge: AI Browser](https://testflight.apple.com/join/JkU2rh21)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:40:21.272Z
+**Categories:**
+
+
+**Name:** [Richy Esale](https://testflight.apple.com/join/qrwEg2SO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:40:21.300Z
+**Categories:**
+
+
