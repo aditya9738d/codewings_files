@@ -13172,3 +13172,73 @@
 **Categories:**
 
 
+**Name:** [Dopple.AI](https://testflight.apple.com/join/Trkz2Sx1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:03:12.548Z
+**Categories:**
+
+
+**Name:** [Ame Digital QA](https://testflight.apple.com/join/NfWE3Lyi)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:03:12.584Z
+**Categories:**
+
+
+**Name:** [iCL Filler 2](https://testflight.apple.com/join/UXxH9a4F)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:03:12.622Z
+**Categories:**
+
+
+**Name:** [CA Vietnam Patient](https://testflight.apple.com/join/7kDWlWrr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:03:12.657Z
+**Categories:**
+
+
+**Name:** [Tonhub — TON wallet](https://testflight.apple.com/join/UiiRg76m)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:03:12.694Z
+**Categories:**
+
+
+**Name:** [Mix — Expand your mind](https://testflight.apple.com/join/KHxmUejK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:03:12.730Z
+**Categories:**
+
+
+**Name:** [Mixcloud - Music, Mixes & Live](https://testflight.apple.com/join/eivfc2kH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:03:12.766Z
+**Categories:**
+
+
+**Name:** [Techint EQM](https://testflight.apple.com/join/juPxyLCN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:03:12.802Z
+**Categories:**
+
+
+**Name:** [Work Autonomy](https://testflight.apple.com/join/TD8YjkPW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:03:12.837Z
+**Categories:**
+
+
+**Name:** [CRM NH](https://testflight.apple.com/join/Lr04aift)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:03:12.874Z
+**Categories:**
+
+
