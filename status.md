@@ -22832,3 +22832,73 @@
 **Categories:**
 
 
+**Name:** [Komodo Mobile Crypto Wallet](https://testflight.apple.com/join/c2mOLEoC)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:24:11.187Z
+**Categories:**
+
+
+**Name:** [Owaves: My Body Clock](https://testflight.apple.com/join/ashWLQMS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:24:11.215Z
+**Categories:**
+
+
+**Name:** [Castmagic Companion](https://testflight.apple.com/join/s47OVZOS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:24:11.242Z
+**Categories:**
+
+
+**Name:** [VRBT](https://testflight.apple.com/join/g9motzTy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:24:11.269Z
+**Categories:**
+
+
+**Name:** [BioMobile Staging](https://testflight.apple.com/join/4LOSpEHi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:24:11.297Z
+**Categories:**
+
+
+**Name:** [Travereel](https://testflight.apple.com/join/TtvTURQD)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T02:24:11.325Z
+**Categories:**
+
+
+**Name:** [Anytime Podcast Player](https://testflight.apple.com/join/C9D6ODqx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:24:11.353Z
+**Categories:**
+
+
+**Name:** [XIM NEXUS Manager](https://testflight.apple.com/join/n8ss80Zs)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:24:11.384Z
+**Categories:**
+
+
+**Name:** [Fair Plus 2](https://testflight.apple.com/join/sdBZzV82)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:24:11.412Z
+**Categories:**
+
+
+**Name:** [Wordler – Game Assistant](https://testflight.apple.com/join/Ct6gSdHk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:24:11.439Z
+**Categories:**
+
+
