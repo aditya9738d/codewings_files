@@ -15412,3 +15412,73 @@
 **Categories:**
 
 
+**Name:** [OBDeleven Car diagnostics app](https://testflight.apple.com/join/PmfOjo0T)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:38:13.328Z
+**Categories:**
+
+
+**Name:** [VeSync](https://testflight.apple.com/join/fJBKUFNX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:38:13.356Z
+**Categories:**
+
+
+**Name:** [Link Trade](https://testflight.apple.com/join/KLy5fJat)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:38:13.384Z
+**Categories:**
+
+
+**Name:** [Spark Mail + AI: Email Inbox](https://testflight.apple.com/join/KbPFFvWt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:38:13.413Z
+**Categories:**
+
+
+**Name:** [sleepytime calculator](https://testflight.apple.com/join/onMsxaMt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:38:13.440Z
+**Categories:**
+
+
+**Name:** [YouKnow Social](https://testflight.apple.com/join/3t8GmeKJ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:38:13.468Z
+**Categories:**
+
+
+**Name:** [MyYBS](https://testflight.apple.com/join/VKUZazR9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:38:13.496Z
+**Categories:**
+
+
+**Name:** [Piano Marvel - Lessons & Music](https://testflight.apple.com/join/QeTHyJNs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:38:13.524Z
+**Categories:**
+
+
+**Name:** [Bearable - Symptom Tracker](https://testflight.apple.com/join/tBjTRi0i)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T00:38:13.552Z
+**Categories:**
+
+
+**Name:** [R Plus Health - Pro](https://testflight.apple.com/join/hO6bDEAc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:38:13.580Z
+**Categories:**
+
+
