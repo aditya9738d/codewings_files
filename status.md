@@ -36447,3 +36447,73 @@
 **Categories:**
 
 
+**Name:** [Uchumi](https://testflight.apple.com/join/GhgnJplX)
+**Click Count:** 4
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:31:11.417Z
+**Categories:**
+
+
+**Name:** [TickerChart Live for iPhone](https://testflight.apple.com/join/DF4uIvFW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:31:11.445Z
+**Categories:**
+
+
+**Name:** [OffBlock Beta](https://testflight.apple.com/join/BH8JRzif)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:31:11.473Z
+**Categories:**
+
+
+**Name:** [Nobias Finance](https://testflight.apple.com/join/CqBLPqS1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:31:11.501Z
+**Categories:**
+
+
+**Name:** [SC Mobile Hong Kong](https://testflight.apple.com/join/bOidRPCm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:31:11.529Z
+**Categories:**
+
+
+**Name:** [SmartMixin Weather](https://testflight.apple.com/join/p5HKoM9Z)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:31:11.557Z
+**Categories:**
+
+
+**Name:** [TEPRA Lite+](https://testflight.apple.com/join/v0x9PWyG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:31:11.585Z
+**Categories:**
+
+
+**Name:** [FreeChat](https://testflight.apple.com/join/0l9vfBxX)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:31:11.615Z
+**Categories:**
+
+
+**Name:** [Ekhon Charge](https://testflight.apple.com/join/P6eRb7AQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:31:11.643Z
+**Categories:**
+
+
+**Name:** [SAGA Plus](https://testflight.apple.com/join/omiTVLEZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:31:11.671Z
+**Categories:**
+
+
