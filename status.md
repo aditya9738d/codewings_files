@@ -17722,3 +17722,73 @@
 **Categories:**
 
 
+**Name:** [Xugo](https://testflight.apple.com/join/VSieJO4O)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:11:09.835Z
+**Categories:**
+
+
+**Name:** [My Bank Beta](https://testflight.apple.com/join/ukGDuc5w)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:11:09.871Z
+**Categories:**
+
+
+**Name:** [Robinhood: Investing for All](https://testflight.apple.com/join/fjVk6ZOE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:11:09.908Z
+**Categories:**
+
+
+**Name:** [Wingman (Beta)](https://testflight.apple.com/join/I63dW4bi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:11:09.944Z
+**Categories:**
+
+
+**Name:** [My Whole Body Prayer](https://testflight.apple.com/join/mqwLqWUn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:11:09.981Z
+**Categories:**
+
+
+**Name:** [ZVV INT](https://testflight.apple.com/join/XtgZn4Sl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:11:10.018Z
+**Categories:**
+
+
+**Name:** [M&G-Stage](https://testflight.apple.com/join/XRhQpaqD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:11:10.054Z
+**Categories:**
+
+
+**Name:** [Enigma Scope](https://testflight.apple.com/join/XQG7A21a)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:11:10.090Z
+**Categories:**
+
+
+**Name:** [FiscalBuddy](https://testflight.apple.com/join/90QycWQ5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:11:10.127Z
+**Categories:**
+
+
+**Name:** [Onez Wallet](https://testflight.apple.com/join/6py8Ys5D)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:11:10.164Z
+**Categories:**
+
+
