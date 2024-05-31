@@ -26822,3 +26822,73 @@
 **Categories:**
 
 
+**Name:** [Sparkle!](https://testflight.apple.com/join/G1UlOO1U)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:22:09.004Z
+**Categories:**
+
+
+**Name:** [Bo](https://testflight.apple.com/join/HSp56cGC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:22:09.032Z
+**Categories:**
+
+
+**Name:** [ThumbTracks](https://testflight.apple.com/join/oyHhSFEo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:22:09.061Z
+**Categories:**
+
+
+**Name:** [ResortCleaning-Offline](https://testflight.apple.com/join/exluBlmy)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:22:09.091Z
+**Categories:**
+
+
+**Name:** [Intel Stack](https://testflight.apple.com/join/p7c1zkJ0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:22:09.119Z
+**Categories:**
+
+
+**Name:** [BingX: Crypto Social Trading](https://testflight.apple.com/join/6JO3n2CQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:22:09.147Z
+**Categories:**
+
+
+**Name:** [ECNL](https://testflight.apple.com/join/XNQh08h8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:22:09.177Z
+**Categories:**
+
+
+**Name:** [NSDA](https://testflight.apple.com/join/DA4TkNoI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:22:09.206Z
+**Categories:**
+
+
+**Name:** [Demo - Estabelecimento](https://testflight.apple.com/join/GZftrrmc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:22:09.235Z
+**Categories:**
+
+
+**Name:** [Abridge for Clinicians](https://testflight.apple.com/join/epSYmLhJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:22:09.264Z
+**Categories:**
+
+
