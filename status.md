@@ -18702,3 +18702,73 @@
 **Categories:**
 
 
+**Name:** [EinsatzApp](https://testflight.apple.com/join/fjR2qiMP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:25:15.637Z
+**Categories:**
+
+
+**Name:** [Withings Health Mate](https://testflight.apple.com/join/W6nOwUHe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:25:15.673Z
+**Categories:**
+
+
+**Name:** [Meinong](https://testflight.apple.com/join/2dpyW6rC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:25:15.709Z
+**Categories:**
+
+
+**Name:** [Smart Admin](https://testflight.apple.com/join/u4Ep8Mpo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:25:15.745Z
+**Categories:**
+
+
+**Name:** [DrugN](https://testflight.apple.com/join/S4SbpUjZ)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:25:15.780Z
+**Categories:**
+
+
+**Name:** [RaundTable](https://testflight.apple.com/join/OIQ6oWbs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:25:15.817Z
+**Categories:**
+
+
+**Name:** [AnetaEd](https://testflight.apple.com/join/g1vKLVi2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:25:15.853Z
+**Categories:**
+
+
+**Name:** [Trident App](https://testflight.apple.com/join/Vs7MAj0D)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:25:15.889Z
+**Categories:**
+
+
+**Name:** [Inofia Life](https://testflight.apple.com/join/AKsraRDV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:25:15.924Z
+**Categories:**
+
+
+**Name:** [Money: track income & expenses](https://testflight.apple.com/join/UAzr0dcN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:25:15.960Z
+**Categories:**
+
+
