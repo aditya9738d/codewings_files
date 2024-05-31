@@ -23602,3 +23602,73 @@
 **Categories:**
 
 
+**Name:** [F-Portal Develop](https://testflight.apple.com/join/bpuMVnWz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:35:19.448Z
+**Categories:**
+
+
+**Name:** [Milta](https://testflight.apple.com/join/arhLKWmO)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T02:35:19.484Z
+**Categories:**
+
+
+**Name:** [Qubika](https://testflight.apple.com/join/iI7bpjVW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:35:19.519Z
+**Categories:**
+
+
+**Name:** [Imprivata Locker](https://testflight.apple.com/join/bU0feGam)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:35:19.554Z
+**Categories:**
+
+
+**Name:** [Prime Web](https://testflight.apple.com/join/l6t5kD1G)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:35:19.589Z
+**Categories:**
+
+
+**Name:** [Yaapt](https://testflight.apple.com/join/DiMLxTC4)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:35:19.624Z
+**Categories:**
+
+
+**Name:** [BOOM CRM](https://testflight.apple.com/join/HoCiXQql)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:35:19.659Z
+**Categories:**
+
+
+**Name:** [Bitunix : Crypto & BTC Trading](https://testflight.apple.com/join/riLL6dc0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:35:19.695Z
+**Categories:**
+
+
+**Name:** [Meditation Timer - Zenitizer](https://testflight.apple.com/join/QvKyRJ8x)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:35:19.731Z
+**Categories:**
+
+
+**Name:** [Xelerate Suite](https://testflight.apple.com/join/L89HPOdQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:35:19.766Z
+**Categories:**
+
+
