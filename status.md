@@ -27662,3 +27662,73 @@
 **Categories:**
 
 
+**Name:** [Board Papers for Intune](https://testflight.apple.com/join/mwUqBiAR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:34:11.876Z
+**Categories:**
+
+
+**Name:** [Traady](https://testflight.apple.com/join/QRFA7SVq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:34:11.904Z
+**Categories:**
+
+
+**Name:** [TaskChute Cloud Lite Beta](https://testflight.apple.com/join/WEe7vt0q)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:34:11.933Z
+**Categories:**
+
+
+**Name:** [Email Client - Boomerang Mail](https://testflight.apple.com/join/QvyVMhzJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:34:11.961Z
+**Categories:**
+
+
+**Name:** [TeamPay](https://testflight.apple.com/join/EgeYGrfN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:34:11.989Z
+**Categories:**
+
+
+**Name:** [GHL Connect](https://testflight.apple.com/join/fvZsPzNH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:34:12.016Z
+**Categories:**
+
+
+**Name:** [Maringo](https://testflight.apple.com/join/bkwfZ0u1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:34:12.043Z
+**Categories:**
+
+
+**Name:** [NewStore Associate App](https://testflight.apple.com/join/OTsDnLEk)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:34:12.070Z
+**Categories:**
+
+
+**Name:** [Wipr 2](https://testflight.apple.com/join/YkdEItQi)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-31T03:34:12.099Z
+**Categories:**
+
+
+**Name:** [NodeVPN](https://testflight.apple.com/join/kTCCjGvg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:34:12.127Z
+**Categories:**
+
+
