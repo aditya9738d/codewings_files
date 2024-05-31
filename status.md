@@ -29412,3 +29412,73 @@
 **Categories:**
 
 
+**Name:** [Ring - Always Home](https://testflight.apple.com/join/dIqD2m9I)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:59:08.301Z
+**Categories:**
+
+
+**Name:** [EveryWord - AI Flashcards](https://testflight.apple.com/join/DbJylR2k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:59:08.337Z
+**Categories:**
+
+
+**Name:** [Lee's Famous Recipe Chicken](https://testflight.apple.com/join/GrbuoDdv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:59:08.372Z
+**Categories:**
+
+
+**Name:** [Meerabel](https://testflight.apple.com/join/mvIVmpcR)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:59:08.407Z
+**Categories:**
+
+
+**Name:** [Orbot](https://testflight.apple.com/join/adSqbCeM)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:59:08.442Z
+**Categories:**
+
+
+**Name:** [Zest - Longevity](https://testflight.apple.com/join/lAqDDbp5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:59:08.477Z
+**Categories:**
+
+
+**Name:** [studypilot](https://testflight.apple.com/join/7sa47mrv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:59:08.513Z
+**Categories:**
+
+
+**Name:** [Arrow+](https://testflight.apple.com/join/f4Dl2qw7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:59:08.552Z
+**Categories:**
+
+
+**Name:** [MMITA: Meet me in the Astral](https://testflight.apple.com/join/YjRxf6gX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:59:08.587Z
+**Categories:**
+
+
+**Name:** [Frich](https://testflight.apple.com/join/TEMBMEy2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:59:08.622Z
+**Categories:**
+
+
