@@ -19838,3 +19838,131 @@ Beta Available: open
 Last Checked: 2024-05-31T13:26:16.164Z
 Categories:
 
+Name: MotoFUN-Int
+Url: https://testflight.apple.com/join/XmOeuqL8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/e4/75/04e47500-c01d-b366-bc5d-a4fcbeee75af/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:11.900Z
+Categories:
+
+Name: AKCB Candy Wars
+Url: https://testflight.apple.com/join/OBQjEdc3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/16/39/ac1639ae-a868-8f39-0e82-875b64ee07e8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:11.928Z
+Categories:
+
+Name: Babel
+Url: https://testflight.apple.com/join/fOJdWRcS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/1a/3e/c21a3e85-5227-4dbe-51d0-cc720d6af3e0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:11.955Z
+Categories:
+
+Name: Simplenote
+Url: https://testflight.apple.com/join/Hg818y3x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/49/78/67/497867f4-0d92-2b61-b57e-3f9338a3f798/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:11.984Z
+Categories:
+
+Name: Wonga Lottery
+Url: https://testflight.apple.com/join/2HI4uWQP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/2d/ac/872dace5-9e6d-5be5-ded9-c4438390659c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:12.011Z
+Categories:
+
+Name: LLM on FHIR
+Url: https://testflight.apple.com/join/HBFZ5WOn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/92/28/359228cf-8fb0-0d9e-197f-8da5874098eb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:12.040Z
+Categories:
+
+Name: HoloKit
+Url: https://testflight.apple.com/join/dYfqUTw6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/7a/a2/af7aa25c-ecf7-a8f8-1d93-03dc79d550d7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-05-31T13:27:12.067Z
+Categories:
+
+Name: DNE Ecosystem
+Url: https://testflight.apple.com/join/noFcnPvI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d5/df/00d5dfbd-cb81-be56-194e-426c375763b1/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:12.097Z
+Categories:
+
+Name: Fuel. Calorie Counter
+Url: https://testflight.apple.com/join/IQzpJKqh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/eb/c1/63ebc199-f0b5-7721-ea0c-eabcb3310d4d/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:12.126Z
+Categories:
+
+Name: Dangcindog
+Url: https://testflight.apple.com/join/hKHGpfgw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/b6/20/36b6202e-29d3-b255-866e-1e5141c9166d/AppIcon-0-1x_U007ephone-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T13:27:12.154Z
+Categories:
+
+Name: BankingZV
+Url: https://testflight.apple.com/join/x5sOCqY1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/44/d8/5b/44d85b30-d0af-b159-04c8-3cc91d011e2f/AppIcon-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-05-31T13:27:12.182Z
+Categories:
+
+Name: Govee Tool
+Url: https://testflight.apple.com/join/ZiUofZJw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/b8/65/c5b865f7-c811-78ad-d72b-962e89820663/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:12.210Z
+Categories:
+
+Name: Matchful
+Url: https://testflight.apple.com/join/MRqGblKF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/5c/f3/c45cf314-ae34-e043-6abe-cb5f65467444/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:12.238Z
+Categories:
+
+Name: MathGPTPro
+Url: https://testflight.apple.com/join/Q4ISuSqQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/21/bc/1c21bc5b-1fec-42cc-cca6-c06740a6e826/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-05-31T13:27:12.266Z
+Categories:
+
+Name: My WEY-The Wey. A Way Forward.
+Url: https://testflight.apple.com/join/GAJvHmek
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/11/fb/b211fb48-7d0f-4cb8-c1a3-11b797e5f177/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:12.294Z
+Categories:
+
+Name: Television Time
+Url: https://testflight.apple.com/join/eP0BTwVi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/3b/65/483b654e-a637-07aa-75ab-f7e236de00ff/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-05-31T13:27:12.323Z
+Categories:
+
