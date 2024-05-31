@@ -36867,3 +36867,73 @@
 **Categories:**
 
 
+**Name:** [Sigmon](https://testflight.apple.com/join/aWi2B3On)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:37:09.302Z
+**Categories:**
+
+
+**Name:** [DNRcast](https://testflight.apple.com/join/ig94ae9a)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:37:09.331Z
+**Categories:**
+
+
+**Name:** [Famlicious](https://testflight.apple.com/join/0pjYRace)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:37:09.359Z
+**Categories:**
+
+
+**Name:** [Intuit Credit Karma](https://testflight.apple.com/join/JrqR9vkv)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:37:09.388Z
+**Categories:**
+
+
+**Name:** [A1 Toolbox](https://testflight.apple.com/join/5M3DB0US)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:37:09.415Z
+**Categories:**
+
+
+**Name:** [Dnero prod](https://testflight.apple.com/join/2r6UND5q)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:37:09.443Z
+**Categories:**
+
+
+**Name:** [Bears Looking: Gay Dating Chat](https://testflight.apple.com/join/pf43FeRA)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T05:37:09.472Z
+**Categories:**
+
+
+**Name:** [Informant 5 Calendar](https://testflight.apple.com/join/h1WB27ar)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:37:09.500Z
+**Categories:**
+
+
+**Name:** [SelfElite](https://testflight.apple.com/join/QyZyy850)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:37:09.529Z
+**Categories:**
+
+
+**Name:** [TrueCoverage UAT](https://testflight.apple.com/join/5MjcX8m7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:37:09.557Z
+**Categories:**
+
+
