@@ -357,3 +357,73 @@
 **Categories:**
 
 
+**Name:** [Moor Talk](https://testflight.apple.com/join/z5lqZNTg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:48:10.448Z
+**Categories:**
+
+
+**Name:** [MobileRetail](https://testflight.apple.com/join/dj5z03CP)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:48:10.483Z
+**Categories:**
+
+
+**Name:** [FluxGPT](https://testflight.apple.com/join/O7gFwRen)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:48:10.520Z
+**Categories:**
+
+
+**Name:** [Name Card for AFFiNE](https://testflight.apple.com/join/M17JO7V3)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:48:10.555Z
+**Categories:**
+
+
+**Name:** [HighwayRadar](https://testflight.apple.com/join/SOdGt1us)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:48:10.590Z
+**Categories:**
+
+
+**Name:** [O3Cloud](https://testflight.apple.com/join/v1wwH4Fi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:48:10.626Z
+**Categories:**
+
+
+**Name:** [Alta Aware](https://testflight.apple.com/join/8waet1xD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:48:10.662Z
+**Categories:**
+
+
+**Name:** [Pizza Helper for HSR](https://testflight.apple.com/join/lHoaVVYQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:48:10.697Z
+**Categories:**
+
+
+**Name:** [OVOSTAGE](https://testflight.apple.com/join/9ZLWymvx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:48:10.732Z
+**Categories:**
+
+
+**Name:** [Noor Chat](https://testflight.apple.com/join/yKKmzbhD)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:48:10.768Z
+**Categories:**
+
+
