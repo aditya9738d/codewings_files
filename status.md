@@ -17862,3 +17862,73 @@
 **Categories:**
 
 
+**Name:** [Yanosik](https://testflight.apple.com/join/Oim5943l)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:13:09.752Z
+**Categories:**
+
+
+**Name:** [ClienKit](https://testflight.apple.com/join/IUssNRpy)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:13:09.789Z
+**Categories:**
+
+
+**Name:** [Geovelo : bike GPS](https://testflight.apple.com/join/3tGq4Vsv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:13:09.826Z
+**Categories:**
+
+
+**Name:** [iGPSPORT](https://testflight.apple.com/join/ioPjgrRi)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:13:09.863Z
+**Categories:**
+
+
+**Name:** [The 1: UAT](https://testflight.apple.com/join/M2ysLVcN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:13:09.900Z
+**Categories:**
+
+
+**Name:** [Dikalo](https://testflight.apple.com/join/pZWRkOXn)
+**Click Count:** 7
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:13:09.936Z
+**Categories:**
+
+
+**Name:** [Sale App](https://testflight.apple.com/join/W9vjfPwT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:13:09.975Z
+**Categories:**
+
+
+**Name:** [HomeTeamNS UAT](https://testflight.apple.com/join/vh8u2dMQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:13:10.012Z
+**Categories:**
+
+
+**Name:** [Code App](https://testflight.apple.com/join/EgZ8sE2P)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:13:10.049Z
+**Categories:**
+
+
+**Name:** [MAE Support](https://testflight.apple.com/join/BAdfo8Cf)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:13:10.085Z
+**Categories:**
+
+
