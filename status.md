@@ -34872,3 +34872,73 @@
 **Categories:**
 
 
+**Name:** [Service Point Pro](https://testflight.apple.com/join/m9scoLMH)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:18:10.365Z
+**Categories:**
+
+
+**Name:** [KDB](https://testflight.apple.com/join/5NYuoa0E)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:18:10.400Z
+**Categories:**
+
+
+**Name:** [Headspace Care (Ginger)](https://testflight.apple.com/join/sTpCZcWG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:18:10.436Z
+**Categories:**
+
+
+**Name:** [Mercedes me](https://testflight.apple.com/join/sy7wTTt7)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:18:10.472Z
+**Categories:**
+
+
+**Name:** [TimeDeposit: Task timer report](https://testflight.apple.com/join/2WGIkfbJ)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T05:18:10.507Z
+**Categories:**
+
+
+**Name:** [Treeport](https://testflight.apple.com/join/TUvKkEE9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:18:10.543Z
+**Categories:**
+
+
+**Name:** [PDR](https://testflight.apple.com/join/tBeWVDMU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:18:10.579Z
+**Categories:**
+
+
+**Name:** [Scrypted](https://testflight.apple.com/join/mpXXwLk7)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:18:10.614Z
+**Categories:**
+
+
+**Name:** [Tsurukame - For WaniKani](https://testflight.apple.com/join/Fijye2AA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:18:10.650Z
+**Categories:**
+
+
+**Name:** [Contadino](https://testflight.apple.com/join/vwhQ6dzJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:18:10.686Z
+**Categories:**
+
+
