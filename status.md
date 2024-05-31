@@ -77,3 +77,73 @@
 **Categories:**
 
 
+**Name:** [Yadira](https://testflight.apple.com/join/h1QA5xQP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:44:11.459Z
+**Categories:**
+
+
+**Name:** [Pixwire](https://testflight.apple.com/join/PgY1zeKF)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:44:11.488Z
+**Categories:**
+
+
+**Name:** [Yup - Open Social All-In-One](https://testflight.apple.com/join/RlIGrKm5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:44:11.516Z
+**Categories:**
+
+
+**Name:** [Tussle Inc](https://testflight.apple.com/join/yyYSIplm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:44:11.545Z
+**Categories:**
+
+
+**Name:** [BIC Group](https://testflight.apple.com/join/FaP5D8Bo)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:44:11.573Z
+**Categories:**
+
+
+**Name:** [HolyGrails](https://testflight.apple.com/join/Cv5DsqXL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:44:11.601Z
+**Categories:**
+
+
+**Name:** [Mealstar Cocinero](https://testflight.apple.com/join/5JTO4OKr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:44:11.630Z
+**Categories:**
+
+
+**Name:** [BetterShifts](https://testflight.apple.com/join/RheXgQ6R)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:44:11.657Z
+**Categories:**
+
+
+**Name:** [Square Point of Sale (POS)](https://testflight.apple.com/join/sjSddveJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:44:11.685Z
+**Categories:**
+
+
+**Name:** [Bdk Native App](https://testflight.apple.com/join/2hCVHjya)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:44:11.713Z
+**Categories:**
+
+
