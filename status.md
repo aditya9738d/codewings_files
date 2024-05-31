@@ -28292,3 +28292,73 @@
 **Categories:**
 
 
+**Name:** [Bike Fun - Group Ride Calendar](https://testflight.apple.com/join/6sdNvZCG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:43:08.494Z
+**Categories:**
+
+
+**Name:** [The Home Depot](https://testflight.apple.com/join/wCtQCBPR)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:43:08.522Z
+**Categories:**
+
+
+**Name:** [ConnectUC](https://testflight.apple.com/join/Bp2rBiDS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:43:08.550Z
+**Categories:**
+
+
+**Name:** [VelozTaxi](https://testflight.apple.com/join/mSFNumKf)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T03:43:08.579Z
+**Categories:**
+
+
+**Name:** [QRScannerApp](https://testflight.apple.com/join/0BdTaswx)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:43:08.607Z
+**Categories:**
+
+
+**Name:** [Eastwatch - TV Show Tracker](https://testflight.apple.com/join/SmfNOeJ2)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T03:43:08.637Z
+**Categories:**
+
+
+**Name:** [BLG Wonen](https://testflight.apple.com/join/0gdP5ISu)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:43:08.665Z
+**Categories:**
+
+
+**Name:** [Xplor Deciplus](https://testflight.apple.com/join/zthKZFIC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:43:08.694Z
+**Categories:**
+
+
+**Name:** [PaperArcade](https://testflight.apple.com/join/JLfaXWHB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:43:08.723Z
+**Categories:**
+
+
+**Name:** [NOW Wallets](https://testflight.apple.com/join/ZlOZKbWY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:43:08.752Z
+**Categories:**
+
+
