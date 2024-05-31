@@ -28012,3 +28012,73 @@
 **Categories:**
 
 
+**Name:** [Speechable - Text to Voice](https://testflight.apple.com/join/8OYs1O2V)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:39:09.582Z
+**Categories:**
+
+
+**Name:** [Sunshine KSBank](https://testflight.apple.com/join/QrotjYdi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:39:09.611Z
+**Categories:**
+
+
+**Name:** [Ayoba](https://testflight.apple.com/join/7VmdxH4C)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:39:09.638Z
+**Categories:**
+
+
+**Name:** [FitnessSyncer](https://testflight.apple.com/join/WFPPizK6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:39:09.665Z
+**Categories:**
+
+
+**Name:** [IRL Link](https://testflight.apple.com/join/6WSPZxUQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:39:09.693Z
+**Categories:**
+
+
+**Name:** [Fast Habit Tracker - FastBot](https://testflight.apple.com/join/9gMlhI2k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:39:09.721Z
+**Categories:**
+
+
+**Name:** [Applaydu family games](https://testflight.apple.com/join/NCm69MHn)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:39:09.750Z
+**Categories:**
+
+
+**Name:** [Suunto](https://testflight.apple.com/join/DJyDC5SU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:39:09.778Z
+**Categories:**
+
+
+**Name:** [Shots - Events & Parties](https://testflight.apple.com/join/TsE0NySE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:39:09.806Z
+**Categories:**
+
+
+**Name:** [iAppStore](https://testflight.apple.com/join/XXEQdVKN)
+**Click Count:** 3
+**Beta Available:** open
+**Last Checked:** 2024-05-31T03:39:09.833Z
+**Categories:**
+
+
