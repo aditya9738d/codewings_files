@@ -35887,3 +35887,73 @@
 **Categories:**
 
 
+**Name:** [My Genie: Personality AI](https://testflight.apple.com/join/Hl5wgodr)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:23:08.868Z
+**Categories:**
+
+
+**Name:** [Printer Setup Tool](https://testflight.apple.com/join/drvGMmgX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:23:08.896Z
+**Categories:**
+
+
+**Name:** [PRINCE Merchant QA](https://testflight.apple.com/join/Yzi70jTM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:23:08.925Z
+**Categories:**
+
+
+**Name:** [Flying Lap F1](https://testflight.apple.com/join/2ubEielm)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T05:23:08.953Z
+**Categories:**
+
+
+**Name:** [NT IPTV](https://testflight.apple.com/join/ShJAiPMD)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:23:08.981Z
+**Categories:**
+
+
+**Name:** [Matter Verifier](https://testflight.apple.com/join/6BYFuCrW)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:23:09.014Z
+**Categories:**
+
+
+**Name:** [Elite Quiz](https://testflight.apple.com/join/sRD6VDm1)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:23:09.042Z
+**Categories:**
+
+
+**Name:** [Accor ALL - sandbox](https://testflight.apple.com/join/DroAuuwu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:23:09.070Z
+**Categories:**
+
+
+**Name:** [EasyVFR 4](https://testflight.apple.com/join/Zxbi0Hof)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:23:09.098Z
+**Categories:**
+
+
+**Name:** [SoProp UAT](https://testflight.apple.com/join/VbnXX6cD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:23:09.126Z
+**Categories:**
+
+
