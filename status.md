@@ -32982,3 +32982,73 @@
 **Categories:**
 
 
+**Name:** [Incrowd](https://testflight.apple.com/join/4h32bQgd)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:51:10.227Z
+**Categories:**
+
+
+**Name:** [FITIV Pulse Heart Rate Monitor](https://testflight.apple.com/join/JIKK58Sp)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:51:10.254Z
+**Categories:**
+
+
+**Name:** [Mellors](https://testflight.apple.com/join/w9WF8yTV)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:51:10.282Z
+**Categories:**
+
+
+**Name:** [CRM sales tracker by Pipedrive](https://testflight.apple.com/join/n6E7WO4k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:51:10.310Z
+**Categories:**
+
+
+**Name:** [Kaspersky Passwords & Docs](https://testflight.apple.com/join/jIkedoTJ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:51:10.337Z
+**Categories:**
+
+
+**Name:** [HEYTEA](https://testflight.apple.com/join/vKwE3Lrs)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:51:10.366Z
+**Categories:**
+
+
+**Name:** [Xi Calculator](https://testflight.apple.com/join/AZSypkSa)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:51:10.393Z
+**Categories:**
+
+
+**Name:** [ShedsDirectLLC](https://testflight.apple.com/join/VPzWsq4Q)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:51:10.428Z
+**Categories:**
+
+
+**Name:** [Clic for Sonos](https://testflight.apple.com/join/heSmRY4t)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:51:10.455Z
+**Categories:**
+
+
+**Name:** [Text-Panther](https://testflight.apple.com/join/Qt4zaXms)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:51:10.483Z
+**Categories:**
+
+
