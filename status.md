@@ -32912,3 +32912,73 @@
 **Categories:**
 
 
+**Name:** [Federated Farmers Wallet](https://testflight.apple.com/join/BAVx66sN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:50:22.034Z
+**Categories:**
+
+
+**Name:** [Fusion: Stations and Playlists](https://testflight.apple.com/join/mgKIQ9hU)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:50:22.062Z
+**Categories:**
+
+
+**Name:** [Embibe Classroom Preprod](https://testflight.apple.com/join/3qrHb5kN)
+**Click Count:** 6
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:50:22.089Z
+**Categories:**
+
+
+**Name:** [Wattpad - Read & Write Stories](https://testflight.apple.com/join/CXefLgKK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:50:22.117Z
+**Categories:**
+
+
+**Name:** [smallcase: Stock Investments](https://testflight.apple.com/join/XSkiZoQf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:50:22.145Z
+**Categories:**
+
+
+**Name:** [iContentPro](https://testflight.apple.com/join/m0rBXZzt)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:50:22.172Z
+**Categories:**
+
+
+**Name:** [Steps - Activity Tracker](https://testflight.apple.com/join/YWU5fJLj)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T04:50:22.200Z
+**Categories:**
+
+
+**Name:** [Vimcal: Calendar and Schedule](https://testflight.apple.com/join/W7evUHfZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:50:22.228Z
+**Categories:**
+
+
+**Name:** [iCanMall](https://testflight.apple.com/join/r6ZHVEFA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:50:22.255Z
+**Categories:**
+
+
+**Name:** [MzFit: Fitness & Workouts](https://testflight.apple.com/join/nfAeYMTd)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:50:22.284Z
+**Categories:**
+
+
