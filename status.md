@@ -35957,3 +35957,73 @@
 **Categories:**
 
 
+**Name:** [idealo - Price Comparison](https://testflight.apple.com/join/P8TWxiFT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:24:10.254Z
+**Categories:**
+
+
+**Name:** [Home Health Check](https://testflight.apple.com/join/nfKbmd7J)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:24:10.283Z
+**Categories:**
+
+
+**Name:** [HikLink](https://testflight.apple.com/join/k3DLVKFM)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:24:10.311Z
+**Categories:**
+
+
+**Name:** [B&D  Bakery&Delicacies](https://testflight.apple.com/join/fgonb2eQ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:24:10.338Z
+**Categories:**
+
+
+**Name:** [WM MP-Buch](https://testflight.apple.com/join/08MzJMt2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:24:10.367Z
+**Categories:**
+
+
+**Name:** [Pokebattler Raid Party](https://testflight.apple.com/join/jBxZkXqA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:24:10.395Z
+**Categories:**
+
+
+**Name:** [atome PH-Staging](https://testflight.apple.com/join/pitNHnF3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:24:10.423Z
+**Categories:**
+
+
+**Name:** [Cell to Singularity: Evolution](https://testflight.apple.com/join/RD9jGH9S)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:24:10.450Z
+**Categories:**
+
+
+**Name:** [CellarTracker: Wine Tracking](https://testflight.apple.com/join/TiV6SrKG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:24:10.479Z
+**Categories:**
+
+
+**Name:** [Moment87](https://testflight.apple.com/join/EU8XcEOE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:24:10.506Z
+**Categories:**
+
+
