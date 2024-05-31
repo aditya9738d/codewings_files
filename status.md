@@ -20172,3 +20172,73 @@
 **Categories:**
 
 
+**Name:** [Smart Vaults](https://testflight.apple.com/join/1CFTiTXh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:46:10.973Z
+**Categories:**
+
+
+**Name:** [Translucent – Spatial Web Apps](https://testflight.apple.com/join/64xgwI8e)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:46:11.009Z
+**Categories:**
+
+
+**Name:** [Sunrise TV](https://testflight.apple.com/join/OQYErdTj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:46:11.044Z
+**Categories:**
+
+
+**Name:** [Microsoft To Do](https://testflight.apple.com/join/JSq3UkAz)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:46:11.078Z
+**Categories:**
+
+
+**Name:** [Matic Candidate](https://testflight.apple.com/join/d6vWsDZF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:46:11.114Z
+**Categories:**
+
+
+**Name:** [Apollo Weiterbildungen](https://testflight.apple.com/join/crO6xJ3t)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:46:11.150Z
+**Categories:**
+
+
+**Name:** [HitFit Pro](https://testflight.apple.com/join/SVSfdxVC)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:46:11.185Z
+**Categories:**
+
+
+**Name:** [Esker Anywhere](https://testflight.apple.com/join/I6dNjjRl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:46:11.220Z
+**Categories:**
+
+
+**Name:** [Bright Visions](https://testflight.apple.com/join/yX1kpCil)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:46:11.255Z
+**Categories:**
+
+
+**Name:** [Bricksee](https://testflight.apple.com/join/wkPAMReO)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:46:11.290Z
+**Categories:**
+
+
