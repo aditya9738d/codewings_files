@@ -13662,3 +13662,73 @@
 **Categories:**
 
 
+**Name:** [Blocto: Crypto Wallet & NFTs](https://testflight.apple.com/join/zxlMasyx)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:10:22.847Z
+**Categories:**
+
+
+**Name:** [Mimi Uploader](https://testflight.apple.com/join/AbjtGWge)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:10:22.882Z
+**Categories:**
+
+
+**Name:** [HiJiffy](https://testflight.apple.com/join/7eWyRoLA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:10:22.918Z
+**Categories:**
+
+
+**Name:** [FarmAPP](https://testflight.apple.com/join/93Z5ELHf)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T00:10:22.954Z
+**Categories:**
+
+
+**Name:** [BarrageCloudSDKDemo](https://testflight.apple.com/join/LAQt4O4C)
+**Click Count:** 15
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:10:22.989Z
+**Categories:**
+
+
+**Name:** [Music Speed Changer ▶▶▶](https://testflight.apple.com/join/4Vf5Hl1N)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:10:23.026Z
+**Categories:**
+
+
+**Name:** [Enroute Flight Navigation](https://testflight.apple.com/join/jqPSdGNX)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:10:23.062Z
+**Categories:**
+
+
+**Name:** [YPO Dev](https://testflight.apple.com/join/SCGzqFZu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:10:23.097Z
+**Categories:**
+
+
+**Name:** [STARFACE](https://testflight.apple.com/join/HEY8lBRm)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:10:23.133Z
+**Categories:**
+
+
+**Name:** [POPclub: D2C Brands Shopping](https://testflight.apple.com/join/VBKtTtPG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:10:23.169Z
+**Categories:**
+
+
