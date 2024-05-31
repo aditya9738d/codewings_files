@@ -24512,3 +24512,73 @@
 **Categories:**
 
 
+**Name:** [TwoNav Premium: Maps Routes](https://testflight.apple.com/join/4SFNwRfY)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T02:48:10.597Z
+**Categories:**
+
+
+**Name:** [Akiflow](https://testflight.apple.com/join/EkR2moK1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:48:10.632Z
+**Categories:**
+
+
+**Name:** [Idle Island Builder](https://testflight.apple.com/join/mtzfb7Qu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:48:10.668Z
+**Categories:**
+
+
+**Name:** [Copia Wealth](https://testflight.apple.com/join/oUStxehv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:48:10.703Z
+**Categories:**
+
+
+**Name:** [Stanpro Genio](https://testflight.apple.com/join/LvtzYDAF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:48:10.738Z
+**Categories:**
+
+
+**Name:** [Techbit](https://testflight.apple.com/join/JbudYMLz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:48:10.774Z
+**Categories:**
+
+
+**Name:** [Audials Play - Radio & Podcast](https://testflight.apple.com/join/33fiI1b4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:48:10.809Z
+**Categories:**
+
+
+**Name:** [Tops-SIT](https://testflight.apple.com/join/d0DHc5aD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:48:10.844Z
+**Categories:**
+
+
+**Name:** [TimeSoul App](https://testflight.apple.com/join/9LjZvst1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:48:10.879Z
+**Categories:**
+
+
+**Name:** [Matchely](https://testflight.apple.com/join/nmK65ZZ3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:48:10.914Z
+**Categories:**
+
+
