@@ -33612,3 +33612,73 @@
 **Categories:**
 
 
+**Name:** [LocaMos](https://testflight.apple.com/join/KjufVyuE)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:00:51.369Z
+**Categories:**
+
+
+**Name:** [Verbs German Dictionary](https://testflight.apple.com/join/w2VyNpay)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:00:51.405Z
+**Categories:**
+
+
+**Name:** [Healome](https://testflight.apple.com/join/aAOprPZs)
+**Click Count:** 1
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T05:00:51.440Z
+**Categories:**
+
+
+**Name:** [Diabetes Food Tracker SugarBot](https://testflight.apple.com/join/DALmJA8b)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T05:00:51.476Z
+**Categories:**
+
+
+**Name:** [Guardian Vietnam](https://testflight.apple.com/join/leNrAtEw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:00:51.512Z
+**Categories:**
+
+
+**Name:** [GMG Prime App](https://testflight.apple.com/join/fe0Wzx77)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:00:51.547Z
+**Categories:**
+
+
+**Name:** [Equel Multilingual Communities](https://testflight.apple.com/join/ITlbxYYG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:00:51.583Z
+**Categories:**
+
+
+**Name:** [SuperCycle Bike Computer](https://testflight.apple.com/join/zFer65Bt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:00:51.618Z
+**Categories:**
+
+
+**Name:** [MyTherapy: Medication Reminder](https://testflight.apple.com/join/fm9mu1wl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:00:51.654Z
+**Categories:**
+
+
+**Name:** [Pluto TV (Debug)](https://testflight.apple.com/join/Jdg2lENi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:00:51.689Z
+**Categories:**
+
+
