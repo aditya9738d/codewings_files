@@ -287,3 +287,73 @@
 **Categories:**
 
 
+**Name:** [5UF CLUB](https://testflight.apple.com/join/hmTEDaE5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:47:08.199Z
+**Categories:**
+
+
+**Name:** [Sparkle Revolution Test](https://testflight.apple.com/join/wYhGX1Ig)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:47:08.235Z
+**Categories:**
+
+
+**Name:** [Center Beta](https://testflight.apple.com/join/lVUKEu4z)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:47:08.271Z
+**Categories:**
+
+
+**Name:** [iHR-VSAUAT](https://testflight.apple.com/join/afdon8jt)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:47:08.306Z
+**Categories:**
+
+
+**Name:** [Pizzahut Malaysia UAT](https://testflight.apple.com/join/ndcKZw7D)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:47:08.342Z
+**Categories:**
+
+
+**Name:** [UTM Virtual Machines](https://testflight.apple.com/join/XQ3tNoNn)
+**Click Count:** 8
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:47:08.377Z
+**Categories:**
+
+
+**Name:** [CalTopo](https://testflight.apple.com/join/lgUcGCij)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:47:08.413Z
+**Categories:**
+
+
+**Name:** [Free to Me](https://testflight.apple.com/join/UwgEx7ZN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:47:08.449Z
+**Categories:**
+
+
+**Name:** [Listen-Up](https://testflight.apple.com/join/4Ohcr5T5)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T05:47:08.487Z
+**Categories:**
+
+
+**Name:** [SenseMARS Avatar](https://testflight.apple.com/join/sidMI3xb)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:47:08.522Z
+**Categories:**
+
+
