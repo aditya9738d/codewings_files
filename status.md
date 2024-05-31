@@ -30042,3 +30042,73 @@
 **Categories:**
 
 
+**Name:** [TheKloo](https://testflight.apple.com/join/sdF63FYP)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:08:10.975Z
+**Categories:**
+
+
+**Name:** [Smart Heating](https://testflight.apple.com/join/D9s8tE2R)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:08:11.011Z
+**Categories:**
+
+
+**Name:** [Nusameta](https://testflight.apple.com/join/jGJujGvE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:08:11.046Z
+**Categories:**
+
+
+**Name:** [GC Insider](https://testflight.apple.com/join/EyioMtIF)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:08:11.082Z
+**Categories:**
+
+
+**Name:** [Jello](https://testflight.apple.com/join/VdrBFmbL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:08:11.116Z
+**Categories:**
+
+
+**Name:** [Deltapath Mobile](https://testflight.apple.com/join/tcIroNDK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:08:11.151Z
+**Categories:**
+
+
+**Name:** [DocTime](https://testflight.apple.com/join/6g4SSwKO)
+**Click Count:** 0
+**Beta Available:** not accepting
+**Last Checked:** 2024-05-31T04:08:11.187Z
+**Categories:**
+
+
+**Name:** [SMOLLAN SMART](https://testflight.apple.com/join/CvWmKloE)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:08:11.222Z
+**Categories:**
+
+
+**Name:** [HDS Driver App](https://testflight.apple.com/join/U7AtfURL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:08:11.257Z
+**Categories:**
+
+
+**Name:** [Tusker](https://testflight.apple.com/join/wtB7HYvG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T04:08:11.291Z
+**Categories:**
+
+
