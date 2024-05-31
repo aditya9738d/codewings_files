@@ -13802,3 +13802,73 @@
 **Categories:**
 
 
+**Name:** [CAPSULE SENSE](https://testflight.apple.com/join/QQcc877m)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:12:10.982Z
+**Categories:**
+
+
+**Name:** [Text With History](https://testflight.apple.com/join/yb47rJki)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:12:11.019Z
+**Categories:**
+
+
+**Name:** [Nexar Classic](https://testflight.apple.com/join/f8tSQ2q0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:12:11.054Z
+**Categories:**
+
+
+**Name:** [Muvonda Access](https://testflight.apple.com/join/kChXTPEC)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:12:11.090Z
+**Categories:**
+
+
+**Name:** [Gaming for Peace - GAP](https://testflight.apple.com/join/tJu81Sch)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:12:11.126Z
+**Categories:**
+
+
+**Name:** [HoneyPlayBox](https://testflight.apple.com/join/0YKBKSX6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:12:11.166Z
+**Categories:**
+
+
+**Name:** [NKF Nutrition](https://testflight.apple.com/join/4Wg0GG7G)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:12:11.202Z
+**Categories:**
+
+
+**Name:** [External Persona Testing](https://testflight.apple.com/join/msXJrOc6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:12:11.238Z
+**Categories:**
+
+
+**Name:** [safesteps-bostonu](https://testflight.apple.com/join/eE68sUfl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:12:11.274Z
+**Categories:**
+
+
+**Name:** [JTL-Wawi](https://testflight.apple.com/join/2WKPiip5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:12:11.310Z
+**Categories:**
+
+
