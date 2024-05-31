@@ -217,3 +217,73 @@
 **Categories:**
 
 
+**Name:** [Verus Wallet](https://testflight.apple.com/join/ZS43lYcw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:46:11.346Z
+**Categories:**
+
+
+**Name:** [Suprime Investrade Hybrid](https://testflight.apple.com/join/38TQwVBT)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:46:11.382Z
+**Categories:**
+
+
+**Name:** [DocuGive](https://testflight.apple.com/join/y4QWBRHh)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:46:11.417Z
+**Categories:**
+
+
+**Name:** [AFL Official](https://testflight.apple.com/join/LffL5q9T)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:46:11.453Z
+**Categories:**
+
+
+**Name:** [SimpliSplit](https://testflight.apple.com/join/0oryhdQ4)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:46:11.489Z
+**Categories:**
+
+
+**Name:** [Alpenglow: Sunset Prediction](https://testflight.apple.com/join/61DuEizb)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:46:11.525Z
+**Categories:**
+
+
+**Name:** [Eightup](https://testflight.apple.com/join/1eml0rrZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:46:11.561Z
+**Categories:**
+
+
+**Name:** [CAD ePuas UAT](https://testflight.apple.com/join/uGH0VWpu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:46:11.596Z
+**Categories:**
+
+
+**Name:** [Check Point Capsule Workspace](https://testflight.apple.com/join/oPbBwk8o)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:46:11.632Z
+**Categories:**
+
+
+**Name:** [Fedicat](https://testflight.apple.com/join/b6GatWTY)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T05:46:11.667Z
+**Categories:**
+
+
