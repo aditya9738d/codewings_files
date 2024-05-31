@@ -24302,3 +24302,73 @@
 **Categories:**
 
 
+**Name:** [Mercos - app de vendas](https://testflight.apple.com/join/Bqmr3dZ6)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:45:24.086Z
+**Categories:**
+
+
+**Name:** [Kiki: Social](https://testflight.apple.com/join/4HytpS8B)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:45:24.122Z
+**Categories:**
+
+
+**Name:** [Bank of Montserrat](https://testflight.apple.com/join/CDJ3OVH0)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:45:24.157Z
+**Categories:**
+
+
+**Name:** [THORWallet: DeFi Crypto Wallet](https://testflight.apple.com/join/f5LW68I8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:45:24.192Z
+**Categories:**
+
+
+**Name:** [APS Wallet Agent UAT](https://testflight.apple.com/join/HDZDSWDe)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:45:24.228Z
+**Categories:**
+
+
+**Name:** [HuiOne-test](https://testflight.apple.com/join/oEUeqGeZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:45:24.263Z
+**Categories:**
+
+
+**Name:** [SM Data](https://testflight.apple.com/join/Y9naobS1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:45:24.298Z
+**Categories:**
+
+
+**Name:** [VanigliaPro](https://testflight.apple.com/join/kKlcn37G)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:45:24.333Z
+**Categories:**
+
+
+**Name:** [KeyCard BBM](https://testflight.apple.com/join/5EukzLT1)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T02:45:24.369Z
+**Categories:**
+
+
+**Name:** [Deezer: Music Player, Podcast](https://testflight.apple.com/join/e7mCOEeg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:45:24.405Z
+**Categories:**
+
+
