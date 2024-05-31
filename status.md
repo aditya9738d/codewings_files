@@ -18562,3 +18562,73 @@
 **Categories:**
 
 
+**Name:** [Vilja](https://testflight.apple.com/join/7s1wL3HL)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:23:09.296Z
+**Categories:**
+
+
+**Name:** [Ease-Amind](https://testflight.apple.com/join/Acq7jDLi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:23:09.332Z
+**Categories:**
+
+
+**Name:** [daoStk](https://testflight.apple.com/join/0FKLLJMM)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:23:09.368Z
+**Categories:**
+
+
+**Name:** [Misty beta](https://testflight.apple.com/join/S6spJXQ1)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:23:09.405Z
+**Categories:**
+
+
+**Name:** [Store Card Wallet: Barcode Pal](https://testflight.apple.com/join/bD6QW9pJ)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:23:09.440Z
+**Categories:**
+
+
+**Name:** [Grid 2.0 UAT](https://testflight.apple.com/join/Dv2pvGuI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:23:09.476Z
+**Categories:**
+
+
+**Name:** [Crumbl Crew 2](https://testflight.apple.com/join/qGimPVP4)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:23:09.513Z
+**Categories:**
+
+
+**Name:** [Jakdojade - Timetables](https://testflight.apple.com/join/GAW1eZXA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:23:09.548Z
+**Categories:**
+
+
+**Name:** [SHWDWN BETA](https://testflight.apple.com/join/oZXB1aNA)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:23:09.585Z
+**Categories:**
+
+
+**Name:** [Qobuz: Music & Editorial](https://testflight.apple.com/join/GPJZwnh9)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:23:09.625Z
+**Categories:**
+
+
