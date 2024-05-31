@@ -24652,3 +24652,73 @@
 **Categories:**
 
 
+**Name:** [ELOQUII](https://testflight.apple.com/join/OJk4Uenf)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:50:25.291Z
+**Categories:**
+
+
+**Name:** [Drive 2 Survive](https://testflight.apple.com/join/NSP76djg)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:50:25.327Z
+**Categories:**
+
+
+**Name:** [What's On TV](https://testflight.apple.com/join/L3GA3TR8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:50:25.362Z
+**Categories:**
+
+
+**Name:** [Everycards: Flashcards Quizzes](https://testflight.apple.com/join/vPjeZ0Kq)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:50:25.398Z
+**Categories:**
+
+
+**Name:** [Free Your Kitchen](https://testflight.apple.com/join/bDqCbq2k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:50:25.434Z
+**Categories:**
+
+
+**Name:** [Yalla Ludo - Ludo&Domino](https://testflight.apple.com/join/MVaIYlGT)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T02:50:25.471Z
+**Categories:**
+
+
+**Name:** [RailCube Mobile](https://testflight.apple.com/join/hI9YK266)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:50:25.506Z
+**Categories:**
+
+
+**Name:** [MobiSign](https://testflight.apple.com/join/3VDw6koW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:50:25.542Z
+**Categories:**
+
+
+**Name:** [Shapr3D Beta](https://testflight.apple.com/join/Dm6lqUW7)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:50:25.576Z
+**Categories:**
+
+
+**Name:** [Synappx Go](https://testflight.apple.com/join/do0mqh9y)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:50:25.611Z
+**Categories:**
+
+
