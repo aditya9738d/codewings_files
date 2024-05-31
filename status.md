@@ -19752,3 +19752,73 @@
 **Categories:**
 
 
+**Name:** [Castle Empire](https://testflight.apple.com/join/p6Vl1pLP)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:40:21.609Z
+**Categories:**
+
+
+**Name:** [SushiDebtOff](https://testflight.apple.com/join/TWfxi97k)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:40:21.644Z
+**Categories:**
+
+
+**Name:** [Welco - Relais particuliers](https://testflight.apple.com/join/DvCGTiws)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:40:21.679Z
+**Categories:**
+
+
+**Name:** [Wipi](https://testflight.apple.com/join/uABDyoSk)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:40:21.715Z
+**Categories:**
+
+
+**Name:** [Nro O...](https://testflight.apple.com/join/B4KxzFpu)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:40:21.750Z
+**Categories:**
+
+
+**Name:** [Hello smart (SIT)](https://testflight.apple.com/join/6KxvN9lz)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:40:21.786Z
+**Categories:**
+
+
+**Name:** [Bitkub Metaverse](https://testflight.apple.com/join/hrwqekVZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:40:21.820Z
+**Categories:**
+
+
+**Name:** [Penguin Run: Escape from Ice](https://testflight.apple.com/join/wqstETKZ)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:40:21.856Z
+**Categories:**
+
+
+**Name:** [mindlife](https://testflight.apple.com/join/kdt9LWvX)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:40:21.891Z
+**Categories:**
+
+
+**Name:** [KitchenOwl](https://testflight.apple.com/join/VkbZt2HD)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:40:21.926Z
+**Categories:**
+
+
