@@ -14572,3 +14572,73 @@
 **Categories:**
 
 
+**Name:** [Fanttik Cam](https://testflight.apple.com/join/p1oFKizk)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:24:12.587Z
+**Categories:**
+
+
+**Name:** [ConnectLife](https://testflight.apple.com/join/JTuYck7z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:24:12.624Z
+**Categories:**
+
+
+**Name:** [CBG Mobile](https://testflight.apple.com/join/1V3rm9dK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:24:12.659Z
+**Categories:**
+
+
+**Name:** [Cashku Staging](https://testflight.apple.com/join/sBU8vrHB)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:24:12.695Z
+**Categories:**
+
+
+**Name:** [SDR GO](https://testflight.apple.com/join/KvBmPQ5w)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:24:12.731Z
+**Categories:**
+
+
+**Name:** [maevsi](https://testflight.apple.com/join/kkStPDoc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:24:12.767Z
+**Categories:**
+
+
+**Name:** [KIEMTHEMB](https://testflight.apple.com/join/g8PLsHaI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:24:12.822Z
+**Categories:**
+
+
+**Name:** [Power Of Power](https://testflight.apple.com/join/iOu2V3xs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:24:12.869Z
+**Categories:**
+
+
+**Name:** [Corsano](https://testflight.apple.com/join/cuAOjWGs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:24:12.904Z
+**Categories:**
+
+
+**Name:** [Max Me](https://testflight.apple.com/join/2qa5beAh)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:24:12.939Z
+**Categories:**
+
+
