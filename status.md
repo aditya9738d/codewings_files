@@ -18142,3 +18142,73 @@
 **Categories:**
 
 
+**Name:** [BESV Smart Plus App](https://testflight.apple.com/join/FLmvkYS8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:17:09.944Z
+**Categories:**
+
+
+**Name:** [Fair Plus](https://testflight.apple.com/join/Ao0G8UZD)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T01:17:09.980Z
+**Categories:**
+
+
+**Name:** [GO-ACT](https://testflight.apple.com/join/qxWL77Pv)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:17:10.015Z
+**Categories:**
+
+
+**Name:** [Air Manager](https://testflight.apple.com/join/f81FJgKN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:17:10.051Z
+**Categories:**
+
+
+**Name:** [eM Client](https://testflight.apple.com/join/nzXZuIQs)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:17:10.087Z
+**Categories:**
+
+
+**Name:** [Memento: Modern Reminders](https://testflight.apple.com/join/aRvubPov)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:17:10.122Z
+**Categories:**
+
+
+**Name:** [monpay](https://testflight.apple.com/join/kCeARWvI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:17:10.158Z
+**Categories:**
+
+
+**Name:** [repeatup-STG](https://testflight.apple.com/join/2JFHqcf0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:17:10.195Z
+**Categories:**
+
+
+**Name:** [Spiral Engineering](https://testflight.apple.com/join/iQt3or0z)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:17:10.231Z
+**Categories:**
+
+
+**Name:** [Hanami - Manga Reader](https://testflight.apple.com/join/VUPzZpkc)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T01:17:10.267Z
+**Categories:**
+
+
