@@ -22342,3 +22342,73 @@
 **Categories:**
 
 
+**Name:** [Qomunal](https://testflight.apple.com/join/GhGj5Bl0)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:17:08.571Z
+**Categories:**
+
+
+**Name:** [Roka: Dating & Matchmaking App](https://testflight.apple.com/join/gG9P3Q3v)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:17:08.607Z
+**Categories:**
+
+
+**Name:** [Cleo: Up to \$250 Cash Advance](https://testflight.apple.com/join/fDG9hWng)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:17:08.672Z
+**Categories:**
+
+
+**Name:** [Japfa Feed - Sales](https://testflight.apple.com/join/Zh2fP7OG)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:17:08.707Z
+**Categories:**
+
+
+**Name:** [zDrip](https://testflight.apple.com/join/ckUeZYVm)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T02:17:08.743Z
+**Categories:**
+
+
+**Name:** [Tata CLiQ Palette: Shop Beauty](https://testflight.apple.com/join/SPetKI7I)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:17:08.778Z
+**Categories:**
+
+
+**Name:** [Nautica WooCommerce](https://testflight.apple.com/join/mrvIRLfw)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:17:08.813Z
+**Categories:**
+
+
+**Name:** [HerVenture](https://testflight.apple.com/join/8nPxfqGS)
+**Click Count:** 1
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:17:08.849Z
+**Categories:**
+
+
+**Name:** [A1Metal](https://testflight.apple.com/join/zAwmxkh5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:17:08.885Z
+**Categories:**
+
+
+**Name:** [I Remember When](https://testflight.apple.com/join/hEh8SXPI)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T02:17:08.921Z
+**Categories:**
+
+
