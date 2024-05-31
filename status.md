@@ -13102,3 +13102,73 @@
 **Categories:**
 
 
+**Name:** [HiFutureSelf - Future Messages](https://testflight.apple.com/join/zRKU0Od8)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:02:11.676Z
+**Categories:**
+
+
+**Name:** [TruMonitor - TruVent](https://testflight.apple.com/join/8RIXkqVl)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:02:11.704Z
+**Categories:**
+
+
+**Name:** [PowerAlarm](https://testflight.apple.com/join/G3MPcq6r)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:02:11.737Z
+**Categories:**
+
+
+**Name:** [Supernova AI English Practice](https://testflight.apple.com/join/t3WTd9eN)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:02:11.767Z
+**Categories:**
+
+
+**Name:** [UPC TV](https://testflight.apple.com/join/CuDxceM5)
+**Click Count:** 2
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:02:11.794Z
+**Categories:**
+
+
+**Name:** [My LEXUS](https://testflight.apple.com/join/bvdS5Fd2)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:02:11.821Z
+**Categories:**
+
+
+**Name:** [PurplePages.App](https://testflight.apple.com/join/ECKcvtwi)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:02:11.850Z
+**Categories:**
+
+
+**Name:** [Nukua Gestor Comercial STAS](https://testflight.apple.com/join/X9jhbpWW)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:02:11.877Z
+**Categories:**
+
+
+**Name:** [HCL Connections](https://testflight.apple.com/join/4aWO2Eib)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:02:11.905Z
+**Categories:**
+
+
+**Name:** [Lock Launcher - Screen Widgets](https://testflight.apple.com/join/LAl8MicM)
+**Click Count:** 0
+**Beta Available:** full
+**Last Checked:** 2024-05-31T00:02:11.932Z
+**Categories:**
+
+
