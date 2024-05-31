@@ -13592,3 +13592,73 @@
 **Categories:**
 
 
+**Name:** [Courier Rider VN](https://testflight.apple.com/join/saF5qiaj)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:09:10.003Z
+**Categories:**
+
+
+**Name:** [Duet](https://testflight.apple.com/join/ltKGGLIf)
+**Click Count:** 1
+**Beta Available:** full
+**Last Checked:** 2024-05-31T00:09:10.039Z
+**Categories:**
+
+
+**Name:** [F/Mobile](https://testflight.apple.com/join/SOOpPlZ5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:09:10.074Z
+**Categories:**
+
+
+**Name:** [Calendars 5 by Readdle](https://testflight.apple.com/join/tC44BniC)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:09:10.111Z
+**Categories:**
+
+
+**Name:** [BESV Service App](https://testflight.apple.com/join/Ey0VASn3)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:09:10.147Z
+**Categories:**
+
+
+**Name:** [GradeAFuel](https://testflight.apple.com/join/vP2QxWBS)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:09:10.182Z
+**Categories:**
+
+
+**Name:** [Time’s Up! — Visual Timer](https://testflight.apple.com/join/wLaAUd6G)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:09:10.219Z
+**Categories:**
+
+
+**Name:** [Paired](https://testflight.apple.com/join/sA2pj2Be)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:09:10.255Z
+**Categories:**
+
+
+**Name:** [Nizz - Chore Tracker](https://testflight.apple.com/join/dvvZ01V5)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:09:10.292Z
+**Categories:**
+
+
+**Name:** [Call Recorder ACR ◉App MyCalls](https://testflight.apple.com/join/aIv8Y1wK)
+**Click Count:** 0
+**Beta Available:** open
+**Last Checked:** 2024-05-31T00:09:10.328Z
+**Categories:**
+
+
