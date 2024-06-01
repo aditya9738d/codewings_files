@@ -8494,3 +8494,147 @@ Last Checked: 2024-06-01T14:18:12.890Z
 Categories:
 
 
+Name: What Are Those!? App
+Url: https://testflight.apple.com/join/5sQrm9MF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/c7/80/50c780b8-5850-9ce3-e35d-abd58fe9714c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:12.726Z
+Categories:
+
+
+Name: Whatever - Dates for Couples
+Url: https://testflight.apple.com/join/6uvfdowB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/74/ba/ff74ba69-12d2-68be-8e13-cb1cafaa0b04/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T14:19:12.762Z
+Categories:
+
+
+Name: Widgetsmith
+Url: https://testflight.apple.com/join/U1xowuoZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/76/be/aa76bed0-fa8e-2011-4a79-47559f1870f5/AppIcon.lsr/200x200bb-8.png
+Click Count: 7
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:12.799Z
+Categories:
+
+
+Name: Winee3 Beta
+Url: https://testflight.apple.com/join/IFjwtnsG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/92/17/079217ff-e133-c828-b0ed-44c813f5b795/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T14:19:12.835Z
+Categories:
+
+
+Name: Wingman
+Url: https://testflight.apple.com/join/I63dW4bi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/8b/b3/538bb306-2e3b-0cf0-4f0a-4be88bc53005/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T14:19:12.871Z
+Categories:
+
+
+Name: Winners List
+Url: https://testflight.apple.com/join/SnIvJgRg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/ee/f8/edeef849-48da-5b05-85e2-1bb9ad65bd49/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:12.907Z
+Categories:
+
+
+Name: Wisej.NET Hybrid
+Url: https://testflight.apple.com/join/WcgU4Oil
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/c4/39/bac439de-e964-8660-95b2-eb6a4346dbb7/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:12.943Z
+Categories:
+
+
+Name: WoWs Info Future
+Url: https://testflight.apple.com/join/685rpJS8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/11/1d/bc111dba-d448-2e81-f064-a0017a8b2f07/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:12.978Z
+Categories:
+
+
+Name: Women'secret
+Url: https://testflight.apple.com/join/eZR4aiJY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/43/c0/8043c0fa-e740-9f72-19fd-9d500b30c102/AppIcon-1x_U007ephone-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:13.013Z
+Categories:
+
+
+Name: Wonderwake: Gentle Alarm Clock
+Url: https://testflight.apple.com/join/5yUkUQRe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0b/db/a9/0bdba9e5-2ed4-cd43-f289-55022ade3099/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:13.049Z
+Categories:
+
+
+Name: Woopdo
+Url: https://testflight.apple.com/join/eqcSqwuI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9d/db/509ddb1b-8523-c2c2-6735-5919fbefc38d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T14:19:13.086Z
+Categories:
+
+
+Name: Wordy Word Picker
+Url: https://testflight.apple.com/join/dUfJ3mdV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/f0/74/fef074b0-7a1a-576c-535a-442e7827a00f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:13.123Z
+Categories:
+
+
+Name: WorkForce Dev
+Url: https://testflight.apple.com/join/C0oKDMB9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/a6/fc/b9a6fc1e-1e50-9a79-4112-271e49f44e82/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:13.158Z
+Categories:
+
+
+Name: WorkHR
+Url: https://testflight.apple.com/join/2oZXcpEQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f5/c3/6f/f5c36f8c-a8de-49fc-ce7a-11af8060eeee/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:13.195Z
+Categories:
+
+
+Name: Working Hours 4b
+Url: https://testflight.apple.com/join/FtzoFkE8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/2e/32/872e323d-2b50-e447-5277-e7aeec18594c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:13.230Z
+Categories:
+
+
+Name: WorkoutGPT
+Url: https://testflight.apple.com/join/Gnj7iziU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/c8/3d/d2c83dc5-3ea6-286c-0ca2-69f3bd415bfe/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:19:13.266Z
+Categories:
+
+
