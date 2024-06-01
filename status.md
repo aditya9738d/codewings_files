@@ -7486,3 +7486,147 @@ Last Checked: 2024-06-01T10:33:12.132Z
 Categories:
 
 
+Name: i wanna be the creator
+Url: https://testflight.apple.com/join/CHz1LEJR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/38/21/8338211c-0a49-05b1-0a8f-2402a653859e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.106Z
+Categories:
+
+
+Name: CPR Life Support:  Life Saver
+Url: https://testflight.apple.com/join/ToOnIHhR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/59/c9/b0/59c9b006-8efb-49a6-6ce5-dcf351b49635/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.141Z
+Categories:
+
+
+Name: Home Inventory Itemlist
+Url: https://testflight.apple.com/join/yhttZvOd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/d6/33/d5d63384-eb00-4097-0bc1-7c2fcdabf517/AppIcon-0-0-1x_U007epad-0-0-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.177Z
+Categories:
+
+
+Name: TrueID: #1 Smart Entertainment
+Url: https://testflight.apple.com/join/CrbUBEe3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/38/97/ed389735-dbbc-8005-0e72-f893ee5da555/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.214Z
+Categories:
+
+
+Name: Ignite by Igloo
+Url: https://testflight.apple.com/join/GW28v1hF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/a5/d3/c6a5d37c-268e-7165-17cc-e30f01c6183d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.250Z
+Categories:
+
+
+Name: New Cambridge
+Url: https://testflight.apple.com/join/QTltAL3G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7b/c6/c5/7bc6c506-72e6-5000-2248-c5d095aa4027/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.288Z
+Categories:
+
+
+Name: MTG Scanner - Lion’s Eye
+Url: https://testflight.apple.com/join/yj6QDl0H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/78/4c/da/784cda18-2685-ef18-c760-915b0b874505/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.324Z
+Categories:
+
+
+Name: AppMySite - My Wordpress
+Url: https://testflight.apple.com/join/OLPs2xOB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e2/e3/29/e2e3295d-a285-64b4-906b-7ed4bc4db7a0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.360Z
+Categories:
+
+
+Name: mSamex
+Url: https://testflight.apple.com/join/CQLK87FY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f3/7a/51/f37a5189-1ec9-9740-b6da-faa7972aaf1c/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.396Z
+Categories:
+
+
+Name: Hito App
+Url: https://testflight.apple.com/join/0fOZD2hD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/e1/65/8de165b9-faca-02be-fdb9-7bd913091311/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.432Z
+Categories:
+
+
+Name: Commande
+Url: https://testflight.apple.com/join/RXIFo8jG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/93/64/ae/9364ae18-4751-e2ea-97ac-a5fc6c6e7691/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.468Z
+Categories:
+
+
+Name: WorkTimes - Hours Tracker
+Url: https://testflight.apple.com/join/JlFlfIxN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/4d/f4/764df4a6-df0a-266b-e7d8-30792dd6b1df/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-01T10:34:10.504Z
+Categories:
+
+
+Name: Pigeon for Telegram
+Url: https://testflight.apple.com/join/nK86VViW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/7f/33/ba7f33a7-3ffa-d31c-92a8-46ef139146e5/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.541Z
+Categories:
+
+
+Name: STX Beta
+Url: https://testflight.apple.com/join/wRK4VY5I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e5/4c/9b/e54c9b04-0bad-d335-8269-58badd6c9e3a/AppIcon_BETA-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.578Z
+Categories:
+
+
+Name: MSC Force Medical
+Url: https://testflight.apple.com/join/65UK8DIv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/ac/ac/2aacac73-2a1b-6ae2-1cf6-d88942b00a5d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T10:34:10.614Z
+Categories:
+
+
+Name: ShortSheets
+Url: https://testflight.apple.com/join/zVFQFklC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/c2/7e/c6c27eac-a72e-a9b1-c904-416086d82cd0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T10:34:10.650Z
+Categories:
+
+
