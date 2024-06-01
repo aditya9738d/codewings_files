@@ -9070,3 +9070,147 @@ Last Checked: 2024-06-01T14:22:15.326Z
 Categories:
 
 
+Name: askdoctors
+Url: https://testflight.apple.com/join/1Hw9dkaN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2c/9b/2b/2c9b2bfb-89f5-3475-b7b1-5fa19cd77682/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.306Z
+Categories:
+
+
+Name: barq.social
+Url: https://testflight.apple.com/join/aYhNJJAT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/ba/60/9fba60dd-e9a9-d029-5ebb-8e0540b49327/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.334Z
+Categories:
+
+
+Name: beChecklist
+Url: https://testflight.apple.com/join/pYiShsnj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/ea/cf/50eacfb5-19a5-8dcd-6ad6-709e379f1616/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T14:23:12.362Z
+Categories:
+
+
+Name: beat-tap
+Url: https://testflight.apple.com/join/3Fr9iPjb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/46/12/c44612a8-338c-b30b-71a2-b8acd97d83e9/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.391Z
+Categories:
+
+
+Name: blueiotAppDemo
+Url: https://testflight.apple.com/join/hIqcShu8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/79/4b/57794bc7-8921-0492-5333-0d60ecaa467f/AppIcon-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.420Z
+Categories:
+
+
+Name: boop: Meet, Network, Engage
+Url: https://testflight.apple.com/join/lhiEluu4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/8f/0c/c68f0ca8-661a-d597-4408-495adad09879/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T14:23:12.448Z
+Categories:
+
+
+Name: bot tool
+Url: https://testflight.apple.com/join/Kg7KYmC3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/93/25/20/932520d1-a850-2f5f-b456-72c73e9b5dcc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.476Z
+Categories:
+
+
+Name: c-Max
+Url: https://testflight.apple.com/join/YbTeHsQE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/95/e7/0f/95e70fb7-e3ad-a3eb-322c-9890630d3256/AppIcon-c-Max_Network_Lighting_Controls-0-0-1x_U007emarketing-0-5-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.506Z
+Categories:
+
+
+Name: cityradar
+Url: https://testflight.apple.com/join/MRsOANwy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5f/a0/98/5fa0989b-5f78-cc08-5f55-31bb28604d43/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.534Z
+Categories:
+
+
+Name: cnMaestro Subscriber
+Url: https://testflight.apple.com/join/JroFOiAc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/41/c4/41/41c44184-d2df-805b-e58b-39dfe1bfdc33/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.562Z
+Categories:
+
+
+Name: coinbyte
+Url: https://testflight.apple.com/join/WQt92zUm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/9a/9f/9d9a9fa0-a9da-7583-087f-02e48be2cf46/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.590Z
+Categories:
+
+
+Name: cuddle+kind
+Url: https://testflight.apple.com/join/4QS15nus
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/b5/a2/a2b5a25c-ea5c-d3b3-c395-921499b0032c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.618Z
+Categories:
+
+
+Name: dYdX V4
+Url: https://testflight.apple.com/join/cVXR4niD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/23/d9/2123d9e5-b4c6-1329-6d5b-2e50d4468378/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.647Z
+Categories:
+
+
+Name: debtMe
+Url: https://testflight.apple.com/join/QH523MIn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/1a/20/191a2043-9341-262e-5a08-a2a43217c824/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.674Z
+Categories:
+
+
+Name: dime.algo
+Url: https://testflight.apple.com/join/qCH71rx7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/7b/ee/9a7bee46-ba3a-7244-7f90-169fe4236563/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T14:23:12.703Z
+Categories:
+
+
+Name: doForms BETA
+Url: https://testflight.apple.com/join/reM6lFmL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/06/fa/d806fa16-61d0-8529-a727-e1bd85dda779/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T14:23:12.731Z
+Categories:
+
+
