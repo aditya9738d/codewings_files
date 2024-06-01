@@ -14506,3 +14506,120 @@ Last Checked: 2024-06-01T19:37:11.598Z
 Categories:
 
 
+Name: 9292 reisplanner OV + e-ticket
+Url: https://testflight.apple.com/join/OSuZumHa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/df/8f/84df8fdf-5f91-cd84-fac9-f8092ce401d1/AppIconBeta-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:38:11.034Z
+Categories:
+
+
+Name: glossy
+Url: https://testflight.apple.com/join/ebxUo86E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/e6/aa/5de6aa95-70a7-9d2a-c8a5-b210bce5bcaf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:38:11.070Z
+Categories:
+
+
+Name: AniXPlayer
+Url: https://testflight.apple.com/join/R6JotnNG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/02/69/2402692a-97df-c106-cc53-6d533c0f2860/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:38:11.107Z
+Categories:
+
+
+Name: Alo68
+Url: https://testflight.apple.com/join/V6CXYd4T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/ee/f9/76eef9c5-15d9-5c36-d1c2-45dc16712898/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:38:11.143Z
+Categories:
+
+
+Name: Roundglass Living: Live Better
+Url: https://testflight.apple.com/join/ABtG3nlN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/06/ac/a106acd4-795e-61f3-0f51-e27c6c7aee63/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:38:11.179Z
+Categories:
+
+
+Name: StrikeX | DeFi Crypto Wallet
+Url: https://testflight.apple.com/join/gqY0LHSd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/f0/22/a7f0222b-b526-b1d7-1569-6492b462136b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:38:11.215Z
+Categories:
+
+
+Name: Volumetrics Player
+Url: https://testflight.apple.com/join/cqEtsCQu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/11/ea/cd11eadc-5445-cf0a-4070-4b1845d51a2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:38:11.251Z
+Categories:
+
+
+Name: Guild of Guardians
+Url: https://testflight.apple.com/join/qJAzjgne
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/94/5c/7e945c90-a2da-72fb-3085-1a51d94aa9bc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:38:11.287Z
+Categories:
+
+
+Name: HDS Legacy
+Url: https://testflight.apple.com/join/M0tjtpcS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/4c/bd/394cbdc4-32df-7c8f-5fdd-55a9156b36f8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T19:38:11.323Z
+Categories:
+
+
+Name: YouSee Play
+Url: https://testflight.apple.com/join/jsZVs96K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/a2/61/d9a26140-a927-57a5-332a-43f4b90bb49e/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:38:11.359Z
+Categories:
+
+
+Name: Chaos Alpha
+Url: https://testflight.apple.com/join/TAsTjvnv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/36/75/483675e0-2073-e9c5-2fe4-299b8e5cbe65/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:38:11.394Z
+Categories:
+
+
+Name: Dental 99 Pro
+Url: https://testflight.apple.com/join/1Rje4cEy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/6a/5b/866a5be8-67d9-5a43-680e-3c34a4412635/AppIcon-Production-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-01T19:38:11.430Z
+Categories:
+
+
+Name: soundcore
+Url: https://testflight.apple.com/join/kp4vs6Kb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/20/34/0a/20340ade-a5c9-96ea-8913-8936cb0c5987/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: error
+Last Checked: 2024-06-01T19:38:11.466Z
+Categories:
+
+
