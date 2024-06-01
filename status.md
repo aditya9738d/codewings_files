@@ -1987,3 +1987,120 @@ Last Checked: 2024-06-01T17:40:23.150Z
 Categories:
 
 
+Name: iHRP QA
+Url: https://testflight.apple.com/join/FY2xNTcv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/35/2a/88352a69-74c7-3fcd-71ef-b56dd3f3a9a7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.541Z
+Categories:
+
+
+Name: AEON Rohas UAT
+Url: https://testflight.apple.com/join/xyKrvf9m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/94/33/ff943309-fc1e-7c30-6360-bff0ef4c8981/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.577Z
+Categories:
+
+
+Name: PRESTO
+Url: https://testflight.apple.com/join/nrw6ENok
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/f9/bc/a1f9bc6a-7bd7-a79c-1a58-1d5c29fefc49/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.613Z
+Categories:
+
+
+Name: OneMeter
+Url: https://testflight.apple.com/join/xFdpjcCr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/37/f5/0537f50d-4863-9749-6833-e6c7db429ad5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.648Z
+Categories:
+
+
+Name: Pulse Ispu
+Url: https://testflight.apple.com/join/HeHMNmF9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/2f/40/e62f4048-c14b-c0da-95c9-f07e02fc4240/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.684Z
+Categories:
+
+
+Name: DBOE
+Url: https://testflight.apple.com/join/txpR5LQT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/d1/52/efd15217-c9fc-d031-cf3d-c28967e57195/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.720Z
+Categories:
+
+
+Name: PingPath
+Url: https://testflight.apple.com/join/ZTExoCh7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d2/31/90/d2319034-a8e6-9b9c-5a32-aeab6b0b876a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.757Z
+Categories:
+
+
+Name: Mobile Stream 2
+Url: https://testflight.apple.com/join/cqKsrGzE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/93/68/ec/9368ece5-dafd-27eb-4f04-c91e6ae6014f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.792Z
+Categories:
+
+
+Name: AirTerminal - BLE Terminal
+Url: https://testflight.apple.com/join/kF4k23Zr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/e0/59/8ee059b9-83ba-4e63-b292-55c047b6de47/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.827Z
+Categories:
+
+
+Name: ASLVision
+Url: https://testflight.apple.com/join/PFQlLfVB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/3c/75/1c3c754d-d036-1de2-00a8-bd3f72dd2605/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.863Z
+Categories:
+
+
+Name: IM Care_sit
+Url: https://testflight.apple.com/join/oszQFQSb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/ac/5f/6dac5f30-5a0f-d47c-9496-b3e2cbaab8c1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.899Z
+Categories:
+
+
+Name: JUDE
+Url: https://testflight.apple.com/join/4Cqg8Ihk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/00/ec/a8/00eca8fb-34ed-7ac2-5d3a-c9dd0c359dff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.935Z
+Categories:
+
+
+Name: youbuys saleman
+Url: https://testflight.apple.com/join/BAbZBLk1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/1e/8a/ce1e8a12-c277-5586-48c2-0a583563cf2a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:41:09.970Z
+Categories:
+
+
