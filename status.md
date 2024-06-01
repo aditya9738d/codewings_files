@@ -19888,3 +19888,120 @@ Last Checked: 2024-06-01T20:27:10.364Z
 Categories:
 
 
+Name: Yoosee
+Url: https://testflight.apple.com/join/AHQYkxRO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/8d/67/518d6704-a42a-0168-d589-b4a1e4e1f7d4/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:28:13.893Z
+Categories:
+
+
+Name: Kinima Seniors
+Url: https://testflight.apple.com/join/jxbhSrBh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/4e/a4/5c4ea4d1-a18a-e0b1-4f6d-6895a17b3760/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:28:13.930Z
+Categories:
+
+
+Name: DGB CAM
+Url: https://testflight.apple.com/join/qa68Mq5o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/7e/e4/8a7ee4d4-d7a8-6d74-3e35-cc4a580409de/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:28:13.967Z
+Categories:
+
+
+Name: Untis Mobile
+Url: https://testflight.apple.com/join/yg48UjK9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/e9/ae/07e9ae76-8d8c-bb4c-79e0-a038d1f399e2/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:28:14.003Z
+Categories:
+
+
+Name: JPX68
+Url: https://testflight.apple.com/join/afauo4mE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/9c/93/e09c934e-cc7f-00a7-9b44-b24cb765a8af/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:28:14.043Z
+Categories:
+
+
+Name: WiDAR Demo
+Url: https://testflight.apple.com/join/KpxQ5kw9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/66/8b/97668bad-f1e1-1459-3e6b-71e914ba78ec/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:28:14.080Z
+Categories:
+
+
+Name: Drag To Speak
+Url: https://testflight.apple.com/join/vtF6OUoo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/ff/c1/bfffc133-8924-ec30-9776-e4505afd10f7/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:28:14.116Z
+Categories:
+
+
+Name: VinylViz
+Url: https://testflight.apple.com/join/PGYXxQIK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/f0/14/b2f0145d-05af-d845-f8d3-ba89aff5e4dd/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:28:14.153Z
+Categories:
+
+
+Name: ATest Mobile
+Url: https://testflight.apple.com/join/HDommVPY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/ab/73/27ab73c3-5248-cf76-4d97-b1ca3fef1aac/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:28:14.190Z
+Categories:
+
+
+Name: WalletAppV2
+Url: https://testflight.apple.com/join/09bTAryp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/57/f2/8257f25a-c70f-6dd7-39d5-bb5c563f1b26/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-01T20:28:14.227Z
+Categories:
+
+
+Name: Yacht Cabin: Shared boat trips
+Url: https://testflight.apple.com/join/XL0bBfHe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/07/46/0b0746fb-54d2-4306-5b9c-5f76d9161a33/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:28:14.264Z
+Categories:
+
+
+Name: Tata Neu - Shop, Travel, Pay
+Url: https://testflight.apple.com/join/nxwnETuo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/72/25/cb722533-e20a-d8f9-2908-efe2c5767714/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:28:14.301Z
+Categories:
+
+
+Name: CardioBot: Heart Rate Monitor
+Url: https://testflight.apple.com/join/H82FVVt6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/cb/76/7fcb763f-309a-e362-4169-bf5d1c39fbc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-01T20:28:14.338Z
+Categories:
+
+
