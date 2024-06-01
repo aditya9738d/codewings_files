@@ -26188,3 +26188,120 @@ Last Checked: 2024-06-01T17:04:12.249Z
 Categories:
 
 
+Name: Neuro Goal
+Url: https://testflight.apple.com/join/U3XgZKM9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/96/0e/da960e33-6cb0-595f-29b7-8d9efae9ac91/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:05:15.720Z
+Categories:
+
+
+Name: Simple Pay Global
+Url: https://testflight.apple.com/join/Y8z5REP2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/af/6e/eaaf6ea2-a420-51b2-b760-5383c27c6515/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T17:05:15.755Z
+Categories:
+
+
+Name: SierraBooks Invoices
+Url: https://testflight.apple.com/join/KZx6AD22
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/af/c4/54afc4e5-8b09-19b9-0579-6cf8b88711fb/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T17:05:15.790Z
+Categories:
+
+
+Name: Gibber - Communicate, Easily
+Url: https://testflight.apple.com/join/JbcYsfUF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/b6/e8/d7b6e87d-9500-7bd3-e2e4-d81408bef5de/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:05:15.828Z
+Categories:
+
+
+Name: My Friendly Eyes
+Url: https://testflight.apple.com/join/6dtvM8cp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/21/96/7f2196fc-7394-ebfe-fb96-03e804a79f24/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:05:15.862Z
+Categories:
+
+
+Name: Elloro – Mindshift & Wellness
+Url: https://testflight.apple.com/join/46vnnSnh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/c7/6a/6fc76a20-3dc9-a736-7967-2c292ac4bb12/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T17:05:15.896Z
+Categories:
+
+
+Name: Drivometer
+Url: https://testflight.apple.com/join/LKnK7eup
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/2a/fd/e22afdf5-5758-9e6b-4675-8f329cb22ef2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T17:05:15.932Z
+Categories:
+
+
+Name: MaaS360 Browser
+Url: https://testflight.apple.com/join/NBp8ZCtV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/39/06/c8390602-3c0e-345f-46e5-a4e21edb76a7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:05:15.966Z
+Categories:
+
+
+Name: Reaslo
+Url: https://testflight.apple.com/join/90I3yOHf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/9e/87/699e87d7-029b-0da7-0cc1-4b57f5d7cdf6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:05:16.002Z
+Categories:
+
+
+Name: Homey — A better smart home
+Url: https://testflight.apple.com/join/tA2e9vby
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a2/b3/aca2b3e3-6909-da8d-7e6a-e27050356853/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:05:16.037Z
+Categories:
+
+
+Name: Reeder 5.
+Url: https://testflight.apple.com/join/2w63KOGS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/82/4c/05824c90-43c7-935a-228e-edfb0282484f/AppIcon-macOS-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-01T17:05:16.071Z
+Categories:
+
+
+Name: Pixelfed
+Url: https://testflight.apple.com/join/dNcLnb1n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/61/01/d56101d0-d124-8202-d71c-31e76155418c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:05:16.106Z
+Categories:
+
+
+Name: Veritas Market
+Url: https://testflight.apple.com/join/8kksZ7jU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/ac/50/4fac5095-56e4-8be0-2a3e-aa0da8d00282/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:05:16.140Z
+Categories:
+
+
