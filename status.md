@@ -11347,3 +11347,120 @@ Last Checked: 2024-06-01T19:08:11.177Z
 Categories:
 
 
+Name: bonbon shop
+Url: https://testflight.apple.com/join/phhemqCV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/0c/52/570c526b-14e9-c718-4b0e-daa7b5b7c8c7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:09:10.001Z
+Categories:
+
+
+Name: Loop: IRL & Local Activities
+Url: https://testflight.apple.com/join/38HHz3EE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/6a/8c/956a8c66-6ac7-ffec-a30d-3b4e9e0843aa/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:09:10.037Z
+Categories:
+
+
+Name: SRG+ OLD
+Url: https://testflight.apple.com/join/tLznKnUO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/24/2a/46/242a4677-2913-4710-560f-4142a1393b7e/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:09:10.074Z
+Categories:
+
+
+Name: MiScreen Test
+Url: https://testflight.apple.com/join/MjZ5M37C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/30/e4/92/30e492bc-1f40-2091-3123-ce472fe0ab58/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:09:10.109Z
+Categories:
+
+
+Name: JourneyMate
+Url: https://testflight.apple.com/join/cxv6llBt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/0b/a2/3e0ba2d9-740a-a6c4-6895-d09463d460ad/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:09:10.155Z
+Categories:
+
+
+Name: Radiacode
+Url: https://testflight.apple.com/join/8hSPtm4Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/1a/99/c61a991f-2773-14bb-5a14-2f44eeabaf50/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:09:10.191Z
+Categories:
+
+
+Name: Guardian
+Url: https://testflight.apple.com/join/9rtEeZ1c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ba/cd/8cbacd55-b93c-2de0-f584-95ad8d6edbb0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:09:10.227Z
+Categories:
+
+
+Name: RP Connect
+Url: https://testflight.apple.com/join/4nBHXkBG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/98/39/43983905-46e2-a475-4608-8e95714241ae/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T19:09:10.264Z
+Categories:
+
+
+Name: AstroDX-Beta (Group A)
+Url: https://testflight.apple.com/join/rACTLjPL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c6/71/68c671b3-b964-9bca-28d4-5985bad7587e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-01T19:09:10.300Z
+Categories:
+
+
+Name: Gymbud.de
+Url: https://testflight.apple.com/join/N4llTAZV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/00/25/21002597-64d6-a433-0478-aa8970b83513/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:09:10.337Z
+Categories:
+
+
+Name: Edforma
+Url: https://testflight.apple.com/join/xSa26EAE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/12/ee/6e12ee11-0bc1-fbaa-1990-2abb6593ef3a/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:09:10.374Z
+Categories:
+
+
+Name: appgefahren News
+Url: https://testflight.apple.com/join/09PLfiVD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e3/0a/80e30a5d-a8bf-33b2-b794-5f17ca6c2dc9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:09:10.413Z
+Categories:
+
+
+Name: MyAniList
+Url: https://testflight.apple.com/join/UtPWYb9D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/27/d0/e927d0eb-99bc-34ed-041f-2d90ef61f2bb/AppIcon-Debug-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-01T19:09:10.450Z
+Categories:
+
+
