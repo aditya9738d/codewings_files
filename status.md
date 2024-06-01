@@ -21994,3 +21994,120 @@ Last Checked: 2024-06-01T20:47:10.625Z
 Categories:
 
 
+Name: Pizzahut Malaysia UAT
+Url: https://testflight.apple.com/join/ndcKZw7D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/7e/65/e47e65af-2bff-a52b-6225-1d2ae442b2fa/AppIcon-UAT-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.146Z
+Categories:
+
+
+Name: UTM Virtual Machines
+Url: https://testflight.apple.com/join/XQ3tNoNn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/be/2f/d2/be2fd2af-9b4c-d0ed-61f2-9da9b41960b2/AppIcon-macOS-85-220-0-4-2x.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.182Z
+Categories:
+
+
+Name: CalTopo
+Url: https://testflight.apple.com/join/lgUcGCij
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/ba/b7/cebab77d-7465-a25a-a257-688aab330b6a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.219Z
+Categories:
+
+
+Name: Free to Me
+Url: https://testflight.apple.com/join/UwgEx7ZN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/1e/0f/3f1e0f32-2294-1dba-ab5a-94b417f59c38/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.255Z
+Categories:
+
+
+Name: Listen-Up
+Url: https://testflight.apple.com/join/4Ohcr5T5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/9f/e5/3a9fe5d5-eeb0-fa23-2f95-e89d9ccae4c1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T20:48:12.292Z
+Categories:
+
+
+Name: SenseMARS Avatar
+Url: https://testflight.apple.com/join/sidMI3xb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/28/84/8d288428-2034-914b-ab95-7829b501378c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.328Z
+Categories:
+
+
+Name: Z-Xplore Ghana
+Url: https://testflight.apple.com/join/n6ebTv8F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/a1/fb/f5a1fbd3-1df0-6f30-a425-8e51fc9c607f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.364Z
+Categories:
+
+
+Name: Topspace
+Url: https://testflight.apple.com/join/NlbYGtVq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/94/49/c59449c8-eb36-5018-45e0-28f043b1d7b6/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.400Z
+Categories:
+
+
+Name: Interhaptics Player
+Url: https://testflight.apple.com/join/fmkQL4w8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/43/89/55/4389551b-aaa1-cd99-5c06-29b969c24476/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.436Z
+Categories:
+
+
+Name: Koinly
+Url: https://testflight.apple.com/join/MO3gDk9G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/1d/91/db1d918e-5c44-f2b0-69fb-86f93574df02/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.472Z
+Categories:
+
+
+Name: Moor Talk
+Url: https://testflight.apple.com/join/z5lqZNTg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e6/73/b5/e673b540-90df-a6f3-7e58-103e83e02002/AppIcon-solo-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.508Z
+Categories:
+
+
+Name: MobileRetail
+Url: https://testflight.apple.com/join/dj5z03CP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/db/3a/8cdb3a6f-f382-df11-308f-0156b07ca903/AppIcon-0-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.543Z
+Categories:
+
+
+Name: FluxGPT
+Url: https://testflight.apple.com/join/O7gFwRen
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/08/dc/5a08dcf7-d740-83ae-fd69-b8a1e46881a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:48:12.579Z
+Categories:
+
+
