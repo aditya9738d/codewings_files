@@ -27826,3 +27826,120 @@ Last Checked: 2024-06-01T17:18:11.716Z
 Categories:
 
 
+Name: StageLight - DMX Controller
+Url: https://testflight.apple.com/join/X1Ja2Mai
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/92/4d/96924d1c-c5e2-5973-de6b-5d1d3dd486cd/AppIcon-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:19:11.665Z
+Categories:
+
+
+Name: Ollie: AI Smart Photo Cleaner
+Url: https://testflight.apple.com/join/Q1xqr01y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/a1/96/1ea1961f-1350-9327-e288-47e6ab39e685/AppIcon-var-01-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:19:11.693Z
+Categories:
+
+
+Name: South Peak Resort
+Url: https://testflight.apple.com/join/EEi9Hq70
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/c9/32/17c9327b-8571-ddec-a03a-9df79fe851cf/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T17:19:11.721Z
+Categories:
+
+
+Name: Revgram
+Url: https://testflight.apple.com/join/mj83Wzx6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/11/b2/0f/11b20fd5-f3b3-bfa5-4f5f-b02a389121e9/AppIconLLC-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:19:11.751Z
+Categories:
+
+
+Name: Dronelink Flight
+Url: https://testflight.apple.com/join/PumJOBFK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/0d/6d/9d0d6d8a-bae1-939e-e57b-a3d0b4468487/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:19:11.780Z
+Categories:
+
+
+Name: Streamerce Broadcasting App
+Url: https://testflight.apple.com/join/dTmPkikA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/7e/4f/9a7e4fc7-86e4-e9d0-1ed5-bc64a12d77d4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T17:19:11.808Z
+Categories:
+
+
+Name: Prize Platform
+Url: https://testflight.apple.com/join/d26dH3nn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/28/ff/4628ff35-cd79-1005-cade-6df255afa6c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:19:11.837Z
+Categories:
+
+
+Name: CHILDCARE DEVELOPMENT
+Url: https://testflight.apple.com/join/ErtVY0ox
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/34/3e/06/343e06e1-361b-4287-74ed-f2710bceaa23/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:19:11.865Z
+Categories:
+
+
+Name: Aroraboll
+Url: https://testflight.apple.com/join/kkhcYE3O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/02/92/a60292b2-355f-f7ee-67ae-ec4bb64bea89/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:19:11.892Z
+Categories:
+
+
+Name: ProSafeT
+Url: https://testflight.apple.com/join/eORSQW4B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/ca/3b/07ca3b3e-1b8f-ddf5-9bc6-27c164b9fdae/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:19:11.921Z
+Categories:
+
+
+Name: DoAI
+Url: https://testflight.apple.com/join/jmD319UT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/46/4a/7b464a5f-0135-cf3a-1013-0393e8695f2c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:19:11.950Z
+Categories:
+
+
+Name: Seafi
+Url: https://testflight.apple.com/join/iLhMYCOC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/89/91/cd899151-fa73-c665-7205-73ab8681ca6c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T17:19:11.978Z
+Categories:
+
+
+Name: Gentler
+Url: https://testflight.apple.com/join/wSH4p6PU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/78/c2/5f78c2aa-da58-2932-d4e8-83baaea0600d/AppIconBeta-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T17:19:12.007Z
+Categories:
+
+
