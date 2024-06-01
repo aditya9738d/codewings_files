@@ -19870,3 +19870,147 @@ Last Checked: 2024-06-01T12:13:12.055Z
 Categories:
 
 
+Name: GDCE Examiner
+Url: https://testflight.apple.com/join/GvqDSvzG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3c/22/7c/3c227c4f-f031-9787-02ac-91d61df02906/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.178Z
+Categories:
+
+
+Name: AnaHealth
+Url: https://testflight.apple.com/join/Xh7O6Gss
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/48/ad/9a48ad3d-cc19-3673-f034-2fc27943e932/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.215Z
+Categories:
+
+
+Name: SSA - Star Service Application
+Url: https://testflight.apple.com/join/GncCwYRz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/ee/e1/b0eee1f9-de26-0ceb-c76b-9b99ea42284a/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.252Z
+Categories:
+
+
+Name: Surfboard for Tildes
+Url: https://testflight.apple.com/join/cEYjfIZi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/eb/46/12eb460b-b97d-bcb3-a3fc-d42377579719/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.288Z
+Categories:
+
+
+Name: XTEND | mobileAR
+Url: https://testflight.apple.com/join/6YALufgy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/48/56/b5/4856b541-bb4d-515e-3e7c-f569f6ba9521/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.325Z
+Categories:
+
+
+Name: Crassula
+Url: https://testflight.apple.com/join/BqOPyr3D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/52/a3/1752a3d4-0c8e-53a5-534b-971864a8bc7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.364Z
+Categories:
+
+
+Name: RoundPie Tray Timer
+Url: https://testflight.apple.com/join/F0dbWbkV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/5a/4a/9a5a4ae9-d408-90f8-593e-b1ae0685368e/AppIcon-0-0-85-220-0-4-0-2x-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.401Z
+Categories:
+
+
+Name: Phantom Checker
+Url: https://testflight.apple.com/join/lWZ3EuTM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/13/ff/f913ff14-0080-14fa-2f7a-fea2c645cbe4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.437Z
+Categories:
+
+
+Name: 3D SCOPE
+Url: https://testflight.apple.com/join/hBpFKWns
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3e/fe/5b/3efe5b23-d233-f894-2195-cca1a7d068f3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.473Z
+Categories:
+
+
+Name: Dino - Meet Your Friends
+Url: https://testflight.apple.com/join/kM9rUnyY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/f9/cc/a2f9cc1b-060a-71de-663e-781030adc173/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.512Z
+Categories:
+
+
+Name: AMManagementContact
+Url: https://testflight.apple.com/join/7tSZJPL7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/24/b7/90/24b79098-ae15-84ff-ca4b-37f311237a95/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.548Z
+Categories:
+
+
+Name: McDonald's Japan
+Url: https://testflight.apple.com/join/Hv4ansIj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/b2/55/4bb255a5-7a3e-89eb-b98a-ab12bde76e74/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.584Z
+Categories:
+
+
+Name: Boson: Headphones Control
+Url: https://testflight.apple.com/join/A5KoHhPO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/66/cf/80/66cf80b1-6e95-da25-2e4b-77650f4ff40f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.620Z
+Categories:
+
+
+Name: Wooforoof
+Url: https://testflight.apple.com/join/BnAhjG8W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/cf/ff/55cfff97-19df-37a2-8c54-1c66360f60d4/prodAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.656Z
+Categories:
+
+
+Name: PlayerChat
+Url: https://testflight.apple.com/join/r6H9YvY4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/70/6c/4f/706c4f45-00b1-61e8-3386-9278263b5130/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T12:14:14.693Z
+Categories:
+
+
+Name: iEventTimer
+Url: https://testflight.apple.com/join/u7rYMxYN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6e/76/186e766f-f992-829e-5f71-fe1149c687f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-01T12:14:14.729Z
+Categories:
+
+
