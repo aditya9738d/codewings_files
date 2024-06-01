@@ -18367,3 +18367,120 @@ Last Checked: 2024-06-01T20:13:10.343Z
 Categories:
 
 
+Name: Discover Dairy
+Url: https://testflight.apple.com/join/PQMxZgB6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/00/41/080041ac-5639-03a8-e82b-82c931db0c97/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.259Z
+Categories:
+
+
+Name: FRITZ!App Fon
+Url: https://testflight.apple.com/join/SGGCxyRp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/ef/37/08ef3781-daee-3167-aa8f-1bd5258c24d4/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.291Z
+Categories:
+
+
+Name: Coinplay App
+Url: https://testflight.apple.com/join/Gy5HETM5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/60/a9/6860a996-7322-b75f-0af4-5b3bd0b385bd/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.319Z
+Categories:
+
+
+Name: Intervals Pro: HIIT Timer
+Url: https://testflight.apple.com/join/Nn7iSOzY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/ce/ed/ceceed5d-c377-73d7-ca03-af85eaed4200/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.347Z
+Categories:
+
+
+Name: FamOfficial
+Url: https://testflight.apple.com/join/nS7IscxG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/56/b4/93/56b493b1-bcb5-cd29-10c5-b2310fb56f69/AppIcon-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.375Z
+Categories:
+
+
+Name: VRCInfinity
+Url: https://testflight.apple.com/join/PKIlP7Sh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/c2/24/f4c224b1-b99f-99fc-684e-cf07853a5a0e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.404Z
+Categories:
+
+
+Name: Anabo Fitness
+Url: https://testflight.apple.com/join/WkqJXHvP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/52/1a/c8521a7b-2ab9-78c3-1944-39e0d95cea3b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.432Z
+Categories:
+
+
+Name: Hevy - Workout Tracker Gym Log
+Url: https://testflight.apple.com/join/tAlRPch6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/ff/b2/6fffb2ff-5dd4-b2d4-342e-9bf879ac36a7/AppIcon-0-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.460Z
+Categories:
+
+
+Name: TradeZero
+Url: https://testflight.apple.com/join/rRBSZhUP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/db/23/bbdb23a9-add3-cd91-70ee-0c8a29bb91b2/AppIcons-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.491Z
+Categories:
+
+
+Name: UIS Mobile
+Url: https://testflight.apple.com/join/TaNgDFcD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/ed/82/17ed82fb-a4e8-8370-1ec7-cb1aaef2a8fe/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.520Z
+Categories:
+
+
+Name: Samsung-S
+Url: https://testflight.apple.com/join/yham4UcU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/c2/fa/bbc2fae2-554d-cccb-ae21-d88c181e7f87/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.548Z
+Categories:
+
+
+Name: KFC DSR
+Url: https://testflight.apple.com/join/mEaucAkB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/fd/98/b8fd9842-af30-8d9b-9e63-74b662b35dea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.577Z
+Categories:
+
+
+Name: Abu Dhabi 360
+Url: https://testflight.apple.com/join/4kxqnVgM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/91/84/519184fc-b79c-29bf-da3c-7f523400feec/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T20:14:14.605Z
+Categories:
+
+
