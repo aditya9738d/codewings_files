@@ -21154,3 +21154,124 @@ Last Checked: 2024-06-01T16:20:26.855Z
 Categories:
 
 
+
+
+[
+  {
+    "name": "Nightingale Companion",
+    "link": "https://testflight.apple.com/join/JNieAfgv",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b3/eb/ac/b3ebacdb-1ac9-90da-269d-b85520ea6edc/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "lastChecked": "2024-06-01T16:21:07.913Z",
+    "categories": []
+  },
+  {
+    "name": "Gladys",
+    "link": "https://testflight.apple.com/join/GqEcpHVN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/65/c6/45/65c64550-b938-bbc9-a9d6-c218df4618fd/AppIcon-iOS-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "lastChecked": "2024-06-01T16:21:08.186Z",
+    "categories": []
+  },
+  {
+    "name": "Stardust Mobile",
+    "link": "https://testflight.apple.com/join/UyrMQoG0",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/98/4e/91984eca-c184-3f8c-86b7-357a960adb9b/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "clickCount": 7,
+    "betaAvailable": "open",
+    "lastChecked": "2024-06-01T16:21:08.464Z",
+    "categories": []
+  },
+  {
+    "name": "osu!",
+    "link": "https://testflight.apple.com/join/gjI7EwbG",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/b2/5b/a9b25b31-0a58-839f-f5db-14be7ff07cc3/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "lastChecked": "2024-06-01T16:21:08.812Z",
+    "categories": []
+  },
+  {
+    "name": "Finalist: Daily Planner",
+    "link": "https://testflight.apple.com/join/t5ZpRV2l",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/bd/16/54bd16b3-c3bc-d2dc-c64d-bb97bfccfda6/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "lastChecked": "2024-06-01T16:21:09.096Z",
+    "categories": []
+  },
+  {
+    "name": "GROAMING",
+    "link": "https://testflight.apple.com/join/NzgwMl0G",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ba/38/f8ba38b3-c33e-2059-cb18-8fae820190f6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "lastChecked": "2024-06-01T16:21:09.449Z",
+    "categories": []
+  },
+  {
+    "name": "OneSpan AAS2",
+    "link": "https://testflight.apple.com/join/9fs19h9Z",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/fc/3a/1bfc3af4-b602-5f1a-73f0-a61de900faa5/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "lastChecked": "2024-06-01T16:21:09.766Z",
+    "categories": []
+  },
+  {
+    "name": "hopthebay",
+    "link": "https://testflight.apple.com/join/xaKdXGu1",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/df/c8/42/dfc84200-0d6d-695f-f75f-c5bc5448e569/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "lastChecked": "2024-06-01T16:21:10.062Z",
+    "categories": []
+  },
+  {
+    "name": "DR22",
+    "link": "https://testflight.apple.com/join/VmwDAszq",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/03/0f/4a030f8c-28a3-a0ab-a22a-0472a9426c20/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "lastChecked": "2024-06-01T16:21:10.370Z",
+    "categories": []
+  },
+  {
+    "name": "BLINK by BonusLink",
+    "link": "https://testflight.apple.com/join/nV18UChU",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/14/f5/9c14f55c-6843-6c09-1072-c08574580439/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "lastChecked": "2024-06-01T16:21:10.678Z",
+    "categories": []
+  },
+  {
+    "name": "Xanababy Sleep",
+    "link": "https://testflight.apple.com/join/On0uasYT",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/bd/91/00bd9111-bfa1-c06d-0010-a9fa68c6a577/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "lastChecked": "2024-06-01T16:21:10.952Z",
+    "categories": []
+  },
+  {
+    "name": "X-Guard Alarm",
+    "link": "https://testflight.apple.com/join/Lv3UGd5m",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/ce/9a/b3ce9aa6-8f1b-3dac-b579-60be66bee4c5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "lastChecked": "2024-06-01T16:21:11.294Z",
+    "categories": []
+  },
+  {
+    "name": "Fanttik Cam",
+    "link": "https://testflight.apple.com/join/p1oFKizk",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/8c/cd/608ccd28-09a5-f1da-0d37-6e299aaddb45/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "lastChecked": "2024-06-01T16:21:11.600Z",
+    "categories": []
+  }
+]
