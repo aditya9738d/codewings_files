@@ -4462,3 +4462,147 @@ Last Checked: 2024-06-01T03:07:14.097Z
 Categories:
 
 
+Name: Walmart: Shopping & Savings
+Url: https://testflight.apple.com/join/hDDYNJ6Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/25/99/3a2599d7-137c-9c61-4458-b2080cdc1ecb/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.368Z
+Categories:
+
+
+Name: Ver
+Url: https://testflight.apple.com/join/7U76Onsb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/b7/fd/97b7fdf9-10c8-313c-6268-0f5139bb0f10/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.397Z
+Categories:
+
+
+Name: qplayer2demo
+Url: https://testflight.apple.com/join/YocXmZ2j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/4a/b8/484ab8ae-9f4e-eba5-fb9e-9643c338afcd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.425Z
+Categories:
+
+
+Name: Pannnnnnnntry
+Url: https://testflight.apple.com/join/pb7bgJO1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/02/b0/2a/02b02a49-8ecc-e9b5-5156-70180226b366/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.454Z
+Categories:
+
+
+Name: Serial Reader
+Url: https://testflight.apple.com/join/T8mtWpmc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/8f/0d/a08f0df3-d58f-1ecd-e464-22df71fbdd20/AppIcon-1-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.482Z
+Categories:
+
+
+Name: KEIYO Alcohol Sensor
+Url: https://testflight.apple.com/join/lASfXSKZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/69/f4/7569f4c6-509b-f3bb-fa15-b949ac96660d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.510Z
+Categories:
+
+
+Name: Yandex Browser
+Url: https://testflight.apple.com/join/Y4k4ze6V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/90/88/ee90887e-9f04-59c8-da43-eeeea4962d06/Icon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.538Z
+Categories:
+
+
+Name: Waffle Project
+Url: https://testflight.apple.com/join/PRP1YCVJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/91/1e/44/911e4443-1658-05e2-1ef5-ca08c8e96cb3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-01T03:09:10.567Z
+Categories:
+
+
+Name: Blackout Lighting Console
+Url: https://testflight.apple.com/join/01GUYfy7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1a/3e/86/1a3e864c-19cb-ff54-63c1-3d6efd088b97/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.596Z
+Categories:
+
+
+Name: Praying Lots
+Url: https://testflight.apple.com/join/b25rY2vZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/42/52/fd425209-e6d8-5f63-0195-bd78329bc9d5/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.624Z
+Categories:
+
+
+Name: Crouton: Recipe Manager
+Url: https://testflight.apple.com/join/jwtQpV11
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/f7/48/e9f7480d-60df-703c-2b71-0acb6912c4c6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.652Z
+Categories:
+
+
+Name: ABA Simulator
+Url: https://testflight.apple.com/join/HNyq7UCm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3e/15/1f/3e151f59-3484-77a0-744a-d958bab6ad6c/AppIconSimulator-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.680Z
+Categories:
+
+
+Name: ACCIONA Linked Site - Dev
+Url: https://testflight.apple.com/join/G8YHVAJM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/af/ae/79afae89-ace3-438c-fa63-cca137866356/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.708Z
+Categories:
+
+
+Name: Vice Streaming
+Url: https://testflight.apple.com/join/yeg3HaSe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/44/d0/ff/44d0ff69-99ce-9343-18b1-1c6974f8d78b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.739Z
+Categories:
+
+
+Name: MyFriday - Official
+Url: https://testflight.apple.com/join/HFnLbCeN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/94/23/7e/94237e68-7765-2431-520b-220a8446cb30/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T03:09:10.768Z
+Categories:
+
+
+Name: Zapry - Web3 Social Platform
+Url: https://testflight.apple.com/join/SmkcFDVx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/69/34/52693421-e193-90cf-9149-006a2d9a9cb0/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T03:09:10.797Z
+Categories:
+
+
