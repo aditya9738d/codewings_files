@@ -1,50 +1,47 @@
-- **CAINIAO - 讓集運更簡單**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/46/18/2e46184d-40a8-662d-28b6-4b28a784df03/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VgfJfp4l)
-
-- **SwiftTask**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/db/76/05db76ee-25cc-b1d4-2805-7df5520963ac/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uPYoVBBN)
-
-- **GoEffects**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b3/d0/9ab3d017-3a68-47e1-5d0d-2b2a7890a22e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/76TbaVKJ)
-
-- **云宝加速器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/09/26/a909266d-0124-943a-1e47-3b9d789c9a70/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nBkljFCK)
-
-- **Thập Đại Anh Hùng 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/fd/49/80fd4913-d739-6708-eb21-5007e3300a0d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAG6vC6N)
-
-- **Composer: Automate Trades**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/b8/7b34b805-7b67-97d7-e85d-7ff38a8a9f80/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
-
-- **Học Viện TuVi Việt Nam**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/6e/b3/636eb3eb-bda3-0a89-3525-6b1c18d09a29/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rFMlokwB)
-
-- **Học Viện TuVi Việt Nam**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/6e/b3/636eb3eb-bda3-0a89-3525-6b1c18d09a29/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rFMlokwB)
-
-- **KSAS（クボタスマートアグリシステム）**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/4a/0d/394a0d8f-f72c-3bd5-a2de-0f86f3ce6951/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9qAbc8OZ)
-
-- **中国移动云盘-全民不限速**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/8f/bf/028fbfb6-ccea-3298-01cd-6ae7e10ff908/AppIcon-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cR3t7Cnj)
-
-- **Rồng Thần Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/fb/46/abfb466f-6a33-f63f-d5b7-a01b9293835e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/k8584n03)
-
-- **思拓新闻**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/47/34/03473451-bfd5-15d9-d04b-0d9092df7179/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jbVM8nuq)
-
-- **棋路-象棋课堂**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/47/fd/6347fdfd-d951-7dd7-aaf5-5a9ad5dedd4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s9SdLije)
-- **WeChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/12/e1/9012e10b-7eac-bd36-23d7-e24f372c976d/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xHCJ0qBT)
-
-- **逢客签**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/d6/99/22d69906-8c45-fa85-4c81-ca190bdfcc09/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H39dsyzG)
-
-- **葫芦娃-经典再现**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mE4SHGvn)
-
-- **老虎国际**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/be/42/23be425b-be1a-eaef-cfd5-53812eacfe20/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/27Pw9M0d)
-
-- **Composer: Automate Trades**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/b8/7b34b805-7b67-97d7-e85d-7ff38a8a9f80/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
-
-- **Composer: Automate Trades**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/b8/7b34b805-7b67-97d7-e85d-7ff38a8a9f80/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nnQC498c)
-
-- **Zoom Tan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/5d/45/a15d4525-7d47-15c5-c4d5-44eb12b01eab/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qTM3hZIF)
-
-- **WiFi Setup**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/22/e0/6122e0b2-67bd-c7d7-5015-ff893eec2b1b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DIDfVri2)
-
-- **Kade Pay Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/f2/16/39f216a0-9651-ad17-4245-69a0ce3c677d/AppIcon-beta-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jhlHJFKC)
-
-- **NRO by ixxc 01**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/cd/d8f9cd16-0a1d-f677-772e-4480f63030bd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tFiMYRwn)
-
-- **Moments - GIF Your Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/c5/a3/3bc5a33d-52bf-95f4-b463-478b0a8a98cc/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DipKBlaZ)
-
-- **Atlas - Spatial Ergonomics**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/86/82/5f86824a-9495-d3a5-0536-57a20576e454/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HbtqQVhn)
-
-- **Mesh SMS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/86/99/42869918-c181-98aa-526b-2e8b9fe336a0/AppIcon-1x_U007epad-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6mKuAhbG)
+- **Volleyball Warmup 9000**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/8c/63/db8c6321-8066-c4f2-9546-2803de95b8e0/AppIcon-0-1x_U007epad-0-0-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/APgB1wXX)
+- **AT Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/3e/7f/ab3e7f31-2fc1-832d-fcf4-f1ecf116036f/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5MA0Pixb)
+- **Taxi Muscat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/06/3d/da063d56-cb34-cfca-f457-459bb70c441c/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tY141EEj)
+- **Starmed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/d9/24/6cd924a0-d57b-cbf8-f2ae-0eaf6dd7c93a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RSb459B8)
+- **Survey Valuation Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/8d/f3/8b8df3fd-ca04-531a-a793-ffed7ee3e1e3/AppIcon-test-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rRvD2jkL)
+- **Hatchy Rampage**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/fb/1d/31fb1d6a-fad6-0e5a-e8f2-080d204f5528/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FPHPdI0s)
+- **Get10101**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/56/67/2b5667a4-5012-473b-4e7a-c09e359c70a0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WhwnPUh8)
+- **ORPHE ANALYTICS Recorder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/df/d0/7cdfd0eb-9931-0f51-69c4-719704bb1c14/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/el6fn1Y0)
+- **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/b2/1b/d7b21b50-ab59-4703-bc93-d95e67105cb6/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdsubPZs)
+- **SyenApp: Private Search & Shop**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/ce/b8/b4ceb845-3758-8641-9d8f-1576f1edb16c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GxsamE35)
+- **Charge HQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/f6/82/05f6826d-e571-d397-0d58-ccb752709e55/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yJr5Y0O9)
+- **Truck Maps Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/54/0c/db540cc1-3d1f-cd9d-d0a8-dec681987646/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vpYkazUc)
+- **FoxCloud2.0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/51/11/a5511186-0c9c-2d7b-fcfc-a8c2cf8d7dba/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MxSFUO60)
+- **NS Travel Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/a2/12/15a21232-5468-1c50-a6a4-eb68f8fa4c66/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ldBwapIg)
+- **Grindr - Gay Dating & Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/dd/43/01dd436f-3fcd-cdd6-e8e1-fb1e3eeb8c0d/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eO265vw7)
+- **Traini -Dog Training & AI Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/cb/4c/43cb4cb6-b07b-7f2e-13d4-503063eb9991/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dA6l0fWU)
+- **phaze**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/29/29/9529292f-e6ba-1dbd-f97d-1cfd19a7fac9/AppIcon-1x_U007ephone-0-0-0-0-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/fkQWk37B)
+- **monteStory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/d6/d0/73d6d067-9be0-9009-054a-5e1cfb86e3b5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/EkfsDlme)
+- **Stork**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/4c/4a/194c4a59-9dc4-adf6-c00e-49fe69f14309/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pOk0I70t)
+- **stats.fm for Spotify Music App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d9/41/3ad941f0-893d-6da9-4e65-f341c8fc0ca4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ATXJemn4)
+- **Mythic Mischief**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/35/3a/0e353aba-1886-deec-730c-93771ee0bb7e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm34KszI)
+- **Rachana Ranade Regional**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/32/4c/f7324c92-3bac-65a3-7f8c-2ce660c2bbc0/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sp79yAyj)
+- **Godox Light**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/fa/10ddfa71-4ce1-ec04-6a65-5935d5836079/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LfIj3unB)
+- **ParkmePro Watchman**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/c5/31/12c53192-625d-8271-d115-fcc9efd2e0dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fgPnIIvA)
+- **Deem Mail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a8/39/bb/a839bb14-13e0-480e-f65e-24d32455a102/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ox4Db7hW)
+- **TeamLive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/3d/51/313d5166-5251-9ec2-691e-b97180a22f61/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lXMsgmpL)
+- **Bridge Your Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/b7/85/c9b78584-6f7b-bfa7-1e1e-2a029c95e431/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MUVwq9V9)
+- **OrangeX: Buy Bitcoin & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/fc/eb/f3fceb86-bade-c10a-d671-477dd513d993/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BCQWwfAw)
+- **STQRY Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/b6/c9/dbb6c907-f759-c36f-596b-0faa84767358/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UQopMTJt)
+- **hdrpano 3D**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/90/17/5b9017f0-c2d8-79c7-c779-5c5541738946/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mAvRbBTz)
+- **Training plans by Run Roster**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/07/c9/5907c9e9-4ed3-79af-8129-f232f7ae9b8a/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RypszNGx)
+- **Work Lunch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/b1/f5/50b1f563-059f-b85b-7ba0-24e4d6f059be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AnTxOl6P)
+- **Payconiq by Bancontact**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/6f/a6/da6fa63e-dd41-68d5-9b94-88fc8f20a1d9/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Mpza7scj)
+- **Delta Digital**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/8b/37/8e8b37c0-c516-f804-9f61-80fb179bb462/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AQ87Xg1x)
+- **SCA UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/2e/21/842e21a6-b8a0-5b53-e9e4-64515774e1e5/AppIcon-test-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a2W8tS4N)
+- **CPM VN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/91/1b/9e911b22-8c80-5cfa-54d2-c4b901fcc1a1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Nu0VgBBq)
+- **Cartender**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/63/81/a16381bd-9ecc-44ea-fbfc-40c9eeed23ba/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cTm5n7yt)
+- **phyphox**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/d9/dc/07d9dc99-02ea-617e-2474-d2f3e2e58043/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/r05iODWL)
+- **Spark GPS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/9b/67/c69b673c-c501-bece-d177-8fed92edbd8f/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EXLdmikh)
+- **JXMB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/e7/36/3fe73601-c39f-ead7-e53c-653935b57ca8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Ew3CJN8P)
+- **Hunky City**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/1c/29/681c2952-6111-b6bb-c335-36a0a93c17e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/FYQR89fn)
+- **DropZap World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/7b/56/317b564e-a2b5-f033-1297-b42ea2db0c61/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CdEXgjst)
+- **Aventon: MyRide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/65/76/386576db-f48f-2d36-48e2-553799f1bfcd/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R285EnR0)
+- **mSale++**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/08/04/330804f9-21b4-77e0-636e-c32d273653e2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NfK9P5L4)
+- **Microsoft Authenticator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/a8/ed/35a8ed2d-3a24-a6a0-f90c-2ea85e568833/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Coqmmppd)
+- **VNSDK**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1f/85/5b1f85b3-ba7b-9fa1-6c05-add8912dca06/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/toblTDxv)
+- **Rehive Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/9b/35/ac9b35c8-9dd1-f59d-030e-b76d8c2d9991/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/al5S1cHe)
