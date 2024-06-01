@@ -7954,3 +7954,120 @@ Last Checked: 2024-06-01T18:35:18.481Z
 Categories:
 
 
+Name: Firewalla
+Url: https://testflight.apple.com/join/qtUnSjJp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/77/fe/f777fe32-41a3-ae91-42bb-c9effd90c995/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T18:36:13.259Z
+Categories:
+
+
+Name: BosMon Mobile
+Url: https://testflight.apple.com/join/maJOZ07a
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/2b/d6/032bd673-b0cf-1fe2-d04e-3f47ff2bd57e/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T18:36:13.295Z
+Categories:
+
+
+Name: Cheatsheet Notes
+Url: https://testflight.apple.com/join/m84D5aUu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/34/74/f5347494-cc36-a730-f2d6-cc85169eb2f3/AppIcon-0-2x-0-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-01T18:36:13.331Z
+Categories:
+
+
+Name: WidgetWorks: Custom Widgets
+Url: https://testflight.apple.com/join/bc5frL3T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b2/d8/71/b2d8717c-23bb-a160-97e3-9c9a39cf9b12/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T18:36:13.367Z
+Categories:
+
+
+Name: KaraFun - Karaoke Singing
+Url: https://testflight.apple.com/join/zeZMtvcX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/d4/f8/fad4f8eb-1a76-0699-c980-211f5102e48e/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T18:36:13.403Z
+Categories:
+
+
+Name: Oura
+Url: https://testflight.apple.com/join/NPhd6XTF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/24/5f/84245f09-b2df-356d-082d-b63cd23ca044/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T18:36:13.439Z
+Categories:
+
+
+Name: Zotero
+Url: https://testflight.apple.com/join/Rjyua6Mq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/8b/27/e58b2758-c21f-31ce-ff08-b74d37df54a3/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T18:36:13.475Z
+Categories:
+
+
+Name: Central App: The Ways We Shop
+Url: https://testflight.apple.com/join/UR6LNcKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/66/ef/de66ef39-5c06-143a-184e-d5075efa49b3/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T18:36:13.512Z
+Categories:
+
+
+Name: More Air
+Url: https://testflight.apple.com/join/SImBCmYb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/c9/07/60c90753-9835-5345-26b2-be666ab55da1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T18:36:13.548Z
+Categories:
+
+
+Name: Beldex Official Wallet
+Url: https://testflight.apple.com/join/P2SFEtjA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/96/ed/b696ed73-f733-f6f6-c258-5c754dc88120/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T18:36:13.584Z
+Categories:
+
+
+Name: Pieced Together Demo
+Url: https://testflight.apple.com/join/nvYEiPPu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/86/6e/fa/866efa13-74e8-c2c2-045f-70135606227f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T18:36:13.619Z
+Categories:
+
+
+Name: kcafe
+Url: https://testflight.apple.com/join/DIFn4tu5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/10/a2/53/10a25343-413c-8c91-fff0-85e59154ab8f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T18:36:13.656Z
+Categories:
+
+
+Name: OwOTrack
+Url: https://testflight.apple.com/join/vvn9jsT0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/be/68/fabe6830-103d-eef0-4b44-7a7fb239b51a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T18:36:13.692Z
+Categories:
+
+
