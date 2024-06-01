@@ -21625,3 +21625,120 @@ Last Checked: 2024-06-01T16:24:14.004Z
 Categories:
 
 
+Name: Staging Vibes Only
+Url: https://testflight.apple.com/join/rFswGkqJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/a0/1d/d5a01d93-7161-1b6e-2dc4-d04263b57b3f/AppIcon-staging-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T16:25:15.922Z
+Categories:
+
+
+Name: iPartnerHandling
+Url: https://testflight.apple.com/join/NeOEHzQO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/fb/4c/cafb4cea-69e6-d888-124a-6efdf3af05aa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T16:25:15.949Z
+Categories:
+
+
+Name: Work Plus QAS
+Url: https://testflight.apple.com/join/SVbn1MmA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/ce/49/0bce49b3-c0ff-5bf6-eaeb-a0bfd37699ce/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T16:25:15.977Z
+Categories:
+
+
+Name: DarknessBot
+Url: https://testflight.apple.com/join/B6r39HPw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/59/65/2d596537-118c-afe7-466a-8abcc1c68dc1/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T16:25:16.005Z
+Categories:
+
+
+Name: Beeminder
+Url: https://testflight.apple.com/join/U26BrdwB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/44/95/c0/4495c0cb-5e7a-5a9e-4af9-1e0beb2e4044/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T16:25:16.033Z
+Categories:
+
+
+Name: Yalla - Group Voice Chat Rooms
+Url: https://testflight.apple.com/join/LUV13Im7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/82/63/fd8263e9-fcfe-12fb-d798-14c7185e7b45/AppIcon-Yalla-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T16:25:16.060Z
+Categories:
+
+
+Name: Mammotion
+Url: https://testflight.apple.com/join/GsYEMjIk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/63/b0/5a63b035-ef6a-161d-e24c-1ec43afaedaa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T16:25:16.088Z
+Categories:
+
+
+Name: FunFinances
+Url: https://testflight.apple.com/join/pqWTpKCY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/20/08/d32008b5-043b-09b5-f20c-7d75c73277e6/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T16:25:16.116Z
+Categories:
+
+
+Name: Worklog - AI Time Tracking
+Url: https://testflight.apple.com/join/TeHjOP3I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/69/cb/79/69cb799e-07d2-4a59-cd50-092c95f5c8e8/AppIcon-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T16:25:16.143Z
+Categories:
+
+
+Name: Playbite - Mobile Arcade
+Url: https://testflight.apple.com/join/5EaZwS36
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/2f/13/f32f1362-d990-6104-063b-65a29cfc6612/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T16:25:16.170Z
+Categories:
+
+
+Name: Aloha Browser - Private VPN
+Url: https://testflight.apple.com/join/Xh9VNQoA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ca/10/beca102c-560f-3436-1d3b-6c8f13ebdfe4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T16:25:16.200Z
+Categories:
+
+
+Name: SOLD
+Url: https://testflight.apple.com/join/S8htmnA6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/ff/b7/f9ffb7dd-5354-47a8-6f12-3819b2975591/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-01T16:25:16.227Z
+Categories:
+
+
+Name: Tiny-Fins
+Url: https://testflight.apple.com/join/AKKsWpCM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/f2/07/f5f207a1-28b7-94ae-f312-158425e176a3/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T16:25:16.255Z
+Categories:
+
+
