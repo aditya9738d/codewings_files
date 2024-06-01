@@ -19948,3 +19948,147 @@ Last Checked: 2024-06-01T01:00:51.046Z
 Categories:
 
 
+Name: Varsom
+Url: https://testflight.apple.com/join/8xBP78ud
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/3c/32/583c324a-0cfa-b136-e71b-a0c1bc62254c/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T01:01:09.923Z
+Categories:
+
+
+Name: ReHabit : Focus Life Goals
+Url: https://testflight.apple.com/join/vyKSon0K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/1c/38/cd1c38b5-57e4-cb0c-4da9-6f29e6212ddd/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:09.959Z
+Categories:
+
+
+Name: Nifty Pro Hybrid
+Url: https://testflight.apple.com/join/VH78fti2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/e2/6b/d0e26b03-0b0e-702f-36ed-3a8647eb7d93/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:09.994Z
+Categories:
+
+
+Name: Dubai Verse Cup
+Url: https://testflight.apple.com/join/69rwpgjn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/9e/f0/6f9ef0b0-e419-7d38-0cc7-b53c59625692/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.029Z
+Categories:
+
+
+Name: TOTVS RH Clock In
+Url: https://testflight.apple.com/join/LommVhsn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/dd/12/cfdd125d-1681-bbb7-130b-71e52f30f174/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.066Z
+Categories:
+
+
+Name: Revive - Focus Timer
+Url: https://testflight.apple.com/join/TfxHXkvb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/31/27/56312798-45a1-a350-127c-ce85548dc452/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.102Z
+Categories:
+
+
+Name: Foodie - Restaurant App
+Url: https://testflight.apple.com/join/9rg7MZQu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/85/10/dc8510ce-209b-f3f2-07d0-b689159316f5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.138Z
+Categories:
+
+
+Name: InstaBaby Dev
+Url: https://testflight.apple.com/join/ByLqX3t8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/77/c7/89/77c7895b-71be-132c-a0d8-b2d067746ed5/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.174Z
+Categories:
+
+
+Name: Life Planning - Plan Your Life
+Url: https://testflight.apple.com/join/ubhhnZoz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/fd/59/34fd5911-d1e3-73a6-bbb4-22a86cf8d4d2/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.211Z
+Categories:
+
+
+Name: Ohouse - Home Styling Ideas
+Url: https://testflight.apple.com/join/Lsvg7cJJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/49/89/56498908-61f1-8ef0-64ae-5c3727479534/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.247Z
+Categories:
+
+
+Name: Every Word: Audiobook Player
+Url: https://testflight.apple.com/join/OlQd8WVV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/ca/b5/aecab500-eafc-785f-6d97-8df365e71fa1/AppIconDefault-1x_U007epad-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.282Z
+Categories:
+
+
+Name: BackpackWallet
+Url: https://testflight.apple.com/join/YAAWF4RL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/84/75/8e84751c-be7b-bb4a-2cfe-4ff864453d8e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.319Z
+Categories:
+
+
+Name: Village Playdates
+Url: https://testflight.apple.com/join/tAknV9Dy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/c7/53/5cc753ba-e8f8-deb5-9eba-4a585bbdef32/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.356Z
+Categories:
+
+
+Name: Kafi Wealth
+Url: https://testflight.apple.com/join/4VGRGvow
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/38/0f/65380feb-7495-bad0-2699-42a1f25ec340/AppIcon_PROD-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.392Z
+Categories:
+
+
+Name: One Plus
+Url: https://testflight.apple.com/join/mIt9uVcU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/af/9b/72af9bf0-adc0-638f-c42d-015a67981817/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.421Z
+Categories:
+
+
+Name: InstaPlan-UAT
+Url: https://testflight.apple.com/join/ikqPfq52
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/13/3c/80133cce-6ff1-e8e2-36ca-d5254d845275/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T01:01:10.449Z
+Categories:
+
+
