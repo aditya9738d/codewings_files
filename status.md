@@ -11932,3 +11932,120 @@ Last Checked: 2024-06-01T19:13:12.173Z
 Categories:
 
 
+Name: TomTom AmiGO GPS Maps, Traffic
+Url: https://testflight.apple.com/join/udcY58FH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/de/a6/c9dea67a-281c-acaf-e0e5-7183d0071f1a/AppIconAlpha-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:14:12.913Z
+Categories:
+
+
+Name: Juno: New Origins
+Url: https://testflight.apple.com/join/5SRK7rgD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d0/52/a4/d052a497-35ca-cb4e-60fe-002ea0ba7420/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:14:12.948Z
+Categories:
+
+
+Name: BSNeBiz Mobile- Corporate User
+Url: https://testflight.apple.com/join/hf4SeRaH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/5c/da/e75cda77-8c94-1ced-a003-cf88c11b1a98/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:14:12.982Z
+Categories:
+
+
+Name: sadra weather
+Url: https://testflight.apple.com/join/xzTsRcf6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/bc/22/f4bc222f-4474-2cbd-98e6-a0cadc3955a2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:14:13.017Z
+Categories:
+
+
+Name: Grav.id
+Url: https://testflight.apple.com/join/NDEQ52A7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/e3/81/e7e38146-2a0a-af8b-56e4-440f2456720b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:14:13.051Z
+Categories:
+
+
+Name: Mobius
+Url: https://testflight.apple.com/join/0qloGnRK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/20/04/1e200418-8042-05f4-3c12-bdfb1a59256e/AppIcon_1-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T19:14:13.085Z
+Categories:
+
+
+Name: Touchpix
+Url: https://testflight.apple.com/join/I35Yb9iJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/d8/de/abd8def6-0691-c006-81f9-8db241923457/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:14:13.119Z
+Categories:
+
+
+Name: Mutant Forge
+Url: https://testflight.apple.com/join/ealvdxfe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/8c/b6/fd8cb62e-886f-57cb-ba5e-9c89cc5fa346/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:14:13.153Z
+Categories:
+
+
+Name: MuChaos
+Url: https://testflight.apple.com/join/TX2KX2iS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/ab/b3/c3abb38e-cbeb-e209-8333-c0220bf08a91/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:14:13.188Z
+Categories:
+
+
+Name: Health Auto Export - JSON+CSV
+Url: https://testflight.apple.com/join/g5FcLFJQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/33/eb/cd33eb5f-0f91-aaa7-191b-aff12b91c897/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T19:14:13.223Z
+Categories:
+
+
+Name: Crazy Match3
+Url: https://testflight.apple.com/join/AGyZaxcW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/85/f2/6b/85f26b0e-6fec-c6f6-044f-7b69c1ebab33/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-01T19:14:13.257Z
+Categories:
+
+
+Name: Grappling Booster BJJ Workouts
+Url: https://testflight.apple.com/join/JDY5WwO0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/15/cf/e015cff1-4251-b93b-5b1c-830bda04e476/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-01T19:14:13.292Z
+Categories:
+
+
+Name: Honda Connect Vietnam
+Url: https://testflight.apple.com/join/lpvYODks
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/6f/d2/246fd206-efdd-9795-a591-6728afa2cdd0/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-01T19:14:13.326Z
+Categories:
+
+
