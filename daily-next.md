@@ -1,3 +1,5 @@
+- **CAINIAO - 讓集運更簡單**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/46/18/2e46184d-40a8-662d-28b6-4b28a784df03/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VgfJfp4l)
+
 - **SwiftTask**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/db/76/05db76ee-25cc-b1d4-2805-7df5520963ac/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uPYoVBBN)
 
 - **GoEffects**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b3/d0/9ab3d017-3a68-47e1-5d0d-2b2a7890a22e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/76TbaVKJ)
@@ -46,5 +48,3 @@
 - **Atlas - Spatial Ergonomics**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/86/82/5f86824a-9495-d3a5-0536-57a20576e454/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HbtqQVhn)
 
 - **Mesh SMS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/86/99/42869918-c181-98aa-526b-2e8b9fe336a0/AppIcon-1x_U007epad-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6mKuAhbG)
-
-- **Zesfy - Daily Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/78/2c/94782c38-fe18-2ab0-973d-273cd1a6155a/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vsr4s4L1)
