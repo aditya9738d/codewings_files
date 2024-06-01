@@ -6550,3 +6550,120 @@ Last Checked: 2024-06-01T22:41:08.664Z
 Categories:
 
 
+Name: StreetBookies
+Url: https://testflight.apple.com/join/ycSUylsI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/af/44/67/af446736-d794-6044-d75c-77d3277ee60b/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-01T22:42:09.192Z
+Categories:
+
+
+Name: Strides: Habit Tracker + Goals
+Url: https://testflight.apple.com/join/yf1QglKW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/92/29/d4/9229d403-b858-3020-3510-38377dd436b6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T22:42:09.229Z
+Categories:
+
+
+Name: Strings Catalog Translator
+Url: https://testflight.apple.com/join/JcKYYGab
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/ba/a9/0fbaa918-b1b2-3ed5-9ca6-82e834b5895e/AppIcon-0-0-2x_U007euniversal-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T22:42:09.264Z
+Categories:
+
+
+Name: Study Snacks: Languages & More
+Url: https://testflight.apple.com/join/PBaw6V7Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/60/96/ae609675-cce7-ead7-1459-f4310e9a11b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T22:42:09.301Z
+Categories:
+
+
+Name: StudyStream
+Url: https://testflight.apple.com/join/BWd7tE6E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/3d/1e/f83d1e74-2d2a-65e5-6fb3-8f33c86c2b1a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-01T22:42:09.337Z
+Categories:
+
+
+Name: Subjects — school planner
+Url: https://testflight.apple.com/join/BnN6jEaJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/df/8a/69df8a90-8fa1-deb2-7581-fe8ef5f256a6/AppIcon-Green.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T22:42:09.372Z
+Categories:
+
+
+Name: Sudoku Cloudscape: Solve Relax
+Url: https://testflight.apple.com/join/8CRMXkRl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/9b/a1/8f9ba1fe-1887-37b2-5e95-093e603b2024/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T22:42:09.408Z
+Categories:
+
+
+Name: Sukiru
+Url: https://testflight.apple.com/join/A8bB6OQo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/02/ee/7802eec2-d3a4-3c83-4f70-7788f8c2d31a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T22:42:09.444Z
+Categories:
+
+
+Name: Super Rich Dev
+Url: https://testflight.apple.com/join/shf70gTU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/e9/cb/7be9cb7b-fa6d-f91a-add0-39278e91c819/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T22:42:09.481Z
+Categories:
+
+
+Name: SuperDeker App
+Url: https://testflight.apple.com/join/w4x8bC22
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/bf/18/3dbf18dd-7b78-f056-95d9-4553cde73ed8/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T22:42:09.517Z
+Categories:
+
+
+Name: Superbloom Science
+Url: https://testflight.apple.com/join/CBWEOlEy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/57/64/2b576402-9b0f-1816-62d3-4e64108bdb69/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T22:42:09.553Z
+Categories:
+
+
+Name: Superhero Wallet
+Url: https://testflight.apple.com/join/3o5r4dQQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/82/d2/9682d250-0c3f-e408-3909-23a97fbab4f0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T22:42:09.589Z
+Categories:
+
+
+Name: Superpets Demo
+Url: https://testflight.apple.com/join/YVQODg4S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/08/b4/6f08b4b4-29db-eb43-96f4-2798620ad0ff/SuperpetsIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T22:42:09.625Z
+Categories:
+
+
