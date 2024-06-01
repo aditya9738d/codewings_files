@@ -24802,3 +24802,120 @@ Last Checked: 2024-06-01T21:13:11.752Z
 Categories:
 
 
+Name: BuzzFeed - Quiz, Trivia & News
+Url: https://testflight.apple.com/join/P529XpjS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/a0/74/33a07407-4631-dc95-0aa0-62e5efd891dc/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T21:14:12.982Z
+Categories:
+
+
+Name: Byndr Social
+Url: https://testflight.apple.com/join/nKblMzL3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/48/67/19/486719fd-e26a-bb9c-c5ee-e04b5475427a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T21:14:13.018Z
+Categories:
+
+
+Name: Byte Exchange Bitcoin & Crypto
+Url: https://testflight.apple.com/join/uBgc4M2B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/07/1c/42071ca3-3920-18b2-b575-57afafdffa1b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T21:14:13.053Z
+Categories:
+
+
+Name: C6HAWK
+Url: https://testflight.apple.com/join/NIjFX1cX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/8a/d4/8a8ad404-1974-140e-069e-f589163d0b75/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T21:14:13.089Z
+Categories:
+
+
+Name: CAMP Pk
+Url: https://testflight.apple.com/join/YJStBNvD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a3/b0/ca/a3b0caae-1807-c73c-c5e0-565cc119b778/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T21:14:13.126Z
+Categories:
+
+
+Name: CARES4WOUNDS C4W-B
+Url: https://testflight.apple.com/join/GRUNKVmx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/5f/2d/175f2dad-ecf4-469c-8573-dc3f926cbfe8/c4wb_app_icon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T21:14:13.163Z
+Categories:
+
+
+Name: CATTLEytics
+Url: https://testflight.apple.com/join/7lHgKiJP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/79/10/5079109f-086a-4bf6-bd28-438a01beb45d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T21:14:13.198Z
+Categories:
+
+
+Name: CBChoice
+Url: https://testflight.apple.com/join/Gh5tKqWn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/fd/5c/a4fd5c84-b2fb-f108-7230-0b753a7f66f5/AppIcon_1-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T21:14:13.233Z
+Categories:
+
+
+Name: CBLife
+Url: https://testflight.apple.com/join/exN2uLeo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/70/c4/d770c477-ca75-62d7-3d3a-df96216225dc/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T21:14:13.269Z
+Categories:
+
+
+Name: CNDO
+Url: https://testflight.apple.com/join/hQEdI7D0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/cc/7b/74cc7b61-c7f5-e5eb-9462-7a9ec747458a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T21:14:13.305Z
+Categories:
+
+
+Name: COLATV
+Url: https://testflight.apple.com/join/SIofWtuA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/6d/48/3e6d48c3-9238-d858-a97f-f86454fcb8c5/AppIcon-1x_U007ephone-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 5
+Beta Available: error
+Last Checked: 2024-06-01T21:14:13.341Z
+Categories:
+
+
+Name: COROS
+Url: https://testflight.apple.com/join/ytW7Pwzm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/64/f7/d264f72f-3e06-0ce9-f1b8-4993f6b0d890/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-01T21:14:13.376Z
+Categories:
+
+
+Name: CPWDSewa
+Url: https://testflight.apple.com/join/6xNA8rZY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/77/7f/72777f03-f7cb-871a-c490-55c62afeaa23/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-01T21:14:13.412Z
+Categories:
+
+
