@@ -17314,3 +17314,120 @@ Last Checked: 2024-06-03T14:24:12.027Z
 Categories:
 
 
+Name: Digits: Sports News & Stats
+Url: https://testflight.apple.com/join/Yjr6CyCu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/c5/11/a7c511da-7193-e6bd-5396-9b8c9aded937/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:25:19.073Z
+Categories:
+
+
+Name: Diligent Daily Habits
+Url: https://testflight.apple.com/join/N9P4sCtz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/1d/1f/191d1fc6-e525-55fc-8158-c6b49ac8d86c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:25:19.110Z
+Categories:
+
+
+Name: Dime: Budget & Expense Tracker
+Url: https://testflight.apple.com/join/5pjgVpyM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/73/fd/26/73fd2616-c909-2415-be64-437174fd4a3d/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:25:19.146Z
+Categories:
+
+
+Name: Dino Ex
+Url: https://testflight.apple.com/join/sF0gLHJ8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/e0/6c/3be06c5e-ee3e-e5d5-a7d6-d56cad633d96/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:25:19.183Z
+Categories:
+
+
+Name: DiscDuck
+Url: https://testflight.apple.com/join/PENMqZbS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/63/b9/ad/63b9ad10-c5be-b2c9-54ae-63833ee2115e/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:25:19.220Z
+Categories:
+
+
+Name: Discogs
+Url: https://testflight.apple.com/join/MLrxqR4n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/ae/8d/53ae8def-3e67-44b8-cd38-20c8107a823c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:25:19.258Z
+Categories:
+
+
+Name: DiscountExpress
+Url: https://testflight.apple.com/join/sQwWXn71
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/d6/ba/38d6ba10-1cd0-98a0-4f5b-d75e70c65d56/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:25:19.295Z
+Categories:
+
+
+Name: Discover Culture AC
+Url: https://testflight.apple.com/join/HzUeAOlz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/30/d7/b130d7e3-ccab-5e82-3571-414818a439a6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:25:19.331Z
+Categories:
+
+
+Name: Distance Track
+Url: https://testflight.apple.com/join/yA1N8Ykd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/5d/e9/cb5de9ac-37f5-368d-c174-eb69987d3875/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:25:19.367Z
+Categories:
+
+
+Name: DitSitRit-beta
+Url: https://testflight.apple.com/join/TsUNwLK1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/66/b4/37/66b4377d-48f8-c1de-4b01-3afc96196c83/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:25:19.404Z
+Categories:
+
+
+Name: Do it! — Kids habit tracker
+Url: https://testflight.apple.com/join/aPYRstIj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/e8/8a/c2e88a56-d567-5743-6ccd-ee53aae3f84a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:25:19.440Z
+Categories:
+
+
+Name: Docnet
+Url: https://testflight.apple.com/join/NRizWqBU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/ec/03/f9ec0343-a90d-3638-77c6-6b28a13abfb6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:25:19.477Z
+Categories:
+
+
+Name: Doctor App Template
+Url: https://testflight.apple.com/join/pCbu3RLT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f0/84/f5/f084f52a-8919-a83b-0e3b-1a8fa69f2efc/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:25:19.513Z
+Categories:
+
+
