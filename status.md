@@ -18133,3 +18133,120 @@ Last Checked: 2024-06-03T14:31:09.432Z
 Categories:
 
 
+Name: Fasting Now
+Url: https://testflight.apple.com/join/dGuWXTzq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/22/05/a4220572-4747-c7a9-654d-a9ed79003b07/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:32:10.852Z
+Categories:
+
+
+Name: Fate of Nika Mobile
+Url: https://testflight.apple.com/join/oKCfCw3g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/15/e7/57/15e7579a-1359-484e-343a-4bf52c8b0f5f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-03T14:32:10.887Z
+Categories:
+
+
+Name: Favs - Social Networking
+Url: https://testflight.apple.com/join/2XsrvUyh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/d7/b0/85d7b04f-222c-81bd-6816-37f71075035b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:32:10.922Z
+Categories:
+
+
+Name: Fiddlicator2 Core
+Url: https://testflight.apple.com/join/5EnDDqnI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/fc/73/4cfc7341-4375-1d83-838b-bd426ac97571/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:32:10.957Z
+Categories:
+
+
+Name: Figo - AI Finance Pet
+Url: https://testflight.apple.com/join/GkykkmoZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/30/31/3f30318d-c09a-e25b-4d4f-7e9ecdefee42/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:32:10.992Z
+Categories:
+
+
+Name: FiiO DSP
+Url: https://testflight.apple.com/join/zfdXQMrE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1b/54/87/1b548794-8176-8f2a-4b66-8d8ac84422c1/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:32:11.027Z
+Categories:
+
+
+Name: Filter of Hope
+Url: https://testflight.apple.com/join/wvcengUV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/c5/80/e7c5806a-8ec8-8b53-1f14-b9a5338cefa0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:32:11.062Z
+Categories:
+
+
+Name: Finance Bay: Portfolio Tracker
+Url: https://testflight.apple.com/join/y4etT8Ht
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/de/f8/97def847-59fb-b86e-dcf5-475c3f7b4d41/icon_boat_dark-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T14:32:11.096Z
+Categories:
+
+
+Name: Finbank
+Url: https://testflight.apple.com/join/8Jv9PVWz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d3/d6/62/d3d662de-c827-0935-8c6f-e0e3920ab3cf/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:32:11.132Z
+Categories:
+
+
+Name: Fire Meals
+Url: https://testflight.apple.com/join/W0Mdf6VB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ca/f1/e8/caf1e8e8-48a5-a08e-1c26-59c768b91153/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:32:11.167Z
+Categories:
+
+
+Name: FireApp Chat
+Url: https://testflight.apple.com/join/ZpDj2Z4h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/d4/7a/dad47aa5-d411-0aea-32bc-69bb7ab624be/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:32:11.203Z
+Categories:
+
+
+Name: Firefly: Web3 & NFT Explorer
+Url: https://testflight.apple.com/join/pNXjbB1D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a5/53/38/a553384d-e77c-960d-c572-41ff0b6fc3d6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:32:11.238Z
+Categories:
+
+
+Name: Test Only -LPT First Merchants
+Url: https://testflight.apple.com/join/MRuvaWu3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/aa/1f/bcaa1f65-9eea-0b15-1eab-533dd79708f2/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:32:11.273Z
+Categories:
+
+
