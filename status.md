@@ -20771,3 +20771,120 @@ Last Checked: 2024-06-03T19:25:17.639Z
 Categories:
 
 
+Name: ProSafeT
+Url: https://testflight.apple.com/join/eORSQW4B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/ca/3b/07ca3b3e-1b8f-ddf5-9bc6-27c164b9fdae/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:26:10.956Z
+Categories:
+
+
+Name: DoAI
+Url: https://testflight.apple.com/join/jmD319UT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/46/4a/7b464a5f-0135-cf3a-1013-0393e8695f2c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:26:10.993Z
+Categories:
+
+
+Name: Seafi
+Url: https://testflight.apple.com/join/iLhMYCOC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/89/91/cd899151-fa73-c665-7205-73ab8681ca6c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:26:11.029Z
+Categories:
+
+
+Name: Gentler
+Url: https://testflight.apple.com/join/wSH4p6PU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/78/c2/5f78c2aa-da58-2932-d4e8-83baaea0600d/AppIconBeta-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:26:11.066Z
+Categories:
+
+
+Name: AI-Chef
+Url: https://testflight.apple.com/join/cWx9R8OK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/19/93/8c/19938c20-94f5-1c9d-d5cb-519fa169a28f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:26:11.102Z
+Categories:
+
+
+Name: OfficeSuite Sheets
+Url: https://testflight.apple.com/join/i5vRfqkD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/57/5d/58575d13-5ffb-bca1-529d-93f68e88fd5c/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:26:11.139Z
+Categories:
+
+
+Name: KryptoPoker
+Url: https://testflight.apple.com/join/Mv3vEy0C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/09/98/3e09982d-8b3d-5b80-b67f-e1dff9a2e320/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:26:11.176Z
+Categories:
+
+
+Name: LNDU+
+Url: https://testflight.apple.com/join/TBR0bOOL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/18/08/6a180857-ceba-2d52-57c5-e76858ca3d9b/AppIcon-0-0-1x_U007ephone-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:26:11.213Z
+Categories:
+
+
+Name: Samsung Shop
+Url: https://testflight.apple.com/join/FVoXfI5R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/80/4a/ad804ac4-bba1-52e5-56f1-96578f39fd6c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-03T19:26:11.249Z
+Categories:
+
+
+Name: Castle Empire
+Url: https://testflight.apple.com/join/p6Vl1pLP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/80/c0/b180c0fe-bd1c-b81e-a371-49df1c09e5ec/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:26:11.286Z
+Categories:
+
+
+Name: SushiDebtOff
+Url: https://testflight.apple.com/join/TWfxi97k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/08/0e/3f080e5e-9bea-655e-80c6-c0a0cb815ee9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:26:11.324Z
+Categories:
+
+
+Name: Welco - Relais particuliers
+Url: https://testflight.apple.com/join/DvCGTiws
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/92/7a/a9927a6f-f4aa-0d1f-0d51-6abc86466aa2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:26:11.361Z
+Categories:
+
+
+Name: Wipi
+Url: https://testflight.apple.com/join/uABDyoSk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/66/d2/7d66d22f-26bd-32d0-276d-6a9a0dededd1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:26:11.398Z
+Categories:
+
+
