@@ -12788,3 +12788,120 @@ Last Checked: 2024-06-03T09:20:27.700Z
 Categories:
 
 
+Name: Playbite - Mobile Arcade
+Url: https://testflight.apple.com/join/5EaZwS36
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/2f/13/f32f1362-d990-6104-063b-65a29cfc6612/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.337Z
+Categories:
+
+
+Name: Aloha Browser - Private VPN
+Url: https://testflight.apple.com/join/Xh9VNQoA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ca/10/beca102c-560f-3436-1d3b-6c8f13ebdfe4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.366Z
+Categories:
+
+
+Name: SOLD
+Url: https://testflight.apple.com/join/S8htmnA6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/ff/b7/f9ffb7dd-5354-47a8-6f12-3819b2975591/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.394Z
+Categories:
+
+
+Name: Tiny-Fins
+Url: https://testflight.apple.com/join/AKKsWpCM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/f2/07/f5f207a1-28b7-94ae-f312-158425e176a3/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.422Z
+Categories:
+
+
+Name: OzRunways EFB
+Url: https://testflight.apple.com/join/CAr9bOXm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/1a/fd/3d1afd79-2d80-f2c7-125f-032a406abba0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.450Z
+Categories:
+
+
+Name: Mela - Recipe Manager
+Url: https://testflight.apple.com/join/JXPIqwTR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/07/53/a40753bf-42c1-2024-b15e-a6ee32cf194a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T09:21:10.479Z
+Categories:
+
+
+Name: PDF Owl
+Url: https://testflight.apple.com/join/5JBMctKj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/9e/8a/da9e8a0f-1f01-e267-6c9c-47fe48ef65ee/AppIcon-0-85-220-4-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.506Z
+Categories:
+
+
+Name: Repeat One
+Url: https://testflight.apple.com/join/pnP3yVv3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/a8/6f/b8a86f7f-7805-b353-8da0-d35eedabe195/AppIcon-0-0-1x_U007epad-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.535Z
+Categories:
+
+
+Name: Pixel Odyssey
+Url: https://testflight.apple.com/join/Ow7mpJUQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/8d/97/238d9737-1e6a-eb66-538f-5e3c9215f2b1/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.563Z
+Categories:
+
+
+Name: Class Chat EDU
+Url: https://testflight.apple.com/join/755Uk1kT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/60/ac/5260acd7-1cf4-b4f3-2fc8-9e5bd266573e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.591Z
+Categories:
+
+
+Name: Salon Realtor
+Url: https://testflight.apple.com/join/8w0EiIFt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/c5/24/13c52413-b8c1-9cb0-05a3-6ce3d5dfab6d/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.619Z
+Categories:
+
+
+Name: Phiano
+Url: https://testflight.apple.com/join/XCJq0vrw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/5c/f5/d75cf5dc-923e-638a-09db-fee7e1ae7b60/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.647Z
+Categories:
+
+
+Name: Native AI Actions
+Url: https://testflight.apple.com/join/LdwfSZvG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/f1/78/03f1785d-01bc-f7e7-d97b-bea3035cd2a2/iOSIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:21:10.676Z
+Categories:
+
+
