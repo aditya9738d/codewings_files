@@ -349,3 +349,120 @@ Last Checked: 2024-06-03T03:24:14.712Z
 Categories:
 
 
+Name: Booksnake
+Url: https://testflight.apple.com/join/YocgyZwN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/71/30/ac71304d-da7f-9a80-171c-4c7a3739707d/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T03:25:16.224Z
+Categories:
+
+
+Name: Rippple for Trakt
+Url: https://testflight.apple.com/join/arGwzIYn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/f1/ba/96f1badd-0953-5db9-b051-e2c161145f9c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T03:25:16.259Z
+Categories:
+
+
+Name: put.io
+Url: https://testflight.apple.com/join/Sj8gx21t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5f/f1/06/5ff10683-f26e-7ad8-cd03-834e7aee1182/AppIconRetro-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T03:25:16.295Z
+Categories:
+
+
+Name: ADAMANT Messenger
+Url: https://testflight.apple.com/join/OQnZIOT8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/eb/0f/83eb0f87-9cf4-51c3-94e7-1380c30513d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T03:25:16.331Z
+Categories:
+
+
+Name: Staging Vibes Only
+Url: https://testflight.apple.com/join/rFswGkqJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/a0/1d/d5a01d93-7161-1b6e-2dc4-d04263b57b3f/AppIcon-staging-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T03:25:16.367Z
+Categories:
+
+
+Name: iPartnerHandling
+Url: https://testflight.apple.com/join/NeOEHzQO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/fb/4c/cafb4cea-69e6-d888-124a-6efdf3af05aa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T03:25:16.403Z
+Categories:
+
+
+Name: Work Plus QAS
+Url: https://testflight.apple.com/join/SVbn1MmA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/ce/49/0bce49b3-c0ff-5bf6-eaeb-a0bfd37699ce/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T03:25:16.439Z
+Categories:
+
+
+Name: DarknessBot
+Url: https://testflight.apple.com/join/B6r39HPw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/59/65/2d596537-118c-afe7-466a-8abcc1c68dc1/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T03:25:16.477Z
+Categories:
+
+
+Name: Beeminder
+Url: https://testflight.apple.com/join/U26BrdwB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/44/95/c0/4495c0cb-5e7a-5a9e-4af9-1e0beb2e4044/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T03:25:16.516Z
+Categories:
+
+
+Name: Yalla - Group Voice Chat Rooms
+Url: https://testflight.apple.com/join/LUV13Im7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/82/63/fd8263e9-fcfe-12fb-d798-14c7185e7b45/AppIcon-Yalla-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T03:25:16.553Z
+Categories:
+
+
+Name: Mammotion
+Url: https://testflight.apple.com/join/GsYEMjIk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/63/b0/5a63b035-ef6a-161d-e24c-1ec43afaedaa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T03:25:16.589Z
+Categories:
+
+
+Name: FunFinances
+Url: https://testflight.apple.com/join/pqWTpKCY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/20/08/d32008b5-043b-09b5-f20c-7d75c73277e6/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T03:25:16.624Z
+Categories:
+
+
+Name: Worklog - AI Time Tracking
+Url: https://testflight.apple.com/join/TeHjOP3I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/69/cb/79/69cb799e-07d2-4a59-cd50-092c95f5c8e8/AppIcon-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T03:25:16.659Z
+Categories:
+
+
