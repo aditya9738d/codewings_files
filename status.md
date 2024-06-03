@@ -22499,3 +22499,120 @@ Last Checked: 2024-06-03T10:47:11.424Z
 Categories:
 
 
+Name: Elfie • Health & Rewards
+Url: https://testflight.apple.com/join/JdRKcT3U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/26/d1/fa26d16b-2ad4-81a0-701c-ae4424a47ba4/AppIcon-prod-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:48:13.688Z
+Categories:
+
+
+Name: Spot – Electricity prices
+Url: https://testflight.apple.com/join/wS5TVGF4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/6b/46/256b4692-3132-0001-b3b4-7b1a366b27c3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:48:13.716Z
+Categories:
+
+
+Name: Qomunal
+Url: https://testflight.apple.com/join/GhGj5Bl0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/7f/db/027fdbde-5e0c-a845-799d-919bd2118e96/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:48:13.744Z
+Categories:
+
+
+Name: Roka: Dating & Matchmaking App
+Url: https://testflight.apple.com/join/gG9P3Q3v
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/40/af/e440af03-45f5-ab9b-cdad-90cd7bdbc3b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:48:13.773Z
+Categories:
+
+
+Name: Cleo: Up to \$250 Cash Advance
+Url: https://testflight.apple.com/join/fDG9hWng
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/5b/44/a35b4438-bc25-ab9d-5131-9d2c21c5966f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:48:13.801Z
+Categories:
+
+
+Name: Japfa Feed - Sales
+Url: https://testflight.apple.com/join/Zh2fP7OG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/6c/aa/e76caa63-d76f-c48d-9c2e-52c50f690f78/AppIcon-production-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:48:13.829Z
+Categories:
+
+
+Name: zDrip
+Url: https://testflight.apple.com/join/ckUeZYVm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/be/2f/6dbe2ffb-d6e7-c9c3-8c58-e1ce4074efac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T10:48:13.857Z
+Categories:
+
+
+Name: Tata CLiQ Palette: Shop Beauty
+Url: https://testflight.apple.com/join/SPetKI7I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/4e/d3/4b4ed358-0b68-70fa-db4b-fbcee97b9750/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:48:13.885Z
+Categories:
+
+
+Name: Nautica WooCommerce
+Url: https://testflight.apple.com/join/mrvIRLfw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/d5/00/bdd50052-a38d-7947-91ce-772e444bb814/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:48:13.913Z
+Categories:
+
+
+Name: HerVenture
+Url: https://testflight.apple.com/join/8nPxfqGS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/d6/c1/88d6c1cf-f4f9-d5c7-c113-17b25d343caa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T10:48:13.941Z
+Categories:
+
+
+Name: A1Metal
+Url: https://testflight.apple.com/join/zAwmxkh5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/1d/e2/ba1de242-ab56-75f0-a199-d15079e3871d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:48:13.969Z
+Categories:
+
+
+Name: I Remember When
+Url: https://testflight.apple.com/join/hEh8SXPI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/7f/97/267f9717-54fd-3ece-28d5-1fba484ebd12/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:48:13.997Z
+Categories:
+
+
+Name: Twilar
+Url: https://testflight.apple.com/join/dKYsGQ2n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/ba/3c/40ba3cbd-f288-5328-b381-c58cad49867e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T10:48:14.025Z
+Categories:
+
+
