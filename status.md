@@ -18431,3 +18431,120 @@ Last Checked: 2024-06-03T19:00:53.928Z
 Categories:
 
 
+Name: ClienKit
+Url: https://testflight.apple.com/join/IUssNRpy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/f8/44/8af84415-151f-37fe-5b8a-d6d284e7f255/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:02:13.305Z
+Categories:
+
+
+Name: Geovelo : bike GPS
+Url: https://testflight.apple.com/join/3tGq4Vsv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/8f/53/be8f53d5-47fc-530c-3c55-b5d1c6557df9/AppIcon-Geovelo-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:02:13.341Z
+Categories:
+
+
+Name: iGPSPORT
+Url: https://testflight.apple.com/join/ioPjgrRi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/14/fc/1614fc7d-5c04-1845-17a8-8bdf34a87d1f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T19:02:13.378Z
+Categories:
+
+
+Name: The 1: UAT
+Url: https://testflight.apple.com/join/M2ysLVcN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/cc/c9/28ccc925-1620-97b3-aafe-b7416dcff5fd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:02:13.413Z
+Categories:
+
+
+Name: Dikalo
+Url: https://testflight.apple.com/join/pZWRkOXn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/00/a7/a7/00a7a720-d58e-951a-533e-1d1e8df61311/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-03T19:02:13.449Z
+Categories:
+
+
+Name: Sale App
+Url: https://testflight.apple.com/join/W9vjfPwT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/a8/3f/eea83f88-adf3-b561-191b-494b14d201ed/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:02:13.484Z
+Categories:
+
+
+Name: HomeTeamNS UAT
+Url: https://testflight.apple.com/join/vh8u2dMQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/45/a5/e545a53a-6a31-9b37-27af-89ed8f588d19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:02:13.521Z
+Categories:
+
+
+Name: Code App
+Url: https://testflight.apple.com/join/EgZ8sE2P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/3f/b5/b33fb5b3-b77c-3417-e0c9-51ac503e4164/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T19:02:13.557Z
+Categories:
+
+
+Name: MAE Support
+Url: https://testflight.apple.com/join/BAdfo8Cf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/db/70/51db70d4-9af4-f539-3925-2bb8310efc98/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:02:13.593Z
+Categories:
+
+
+Name: Flat: Music Score & Tab Editor
+Url: https://testflight.apple.com/join/40tsZiyi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/d1/2b/9cd12b12-5e1d-0d0c-cb96-9f45e5a83700/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:02:13.629Z
+Categories:
+
+
+Name: Williams Racing
+Url: https://testflight.apple.com/join/vFuOGkFK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/91/39/b8913978-f0b5-c5c9-3d55-0452f90996b7/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T19:02:13.665Z
+Categories:
+
+
+Name: OpConnect
+Url: https://testflight.apple.com/join/3YO0GqpV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/6e/06/ea6e0689-5913-e4d6-203d-0ff07e8500c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:02:13.701Z
+Categories:
+
+
+Name: PickCard
+Url: https://testflight.apple.com/join/SNZQmonf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/18/c9/8218c9bb-7808-394c-9e5b-658964fd3c6b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:02:13.738Z
+Categories:
+
+
