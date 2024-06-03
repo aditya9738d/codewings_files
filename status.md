@@ -27844,3 +27844,120 @@ Last Checked: 2024-06-03T15:57:10.630Z
 Categories:
 
 
+Name: Woopdo
+Url: https://testflight.apple.com/join/eqcSqwuI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9d/db/509ddb1b-8523-c2c2-6735-5919fbefc38d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T15:58:12.139Z
+Categories:
+
+
+Name: Wordy Word Picker
+Url: https://testflight.apple.com/join/dUfJ3mdV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/f0/74/fef074b0-7a1a-576c-535a-442e7827a00f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:58:12.168Z
+Categories:
+
+
+Name: WorkForce Dev
+Url: https://testflight.apple.com/join/C0oKDMB9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/a6/fc/b9a6fc1e-1e50-9a79-4112-271e49f44e82/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:58:12.197Z
+Categories:
+
+
+Name: WorkHR
+Url: https://testflight.apple.com/join/2oZXcpEQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f5/c3/6f/f5c36f8c-a8de-49fc-ce7a-11af8060eeee/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:58:12.226Z
+Categories:
+
+
+Name: Working Hours 4b
+Url: https://testflight.apple.com/join/FtzoFkE8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/2e/32/872e323d-2b50-e447-5277-e7aeec18594c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:58:12.254Z
+Categories:
+
+
+Name: WorkoutGPT
+Url: https://testflight.apple.com/join/Gnj7iziU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/c8/3d/d2c83dc5-3ea6-286c-0ca2-69f3bd415bfe/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:58:12.282Z
+Categories:
+
+
+Name: Workspot
+Url: https://testflight.apple.com/join/gKTd3iFb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2e/b3/9a2eb396-92d4-21f3-b63a-0ea8ff9a3674/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T15:58:12.310Z
+Categories:
+
+
+Name: World Reborn
+Url: https://testflight.apple.com/join/nxPJzyDe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/b3/8a/65b38ace-c961-0273-3780-91f8c6b6219b/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:58:12.338Z
+Categories:
+
+
+Name: Wugo: discover local events
+Url: https://testflight.apple.com/join/bkCQOX3i
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/2e/85/992e851b-deae-c173-74d6-8aced74a05f6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:58:12.366Z
+Categories:
+
+
+Name: WunderLINQ GoPro Remote
+Url: https://testflight.apple.com/join/lIl1Uamg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/bd/08/febd087d-d550-ced8-f593-938a8cbe86e7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:58:12.394Z
+Categories:
+
+
+Name: X-CITE IMMO
+Url: https://testflight.apple.com/join/YViZdegX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/cf/f1/6bcff19e-cfc0-9077-b29f-87a85bf15cfa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:58:12.423Z
+Categories:
+
+
+Name: XC Partner
+Url: https://testflight.apple.com/join/yOL1ULQF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/b7/bd/55b7bdcf-a6ae-96c7-6159-2fbdd0168c3f/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:58:12.453Z
+Categories:
+
+
+Name: XCSweepRobot
+Url: https://testflight.apple.com/join/IwHX5NxP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/09/bf/c609bfa0-baeb-f6f2-5eed-0b473209a275/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:58:12.485Z
+Categories:
+
+
