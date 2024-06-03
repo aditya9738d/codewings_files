@@ -7837,3 +7837,120 @@ Last Checked: 2024-06-03T21:53:11.406Z
 Categories:
 
 
+Name: Nam Viet Corp
+Url: https://testflight.apple.com/join/XhywUd3m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/05/4e/9f/054e9f2a-9693-2351-558f-ae3369057c55/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.409Z
+Categories:
+
+
+Name: MUUVS Maps
+Url: https://testflight.apple.com/join/Pvp1SbHS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/2f/8e/992f8e9e-5a7a-070f-ef9d-6b9c881fc86e/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.437Z
+Categories:
+
+
+Name: S3XY Watch Key Fob
+Url: https://testflight.apple.com/join/eKkI97SF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/29/65/a12965e5-1cbb-4dc7-6e37-968df11c60dc/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.465Z
+Categories:
+
+
+Name: NCB OTP TEST
+Url: https://testflight.apple.com/join/eteBAdfs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/7e/1d/ec7e1dce-4700-b82a-f21e-9f85bda4ee8f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.492Z
+Categories:
+
+
+Name: Tops-UAT
+Url: https://testflight.apple.com/join/jNcbqrm3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/34/b6/5a34b6c8-a119-bc5a-2b46-576a96df763e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.519Z
+Categories:
+
+
+Name: Pyware 3D Mobile Editor
+Url: https://testflight.apple.com/join/3qhjlHaZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/6d/16/476d16fb-7839-f89d-ff93-03b921bbc584/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.547Z
+Categories:
+
+
+Name: SVT Nyheter
+Url: https://testflight.apple.com/join/KWWcSkTi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/0b/4b/2e0b4b5c-2e0b-a065-fcc8-3158960e8bae/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.575Z
+Categories:
+
+
+Name: PriBank mBanking Test
+Url: https://testflight.apple.com/join/GujYmbdr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/e6/d6/9ce6d616-d4fc-a80a-9ddb-393c8ba09881/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.603Z
+Categories:
+
+
+Name: Fun Toast
+Url: https://testflight.apple.com/join/9FffIbCS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/fa/cb/33facb19-fd81-5bb3-f1e1-3c4843850564/FuntoastIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.630Z
+Categories:
+
+
+Name: Duel Revolution Beta
+Url: https://testflight.apple.com/join/F8yXrZdF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/22/01/4c/22014c08-6bbe-37b2-2113-42c324fff419/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T21:54:11.658Z
+Categories:
+
+
+Name: SoulRealm - NEMO
+Url: https://testflight.apple.com/join/kCfcJBw3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/12/4e/a8/124ea85f-11d9-952a-c31b-09aa2705609b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.685Z
+Categories:
+
+
+Name: BBX SIT
+Url: https://testflight.apple.com/join/tO7C4u9n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/bb/53/1fbb535c-0867-f9fd-264b-b9c7cbadff3a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.714Z
+Categories:
+
+
+Name: Nextdoor: Neighborhood Network
+Url: https://testflight.apple.com/join/hWa4fUQe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/77/1f/36771f27-d3e5-ac55-0504-0c427fb21c01/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:54:11.741Z
+Categories:
+
+
