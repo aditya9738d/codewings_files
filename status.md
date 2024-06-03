@@ -27727,3 +27727,120 @@ Last Checked: 2024-06-03T07:24:11.581Z
 Categories:
 
 
+Name: WalletAppV2
+Url: https://testflight.apple.com/join/09bTAryp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/57/f2/8257f25a-c70f-6dd7-39d5-bb5c563f1b26/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-03T07:25:18.143Z
+Categories:
+
+
+Name: Yacht Cabin: Shared boat trips
+Url: https://testflight.apple.com/join/XL0bBfHe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/07/46/0b0746fb-54d2-4306-5b9c-5f76d9161a33/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:25:18.178Z
+Categories:
+
+
+Name: Tata Neu - Shop, Travel, Pay
+Url: https://testflight.apple.com/join/nxwnETuo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/72/25/cb722533-e20a-d8f9-2908-efe2c5767714/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:25:18.214Z
+Categories:
+
+
+Name: CardioBot: Heart Rate Monitor
+Url: https://testflight.apple.com/join/H82FVVt6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/cb/76/7fcb763f-309a-e362-4169-bf5d1c39fbc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T07:25:18.250Z
+Categories:
+
+
+Name: TickTick:To-Do List & Calendar
+Url: https://testflight.apple.com/join/tY60du3s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/ac/62/2aac62b9-e462-d846-9b6b-8ff04eff036e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T07:25:18.286Z
+Categories:
+
+
+Name: Robot Vacuum Cleaner
+Url: https://testflight.apple.com/join/gbTAUSTY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cd/f6/de/cdf6de04-aef6-d620-9450-0d49e64a0f7f/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:25:18.322Z
+Categories:
+
+
+Name: Avatar Play
+Url: https://testflight.apple.com/join/1JRKMIYN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/23/59/59235901-f8a4-9c62-05a0-5ea7e66b859b/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:25:18.358Z
+Categories:
+
+
+Name: iSenser
+Url: https://testflight.apple.com/join/RZxTSSQ0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/bf/88/29bf88b6-5773-9ffd-5da4-84089b971938/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:25:18.393Z
+Categories:
+
+
+Name: Tinnen
+Url: https://testflight.apple.com/join/D06n37Bi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/04/bc/25/04bc25d7-ed19-cf28-6df5-8eefd35bfba6/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:25:18.429Z
+Categories:
+
+
+Name: 360hideMe
+Url: https://testflight.apple.com/join/OUXp9o9h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/72/ba/14/72ba14b2-52e3-bf46-2987-af15664979a1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:25:18.464Z
+Categories:
+
+
+Name: us3ctkv2
+Url: https://testflight.apple.com/join/6ei8bHY8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/99/ec/69/99ec69ad-5987-ac33-218e-0692bdcec617/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T07:25:18.499Z
+Categories:
+
+
+Name: Swann Security
+Url: https://testflight.apple.com/join/3Xuoi0Zm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/04/3a/53/043a53af-a55c-cef3-aa30-8f4eb5f3dffd/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:25:18.535Z
+Categories:
+
+
+Name: RedPlus
+Url: https://testflight.apple.com/join/o1JeJiAN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/eb/2d/96eb2d06-1439-ca35-e17b-bf01ccaa99c8/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T07:25:18.570Z
+Categories:
+
+
