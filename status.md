@@ -3663,3 +3663,120 @@ Last Checked: 2024-06-03T16:33:12.014Z
 Categories:
 
 
+Name: 3x3 CubeSpeed
+Url: https://testflight.apple.com/join/mIk6RkqE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/5b/1e/dc5b1e26-508a-b8c7-68cb-7af43a18b778/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-03T16:34:12.249Z
+Categories:
+- Games
+
+Name: EIC App
+Url: https://testflight.apple.com/join/B45OhL1o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/0b/b3/a50bb388-8fd1-2589-ce2b-0ea74433a4c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-03T16:34:12.277Z
+Categories:
+
+
+Name: IntraMOB
+Url: https://testflight.apple.com/join/QH7hDuCE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/89/c5/72/89c57201-d702-1713-7b1e-069e5d511a76/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T16:34:12.304Z
+Categories:
+
+
+Name: ONLINE Ticket
+Url: https://testflight.apple.com/join/YNwwlTvs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/03/c6/6b03c62a-373d-76e1-78d4-9082f690f9ae/AppIcon-online-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T16:34:12.332Z
+Categories:
+
+
+Name: BuddyBoss App for LearnDash
+Url: https://testflight.apple.com/join/nMz29b8b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/9c/97/879c978a-44b9-c350-7b62-477c785b4b3b/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T16:34:12.360Z
+Categories:
+
+
+Name: ZONT
+Url: https://testflight.apple.com/join/k4dsrhQc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/66/d1/2a66d1ac-1507-fcc7-72e8-0e669f8afaaf/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T16:34:12.388Z
+Categories:
+
+
+Name: Planny • Daily Planner
+Url: https://testflight.apple.com/join/FhbZxvhv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/75/60/7775606d-6a8e-24b1-416e-94ce96bf64d4/PlannyNew-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-03T16:34:12.416Z
+Categories:
+
+
+Name: Blixt Wallet
+Url: https://testflight.apple.com/join/EXvGhRzS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/22/d3/6f/22d36f5e-3047-c716-52c4-0b49473bf438/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-03T16:34:12.444Z
+Categories:
+
+
+Name: coffey community network
+Url: https://testflight.apple.com/join/8TYRTQz5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/50/0a/66500a42-db4b-0be9-68ee-c7a8207cb33e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-03T16:34:12.471Z
+Categories:
+
+
+Name: Legatrix Mobile App
+Url: https://testflight.apple.com/join/q5mdzbKH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/7a/ec/c07aec41-8046-2d84-03ea-25ce209c4553/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-03T16:34:12.499Z
+Categories:
+
+
+Name: Starr - Smart Calculator
+Url: https://testflight.apple.com/join/n2Ii3S0r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/b3/3a/16b33aec-4b82-9e03-ae80-090524187d31/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-03T16:34:12.527Z
+Categories:
+
+
+Name: Embibe Experiments Preprod
+Url: https://testflight.apple.com/join/YTAYIT3R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/75/9d/bd759d97-e563-a389-4d8b-06492003ae34/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-03T16:34:12.555Z
+Categories:
+
+
+Name: Hand Mirror
+Url: https://testflight.apple.com/join/bnUjZUkE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/b4/5c/9cb45c82-ed3a-9bdc-419f-11aba0d41f6e/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 6
+Beta Available: not accepting
+Last Checked: 2024-06-03T16:34:12.582Z
+Categories:
+
+
