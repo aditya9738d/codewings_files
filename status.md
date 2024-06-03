@@ -17782,3 +17782,120 @@ Last Checked: 2024-06-03T23:29:13.175Z
 Categories:
 
 
+Name: Chopp Agent
+Url: https://testflight.apple.com/join/G84R5Ygy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/cf/5f/29cf5f3b-5f67-3832-6a8c-c19b8e204dea/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:30:48.244Z
+Categories:
+
+
+Name: ChordMate 4
+Url: https://testflight.apple.com/join/rXLwH9PI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/35/2b/04/352b04c9-8be7-d923-211d-45de840f626f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:30:48.280Z
+Categories:
+
+
+Name: Chronicling - Track Anything
+Url: https://testflight.apple.com/join/nWkE49BO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/60/c2/9160c28d-4780-a678-9399-530754523993/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:30:48.315Z
+Categories:
+
+
+Name: ChuBeRong01
+Url: https://testflight.apple.com/join/efKUqomf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a8/67/8f/a8678f99-55b6-af27-139e-417feb570e74/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:30:48.352Z
+Categories:
+
+
+Name: Church Notes
+Url: https://testflight.apple.com/join/wYsArLvw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ca/4b/1b/ca4b1b4a-1b15-43a0-12d6-dab86940ea12/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:30:48.387Z
+Categories:
+
+
+Name: Cider Remote
+Url: https://testflight.apple.com/join/5f8yY1o6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/c1/6a/e5c16aeb-ad1d-8241-274d-6febf6b5f642/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:30:48.423Z
+Categories:
+
+
+Name: CineVision 3D
+Url: https://testflight.apple.com/join/b6aAY4Y8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/69/83/a969831c-773b-2baf-23a0-fe3e3c5b0be1/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:30:48.459Z
+Categories:
+
+
+Name: Cinemagickh
+Url: https://testflight.apple.com/join/KeXQGtCR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d0/e5/84d0e5b5-12bf-1d1a-d7e7-e0393fa6ec02/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-03T23:30:48.495Z
+Categories:
+
+
+Name: Circle iConnect
+Url: https://testflight.apple.com/join/NhO98aWx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/93/62/6d/93626d9d-85ac-c049-8882-6294ca0f3241/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:30:48.531Z
+Categories:
+
+
+Name: Citations
+Url: https://testflight.apple.com/join/vxobmPVp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/27/f9/db27f9f1-bba9-e66c-25d9-c7ae21091c78/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:30:48.568Z
+Categories:
+
+
+Name: Citrix Secure Web
+Url: https://testflight.apple.com/join/DQ71ZZMK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/a8/68/17a86828-911f-c5d4-f8ea-b47a0d357068/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:30:48.604Z
+Categories:
+
+
+Name: Clarii
+Url: https://testflight.apple.com/join/4mUWjnx4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/92/13/379213b0-5b6b-89b3-d436-489fb8e2e2ce/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:30:48.641Z
+Categories:
+
+
+Name: Classifier: Collection Tracker
+Url: https://testflight.apple.com/join/HeIftx1S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/7a/b0/a57ab075-eeef-2309-a543-b033bd951c05/AppIcon-1x_U007emarketing-0-7-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:30:48.678Z
+Categories:
+
+
