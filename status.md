@@ -7406,3 +7406,120 @@ Last Checked: 2024-06-03T08:33:11.154Z
 Categories:
 
 
+Name: REACH Explorer
+Url: https://testflight.apple.com/join/A12tOOLf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/41/64/f0/4164f0dc-1b13-37de-1017-fa0909591b48/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:34:11.476Z
+Categories:
+
+
+Name: DFX BTC Taproot Asset Wallet
+Url: https://testflight.apple.com/join/ud0KIuvt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/e2/be/abe2bec8-64e0-36ea-b0fa-b24f89cf2a9d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:34:11.504Z
+Categories:
+
+
+Name: Prime LMS
+Url: https://testflight.apple.com/join/V3ZDSUkK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/4d/5b/524d5b71-f1dc-7678-a807-74a1c9700885/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:34:11.531Z
+Categories:
+
+
+Name: Count.kcal
+Url: https://testflight.apple.com/join/wfFReSna
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/81/29/d3/8129d307-f8c3-68ab-fda7-8956aa96daa9/AppIcon-0-0-1x_U007ephone-0-0-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T08:34:11.558Z
+Categories:
+
+
+Name: Skyhigh Client
+Url: https://testflight.apple.com/join/MwsNRgjs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/28/f8/1928f8f8-8401-75e1-0497-1057c4a7247f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T08:34:11.586Z
+Categories:
+
+
+Name: Local Weather: RainViewer
+Url: https://testflight.apple.com/join/ntr4FJtg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/5c/f3/8e5cf3fe-eb53-4f72-e158-aa416133cb37/app-icon-main-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:34:11.614Z
+Categories:
+
+
+Name: Microsoft Outlook
+Url: https://testflight.apple.com/join/AhS6fRDK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/3d/34/e23d3466-7f87-bacc-645f-1fb16b04aeb7/AppIcon-outlook.prod-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-03T08:34:11.641Z
+Categories:
+
+
+Name: Tap to Sign
+Url: https://testflight.apple.com/join/cjPYii2o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/2c/87/ca2c8740-9acd-aa89-152c-7a5fa9af3f54/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 11
+Beta Available: open
+Last Checked: 2024-06-03T08:34:11.670Z
+Categories:
+
+
+Name: Unity Play to Device Host
+Url: https://testflight.apple.com/join/FVMH8aiG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/29/91/eb/2991eb50-46d8-ac40-e618-80bbb4abeb85/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:34:11.697Z
+Categories:
+
+
+Name: Money Fox
+Url: https://testflight.apple.com/join/3RO75JDs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/6a/04/126a0435-b890-e284-2c7a-3414872cbe3b/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:34:11.725Z
+Categories:
+
+
+Name: Huddle - Get together
+Url: https://testflight.apple.com/join/FRg2IPXf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/b6/11/d1b61153-b5d4-a03c-218a-f7d551a8ec0f/AppIcon-0-1x_U007ephone-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:34:11.753Z
+Categories:
+
+
+Name: NostalgiX
+Url: https://testflight.apple.com/join/XC4ho7Iv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/e6/e1/a2e6e183-db50-0b14-887a-05bdc119904a/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:34:11.781Z
+Categories:
+
+
+Name: NFTTrack - new screen widgets
+Url: https://testflight.apple.com/join/XPP3geMf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/81/98/ea8198b5-2095-4c22-3b78-bf43a32a483d/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:34:11.809Z
+Categories:
+
+
