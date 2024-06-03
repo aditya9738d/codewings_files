@@ -2353,3 +2353,120 @@ Last Checked: 2024-06-03T16:21:10.671Z
 Categories:
 
 
+Name: Joplin
+Url: https://testflight.apple.com/join/p5iLVzrG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/39/40/5b394075-28a9-31c7-29ed-8a3552d0a721/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.251Z
+Categories:
+
+
+Name: DiaBLE
+Url: https://testflight.apple.com/join/H48doU3l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/df/61/8ddf617d-a57e-6d68-f058-ad835ed371ad/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.288Z
+Categories:
+
+
+Name: BROKOL
+Url: https://testflight.apple.com/join/YzZEAcjg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/06/a7/0e06a717-c498-7f3e-9af4-7f441d945081/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.325Z
+Categories:
+
+
+Name: Dev6 Greenworks Tools
+Url: https://testflight.apple.com/join/alnsHiKu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/45/41/3c454135-bf57-7c95-adac-39615c399afe/AppIconsGW-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.361Z
+Categories:
+
+
+Name: Quadeye
+Url: https://testflight.apple.com/join/hzAFZjci
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/22/c4/bb22c413-ba6e-ccfd-e4f1-f3550463ea58/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.390Z
+Categories:
+
+
+Name: Banfield React Native App
+Url: https://testflight.apple.com/join/8gfKMC4B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/5d/df/a45ddf64-00dd-fe29-20c3-34260d756748/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T16:22:11.419Z
+Categories:
+
+
+Name: mydealz – Gutscheine, Angebote
+Url: https://testflight.apple.com/join/LUbo3fzi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/c3/a4/abc3a4ed-f1ce-175d-b7a0-3cfbadb929a8/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.448Z
+Categories:
+
+
+Name: ObsIdentify
+Url: https://testflight.apple.com/join/mBfNWeIY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/1f/fd/8d1ffd42-ec13-8733-7931-5ebd26ef4b66/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.478Z
+Categories:
+
+
+Name: Zincir Market Beta
+Url: https://testflight.apple.com/join/S2QCk2zj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/df/e7/76dfe76e-370e-8ff9-c696-6b1a4401dd42/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.507Z
+Categories:
+
+
+Name: ThreadMaster
+Url: https://testflight.apple.com/join/JwlFTX03
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/28/13/a4281332-f8ca-e33a-22a0-f7d906418373/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.535Z
+Categories:
+
+
+Name: UB-OK
+Url: https://testflight.apple.com/join/pAsYu0rE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/7d/5a/767d5af6-3e41-9664-c9c1-03db4e4ee6db/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.564Z
+Categories:
+
+
+Name: talk for me
+Url: https://testflight.apple.com/join/hCuDAQT6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/90/b6/51/90b6513c-9428-b214-30d5-4b57fddb5824/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.593Z
+Categories:
+
+
+Name: Pushover Notifications
+Url: https://testflight.apple.com/join/vkwfdWM0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/0a/b2/4b0ab24d-d6d9-d085-b7c1-c1cfefc435ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:22:11.623Z
+Categories:
+
+
