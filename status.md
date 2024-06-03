@@ -7523,3 +7523,120 @@ Last Checked: 2024-06-03T08:34:11.809Z
 Categories:
 
 
+Name: 100ms
+Url: https://testflight.apple.com/join/dhUSE7N8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/4c/61/e04c61cb-94ee-7e8a-76d0-f53537934b5d/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.630Z
+Categories:
+
+
+Name: UP Board Lens
+Url: https://testflight.apple.com/join/ZZsalAXV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/20/c0/8d20c0b5-0d61-bc8a-9a84-21413642e49c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.658Z
+Categories:
+
+
+Name: I-CRM
+Url: https://testflight.apple.com/join/jYKfR9hO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/ef/ab/0aefab0b-2ed0-06ce-e941-67858441d8ac/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.686Z
+Categories:
+
+
+Name: Date-Buddy
+Url: https://testflight.apple.com/join/l5vU6FCI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/35/e2/2d/35e22d7e-597a-27fc-0eb0-ac0f33d8eecf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.713Z
+Categories:
+
+
+Name: Dynasty League Baseball
+Url: https://testflight.apple.com/join/GMIldzPW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/29/7f/0e297f1e-a6e2-7232-cf0f-2dea829989ce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.741Z
+Categories:
+
+
+Name: SmashinGas
+Url: https://testflight.apple.com/join/X9aBP0Iq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/d2/2b/81d22b8b-6838-6cbf-5c66-02433e603cf0/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.768Z
+Categories:
+
+
+Name: Furbol Dev
+Url: https://testflight.apple.com/join/hJ3kqXeF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/ff/34/6cff34dd-5994-66aa-b678-0b3ecdb1c0c9/devAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.797Z
+Categories:
+
+
+Name: SnippetsLab
+Url: https://testflight.apple.com/join/LBF2tQ2l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/54/e0/cb54e0b3-3d71-2c54-94aa-546f51ffe59b/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T08:35:20.824Z
+Categories:
+
+
+Name: B-Bank Debug
+Url: https://testflight.apple.com/join/lnzqqwbU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/30/f4/9e30f4af-41cc-5278-81cd-ea741355fe39/AppIcon-Debug-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.852Z
+Categories:
+
+
+Name: BILLA Bonus
+Url: https://testflight.apple.com/join/GcABkueS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/1a/d5/561ad5f1-d9e8-5728-eb16-9a83929d7304/BillaSlovakia_appicon_release-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.879Z
+Categories:
+
+
+Name: DNB Mobile Bank
+Url: https://testflight.apple.com/join/b6NACjPd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/1b/79/871b79fa-5a5b-5c69-d892-1a6c61e1f30d/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.907Z
+Categories:
+
+
+Name: ITRI_BaseBall
+Url: https://testflight.apple.com/join/4PbHN70P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/51/a0/2c51a0c8-7dc5-bd66-0e81-6929defeeddb/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.935Z
+Categories:
+
+
+Name: Debit & Credit
+Url: https://testflight.apple.com/join/FvufwHrV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/25/7e/9e/257e9e05-4019-80e7-d7b6-07945fbda564/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:35:20.963Z
+Categories:
+
+
