@@ -232,3 +232,120 @@ Last Checked: 2024-06-03T16:02:12.440Z
 Categories:
 
 
+Name: cuddle+kind
+Url: https://testflight.apple.com/join/4QS15nus
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/b5/a2/a2b5a25c-ea5c-d3b3-c395-921499b0032c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T16:03:11.722Z
+Categories:
+
+
+Name: dYdX V4
+Url: https://testflight.apple.com/join/cVXR4niD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/23/d9/2123d9e5-b4c6-1329-6d5b-2e50d4468378/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T16:03:11.752Z
+Categories:
+
+
+Name: debtMe
+Url: https://testflight.apple.com/join/QH523MIn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/1a/20/191a2043-9341-262e-5a08-a2a43217c824/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T16:03:11.781Z
+Categories:
+
+
+Name: dime.algo
+Url: https://testflight.apple.com/join/qCH71rx7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/7b/ee/9a7bee46-ba3a-7244-7f90-169fe4236563/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T16:03:11.809Z
+Categories:
+
+
+Name: doForms BETA
+Url: https://testflight.apple.com/join/reM6lFmL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/06/fa/d806fa16-61d0-8529-a727-e1bd85dda779/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:03:11.837Z
+Categories:
+
+
+Name: doForms Mobile Data
+Url: https://testflight.apple.com/join/VUgxqwt5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/09/64/e0/0964e02e-c7b3-ec23-1fca-4679ef41f6e5/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T16:03:11.866Z
+Categories:
+
+
+Name: doForms Mobile Data Platform
+Url: https://testflight.apple.com/join/sb5vHqk1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/51/3b/c9513b7b-dcca-a57a-b42a-935d32c99e65/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T16:03:11.894Z
+Categories:
+
+
+Name: dumbbe: add fun text to photos
+Url: https://testflight.apple.com/join/BlTCbUNR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2f/31/d5/2f31d5e4-825d-e007-813f-7e84109313cb/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T16:03:11.923Z
+Categories:
+
+
+Name: e-Gro Portable
+Url: https://testflight.apple.com/join/LGmI6uff
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/66/e7/7c/66e77c9f-331c-a2ab-c3b8-74bcd585ade0/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T16:03:11.952Z
+Categories:
+
+
+Name: e-Port Viaggi Autotrasporto
+Url: https://testflight.apple.com/join/jGRTzW0x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/51/f3/2e51f3b2-e8f0-bc46-6bbe-d36adadd01e1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T16:03:11.980Z
+Categories:
+
+
+Name: eBroker Flutter App
+Url: https://testflight.apple.com/join/nrmIds1a
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/77/39/e4/7739e4f0-2732-2cb8-c92a-0e694b026aaf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:03:12.010Z
+Categories:
+
+
+Name: eCommerce-SwiftUI
+Url: https://testflight.apple.com/join/xnB0ols9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/93/97/889397bc-db9c-437e-2dec-13116dde43ad/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-03T16:03:12.040Z
+Categories:
+
+
+Name: eDemand
+Url: https://testflight.apple.com/join/KdqqsTnH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f2/1f/6d/f21f6db3-0007-5638-26e2-ee5e3fd8736a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T16:03:12.068Z
+Categories:
+
+
