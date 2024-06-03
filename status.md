@@ -16495,3 +16495,120 @@ Last Checked: 2024-06-03T14:17:09.256Z
 Categories:
 
 
+Name: CoachRx
+Url: https://testflight.apple.com/join/slabzPHS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6e/93/7a/6e937aba-2f01-e240-f420-08a99c68c660/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:18:13.200Z
+Categories:
+
+
+Name: Cobo Guard Dev
+Url: https://testflight.apple.com/join/pcSF46JK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/bd/fe/87bdfe06-6e2b-7ea7-3ba3-c47167b09fc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:18:13.237Z
+Categories:
+
+
+Name: Cocoon - Mental
+Url: https://testflight.apple.com/join/XvLuW7wj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/32/2c/b7322c47-907f-d3b9-9cce-9ab341987215/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:18:13.273Z
+Categories:
+
+
+Name: CodeFrame
+Url: https://testflight.apple.com/join/R14bEW1V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7f/af/70/7faf708b-8d00-2a73-fce2-ca90e8ee48ac/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:18:13.309Z
+Categories:
+
+
+Name: CodeMenu - Snippets manager
+Url: https://testflight.apple.com/join/CHkcKbLU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/00/a7/ab00a7af-e05c-ac9b-0ced-fd48986dcaa3/AppIcon-0-85-220-0-4-0-0-2x-0-0-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:18:13.345Z
+Categories:
+
+
+Name: CodeStar Testing
+Url: https://testflight.apple.com/join/BbAY1S8h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/ae/28/80ae28fa-c606-5b78-8f32-be19614fe1b4/AppIcon-1x_U007emarketing-0-10-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:18:13.384Z
+Categories:
+
+
+Name: Coffee Notes
+Url: https://testflight.apple.com/join/p51EEPOE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/20/26/e520267e-f473-93b4-6637-2d1ab7f45f79/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:18:13.419Z
+Categories:
+
+
+Name: Cogia Messenger
+Url: https://testflight.apple.com/join/7iubJ1Eq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/cb/8d/0ccb8dc3-c188-230c-92fb-a044ae02fc55/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:18:13.455Z
+Categories:
+
+
+Name: CoinW
+Url: https://testflight.apple.com/join/EnVxDqYN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/80/30/2c8030ab-cb8e-b8af-7070-c750c2778057/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:18:13.490Z
+Categories:
+
+
+Name: Colorfol : Vente de Musique
+Url: https://testflight.apple.com/join/njLMVbVO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5b/a0/98/5ba0989b-d173-5af1-2df6-e6468aee502f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:18:13.525Z
+Categories:
+
+
+Name: Colorma
+Url: https://testflight.apple.com/join/AMXpiSv3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a3/d3/02a3d394-a135-1b05-cc97-8474d59b5ee9/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:18:13.561Z
+Categories:
+
+
+Name: Combo Koala - Battle Checkers
+Url: https://testflight.apple.com/join/kdqq3qAN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/20/d7/bd20d708-7e23-da5c-9d8a-99f4920c469d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:18:13.596Z
+Categories:
+
+
+Name: Comind: Real-World Notetaker
+Url: https://testflight.apple.com/join/pGnHVNPC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/05/79/fe057953-2ea8-9fc5-affb-1bf7c14a7ac9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:18:13.632Z
+Categories:
+
+
