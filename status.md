@@ -23348,3 +23348,120 @@ Last Checked: 2024-06-03T02:19:10.848Z
 Categories:
 
 
+Name: Payy: USDC Wallet
+Url: https://testflight.apple.com/join/rKCavMy1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/07/f6/8f07f612-1e42-fec4-0cac-5b5eff3532bd/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T02:20:25.732Z
+Categories:
+
+
+Name: On Demand DFS
+Url: https://testflight.apple.com/join/jzQUDy1B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/c9/be/61c9be2c-ee59-8347-82dd-87495e82d6be/AppIcon_1-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 7
+Beta Available: not accepting
+Last Checked: 2024-06-03T02:20:25.759Z
+Categories:
+
+
+Name: ApicalTest
+Url: https://testflight.apple.com/join/osDRDUTt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/a4/fa/9fa4fa99-b570-8550-1e75-b57c445e9c19/AppIcon-1x_U007emarketing-0-0-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:20:25.786Z
+Categories:
+
+
+Name: Alpha Portal
+Url: https://testflight.apple.com/join/xVE9QGnk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/57/78/5e/57785ee6-d644-fa61-559b-e37c7454e6a0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:20:25.815Z
+Categories:
+
+
+Name: Easy Move EM
+Url: https://testflight.apple.com/join/eqMwBqYP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/00/bc/6a00bc58-d747-17db-157d-92222c5ce447/AppIcon-Development-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:20:25.842Z
+Categories:
+
+
+Name: GSG Hub
+Url: https://testflight.apple.com/join/ZLJiCmn8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/ef/b4/1eefb447-06b7-0d14-cfa3-c6e9ee3aa052/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:20:25.871Z
+Categories:
+
+
+Name: ConstCash: Budget Manager
+Url: https://testflight.apple.com/join/J8ZGt0bI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/4e/1f/ab4e1f4e-9c53-578a-9399-3e864c427b81/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:20:25.899Z
+Categories:
+
+
+Name: Airbuds Widget
+Url: https://testflight.apple.com/join/0nEOUD24
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/9f/44/169f447e-c832-fec6-bcb3-4373e6c19e3e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:20:25.926Z
+Categories:
+
+
+Name: ImmersiShare
+Url: https://testflight.apple.com/join/U3hiGLkV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/ef/f9/f0eff9e5-9e98-bf0b-01a9-0ee3998053c8/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:20:25.954Z
+Categories:
+
+
+Name: ms24
+Url: https://testflight.apple.com/join/uRwF4TEx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/2f/17/462f170f-5129-c1f3-b924-5f250e159040/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:20:25.982Z
+Categories:
+
+
+Name: Vasion Automate Pro
+Url: https://testflight.apple.com/join/V6crlrbN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/34/5d/ea345dcf-75a8-adca-f275-93ee92461dc6/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:20:26.010Z
+Categories:
+
+
+Name: Jupiter WCS
+Url: https://testflight.apple.com/join/YE1S7oxZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/78/7c/a2787c33-6d4c-3e96-c062-48d44bfc55de/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:20:26.038Z
+Categories:
+
+
+Name: iSpeechRecorder Live
+Url: https://testflight.apple.com/join/q17NZ1RO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/47/fd/9547fd4a-ad7b-188b-2a2b-0b1f5faa1e62/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:20:26.066Z
+Categories:
+
+
