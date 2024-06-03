@@ -5965,3 +5965,120 @@ Last Checked: 2024-06-03T12:42:11.580Z
 Categories:
 
 
+Name: Microsoft Edge: AI Browser
+Url: https://testflight.apple.com/join/JkU2rh21
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/15/a9/a615a912-2cdd-ecdd-d444-0bd563ab5f53/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.545Z
+Categories:
+
+
+Name: Richy Esale
+Url: https://testflight.apple.com/join/qrwEg2SO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/33/ee/9f33ee7c-1897-05f9-0f04-c0e6fa01f1fc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.579Z
+Categories:
+
+
+Name: Volt Wallet
+Url: https://testflight.apple.com/join/etYtq5k5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/cd/42/c0cd424d-1009-0298-9393-6dda01f2d7ff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.614Z
+Categories:
+
+
+Name: Castaway: Spatial HDMI Monitor
+Url: https://testflight.apple.com/join/H0ow9JUP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/cf/59/48cf5940-de2b-0292-32e9-40b838c94770/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.650Z
+Categories:
+
+
+Name: Nautica Opencart
+Url: https://testflight.apple.com/join/iqj9I1FQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/40/72/3540727a-d779-d622-152b-ba0532cb2549/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.685Z
+Categories:
+
+
+Name: AYA PAY Wallet
+Url: https://testflight.apple.com/join/YxX8VRsr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d5/7d/16/d57d1648-0238-5bc2-89bf-a2e793b0a216/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.720Z
+Categories:
+
+
+Name: Luxury Card Lifestyle - STG
+Url: https://testflight.apple.com/join/O0TFGuAA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/8c/44/168c44e8-46d0-75a7-493b-cba37a59a0e6/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.755Z
+Categories:
+
+
+Name: ZCore Wallet
+Url: https://testflight.apple.com/join/FIzCicGV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/e7/3e/65e73e65-325e-a457-dfcf-be71de94e280/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.790Z
+Categories:
+
+
+Name: Visionbrew - Motion Capture
+Url: https://testflight.apple.com/join/IfiL2NPu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/bc/10/1cbc10df-0b32-0561-1069-8257fd17ec6b/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.824Z
+Categories:
+
+
+Name: IWS 2020
+Url: https://testflight.apple.com/join/bfyIC77k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/0d/c7/960dc7b1-5395-c605-fc0a-371ff5871518/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.859Z
+Categories:
+
+
+Name: Meraki Go
+Url: https://testflight.apple.com/join/LdobmsN9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/c0/a0/dec0a0e0-4817-88f8-25d7-799b5ea6e1c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.893Z
+Categories:
+
+
+Name: Fandelo Preview
+Url: https://testflight.apple.com/join/f7L4NBen
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/50/b2/a650b287-85f0-8224-03e9-0e29ae89ac25/AppIconPreview-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.929Z
+Categories:
+
+
+Name: QNB Pay Wallet
+Url: https://testflight.apple.com/join/Sqcc8hLp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/01/fc/4d01fc00-fe16-75e4-e980-e13a50750b56/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:43:10.964Z
+Categories:
+
+
