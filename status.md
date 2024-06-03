@@ -14155,3 +14155,120 @@ Last Checked: 2024-06-03T22:57:11.141Z
 Categories:
 
 
+Name: VolleyballRotation
+Url: https://testflight.apple.com/join/U3rfXl4k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/ae/b7/21aeb7b1-c1a2-3b10-e0ca-33c3b328f1bf/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.443Z
+Categories:
+
+
+Name: ONECTA
+Url: https://testflight.apple.com/join/AQUnDNBV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/48/b0/ba/48b0ba72-4a5f-8151-4edc-32e623d98856/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.470Z
+Categories:
+
+
+Name: Harley-Davidson Connect
+Url: https://testflight.apple.com/join/JNctGH5N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/1e/a2/0e1ea294-ef91-435f-39bc-c993f3fd6224/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.501Z
+Categories:
+
+
+Name: Bedrift SSF
+Url: https://testflight.apple.com/join/i8rKY1gt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/63/9f/05639f43-23ee-f138-9e21-0ed4bd2e6e1d/corporate_icon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.529Z
+Categories:
+
+
+Name: ThermoGrid
+Url: https://testflight.apple.com/join/2eJmqRZ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/61/51/46615166-f6e6-74b0-10ea-c347b5aa8e0c/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.557Z
+Categories:
+
+
+Name: Yadira
+Url: https://testflight.apple.com/join/h1QA5xQP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/30/5f/00305ffa-d6d5-d034-fd12-7c69b582e97a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.585Z
+Categories:
+
+
+Name: Pixwire
+Url: https://testflight.apple.com/join/PgY1zeKF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/67/e3/16/67e316f3-1b84-24a7-84e9-5f612c0703a8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.613Z
+Categories:
+
+
+Name: Yup - Open Social All-In-One
+Url: https://testflight.apple.com/join/RlIGrKm5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/64/ae/8964ae83-379d-e2a2-8519-f97ba718a452/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.641Z
+Categories:
+
+
+Name: Tussle Inc
+Url: https://testflight.apple.com/join/yyYSIplm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/e1/f0/91e1f04c-f757-b5d1-9db4-ebfc155eb313/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.669Z
+Categories:
+
+
+Name: BIC Group
+Url: https://testflight.apple.com/join/FaP5D8Bo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c7/3b/3d/c73b3daf-cfbf-32fc-494c-b855c3d81b80/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.697Z
+Categories:
+
+
+Name: HolyGrails
+Url: https://testflight.apple.com/join/Cv5DsqXL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/b2/10/50b21063-8ce2-b820-4a75-fda500bd12e9/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.724Z
+Categories:
+
+
+Name: Mealstar Cocinero
+Url: https://testflight.apple.com/join/5JTO4OKr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/43/e7/ed43e7c8-ed42-90aa-faf3-058c826531c9/AppIcon-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.752Z
+Categories:
+
+
+Name: BetterShifts
+Url: https://testflight.apple.com/join/RheXgQ6R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/cc/7f/5fcc7fb4-83ed-36f3-2e6a-fd04011267bb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:58:12.780Z
+Categories:
+
+
