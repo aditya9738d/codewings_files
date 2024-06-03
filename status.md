@@ -14857,3 +14857,120 @@ Last Checked: 2024-06-03T23:03:11.304Z
 Categories:
 
 
+Name: WiFi Your Way
+Url: https://testflight.apple.com/join/qK1DjGAi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/8a/13/a38a133f-7156-80cd-4369-336b0f3459b8/BreezelineAppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.233Z
+Categories:
+
+
+Name: My Misa
+Url: https://testflight.apple.com/join/hnN4lMob
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/69/09/d3690948-70f0-fb61-27f5-d4d73355eb21/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.273Z
+Categories:
+
+
+Name: MusMe
+Url: https://testflight.apple.com/join/DYllJddG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/4f/fc/834ffc6e-11c3-c026-f172-151bd40000dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.309Z
+Categories:
+
+
+Name: Banco de Loja
+Url: https://testflight.apple.com/join/XVx8Np7u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/aa/46/a6aa46f8-c96c-171d-556c-f5835d7eea07/qaAppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.345Z
+Categories:
+
+
+Name: FiDi: Crypto Portfolio
+Url: https://testflight.apple.com/join/xf7VJ1Ui
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/a1/da/b1a1da00-705f-11c8-5857-ec1201cd4c91/AppIcon-0-1x_U007ephone-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.381Z
+Categories:
+
+
+Name: WordBox - Strands Wordsearch
+Url: https://testflight.apple.com/join/svZQhz1A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/a5/29/c5a52930-dbb0-27c4-5a24-c06af1dca6b4/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.418Z
+Categories:
+
+
+Name: Good With
+Url: https://testflight.apple.com/join/CTP5nus1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/5d/98/ba5d9812-7e46-f943-34bd-754a184c0164/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.454Z
+Categories:
+
+
+Name: Banking4
+Url: https://testflight.apple.com/join/qeJYyYT7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/69/4e/36/694e369f-8823-05aa-74a1-172fb723ef89/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.491Z
+Categories:
+
+
+Name: AU 0101: Savings, Credit, UPI
+Url: https://testflight.apple.com/join/gKA8xV1a
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/9e/f1/839ef1f0-8b9b-5be0-3e82-5fbf99aea9a2/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.526Z
+Categories:
+
+
+Name: LIGA TV
+Url: https://testflight.apple.com/join/xCCxzUo2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/52/3e/1d/523e1d92-9136-24b4-7190-5aa89cfa323d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.563Z
+Categories:
+
+
+Name: Actionary
+Url: https://testflight.apple.com/join/SqjfVM7g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/aa/6b/fcaa6b53-43e3-e2a4-dc93-ca10b29bc3ff/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.599Z
+Categories:
+
+
+Name: TV Forecast: Shows & Movies
+Url: https://testflight.apple.com/join/NYFJ36tq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/e3/5c/7be35c21-d20b-ee0f-e15e-2fd9f0529cce/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T23:04:12.635Z
+Categories:
+
+
+Name: Mornin Key
+Url: https://testflight.apple.com/join/jNMEhKU4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/c7/df/e1c7df5d-409c-99a6-c54a-fb82f440b3e4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:04:12.672Z
+Categories:
+
+
