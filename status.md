@@ -10762,3 +10762,120 @@ Last Checked: 2024-06-03T22:25:18.100Z
 Categories:
 
 
+Name: Television Time
+Url: https://testflight.apple.com/join/eP0BTwVi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/3b/65/483b654e-a637-07aa-75ab-f7e236de00ff/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.378Z
+Categories:
+
+
+Name: Personary/PLR 2021
+Url: https://testflight.apple.com/join/PxpiebQA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/32/2b/56322ba6-4c5e-a977-cb22-cb0d1c02aec6/AppIcon-personary-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.412Z
+Categories:
+
+
+Name: iFlame PRO
+Url: https://testflight.apple.com/join/1cQr8PE7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/2a/7c/a32a7c01-75d3-5d4b-8d4d-53308d7ca7cf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T22:26:11.448Z
+Categories:
+
+
+Name: SlayTheWak2
+Url: https://testflight.apple.com/join/eYTVgwHj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/04/a8/da04a82e-674b-e731-81eb-906c3728e059/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.483Z
+Categories:
+
+
+Name: Inventory - Asset Management
+Url: https://testflight.apple.com/join/aXKHypal
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a1/d4/ca/a1d4ca36-1a84-b1e1-2c2f-9909330f90f0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.520Z
+Categories:
+
+
+Name: KDI Go
+Url: https://testflight.apple.com/join/bevveK5W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/b1/17/33b1170d-a18c-06d4-1042-91bd34ea20c1/AppIcon-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.555Z
+Categories:
+
+
+Name: RURadar
+Url: https://testflight.apple.com/join/FUGWkWWA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/88/52/66885212-42b3-d76b-213e-497e998be0d6/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.591Z
+Categories:
+
+
+Name: Petra Wallet
+Url: https://testflight.apple.com/join/T6NagMlJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/47/c8/bb47c895-be11-022c-e421-029edc041d14/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.625Z
+Categories:
+
+
+Name: Singlife Plan & Protect (SIT)
+Url: https://testflight.apple.com/join/tJeoOyrb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/1a/47/141a470c-8cec-9893-bca0-13f66ff35c65/SIT-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.661Z
+Categories:
+
+
+Name: JERNAS
+Url: https://testflight.apple.com/join/NAu2FIjx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/fa/bf/9cfabf56-19fc-3792-d71e-906539b4d0e7/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.695Z
+Categories:
+
+
+Name: Hoopt Beta
+Url: https://testflight.apple.com/join/Ho3VRDxT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/64/79/fd/6479fd62-2d75-3f22-a3ba-1e4a2fceb6a1/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.731Z
+Categories:
+
+
+Name: JX1 Mobile 2023
+Url: https://testflight.apple.com/join/hf7xI4q6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/cd/da/2ecdda57-c89b-58bf-7b32-389287717af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.765Z
+Categories:
+
+
+Name: SEP Staging
+Url: https://testflight.apple.com/join/kYwvNwW5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/16/76/ba167644-7f72-efab-2254-b3db9489ead2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T22:26:11.800Z
+Categories:
+
+
