@@ -12400,3 +12400,120 @@ Last Checked: 2024-06-03T22:41:10.471Z
 Categories:
 
 
+Name: Flying Lap F1
+Url: https://testflight.apple.com/join/2ubEielm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/25/06/71/250671db-f499-38c9-3cdc-43c70c03ef8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T22:42:10.713Z
+Categories:
+
+
+Name: NT IPTV
+Url: https://testflight.apple.com/join/ShJAiPMD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/01/a9/2e01a998-0691-4d66-35f5-61418bdce77d/AppIcon-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-03T22:42:10.741Z
+Categories:
+
+
+Name: Matter Verifier
+Url: https://testflight.apple.com/join/6BYFuCrW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7d/97/27/7d9727b7-8ce3-5bbe-a265-973b8cb1504f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T22:42:10.769Z
+Categories:
+
+
+Name: Elite Quiz
+Url: https://testflight.apple.com/join/sRD6VDm1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/70/bd/4170bd0c-e0c5-c3b4-80cc-3f29ec728fc1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T22:42:10.798Z
+Categories:
+
+
+Name: Accor ALL - sandbox
+Url: https://testflight.apple.com/join/DroAuuwu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/c0/9d/b9c09d66-76f4-1207-ba2d-5416c19a7a9b/AppIcon.sandbox-development-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:42:10.827Z
+Categories:
+
+
+Name: EasyVFR 4
+Url: https://testflight.apple.com/join/Zxbi0Hof
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/1b/21/0e1b2178-f5fc-764a-e5d9-9eefe63c5e1d/Brand_Assets-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T22:42:10.855Z
+Categories:
+
+
+Name: SoProp UAT
+Url: https://testflight.apple.com/join/VbnXX6cD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/df/00/9fdf00d3-76d5-3610-5123-d5e73ece1916/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:42:10.883Z
+Categories:
+
+
+Name: idealo - Price Comparison
+Url: https://testflight.apple.com/join/P8TWxiFT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/b4/0d/cab40d37-2d78-bcac-5903-613400ffbea5/AppIcon-0-0-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:42:10.910Z
+Categories:
+
+
+Name: Home Health Check
+Url: https://testflight.apple.com/join/nfKbmd7J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/34/8d/ce348d1f-0e1a-c4cb-c690-4f33e3d71b02/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:42:10.941Z
+Categories:
+
+
+Name: HikLink
+Url: https://testflight.apple.com/join/k3DLVKFM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/3e/62/bf3e6252-537b-0e23-faed-8df6730fafc3/AppIcon-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T22:42:10.970Z
+Categories:
+
+
+Name: B&D  Bakery&Delicacies
+Url: https://testflight.apple.com/join/fgonb2eQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2d/09/5b/2d095b43-8069-25ec-9edf-422cf19a3b5c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:42:10.998Z
+Categories:
+
+
+Name: WM MP-Buch
+Url: https://testflight.apple.com/join/08MzJMt2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/a0/b2/55a0b2ee-37f3-182f-4724-fb60a8582a33/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:42:11.026Z
+Categories:
+
+
+Name: Pokebattler Raid Party
+Url: https://testflight.apple.com/join/jBxZkXqA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/57/17/e2571737-6edd-c3b3-a10f-2d16672bcb14/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:42:11.055Z
+Categories:
+
+
