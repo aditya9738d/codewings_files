@@ -26975,3 +26975,120 @@ Last Checked: 2024-06-03T02:50:26.057Z
 Categories:
 
 
+Name: slice: pay later - Beta
+Url: https://testflight.apple.com/join/6Vs7WMVQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/b3/c8/c9b3c8f3-a16d-c35e-c764-021335cb5e6e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:51:11.754Z
+Categories:
+
+
+Name: GuaGuaChat
+Url: https://testflight.apple.com/join/dqYPZDSw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ec/bc/a6/ecbca6b9-cf77-bb25-e6d3-16074c5e6d25/AppIcon-0-1x_U007ephone-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:51:11.790Z
+Categories:
+
+
+Name: republica
+Url: https://testflight.apple.com/join/vf2XROFY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/af/67/aaaf6745-ed10-1281-78a1-2044c2db0e54/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:51:11.826Z
+Categories:
+
+
+Name: Olympsis
+Url: https://testflight.apple.com/join/a7umbhrk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/83/4c/27834cd6-380d-d457-3bc2-ba0f7d24d09c/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-03T02:51:11.862Z
+Categories:
+
+
+Name: RUNERGY
+Url: https://testflight.apple.com/join/FxyqcmQV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/57/3f/48573f07-99f2-62d5-ecab-88bb802cc92b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:51:11.898Z
+Categories:
+
+
+Name: Coupang
+Url: https://testflight.apple.com/join/Zkl9efvU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/09/51/e309510e-54ca-fb85-d7f1-1c97cec0ce00/LSAppIcon-0-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:51:11.934Z
+Categories:
+
+
+Name: Arena Virtual
+Url: https://testflight.apple.com/join/Wpwycpln
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/34/a8/0c/34a80cae-c5c8-1792-3b8d-33cbc97103bd/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-03T02:51:11.969Z
+Categories:
+
+
+Name: Just Timers
+Url: https://testflight.apple.com/join/pyzrz0oT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/15/02/75150277-28b4-f747-5789-c02987befea3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T02:51:12.004Z
+Categories:
+
+
+Name: PickerPlus
+Url: https://testflight.apple.com/join/GBoH8MuG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/69/15/a3/6915a36d-c347-84b3-1ab0-be1d83c89db8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:51:12.040Z
+Categories:
+
+
+Name: Birds Evolution
+Url: https://testflight.apple.com/join/zS7REa05
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/86/ef/2f86effc-4e6d-b5fc-1ced-23ec3bac0a38/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:51:12.075Z
+Categories:
+
+
+Name: SubWallet - Polkadot Wallet
+Url: https://testflight.apple.com/join/ZW3pUbWj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/1b/bc/1e1bbcdd-2ea3-6767-dcaf-282a07457854/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:51:12.110Z
+Categories:
+
+
+Name: Met Office Weather Forecast
+Url: https://testflight.apple.com/join/MIUMNYDz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/0f/51/e30f51a3-618a-8c43-98af-786eb53e49f5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T02:51:12.146Z
+Categories:
+
+
+Name: Forbes
+Url: https://testflight.apple.com/join/E8Tgou8D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/7b/73/5f7b73dc-36cb-1b1e-18d1-318632840958/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:51:12.181Z
+Categories:
+
+
