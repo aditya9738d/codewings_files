@@ -6199,3 +6199,120 @@ Last Checked: 2024-06-03T12:44:12.087Z
 Categories:
 
 
+Name: Simpla
+Url: https://testflight.apple.com/join/n1nMbaqk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/45/d7/0445d7df-63a2-f78f-1765-66f80a3e34c2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.420Z
+Categories:
+
+
+Name: NINJA GAME
+Url: https://testflight.apple.com/join/HVLT4aBq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/50/b3/1b50b347-d552-7294-7de1-96ce84fdbee1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.456Z
+Categories:
+
+
+Name: Prosper Savings
+Url: https://testflight.apple.com/join/YDkQeCbu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/b1/b8/b7b1b8eb-c3e6-e214-c4fc-d48b40dc77b9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.490Z
+Categories:
+
+
+Name: tripmind
+Url: https://testflight.apple.com/join/u4DHLMj1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7f/0d/8a/7f0d8a3a-5b5a-56e0-579d-061e5d71b850/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T12:45:28.526Z
+Categories:
+
+
+Name: App Solution Demo
+Url: https://testflight.apple.com/join/532BWvp7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/0c/15/e90c15a6-832a-8882-d318-cd0cd94da7da/AppSolutionDemo_appicon_beta-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.561Z
+Categories:
+
+
+Name: 9Cat Saga - Co-op Game Demo
+Url: https://testflight.apple.com/join/9m4Pprsl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/34/77/643477da-4d83-fcf2-d70a-0b274e7bce27/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.597Z
+Categories:
+
+
+Name: Element P2P Demo
+Url: https://testflight.apple.com/join/Tgh2MEk6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/f2/12/68f21263-f7c4-1cf6-c1d1-a890fbcfed3a/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.632Z
+Categories:
+
+
+Name: myTVS Vehicle Services
+Url: https://testflight.apple.com/join/9vAT0n4t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/21/d5/a8/21d5a883-9903-773a-791d-bb9921524d43/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.667Z
+Categories:
+
+
+Name: Jollibee Vietnam PreProduct
+Url: https://testflight.apple.com/join/wCotagug
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/3f/d0/873fd0ed-e11e-5cc4-3d6a-fd70eda84395/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.703Z
+Categories:
+
+
+Name: 3BB Workforce
+Url: https://testflight.apple.com/join/NGBqTMlF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/93/12/fb9312f9-10c3-e032-c3ae-1f4d6b9362b4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.738Z
+Categories:
+
+
+Name: Zoho Cliq - Team Communication
+Url: https://testflight.apple.com/join/IV3OfblZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/0a/fb/fa0afbe3-ec12-5e42-a50f-9f66972a1dd5/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.773Z
+Categories:
+
+
+Name: CARinspect
+Url: https://testflight.apple.com/join/BMeqXzLw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/4e/15/1d4e15c4-d21b-1289-ea64-f0c5e7357ac4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.808Z
+Categories:
+
+
+Name: Alchera Liveness for Testers
+Url: https://testflight.apple.com/join/Oo754v3m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/4f/bc/404fbc44-c5a9-d250-4949-007bf23def49/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:45:28.846Z
+Categories:
+
+
