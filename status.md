@@ -8890,3 +8890,120 @@ Last Checked: 2024-06-03T22:02:14.332Z
 Categories:
 
 
+Name: Mellors
+Url: https://testflight.apple.com/join/w9WF8yTV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/67/80/46/6780465c-30c3-e7a9-3a33-63753bb0c864/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:03:11.070Z
+Categories:
+
+
+Name: CRM sales tracker by Pipedrive
+Url: https://testflight.apple.com/join/n6E7WO4k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a3/46/02a346c7-14d2-57ce-1b2c-df587d4ce365/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:03:11.105Z
+Categories:
+
+
+Name: Kaspersky Passwords & Docs
+Url: https://testflight.apple.com/join/jIkedoTJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/ae/bc/feaebc32-2ab3-cde0-9329-76dacf9890d2/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:03:11.140Z
+Categories:
+
+
+Name: HEYTEA
+Url: https://testflight.apple.com/join/vKwE3Lrs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/5e/55/105e55e4-4de4-d6a6-03fc-5413e7e6bfae/AppIcon-1x_U007ephone-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T22:03:11.176Z
+Categories:
+
+
+Name: Xi Calculator
+Url: https://testflight.apple.com/join/AZSypkSa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/b8/df/a5b8dfb1-617f-198d-2183-18f8ce519145/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T22:03:12.265Z
+Categories:
+
+
+Name: ShedsDirectLLC
+Url: https://testflight.apple.com/join/VPzWsq4Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/5e/ec/665eec6f-3329-ace4-9866-785dd2beb647/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:03:12.301Z
+Categories:
+
+
+Name: Clic for Sonos
+Url: https://testflight.apple.com/join/heSmRY4t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fb/17/1d/fb171d3b-ea5e-c400-d2c3-17088180e856/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:03:12.337Z
+Categories:
+
+
+Name: Text-Panther
+Url: https://testflight.apple.com/join/Qt4zaXms
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/d3/86/47d38697-ea2b-8cf7-453d-7f21d23208cd/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:03:12.372Z
+Categories:
+
+
+Name: AlevelMath
+Url: https://testflight.apple.com/join/kH2a8fZS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/45/b5/1d45b539-4bcf-166a-f1d0-8376be4e217e/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:03:12.407Z
+Categories:
+
+
+Name: Mobiliz Yetkili Servis
+Url: https://testflight.apple.com/join/cbpZlnUM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/e6/74/d8e674b6-a098-9039-abf4-caa1b5b0bd31/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:03:12.442Z
+Categories:
+
+
+Name: Grammo
+Url: https://testflight.apple.com/join/h7hyOJ99
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ac/4d/23/ac4d23bc-d633-d83e-4ba7-3f6ec4d99d6a/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:03:12.478Z
+Categories:
+
+
+Name: GeoGebra 3D Calculator
+Url: https://testflight.apple.com/join/wDq81Ktm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/db/d2/03dbd23e-d582-0a42-19a3-206b3240336c/GeoGebra3DGrapher-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:03:12.513Z
+Categories:
+
+
+Name: MB Test
+Url: https://testflight.apple.com/join/poKSCOW8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/a1/46/2fa14641-fe94-a4a8-5520-657c831ea934/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 5
+Beta Available: not accepting
+Last Checked: 2024-06-03T22:03:12.548Z
+Categories:
+
+
