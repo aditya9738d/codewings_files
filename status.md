@@ -19952,3 +19952,120 @@ Last Checked: 2024-06-03T19:16:13.518Z
 Categories:
 
 
+Name: QTGoing
+Url: https://testflight.apple.com/join/meDoBAsu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/ed/ea/ecedea60-a6bf-a8ea-5f50-a85944550a96/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-03T19:17:10.762Z
+Categories:
+
+
+Name: Faithlife Ebooks
+Url: https://testflight.apple.com/join/uOB3MBmz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/70/3d/4e703dce-5cfe-02c0-cc2e-5399d7ebcedd/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:17:10.798Z
+Categories:
+
+
+Name: Stumbll
+Url: https://testflight.apple.com/join/t3cwnmJw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/1e/da/db1eda36-4103-e774-8b05-def92d5c0e25/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T19:17:10.832Z
+Categories:
+
+
+Name: Essistant WApp (mobile)
+Url: https://testflight.apple.com/join/nMG0FnVy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7c/ce/58/7cce581e-c02c-2824-9273-db82e3fd7ccd/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:17:10.868Z
+Categories:
+
+
+Name: BenchApp - Sports Team Manager
+Url: https://testflight.apple.com/join/iJVviXVl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/c9/ea/4cc9ea15-0f0e-427b-aee8-bf750b15a719/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:17:10.903Z
+Categories:
+
+
+Name: Mochi Pets - Cute Pet Widget
+Url: https://testflight.apple.com/join/XhrDhcFH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/91/5e/11915e56-ad5b-3baa-0aa8-465a169320c3/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:17:10.941Z
+Categories:
+
+
+Name: Tunna
+Url: https://testflight.apple.com/join/dqMoJObA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/17/ed/eb17edd4-a3b7-3f42-0b16-03064a1d6443/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:17:10.976Z
+Categories:
+
+
+Name: Bombay App
+Url: https://testflight.apple.com/join/wqwvP37T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/1e/a5/841ea54d-11b1-1ca7-5489-ba735be26316/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:17:11.012Z
+Categories:
+
+
+Name: Samply - Listen & Share
+Url: https://testflight.apple.com/join/ACiAGB0g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/11/7b/01117b0c-f48d-1ada-6329-7148a7c8840a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:17:11.048Z
+Categories:
+
+
+Name: Duolingo - Language Lessons
+Url: https://testflight.apple.com/join/Sq8bYSnJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/90/36/da90369d-80c0-2f72-e771-5ae9e1d75962/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T19:17:11.084Z
+Categories:
+
+
+Name: Watsons TH SIT / D1
+Url: https://testflight.apple.com/join/2MZJIAMk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/b9/46/deb946a9-a5e6-ad31-a967-f4c677cba6a3/AppIcon-TH-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:17:11.118Z
+Categories:
+
+
+Name: PinspectSKAT
+Url: https://testflight.apple.com/join/HVoQRe7y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/57/76/bd57769d-02e4-949c-5b28-b26a9bf63c70/AppIcon-0-1x_U007emarketing-0-10-0-GLES2_U002c0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:17:11.153Z
+Categories:
+
+
+Name: Vibrance - Inspire Yourself
+Url: https://testflight.apple.com/join/mhLJeEo4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0e/3d/2e/0e3d2eee-4107-2e76-89ec-202a3dbdcdbf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:17:11.189Z
+Categories:
+
+
