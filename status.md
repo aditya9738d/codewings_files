@@ -5183,3 +5183,120 @@ Categories:
 - Developer
 - Utility
 
+Name: Chronosphere - Clocks
+Url: https://testflight.apple.com/join/Mwfy3L0V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/b9/a0/1eb9a00c-0c30-265b-ae68-b024f2286ffc/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:15:22.299Z
+Categories:
+
+
+Name: AnyTrip
+Url: https://testflight.apple.com/join/z4jEQC9Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/c9/6a/e5c96a6c-9d82-fc03-90d8-157bf541340d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-03T08:15:22.335Z
+Categories:
+
+
+Name: Text & Markup
+Url: https://testflight.apple.com/join/LH7qcUjG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/4a/38/474a38ca-ab71-23cb-1d80-b9cf9aa153ff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T08:15:22.371Z
+Categories:
+
+
+Name: Launchcraft
+Url: https://testflight.apple.com/join/nSONe1lZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0b/7c/58/0b7c583c-9d4d-9df6-b244-cf16bc448885/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 112
+Beta Available: open
+Last Checked: 2024-06-03T08:15:22.407Z
+Categories:
+
+
+Name: Block Puzzle: Cops vs Robbers
+Url: https://testflight.apple.com/join/JewMjU43
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/41/80/cd41802e-7ec6-8d3c-a483-ceff4e6b22a5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: error
+Last Checked: 2024-06-03T08:15:22.443Z
+Categories:
+
+
+Name: KKClicker
+Url: https://testflight.apple.com/join/y2bNjrkT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/27/40/ba2740be-b5d9-004c-b84a-e59ba296efce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 13
+Beta Available: open
+Last Checked: 2024-06-03T08:15:22.478Z
+Categories:
+
+
+Name: Quizlet: AI-powered Flashcards
+Url: https://testflight.apple.com/join/mwhcPqxJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/b9/c3/d6b9c3c1-9b4a-60f9-8274-eb7d853c25b9/AppIcon-production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-03T08:15:22.513Z
+Categories:
+
+
+Name: Ensemble Cast
+Url: https://testflight.apple.com/join/Pq1HzHqe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/76/b4/cf76b468-a9fe-7c54-7d74-1e601bbacaa4/AppIcon.lsr/200x200bb-8.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-03T08:15:22.548Z
+Categories:
+
+
+Name: A Fish Chat
+Url: https://testflight.apple.com/join/jzPv1lac
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/49/af/a049af06-65a7-b292-e769-4e065b7b3f51/AppIcon.lsr/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-03T08:15:22.583Z
+Categories:
+
+
+Name: Pocket Space!
+Url: https://testflight.apple.com/join/DHipLt9w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/ea/92/e7ea9215-9f11-16b9-0be7-7dd94b08b83a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T08:15:22.619Z
+Categories:
+
+
+Name: KMON: World of Kogaea
+Url: https://testflight.apple.com/join/Nx5zl25z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/8f/f7/b18ff7ee-9836-519f-006a-31003d1a6153/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:15:22.655Z
+Categories:
+
+
+Name: Asurascans - Hot Manga Reader
+Url: https://testflight.apple.com/join/VdR4sNPA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/1b/f3/591bf359-4553-eb9a-8966-89ef30255ce9/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T08:15:22.690Z
+Categories:
+
+
+Name: The Weekendest: NYC Subway Map
+Url: https://testflight.apple.com/join/QMF8mCtV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/0d/af/270daf07-4942-1936-d272-7e4ffbab02f0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T08:15:22.725Z
+Categories:
+
+
