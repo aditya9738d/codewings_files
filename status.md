@@ -25738,3 +25738,120 @@ Last Checked: 2024-06-03T15:37:10.836Z
 Categories:
 
 
+Name: Spindown - Life Tracker
+Url: https://testflight.apple.com/join/y0uPEhmH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/23/b8/7223b80a-f821-8632-5826-a12d78289827/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:38:11.803Z
+Categories:
+
+
+Name: Spirits of the Realms
+Url: https://testflight.apple.com/join/lo1xJreb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/bf/43/62bf4326-eacb-a872-8c42-d21ac5b728b6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:38:11.838Z
+Categories:
+
+
+Name: Splat Attack!
+Url: https://testflight.apple.com/join/JX4td6PX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/9c/94/969c9434-0c3c-b2e7-5650-4e71a91d8020/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T15:38:11.874Z
+Categories:
+
+
+Name: Spooky AI
+Url: https://testflight.apple.com/join/hMFfQbuo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/63/8f/68/638f6826-8bc7-fd28-e2fe-0612c429267f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:38:11.908Z
+Categories:
+
+
+Name: SpringUI
+Url: https://testflight.apple.com/join/aPmNY3iB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/94/cd/3c94cd2f-6a9e-bb78-44ff-94eaa29cc651/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:38:11.942Z
+Categories:
+
+
+Name: SpruceKit Wallet
+Url: https://testflight.apple.com/join/CPZON8Ho
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/7a/41/6b7a4121-bc94-a02d-706e-9caf18b2047f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:38:11.977Z
+Categories:
+
+
+Name: Stack Stack Boom
+Url: https://testflight.apple.com/join/9w3upzJB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a0/cb/99/a0cb9992-6d5d-5f34-6086-3d39f094b932/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:38:12.011Z
+Categories:
+
+
+Name: Stampede V6
+Url: https://testflight.apple.com/join/a1q1PpDx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/af/13/2baf13be-8031-5158-437f-2d9052bcd552/AppIconLive-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T15:38:12.048Z
+Categories:
+
+
+Name: Starkeeper
+Url: https://testflight.apple.com/join/37q6squK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/41/de/0641dec3-f063-f064-f27c-2d9591d33d16/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 11
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:38:12.082Z
+Categories:
+
+
+Name: Starvara Battle Royale
+Url: https://testflight.apple.com/join/WhZDJ4Xw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2c/a4/73/2ca4736d-e688-4f30-3349-d5302296006d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:38:12.116Z
+Categories:
+
+
+Name: StellarMate
+Url: https://testflight.apple.com/join/yPEDodh6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/3d/ba/e03dbaa8-8156-8804-5a3a-8db0784d85e4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:38:12.150Z
+Categories:
+
+
+Name: Step Ring
+Url: https://testflight.apple.com/join/1hLiQ9vs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/c9/ed/8ac9ed5c-f622-792d-c9b5-a9ac1704459c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:38:12.185Z
+Categories:
+
+
+Name: Stoop inc
+Url: https://testflight.apple.com/join/nqHfoLin
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2f/df/a3/2fdfa3bb-8e70-58a7-cc29-920dcae00896/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:38:12.219Z
+Categories:
+
+
