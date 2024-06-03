@@ -5848,3 +5848,120 @@ Last Checked: 2024-06-03T21:34:13.063Z
 Categories:
 
 
+Name: Triodos
+Url: https://testflight.apple.com/join/NTTi3y2g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/69/16/586916b3-0afd-4fe9-8eed-e82b28459d9c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.214Z
+Categories:
+
+
+Name: Remain in The Game Mobile App
+Url: https://testflight.apple.com/join/qgNfalhe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/18/64/f61864ae-a86c-c2f3-94f9-1c0ad90e3342/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.261Z
+Categories:
+
+
+Name: Indigo Education
+Url: https://testflight.apple.com/join/tTCxbyGo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/76/20/d57620a7-2091-ad74-b65e-e45d954283fe/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.296Z
+Categories:
+
+
+Name: Cloud Baby Monitor
+Url: https://testflight.apple.com/join/cXRn9NCj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/32/d2/2632d23e-f049-ab68-14d7-354d891914a8/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.333Z
+Categories:
+
+
+Name: Peerlist
+Url: https://testflight.apple.com/join/1KDD1Gqr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/8b/89/f18b8924-e2ac-c91a-f383-5937c355b9eb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.368Z
+Categories:
+
+
+Name: Superlist - Tasks & Lists
+Url: https://testflight.apple.com/join/b4fbhjqf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/6d/ec/656dec39-eea3-5675-b983-632b106e8408/AppIcon-0-0-1x_U007epad-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.404Z
+Categories:
+
+
+Name: Supercopy for Safari
+Url: https://testflight.apple.com/join/NnJV6ZTU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/6b/b6/676bb637-e50d-d8bc-0b4d-c81cb460a7f7/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.440Z
+Categories:
+
+
+Name: Manga x Manga VHS
+Url: https://testflight.apple.com/join/kgpmIC7f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/57/8c/26578c41-53a9-f360-9943-4d24ff333457/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 5
+Beta Available: full
+Last Checked: 2024-06-03T21:35:19.477Z
+Categories:
+
+
+Name: AI Partner PLUS
+Url: https://testflight.apple.com/join/cBIec0Ml
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b6/a9/29/b6a9290c-4f86-e6b7-a520-7b0132b90597/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.513Z
+Categories:
+
+
+Name: Axolotl Reader
+Url: https://testflight.apple.com/join/6NURI03h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/84/e5/fc/84e5fc29-62fa-c10e-1088-37e7f9e42c0f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.549Z
+Categories:
+
+
+Name: Symbolsaurus
+Url: https://testflight.apple.com/join/37LGuo07
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/63/e3/ac/63e3acf2-06f8-74a8-6945-dc23489668a1/AppPink-0-1x_U007epad-0-0-0-0-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.586Z
+Categories:
+
+
+Name: Krono Timeline History Trivia
+Url: https://testflight.apple.com/join/Q8uh1VUt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/bf/b9/0fbfb9d6-6bf2-407f-fece-958848b8ccba/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.621Z
+Categories:
+
+
+Name: TOPTAXI Driver
+Url: https://testflight.apple.com/join/2yiFM7xT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/c0/7d/95c07d5b-d498-f059-b2b1-0de7b941b2f4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:35:19.658Z
+Categories:
+
+
