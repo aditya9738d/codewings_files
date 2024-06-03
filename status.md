@@ -2465,3 +2465,120 @@ Last Checked: 2024-06-03T07:51:12.668Z
 Categories:
 
 
+Name: Harbour - Docker Manager
+Url: https://testflight.apple.com/join/F2vK7xo4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/73/b2/8773b2df-6860-a69c-6a51-04f49178699c/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-03T07:52:11.896Z
+Categories:
+
+
+Name: Norton 360 Security & VPN
+Url: https://testflight.apple.com/join/iHcEgAaT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/cd/f1/13cdf169-2e76-a2da-78ee-60881128031d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-03T07:52:11.932Z
+Categories:
+
+
+Name: Power Apps
+Url: https://testflight.apple.com/join/u0qAVQC6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/44/66/5f446670-97d1-69e7-ece1-f63aab30ac0c/PowerApps_AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-03T07:52:11.968Z
+Categories:
+
+
+Name: Gama Bingo
+Url: https://testflight.apple.com/join/3XiyIWZD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/ed/0b/f6ed0bea-8ba9-c89e-d6dd-169e9940b613/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-03T07:52:12.004Z
+Categories:
+
+
+Name: IMDb: Movies & TV Shows
+Url: https://testflight.apple.com/join/Y9yo0X5t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/6f/6d/e66f6d36-393a-2aa7-36ef-e9a66b3c44c1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-03T07:52:12.039Z
+Categories:
+
+
+Name: Feditext
+Url: https://testflight.apple.com/join/3Ik3KBjj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/db/cd/c6dbcd99-3ece-344d-bbf2-a721072f673b/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-03T07:52:12.075Z
+Categories:
+
+
+Name: Steps+
+Url: https://testflight.apple.com/join/jNEMGh4b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/e0/83/79e0838e-f910-3227-1dde-68ebcb3b8132/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-03T07:52:12.110Z
+Categories:
+
+
+Name: Zello Walkie Talkie
+Url: https://testflight.apple.com/join/2Tux4moG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/82/fe/e982fed4-b29e-1d64-dc99-4a45c0a274c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-03T07:52:12.146Z
+Categories:
+
+
+Name: Camera Companion
+Url: https://testflight.apple.com/join/z18Ngj0N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/f1/17/09f117f4-21a5-f8c7-5d4e-35818b024ea9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 31
+Beta Available: full
+Last Checked: 2024-06-03T07:52:12.182Z
+Categories:
+
+
+Name: Innov8tifIDV
+Url: https://testflight.apple.com/join/ViWOvrlu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/4e/ce/8b4eceeb-342e-728d-eabb-b50d4375175b/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T07:52:12.218Z
+Categories:
+
+
+Name: Rumble Beans
+Url: https://testflight.apple.com/join/L8E6pwG8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/c4/15/e4c415b5-ddc7-7758-a917-803a820bca57/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 22
+Beta Available: open
+Last Checked: 2024-06-03T07:52:12.253Z
+Categories:
+
+
+Name: Revolut: Send, spend and save
+Url: https://testflight.apple.com/join/oqrinjQB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/7a/a3/c27aa380-f53a-0cd9-194d-c69a36976bc0/AppIcon-Production-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T07:52:12.289Z
+Categories:
+
+
+Name: YakiHonne
+Url: https://testflight.apple.com/join/tcXozZIu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/43/47/60434750-d2ca-1743-2175-567b067cd81b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-03T07:52:12.325Z
+Categories:
+
+
