@@ -12985,3 +12985,120 @@ Last Checked: 2024-06-03T13:46:12.356Z
 Categories:
 
 
+Name: Koinly
+Url: https://testflight.apple.com/join/MO3gDk9G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/1d/91/db1d918e-5c44-f2b0-69fb-86f93574df02/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T13:47:09.988Z
+Categories:
+
+
+Name: Moor Talk
+Url: https://testflight.apple.com/join/z5lqZNTg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e6/73/b5/e673b540-90df-a6f3-7e58-103e83e02002/AppIcon-solo-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.023Z
+Categories:
+
+
+Name: MobileRetail
+Url: https://testflight.apple.com/join/dj5z03CP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/db/3a/8cdb3a6f-f382-df11-308f-0156b07ca903/AppIcon-0-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.058Z
+Categories:
+
+
+Name: FluxGPT
+Url: https://testflight.apple.com/join/O7gFwRen
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/08/dc/5a08dcf7-d740-83ae-fd69-b8a1e46881a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.094Z
+Categories:
+
+
+Name: Name Card for AFFiNE
+Url: https://testflight.apple.com/join/M17JO7V3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/77/60/30/77603024-31cb-f697-cad3-b2950474aaf1/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.129Z
+Categories:
+
+
+Name: HighwayRadar
+Url: https://testflight.apple.com/join/SOdGt1us
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7b/34/da/7b34da56-b92f-cb81-f12b-5184e8e45ebc/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.164Z
+Categories:
+
+
+Name: O3Cloud
+Url: https://testflight.apple.com/join/v1wwH4Fi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/80/ae/da/80aeda9f-4389-af8c-a5de-bb9fe3b3a91a/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.198Z
+Categories:
+
+
+Name: Alta Aware
+Url: https://testflight.apple.com/join/8waet1xD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/c1/8c/dcc18ca7-c5e0-873a-84ff-3cadfa149e35/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.233Z
+Categories:
+
+
+Name: Pizza Helper for HSR
+Url: https://testflight.apple.com/join/lHoaVVYQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/28/f7/f8/28f7f87d-dbed-9eaa-5238-b978b7ff333e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.268Z
+Categories:
+
+
+Name: OVOSTAGE
+Url: https://testflight.apple.com/join/9ZLWymvx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/c3/64/5ec36458-1072-a71c-2589-61fe4706d411/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.303Z
+Categories:
+
+
+Name: Noor Chat
+Url: https://testflight.apple.com/join/yKKmzbhD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/c3/9b/69c39b97-7ba0-77e5-fa44-58db3ae9012c/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.337Z
+Categories:
+
+
+Name: SN Lift
+Url: https://testflight.apple.com/join/PkTLYlpJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/fd/bc/19fdbc5c-75cf-7f12-a5f3-ee361e16385a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.373Z
+Categories:
+
+
+Name: Home AC
+Url: https://testflight.apple.com/join/nbXXSEpD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/59/b9/a959b93f-7cd3-2175-0018-4f7c5cf99dd2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:47:10.409Z
+Categories:
+
+
