@@ -11528,3 +11528,120 @@ Last Checked: 2024-06-03T17:56:12.207Z
 Categories:
 
 
+Name: Wombat - Home of NFT Gaming
+Url: https://testflight.apple.com/join/0G9Qe0it
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/79/9d/e1799d0d-a228-f2a9-48eb-7100a3a20e30/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T17:57:11.901Z
+Categories:
+
+
+Name: KFC India online ordering app
+Url: https://testflight.apple.com/join/NaEKmoFx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/58/cc/8158ccd0-5270-9e54-92e3-1fd827e6d390/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T17:57:11.930Z
+Categories:
+
+
+Name: alfaview
+Url: https://testflight.apple.com/join/uPaaoT1e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/72/55/ea725522-6389-3d9d-11aa-ae3aac29381e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T17:57:11.958Z
+Categories:
+
+
+Name: Incom Mobile
+Url: https://testflight.apple.com/join/KXIdBk2h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/79/f8/2f79f8f5-58d2-4770-778f-976c78870bb7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T17:57:11.988Z
+Categories:
+
+
+Name: Infomaniak kDrive
+Url: https://testflight.apple.com/join/qZHSGy5B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/78/68/02786899-d0d7-4d47-7cb7-920080c5cfdd/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T17:57:12.016Z
+Categories:
+
+
+Name: MyPace - Control Your I-Pace
+Url: https://testflight.apple.com/join/SPMprsWo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/4d/53/7a4d53bc-a918-f538-9cef-ba45b621b020/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T17:57:12.044Z
+Categories:
+
+
+Name: Swift Lebanon
+Url: https://testflight.apple.com/join/w7B1yq0s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/f7/15/abf71533-a9dc-c61e-a4e0-cd8dfe1c9e18/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T17:57:12.073Z
+Categories:
+
+
+Name: Pizzeria Italia by Ordinalo
+Url: https://testflight.apple.com/join/TDkwJ6zG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/14/8b/c1/148bc178-2f5e-f5f2-b98e-506a9f3a541a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T17:57:12.102Z
+Categories:
+
+
+Name: AppMySite - My Custom App
+Url: https://testflight.apple.com/join/DKgriDVM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/15/8a/ad158a83-b92b-43ad-2604-9b01545b418e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T17:57:12.130Z
+Categories:
+
+
+Name: Ninja Reawakening
+Url: https://testflight.apple.com/join/5KnqC5Fr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d9/e1/be/d9e1be73-3a81-ed71-086c-eb488661c5f2/AppIcon-1x_U007emarketing-0-10-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T17:57:12.159Z
+Categories:
+
+
+Name: VIB Smart Sales
+Url: https://testflight.apple.com/join/Tx2oXWfX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/e6/00/4fe60074-d043-03da-81c8-bdbc22a84f9f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T17:57:12.187Z
+Categories:
+
+
+Name: Garuda Pro
+Url: https://testflight.apple.com/join/fgGv10B6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/a8/6c/fea86c4f-1869-1407-602d-8b394056a586/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T17:57:12.215Z
+Categories:
+
+
+Name: BinDay
+Url: https://testflight.apple.com/join/fHPrJuZ2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/25/31/592531cf-b8e8-2f4f-08ed-4e4c279bd74b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T17:57:12.245Z
+Categories:
+
+
