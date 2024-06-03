@@ -13049,3 +13049,120 @@ Last Checked: 2024-06-03T18:10:26.934Z
 Categories:
 
 
+Name: Muvonda Access
+Url: https://testflight.apple.com/join/kChXTPEC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/fd/d7/27fdd7de-1c73-2363-0272-bead4109eebf/app_icon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.435Z
+Categories:
+
+
+Name: Gaming for Peace - GAP
+Url: https://testflight.apple.com/join/tJu81Sch
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/67/0a/0f/670a0f38-d766-d54b-90a0-c599fcafa981/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.471Z
+Categories:
+
+
+Name: HoneyPlayBox
+Url: https://testflight.apple.com/join/0YKBKSX6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/fa/f1/eafaf1aa-0f3a-d87a-5d74-7a4e07749587/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.506Z
+Categories:
+
+
+Name: NKF Nutrition
+Url: https://testflight.apple.com/join/4Wg0GG7G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d3/80/52d3803d-ebb6-54a3-9d10-0a7167a29b8e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.542Z
+Categories:
+
+
+Name: External Persona Testing
+Url: https://testflight.apple.com/join/msXJrOc6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/1c/47/341c47b3-9db6-7bd7-261d-8c5b1a1549d3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.578Z
+Categories:
+
+
+Name: safesteps-bostonu
+Url: https://testflight.apple.com/join/eE68sUfl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/bc/69/46bc6985-f052-2777-c9f8-fd8b08048dbf/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.614Z
+Categories:
+
+
+Name: JTL-Wawi
+Url: https://testflight.apple.com/join/2WKPiip5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/26/8c/9c268cfe-0ea1-3dd9-9dd5-5623038b8197/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.650Z
+Categories:
+
+
+Name: My Life: The Game
+Url: https://testflight.apple.com/join/a1uztACh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/9c/07/5e9c07fb-4343-4aac-da98-498a07ea5726/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.686Z
+Categories:
+
+
+Name: Simple Live
+Url: https://testflight.apple.com/join/2oZuwSHJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/22/5b/d3225bf3-4eca-d20a-404c-b3faa3556766/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.722Z
+Categories:
+
+
+Name: Lagrange Gemini Browser
+Url: https://testflight.apple.com/join/UjdtSEhu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ca/e7/84/cae7842e-cb04-3690-a99f-2acc68f35194/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.763Z
+Categories:
+
+
+Name: Bunpro Japanese SRS
+Url: https://testflight.apple.com/join/qWyvzy0e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/6b/45/0c6b455a-c960-ad4c-3310-d7100ce10e71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.801Z
+Categories:
+
+
+Name: feeeed: rss reader and more
+Url: https://testflight.apple.com/join/ixRrWfQL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/bd/b5/36bdb5a1-0ad3-8dd2-0838-f4705a6acebb/AppIcon-0-0-1x_U007emarketing-0-4-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.837Z
+Categories:
+
+
+Name: Thought Path
+Url: https://testflight.apple.com/join/mnhXOl91
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/4e/06/bc4e063e-491a-1def-b492-550c5efb8cc6/ThoughtCapture-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T18:11:11.873Z
+Categories:
+
+
