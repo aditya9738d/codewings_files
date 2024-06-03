@@ -12049,3 +12049,120 @@ Last Checked: 2024-06-03T13:38:12.404Z
 Categories:
 
 
+Name: izibank: легкий мобільний банк
+Url: https://testflight.apple.com/join/1tKyw5jh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1d/b7/1f1db787-314c-903e-9cf9-cd95871b76d5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:39:09.868Z
+Categories:
+
+
+Name: iOiO New
+Url: https://testflight.apple.com/join/UfgjAldx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/84/37/168437a6-ff8d-b4ed-a363-25d28b1c37ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T13:39:09.906Z
+Categories:
+
+
+Name: LoanKiemUs
+Url: https://testflight.apple.com/join/XHeMYnlj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/3e/0f/2b3e0f4c-f661-03f4-73bc-ba82a2323c39/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T13:39:09.941Z
+Categories:
+
+
+Name: Combustion Inc.
+Url: https://testflight.apple.com/join/tpQZYiNV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/98/f8/a298f806-5a6e-f723-16ab-a89fbebc1bb3/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:39:09.977Z
+Categories:
+
+
+Name: Owwll Beta
+Url: https://testflight.apple.com/join/uraOO51T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/48/4f/c5484fc5-8de2-3202-16b8-f9977f879b5b/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:39:10.013Z
+Categories:
+
+
+Name: Saltar
+Url: https://testflight.apple.com/join/1PfRknnc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/48/a6/d148a657-550e-3076-cab3-dd81b159f65f/AppIcon-1x_U007emarketing-0-5-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:39:10.049Z
+Categories:
+
+
+Name: GLOWRIUM
+Url: https://testflight.apple.com/join/rbGtyL1h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/9b/7d/139b7d8c-16cb-d8d7-e357-2ef6632bf1ef/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:39:10.102Z
+Categories:
+
+
+Name: [STG] Extra 10
+Url: https://testflight.apple.com/join/nWdwl75f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/e1/b1/63e1b163-44c6-607b-390d-9bab06fc7457/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:39:10.139Z
+Categories:
+
+
+Name: When We Disappear
+Url: https://testflight.apple.com/join/BkBZx6Em
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ca/2b/b1/ca2bb19a-c5d8-c11d-5d57-f608e8ab29e0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T13:39:10.176Z
+Categories:
+
+
+Name: Prime Gems loan & credit card
+Url: https://testflight.apple.com/join/HdaFKodA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/9f/0c/809f0cd2-19b1-726a-9515-e7c3fa94a6db/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:39:10.212Z
+Categories:
+
+
+Name: GeoGebra Scientific Calculator
+Url: https://testflight.apple.com/join/459GgRny
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/a9/7e/92a97e1f-a4b9-d6fe-42a0-6da083590d24/GeoGebraScientificCalculator-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:39:10.248Z
+Categories:
+
+
+Name: Ex-Press
+Url: https://testflight.apple.com/join/r5vANLZh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/23/df/8823dfaa-38b4-544a-e4b8-8e442b3b92c9/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:39:10.284Z
+Categories:
+
+
+Name: Clip2Comic: Comic Maker
+Url: https://testflight.apple.com/join/1CjDctG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/f3/b7/23f3b7d0-a48b-0a59-e566-ee9e7e8f563c/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:39:10.320Z
+Categories:
+
+
