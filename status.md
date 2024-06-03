@@ -21343,3 +21343,124 @@ Last Checked: 2024-06-03T02:00:51.466Z
 Categories:
 
 
+Name: Envision AI
+Url: https://testflight.apple.com/join/QzPGfNeH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/63/69/a6636935-1b28-be41-24a3-9f49663ac684/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 22
+Beta Available: full
+Last Checked: 2024-06-03T02:01:12.749Z
+Categories:
+- Ai
+
+Name: Xbox Game Pass
+Url: https://testflight.apple.com/join/wytcNylk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/5f/6f/885f6fa1-c973-a862-e52c-c2689ec39615/AppIconBeta-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 118
+Beta Available: full
+Last Checked: 2024-06-03T02:01:12.784Z
+Categories:
+- Games
+
+Name: Solar Eclipse 2024 Mobile
+Url: https://testflight.apple.com/join/eCrIcC6x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/8c/6d/d08c6dbb-e1d6-3086-5e54-e45c6329028c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T02:01:12.820Z
+Categories:
+
+
+Name: Google Chrome
+Url: https://testflight.apple.com/join/LPQmtkUs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/e1/61/59e16152-31e8-f685-1a94-ee1a69fbf4d0/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 186
+Beta Available: open
+Last Checked: 2024-06-03T02:01:12.855Z
+Categories:
+- Browser
+
+Name: winston for Reddit
+Url: https://testflight.apple.com/join/3UF8bAUN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/26/72/272672c7-0c9f-13aa-e0a5-117d305d18f4/iconStandard-0-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: full
+Last Checked: 2024-06-03T02:01:12.890Z
+Categories:
+
+
+Name: WhatsApp Business
+Url: https://testflight.apple.com/join/oscYikr0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/9e/75/0d9e75af-2bc0-2710-d38f-39dd38d21c8d/AppIconSMB-0-1x_U007emarketing-0-6-0-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 506
+Beta Available: open
+Last Checked: 2024-06-03T02:01:12.925Z
+Categories:
+- Business
+- Chat
+
+Name: Snapchat
+Url: https://testflight.apple.com/join/p7hGbZUR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/df/04/f5df04f9-b3b4-64f3-3a44-2ca7b0d77b83/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 583
+Beta Available: full
+Last Checked: 2024-06-03T02:01:12.961Z
+Categories:
+- Chat
+- Entertainment
+- Photography
+- Social Networking
+
+Name: Plex: Watch Live TV and Movies
+Url: https://testflight.apple.com/join/MY6JTzix
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/4e/94/934e94d0-0bc7-4175-96c5-280987893ade/default-dark-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 7
+Beta Available: full
+Last Checked: 2024-06-03T02:01:12.995Z
+Categories:
+
+
+Name: CCClubs
+Url: https://testflight.apple.com/join/pLoQlfvn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/28/01/b928011d-6470-16b1-3548-b789b767eb12/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-03T02:01:13.030Z
+Categories:
+
+
+Name: MLBB beta
+Url: https://testflight.apple.com/join/yYjKTTlT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/44/5c/57445c58-f410-ffbb-9532-d0f154724565/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 345
+Beta Available: full
+Last Checked: 2024-06-03T02:01:13.067Z
+Categories:
+- Games
+
+Name: Planet Peanut - Make Math Fun
+Url: https://testflight.apple.com/join/8Vt8hLNo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/47/66/354766e2-9659-7de3-4145-5440ea5102bd/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:01:13.102Z
+Categories:
+
+
+Name: Grow My Dragon
+Url: https://testflight.apple.com/join/loITCiZW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/02/fe/a402fe67-b135-9151-9f6a-4190a3250cd8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-03T02:01:13.138Z
+Categories:
+
+
+Name: StepVillapp
+Url: https://testflight.apple.com/join/oiTSmhCc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/78/dd/c3/78ddc3c3-1c9d-8ef8-28f6-775c73fceca4/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-03T02:01:13.172Z
+Categories:
+
+
