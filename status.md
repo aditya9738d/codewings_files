@@ -14740,3 +14740,120 @@ Last Checked: 2024-06-03T23:02:12.365Z
 Categories:
 
 
+Name: Decathlon Outdoor : randonnée
+Url: https://testflight.apple.com/join/U2ccfsaY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/42/02/d5/4202d588-f093-8516-e23c-6da3b735dc5f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:03:10.864Z
+Categories:
+
+
+Name: MyUWLUAT
+Url: https://testflight.apple.com/join/0qCfYNn9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/24/ca/e724ca99-1fac-a3c2-023f-99d6ec7e39ab/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:03:10.899Z
+Categories:
+
+
+Name: Jcoin Shop ST
+Url: https://testflight.apple.com/join/AM3GWvJW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ce/b4/13/ceb41352-9a8f-87ed-73ce-b1924e8f7df8/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:03:10.936Z
+Categories:
+
+
+Name: Sangoma Meet
+Url: https://testflight.apple.com/join/BEd12vi5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/05/1f/b5051f07-a161-d3e1-28d7-876d3b836356/AppIconRelease-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T23:03:10.972Z
+Categories:
+
+
+Name: Tidus Wallet
+Url: https://testflight.apple.com/join/kJyhyCne
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/54/4c/8c/544c8ccc-4668-67d0-c9a5-411c613a9d5b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-03T23:03:11.009Z
+Categories:
+
+
+Name: PostFinance App
+Url: https://testflight.apple.com/join/936S1cyU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/e2/0a/cee20afc-ea82-528e-9e59-7cdb535c3975/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:03:11.044Z
+Categories:
+
+
+Name: Airveep
+Url: https://testflight.apple.com/join/t4bgGEWe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/2a/19/3e2a1948-d607-cec8-c6a7-89c5888d65c6/AppIcon-1x_U007emarketing-0-5-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:03:11.081Z
+Categories:
+
+
+Name: Deliverect(Staging)
+Url: https://testflight.apple.com/join/4dCmSumR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/4f/27/1e4f2723-4975-2d53-bbeb-f5b38087e6c3/AppIcon-Staging-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:03:11.117Z
+Categories:
+
+
+Name: RamseyTrusted for Pros
+Url: https://testflight.apple.com/join/tpo0ijJT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/f5/8e/29f58e24-431d-56b7-155d-9a92ad28ee4b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:03:11.153Z
+Categories:
+
+
+Name: NUMINE
+Url: https://testflight.apple.com/join/DtNgKC5A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/15/aa/6c/15aa6c70-e475-5f1a-4fc3-efa56c6b582a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:03:11.194Z
+Categories:
+
+
+Name: Dead Dating PD
+Url: https://testflight.apple.com/join/FBI2SLzL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/92/fd/6992fdb7-d90e-42f0-5db2-3dc2a39288a0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T23:03:11.231Z
+Categories:
+
+
+Name: Unilever Pureit
+Url: https://testflight.apple.com/join/1eg6JQ3Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/88/e0/6888e079-81ed-50f1-d0c6-cd4e56964d0c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:03:11.267Z
+Categories:
+
+
+Name: GreatEnergy
+Url: https://testflight.apple.com/join/YfRWlrF8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/e4/87/b3e48704-2905-5127-f579-92345d654335/AppIcon-Development-1x_U007emarketing-0-0-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:03:11.304Z
+Categories:
+
+
