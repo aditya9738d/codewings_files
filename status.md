@@ -17912,3 +17912,120 @@ Last Checked: 2024-06-03T01:30:47.213Z
 Categories:
 
 
+Name: Grindr - Gay Dating & Chat
+Url: https://testflight.apple.com/join/eO265vw7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/dd/43/01dd436f-3fcd-cdd6-e8e1-fb1e3eeb8c0d/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.526Z
+Categories:
+
+
+Name: Traini -Dog Training & AI Chat
+Url: https://testflight.apple.com/join/dA6l0fWU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/cb/4c/43cb4cb6-b07b-7f2e-13d4-503063eb9991/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.555Z
+Categories:
+
+
+Name: phaze
+Url: https://testflight.apple.com/join/fkQWk37B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/29/29/9529292f-e6ba-1dbd-f97d-1cfd19a7fac9/AppIcon-1x_U007ephone-0-0-0-0-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.584Z
+Categories:
+
+
+Name: monteStory
+Url: https://testflight.apple.com/join/EkfsDlme
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/d6/d0/73d6d067-9be0-9009-054a-5e1cfb86e3b5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.611Z
+Categories:
+
+
+Name: Stork
+Url: https://testflight.apple.com/join/pOk0I70t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/4c/4a/194c4a59-9dc4-adf6-c00e-49fe69f14309/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.640Z
+Categories:
+
+
+Name: stats.fm for Spotify Music App
+Url: https://testflight.apple.com/join/ATXJemn4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d9/41/3ad941f0-893d-6da9-4e65-f341c8fc0ca4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.668Z
+Categories:
+
+
+Name: Mythic Mischief
+Url: https://testflight.apple.com/join/Zm34KszI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/35/3a/0e353aba-1886-deec-730c-93771ee0bb7e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.696Z
+Categories:
+
+
+Name: Rachana Ranade Regional
+Url: https://testflight.apple.com/join/sp79yAyj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/32/4c/f7324c92-3bac-65a3-7f8c-2ce660c2bbc0/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.724Z
+Categories:
+
+
+Name: Godox Light
+Url: https://testflight.apple.com/join/LfIj3unB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/fa/10ddfa71-4ce1-ec04-6a65-5935d5836079/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.752Z
+Categories:
+
+
+Name: ParkmePro Watchman
+Url: https://testflight.apple.com/join/fgPnIIvA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/c5/31/12c53192-625d-8271-d115-fcc9efd2e0dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.781Z
+Categories:
+
+
+Name: Deem Mail
+Url: https://testflight.apple.com/join/ox4Db7hW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a8/39/bb/a839bb14-13e0-480e-f65e-24d32455a102/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.810Z
+Categories:
+
+
+Name: TeamLive
+Url: https://testflight.apple.com/join/lXMsgmpL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/3d/51/313d5166-5251-9ec2-691e-b97180a22f61/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.837Z
+Categories:
+
+
+Name: Bridge Your Network
+Url: https://testflight.apple.com/join/MUVwq9V9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/b7/85/c9b78584-6f7b-bfa7-1e1e-2a029c95e431/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T01:31:10.865Z
+Categories:
+
+
