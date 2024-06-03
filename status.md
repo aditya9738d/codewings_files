@@ -13921,3 +13921,120 @@ Last Checked: 2024-06-03T05:26:10.217Z
 Categories:
 
 
+Name: VPN & Antivirus by Kaspersky
+Url: https://testflight.apple.com/join/UgSdu1K8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/57/dd/3b57dd77-7390-95e8-da12-5921471fb3e5/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T05:27:09.526Z
+Categories:
+
+
+Name: Flip, Play, Go
+Url: https://testflight.apple.com/join/75RjVPvY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/8c/ed/6a8ced31-2de5-d2ba-5aae-72642e290e68/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:27:09.553Z
+Categories:
+
+
+Name: OnSong 2020
+Url: https://testflight.apple.com/join/kHLFryWw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/3f/60/5f3f60ab-476b-0c29-4a9d-ca8d7f0fe5ea/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:27:09.580Z
+Categories:
+
+
+Name: BCVN Portal
+Url: https://testflight.apple.com/join/c9h1qfDN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/93/6c/c3936cea-3ed8-b01c-709d-98b7d563ff7b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:27:09.607Z
+Categories:
+
+
+Name: Eksperden
+Url: https://testflight.apple.com/join/e1DCF52f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/73/8d/2d738d05-b345-b0e5-0cda-bbf35c5db8c8/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:27:09.635Z
+Categories:
+
+
+Name: Mergin Maps: QGIS in pocket
+Url: https://testflight.apple.com/join/JO5EIywn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/6b/33/a96b339e-81ab-d916-a6a3-671113d96fa3/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:27:09.664Z
+Categories:
+
+
+Name: NadaPay
+Url: https://testflight.apple.com/join/CnJmPm51
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/9e/21/ae9e21c6-d8aa-32bc-896a-c849f742f1a1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:27:09.691Z
+Categories:
+
+
+Name: What 2 Eat Today
+Url: https://testflight.apple.com/join/O1zRaCMS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/07/2b/39072bfc-bfd7-adaa-cbd2-b1c1f3baaf7f/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:27:09.719Z
+Categories:
+
+
+Name: SKIEATS
+Url: https://testflight.apple.com/join/3mY4clPS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/f9/cd/ccf9cdf9-5113-1fd3-a28f-23b47ecab600/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:27:09.747Z
+Categories:
+
+
+Name: AppCafe
+Url: https://testflight.apple.com/join/5fMttdpe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/d2/06/5ad20675-7df3-5924-01c6-a2ac92d98035/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:27:09.775Z
+Categories:
+
+
+Name: Queo Access
+Url: https://testflight.apple.com/join/mTAvtPPs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/d3/fa/94d3fa55-b37e-236a-8bc3-7662994727ae/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:27:09.803Z
+Categories:
+
+
+Name: Mixin Messenger
+Url: https://testflight.apple.com/join/G36egM0k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/74/8a/c8/748ac8f4-45cd-4907-ae2d-8fad4b572f29/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:27:09.831Z
+Categories:
+
+
+Name: APK-TEST
+Url: https://testflight.apple.com/join/Zm62zLyL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dd/42/d6/dd42d639-a7ef-9637-2d44-ca50070a21dd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-03T05:27:09.858Z
+Categories:
+
+
