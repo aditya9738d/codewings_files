@@ -19250,3 +19250,120 @@ Last Checked: 2024-06-03T19:10:25.932Z
 Categories:
 
 
+Name: Orka Health
+Url: https://testflight.apple.com/join/7X0HDPNR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a8/99/df/a899df5b-a2b7-56ab-5cee-bec0d2800ee3/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T19:11:11.829Z
+Categories:
+
+
+Name: Diarly: Private Daily Journal
+Url: https://testflight.apple.com/join/g2vQL47L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/f0/38/58f03825-81a1-9f17-b781-65b29d3143d9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:11:11.865Z
+Categories:
+
+
+Name: WidgetWall
+Url: https://testflight.apple.com/join/naLuk9N3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/2c/0f/4b2c0f5a-be38-0661-821c-401c75a3c0d1/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:11:11.901Z
+Categories:
+
+
+Name: Sunsama
+Url: https://testflight.apple.com/join/ga9gmSns
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/e8/c5/27e8c58d-cd2c-9f86-1e43-3f864ea7ddac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:11:11.936Z
+Categories:
+
+
+Name: Rapid Rift
+Url: https://testflight.apple.com/join/93txVXhO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/02/48/0f024801-47e7-34b0-71e3-148a8576e078/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:11:11.971Z
+Categories:
+
+
+Name: Amagno.App
+Url: https://testflight.apple.com/join/tOXJC8Kf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3b/68/d5/3b68d578-8ccb-1adf-a3d9-e8903f00d33e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:11:12.007Z
+Categories:
+
+
+Name: Simon Care Management
+Url: https://testflight.apple.com/join/MF81MpPL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ca/2f/a0/ca2fa0e9-4bf8-b9c9-1454-7b1be28908dd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:11:12.042Z
+Categories:
+
+
+Name: Light of Coco
+Url: https://testflight.apple.com/join/nURS8Hx2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/e1/29/63e1295f-0a19-710a-24d7-fccf26491829/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:11:12.077Z
+Categories:
+
+
+Name: Vilja
+Url: https://testflight.apple.com/join/7s1wL3HL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/79/91/c0799189-bbcd-15f5-f6d8-8c6cabb23734/AppIcon-0-1x_U007emarketing-0-3-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:11:12.112Z
+Categories:
+
+
+Name: Ease-Amind
+Url: https://testflight.apple.com/join/Acq7jDLi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/73/b8/3d73b88c-cd60-a89b-7b6e-e711b1cefcd9/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:11:12.148Z
+Categories:
+
+
+Name: daoStk
+Url: https://testflight.apple.com/join/0FKLLJMM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/d0/44/d4d0443d-a4c1-68f8-8e53-8a1f0a3697e9/AppIcon-1x_U007ephone-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:11:12.183Z
+Categories:
+
+
+Name: Misty beta
+Url: https://testflight.apple.com/join/S6spJXQ1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/53/8a/ae538a64-d541-de81-4f4d-7a2c957fe2da/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:11:12.219Z
+Categories:
+
+
+Name: Store Card Wallet: Barcode Pal
+Url: https://testflight.apple.com/join/bD6QW9pJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/51/99/5d519970-d6cb-0f8d-4613-5e9a6ee27156/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T19:11:12.254Z
+Categories:
+
+
