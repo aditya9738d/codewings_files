@@ -18484,3 +18484,120 @@ Last Checked: 2024-06-03T06:05:17.377Z
 Categories:
 
 
+Name: BitPet - AR Virtual Pets
+Url: https://testflight.apple.com/join/xurnOPBO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/12/ec/6312ecb8-b948-c4a7-dc69-6b47b8debbc2/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:06:10.883Z
+Categories:
+
+
+Name: EggRider
+Url: https://testflight.apple.com/join/XEu11F03
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/23/11/3b23113c-76c9-7868-9c67-f6dc05f0dd7c/AppIcon-EggRider-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:06:10.919Z
+Categories:
+
+
+Name: Jackery
+Url: https://testflight.apple.com/join/Be7WNaVn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/a3/18/efa318a6-5207-9593-f454-a2ab4117d638/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:06:10.955Z
+Categories:
+
+
+Name: MOlandDefense
+Url: https://testflight.apple.com/join/e4L805ov
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/b8/4d/7ab84d88-98a7-0ae4-1ba0-ee38830d9f99/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T06:06:10.990Z
+Categories:
+
+
+Name: Vice Nation
+Url: https://testflight.apple.com/join/iGRqk6Mf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/fb/4b/0cfb4b6f-c21d-639c-faa8-2ffa2f702394/GameIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T06:06:11.026Z
+Categories:
+
+
+Name: Townhall, Inc.
+Url: https://testflight.apple.com/join/z2g49gBR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/cc/aa/f0ccaaad-1372-0882-e75f-867668d8950c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:06:11.061Z
+Categories:
+
+
+Name: Cliente HOM
+Url: https://testflight.apple.com/join/c1kxJTA5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/93/29/0993293e-83f8-d3f3-7244-c7267af491fe/AppIcon-HOM-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T06:06:11.096Z
+Categories:
+
+
+Name: Phoenix: Motivation,Meditate
+Url: https://testflight.apple.com/join/hP5SG4xU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/6b/b8/036bb847-b146-bfdd-d66b-4c6ea56b32ed/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:06:11.132Z
+Categories:
+
+
+Name: Squarelets: Guess the Picture
+Url: https://testflight.apple.com/join/KfKBFJbi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/34/0d/79340db3-050c-9ee1-f9b2-ea196bcec5d2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T06:06:11.168Z
+Categories:
+
+
+Name: Vega Pos
+Url: https://testflight.apple.com/join/NpUz1kmQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/85/67/41856771-376c-654c-fe44-78f8d706fcc5/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T06:06:11.204Z
+Categories:
+
+
+Name: VCM FaceX
+Url: https://testflight.apple.com/join/IYkE2SH7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/67/a5/7067a52c-a44c-c6c1-ee71-1b35b765da84/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:06:11.239Z
+Categories:
+
+
+Name: Idle Fantasy Magic School
+Url: https://testflight.apple.com/join/0lGf3wWh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9a/c5/5e/9ac55e93-da1b-8078-11f6-58edbef22b15/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:06:11.275Z
+Categories:
+
+
+Name: XERP
+Url: https://testflight.apple.com/join/cD5nYbTE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/f3/ab/dcf3ab13-fa1e-f3cd-1727-553c2879080a/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:06:11.311Z
+Categories:
+
+
