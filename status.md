@@ -25334,3 +25334,120 @@ Last Checked: 2024-06-03T20:06:12.266Z
 Categories:
 
 
+Name: FRITZ!App Smart Home
+Url: https://testflight.apple.com/join/kzVJhIg1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/84/ee/a084ee4e-5c4c-520a-2a22-87172ab00260/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.127Z
+Categories:
+
+
+Name: Capacities
+Url: https://testflight.apple.com/join/agRhmlby
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/22/c0/da22c037-692e-2b6d-4762-6e71a6361cbd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.155Z
+Categories:
+
+
+Name: BeauTech2
+Url: https://testflight.apple.com/join/LbpX2l7O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/d5/41/ccd541b6-fe3a-6e7d-3e4a-0603977a5739/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.183Z
+Categories:
+
+
+Name: NL Classifieds: Shop Local
+Url: https://testflight.apple.com/join/mgBYidoN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/72/34/6b7234ce-a7e8-2453-048b-e6e3e8e08a4a/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.212Z
+Categories:
+
+
+Name: PLAY SWING
+Url: https://testflight.apple.com/join/3TsNwhkd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/f8/bd/88f8bd2b-70cd-de41-f596-c6adfebeff67/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.240Z
+Categories:
+
+
+Name: Roon Remote
+Url: https://testflight.apple.com/join/uyG60hp2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/e4/5f/87e45fe5-8361-4096-59df-a48afbd73182/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.268Z
+Categories:
+
+
+Name: Strongineering
+Url: https://testflight.apple.com/join/1zhF7cmn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/8b/79/838b7905-d4aa-328b-2513-d7f623ed6c3b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.296Z
+Categories:
+
+
+Name: N1broker
+Url: https://testflight.apple.com/join/Ql500K0e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4c/03/25/4c032507-72bf-58e8-b7ca-7e58ef8e05cc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.324Z
+Categories:
+
+
+Name: eShop Multivendor Customer
+Url: https://testflight.apple.com/join/ekx7AYUP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/0f/a9/e80fa9f1-e8f7-e94c-491d-e4f21c306c9c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.354Z
+Categories:
+
+
+Name: Onion Browser
+Url: https://testflight.apple.com/join/90DvGBOE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/78/49/be/7849be5c-6b5a-e5dd-cc39-3c430cd76318/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.382Z
+Categories:
+
+
+Name: V2Box - V2ray Client
+Url: https://testflight.apple.com/join/IlTFf5Id
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/69/a7/f8/69a7f83f-ab2b-d833-6b77-b97b16fb53ee/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.410Z
+Categories:
+
+
+Name: BTG Pactual Empresas (UAT)
+Url: https://testflight.apple.com/join/pV7ml4bt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/f7/1e/00f71e54-761b-bfb8-8bd8-b29ad609268a/AppIcon-uat-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.437Z
+Categories:
+
+
+Name: Aurora Catch
+Url: https://testflight.apple.com/join/qkGBWF1j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/c4/2f/aec42f11-c282-9dde-33ec-b1bbdf3f831e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T20:07:10.467Z
+Categories:
+
+
