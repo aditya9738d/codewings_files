@@ -12283,3 +12283,120 @@ Last Checked: 2024-06-03T13:40:27.871Z
 Categories:
 
 
+Name: SongPocket
+Url: https://testflight.apple.com/join/YsnTDequ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/64/58/ee64581d-c265-d776-9abb-21fb010b60d5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.481Z
+Categories:
+
+
+Name: ImproveID Wallet
+Url: https://testflight.apple.com/join/ErExNitR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/4e/ae/e84eae0c-2442-15fe-04f3-9d9ef13c6bb5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.517Z
+Categories:
+
+
+Name: Vidola Titan
+Url: https://testflight.apple.com/join/r4x4ivpS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/e6/1c/d8e61ccf-e0cf-57be-e9ce-7376cf66aa8a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.552Z
+Categories:
+
+
+Name: Cricut Bridge Diagnostic Tool
+Url: https://testflight.apple.com/join/ztCrKXyD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/cc/24/81cc248b-31e6-2f41-d8e3-acb8d21a4568/AppIcon-1x_U007emarketing-0-9-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.586Z
+Categories:
+
+
+Name: TCPR Link SG
+Url: https://testflight.apple.com/join/s7NRs7js
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/16/04/4216042c-e9ec-c639-3380-19151be3a9c0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.621Z
+Categories:
+
+
+Name: BeDrive
+Url: https://testflight.apple.com/join/Gyy9JL6e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/f5/89/ecf589a4-886c-fcda-dc72-d200f96fd8b1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.657Z
+Categories:
+
+
+Name: faceplant AR
+Url: https://testflight.apple.com/join/6OVusjVp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/ed/a7/f7eda7c9-d4e5-9d06-f66b-48f253408079/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.692Z
+Categories:
+
+
+Name: CBTL Rewards (Preproduction)
+Url: https://testflight.apple.com/join/gTZTCZZ1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/26/84/2726845a-e41d-7ae1-1ede-b105086deab1/AppIconPreproduction-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.727Z
+Categories:
+
+
+Name: Hangouti
+Url: https://testflight.apple.com/join/0NiPk0UU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/c3/bd/2dc3bdce-687b-f7a8-c0e1-f884236b3eff/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.762Z
+Categories:
+
+
+Name: Days Since: Quit Habit Tracker
+Url: https://testflight.apple.com/join/wcSVTXdt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/b6/75/deb675bf-fac6-5ace-c020-981042ba8dd2/AppIcon-0-1x_U007ephone-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.797Z
+Categories:
+
+
+Name: Wasl
+Url: https://testflight.apple.com/join/UGZO93ve
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/44/cf/1844cfd8-be1d-1ce2-175c-2e92b959af40/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.831Z
+Categories:
+
+
+Name: Trading 212
+Url: https://testflight.apple.com/join/xs3VuheV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/bf/1a/3abf1a75-0da6-121d-2379-9e5258f8a168/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.867Z
+Categories:
+
+
+Name: D3DSocial
+Url: https://testflight.apple.com/join/qte7cYNn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/79/64/db79643d-2c0b-4e8e-da85-6e89b963bd83/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T13:41:10.902Z
+Categories:
+
+
