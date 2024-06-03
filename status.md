@@ -15325,3 +15325,120 @@ Last Checked: 2024-06-03T23:07:11.482Z
 Categories:
 
 
+Name: Incontrol Inspect
+Url: https://testflight.apple.com/join/4MnA8fO7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/8b/10/938b103e-2eb4-f4f5-879a-cdacb286e898/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:11.844Z
+Categories:
+
+
+Name: Soprop Premium UAT
+Url: https://testflight.apple.com/join/RdjGlKxD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/08/f1/2408f1e6-af77-75dd-b375-39fc096bc7db/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:11.872Z
+Categories:
+
+
+Name: Apphive
+Url: https://testflight.apple.com/join/98eGSRhc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/e0/e9/33e0e946-420c-a7c4-2e15-9b8c22d4abce/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:11.900Z
+Categories:
+
+
+Name: Standard Notes
+Url: https://testflight.apple.com/join/H61MmmCA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/aa/8a/e6aa8af0-6fc7-3891-237e-fe36e41acae0/Blue-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:11.929Z
+Categories:
+
+
+Name: Sesame, Open Sesame
+Url: https://testflight.apple.com/join/Rok4GOFD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/17/ff/6a17ff9f-f130-44ba-65a7-f0c42777eecc/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:11.957Z
+Categories:
+
+
+Name: BM Online
+Url: https://testflight.apple.com/join/DbXBjWdN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/3f/09/da3f0926-7075-78ec-bfed-20faf1795a27/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:11.985Z
+Categories:
+
+
+Name: Soralution
+Url: https://testflight.apple.com/join/670hF438
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/ae/7a/0fae7a9b-6dfe-35d7-3be7-6337730e3bd5/AppIcon-soralution-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:12.013Z
+Categories:
+
+
+Name: ITC-ReqSt
+Url: https://testflight.apple.com/join/BOQBlqj5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/0d/df/690ddff8-20c8-36ca-28d3-ab71de235d21/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:12.042Z
+Categories:
+
+
+Name: Alpha Energy Capital
+Url: https://testflight.apple.com/join/DEtEmmac
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/a3/00/f7a300db-4216-9a97-4e61-1d53bf603689/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:12.071Z
+Categories:
+
+
+Name: AlignMate - Aligner Tracker
+Url: https://testflight.apple.com/join/x023Iads
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9f/54/b3/9f54b3cb-c91f-75c4-90ef-4dfa92eab4c5/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:12.100Z
+Categories:
+
+
+Name: Airport Boss
+Url: https://testflight.apple.com/join/qg85NoSA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/e5/59/6ee5596a-5f6e-5b65-8a28-008993608481/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:12.128Z
+Categories:
+
+
+Name: AirBeams
+Url: https://testflight.apple.com/join/0368BN86
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/40/c1/c340c19e-e318-548f-e123-835e979caed7/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:08:12.156Z
+Categories:
+
+
+Name: Afrimoney AO
+Url: https://testflight.apple.com/join/P0JPrchZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/23/01/4b/23014b40-4b3b-5635-8c62-728a00e88862/AppIconAO-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:08:12.185Z
+Categories:
+
+
