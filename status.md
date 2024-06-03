@@ -24568,3 +24568,120 @@ Last Checked: 2024-06-03T15:27:09.040Z
 Categories:
 
 
+Name: SAFE by FieldEx
+Url: https://testflight.apple.com/join/E4KexlIs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/f0/e1/cdf0e168-a1d0-1099-c800-4c10f7c5b014/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:28:11.050Z
+Categories:
+
+
+Name: SAIMU-UAT
+Url: https://testflight.apple.com/join/IpE4pYqL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/04/cc/7104cc40-f9d7-2676-7d4c-286cff195260/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:28:11.078Z
+Categories:
+
+
+Name: SC Thrive Hub Client
+Url: https://testflight.apple.com/join/Qeh2WRdy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/9f/f7/009ff723-80e5-3980-c4a1-7f09bdfde6ee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:28:11.106Z
+Categories:
+
+
+Name: SEEC HomeOwners
+Url: https://testflight.apple.com/join/5ClON9Sr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6e/66/7c/6e667c79-d4b4-eab7-fbd9-26ac321835cb/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:28:11.135Z
+Categories:
+
+
+Name: SIMS LTD
+Url: https://testflight.apple.com/join/Wpug2yiB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/af/0d/c5af0dfa-46a1-ca4b-ac6c-f566bb1ec150/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:28:11.165Z
+Categories:
+
+
+Name: SMART MOBILITY ALMERIA
+Url: https://testflight.apple.com/join/fzQlYt6Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8c/be/8b/8cbe8bab-fbed-389e-7fc5-f6974024c70b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T15:28:11.193Z
+Categories:
+
+
+Name: SMBDY.ai
+Url: https://testflight.apple.com/join/5spdCo4S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/0b/5b/760b5b58-c4eb-0fc8-009e-30db8786633c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:28:11.221Z
+Categories:
+
+
+Name: SMRT Lighting Controls
+Url: https://testflight.apple.com/join/IIgMTCch
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7e/34/90/7e34907a-4530-f5b9-34cb-03ead01ac430/AppIcon-SMRT_Lighting-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:28:11.249Z
+Categories:
+
+
+Name: SMS ONE Democenter
+Url: https://testflight.apple.com/join/Z6cBynMR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/3a/85/9e3a8542-086f-f90f-a8a6-ffb33c286275/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:28:11.278Z
+Categories:
+
+
+Name: SPAR India Online Shopping App
+Url: https://testflight.apple.com/join/BXV7nk0H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/5b/97/4d5b9738-d3e5-a634-429a-28fff49032f3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:28:11.306Z
+Categories:
+
+
+Name: SRG+
+Url: https://testflight.apple.com/join/tLznKnUO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/24/2a/46/242a4677-2913-4710-560f-4142a1393b7e/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T15:28:11.336Z
+Categories:
+
+
+Name: SSIKHJ Weather with WeatherKit
+Url: https://testflight.apple.com/join/yNfV6ehk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/81/6e/24/816e2498-cbf4-a73c-060e-aa29bdee2a2e/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:28:11.365Z
+Categories:
+
+
+Name: SSO+
+Url: https://testflight.apple.com/join/5TaqxnCM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/3a/04/463a0424-be9e-e75a-0886-318005211942/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:28:11.393Z
+Categories:
+
+
