@@ -21581,3 +21581,125 @@ Last Checked: 2024-06-03T02:02:11.554Z
 Categories:
 
 
+Name: WavePod
+Url: https://testflight.apple.com/join/NewA5LKh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/ef/c7/44efc7a8-4fd4-320c-47b6-689af3f6d63f/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 21
+Beta Available: open
+Last Checked: 2024-06-03T02:03:10.039Z
+Categories:
+
+
+Name: MusicMa
+Url: https://testflight.apple.com/join/5Re9EtP0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/7b/6c/487b6c51-d096-743c-bab2-01adaae3b981/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-03T02:03:10.074Z
+Categories:
+
+
+Name: Das E-Rezept
+Url: https://testflight.apple.com/join/rL8GdXdD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/9d/d2/a69dd2c5-86e0-c9c9-edc7-8073208c32e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:03:10.109Z
+Categories:
+
+
+Name: Kalaam - Learn Quranic Arabic
+Url: https://testflight.apple.com/join/xOzIjSrN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/e9/71/88e97108-0cfa-b3f6-b2cf-9a7cde5e939b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:03:10.145Z
+Categories:
+
+
+Name: dEmpire of Vampire
+Url: https://testflight.apple.com/join/I0939Yj3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/3e/4a/d23e4aa7-357c-467c-c0ed-ea3ad8a06016/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 21
+Beta Available: not accepting
+Last Checked: 2024-06-03T02:03:10.180Z
+Categories:
+
+
+Name: Occto
+Url: https://testflight.apple.com/join/HPbYkfzz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/0b/e8/8f0be8ad-b19e-06b6-22fc-e273e1828fa3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: not accepting
+Last Checked: 2024-06-03T02:03:10.216Z
+Categories:
+
+
+Name: TP-Link Aria
+Url: https://testflight.apple.com/join/T99UPBgQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/3a/f2/2d3af22a-63bb-f972-f868-1e81eb235473/BetaAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T02:03:10.251Z
+Categories:
+
+
+Name: CoinPocket
+Url: https://testflight.apple.com/join/ye6YT9Rc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/9f/13/5a9f131d-5e1b-70bb-ec9f-323a33fc3dda/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 26
+Beta Available: open
+Last Checked: 2024-06-03T02:03:10.286Z
+Categories:
+
+
+Name: Avocado Wallet
+Url: https://testflight.apple.com/join/MxPn3PUa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/21/8b/6d218be1-1e73-41d4-d0e9-9284c1b0a0c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 23
+Beta Available: open
+Last Checked: 2024-06-03T02:03:10.321Z
+Categories:
+
+
+Name: Telegram Messenger
+Url: https://testflight.apple.com/join/u6iogfd0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/36/27/7d3627ec-d7f6-32e7-787b-e1f66a521cc2/AppIconLLC-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1619
+Beta Available: full
+Last Checked: 2024-06-03T02:03:10.359Z
+Categories:
+- Entertainment
+- Files & cloud
+- Photography
+- Social Networking
+- Utility
+- Video
+
+Name: The Division Resurgence
+Url: https://testflight.apple.com/join/cZFrLJPZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/31/ad/0031ad60-d6a6-5331-5f3a-d6022f20f8ee/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 68
+Beta Available: full
+Last Checked: 2024-06-03T02:03:10.394Z
+Categories:
+
+
+Name: 3g2005
+Url: https://testflight.apple.com/join/weDKc93b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/94/4f/e0944f63-bf30-f13c-2aa8-f7f2ed1d1080/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T02:03:10.430Z
+Categories:
+
+
+Name: NOVI® – Visual IQ Puzzles
+Url: https://testflight.apple.com/join/Yn9iqGcZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/a2/e4/90a2e450-a59f-6dc9-8dfa-8e2d4184e0d5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-03T02:03:10.468Z
+Categories:
+
+
