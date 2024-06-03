@@ -13804,3 +13804,120 @@ Last Checked: 2024-06-03T05:25:15.731Z
 Categories:
 
 
+Name: Detail: Video & Captions
+Url: https://testflight.apple.com/join/riG59UhE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/7e/65/767e655e-ccfd-8906-5ad8-772317562b4e/AppIcon-0-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T05:26:09.884Z
+Categories:
+
+
+Name: MyBoby
+Url: https://testflight.apple.com/join/ArnUpPLl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/0c/3e/2d0c3ea9-987c-a65f-41a4-05f4e4343ced/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:26:09.912Z
+Categories:
+
+
+Name: AXIUS Alpha
+Url: https://testflight.apple.com/join/kmYT88MW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/0a/d8/f80ad80e-8e21-ce61-273d-e130878d3052/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:26:09.940Z
+Categories:
+
+
+Name: Flydog Prof
+Url: https://testflight.apple.com/join/KFpxOcgX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5a/c7/92/5ac79222-6f96-2f47-636c-038d056c43ec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:26:09.968Z
+Categories:
+
+
+Name: Aljazary Sales Reps
+Url: https://testflight.apple.com/join/SrTr8pQP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/e5/fa/35e5fa62-9ddb-3e24-f45b-26801cf772ee/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:26:09.995Z
+Categories:
+
+
+Name: Venus Agency
+Url: https://testflight.apple.com/join/Gnxzbexp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/0f/c8/1b0fc810-e2c4-086b-202a-5edefb90b45a/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T05:26:10.022Z
+Categories:
+
+
+Name: Florisium
+Url: https://testflight.apple.com/join/XTBahndu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/88/ae/0388aefe-40d9-c6c5-67ea-9008b7d240bc/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:26:10.050Z
+Categories:
+
+
+Name: SendingMe
+Url: https://testflight.apple.com/join/nGIMz8oy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/94/83/7c9483f6-cc51-72ef-10c0-a701cd7567bc/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:26:10.077Z
+Categories:
+
+
+Name: Magic Ahoi P
+Url: https://testflight.apple.com/join/dvfyC5LH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/d3/f6/51d3f6a4-0b3e-2a46-c79f-9b4e655e3668/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:26:10.105Z
+Categories:
+
+
+Name: Interlink
+Url: https://testflight.apple.com/join/gPYboS6p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/a1/da/61a1da0e-bcb4-088d-dfe9-f062bfb800f4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:26:10.133Z
+Categories:
+
+
+Name: Cambox V3+
+Url: https://testflight.apple.com/join/5EkChLzu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/8d/e3/4d8de3c2-dfa2-21e8-6864-e183db10fc7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:26:10.161Z
+Categories:
+
+
+Name: Noicely.ai
+Url: https://testflight.apple.com/join/Vprynawt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/d8/d6/09d8d6f7-1897-b362-e33f-21d8b054f05c/AppIcon-0-0-1x_U007emarketing-0-5-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:26:10.190Z
+Categories:
+
+
+Name: ReSt
+Url: https://testflight.apple.com/join/RXaPhq53
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/57/ad/5957ad4d-9f64-a16f-1656-cfc5ed966a16/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T05:26:10.217Z
+Categories:
+
+
