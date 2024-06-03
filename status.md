@@ -14389,3 +14389,120 @@ Last Checked: 2024-06-03T22:59:11.635Z
 Categories:
 
 
+Name: Column
+Url: https://testflight.apple.com/join/NhFYL7QH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/b9/08/51b90835-3ce4-42a2-1852-79df9130a2a9/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:00:53.751Z
+Categories:
+
+
+Name: Maqsaf
+Url: https://testflight.apple.com/join/RsP1ztRb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8c/bb/90/8cbb90b4-3a71-72e8-ff6c-08d295ae93dc/AppIcon-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:00:53.778Z
+Categories:
+
+
+Name: SSL VPN
+Url: https://testflight.apple.com/join/kpiDko7I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/58/bd/a158bd51-3762-2f31-f6da-954edd47064e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/200x200bb-8.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T23:00:53.807Z
+Categories:
+
+
+Name: Verus Wallet
+Url: https://testflight.apple.com/join/ZS43lYcw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/47/f4/9a47f4b1-2cc4-b5a7-2551-0f7ff76413bf/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:00:53.834Z
+Categories:
+
+
+Name: Suprime Investrade Hybrid
+Url: https://testflight.apple.com/join/38TQwVBT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/4c/ee/ae4ceef2-f96b-f0cd-a62d-4accfa909017/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:00:53.862Z
+Categories:
+
+
+Name: DocuGive
+Url: https://testflight.apple.com/join/y4QWBRHh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/93/2e/1b/932e1bd0-19c4-02fc-60a5-cf8332a1dde7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:00:53.890Z
+Categories:
+
+
+Name: AFL Official
+Url: https://testflight.apple.com/join/LffL5q9T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/cf/a7/d3cfa7ac-ac8f-c40d-6aa0-5b6a2d5e04f9/AppIcon1-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:00:53.918Z
+Categories:
+
+
+Name: SimpliSplit
+Url: https://testflight.apple.com/join/0oryhdQ4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/b6/95/5db695ec-e2b2-d594-973f-e7cba1ad9d9d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:00:53.946Z
+Categories:
+
+
+Name: Alpenglow: Sunset Prediction
+Url: https://testflight.apple.com/join/61DuEizb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/89/aa/d889aa66-f9a9-f916-9671-2c3fd1c6ed6f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:00:53.974Z
+Categories:
+
+
+Name: Eightup
+Url: https://testflight.apple.com/join/1eml0rrZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9d/a4/3a/9da43a86-6e07-893e-4773-102814c0f018/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:00:54.003Z
+Categories:
+
+
+Name: CAD ePuas UAT
+Url: https://testflight.apple.com/join/uGH0VWpu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/8c/fe/358cfe98-2216-1bed-2d27-a1085126035d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:00:54.031Z
+Categories:
+
+
+Name: Check Point Capsule Workspace
+Url: https://testflight.apple.com/join/oPbBwk8o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/fa/33/60fa3377-55a5-9c9c-336a-2afc19d38086/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:00:54.059Z
+Categories:
+
+
+Name: Fedicat
+Url: https://testflight.apple.com/join/b6GatWTY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/c7/17/48c7172e-ae57-fce9-fda4-064be1446b64/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:00:54.087Z
+Categories:
+
+
