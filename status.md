@@ -7172,3 +7172,120 @@ Last Checked: 2024-06-03T08:31:11.513Z
 Categories:
 
 
+Name: OPENPOINT TEST
+Url: https://testflight.apple.com/join/EOvrOpa9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/f1/6d/e3f16db4-5c3a-922b-0054-e0210bff6b7f/AppIcon_Inhouse-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.502Z
+Categories:
+
+
+Name: Notespaedia
+Url: https://testflight.apple.com/join/7aCjoaPV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/2f/40/2e2f408c-8af0-ee14-6aa5-37697c641e22/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.530Z
+Categories:
+
+
+Name: Brume Wallet
+Url: https://testflight.apple.com/join/WtNNiY98
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/22/ad/9022ad86-7fc9-99c7-cf04-501824ddb5f6/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.557Z
+Categories:
+
+
+Name: Cubric
+Url: https://testflight.apple.com/join/jajh7Sd6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/32/00/de32003c-a280-7a79-056d-ae64f4453bf0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.585Z
+Categories:
+
+
+Name: Orca - RSS x AI English Tutor
+Url: https://testflight.apple.com/join/CM9LumSO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/e7/66/bae766f7-f947-7773-df78-ddf273846358/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.613Z
+Categories:
+
+
+Name: Two-Eyed Seeing for Parents
+Url: https://testflight.apple.com/join/QD2sxMTD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/a4/71/7ca471ab-56b5-50cf-2d67-f64665b48050/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T08:32:13.640Z
+Categories:
+
+
+Name: Freightster
+Url: https://testflight.apple.com/join/LF9YS7kz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/b2/78/ccb2785b-6c55-b8fd-4f07-42ede551ada8/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.669Z
+Categories:
+
+
+Name: Vi Movies & TV - 13 OTTs in 1
+Url: https://testflight.apple.com/join/AHUDbuH0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/82/35/4482351d-0ce2-5cde-b3c3-12fd8fbe4565/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.696Z
+Categories:
+
+
+Name: Apostagram App
+Url: https://testflight.apple.com/join/XQmKYN1t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/77/99/7f7799a3-36bf-17e9-c9c7-0bfb82f834ad/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.725Z
+Categories:
+
+
+Name: DI-Manage
+Url: https://testflight.apple.com/join/jZy4ayXa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/39/89/8a398965-9dfd-587f-8163-4a91003b70f1/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.752Z
+Categories:
+
+
+Name: Mobox Pro
+Url: https://testflight.apple.com/join/zusuXNhi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/5c/5c/365c5c3c-2c6e-390c-7e70-587e6cc7faff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.781Z
+Categories:
+
+
+Name: NOSTRA LOGISTICS ePOD
+Url: https://testflight.apple.com/join/E729A3lz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/e5/a8/f0e5a874-359e-2839-f36e-4ed84be610c4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.809Z
+Categories:
+
+
+Name: Awesome Habits: Habit Tracker
+Url: https://testflight.apple.com/join/4ptd8XuD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/37/02/de/3702de6f-9b00-e320-bcea-b23b428e2a17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T08:32:13.837Z
+Categories:
+
+
