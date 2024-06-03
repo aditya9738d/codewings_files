@@ -25387,3 +25387,120 @@ Last Checked: 2024-06-03T07:04:14.588Z
 Categories:
 
 
+Name: Ultimate: Crypto DeFi Wallet
+Url: https://testflight.apple.com/join/tC4VeB8D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/41/5f/7a415f02-add4-ac69-2f95-05ffc733ed28/AppIcon-0-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.498Z
+Categories:
+
+
+Name: AiCam AI Smart Security Camera
+Url: https://testflight.apple.com/join/iIMNrXye
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/a9/54/40a9545e-1c3f-b2b8-ee04-519bfc602156/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.533Z
+Categories:
+
+
+Name: ELogistic_NorthSardiniaSail
+Url: https://testflight.apple.com/join/7Xi3zfXr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/b2/1f/35b21ff0-623b-f4cd-9f63-9e465aead388/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.568Z
+Categories:
+
+
+Name: Surviving+Thriving
+Url: https://testflight.apple.com/join/DEVSJrzs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/4f/a3/1b4fa351-b2ed-8ce5-8858-b941efb9f946/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.604Z
+Categories:
+
+
+Name: 7-Eleven: Rewards & Shopping
+Url: https://testflight.apple.com/join/aC8uhJd9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f0/2b/5af02b42-dd88-0a52-1291-2ced4db9b1ba/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.640Z
+Categories:
+
+
+Name: Bang & Olufsen
+Url: https://testflight.apple.com/join/Zre8WT18
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/d1/0a/e8d10ad4-eb53-7292-babe-ad1582507438/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.675Z
+Categories:
+
+
+Name: Want 2 Remember
+Url: https://testflight.apple.com/join/Gtv7YJlC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/5c/1c/2d5c1cbe-de2f-cd85-f4d7-3d2c59db517a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.709Z
+Categories:
+
+
+Name: Bull Trades
+Url: https://testflight.apple.com/join/Un88fY3G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/2d/99/802d99fc-f280-6900-9d35-b216d9e765ff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.744Z
+Categories:
+
+
+Name: OptimoRoute Driver
+Url: https://testflight.apple.com/join/ab6UHjP1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/cd/a6/bccda6c0-c2bc-2c32-5054-f52df44e049b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.778Z
+Categories:
+
+
+Name: WEST
+Url: https://testflight.apple.com/join/bzEMdtCY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/81/1f/82811ff8-5f80-81d7-45be-8849130cc7aa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T07:05:21.814Z
+Categories:
+
+
+Name: eCarePlus Staging
+Url: https://testflight.apple.com/join/7kdGUCuv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/0d/a5/7b0da534-7de6-8a4a-d3af-1cdb100ce4a8/AppIcon-0-0-1x_U007ephone-0-9-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.849Z
+Categories:
+
+
+Name: Lefant
+Url: https://testflight.apple.com/join/8TCe5b03
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/30/54/9f305401-f105-8f59-77bc-e98fc90bc6a0/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.884Z
+Categories:
+
+
+Name: Speech Talking Newspaper
+Url: https://testflight.apple.com/join/dZGYHqX3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/66/5f/f2/665ff2ce-154c-d6a9-c9f1-27e2cd6ae521/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:05:21.918Z
+Categories:
+
+
