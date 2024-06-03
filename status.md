@@ -23699,3 +23699,120 @@ Last Checked: 2024-06-03T02:22:11.823Z
 Categories:
 
 
+Name: Alephium Wallet
+Url: https://testflight.apple.com/join/oRHkgVPU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/bb/04/5dbb04c7-9a3d-b965-6f7a-5be6f08c124c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.378Z
+Categories:
+
+
+Name: UU VIET EXPRESS
+Url: https://testflight.apple.com/join/sohtojoG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/0e/87/410e878b-e2dd-c4f8-6608-c93807803fac/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.406Z
+Categories:
+
+
+Name: Mapillary
+Url: https://testflight.apple.com/join/ULVifZEZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/6c/ee/f96ceed3-71c1-5525-8cd9-edc93b4abbe5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.438Z
+Categories:
+
+
+Name: Speak Out+
+Url: https://testflight.apple.com/join/gMUSAk3M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/2e/20/852e2066-1a14-c337-b4cd-6f171b49e948/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.466Z
+Categories:
+
+
+Name: KeyboardKit
+Url: https://testflight.apple.com/join/i46nqNAM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/cd/a2/6bcda2e1-9a6a-ca5b-fa5b-d209c581eb87/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.494Z
+Categories:
+
+
+Name: PLN Mobile
+Url: https://testflight.apple.com/join/DGO1D2kT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/63/39/ea633995-4e00-be84-5d9e-de4d8844a4e8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.522Z
+Categories:
+
+
+Name: AppWage
+Url: https://testflight.apple.com/join/HLMemeqy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/34/42/01344203-dba7-8832-e205-361d34783dc5/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.550Z
+Categories:
+
+
+Name: Nearby AI - GPT 4 Prompts Omni
+Url: https://testflight.apple.com/join/xHGrkViR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f7/1e/42f71ec2-bfb5-9e9b-83c6-8b3572a73dcd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.578Z
+Categories:
+
+
+Name: iPulse
+Url: https://testflight.apple.com/join/ZgvsV8jn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/d8/16/4bd8164f-a90e-d102-bbb9-7976cf299334/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.606Z
+Categories:
+
+
+Name: FLY OYA
+Url: https://testflight.apple.com/join/wcScfBmr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/33/5c/87335c78-15be-ce8f-0c22-278d1c5ac104/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.635Z
+Categories:
+
+
+Name: OpenEarable
+Url: https://testflight.apple.com/join/Kht3e1Cb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/52/38/b05238a2-a708-5f80-48d4-0d7eaa38cce5/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.664Z
+Categories:
+
+
+Name: Diane
+Url: https://testflight.apple.com/join/zSpWn6S0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/37/db/3b37db70-8ffe-a54e-fcc6-c4f13fd8082c/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.693Z
+Categories:
+
+
+Name: LK8386
+Url: https://testflight.apple.com/join/UxJHV2an
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/07/2d/df072d3a-d879-0266-675d-8028b82d65f9/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T02:23:09.721Z
+Categories:
+
+
