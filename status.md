@@ -22850,3 +22850,120 @@ Last Checked: 2024-06-03T10:50:27.095Z
 Categories:
 
 
+Name: Hadge
+Url: https://testflight.apple.com/join/rFLkfNSu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/59/35/c2/5935c2c9-b5e5-be43-633e-d13984739826/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.416Z
+Categories:
+
+
+Name: Grow Rural
+Url: https://testflight.apple.com/join/mhBAdLUe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/88/95/8a/88958a1c-9cbb-1099-c86d-835218787ce5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.451Z
+Categories:
+
+
+Name: Faithlife Study Bible
+Url: https://testflight.apple.com/join/FNWhic7i
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/1f/ac/041fac61-8b81-ae58-24e9-42740dcd93d2/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.486Z
+Categories:
+
+
+Name: MyJuno- Group chat translation
+Url: https://testflight.apple.com/join/17GkczkW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/49/80/df/4980df3f-c46e-001a-de90-2273c0624d62/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.521Z
+Categories:
+
+
+Name: NepTunes for iTunes & Spotify
+Url: https://testflight.apple.com/join/5ZWNA7Mn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/a0/3a/96a03a5a-8b4f-18fd-900d-4c39ee83893b/AppIcon-0-85-220-4-2x-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.556Z
+Categories:
+
+
+Name: Screener Task
+Url: https://testflight.apple.com/join/PrZRzx5d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/80/0e/28800eaa-00ae-7990-087b-108b55315e48/PATIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.591Z
+Categories:
+
+
+Name: 5Chat
+Url: https://testflight.apple.com/join/VZ9DJRQ2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/02/26/4f022689-4f93-256b-e6d4-30ef5675e083/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.626Z
+Categories:
+
+
+Name: Snitch!
+Url: https://testflight.apple.com/join/rjnkyxgl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/bb/48/ecbb4872-76b0-53bc-780b-a40e522fbbff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.660Z
+Categories:
+
+
+Name: SharPay
+Url: https://testflight.apple.com/join/bUjQPXgh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/9b/09/b19b09e2-28fb-7f2e-0001-fa393f2e268b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.695Z
+Categories:
+
+
+Name: WatchTube
+Url: https://testflight.apple.com/join/hiYWRRqq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0c/ad/02/0cad02f2-1286-2110-9e63-bdb6a81d111e/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T10:51:10.730Z
+Categories:
+
+
+Name: Lifetime: TV Shows & Movies
+Url: https://testflight.apple.com/join/teq9lCJC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1d/93/aa1d9319-0313-88e0-1066-c844c1593e32/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.765Z
+Categories:
+
+
+Name: FindMe Show
+Url: https://testflight.apple.com/join/1jsXHD60
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/f5/b0/aff5b0bd-e9e3-0c77-b8f4-245e9907e9ee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.800Z
+Categories:
+
+
+Name: tomedo Praxissoftware
+Url: https://testflight.apple.com/join/SO0klpxy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/07/b1/8407b105-9b66-17ad-8b9c-b04892258bf9/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T10:51:10.835Z
+Categories:
+
+
