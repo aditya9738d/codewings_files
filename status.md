@@ -2806,3 +2806,120 @@ Last Checked: 2024-06-03T12:13:14.278Z
 Categories:
 
 
+Name: Payoo Sandbox
+Url: https://testflight.apple.com/join/pZWZU3Mq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/04/6c/63/046c63f5-d613-87ad-d6bb-ddbd72f21348/AppIcon.sandbox-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T12:14:14.572Z
+Categories:
+
+
+Name: ACE 3.0 DEV
+Url: https://testflight.apple.com/join/nw2c6rbI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/59/2d/d0/592dd00b-6e7e-8564-bd79-447a6bf36523/AppIcon_Beta-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:14:14.609Z
+Categories:
+
+
+Name: RV Trip Co-pilot
+Url: https://testflight.apple.com/join/diODCvtt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/c6/18/27c61807-2c02-b546-0092-9c6784bcb183/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:14:14.646Z
+Categories:
+
+
+Name: iInfringe
+Url: https://testflight.apple.com/join/djyMKWo0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0b/96/f5/0b96f5cc-4093-415d-c620-74fad930e4d9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T12:14:14.682Z
+Categories:
+
+
+Name: Wallet 2.0
+Url: https://testflight.apple.com/join/yzAhUXGV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/fe/67/91fe6719-44bc-0437-9dd1-a01dae0ce35f/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:14:14.718Z
+Categories:
+
+
+Name: Ellie - Daily Planner
+Url: https://testflight.apple.com/join/mX1G5TQi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/77/20/68/77206835-6eb0-5b60-cbdc-0727c9454ebe/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:14:14.754Z
+Categories:
+
+
+Name: Due Tomorrow: Homework Manager
+Url: https://testflight.apple.com/join/qHyEPFME
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/3f/f4/6b3ff4d7-6935-8e98-70a9-19015d2b5443/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T12:14:14.791Z
+Categories:
+
+
+Name: Console Pad
+Url: https://testflight.apple.com/join/ZJulplz9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/34/2f/63342f2b-0355-556e-43d2-f625b9e242d1/AppIcon-0-0-1x_U007emarketing-0-4-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:14:14.827Z
+Categories:
+
+
+Name: Lilu MilkSense Tracker
+Url: https://testflight.apple.com/join/lbZPxnlt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cd/cc/9b/cdcc9bd5-c9ad-d258-7484-766542cae0ee/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:14:14.863Z
+Categories:
+
+
+Name: ViiTalk
+Url: https://testflight.apple.com/join/SRSxjkFr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/ed/08/d1ed084c-6ee8-1ca7-ccd2-aedd32a421d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:14:14.899Z
+Categories:
+
+
+Name: ORION
+Url: https://testflight.apple.com/join/XpsGdvzw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/1b/18/ae1b180a-b9a4-9163-3710-661765cf4b22/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:14:14.935Z
+Categories:
+
+
+Name: NekoChat
+Url: https://testflight.apple.com/join/2LMEm1ZB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/90/d7/33/90d73360-f074-2e14-7585-6ca3a28bb260/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:14:14.972Z
+Categories:
+
+
+Name: Paramita Ban - HRIS
+Url: https://testflight.apple.com/join/bGQosYRT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/11/ab/8511abec-effb-c150-d8c9-f2e030026dac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:14:15.009Z
+Categories:
+
+
