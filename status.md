@@ -11464,3 +11464,120 @@ Last Checked: 2024-06-03T22:31:10.337Z
 Categories:
 
 
+Name: Mi Tigo (Antes Tigo Shop)
+Url: https://testflight.apple.com/join/g95uW7fw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/32/eb/2c32eba9-46bc-5e4d-93b1-db2505e86ec2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.426Z
+Categories:
+
+
+Name: Do The Thing: Tame Your To-Dos
+Url: https://testflight.apple.com/join/zIqOWWjv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/ac/14/efac14b3-6579-d562-aa24-b85c5ec6578b/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.454Z
+Categories:
+
+
+Name: eufy Security
+Url: https://testflight.apple.com/join/c7OS3Cdv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/bc/4d/34bc4d3a-edf4-df6a-2f7f-2fbaa3b84791/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.491Z
+Categories:
+
+
+Name: TDSEE
+Url: https://testflight.apple.com/join/2l0KgzIW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3c/c7/d13cc75d-1ca8-1869-74e9-46a83e35c530/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.520Z
+Categories:
+
+
+Name: MyMoji Keyboard-AI Emoji
+Url: https://testflight.apple.com/join/NoPMTahI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/74/5f/e2745f0c-cc78-ae36-43e8-2c0abcdb2382/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.548Z
+Categories:
+
+
+Name: Pimsleur: Language Learning
+Url: https://testflight.apple.com/join/PAc9Zrpb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/a0/19/e3a019ea-6be8-d238-dfaa-75a9f0787162/AppIcon-1x_U007epad-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T22:32:13.577Z
+Categories:
+
+
+Name: Wanaka Farm
+Url: https://testflight.apple.com/join/jUdIq7tn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c8/c7/0c/c8c70c46-d819-4cc8-c16d-174e0948bc4d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.605Z
+Categories:
+
+
+Name: Mengly J. Quach Education
+Url: https://testflight.apple.com/join/gIEH5SP4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/73/cc/d173cc12-c699-fa12-f012-51517059ae29/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.633Z
+Categories:
+
+
+Name: MyPwr
+Url: https://testflight.apple.com/join/G8r6S2XQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/b2/eb/efb2ebf9-2668-c9c3-db35-1927f5b160f5/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.661Z
+Categories:
+
+
+Name: Hertz Staging
+Url: https://testflight.apple.com/join/kD6BpH5U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/91/ac/5d/91ac5d90-26c0-f078-a4d8-bb9fd7dd2002/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.690Z
+Categories:
+
+
+Name: Velox Nxt
+Url: https://testflight.apple.com/join/S5anQZDI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/5d/81/425d819b-2771-35ec-5b5f-d0ef013bf1ef/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.718Z
+Categories:
+
+
+Name: Die Losungen als Widget
+Url: https://testflight.apple.com/join/CAP2uULs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/a4/60/83a46083-4def-1520-ea1d-68d02c22b094/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.746Z
+Categories:
+
+
+Name: RadisysNavigationTest
+Url: https://testflight.apple.com/join/3O4T7WRe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/fd/d0/07fdd00a-ceba-2a68-cfa0-4836a507f4f0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T22:32:13.773Z
+Categories:
+
+
