@@ -3157,3 +3157,120 @@ Last Checked: 2024-06-03T21:06:09.308Z
 Categories:
 
 
+Name: macadamia for nostr
+Url: https://testflight.apple.com/join/FteRYrAZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a9/63/cc/a963cc43-f15d-c187-cc1f-240808110307/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:08:07.782Z
+Categories:
+
+
+Name: vDemo - Live and Vod Player
+Url: https://testflight.apple.com/join/uzGcVGkr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c0/c0/a9/c0c0a9a7-08a4-7513-2d35-ef8cd83a2950/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:08:07.818Z
+Categories:
+
+
+Name: Spark Work Permit Wallet
+Url: https://testflight.apple.com/join/Njq5JHaP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/5a/95/b75a95c7-c6d8-b915-4fec-866c6ec9c273/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:08:07.854Z
+Categories:
+
+
+Name: Petron Value Card
+Url: https://testflight.apple.com/join/ObJODeKI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/99/30/f9/9930f908-8f03-2f09-ba46-9f816457b9b0/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:08:07.891Z
+Categories:
+
+
+Name: Malachite by crystall1nedev
+Url: https://testflight.apple.com/join/Bj2HlOQV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/81/34/6681343e-a9da-8edb-18b1-696390ccdc3d/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T21:08:07.927Z
+Categories:
+
+
+Name: Smartsupp
+Url: https://testflight.apple.com/join/S3KM7exM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/aa/31/44aa3160-3d34-9694-eb13-e3c04862f86b/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:08:07.963Z
+Categories:
+
+
+Name: Smart-ID demo
+Url: https://testflight.apple.com/join/DoWddZjR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/a6/50/9fa650a1-c488-7b95-8449-02ac7a00251d/AppIconDemo-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:08:07.999Z
+Categories:
+
+
+Name: Nazih Beauty Store
+Url: https://testflight.apple.com/join/1Qik5ETq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/dd/49/59dd49b0-3862-2683-8d37-f65ea29a912e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:08:08.037Z
+Categories:
+
+
+Name: SkillPlayTest
+Url: https://testflight.apple.com/join/5VPHOyOR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/38/d3/6838d305-c48e-693b-645f-276f9c0ddaca/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T21:08:08.072Z
+Categories:
+
+
+Name: DreamsChat
+Url: https://testflight.apple.com/join/9UR8n06D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/3c/6a/f13c6a0f-d1b4-1163-5183-c3b658fe5555/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T21:08:08.108Z
+Categories:
+
+
+Name: MCalendar
+Url: https://testflight.apple.com/join/PPWLmiWG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/62/11/986211b7-5cc5-8b19-3598-0c2edb0c8fc8/Beta2Icon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:08:08.143Z
+Categories:
+
+
+Name: VPN by Private Internet Access
+Url: https://testflight.apple.com/join/cT7GLn1I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/9f/b0/2b9fb048-9e32-d5c6-9e6c-bbf50df5a65a/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T21:08:08.180Z
+Categories:
+
+
+Name: Uzmart Pos
+Url: https://testflight.apple.com/join/UzjRy3Hr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4c/84/df/4c84df9a-b4f7-2eaf-cfaf-bd66099ffa3b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T21:08:08.216Z
+Categories:
+
+
