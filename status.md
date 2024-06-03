@@ -16793,3 +16793,120 @@ Last Checked: 2024-06-03T18:45:28.390Z
 Categories:
 
 
+Name: Daysy
+Url: https://testflight.apple.com/join/hSlpfpd2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6f/71/b2/6f71b2c4-265d-3112-c688-3935e2a6eabc/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T18:46:12.674Z
+Categories:
+
+
+Name: ONE Driver Application
+Url: https://testflight.apple.com/join/4ny3vkgs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/91/9b/00919b2d-f9d3-5fc8-365a-aa4878240e16/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:46:12.709Z
+Categories:
+
+
+Name: VirtualDJ Remote
+Url: https://testflight.apple.com/join/0RISY4X1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/a4/89/e7a489bd-8d9b-0ccb-03bf-dc5b126f422f/AppIcon-0-0-1x_U007emarketing-0-7-0-GLES2_U002c0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T18:46:12.745Z
+Categories:
+
+
+Name: Stern Todo
+Url: https://testflight.apple.com/join/N2pPLJW4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/12/ea/8612ea52-edde-2ef6-c277-0e8095077071/AppIcon-defualt-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:46:12.781Z
+Categories:
+
+
+Name: Unique Health
+Url: https://testflight.apple.com/join/kwlzf7WJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/5b/5e/e25b5efb-419f-109e-25f8-db8741e6c00e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:46:12.816Z
+Categories:
+
+
+Name: SoundHunters App
+Url: https://testflight.apple.com/join/lV32lz89
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/38/9f/84389f13-212b-6aa9-b451-6a46e8b4557b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:46:12.853Z
+Categories:
+
+
+Name: Benchmark Workout Tracker
+Url: https://testflight.apple.com/join/xi23tiNn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/fc/1e/f7fc1ea4-80fc-95ef-d8ba-75bab424aaf0/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T18:46:12.888Z
+Categories:
+
+
+Name: ContinuLink - Mobile Edge
+Url: https://testflight.apple.com/join/4ePdfGYS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/9e/96/ce9e9616-cd4c-bd55-f03a-91ff82196a37/continulinkAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:46:12.924Z
+Categories:
+
+
+Name: CDS UAT
+Url: https://testflight.apple.com/join/zkWqALSD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/d9/16/39d91684-f8e4-d747-c67a-61aa0098e69e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:46:12.959Z
+Categories:
+
+
+Name: Ton Sandbox Wallet
+Url: https://testflight.apple.com/join/wLSfTsyD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/56/2b/89562b4c-ea86-8c46-a68b-80794cbc8fc8/AppIconTestNet-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:46:12.994Z
+Categories:
+
+
+Name: Pepper – Okazje i Kupony
+Url: https://testflight.apple.com/join/mpP6T6MN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/31/05/48310573-67c5-ed26-bbde-585a8550584a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:46:13.030Z
+Categories:
+
+
+Name: PosPosPos
+Url: https://testflight.apple.com/join/8KMKs54Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/4b/77/4b4b77ea-e870-f997-dbd0-7cca4b135f8b/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:46:13.065Z
+Categories:
+
+
+Name: Glucose Direct
+Url: https://testflight.apple.com/join/dWDt5Wme
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/96/63/8496637e-c910-ece0-2c51-870ce9db5c0a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T18:46:13.101Z
+Categories:
+
+
