@@ -11698,3 +11698,120 @@ Last Checked: 2024-06-03T05:07:10.690Z
 Categories:
 
 
+Name: Alta Networks
+Url: https://testflight.apple.com/join/jbfXiKNg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/9d/35/e59d3579-0e49-523d-567f-2fbacabcf020/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:11.850Z
+Categories:
+
+
+Name: Write GT
+Url: https://testflight.apple.com/join/ZmKo5CMy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/46/cd/9846cd67-8ca5-f5f0-1ab0-550753061b83/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:11.886Z
+Categories:
+
+
+Name: Can of Soup
+Url: https://testflight.apple.com/join/mUGNMWLC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/91/e7/4c91e757-7cee-135e-05e8-e4214ecced3f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:11.922Z
+Categories:
+
+
+Name: Webful PasswordMaker
+Url: https://testflight.apple.com/join/3MnAJg3Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/14/5ad51457-15b9-f9dc-eb9a-cf1d56f33a23/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:11.958Z
+Categories:
+
+
+Name: cosinuss° Health
+Url: https://testflight.apple.com/join/icq0eiiq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/67/81/4467815c-c0d8-4564-7542-2735824ee894/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:11.993Z
+Categories:
+
+
+Name: Prowork
+Url: https://testflight.apple.com/join/x0ZYdEfu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/ea/dd/c8eaddfb-1419-e676-6bbf-d3d89f6096ce/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:12.028Z
+Categories:
+
+
+Name: Newsfreak Demo
+Url: https://testflight.apple.com/join/mFGxNnRM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/7c/c8/067cc882-2dd5-5c41-e3e7-fb5900359cad/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:12.064Z
+Categories:
+
+
+Name: Filwallet
+Url: https://testflight.apple.com/join/wG5UVUbI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/75/95/8575958b-7f23-4d50-b75b-4085dd8e299e/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:12.099Z
+Categories:
+
+
+Name: Tailor - A.I. for news
+Url: https://testflight.apple.com/join/jlQPI7I8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/b2/6f/d7b26f32-6953-1585-965d-a86c442f7a03/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:12.135Z
+Categories:
+
+
+Name: AutoTempest - Car Search
+Url: https://testflight.apple.com/join/TkiavMax
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/d9/ec/abd9ece0-32a1-65a6-14cf-ccae74ab9cb3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:12.172Z
+Categories:
+
+
+Name: a-Shell mini
+Url: https://testflight.apple.com/join/REdHww5C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/68/5b/74/685b7479-0933-aef4-8002-8a8285fc8c3b/AppIcon-mini-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:12.209Z
+Categories:
+
+
+Name: KareKimlik-PiLoT
+Url: https://testflight.apple.com/join/nLFmTF3Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ed/42/74/ed4274ab-ea64-1f3d-81f6-d2230f2c1bab/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:12.245Z
+Categories:
+
+
+Name: ETHOS.PLUS
+Url: https://testflight.apple.com/join/O8aJHZhE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/70/ba/3f/70ba3fcf-4353-d807-13b1-3fcd28798cf9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:08:12.282Z
+Categories:
+
+
