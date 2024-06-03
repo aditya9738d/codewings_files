@@ -12166,3 +12166,120 @@ Last Checked: 2024-06-03T05:11:08.800Z
 Categories:
 
 
+Name: EZFare
+Url: https://testflight.apple.com/join/priE8rm1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/36/7f/47367f3d-38de-9a57-6243-9a6c3924ba6d/AppIcon-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:12:10.917Z
+Categories:
+
+
+Name: Warranty+
+Url: https://testflight.apple.com/join/nWLuICPs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/8d/2a/9b8d2a9b-ee42-c272-9829-320c97cb2c1e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:12:10.945Z
+Categories:
+
+
+Name: DM Event Scanner
+Url: https://testflight.apple.com/join/WJ4n5rKy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/20/07/292007d7-0b30-d190-9a1f-bbfb3e7edb12/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:12:10.972Z
+Categories:
+
+
+Name: AlchemCharts
+Url: https://testflight.apple.com/join/4PazuisX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/99/47/a29947e7-0d52-285b-c860-a0d1104d9393/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:12:10.999Z
+Categories:
+
+
+Name: Organic Maps: Offline Map
+Url: https://testflight.apple.com/join/lrKCl08I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/be/24/ddbe2468-c2af-2ea8-a5a5-803374515b5a/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:12:11.027Z
+Categories:
+
+
+Name: RunCline
+Url: https://testflight.apple.com/join/lreTEZW3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/47/0f/e1470f34-4076-1bf9-aaea-9fc59cfc95a2/AppIcon-1-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T05:12:11.055Z
+Categories:
+
+
+Name: Audit Manager – EPA Soluzioni
+Url: https://testflight.apple.com/join/KEfWx74F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/3d/bd/ca3dbde6-90d5-ee06-7dd8-3d183e0fba98/AppIconsEPASoluzioni-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:12:11.084Z
+Categories:
+
+
+Name: 88 Mobile
+Url: https://testflight.apple.com/join/x5t2hBvy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/21/92/ae2192e3-0b06-3f32-d441-3fc013f895c1/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:12:11.112Z
+Categories:
+
+
+Name: ProdataKey
+Url: https://testflight.apple.com/join/OHwTybsU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/24/02/76240261-04f2-0b8f-d981-50a96ee41baa/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T05:12:11.140Z
+Categories:
+
+
+Name: Current Craze
+Url: https://testflight.apple.com/join/z11YdMOn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/d7/df/0dd7df4d-437a-eca9-ab22-b3c9f2b34302/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:12:11.168Z
+Categories:
+
+
+Name: RR Mine - IPFS & BTC Hashrate
+Url: https://testflight.apple.com/join/2KkOuBKi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d1/99/7a/d1997a2f-8f27-0a95-45e1-1a8898cc62d6/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:12:11.197Z
+Categories:
+
+
+Name: Unicash
+Url: https://testflight.apple.com/join/OdsdTx2R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/3b/b8/e53bb836-6467-bfb7-43b5-6101a92106ce/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:12:11.225Z
+Categories:
+
+
+Name: Grabpenny: Earn Daily Rewards
+Url: https://testflight.apple.com/join/0nDWZbzg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/10/1c/e5101ce6-f57b-6af5-3e61-999767765933/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:12:11.253Z
+Categories:
+
+
