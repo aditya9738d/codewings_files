@@ -4093,3 +4093,120 @@ Last Checked: 2024-06-03T12:26:12.394Z
 Categories:
 
 
+Name: DiTing
+Url: https://testflight.apple.com/join/GmwBJGf0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/31/d1/0731d126-650a-4761-0d26-dac5ada276c4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:10.760Z
+Categories:
+
+
+Name: Responserack Responder
+Url: https://testflight.apple.com/join/0gOiG1eB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/f0/59/d6f05909-1b93-108c-93c4-adac180d9970/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:10.787Z
+Categories:
+
+
+Name: NguonHang Vip
+Url: https://testflight.apple.com/join/qr9Tsu8g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/98/0f/9d980fbb-2198-7f7d-ff6e-8be5ad1bf221/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:10.814Z
+Categories:
+
+
+Name: Ingeek Premium
+Url: https://testflight.apple.com/join/R9qe1svW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cd/47/6f/cd476f6e-a850-cbda-5ffa-9e6bb4e7efa0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:10.842Z
+Categories:
+
+
+Name: Lissi ID-Wallet
+Url: https://testflight.apple.com/join/9AWbZISv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/eb/16/43eb164e-8736-fc53-1912-be5b81199ee1/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:10.869Z
+Categories:
+
+
+Name: On Pro
+Url: https://testflight.apple.com/join/HVyKinMd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/40/5f/e3405f9c-e17e-213a-e6ea-082e7a16e279/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:10.897Z
+Categories:
+
+
+Name: Obzervr Capture
+Url: https://testflight.apple.com/join/75kkKXrm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/78/de/3f78de6b-c623-7c8f-cf17-a4a2404e1eef/AppIcons-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:10.925Z
+Categories:
+
+
+Name: VideoJet
+Url: https://testflight.apple.com/join/K6Ikagh8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/41/ab/1c41ab73-b72f-e83a-4e21-4516b9e70738/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:10.952Z
+Categories:
+
+
+Name: Mooncake
+Url: https://testflight.apple.com/join/kJrjwmGr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/c8/9f/fec89f00-17c2-eba4-208c-ca3795e1ff2c/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:10.979Z
+Categories:
+
+
+Name: Sygic GPS Navigation & Maps
+Url: https://testflight.apple.com/join/nCaOJH8P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/a1/d4/5aa1d492-1d1d-1921-b23b-6de23cfdc6e1/AllRegion-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:11.006Z
+Categories:
+
+
+Name: KA Power Boss
+Url: https://testflight.apple.com/join/WRXz6hFA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/1a/f4/2e1af41e-65bd-b172-355d-3a50fc309ec9/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:11.034Z
+Categories:
+
+
+Name: Demo 3 - enCappture
+Url: https://testflight.apple.com/join/8V7poWDO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/b1/35/9cb135ad-9345-6a63-dc7d-c14d50e52b6d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:27:11.061Z
+Categories:
+
+
+Name: InfoWear
+Url: https://testflight.apple.com/join/n0uOZqYR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/fc/ee/e5fcee04-6b9c-714a-5b21-a977fa32fc1b/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-03T12:27:11.088Z
+Categories:
+
+
