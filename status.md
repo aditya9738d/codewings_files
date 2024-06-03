@@ -10528,3 +10528,120 @@ Last Checked: 2024-06-03T04:56:11.117Z
 Categories:
 
 
+Name: Proactive For Her: Self Care
+Url: https://testflight.apple.com/join/mVOfY5ic
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cc/63/d4/cc63d4d5-d479-6812-47f3-2285df84b923/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:57:09.836Z
+Categories:
+
+
+Name: Accsoon SEE
+Url: https://testflight.apple.com/join/yyVzDjMr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/8f/d9/ec8fd986-4cf0-ec72-94e6-ed27c287868b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:57:09.872Z
+Categories:
+
+
+Name: Day One Journal: Private Diary
+Url: https://testflight.apple.com/join/NXLBigzY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/9f/20/a69f20c0-50fb-3ac6-cec9-26d1f1edb8f9/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:57:09.907Z
+Categories:
+
+
+Name: VicoHome: Security Camera App
+Url: https://testflight.apple.com/join/06EL17z2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0d/e9/14/0de914ef-a647-c476-f58d-16026efa2891/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:57:09.942Z
+Categories:
+
+
+Name: Sublime Internet
+Url: https://testflight.apple.com/join/6awQ3Pp2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/55/46/a8554638-1bfe-9084-1f6e-0cb09029003d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:57:09.978Z
+Categories:
+
+
+Name: AQX Trader UAT
+Url: https://testflight.apple.com/join/AhlTSBxZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/99/c6/2a99c616-8cc6-8f45-2cd0-25210952da4c/Aquariux-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:57:10.013Z
+Categories:
+
+
+Name: NPRA
+Url: https://testflight.apple.com/join/2Ew7lAMn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/9e/98/ba9e98db-9395-e84e-0429-246968a827f9/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:57:10.048Z
+Categories:
+
+
+Name: Komodo Mobile Crypto Wallet
+Url: https://testflight.apple.com/join/c2mOLEoC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/e3/d9/0fe3d91a-89a0-ba49-fa73-d12547c7731f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T04:57:10.084Z
+Categories:
+
+
+Name: Owaves: My Body Clock
+Url: https://testflight.apple.com/join/ashWLQMS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/c1/fb/a1c1fbd3-6ce3-8a85-0551-8c8e413326e9/AppIcon-3-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:57:10.120Z
+Categories:
+
+
+Name: Castmagic Companion
+Url: https://testflight.apple.com/join/s47OVZOS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ed/d0/0fedd064-5889-bcea-9b0c-6cdc5639f4d8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:57:10.154Z
+Categories:
+
+
+Name: VRBT
+Url: https://testflight.apple.com/join/g9motzTy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/1b/dd/841bdda1-4ce1-336a-370b-10e0f3575128/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:57:10.189Z
+Categories:
+
+
+Name: BioMobile Staging
+Url: https://testflight.apple.com/join/4LOSpEHi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/3c/08/c13c0877-081e-f504-3f94-80990f4572c2/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:57:10.224Z
+Categories:
+
+
+Name: Travereel
+Url: https://testflight.apple.com/join/TtvTURQD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/44/2c/73/442c73a1-21f1-6a04-d3fa-92d30db607d5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T04:57:10.260Z
+Categories:
+
+
