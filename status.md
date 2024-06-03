@@ -4010,3 +4010,121 @@ Last Checked: 2024-06-03T08:04:12.281Z
 Categories:
 
 
+Name: Fugl
+Url: https://testflight.apple.com/join/bZIZeB4N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/61/9b/3b619b15-4e0b-e2f4-c6f4-e702a63f8e87/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 71
+Beta Available: open
+Last Checked: 2024-06-03T08:05:21.609Z
+Categories:
+
+
+Name: Symbol Wallet
+Url: https://testflight.apple.com/join/oKCyZkRa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/53/8e/d2538eeb-f29e-2151-89ea-872e08ac62a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 21
+Beta Available: open
+Last Checked: 2024-06-03T08:05:21.644Z
+Categories:
+
+
+Name: Devomon Callisto
+Url: https://testflight.apple.com/join/zP1EuUwb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c7/4e/fe/c74efe98-b367-5262-1b1f-f1c445096766/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 21
+Beta Available: open
+Last Checked: 2024-06-03T08:05:21.680Z
+Categories:
+
+
+Name: Midicircuit
+Url: https://testflight.apple.com/join/pNyAUEac
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/b0/25/a0b025f5-5417-9497-8ed9-069eca225e31/AppIcon_-_iOS-beta-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 8
+Beta Available: not accepting
+Last Checked: 2024-06-03T08:05:21.716Z
+Categories:
+
+
+Name: Pikamoon
+Url: https://testflight.apple.com/join/YBKQzFTx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/15/50/e4155011-945f-10ed-0d6c-930fc746ca63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 22
+Beta Available: open
+Last Checked: 2024-06-03T08:05:21.752Z
+Categories:
+
+
+Name: Djablobeats
+Url: https://testflight.apple.com/join/gLcQh8g3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/d4/95/b7d495e9-fd8c-b11c-386f-208da8e62dad/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 32
+Beta Available: open
+Last Checked: 2024-06-03T08:05:21.788Z
+Categories:
+
+
+Name: Her AI Chat
+Url: https://testflight.apple.com/join/vYkfwoti
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/5d/f0/805df00e-999b-5aba-918e-c413dbe1deda/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 46
+Beta Available: open
+Last Checked: 2024-06-03T08:05:21.823Z
+Categories:
+- Ai
+- Chat
+
+Name: FinEasy
+Url: https://testflight.apple.com/join/uXyp7xTM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/2f/e9/ca2fe9fd-468a-2d25-0346-5e599c936f81/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 13
+Beta Available: open
+Last Checked: 2024-06-03T08:05:21.859Z
+Categories:
+
+
+Name: okane – Currency Converter
+Url: https://testflight.apple.com/join/esER74k0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/f5/07/46f50750-a053-3c28-351d-7a3eaed42a52/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T08:05:21.898Z
+Categories:
+
+
+Name: Zincir Market
+Url: https://testflight.apple.com/join/S2QCk2zj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/df/e7/76dfe76e-370e-8ff9-c696-6b1a4401dd42/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-03T08:05:21.934Z
+Categories:
+
+
+Name: Gird
+Url: https://testflight.apple.com/join/eQLqqX9o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/32/7e/f1327e17-7579-bb85-94d0-2bd372ebc1bf/prodAppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-03T08:05:21.969Z
+Categories:
+
+
+Name: Zealer
+Url: https://testflight.apple.com/join/m0qGxEPZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/92/1f/1c921f2f-a78c-e67c-d7ee-27e01fc66480/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 57
+Beta Available: open
+Last Checked: 2024-06-03T08:05:22.005Z
+Categories:
+
+
+Name: WOW: Wars of Wanon
+Url: https://testflight.apple.com/join/UZ4tYFb6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/dc/19/77dc19eb-dfee-43e9-0168-6f77859262b0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T08:05:22.041Z
+Categories:
+
+
