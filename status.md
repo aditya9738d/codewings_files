@@ -25270,3 +25270,120 @@ Last Checked: 2024-06-03T15:33:09.622Z
 Categories:
 
 
+Name: Sky Lifestyle
+Url: https://testflight.apple.com/join/T4bvLMx1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/8e/bb/3d8ebbf9-b074-21be-fdb3-74a9dc9eee20/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.624Z
+Categories:
+
+
+Name: SkyReachers
+Url: https://testflight.apple.com/join/extTJTTt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/7f/d8/4d7fd8c9-a404-9d54-8c7b-e1c224c9653e/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.653Z
+Categories:
+
+
+Name: SkySeat-Alpha
+Url: https://testflight.apple.com/join/rUfzP4VA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/16/3a/dc163a9b-2da3-99e1-0451-b7c3f7506b62/AppIcon-Alpha-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.681Z
+Categories:
+
+
+Name: Sleep Cycle - Sleep Tracker
+Url: https://testflight.apple.com/join/8RcEFqFF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/7f/2e/e37f2e02-0795-7f54-c116-87dc1f484f63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T15:34:11.709Z
+Categories:
+
+
+Name: SleepNote Pro
+Url: https://testflight.apple.com/join/TOTxD1i6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/37/65/9b37657c-3599-bb4d-5f6a-adf8013f6615/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.738Z
+Categories:
+
+
+Name: Smalo
+Url: https://testflight.apple.com/join/ssbju4XJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d1/d2/15/d1d215b1-d66c-f1a1-14d0-13a6f4796e58/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.767Z
+Categories:
+
+
+Name: Smart Card Utility
+Url: https://testflight.apple.com/join/eMO0PY8T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/10/4a/55104a4b-79dc-670b-cdbe-094006f759fd/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.796Z
+Categories:
+
+
+Name: Smart Card Utility AVP
+Url: https://testflight.apple.com/join/3J4RfCfp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/78/9a/a1789aa7-6087-cbd4-bbba-f90056fbfc05/AppIconVP.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.825Z
+Categories:
+
+
+Name: Smart Card Utility Browser
+Url: https://testflight.apple.com/join/tqE9oCTS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/af/f6/8baff69e-58a1-c2a3-ff91-5286af4676d4/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.854Z
+Categories:
+
+
+Name: Smart Duel Disk
+Url: https://testflight.apple.com/join/eBlsGP1I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/6a/61/1c6a61c8-fb4f-4918-ad8d-a0380cf41fa6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.882Z
+Categories:
+
+
+Name: Smart Duel Gazer
+Url: https://testflight.apple.com/join/3eAV5YYt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d9/74/7f/d9747f58-8770-431a-c4d6-d057c4c9ff40/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.911Z
+Categories:
+
+
+Name: Smart-Travel
+Url: https://testflight.apple.com/join/PwBJ6Clz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/0a/d9/7d0ad9d4-5dfe-bc04-b551-9efa257ede6b/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.940Z
+Categories:
+
+
+Name: SmartLoop
+Url: https://testflight.apple.com/join/qSgJB0pI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/5e/b9/db5eb996-4adf-4d08-87fe-e6f5f3a55377/AppIcon-SmartLoop-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T15:34:11.969Z
+Categories:
+
+
