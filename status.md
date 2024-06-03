@@ -7720,3 +7720,120 @@ Last Checked: 2024-06-03T12:58:12.666Z
 Categories:
 
 
+Name: Diabetes Food Tracker SugarBot
+Url: https://testflight.apple.com/join/DALmJA8b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/cf/35/3ecf3518-5f1d-71cd-30b3-7b373e7ac3f5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T12:59:10.794Z
+Categories:
+
+
+Name: Guardian Vietnam
+Url: https://testflight.apple.com/join/leNrAtEw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/b7/45/96b74564-6fe5-3572-dba1-39fb54fa21c8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:10.823Z
+Categories:
+
+
+Name: GMG Prime App
+Url: https://testflight.apple.com/join/fe0Wzx77
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/0d/03/0f0d0308-7910-b169-7d78-8b7d38183847/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:10.851Z
+Categories:
+
+
+Name: Equel Multilingual Communities
+Url: https://testflight.apple.com/join/ITlbxYYG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/9c/32/539c322a-cf1c-146c-9d43-76e836b37a19/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:10.879Z
+Categories:
+
+
+Name: SuperCycle Bike Computer
+Url: https://testflight.apple.com/join/zFer65Bt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/69/86/846986de-6827-a197-d7a8-b5dde3895466/AppIcon-free-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:10.908Z
+Categories:
+
+
+Name: MyTherapy: Medication Reminder
+Url: https://testflight.apple.com/join/fm9mu1wl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/66/91/69669155-8381-f79a-dbef-4a785cc2dcd1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:10.936Z
+Categories:
+
+
+Name: Pluto TV (Debug)
+Url: https://testflight.apple.com/join/Jdg2lENi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/ff/86/2dff86f8-14b9-4e67-242c-8d03057c2f57/AppIcon-debug-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:10.964Z
+Categories:
+
+
+Name: Moon Chai Story
+Url: https://testflight.apple.com/join/NBawcyz6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/43/31/8a/43318af3-cc4a-110e-16e4-73eaa1bc36fd/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:10.993Z
+Categories:
+
+
+Name: radiko staging
+Url: https://testflight.apple.com/join/xGZID8vo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/10/5e/ff105ef4-5646-ebfe-5fc6-cf687e1c0777/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:11.021Z
+Categories:
+
+
+Name: Agora Chat
+Url: https://testflight.apple.com/join/MO0UuYJH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/36/7d/58367dee-44a1-fdc4-d240-a0126014b394/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:11.050Z
+Categories:
+
+
+Name: World Clock Time Zone Widgets
+Url: https://testflight.apple.com/join/W4icDq8K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/8d/4f/358d4fb3-8afb-1ae4-cad5-75bea6b9daf5/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:11.078Z
+Categories:
+
+
+Name: imag!n
+Url: https://testflight.apple.com/join/iMSqWMNV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/43/e4/4943e421-75c4-df7c-a187-fa1a8187f519/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:11.107Z
+Categories:
+
+
+Name: HaloBites Dashboard
+Url: https://testflight.apple.com/join/D3gBmaPk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/c1/6d/2ec16df5-e53b-279c-afae-75c59844a2af/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T12:59:11.135Z
+Categories:
+
+
