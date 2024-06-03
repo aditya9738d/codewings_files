@@ -15676,3 +15676,120 @@ Last Checked: 2024-06-03T14:10:27.447Z
 Categories:
 
 
+Name: Buni Island
+Url: https://testflight.apple.com/join/YAyTbCoq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/83/f9/56/83f9560e-ae81-f496-8945-2f995375ff68/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:11:10.097Z
+Categories:
+
+
+Name: Bunny Box
+Url: https://testflight.apple.com/join/wAdEflwn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6f/ca/8d/6fca8d79-930b-edbb-d981-14be9ff21d3c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:11:10.125Z
+Categories:
+
+
+Name: Burraco points taker
+Url: https://testflight.apple.com/join/4ZXsaaqC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/cf/f4/e8cff445-b607-1488-cb14-cb017f9b7c13/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:11:10.153Z
+Categories:
+
+
+Name: Business Directory App
+Url: https://testflight.apple.com/join/ohQfpQgK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/87/0a/2b870ac4-eacf-bff2-aea2-cb30ee8c7a03/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:11:10.181Z
+Categories:
+
+
+Name: BuzzFeed - Quiz, Trivia & News
+Url: https://testflight.apple.com/join/P529XpjS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/a0/74/33a07407-4631-dc95-0aa0-62e5efd891dc/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:11:10.209Z
+Categories:
+
+
+Name: Byndr Social
+Url: https://testflight.apple.com/join/nKblMzL3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/48/67/19/486719fd-e26a-bb9c-c5ee-e04b5475427a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:11:10.238Z
+Categories:
+
+
+Name: Byte Exchange Bitcoin & Crypto
+Url: https://testflight.apple.com/join/uBgc4M2B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/07/1c/42071ca3-3920-18b2-b575-57afafdffa1b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:11:10.266Z
+Categories:
+
+
+Name: C6HAWK
+Url: https://testflight.apple.com/join/NIjFX1cX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/8a/d4/8a8ad404-1974-140e-069e-f589163d0b75/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:11:10.295Z
+Categories:
+
+
+Name: CAMP Pk
+Url: https://testflight.apple.com/join/YJStBNvD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a3/b0/ca/a3b0caae-1807-c73c-c5e0-565cc119b778/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:11:10.323Z
+Categories:
+
+
+Name: CARES4WOUNDS C4W-B
+Url: https://testflight.apple.com/join/GRUNKVmx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/5f/2d/175f2dad-ecf4-469c-8573-dc3f926cbfe8/c4wb_app_icon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:11:10.351Z
+Categories:
+
+
+Name: CATTLEytics
+Url: https://testflight.apple.com/join/7lHgKiJP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/79/10/5079109f-086a-4bf6-bd28-438a01beb45d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:11:10.379Z
+Categories:
+
+
+Name: CBChoice
+Url: https://testflight.apple.com/join/Gh5tKqWn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/fd/5c/a4fd5c84-b2fb-f108-7230-0b753a7f66f5/AppIcon_1-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:11:10.408Z
+Categories:
+
+
+Name: CBLife
+Url: https://testflight.apple.com/join/exN2uLeo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/70/c4/d770c477-ca75-62d7-3d3a-df96216225dc/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:11:10.435Z
+Categories:
+
+
