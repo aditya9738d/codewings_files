@@ -15091,3 +15091,120 @@ Last Checked: 2024-06-03T14:05:18.628Z
 Categories:
 
 
+Name: Be Better - #1 Feedback App
+Url: https://testflight.apple.com/join/omVEGyIb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/82/68/cd826869-dcc9-b131-aab0-d83e713d4cf2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:06:10.186Z
+Categories:
+
+
+Name: BeBetta
+Url: https://testflight.apple.com/join/C0c0qfug
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/d8/b2/0cd8b2de-9568-b7a6-4f53-084fb5188ed8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-03T14:06:10.215Z
+Categories:
+
+
+Name: Beautics
+Url: https://testflight.apple.com/join/SgmfB2be
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/15/fd/e515fd6b-def4-8861-6658-7a47aec000e9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:06:10.245Z
+Categories:
+
+
+Name: Beezle Social
+Url: https://testflight.apple.com/join/Da72PT6N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/a5/46/58a54669-d4e1-c899-7422-26ab8e5e618e/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:06:10.274Z
+Categories:
+
+
+Name: Bein MEDICINE
+Url: https://testflight.apple.com/join/ZAyqT6sp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/71/5b/9e715b20-a375-e6fc-ccbf-4bf3407ae014/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:06:10.302Z
+Categories:
+
+
+Name: Belong - NFT Tickets & Events
+Url: https://testflight.apple.com/join/MLRsYDa5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/81/f7/d481f7b1-833c-40e0-7c4c-f33faf2d362d/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:06:10.332Z
+Categories:
+
+
+Name: BenThanh Group
+Url: https://testflight.apple.com/join/QVgal1IA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/46/f0/b046f099-ad37-518a-25fc-ea01a87dc80f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:06:10.360Z
+Categories:
+
+
+Name: BetHQ | AI Picks & Analysis
+Url: https://testflight.apple.com/join/K8lUrMKk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/6e/a7/3b6ea78b-d1be-13ca-af8e-6f2b72147e7e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-03T14:06:10.389Z
+Categories:
+
+
+Name: BetterWorrld
+Url: https://testflight.apple.com/join/XmET9old
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/dd/d0/baddd04a-f0a3-b7fe-5448-a30c935fcf64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:06:10.418Z
+Categories:
+
+
+Name: BiRong Shape
+Url: https://testflight.apple.com/join/NugkDdGl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/66/9f/f9/669ff9e9-8937-8d5b-2f3c-7f87f1310de9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:06:10.447Z
+Categories:
+
+
+Name: Bibe: Order Drinks
+Url: https://testflight.apple.com/join/NEVmtOua
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/8e/90/a38e9060-53a6-60e2-62ed-5fdb9c5c09a1/AppIcon-1x_U007ephone-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:06:10.475Z
+Categories:
+
+
+Name: BibleLines
+Url: https://testflight.apple.com/join/X52x9V0g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/f8/36/f0f83654-0df3-4d91-47e7-5f36cf0393a4/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:06:10.504Z
+Categories:
+
+
+Name: Big Days: Cards & Flowers
+Url: https://testflight.apple.com/join/wKY4eYV8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/c0/7f/f5c07f97-cff0-599e-1c3e-0387e20328f6/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:06:10.532Z
+Categories:
+
+
