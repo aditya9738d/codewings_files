@@ -11113,3 +11113,120 @@ Last Checked: 2024-06-03T05:02:12.659Z
 Categories:
 
 
+Name: Crouton: Recipe Manager
+Url: https://testflight.apple.com/join/jwtQpV11
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/f7/48/e9f7480d-60df-703c-2b71-0acb6912c4c6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.084Z
+Categories:
+
+
+Name: ABA Simulator
+Url: https://testflight.apple.com/join/HNyq7UCm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3e/15/1f/3e151f59-3484-77a0-744a-d958bab6ad6c/AppIconSimulator-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.112Z
+Categories:
+
+
+Name: ACCIONA Linked Site - Dev
+Url: https://testflight.apple.com/join/G8YHVAJM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/af/ae/79afae89-ace3-438c-fa63-cca137866356/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.140Z
+Categories:
+
+
+Name: Vice Streaming
+Url: https://testflight.apple.com/join/yeg3HaSe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/44/d0/ff/44d0ff69-99ce-9343-18b1-1c6974f8d78b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.168Z
+Categories:
+
+
+Name: MyFriday - Official
+Url: https://testflight.apple.com/join/HFnLbCeN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/94/23/7e/94237e68-7765-2431-520b-220a8446cb30/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T05:03:11.195Z
+Categories:
+
+
+Name: Zapry - Web3 Social Platform
+Url: https://testflight.apple.com/join/SmkcFDVx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/69/34/52693421-e193-90cf-9149-006a2d9a9cb0/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.224Z
+Categories:
+
+
+Name: EverBank Mobile Banking
+Url: https://testflight.apple.com/join/1rMRvGT1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/2c/eb/fb2ceba0-9798-d64f-7d11-1ce2adbd064b/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.252Z
+Categories:
+
+
+Name: RegioBank
+Url: https://testflight.apple.com/join/BVkiZacv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/ad/63/d7ad6301-057e-adec-98c5-29e0114aecba/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.280Z
+Categories:
+
+
+Name: Jurnalle
+Url: https://testflight.apple.com/join/rpiFzOZF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/00/e7/5d/00e75d08-1adf-1b23-49b0-c9838442f485/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.308Z
+Categories:
+
+
+Name: Retail Suite
+Url: https://testflight.apple.com/join/kuVd8Fuq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/a8/aa/a0a8aac7-3428-ca90-6dcb-bd6e85839135/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.337Z
+Categories:
+
+
+Name: NextStats
+Url: https://testflight.apple.com/join/9a4X8KBQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/7e/92/527e92c0-225f-b1e9-e736-ab29db6c2c68/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.365Z
+Categories:
+
+
+Name: vokiemus
+Url: https://testflight.apple.com/join/sbLruW6l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/14/27/af1427a8-26c8-8916-1513-486cbc70afa3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.393Z
+Categories:
+
+
+Name: iDMS.Nazzy
+Url: https://testflight.apple.com/join/sWI9SK87
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/91/56/b9915624-71e6-4059-9bb7-c820ff8ade81/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T05:03:11.421Z
+Categories:
+
+
