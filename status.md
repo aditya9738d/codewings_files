@@ -16091,3 +16091,120 @@ Last Checked: 2024-06-03T18:38:11.389Z
 Categories:
 
 
+Name: FlipMe Demo App
+Url: https://testflight.apple.com/join/rzlfFfWF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/30/ab/7230ab4d-a6f8-2fb7-a6a1-1a89a53511d0/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.220Z
+Categories:
+
+
+Name: Lemio: Dopamine Phone Detox
+Url: https://testflight.apple.com/join/aOhPP9qo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/7b/99/b47b9937-ca46-fe32-a625-5c117a47fec1/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.257Z
+Categories:
+
+
+Name: Oxzo
+Url: https://testflight.apple.com/join/dqOthlXx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/00/51/a900512a-602f-1c63-1e08-6399da900b72/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.293Z
+Categories:
+
+
+Name: Black Star - A better way.
+Url: https://testflight.apple.com/join/wyj4keKZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/88/e5/9f88e5db-6e76-e7f2-9faa-b12737ea21be/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.329Z
+Categories:
+
+
+Name: ZeroPuttPlus-Dev
+Url: https://testflight.apple.com/join/F0lttrj5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/f1/61/2af1610f-c58f-a421-f31d-997ff9327d82/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.366Z
+Categories:
+
+
+Name: RPA
+Url: https://testflight.apple.com/join/RlR36eh0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/9f/e9/6c9fe96e-df55-39f6-9bcd-da305db8adae/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.401Z
+Categories:
+
+
+Name: Royale Town
+Url: https://testflight.apple.com/join/d7TDODwA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/0a/d8/b30ad800-9234-4a91-2eb3-76a8a7222462/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.437Z
+Categories:
+
+
+Name: GoRide Drivers
+Url: https://testflight.apple.com/join/yph352IB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/10/4f/fd104fbd-35b9-5d8c-e7a9-9545e6ca93a5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.473Z
+Categories:
+
+
+Name: CopyPad
+Url: https://testflight.apple.com/join/MD3Ossnz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/d3/65/bbd365bd-25f1-b193-6287-90fcddfacef4/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.509Z
+Categories:
+
+
+Name: TRADEFOOX
+Url: https://testflight.apple.com/join/PiKfy0IT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/7a/73/d27a7379-dfae-beb3-2cf7-fd8d6f4b4b69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.544Z
+Categories:
+
+
+Name: XHalo
+Url: https://testflight.apple.com/join/BHvi2YkW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/3a/98/793a981c-3491-6d0b-916e-41274c7afbdb/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.580Z
+Categories:
+
+
+Name: Shiba Rush
+Url: https://testflight.apple.com/join/LXeDLhIB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/c8/6a/a6c86aa7-7eea-9d3b-0143-32d6ed8e104f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T18:40:27.616Z
+Categories:
+
+
+Name: Vida by PADERNO
+Url: https://testflight.apple.com/join/YhPO0BFc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d0/1e/e2/d01ee2b5-1906-f97c-14b5-e2606ef35475/AppIcon-Vida-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T18:40:27.652Z
+Categories:
+
+
