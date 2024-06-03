@@ -234,3 +234,122 @@ Last Checked: 2024-06-03T07:38:08.223Z
 Categories:
 
 
+Name: DigiFT
+Url: https://testflight.apple.com/join/KKGOWQed
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/44/54/7544546c-520e-d314-3907-22fd7b04d07d/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-03T07:43:02.862Z
+Categories:
+
+
+Name: OSIM Staging
+Url: https://testflight.apple.com/join/opxes352
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/fb/03/90fb03bf-402d-2d99-e7ed-0acbb94af9e5/AppIcon.staging-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 21
+Beta Available: open
+Last Checked: 2024-06-03T07:43:03.151Z
+Categories:
+
+
+Name: NRO by ixxc 05
+Url: https://testflight.apple.com/join/Yqvol7gV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/a8/80/c1a88087-6650-6db5-eb1b-9456bd174481/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 14
+Beta Available: open
+Last Checked: 2024-06-03T07:43:03.434Z
+Categories:
+
+
+Name: Stethophone
+Url: https://testflight.apple.com/join/psEDgC3w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/64/14/176414e6-6913-d783-32a6-098950bcbf21/UAAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-03T07:43:03.719Z
+Categories:
+
+
+Name: eRestro Singlevendor Rider
+Url: https://testflight.apple.com/join/wqMcr5at
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/8d/cc/c98dcca6-98b4-44a0-1a51-97226381ad3b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-03T07:43:04.002Z
+Categories:
+- Food
+- Shopping
+
+Name: CBRO
+Url: https://testflight.apple.com/join/UDDdSKNn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2a/58/8e2a5884-8da6-bfd5-3a58-5fb92817d594/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:43:04.285Z
+Categories:
+- Games
+
+Name: Watermelon__Game
+Url: https://testflight.apple.com/join/zEkLhX0L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/2c/66/892c66db-bdf7-605d-815a-cb80ed39f051/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 11
+Beta Available: open
+Last Checked: 2024-06-03T07:43:04.569Z
+Categories:
+- Games
+
+Name: BuddyBoss Branding App
+Url: https://testflight.apple.com/join/RyFaWoIr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/9f/06/569f06b1-7f88-cd5c-f692-29b34b8859f8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-03T07:43:04.852Z
+Categories:
+- Art & Design
+- Education
+
+Name: NHTDSGAME
+Url: https://testflight.apple.com/join/gsF1MZGp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/f2/9b/59f29b4b-cf22-077e-b933-c3529845bc14/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 16
+Beta Available: open
+Last Checked: 2024-06-03T07:43:05.135Z
+Categories:
+
+
+Name: Fraggy Road
+Url: https://testflight.apple.com/join/0LeFdx5d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/fd/34/9afd349a-dfd7-1598-92fb-be1c86971cd7/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T07:43:05.418Z
+Categories:
+
+
+Name: RTI Dashboard
+Url: https://testflight.apple.com/join/T1YKKlZ0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/e1/9b/51e19bd3-ac99-2407-7e4f-977e6192ca21/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-03T07:43:05.701Z
+Categories:
+
+
+Name: Swapple - Letter Logic Puzzles
+Url: https://testflight.apple.com/join/XU84IqaM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3c/0f/e43c0feb-7a5e-ede7-baad-98d13ab994c1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:43:05.989Z
+Categories:
+- Games
+
+Name: FYI.AI (Focus Your Ideas)
+Url: https://testflight.apple.com/join/MQ9xz3Qb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/02/06/500206bb-bdb0-0158-faa3-b1cca210a97c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:43:06.270Z
+Categories:
+
+
