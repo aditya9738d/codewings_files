@@ -23579,3 +23579,120 @@ Last Checked: 2024-06-03T19:50:24.522Z
 Categories:
 
 
+Name: solider-pro
+Url: https://testflight.apple.com/join/Imex7ySX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/39/cc/5639cc43-ec2d-d18b-ad62-4839ffd21aec/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.136Z
+Categories:
+
+
+Name: UDTalk
+Url: https://testflight.apple.com/join/EoNrvbEy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/d7/2f/b9d72f2f-d52d-c673-7b02-da3596b8bd90/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.165Z
+Categories:
+
+
+Name: DevExpress .NET MAUI UI
+Url: https://testflight.apple.com/join/NYyTTjvB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/5c/7b/215c7b54-4c64-cbee-a1c2-921b8adf291e/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.194Z
+Categories:
+
+
+Name: Atomic Finance: Bitcoin DeFi
+Url: https://testflight.apple.com/join/AjYeBiZl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/bb/e7/28bbe7c2-eca9-f82a-39b9-dd302ca20904/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.223Z
+Categories:
+
+
+Name: DTRadio
+Url: https://testflight.apple.com/join/KbyWMTAa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ea/00/13ea009c-e9da-0403-11ca-18cf5dd5d45a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.253Z
+Categories:
+
+
+Name: star*club
+Url: https://testflight.apple.com/join/08sK4Ag5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2a/70/56/2a705663-a987-b61a-df4f-ac1009824e2b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.283Z
+Categories:
+
+
+Name: RenPyLinter
+Url: https://testflight.apple.com/join/dOoo2koa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/f6/3f/a1f63f8f-8051-3365-4249-07ea6f93a9f7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.312Z
+Categories:
+
+
+Name: Dungeon Ward: Offline RPG game
+Url: https://testflight.apple.com/join/Kyg7sbis
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2f/25/ca/2f25ca68-b5bd-6b6d-fc23-00519b3dacf8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.341Z
+Categories:
+- Games
+
+Name: AXONS AgriManage(SIT)
+Url: https://testflight.apple.com/join/VhlBqfTN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/3c/1f/123c1f61-6ea9-764a-34b3-89009c197d5a/AppIcon-SIT-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.369Z
+Categories:
+
+
+Name: Polaroid X-1
+Url: https://testflight.apple.com/join/BtnUDn7I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/43/1f/89431f66-8ac5-2bb8-1581-9befb82ade89/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.399Z
+Categories:
+
+
+Name: Audiobookshelf App
+Url: https://testflight.apple.com/join/wiic7QIW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/c0/8f/14c08f89-e46e-9075-301d-eac6f06302aa/Icons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.429Z
+Categories:
+
+
+Name: Rizzference
+Url: https://testflight.apple.com/join/hSVtJLRj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/10/29/62/1029625f-f19a-40ce-8eb2-eca97b8b4226/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.458Z
+Categories:
+
+
+Name: Sky Sports
+Url: https://testflight.apple.com/join/r05IRSPx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/d6/47/88d6473c-da01-6f50-8eeb-aa0fa31e5fde/GB-AppIcon-0-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:51:10.486Z
+Categories:
+
+
