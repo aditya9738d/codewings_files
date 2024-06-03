@@ -20590,3 +20590,120 @@ Last Checked: 2024-06-03T23:54:10.163Z
 Categories:
 
 
+Name: Hako - Credit Card Points
+Url: https://testflight.apple.com/join/xzb1KAky
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/c0/41/ffc0415e-65a7-bd12-779b-4ceb47cfeffb/AppIcon-0-1x_U007epad-0-0-0-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:55:15.496Z
+Categories:
+
+
+Name: Happeo
+Url: https://testflight.apple.com/join/2XwvIcJD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f8/44/ca/f844cae5-e002-009a-a53c-9c8b8a4985dc/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:55:15.531Z
+Categories:
+
+
+Name: Happin - Health & Challenge
+Url: https://testflight.apple.com/join/g9nJLfPZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/a7/e2/64a7e2f8-ea43-c7bc-cb1b-2441b0eb6dcf/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:55:15.565Z
+Categories:
+
+
+Name: Happy Connect
+Url: https://testflight.apple.com/join/ZlY8yJX3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/8d/d5/f48dd5e0-5841-79e7-4946-d1d2341ea02c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:55:15.600Z
+Categories:
+
+
+Name: HappyNewYear2024Celebration
+Url: https://testflight.apple.com/join/uyeo2Diz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b3/3c/85/b33c85fe-fd51-0862-5561-123147643c82/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:55:15.636Z
+Categories:
+
+
+Name: Hash7
+Url: https://testflight.apple.com/join/6ox8vecF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/00/54/6c005497-e712-6e37-54d5-e45c58b24bbf/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-03T23:55:15.671Z
+Categories:
+
+
+Name: Hatcher - Match 3
+Url: https://testflight.apple.com/join/pD8iHutN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/b4/1c/c5b41caa-9539-bcd1-91fc-4a0e7dfa84ee/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T23:55:15.706Z
+Categories:
+
+
+Name: Haus Up Demo
+Url: https://testflight.apple.com/join/2SmvIto0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c5/ee/bd/c5eebd0f-5b13-1349-fbcf-1028f64e44c1/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:55:15.742Z
+Categories:
+
+
+Name: Head2Head Trivia
+Url: https://testflight.apple.com/join/l2U85mSC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/69/ab/21/69ab21cb-976a-e692-5d6f-4a58d889dc04/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:55:15.777Z
+Categories:
+
+
+Name: HealthVision
+Url: https://testflight.apple.com/join/SqMDEtIJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/82/14/c0/8214c00d-93ce-a322-14cc-589e225cdb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:55:15.811Z
+Categories:
+
+
+Name: HeartRateHub
+Url: https://testflight.apple.com/join/jyve01Qb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/58/15/69/5815691c-1444-10c1-1eb6-e87e2fcf1f97/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:55:15.847Z
+Categories:
+
+
+Name: Hectare Dev
+Url: https://testflight.apple.com/join/y4NTiA2I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6c/9c/ad/6c9cad47-0f8d-5e8d-5ae0-1037ab80f14e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:55:15.881Z
+Categories:
+
+
+Name: Hello Ecv
+Url: https://testflight.apple.com/join/y7PwZo4J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/14/9a/00/149a0013-b64f-76a9-f9ee-dc995f03a90c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-03T23:55:15.916Z
+Categories:
+
+
