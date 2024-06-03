@@ -25972,3 +25972,120 @@ Last Checked: 2024-06-03T07:09:10.342Z
 Categories:
 
 
+Name: RingConn
+Url: https://testflight.apple.com/join/vk26Ph2f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/02/b1/3d02b13c-0caa-fd54-1b7a-3ff6de4bfcee/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:10:30.002Z
+Categories:
+
+
+Name: Seasn Stage
+Url: https://testflight.apple.com/join/hhlHG6Tc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/ea/6f/3bea6f4e-410a-d5fa-caae-0446da2fb22a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:10:30.030Z
+Categories:
+
+
+Name: VTNB C&T
+Url: https://testflight.apple.com/join/jUoU7QLo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/6a/3b/7a6a3bc2-74a3-f2e1-f464-a8b576b1ae12/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T07:10:30.058Z
+Categories:
+
+
+Name: Onewheel Community Edition
+Url: https://testflight.apple.com/join/erN13tuH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/d2/8e/16d28ea0-28e1-12d8-f194-74bf5c9ec29a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T07:10:30.085Z
+Categories:
+
+
+Name: Discover Dairy
+Url: https://testflight.apple.com/join/PQMxZgB6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/00/41/080041ac-5639-03a8-e82b-82c931db0c97/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:10:30.113Z
+Categories:
+
+
+Name: FRITZ!App Fon
+Url: https://testflight.apple.com/join/SGGCxyRp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/ef/37/08ef3781-daee-3167-aa8f-1bd5258c24d4/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:10:30.142Z
+Categories:
+
+
+Name: Coinplay App
+Url: https://testflight.apple.com/join/Gy5HETM5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/60/a9/6860a996-7322-b75f-0af4-5b3bd0b385bd/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:10:30.169Z
+Categories:
+
+
+Name: Intervals Pro: HIIT Timer
+Url: https://testflight.apple.com/join/Nn7iSOzY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/ce/ed/ceceed5d-c377-73d7-ca03-af85eaed4200/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:10:30.197Z
+Categories:
+
+
+Name: FamOfficial
+Url: https://testflight.apple.com/join/nS7IscxG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/56/b4/93/56b493b1-bcb5-cd29-10c5-b2310fb56f69/AppIcon-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:10:30.225Z
+Categories:
+
+
+Name: VRCInfinity
+Url: https://testflight.apple.com/join/PKIlP7Sh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/c2/24/f4c224b1-b99f-99fc-684e-cf07853a5a0e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:10:30.253Z
+Categories:
+
+
+Name: Anabo Fitness
+Url: https://testflight.apple.com/join/WkqJXHvP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/52/1a/c8521a7b-2ab9-78c3-1944-39e0d95cea3b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T07:10:30.281Z
+Categories:
+
+
+Name: Hevy - Workout Tracker Gym Log
+Url: https://testflight.apple.com/join/tAlRPch6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/ff/b2/6fffb2ff-5dd4-b2d4-342e-9bf879ac36a7/AppIcon-0-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:10:30.309Z
+Categories:
+
+
+Name: TradeZero
+Url: https://testflight.apple.com/join/rRBSZhUP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/db/23/bbdb23a9-add3-cd91-70ee-0c8a29bb91b2/AppIcons-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T07:10:30.337Z
+Categories:
+
+
