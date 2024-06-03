@@ -19484,3 +19484,120 @@ Last Checked: 2024-06-03T19:12:12.855Z
 Categories:
 
 
+Name: Word Search Game & Languages
+Url: https://testflight.apple.com/join/3cLBFt5K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/c8/3e/47c83e2f-7cbb-aeae-d42f-a13a1a3a9630/AppIconProd-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.590Z
+Categories:
+
+
+Name: AIS Smart CAM
+Url: https://testflight.apple.com/join/lqNJEgTj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/60/b7/8060b7c6-ebaa-a5ef-18a8-0e2c16a3f519/AppIcon-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.625Z
+Categories:
+
+
+Name: EinsatzApp
+Url: https://testflight.apple.com/join/fjR2qiMP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/e1/97/2ee197a2-54f3-25e2-0e7e-02843192dc07/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.660Z
+Categories:
+
+
+Name: Withings Health Mate
+Url: https://testflight.apple.com/join/W6nOwUHe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/12/8e/4d128e51-0559-27b3-43c5-afbe41187468/AppIcon-Release-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.696Z
+Categories:
+
+
+Name: Meinong
+Url: https://testflight.apple.com/join/2dpyW6rC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/be/8e/f3/be8ef39c-446d-e6de-ba0c-749b65f18d50/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.731Z
+Categories:
+
+
+Name: Smart Admin
+Url: https://testflight.apple.com/join/u4Ep8Mpo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/11/37/72113787-d68c-6b84-d1c7-dc245bd8d9e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.766Z
+Categories:
+
+
+Name: DrugN
+Url: https://testflight.apple.com/join/S4SbpUjZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/6b/d0/3c6bd04c-3b89-682d-0e5c-ae094221257f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.802Z
+Categories:
+
+
+Name: RaundTable
+Url: https://testflight.apple.com/join/OIQ6oWbs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/64/85/936485e7-7dc1-ddce-3285-f170a641607f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.837Z
+Categories:
+
+
+Name: AnetaEd
+Url: https://testflight.apple.com/join/g1vKLVi2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/1f/d4/5f1fd4b5-1e56-f58b-8808-340d07fa450e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.873Z
+Categories:
+
+
+Name: Trident App
+Url: https://testflight.apple.com/join/Vs7MAj0D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/b3/1e/66b31e67-e333-a96c-b7fe-2ceb8d2046ee/AppIcon-trident-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.908Z
+Categories:
+
+
+Name: Inofia Life
+Url: https://testflight.apple.com/join/AKsraRDV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/4d/21/ba4d2136-e977-8d12-7d87-5f7f3d58dda1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.944Z
+Categories:
+
+
+Name: Money: track income & expenses
+Url: https://testflight.apple.com/join/UAzr0dcN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/77/4a/ea774af2-821d-9f67-c79f-6038ab634c6e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:13:11.979Z
+Categories:
+
+
+Name: VIP Station
+Url: https://testflight.apple.com/join/lIHB40dx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d5/a6/51/d5a651c6-e0d4-4819-b12f-183d227e30c7/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T19:13:12.015Z
+Categories:
+
+
