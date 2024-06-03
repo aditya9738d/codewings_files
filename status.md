@@ -20276,3 +20276,120 @@ Last Checked: 2024-06-03T10:28:13.426Z
 Categories:
 
 
+Name: [S]VitaDairy
+Url: https://testflight.apple.com/join/96Fj74GD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/48/cb/e1/48cbe173-938e-a4fd-7cd9-8683ff749489/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:29:10.122Z
+Categories:
+
+
+Name: odinMusicPlayer
+Url: https://testflight.apple.com/join/S43IfU6b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/82/69/1a/82691a52-5275-fdd8-2bd8-04b975f5b9dc/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:29:10.158Z
+Categories:
+
+
+Name: MocPOGO
+Url: https://testflight.apple.com/join/0HdQYsQF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/64/42/f7644270-0608-b297-5516-b3a658ce45a0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-03T10:29:10.193Z
+Categories:
+
+
+Name: DLIS Traning
+Url: https://testflight.apple.com/join/RGmurNCT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/fe/45/d6fe45fc-430d-a2cd-43a5-1b2c4973f98c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:29:10.228Z
+Categories:
+
+
+Name: Workout Sessions
+Url: https://testflight.apple.com/join/dDSurLeT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/c7/72/74c7724b-03dc-f6b3-dcfc-1528cc20e8c7/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T10:29:10.264Z
+Categories:
+
+
+Name: Watch to 5K - Couch to 5K plan
+Url: https://testflight.apple.com/join/y8yGWqbj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/ce/d8/dbced842-fafb-3f63-af23-d0fa38c6a0ba/AppIcon-White-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T10:29:10.299Z
+Categories:
+
+
+Name: iNFC
+Url: https://testflight.apple.com/join/rb51qZ8N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/b6/42/c7b64211-c94e-0c14-ef69-16c1c6975986/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T10:29:10.335Z
+Categories:
+
+
+Name: Visionboard: Your Status Bar
+Url: https://testflight.apple.com/join/Gg0Pk5MM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/57/23/ba5723a3-7038-f183-0a2f-2ba32bed22ba/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T10:29:10.369Z
+Categories:
+
+
+Name: Jeedom App
+Url: https://testflight.apple.com/join/jB60tOol
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/32/6f/28326f88-1f53-66d4-fb54-4dbf1d2a392a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:29:10.404Z
+Categories:
+
+
+Name: ProjectWave
+Url: https://testflight.apple.com/join/ajJKBb9j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/b8/dc/c7b8dc1f-dfeb-a6c3-16b0-64dcc930e755/AppIcon-1x_U007ephone-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:29:10.439Z
+Categories:
+
+
+Name: PCORI FOCUS
+Url: https://testflight.apple.com/join/RC4eyxvt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/eb/89/8c/eb898cf8-9ca6-ce50-2007-197ee9c39089/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:29:10.474Z
+Categories:
+
+
+Name: ABCDE_Legacy
+Url: https://testflight.apple.com/join/0akBrvvG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1d/ae/d5/1daed560-d074-d379-a3a4-a6169258d56b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:29:10.510Z
+Categories:
+
+
+Name: FotMob - Soccer Live Scores
+Url: https://testflight.apple.com/join/zEAwGlrV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/3f/53/a23f530c-5b39-e5bd-4e37-754190c20a27/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T10:29:10.544Z
+Categories:
+
+
