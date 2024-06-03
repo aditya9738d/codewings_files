@@ -13336,3 +13336,120 @@ Last Checked: 2024-06-03T13:49:10.470Z
 Categories:
 
 
+Name: Prompt Care-STG
+Url: https://testflight.apple.com/join/7FsZJnG4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/32/dd/7b32dd89-93c8-fa2b-76f0-2a0e93d9ce8e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.321Z
+Categories:
+
+
+Name: FieldEdge 3
+Url: https://testflight.apple.com/join/Sn5ZlSry
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/ed/e4/7aede463-a6c2-c0d9-8afe-75940f12ab40/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.349Z
+Categories:
+
+
+Name: winTwins
+Url: https://testflight.apple.com/join/hvem47iU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/e2/4b/81e24bb5-9722-433c-d3cf-33927be282ef/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.377Z
+Categories:
+
+
+Name: Open Food Facts - Product Scan
+Url: https://testflight.apple.com/join/c2tiBHgd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/68/13/e468133c-a04f-d42c-7f50-cc5c53d4bd99/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.405Z
+Categories:
+
+
+Name: CDS SIT
+Url: https://testflight.apple.com/join/agC95OKT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/6c/b8/166cb841-9966-5539-fbbe-566916fc884f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.433Z
+Categories:
+
+
+Name: LANforge InterOp
+Url: https://testflight.apple.com/join/GpQSr1bw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/43/3d/5a433db8-b352-ab68-2cf6-099c0bd6a181/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.460Z
+Categories:
+
+
+Name: Nothing X
+Url: https://testflight.apple.com/join/zfiuRO5D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/14/40/f51440a3-cc09-cbc6-8780-e8f9f51fe020/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.487Z
+Categories:
+
+
+Name: Octopus
+Url: https://testflight.apple.com/join/LvkAzx92
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/fb/35/1cfb355c-e767-54b9-d21b-f086ed80f069/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.515Z
+Categories:
+
+
+Name: iChauffeur
+Url: https://testflight.apple.com/join/aO9m9XfL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/79/cd/4979cd68-822a-af3c-f75f-cea1a659c27e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.542Z
+Categories:
+
+
+Name: MLBB Beta
+Url: https://testflight.apple.com/join/yYjKTTlT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/9c/67/7c9c67e6-d0a6-fe6b-7a5e-f89dab4063d8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 156
+Beta Available: full
+Last Checked: 2024-06-03T13:50:28.570Z
+Categories:
+
+
+Name: EyeLearn-Home
+Url: https://testflight.apple.com/join/NYWZAAvb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/de/1e/9ede1e52-e65a-4b58-1619-94aa926691e3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.598Z
+Categories:
+
+
+Name: BSBI
+Url: https://testflight.apple.com/join/KVFnEnOm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b1/2e/56/b12e5648-7388-e745-5044-0f9c996eeefe/BsbiAppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.625Z
+Categories:
+
+
+Name: Zoho Sheet
+Url: https://testflight.apple.com/join/izJmsXoe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b7/32/df/b732dfb4-e3de-89d4-9976-4ff33093c51d/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:50:28.653Z
+Categories:
+
+
