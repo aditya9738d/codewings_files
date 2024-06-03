@@ -16027,3 +16027,120 @@ Last Checked: 2024-06-03T14:13:09.784Z
 Categories:
 
 
+Name: Carista OBD2
+Url: https://testflight.apple.com/join/gIveBHOs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/25/5b/c2255b8a-d5b7-e631-75bb-e7a9e02a1a02/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:14:11.923Z
+Categories:
+
+
+Name: Carly
+Url: https://testflight.apple.com/join/hdEF0fvr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/be/a8/cbbea8a9-d489-5e88-4367-d0f70bc03d58/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:14:11.952Z
+Categories:
+
+
+Name: Carros Baixos Tunados
+Url: https://testflight.apple.com/join/MWQ90QBt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/88/e4/3788e4da-72e5-cefb-bfb2-c1e99facdd18/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:14:11.980Z
+Categories:
+
+
+Name: CarryOv3r
+Url: https://testflight.apple.com/join/GmPNpW9Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/e1/d3/47e1d330-c453-7450-9ef9-87864ce6d3f3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:14:12.009Z
+Categories:
+
+
+Name: Cars Jo
+Url: https://testflight.apple.com/join/Hh15TP7q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/99/c4/bc/99c4bc6e-9457-6f2f-a67c-278b1944f86d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:14:12.038Z
+Categories:
+
+
+Name: Cartoon Weather
+Url: https://testflight.apple.com/join/vMboPuBx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/7a/eb/f57aebde-72a4-5a5a-b5d6-917e63cf23c3/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:14:12.066Z
+Categories:
+
+
+Name: CashAr
+Url: https://testflight.apple.com/join/9xofhc97
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/dc/da/c2/dcdac290-62c9-bd7c-f2b1-9d7d91a92c13/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:14:12.094Z
+Categories:
+
+
+Name: CasisuTest
+Url: https://testflight.apple.com/join/I0JR5lPe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/77/b3/3e77b321-da66-c88e-e8e5-2eba1862ab75/AppIcon-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:14:12.123Z
+Categories:
+
+
+Name: CastOfTheDice
+Url: https://testflight.apple.com/join/nLUN5QzM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e5/f3/82/e5f38206-85d1-3bdb-bcce-9080622078b9/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:14:12.153Z
+Categories:
+
+
+Name: Castle
+Url: https://testflight.apple.com/join/g9RYyYHJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/0f/36/170f3648-cdbc-43b3-c4d1-2d78616e5e89/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:14:12.181Z
+Categories:
+
+
+Name: Castmagic: Transcription + AI
+Url: https://testflight.apple.com/join/s47OVZOS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/c9/a1/34c9a193-5566-05a0-e684-dc139d591510/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:14:12.208Z
+Categories:
+
+
+Name: Cathay Malls
+Url: https://testflight.apple.com/join/PBoE5uGW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/2e/54/4d2e5459-f63c-b786-98e6-f6386b305218/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T14:14:12.237Z
+Categories:
+
+
+Name: Celestia Vision
+Url: https://testflight.apple.com/join/ZDNBEnJG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/87/5f/45/875f4586-6676-6929-f587-80d2f33bb633/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T14:14:12.266Z
+Categories:
+
+
