@@ -9592,3 +9592,120 @@ Last Checked: 2024-06-03T04:48:09.961Z
 Categories:
 
 
+Name: CA Development
+Url: https://testflight.apple.com/join/fYmAbGwZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/d7/9f/6ed79f0c-eff1-440b-7c5b-77bd2a2d7642/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.398Z
+Categories:
+
+
+Name: EZVIZ
+Url: https://testflight.apple.com/join/omXyyGLX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/4e/b6/9b4eb649-f341-6f5e-74d3-d30077f395fd/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T04:49:08.434Z
+Categories:
+
+
+Name: J&T Singapore
+Url: https://testflight.apple.com/join/MHNGW0xP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/55/53/64555320-f34b-161e-d8b2-f4d270e5667a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.469Z
+Categories:
+
+
+Name: RealMaze AR
+Url: https://testflight.apple.com/join/tahFKjuQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/19/52/bb/1952bb19-2d82-18be-d2b0-14ba98de2657/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.505Z
+Categories:
+
+
+Name: Neurogine BKRM UAT
+Url: https://testflight.apple.com/join/J94C7OP1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cb/b2/93cbb225-06fa-c959-e762-2998570310d4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.540Z
+Categories:
+
+
+Name: Mileage by Hnry
+Url: https://testflight.apple.com/join/h5JnVk9X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/3f/3c/3d3f3c19-80db-c3a7-d021-212e90ba0d9a/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.575Z
+Categories:
+
+
+Name: Castaways Mobile
+Url: https://testflight.apple.com/join/g4wsHwa6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/71/e5/bc71e51a-bda6-f76d-1766-fa13583892e0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.610Z
+Categories:
+
+
+Name: Dreamehome
+Url: https://testflight.apple.com/join/IWeuSs78
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/df/24/d3df2462-df21-d9f4-e64f-b232361fe84d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.646Z
+Categories:
+
+
+Name: EinsatzTablet
+Url: https://testflight.apple.com/join/8WAnCt2K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/98/48/af98487e-8076-5895-d8cc-d9d3c8c89238/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 25
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.681Z
+Categories:
+
+
+Name: Par Groups
+Url: https://testflight.apple.com/join/9GgIvLpB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/9c/5c/8d9c5c76-b722-c0d6-b500-e4a873c1b7ff/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.717Z
+Categories:
+
+
+Name: Alipay+ Linker Wallet
+Url: https://testflight.apple.com/join/eFAxdeIz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/be/f3/d2bef341-0799-262d-ea72-5982f91f809a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.753Z
+Categories:
+
+
+Name: Fantasy Jigsaw - HD Puzzle
+Url: https://testflight.apple.com/join/BOzhOTi3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/09/6d/73096dca-6039-9074-d013-84c6626c75dd/AppIcon-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.789Z
+Categories:
+
+
+Name: Suunto ZH
+Url: https://testflight.apple.com/join/0mD9QyKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/f5/65/d9f5653f-fdee-fca5-3995-77b5486ed7d6/SuuntoAppIcon-1x_U007emarketing-0-7-0-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-03T04:49:08.824Z
+Categories:
+
+
