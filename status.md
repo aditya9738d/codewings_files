@@ -13490,3 +13490,120 @@ Last Checked: 2024-06-03T09:26:13.051Z
 Categories:
 
 
+Name: KiwiCamera
+Url: https://testflight.apple.com/join/z7jwuTms
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/42/90/65429066-d555-5b5d-fdc3-3c25a2f25fe1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:09.979Z
+Categories:
+
+
+Name: MyMCash
+Url: https://testflight.apple.com/join/zD8SpM0H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/ed/b6/36edb6ce-c793-e225-03f0-b86a69d09d36/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.014Z
+Categories:
+
+
+Name: SVIBES
+Url: https://testflight.apple.com/join/rVjGsgdt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a5/0e/ea/a50eea1e-a124-a8ea-e940-bb96363636f9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.050Z
+Categories:
+
+
+Name: Swop - Connecting The World
+Url: https://testflight.apple.com/join/JFvrk5Qs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/d7/91/5ed791e9-d2e4-987c-fd38-2667c6fba89c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.086Z
+Categories:
+
+
+Name: lipa wallet
+Url: https://testflight.apple.com/join/J4SmDW5N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/77/33/7e773368-cfa8-f42e-83db-5504df97eab7/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.121Z
+Categories:
+
+
+Name: PaySika
+Url: https://testflight.apple.com/join/Y9WgJwBG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/71/14/e17114d1-b680-4b22-b3c4-bc24c862a770/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.156Z
+Categories:
+
+
+Name: Seznam Messenger
+Url: https://testflight.apple.com/join/Fkh1NPuw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/d0/4c/c9d04c08-ea4c-9d6f-0da5-01f33d82024c/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.192Z
+Categories:
+
+
+Name: Pagos por Whatsapp
+Url: https://testflight.apple.com/join/d2eVesnW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/a1/7b/71a17b45-2cc8-8cf0-1345-18451360b67f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.228Z
+Categories:
+
+
+Name: Aislingeach
+Url: https://testflight.apple.com/join/Q6WyyEpS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/de/06/43de065a-44a3-6de0-43ff-4bc0685b1031/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.264Z
+Categories:
+
+
+Name: LevelApp
+Url: https://testflight.apple.com/join/6prz5TOR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/81/ba/b381ba8d-8f34-fa26-0862-ce60eb59d30b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.299Z
+Categories:
+
+
+Name: Pivot88
+Url: https://testflight.apple.com/join/bNJ2ITDM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/ea/06/bcea0641-784c-2729-1440-e6171a80282a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.334Z
+Categories:
+
+
+Name: adoc Studio
+Url: https://testflight.apple.com/join/0mDOqdOt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/da/cb/b5dacb64-5e47-9c1f-a244-f9c5d0e36f0c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.370Z
+Categories:
+
+
+Name: PicPay: Conta, Pix e Cartão
+Url: https://testflight.apple.com/join/4lJVk53x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/85/78/ff857881-eed7-4136-24cd-fd47ba334cdf/AppIcon-1-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T09:27:10.406Z
+Categories:
+
+
