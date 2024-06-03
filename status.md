@@ -11932,3 +11932,120 @@ Last Checked: 2024-06-03T13:37:11.071Z
 Categories:
 
 
+Name: Bears Looking: Gay Dating Chat
+Url: https://testflight.apple.com/join/pf43FeRA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/37/21/ae372146-c1aa-7bd4-1ac4-59995cfb7411/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-03T13:38:11.978Z
+Categories:
+
+
+Name: Informant 5 Calendar
+Url: https://testflight.apple.com/join/h1WB27ar
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/d5/31/56d5316d-d859-72f2-659f-427b6679770e/iOSAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.014Z
+Categories:
+
+
+Name: SelfElite
+Url: https://testflight.apple.com/join/QyZyy850
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/39/15/e739156e-f6d3-8e99-30d0-f4d2e989af00/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.049Z
+Categories:
+
+
+Name: TrueCoverage UAT
+Url: https://testflight.apple.com/join/5MjcX8m7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/20/f3/6020f321-6c73-95b2-4ca7-48e607d939b5/AppIcon-tc-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.086Z
+Categories:
+
+
+Name: Proto Mapper
+Url: https://testflight.apple.com/join/RkTMujwy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/9b/6b/ec9b6bac-619a-0697-c6bc-4532d3135d08/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.121Z
+Categories:
+
+
+Name: Meta Kart Racer
+Url: https://testflight.apple.com/join/ix9pImux
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/fe/de/4ffede17-4d6c-718c-5e73-50d0b78b1871/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.156Z
+Categories:
+
+
+Name: Memorize - Learn and Remember
+Url: https://testflight.apple.com/join/nsTpApXA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/1b/fc/271bfce0-2f60-413c-4804-fa611d46412a/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.193Z
+Categories:
+
+
+Name: AlsuperApp
+Url: https://testflight.apple.com/join/Yl90dQvq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/86/9c/e2869ccd-fc63-d6c3-fb93-31ac74f8afb5/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.228Z
+Categories:
+
+
+Name: iVoRi XR V4
+Url: https://testflight.apple.com/join/RbesVa8g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/13/0e/49130e1d-c94d-00c4-1660-fa8141df2eeb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.263Z
+Categories:
+
+
+Name: Abilition Rise
+Url: https://testflight.apple.com/join/zKopXYyf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cd/df/5f/cddf5fd9-8a75-55f5-200e-b86202a6dd57/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.299Z
+Categories:
+
+
+Name: HOM - Unimed Cooperado
+Url: https://testflight.apple.com/join/bRkYYlJ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d1/55/0d/d1550d6a-237b-6be7-a7e7-510ed87bfc37/AppIcon-HOM-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.334Z
+Categories:
+
+
+Name: WebLink Host
+Url: https://testflight.apple.com/join/1G6evopJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/76/49/7976491e-ee2f-8e99-cf8b-74ba4cb30567/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.369Z
+Categories:
+
+
+Name: Sonar by Kujira
+Url: https://testflight.apple.com/join/ISbDaKs7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/ac/ea/60acea4e-2b8f-411a-ebff-f8596af4d4aa/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T13:38:12.404Z
+Categories:
+
+
