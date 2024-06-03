@@ -17899,3 +17899,120 @@ Last Checked: 2024-06-03T06:00:53.287Z
 Categories:
 
 
+Name: Greg - Plant Care
+Url: https://testflight.apple.com/join/vYqAc3Lf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/ab/ea/a8abea50-63c6-25e4-d0eb-8b6554f317b5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-03T06:01:11.679Z
+Categories:
+
+
+Name: Flashword - Save learnt words
+Url: https://testflight.apple.com/join/ppl9QbFc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/27/ae/4e27ae52-13e7-0064-3dd0-aeb7cda0c3d9/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:01:11.715Z
+Categories:
+
+
+Name: Royal Sydney Yacht Squadron
+Url: https://testflight.apple.com/join/SVJ8Flv7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/2f/f6/ec2ff6cf-640c-b5d3-9427-208ff3b04164/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:01:11.753Z
+Categories:
+
+
+Name: Flexi-BLE
+Url: https://testflight.apple.com/join/LHyKxPmj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/c8/96/6ec8962d-4c05-6944-bafa-9862a8318977/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:01:11.789Z
+Categories:
+
+
+Name: Chouten
+Url: https://testflight.apple.com/join/Cg1rAPB8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/2d/f3/292df31a-31da-2131-903b-24b2e54ac248/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:01:11.826Z
+Categories:
+
+
+Name: MeshCom
+Url: https://testflight.apple.com/join/wG4vtaw4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/88/14/2f/88142f95-f5e6-3112-9dc4-40bb9e4bfe08/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:01:11.862Z
+Categories:
+
+
+Name: Airtel TV
+Url: https://testflight.apple.com/join/r0T6b6S1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/59/14/7c591475-2f05-e17d-8c0f-48c74c761cf1/WynkIcon-0-0-1x_U007emarketing-0-10-0-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-03T06:01:11.897Z
+Categories:
+
+
+Name: mobicom
+Url: https://testflight.apple.com/join/YJSr30hu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/a3/56/15a3562d-6e1d-b44b-bce5-2101c80583f3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:01:11.933Z
+Categories:
+
+
+Name: Imperans
+Url: https://testflight.apple.com/join/cRXeF8OC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/4a/e3/0a4ae355-50d9-baae-f25c-e9df3a7b8bc3/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:01:11.969Z
+Categories:
+
+
+Name: Tuned Global Demo
+Url: https://testflight.apple.com/join/9m8ISI1w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/29/11/5b/29115b86-3a08-31e3-8a4a-314330bb23e8/AppIconDemo-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:01:12.005Z
+Categories:
+
+
+Name: Smart Industry - IoT Solution
+Url: https://testflight.apple.com/join/bjGyWXnj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/23/24/02/232402f5-ff9b-3a46-8c5b-9a2add528461/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:01:12.040Z
+Categories:
+
+
+Name: OPEN SuperApp
+Url: https://testflight.apple.com/join/O4dOEWed
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/64/55/e864557a-8eab-4d0b-a66e-dcfce4da36ff/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:01:12.077Z
+Categories:
+
+
+Name: WiseCRM365
+Url: https://testflight.apple.com/join/Gh4sPVC3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/7e/1f/e67e1f72-c063-595e-f13f-865f66e7e400/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T06:01:12.113Z
+Categories:
+
+
