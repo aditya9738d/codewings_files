@@ -26594,3 +26594,120 @@ Last Checked: 2024-06-03T11:22:12.085Z
 Categories:
 
 
+Name: Stickier
+Url: https://testflight.apple.com/join/WjxlZzrm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/60/27/ab/6027abaf-294e-cdd0-2ba0-97fddd4c6209/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.054Z
+Categories:
+
+
+Name: FTL Mobile Trading System
+Url: https://testflight.apple.com/join/4azP6hqE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/43/98/434398c8-27b3-8a78-f291-1b157bea29c3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.091Z
+Categories:
+
+
+Name: AUTO.RIA: продаж, купівля авто
+Url: https://testflight.apple.com/join/chzd1loM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/b1/cb/0fb1cba5-cfe3-4abe-4b9b-fe027d6cc44e/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.127Z
+Categories:
+
+
+Name: Pennyworth Expense Tracker App
+Url: https://testflight.apple.com/join/2SmGmL2X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/0a/78/730a789f-6f4e-ccff-4f91-b929b6adc117/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.163Z
+Categories:
+
+
+Name: XRAI Glass
+Url: https://testflight.apple.com/join/oS3CLajQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/a6/29/3ba629ed-1f44-0b29-9c2c-c8870a381626/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.199Z
+Categories:
+
+
+Name: Poker Master - Texas Hold’em
+Url: https://testflight.apple.com/join/3aPlJZGg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/5b/f8/e75bf8ef-5acd-e5ea-40c8-696d32bab15a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.234Z
+Categories:
+
+
+Name: Umay
+Url: https://testflight.apple.com/join/AIqnaiRD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/5b/53/ee5b53c9-8e5c-6b76-61f3-f64487734168/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.270Z
+Categories:
+
+
+Name: SSP UAT
+Url: https://testflight.apple.com/join/fDTIhPK5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5c/26/c1/5c26c1f9-ec5d-4e81-b735-0a8ac82aba48/SSPAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.306Z
+Categories:
+
+
+Name: Uniwhale Care
+Url: https://testflight.apple.com/join/e7gQg6qR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/9d/ed/d69ded8c-c5aa-0f08-3fbd-c5c27e6c8722/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.347Z
+Categories:
+
+
+Name: ChanExpress
+Url: https://testflight.apple.com/join/YrrAMjcu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/18/0c/ec180c2f-befa-d4f1-1a4e-1621e3c69dbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.383Z
+Categories:
+
+
+Name: BsAgentes
+Url: https://testflight.apple.com/join/L4oPaQvR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/31/b4/dc31b4f6-78a4-ecae-daef-6b6bdb3e5d61/AppIcon-2-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.419Z
+Categories:
+
+
+Name: Tata Motors iRA 2.0
+Url: https://testflight.apple.com/join/JsSSjSEL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/ba/05/abba0531-9ed9-339d-0d00-3174b693ce12/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.455Z
+Categories:
+
+
+Name: Teja - journal & selfcare
+Url: https://testflight.apple.com/join/w2vMOLFB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/89/5d/62895d88-92bc-8cd6-9246-89a1e5274531/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-03T11:23:13.491Z
+Categories:
+
+
