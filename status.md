@@ -26908,3 +26908,120 @@ Last Checked: 2024-06-04T00:49:10.354Z
 Categories:
 
 
+Name: Somos Referencia
+Url: https://testflight.apple.com/join/6x5fA1VZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/1b/86/541b865d-b1df-8257-aa42-19d7f21e3d6f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:50:24.294Z
+Categories:
+
+
+Name: Sonar – Project Task Manager
+Url: https://testflight.apple.com/join/C1wZmUlK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/b6/86/1bb686cb-9364-08bc-23a0-7f6d79927759/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:50:24.331Z
+Categories:
+
+
+Name: Songpocket
+Url: https://testflight.apple.com/join/YsnTDequ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/7f/15/9f7f15b5-26e5-1153-c0e5-dcb5e90d560f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:50:24.368Z
+Categories:
+
+
+Name: SonicJot
+Url: https://testflight.apple.com/join/Sr6LHdsR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/92/dc/86/92dc86a6-8f3c-4392-fca1-c92b86d6355a/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:50:24.404Z
+Categories:
+
+
+Name: SonicSphere
+Url: https://testflight.apple.com/join/Xnhl4qiL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/43/7d/8c437db6-0a1d-c8e8-359d-144e4bd83a6a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:50:24.440Z
+Categories:
+
+
+Name: SortApp
+Url: https://testflight.apple.com/join/RIJubiZ0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/8c/61/dc8c6172-354f-9360-5af6-a69a90a05443/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:50:24.476Z
+Categories:
+
+
+Name: Soulie
+Url: https://testflight.apple.com/join/grMFiOKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/16/55/50165578-97ac-ace5-969b-92bdec94ee99/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:50:24.513Z
+Categories:
+
+
+Name: Sound Credit Union Mobile
+Url: https://testflight.apple.com/join/JZPwQ9x4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/a4/1f/d5a41fa2-f08e-5328-08c2-044ac462c1df/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:50:24.549Z
+Categories:
+
+
+Name: SoundHunters Vorabversion
+Url: https://testflight.apple.com/join/lV32lz89
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/8e/d1/408ed1a5-2c35-0ec4-a448-2b2165910539/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:50:24.586Z
+Categories:
+
+
+Name: Space Editor
+Url: https://testflight.apple.com/join/nDBg1YBy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/05/cb/b0/05cbb0fa-c47d-bd6a-e1c7-7790eef1b82f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:50:24.623Z
+Categories:
+
+
+Name: Spacegazer
+Url: https://testflight.apple.com/join/8YcnFE92
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/c8/da/13c8da5c-74fd-2138-8986-5c44a063ee44/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:50:24.659Z
+Categories:
+
+
+Name: Spaice
+Url: https://testflight.apple.com/join/xShJrhF8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/b2/fb/8db2fb9c-bbc4-f8bc-b555-cbe6e34ccf38/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: error
+Last Checked: 2024-06-04T00:50:24.695Z
+Categories:
+
+
+Name: Spark Texture Compression Demo
+Url: https://testflight.apple.com/join/GCB0DcqA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/99/8c/7b/998c7b7a-0b3c-7374-474a-f3914bf1a64b/AppIcon-iOS-1x_U007epad-0-0-GLES2_U002c0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:50:24.732Z
+Categories:
+
+
