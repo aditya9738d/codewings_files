@@ -7169,3 +7169,122 @@ Last Checked: 2024-06-04T10:35:22.791Z
 Categories:
 
 
+Name: [DEV] Mental Vision
+Url: https://testflight.apple.com/join/jEZtTnwk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/27/54/bc2754eb-e946-dad0-b11d-c8c7ec44122c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.104Z
+Categories:
+
+
+Name: Legal Smoke Guide
+Url: https://testflight.apple.com/join/84QZJuDs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/0e/05/5b0e05be-3e30-16f6-af35-5677422c57df/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.141Z
+Categories:
+
+
+Name: Device Management App
+Url: https://testflight.apple.com/join/ZspSdWIi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b9/d6/8f/b9d68f83-c482-a0c0-e705-4aa1a0142abc/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 38
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.178Z
+Categories:
+
+
+Name: VPBank Jarvis SalesApp
+Url: https://testflight.apple.com/join/nlZsButl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/c6/ac/bac6ac27-8cdb-ec7a-f566-b7ede0c5f4a9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.215Z
+Categories:
+
+
+Name: KaedenAteMySandwich
+Url: https://testflight.apple.com/join/BXq4Uq9l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/55/08/8e/55088e60-eaba-a748-03c7-5188792e4cdb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.251Z
+Categories:
+
+
+Name: Microsoft Designer
+Url: https://testflight.apple.com/join/KsuaylTZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/73/69/157369fb-860d-8a7a-5de5-3a6d8a97e66e/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 22
+Beta Available: full
+Last Checked: 2024-06-04T10:36:13.295Z
+Categories:
+- Art & Design
+
+Name: Bike Hills
+Url: https://testflight.apple.com/join/rV7NDoNp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/16/aa/3616aaba-cc88-50fd-1742-8d36ecbcb5aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.331Z
+Categories:
+- Games
+
+Name: Zapit Food Delivery
+Url: https://testflight.apple.com/join/dsR5F5FV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/87/1d/c2871d2e-1d01-363b-d72a-aa56531a7adb/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.367Z
+Categories:
+- Food
+- Shopping
+- Utility
+
+Name: Gumtree: local classified ads
+Url: https://testflight.apple.com/join/bXLgmUlj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/b1/37/80b1376e-ac76-33e5-58ed-1b3e8a19d9af/BetaAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.403Z
+Categories:
+
+
+Name: Blast Royale
+Url: https://testflight.apple.com/join/oumKXOTP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/8a/b7/af8ab7b2-7765-b553-81cf-07ec14855222/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 22
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.439Z
+Categories:
+- Games
+
+Name: Olya Teste
+Url: https://testflight.apple.com/join/QLmmgWOR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/0b/79/fb0b795f-0340-c3a6-bca6-b20c50809758/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.475Z
+Categories:
+
+
+Name: Mobile2
+Url: https://testflight.apple.com/join/3JRkdcDB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/fa/36/68fa365b-0f9b-d51d-9818-f892a056c0ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 14
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.511Z
+Categories:
+
+
+Name: EHW+
+Url: https://testflight.apple.com/join/JAOTh0ap
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/4b/36/2c4b36c7-2f91-8feb-0c27-2fb453342f38/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T10:36:13.550Z
+Categories:
+
+
