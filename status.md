@@ -20797,3 +20797,120 @@ Last Checked: 2024-06-04T21:31:09.600Z
 Categories:
 
 
+Name: Hyperswitch Demo
+Url: https://testflight.apple.com/join/WhPLmrT6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/6a/2e/bc6a2e37-17da-3ba7-ace6-ebdb0f27310c/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.335Z
+Categories:
+
+
+Name: Merge Love
+Url: https://testflight.apple.com/join/1OsWu1mW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/76/a5/d9/76a5d9c8-f93d-f338-a13e-152fcf8f5b2e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.363Z
+Categories:
+
+
+Name: Puzzle Mago
+Url: https://testflight.apple.com/join/98zO86bo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/87/fe/5687feda-8641-dd72-7fe5-f893ace16971/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.390Z
+Categories:
+
+
+Name: My2N
+Url: https://testflight.apple.com/join/5NuiAkIu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/0a/c2/b20ac264-cc3d-814b-e028-d6fa86fdf175/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.418Z
+Categories:
+
+
+Name: Manifest: Wellness Copilot
+Url: https://testflight.apple.com/join/WwVB0Y6E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/0d/73/100d73c0-a9f0-6f3c-4040-8360df26de6f/AppIcon-0-0-1x_U007ephone-0-0-0-GLES2_U002c0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.445Z
+Categories:
+
+
+Name: MADP Playground2
+Url: https://testflight.apple.com/join/gkcX0FWI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/46/52/0f4652c1-4d04-df70-2623-ce1b3318e906/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.473Z
+Categories:
+
+
+Name: Citrix Workspace
+Url: https://testflight.apple.com/join/U7tkotNq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e3/ba/92/e3ba92f7-4617-3937-ea43-0d397a98aef1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.502Z
+Categories:
+
+
+Name: OneTap Check-In
+Url: https://testflight.apple.com/join/oKKFSzxX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/40/a2/7340a2bc-1594-49b5-ef0a-eb27a40f11ed/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.530Z
+Categories:
+
+
+Name: Safer VPN
+Url: https://testflight.apple.com/join/vYK0Uvhz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/01/12/20011220-799a-9d51-2d1d-c97fc1115922/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.558Z
+Categories:
+
+
+Name: Livetec Biosecurity [STG]
+Url: https://testflight.apple.com/join/vMUbpW6j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/6d/d3/156dd378-95cd-dac0-37ca-b9377921cc6d/AppIcon-staging-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.586Z
+Categories:
+
+
+Name: Centralimo
+Url: https://testflight.apple.com/join/4uancpdF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/22/ff/d5/22ffd571-3bd0-a1f4-30f3-2aba5fc9bca5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.613Z
+Categories:
+
+
+Name: Dr. MOOVES A&D
+Url: https://testflight.apple.com/join/jCIEAVMk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/5c/bc/b95cbc7e-128f-20cf-b558-e2c3ca44562e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.641Z
+Categories:
+
+
+Name: UniFi Protect
+Url: https://testflight.apple.com/join/EkFJsGvX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/ac/bd/8aacbd23-8b70-4d5d-11f0-80a9712dadad/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T21:32:12.669Z
+Categories:
+
+
