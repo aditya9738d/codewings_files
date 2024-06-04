@@ -24991,3 +24991,120 @@ Last Checked: 2024-06-04T04:49:10.522Z
 Categories:
 
 
+Name: StarEx - Buy Bitcoin
+Url: https://testflight.apple.com/join/XsgTpGZF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/70/eb/7470eb30-4387-9326-1f24-8cfe5af9fdbe/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:50:23.673Z
+Categories:
+
+
+Name: MadPay
+Url: https://testflight.apple.com/join/1959Lqzn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/19/6a/cc196a61-3eb3-8884-95b2-a9b85175a7ba/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:50:23.708Z
+Categories:
+
+
+Name: Planetary Social
+Url: https://testflight.apple.com/join/M9hPo1gA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/bf/70/06bf700a-2624-40f5-dec3-8d16509dc528/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:50:23.743Z
+Categories:
+
+
+Name: MusicSync for Home Assistant
+Url: https://testflight.apple.com/join/4nCUW4lI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/48/0c/51/480c5113-3473-ec81-68ed-2a16eaf56ac6/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:50:23.778Z
+Categories:
+
+
+Name: Filmlog
+Url: https://testflight.apple.com/join/ywiozhph
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/94/01/39940172-880d-e881-0d43-4658a39688c1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:50:23.814Z
+Categories:
+
+
+Name: Metacast: Podcast Player
+Url: https://testflight.apple.com/join/5ubyRzbg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/13/ae/5913aea9-1623-3bad-b64f-88803813d4ed/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:50:23.849Z
+Categories:
+
+
+Name: MySecretCase
+Url: https://testflight.apple.com/join/oqovz2xl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c2/45/99/c24599d5-a24e-0155-8861-602263547daf/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T04:50:23.884Z
+Categories:
+
+
+Name: C4CG Staff
+Url: https://testflight.apple.com/join/x0ni7LH8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/d6/6e/b0d66e03-6808-ca5e-688c-3793b9022415/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:50:23.920Z
+Categories:
+
+
+Name: WeFTTR
+Url: https://testflight.apple.com/join/ah0Uqrw5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0e/22/c7/0e22c7d8-46e0-7e76-b09d-b9b7a38b6401/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:50:23.955Z
+Categories:
+
+
+Name: LILIN Pro
+Url: https://testflight.apple.com/join/9XwvKbjH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/23/33/f3233325-06be-ce3b-7f64-ec9cd73cdecf/LILINHomeAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:50:23.990Z
+Categories:
+
+
+Name: KlipC:FX Copytrading Community
+Url: https://testflight.apple.com/join/sb8EbOpI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/98/ab/3098ab30-d3f4-b754-020c-b40927e829bc/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:50:24.026Z
+Categories:
+
+
+Name: Textico
+Url: https://testflight.apple.com/join/2FByd1sj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/af/d7/4fafd7e7-02ca-bede-7609-f6f7ab2924b4/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T04:50:24.061Z
+Categories:
+
+
+Name: Argyle Beta
+Url: https://testflight.apple.com/join/8lkKGriz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/87/30/3387307a-205d-dcfb-b1a1-2effcbea919d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:50:24.096Z
+Categories:
+
+
