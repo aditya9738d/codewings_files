@@ -25855,3 +25855,120 @@ Last Checked: 2024-06-04T17:56:11.720Z
 Categories:
 
 
+Name: JOT • AI Social Stickers
+Url: https://testflight.apple.com/join/Kw7AhaNY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/11/90/99/119099b7-e138-a78e-8ef1-2954e7290c10/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T17:57:09.759Z
+Categories:
+
+
+Name: JPEG XL Toolbox
+Url: https://testflight.apple.com/join/246sTpNL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/df/66/51df6636-4d7f-df7c-73b3-ab1f91cbc6ff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T17:57:09.787Z
+Categories:
+
+
+Name: JTEx CheckShop
+Url: https://testflight.apple.com/join/pC6P9qaZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/58/2b/40582bbf-b733-3b27-b2a1-4f2db714c841/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T17:57:09.816Z
+Categories:
+
+
+Name: JUST - UAT
+Url: https://testflight.apple.com/join/7Kn6VHp2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/e4/cc/11e4ccb4-42fb-bc91-7bfe-3358db6d4ff3/AppIcon-Staging-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T17:57:09.845Z
+Categories:
+
+
+Name: JX12023MOBILE
+Url: https://testflight.apple.com/join/Ew3CJN8P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/e7/36/3fe73601-c39f-ead7-e53c-653935b57ca8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T17:57:09.874Z
+Categories:
+
+
+Name: JXDelo
+Url: https://testflight.apple.com/join/xlQ0PPpc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/49/22/3e/49223e6e-45fd-c2f9-36d9-f584ddd24219/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T17:57:09.903Z
+Categories:
+
+
+Name: JXHUYENTHOAI
+Url: https://testflight.apple.com/join/eU2aeFYu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/40/fb/b640fbc5-ee6d-e486-7bc8-a99ac35a8e74/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T17:57:09.932Z
+Categories:
+
+
+Name: Jagat - Friendship Map
+Url: https://testflight.apple.com/join/T5gVGSu7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/8a/96/c58a96b1-7ad2-2297-ef4e-91eedbddeadc/AppIcon-1-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-04T17:57:09.960Z
+Categories:
+
+
+Name: Jazz World - Manage My Number
+Url: https://testflight.apple.com/join/522ZboUu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/78/f5/4778f54f-372e-4cd0-8dac-5c49607e9e83/AppIcon-0-1x_U007emarketing-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T17:57:09.990Z
+Categories:
+
+
+Name: Jeedom v2
+Url: https://testflight.apple.com/join/jB60tOol
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/7d/f0/b27df062-95e1-9a00-4b3d-912a788e06ec/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T17:57:10.018Z
+Categories:
+
+
+Name: JioFinance (beta)
+Url: https://testflight.apple.com/join/ZiVWeCXG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/1b/52/881b52c9-66a5-188a-b23e-b7b0b6ff78e8/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T17:57:10.047Z
+Categories:
+
+
+Name: JobGraze
+Url: https://testflight.apple.com/join/4JDSpyw1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/ff/41/acff4155-c9b9-652d-61b9-1bd2628422d7/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T17:57:10.075Z
+Categories:
+
+
+Name: Jodel: Hyperlocal Community
+Url: https://testflight.apple.com/join/ViHonhOD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/9a/6a/4d9a6af8-c752-503c-5ffb-3087edffe6da/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: error
+Last Checked: 2024-06-04T17:57:10.103Z
+Categories:
+
+
