@@ -14929,3 +14929,120 @@ Last Checked: 2024-06-04T03:18:11.804Z
 Categories:
 
 
+Name: Tactic Legends
+Url: https://testflight.apple.com/join/OnRQLDUN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/f7/0f/d1f70f9e-8d73-e40d-6209-bff50b752a2c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.658Z
+Categories:
+
+
+Name: The CHAMP Plan
+Url: https://testflight.apple.com/join/ktFCgVLx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1c/62/aa1c6286-ae2d-6401-1f3d-3a88ab009787/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.685Z
+Categories:
+
+
+Name: ScaleSmith (BS Magic)
+Url: https://testflight.apple.com/join/488x1Sk4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0b/96/bf/0b96bfe0-3063-0ef7-daf8-ce73fcfb673a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.711Z
+Categories:
+
+
+Name: Flamingo Dating
+Url: https://testflight.apple.com/join/nXXHuaiX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/d8/58/bcd8582c-cd40-f1e2-ad35-241e2ab96b6d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.739Z
+Categories:
+
+
+Name: Exxar Huddle
+Url: https://testflight.apple.com/join/9eFpiPaZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/bc/b3/f4bcb31b-7f7d-27c3-c3e6-096f6b655a43/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.766Z
+Categories:
+
+
+Name: Reoqoo
+Url: https://testflight.apple.com/join/nYpiuvD4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c4/15/7dc415f6-b2d9-f373-9ca1-e963571e1851/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.793Z
+Categories:
+
+
+Name: Loco: Live Game Streaming
+Url: https://testflight.apple.com/join/KBJzjxSJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/d4/eb/72d4eb02-83a9-096d-5864-1941a1fe2f0d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.820Z
+Categories:
+
+
+Name: Strum Machine Beta
+Url: https://testflight.apple.com/join/eabHfWMa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/de/b9/e9/deb9e92d-3cf1-e7aa-bf9e-8189a6e0672d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.848Z
+Categories:
+
+
+Name: Maestro App
+Url: https://testflight.apple.com/join/uYJrBSSz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c0/b6/fb/c0b6fbb4-c638-5c1b-f202-dc4aebd68ab3/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.874Z
+Categories:
+
+
+Name: Paytm-PG
+Url: https://testflight.apple.com/join/oeXnj05q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/21/8b/ae/218baec0-9c5a-32ee-1e07-fbb9eccd18f3/AppIconPaytmAll-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.901Z
+Categories:
+
+
+Name: BETA El Paso iCodeOfficer App
+Url: https://testflight.apple.com/join/0hcV0gjR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/28/da/de28daf6-ab57-8671-c4f7-1a8d83f6659d/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.929Z
+Categories:
+
+
+Name: Podcast Republic - Podcast App
+Url: https://testflight.apple.com/join/y8zpsf0p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/d9/dd/08d9ddaa-352f-3b2e-c711-f85db8618edb/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.955Z
+Categories:
+
+
+Name: Secrets 4 | Password Manager
+Url: https://testflight.apple.com/join/sTKxmWxL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/b7/52/96b752ac-0257-70c5-d05d-91bfd5c62c03/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:19:09.983Z
+Categories:
+
+
