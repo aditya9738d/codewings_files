@@ -1168,3 +1168,120 @@ Last Checked: 2024-06-04T01:12:11.862Z
 Categories:
 
 
+Name: XGPT: AI Crypto Assistant
+Url: https://testflight.apple.com/join/4ORn5SiB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/78/37/a6783715-abf7-5f64-99a9-540a8abf7394/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.257Z
+Categories:
+
+
+Name: XIM MATRIX Manager
+Url: https://testflight.apple.com/join/wpojexto
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/34/a4/d934a437-e258-4ac3-ed60-d19baeb98f29/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T01:13:10.293Z
+Categories:
+
+
+Name: XVIII Convegno UNISVET
+Url: https://testflight.apple.com/join/KEpHSj7X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/17/37/851737a5-290b-15ce-6751-6b2ab1ebaea7/AppIcon-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.329Z
+Categories:
+
+
+Name: XXLPoker
+Url: https://testflight.apple.com/join/5PXHiuLi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/84/80/95/84809524-45fc-5570-67de-dc595c9c0b4f/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.366Z
+Categories:
+
+
+Name: Xam Shoes Pro App
+Url: https://testflight.apple.com/join/l7vKmUe5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/dd/51/e5/dd51e513-fcff-4db4-8fb0-8659032fb6c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.401Z
+Categories:
+
+
+Name: XbotGo
+Url: https://testflight.apple.com/join/zEhyn9zK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b6/5c/e7/b65ce7dd-ee14-3f93-82b0-a4bd50abbdd1/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.437Z
+Categories:
+
+
+Name: Xemplar Auto
+Url: https://testflight.apple.com/join/xIZS5IL1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/16/be/f416be01-0969-7645-b72e-73f848decafd/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.473Z
+Categories:
+
+
+Name: YPTestCadillacSDK
+Url: https://testflight.apple.com/join/jUVktKkP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f2/f9/e9/f2f9e999-e24e-55e5-b763-e2c68d56a629/AppIcon-0-0-1x_U007emarketing-0-0-0-1-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.508Z
+Categories:
+
+
+Name: YUINOTE Dev
+Url: https://testflight.apple.com/join/oISF8Z45
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/74/2e/7d742e2a-61a3-7421-d4a4-bbabd4f4db2d/AppIconDev-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.544Z
+Categories:
+
+
+Name: YVR Hot Chocolate Fest
+Url: https://testflight.apple.com/join/CSt42l78
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dd/86/9a/dd869a65-85e6-c386-dece-17d8c9fa6203/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.579Z
+Categories:
+
+
+Name: Yggdra Chronicle by Bonfire
+Url: https://testflight.apple.com/join/WEXlI5yw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d5/9d/a6/d59da634-a153-f831-21d5-2cb1c8d6aa7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.614Z
+Categories:
+
+
+Name: YiSchool
+Url: https://testflight.apple.com/join/1fyrpZqE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/66/5d/6b665dfb-7e0a-6a94-c7c0-20cd61b92069/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.650Z
+Categories:
+
+
+Name: Yo.E
+Url: https://testflight.apple.com/join/yMz2yejZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/2b/0a/3a2b0a70-177a-02da-4b7d-9d681a35320b/PlayerIcon.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:13:10.687Z
+Categories:
+
+
