@@ -16801,3 +16801,120 @@ Last Checked: 2024-06-04T03:34:12.517Z
 Categories:
 
 
+Name: PicPay: Conta, Pix e Cartão
+Url: https://testflight.apple.com/join/4lJVk53x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/85/78/ff857881-eed7-4136-24cd-fd47ba334cdf/AppIcon-1-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:35:18.648Z
+Categories:
+
+
+Name: OBDeleven Car diagnostics app
+Url: https://testflight.apple.com/join/PmfOjo0T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/d1/d3/bed1d3b6-7f35-8d93-e8d3-c70155212976/AppIcon-Beta-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:35:18.683Z
+Categories:
+
+
+Name: VeSync
+Url: https://testflight.apple.com/join/fJBKUFNX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/5e/de/585edead-f09e-142d-f884-d9d26304d450/AppIconWithIpad-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:35:18.718Z
+Categories:
+
+
+Name: Link Trade
+Url: https://testflight.apple.com/join/KLy5fJat
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/75/4b/c6/754bc6da-a4b9-ae0e-f56a-1a763a2ce613/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:35:18.753Z
+Categories:
+
+
+Name: Spark Mail + AI: Email Inbox
+Url: https://testflight.apple.com/join/KbPFFvWt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/07/0d/51070d19-12ae-e93e-6459-ffc95e86d783/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:35:18.789Z
+Categories:
+
+
+Name: sleepytime calculator
+Url: https://testflight.apple.com/join/onMsxaMt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/32/16/8d3216b2-9e6e-5d12-f6d6-1e552c8ef9e6/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:35:18.824Z
+Categories:
+
+
+Name: YouKnow Social
+Url: https://testflight.apple.com/join/3t8GmeKJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/3f/07/313f0727-0b4c-ec69-1147-185bc47e56ba/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T03:35:18.859Z
+Categories:
+
+
+Name: MyYBS
+Url: https://testflight.apple.com/join/VKUZazR9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/85/d1/84/85d18478-e917-59aa-0dc3-b8c606af1068/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:35:18.893Z
+Categories:
+
+
+Name: Piano Marvel - Lessons & Music
+Url: https://testflight.apple.com/join/QeTHyJNs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/f3/d9/66f3d966-9e52-227a-43e8-30516a804ae0/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:35:18.928Z
+Categories:
+
+
+Name: Bearable - Symptom Tracker
+Url: https://testflight.apple.com/join/tBjTRi0i
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/9c/76/a29c76af-d7fb-8dc6-69ac-89e88ff02d64/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T03:35:18.962Z
+Categories:
+
+
+Name: R Plus Health - Pro
+Url: https://testflight.apple.com/join/hO6bDEAc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/5c/f9/635cf9e9-448d-9088-8ba3-7e94ec5b316f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:35:18.996Z
+Categories:
+
+
+Name: Bluecherry Mobile
+Url: https://testflight.apple.com/join/GM0CxkME
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/22/e6/a922e684-0ec0-a283-0aa1-a572a30b17f0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T03:35:19.030Z
+Categories:
+
+
+Name: VoisUWM
+Url: https://testflight.apple.com/join/DeRdeul7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/4f/64/724f6423-df2f-f307-c050-83106c30c308/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T03:35:19.065Z
+Categories:
+
+
