@@ -5965,3 +5965,120 @@ Last Checked: 2024-06-04T14:50:26.423Z
 Categories:
 
 
+Name: Akuvox SmartPlus
+Url: https://testflight.apple.com/join/wr0awr7k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/57/2c/12572c17-5da0-0912-0de5-b11e2a7e6b5a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.641Z
+Categories:
+
+
+Name: Elestrals TCG
+Url: https://testflight.apple.com/join/c3eNuA4G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/77/19/3a7719bb-1add-c16b-bfb0-f9bf843783a6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.669Z
+Categories:
+
+
+Name: MomianDr.
+Url: https://testflight.apple.com/join/OpUeLJSQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/fb/93/50fb93ea-d4a6-2469-1c58-c23defed7a15/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.697Z
+Categories:
+
+
+Name: WhaleCloud Miniapp POC
+Url: https://testflight.apple.com/join/xHe9rfdn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/08/d6/c308d6fa-9738-1188-879b-db8c2cb1c1fc/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.725Z
+Categories:
+
+
+Name: Learn languages with LENGO
+Url: https://testflight.apple.com/join/YBkLS3cd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/bc/89/1bbc896a-803f-1dbf-567f-dc8f93ce7fcc/AppIcon_Uni-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T14:51:09.753Z
+Categories:
+
+
+Name: TriiiX: SocialFi Trading
+Url: https://testflight.apple.com/join/at0hPFTk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e9/6a/51/e96a51ac-9707-417b-5e84-d336771f430c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.781Z
+Categories:
+
+
+Name: FairMoney Business
+Url: https://testflight.apple.com/join/q5qn8tnh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c2/6c/c3/c26cc354-a1c9-233a-e759-123f07dcc2a8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.809Z
+Categories:
+
+
+Name: Janbee
+Url: https://testflight.apple.com/join/dzDoXrPL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/f8/8c/c4f88c6a-6000-c1ef-d2d3-ccaeef34a637/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.837Z
+Categories:
+
+
+Name: PTE - Synovus Gateway Mobile
+Url: https://testflight.apple.com/join/lNZVr14B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/45/2c/c7/452cc725-9afa-1522-4d7a-6d0671281dde/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.866Z
+Categories:
+
+
+Name: Board Papers for Intune
+Url: https://testflight.apple.com/join/mwUqBiAR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/4c/8d/4a4c8d39-1dd0-a2d4-2a9b-065ecfc303ed/Intune-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.896Z
+Categories:
+
+
+Name: Traady
+Url: https://testflight.apple.com/join/QRFA7SVq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/44/fe/57/44fe576e-316d-1eb5-71d7-ac3483b4a60e/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.923Z
+Categories:
+
+
+Name: TaskChute Cloud Lite Beta
+Url: https://testflight.apple.com/join/WEe7vt0q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/a3/c5/50a3c5da-6d9d-8938-c1eb-ab30fbdc9865/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.951Z
+Categories:
+
+
+Name: Email Client - Boomerang Mail
+Url: https://testflight.apple.com/join/QvyVMhzJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/76/dc/59/76dc59b4-943b-a0d5-d3e1-8105317ab091/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:51:09.979Z
+Categories:
+
+
