@@ -26512,3 +26512,120 @@ Last Checked: 2024-06-04T05:02:12.034Z
 Categories:
 
 
+Name: Ninja World War: Global Force
+Url: https://testflight.apple.com/join/2maWknqu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/c6/36/ddc63653-2a9e-28b1-be66-fffb6a841035/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:03:09.945Z
+Categories:
+
+
+Name: Brang
+Url: https://testflight.apple.com/join/JddbRrMz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/e1/2b/f3e12ba5-9e5e-243e-54b2-5d5f23b4810e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:03:09.973Z
+Categories:
+
+
+Name: DKB
+Url: https://testflight.apple.com/join/NwCXWAEI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/b2/c2/e1b2c2ca-bb96-c1df-edb4-be3897c18446/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:03:10.001Z
+Categories:
+
+
+Name: NewsBlur
+Url: https://testflight.apple.com/join/hYk9WU3f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/a5/16/41a5161e-a109-9ee3-14bc-480c6043e695/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T05:03:10.028Z
+Categories:
+
+
+Name: Regimen Fitness
+Url: https://testflight.apple.com/join/q1QWLF7f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/48/da/8a/48da8a0e-5aea-9c1e-6c1d-3ed87e07633e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T05:03:10.056Z
+Categories:
+
+
+Name: Kia Connect
+Url: https://testflight.apple.com/join/PUPQclJM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/a6/36/90a63605-7627-aa38-6e42-934455d008b6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T05:03:10.083Z
+Categories:
+
+
+Name: Soli: Music Practice Journal
+Url: https://testflight.apple.com/join/zOKDvImR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/6a/69/1c6a692f-60a7-dfd0-b94a-ca24a4e95a14/AppIconColor-0-0-1x_U007ephone-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:03:10.110Z
+Categories:
+
+
+Name: Crew Relay Chat
+Url: https://testflight.apple.com/join/qdV6ViVi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/42/ae/03/42ae0364-8376-e2c0-be31-f5813eefd5ef/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:03:10.138Z
+Categories:
+
+
+Name: Terncy
+Url: https://testflight.apple.com/join/CE5vg472
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6f/ff/7e/6fff7e78-b826-ffa2-d22c-03053fe61b6d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:03:10.167Z
+Categories:
+
+
+Name: Unimed Cooperado
+Url: https://testflight.apple.com/join/e08yaqvH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/13/5b/5b135bed-48c2-0eaa-2959-fe162a63d855/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:03:10.194Z
+Categories:
+
+
+Name: Smartoffice VN
+Url: https://testflight.apple.com/join/lfztPro1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/86/cf/8586cfd2-0fbc-c803-680c-975507de771b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:03:10.221Z
+Categories:
+
+
+Name: MAZAICA Lines & Numbers Game
+Url: https://testflight.apple.com/join/SHQWmTRq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/2a/1a/ff2a1a22-06be-1e64-3591-98dd42567121/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:03:10.248Z
+Categories:
+
+
+Name: Kurita AR Pilot
+Url: https://testflight.apple.com/join/0HD4k52r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/78/40/537840c2-5228-cb48-2fbe-ab830b7388c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:03:10.275Z
+Categories:
+
+
