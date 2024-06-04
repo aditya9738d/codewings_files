@@ -20194,3 +20194,120 @@ Last Checked: 2024-06-04T04:04:13.347Z
 Categories:
 
 
+Name: EMobile7
+Url: https://testflight.apple.com/join/zzkHHQtj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/71/68/d67168be-b4c3-5904-8a85-73b03223e386/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:05:21.366Z
+Categories:
+
+
+Name: ConnectEBT(UAT)
+Url: https://testflight.apple.com/join/qolQIhD4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/1c/52/1c1c5297-05eb-d382-6b64-8c57edb0e797/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:05:21.402Z
+Categories:
+
+
+Name: TCL Connect
+Url: https://testflight.apple.com/join/aAJoEr9z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/fe/8c/5bfe8c7d-155d-5637-5cb1-5214200048b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:05:21.437Z
+Categories:
+
+
+Name: Goverland - All DAOs, One App
+Url: https://testflight.apple.com/join/RXPCZXIg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/83/96/e983965a-e6f4-eeb9-508f-7e8232e81139/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:05:21.472Z
+Categories:
+
+
+Name: Unnus
+Url: https://testflight.apple.com/join/52wdtrc9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/d6/9c/a5d69c0c-c048-dfcf-beb8-0b3a7dcc29af/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:05:21.507Z
+Categories:
+
+
+Name: ProgTV
+Url: https://testflight.apple.com/join/RKN8upW7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/0a/b7/ba0ab77c-da1a-11a6-1b2f-4b67695c3196/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-04T04:05:21.543Z
+Categories:
+
+
+Name: S3XY Watch
+Url: https://testflight.apple.com/join/194LkkmW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/b3/57/8fb35734-98eb-3ee8-0672-94561e41f23c/AppIcon-0-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T04:05:21.577Z
+Categories:
+
+
+Name: OceanEx-Test
+Url: https://testflight.apple.com/join/PkPRNIIp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/71/78/e47178c2-6905-58df-7700-2e78cf4ce3e9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:05:21.613Z
+Categories:
+
+
+Name: Status++
+Url: https://testflight.apple.com/join/F1KmUg6K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/6f/3a/ae6f3abf-e91b-08f6-df38-c0e37db5fcdc/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T04:05:21.648Z
+Categories:
+
+
+Name: Swish Sandbox
+Url: https://testflight.apple.com/join/iQTsRg5b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/31/d7/c6/31d7c60a-9682-e04c-87b1-c6d7671fd559/AppIconSandbox-0-0-1x_U007emarketing-0-5-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:05:21.684Z
+Categories:
+
+
+Name: Sky Go
+Url: https://testflight.apple.com/join/27XwW4TL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/df/f2/89/dff289f9-34a9-fb0b-2cbd-6ecc2cc7df0a/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T04:05:21.720Z
+Categories:
+
+
+Name: GoodBarber Commerce
+Url: https://testflight.apple.com/join/7Kh2Y3sP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/95/a5/ac95a544-431d-092c-f3d8-07b86eb7c13e/MyGBAppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:05:21.756Z
+Categories:
+
+
+Name: RSLog OnSite
+Url: https://testflight.apple.com/join/jEqggnlv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/bd/a8/f6bda814-8d56-fa82-37d9-5aa33e3c8bb2/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:05:21.790Z
+Categories:
+
+
