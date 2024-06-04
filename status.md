@@ -26206,3 +26206,120 @@ Last Checked: 2024-06-04T00:43:09.859Z
 Categories:
 
 
+Name: Satodime
+Url: https://testflight.apple.com/join/1nQlvjgn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c0/a3/27/c0a32719-987b-adb0-f5f9-b56da0c15dbb/AppIcon-0-1x_U007ephone-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:09.829Z
+Categories:
+
+
+Name: Save Mart Supermarkets
+Url: https://testflight.apple.com/join/lC1SEIkz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/ab/24/24ab2488-4f23-f91c-8df5-46a1c84c1863/SaveMartAppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:09.865Z
+Categories:
+
+
+Name: SaveDay - Your Knowledge Buddy
+Url: https://testflight.apple.com/join/g7rqSkKQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/18/7c/fa/187cfaa3-fc2c-d734-24c9-d7c46a56a66b/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:44:09.902Z
+Categories:
+
+
+Name: Scanner App: Genius Scan
+Url: https://testflight.apple.com/join/v2xNVdTt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a3/1d/4c/a31d4cea-de9f-8c09-0f15-c5de9c1056d0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:09.938Z
+Categories:
+
+
+Name: SceneShot
+Url: https://testflight.apple.com/join/H7iMSV4u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/ae/eb/7daeeb68-349a-8e4b-909a-fae097528fc3/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:09.974Z
+Categories:
+
+
+Name: Schiphalast
+Url: https://testflight.apple.com/join/Qy67ai4p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c7/37/7c/c7377cf8-3e91-b4f3-2219-d1d7b2518f89/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:10.011Z
+Categories:
+
+
+Name: ScooterLui
+Url: https://testflight.apple.com/join/xV4bLOSD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/2d/ce/b12dce12-7d88-6cc6-e4ea-94a1c674f39e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:10.048Z
+Categories:
+
+
+Name: Scopi - VR Camera
+Url: https://testflight.apple.com/join/KhjqHJuI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/60/ec/fa60ec32-077e-8db4-9583-d6b943f827aa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:10.084Z
+Categories:
+
+
+Name: Scoreboard Reader
+Url: https://testflight.apple.com/join/OCPyEeJq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/05/04/c5050464-a7af-3fe1-f9e5-6cb2129071fd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:10.120Z
+Categories:
+
+
+Name: ScreenVision 3D
+Url: https://testflight.apple.com/join/ZBeNSKJX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/31/36/e6313667-96bf-7b55-bb0f-f0583b27c0f1/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:10.157Z
+Categories:
+
+
+Name: Scribe - Charting Made Easy
+Url: https://testflight.apple.com/join/b4fFcI7v
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b8/f8/f4/b8f8f423-9311-a824-b2d2-776e4e832e68/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:10.194Z
+Categories:
+
+
+Name: Scripture.LY
+Url: https://testflight.apple.com/join/thZtAcMd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/bc/cb/24bccb3e-df09-1289-78df-958efb16ad2f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:10.230Z
+Categories:
+
+
+Name: Searchitron
+Url: https://testflight.apple.com/join/FklZj33m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ed/0b/f5/ed0bf50e-60df-a301-5bb6-78dffe85c351/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:44:10.267Z
+Categories:
+
+
