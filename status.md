@@ -5380,3 +5380,120 @@ Last Checked: 2024-06-04T19:08:10.304Z
 Categories:
 
 
+Name: Web3bank - Wallet
+Url: https://testflight.apple.com/join/0lAGJz5e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/c7/89/64c789c3-61f8-e3a3-ddc7-1fcdee6d331b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:09:08.479Z
+Categories:
+
+
+Name: WeechatRemote
+Url: https://testflight.apple.com/join/0jFsQpot
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7e/0b/ad/7e0bad67-e397-77cf-a035-45aca4fd15a7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:09:08.508Z
+Categories:
+
+
+Name: WellTra.AI
+Url: https://testflight.apple.com/join/LVOBuFfv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/2b/5f/4d2b5f8d-06fc-0df0-2534-78fc1c2d99ce/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:09:08.536Z
+Categories:
+
+
+Name: Wemates
+Url: https://testflight.apple.com/join/fuBJEElq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/a5/f1/1aa5f1f9-c669-c955-9d6c-855c8d125e76/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:09:08.564Z
+Categories:
+
+
+Name: Westside
+Url: https://testflight.apple.com/join/pfvhMuad
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/88/96/df8896b8-d3a1-868a-1885-774d51f29cda/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:09:08.592Z
+Categories:
+
+
+Name: What Are Those!? App
+Url: https://testflight.apple.com/join/5sQrm9MF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/c7/80/50c780b8-5850-9ce3-e35d-abd58fe9714c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:09:08.620Z
+Categories:
+
+
+Name: Whatever - Dates for Couples
+Url: https://testflight.apple.com/join/6uvfdowB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/74/ba/ff74ba69-12d2-68be-8e13-cb1cafaa0b04/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:09:08.648Z
+Categories:
+
+
+Name: Widgetsmith
+Url: https://testflight.apple.com/join/U1xowuoZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/76/be/aa76bed0-fa8e-2011-4a79-47559f1870f5/AppIcon.lsr/200x200bb-8.png
+Click Count: 7
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:09:08.677Z
+Categories:
+
+
+Name: Winee3 Beta
+Url: https://testflight.apple.com/join/IFjwtnsG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/92/17/079217ff-e133-c828-b0ed-44c813f5b795/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T19:09:08.705Z
+Categories:
+
+
+Name: Wingman
+Url: https://testflight.apple.com/join/I63dW4bi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/8b/b3/538bb306-2e3b-0cf0-4f0a-4be88bc53005/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:09:08.734Z
+Categories:
+
+
+Name: Winners List
+Url: https://testflight.apple.com/join/SnIvJgRg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/ee/f8/edeef849-48da-5b05-85e2-1bb9ad65bd49/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:09:08.761Z
+Categories:
+
+
+Name: Wisej.NET Hybrid
+Url: https://testflight.apple.com/join/WcgU4Oil
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/c4/39/bac439de-e964-8660-95b2-eb6a4346dbb7/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:09:08.790Z
+Categories:
+
+
+Name: WoWs Info Future
+Url: https://testflight.apple.com/join/685rpJS8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/11/1d/bc111dba-d448-2e81-f064-a0017a8b2f07/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:09:08.817Z
+Categories:
+
+
