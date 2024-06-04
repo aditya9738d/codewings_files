@@ -26206,3 +26206,120 @@ Last Checked: 2024-06-04T17:59:10.511Z
 Categories:
 
 
+Name: Kinnu Labs
+Url: https://testflight.apple.com/join/jg5G5XCe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2d/47/f3/2d47f3c3-9f60-bd12-8c31-bfb469f0cd8d/KinnuLabsAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:01:08.751Z
+Categories:
+
+
+Name: Kinopio
+Url: https://testflight.apple.com/join/VoN2TmsM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2f/de/d2/2fded21b-6eaa-5a1a-044a-9bb6c1d523a6/AppIcon-1x_U007epad-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:01:08.787Z
+Categories:
+
+
+Name: Kip: Track Scores
+Url: https://testflight.apple.com/join/IBM0brlE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/77/63/627763e7-e118-f560-2712-10f9a4714c26/AppIcon_diamond_mint-1x_U007ephone-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:01:08.823Z
+Categories:
+
+
+Name: Klewos
+Url: https://testflight.apple.com/join/3cLBFt5K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/b0/e0/15b0e0c3-9e8c-91a0-f99f-78b33d5f580f/AppIconProd-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T18:01:08.859Z
+Categories:
+
+
+Name: KlickTalk
+Url: https://testflight.apple.com/join/QICyie9e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/a1/da/e6a1da76-8aa7-4b83-2d51-dcf554d342a9/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:01:08.894Z
+Categories:
+
+
+Name: KlipC
+Url: https://testflight.apple.com/join/sb8EbOpI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/98/ab/3098ab30-d3f4-b754-020c-b40927e829bc/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T18:01:08.929Z
+Categories:
+
+
+Name: Knob-UserApp
+Url: https://testflight.apple.com/join/cOrChT47
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/95/5c/8f955c59-fccb-f957-5634-6c938d453ac5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:01:08.964Z
+Categories:
+
+
+Name: Kreator
+Url: https://testflight.apple.com/join/XIxCyoYI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/41/0a/b4/410ab495-939e-8ef8-8d02-2d6abe375823/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:01:08.999Z
+Categories:
+
+
+Name: Krono Trivia 2024
+Url: https://testflight.apple.com/join/Q8uh1VUt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/35/07/8a35075c-aea5-522c-dd36-a50a54ed8957/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T18:01:09.034Z
+Categories:
+
+
+Name: Kumome
+Url: https://testflight.apple.com/join/5Lk9ItLa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/49/6d/04496d85-5bbe-a994-07e1-63d181fd49b8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T18:01:09.069Z
+Categories:
+
+
+Name: Kuringo
+Url: https://testflight.apple.com/join/dPfl3Wyd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/86/ed/d686ed78-bef1-40a6-605c-a5f8c750a054/AppIcon-0-0-1x_U007epad-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:01:09.104Z
+Categories:
+
+
+Name: L&T ART
+Url: https://testflight.apple.com/join/AY3H97Lg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/73/dc/0573dc2c-8780-f9ef-351b-a95e5c11bd61/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T18:01:09.139Z
+Categories:
+
+
+Name: LAsk Client
+Url: https://testflight.apple.com/join/jRdr9cw2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/23/56/2b/23562b05-3a87-e2cc-26eb-004314e9afab/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:01:09.174Z
+Categories:
+
+
