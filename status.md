@@ -3391,3 +3391,120 @@ Last Checked: 2024-06-04T14:28:13.713Z
 Categories:
 
 
+Name: Teja - journal & selfcare
+Url: https://testflight.apple.com/join/w2vMOLFB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/89/5d/62895d88-92bc-8cd6-9246-89a1e5274531/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:29:12.797Z
+Categories:
+
+
+Name: Peaks: Circadian Rhythm
+Url: https://testflight.apple.com/join/Z0KOoZht
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/15/e3/a015e305-d4fe-83b2-941c-74e68e30af60/AppIcon-0-1x_U007ephone-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:29:12.832Z
+Categories:
+
+
+Name: Tread®
+Url: https://testflight.apple.com/join/Y5jn4pt5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/e9/cb/fbe9cb22-3b05-c050-2a94-c51a00464b4a/TreadAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:29:12.868Z
+Categories:
+
+
+Name: Beeper Cloud
+Url: https://testflight.apple.com/join/AmLtgT00
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/b8/f3/94b8f341-ab28-49c5-a7b6-3676b3eec372/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:29:12.905Z
+Categories:
+
+
+Name: HomePass Beta
+Url: https://testflight.apple.com/join/wFP7VBcd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/e4/9a/1ae49a8f-341c-f17a-f232-efee780b6eb3/AppIcon-0-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:29:12.940Z
+Categories:
+
+
+Name: AdaptVis
+Url: https://testflight.apple.com/join/Mz99EtHy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/af/91/71/af91716e-abf7-547f-0c15-919ad8435571/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:29:12.976Z
+Categories:
+
+
+Name: Hik-Connect - for End user
+Url: https://testflight.apple.com/join/fJXKZnb5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/28/80/bd2880b3-96a9-038a-35e0-822b40ef19d5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:29:13.010Z
+Categories:
+
+
+Name: KPLUS Shop UAT
+Url: https://testflight.apple.com/join/ANrcLvUt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/08/ed/9c08ed44-8769-d39e-204a-d6d67293211c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:29:13.045Z
+Categories:
+
+
+Name: LifeGuardian
+Url: https://testflight.apple.com/join/Bfo7X4nB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/3d/4c/be3d4cba-b861-a7d7-fab6-55b8160dc9a3/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:29:13.081Z
+Categories:
+
+
+Name: Nagad Customer
+Url: https://testflight.apple.com/join/xhBJPuRp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/60/bd/8a60bd67-1de8-4f89-f07d-8d50f168a9d0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:29:13.116Z
+Categories:
+
+
+Name: Nova Health
+Url: https://testflight.apple.com/join/UUQw0cM2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/c2/8e/97c28ee2-dff4-3db9-83b6-2c5daadddaad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:29:13.152Z
+Categories:
+
+
+Name: Konekt
+Url: https://testflight.apple.com/join/OqSdJFWW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/70/ed/3770edf9-4e85-5198-7b8f-4fefa997bdf2/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:29:13.189Z
+Categories:
+
+
+Name: H-E-B Scanner
+Url: https://testflight.apple.com/join/YrzoRxPV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/52/5d/da525d00-f9bd-2962-3f90-07b0fab269fd/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:29:13.225Z
+Categories:
+
+
