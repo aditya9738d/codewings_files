@@ -21760,3 +21760,120 @@ Last Checked: 2024-06-04T00:04:11.012Z
 Categories:
 
 
+Name: LR One
+Url: https://testflight.apple.com/join/Egd4djyh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/e4/9c/6ee49c11-2a6a-c914-abab-bdb83480f20a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:05:17.941Z
+Categories:
+
+
+Name: LSOA
+Url: https://testflight.apple.com/join/0hhq4Wgq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5a/77/41/5a7741df-f652-ddd4-c7fd-6b97729c71fb/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:05:17.978Z
+Categories:
+
+
+Name: LUKA partying
+Url: https://testflight.apple.com/join/35kSgIMt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/6b/b1/1e6bb12e-8819-abae-b2fe-68c1eeaecaba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:05:18.014Z
+Categories:
+
+
+Name: Languages with Michel Thomas
+Url: https://testflight.apple.com/join/fQLm65W9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/a0/5c/eaa05c36-72d1-08a0-3911-31988e748a3c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:05:18.049Z
+Categories:
+
+
+Name: LeanDock
+Url: https://testflight.apple.com/join/7wEeZLjt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/60/03/5a600310-767e-3992-d1b7-3d0b85656b9f/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:05:18.085Z
+Categories:
+
+
+Name: Learnmer
+Url: https://testflight.apple.com/join/bKuIvyl8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/2c/5e/1c2c5e4b-f708-2939-4dcc-480fc322809a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:05:18.121Z
+Categories:
+
+
+Name: Legitmark
+Url: https://testflight.apple.com/join/NhQdlqOW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/be/f8/38bef8d3-419f-969a-c9f0-5542b4ed7f1f/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:05:18.157Z
+Categories:
+
+
+Name: Lemmios
+Url: https://testflight.apple.com/join/BF7pq1hn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/fd/7c/5bfd7ced-a86d-1d93-90ed-ecf666a492f3/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:05:18.193Z
+Categories:
+
+
+Name: Lengi
+Url: https://testflight.apple.com/join/65M1Xd18
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/e1/a1/b9e1a165-67ff-6d66-a327-b646bf66b554/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:05:18.228Z
+Categories:
+
+
+Name: LensPlay
+Url: https://testflight.apple.com/join/kFTTFlGZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/15/d4/c2/15d4c24f-d8b3-7c0c-cf93-b19b1d9799d0/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:05:18.264Z
+Categories:
+
+
+Name: LentPal
+Url: https://testflight.apple.com/join/U7cAfa9q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/c5/5e/31c55eae-76a9-bf03-e45a-343eb4c6e140/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:05:18.300Z
+Categories:
+
+
+Name: Leplayer
+Url: https://testflight.apple.com/join/Bpa6BOWG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/fc/e4/7afce4a1-a1e6-b4c1-b49e-b093ab2fcc14/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:05:18.337Z
+Categories:
+
+
+Name: LetsChat: With Close Friends
+Url: https://testflight.apple.com/join/hbuquoCi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/09/e0/44/09e044e0-293b-9f60-6918-cbecb6205b76/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:05:18.373Z
+Categories:
+
+
