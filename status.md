@@ -26791,3 +26791,120 @@ Last Checked: 2024-06-04T00:48:12.082Z
 Categories:
 
 
+Name: SmokingArea
+Url: https://testflight.apple.com/join/GjTVceT9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/55/d5/e855d547-b194-c715-1a2d-a132c17682a3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:49:09.916Z
+Categories:
+
+
+Name: SmoothTrack: Head Tracker
+Url: https://testflight.apple.com/join/ytc1tAdA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f0/ec/72/f0ec72b9-ec62-a16f-4b6c-4d3b8e4ba304/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:49:09.953Z
+Categories:
+
+
+Name: Smugshot: Catfish-Proof Dating
+Url: https://testflight.apple.com/join/L3fAq4nr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/39/f3/fe/39f3fef9-793c-6d27-d330-52129a292b38/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:49:09.990Z
+Categories:
+
+
+Name: SnakeRidersMid
+Url: https://testflight.apple.com/join/cwjG9yse
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/f1/1f/94f11f85-d37f-f556-3fa4-28a0d1fc9f1d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:49:10.027Z
+Categories:
+
+
+Name: Snikket
+Url: https://testflight.apple.com/join/ayZ9Pxv7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/93/b8/eb93b83c-1c0e-aff8-5595-7d04ddfca561/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:49:10.063Z
+Categories:
+
+
+Name: SnoTel Mapper
+Url: https://testflight.apple.com/join/9dYilL8f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/8c/17/198c1789-8e8d-8e31-ff45-115985be120b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:49:10.099Z
+Categories:
+
+
+Name: Snowpack-SNO
+Url: https://testflight.apple.com/join/oFvpDxPL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/eb/53/a9eb5371-13d5-f30e-0c16-e5a2eb4294e2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:49:10.136Z
+Categories:
+
+
+Name: Soba - No-Code 3D Game Maker
+Url: https://testflight.apple.com/join/PJAJGNJP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/4e/00/5a4e0022-3e51-4d5c-6d9d-adba42a816bb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:49:10.172Z
+Categories:
+
+
+Name: Socrates - SocialFi & GameFi
+Url: https://testflight.apple.com/join/rI5UefEC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a0/be/66/a0be66a2-9efb-08fb-0466-9df8116550fd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:49:10.210Z
+Categories:
+
+
+Name: SohuGloba
+Url: https://testflight.apple.com/join/66rRi3GW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/55/90/305590c4-436d-d48b-23f1-5aec3a311641/AppIcon-0-0-1x_U007epad-0-0-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:49:10.246Z
+Categories:
+
+
+Name: SolaxCloud
+Url: https://testflight.apple.com/join/UZ7XGmiJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/40/72/13407201-34e2-1d73-dcb6-f018f06f3c9f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:49:10.282Z
+Categories:
+
+
+Name: Solstice
+Url: https://testflight.apple.com/join/gLxAcDxy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/03/6f/01036fd4-fa12-a92e-055c-06f44c8f49d5/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:49:10.319Z
+Categories:
+
+
+Name: Somneon
+Url: https://testflight.apple.com/join/4eRVz2zr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/46/af/fa/46affabd-0643-9756-4a5d-c8ed6541d6b8/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:49:10.354Z
+Categories:
+
+
