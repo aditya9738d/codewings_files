@@ -26323,3 +26323,120 @@ Last Checked: 2024-06-04T00:44:10.267Z
 Categories:
 
 
+Name: Sense — AI Chat
+Url: https://testflight.apple.com/join/R72eJyIm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/7a/48/f97a48f1-b4bf-612f-26b0-723a4c92f51a/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:45:23.840Z
+Categories:
+
+
+Name: SenseAR Effects
+Url: https://testflight.apple.com/join/psgZybKI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/13/0c/78130c76-f38e-a560-7738-471928b72004/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:45:23.877Z
+Categories:
+
+
+Name: Sensoria SKB
+Url: https://testflight.apple.com/join/htdxxQS8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/89/bc/f789bcfc-036e-0716-8932-595def28ee9d/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:45:23.914Z
+Categories:
+
+
+Name: Sentz Staging
+Url: https://testflight.apple.com/join/nfjbcrcE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/45/9a/bb459a7e-c705-3c93-3d35-26c3c21c9f82/AppIcon-beta-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:45:23.952Z
+Categories:
+
+
+Name: Senzei 1.1
+Url: https://testflight.apple.com/join/4QmxqYCB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/85/c5/9585c5a3-2282-d741-0561-208f29397d41/AppIcon-1x_U007ephone-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:45:23.989Z
+Categories:
+
+
+Name: Septourian
+Url: https://testflight.apple.com/join/d9tV98g1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/bc/e2/59bce292-108a-127a-053d-01ae153b1ac9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:45:24.025Z
+Categories:
+
+
+Name: Service Hero
+Url: https://testflight.apple.com/join/twgOWPvp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/9f/ee/919fee76-7619-e483-8760-27c3b41b94f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:45:24.061Z
+Categories:
+
+
+Name: ShaderVF
+Url: https://testflight.apple.com/join/y5BhHw8z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/cc/59/83cc591f-64c3-3333-fbba-bdd3498fa0ea/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:45:24.098Z
+Categories:
+
+
+Name: Shake - Dance Only
+Url: https://testflight.apple.com/join/DXOiiMCW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/80/eb/ca/80ebca90-54f0-7a13-2bc7-4b029694ec56/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:45:24.135Z
+Categories:
+
+
+Name: ShakeSampler
+Url: https://testflight.apple.com/join/zjyDPj16
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/55/d5/c655d5ab-cbd8-9ca4-a823-bf2c1bb0171f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:45:24.173Z
+Categories:
+
+
+Name: Shakespay
+Url: https://testflight.apple.com/join/muuh0Fef
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/06/19/7a0619e7-89b7-bd00-b3b2-dfa34a8e7a9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:45:24.210Z
+Categories:
+
+
+Name: Shared
+Url: https://testflight.apple.com/join/Uv8lHmrO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/53/7d/eb537da1-d5aa-f240-87e3-54cc87f0d970/AppIcon-WoB-0-1x_U007epad-0-0-0-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:45:24.247Z
+Categories:
+
+
+Name: Shareup: Simple & Fast Sharing
+Url: https://testflight.apple.com/join/knCc0H6p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/a4/a3/2ba4a376-3286-4b6b-a138-f75216c9fb5f/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:45:24.283Z
+Categories:
+
+
