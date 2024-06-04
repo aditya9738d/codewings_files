@@ -10996,3 +10996,120 @@ Last Checked: 2024-06-04T15:38:12.312Z
 Categories:
 
 
+Name: Metal Sketch Dojo
+Url: https://testflight.apple.com/join/neaw91ke
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/50/63/42506363-df61-60aa-cbd5-c4312e16e71d/AppIcon-0-0-1x_U007epad-0-0-GLES2_U002c0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:39:10.971Z
+Categories:
+
+
+Name: My VBI
+Url: https://testflight.apple.com/join/ODSse3Yi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/a4/f5/44a4f5d2-354c-d74c-e7cb-6e1c739a6468/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:39:10.999Z
+Categories:
+
+
+Name: SOUNDBOKS Beta
+Url: https://testflight.apple.com/join/iiwDiw7b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/e3/f0/89e3f016-42f4-f1db-d262-ab62a6aa6441/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T15:39:11.027Z
+Categories:
+
+
+Name: OVO Demo
+Url: https://testflight.apple.com/join/VhrbHMYc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/8c/57/138c57a6-8e08-e28f-f150-90b7f5cf45eb/AppIcon.demo-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:39:11.056Z
+Categories:
+
+
+Name: Fraser-Rudy
+Url: https://testflight.apple.com/join/zYltCU7b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/fe/82/d4fe8291-5a23-8d28-1672-505a4c6c744d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:39:11.084Z
+Categories:
+
+
+Name: Koy
+Url: https://testflight.apple.com/join/WNvs1vST
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/c7/60/0ec76054-5f26-2fcf-0d20-bea01ebbac38/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:39:11.112Z
+Categories:
+
+
+Name: Fushaar Pro
+Url: https://testflight.apple.com/join/CmAWdQuP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/33/fc/1533fcc7-e1a4-272a-50b1-d6d7923a0085/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:39:11.141Z
+Categories:
+
+
+Name: FitNotes 2 - Gym Workout Log
+Url: https://testflight.apple.com/join/u7VGF73Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/56/e0/e456e08b-e709-fd22-e9f6-afd075654c37/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:39:11.169Z
+Categories:
+
+
+Name: AIoT Cam
+Url: https://testflight.apple.com/join/UJvtIqIg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2c/af/63/2caf6346-8039-3350-f9eb-0a4438bde696/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T15:39:11.197Z
+Categories:
+
+
+Name: Luma AI
+Url: https://testflight.apple.com/join/AvhTle5L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a5/73/05/a573059f-b8ae-cb36-dbc7-a498be444fa2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T15:39:11.225Z
+Categories:
+
+
+Name: Timelines Time Tracking
+Url: https://testflight.apple.com/join/zxFgcULE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c3/c3/a4c3c39f-451e-653e-97e8-7bc3997b4d27/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T15:39:11.254Z
+Categories:
+
+
+Name: Dextra: AI Business Assistant
+Url: https://testflight.apple.com/join/vhpbl19u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/ac/33/66ac33df-cbad-30c2-e9d1-908fbceadbf7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:39:11.282Z
+Categories:
+
+
+Name: CareMonitor
+Url: https://testflight.apple.com/join/Gz3y9pb6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/f9/78/9bf9785d-5ebc-f0fe-82ae-18b84fa57788/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:39:11.310Z
+Categories:
+
+
