@@ -18789,3 +18789,120 @@ Last Checked: 2024-06-04T12:29:13.899Z
 Categories:
 
 
+Name: Litewallet: Buy Litecoin
+Url: https://testflight.apple.com/join/zNmFTm37
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/97/94/589794a6-3db4-be65-24cb-ed8420b47fab/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:30:49.988Z
+Categories:
+
+
+Name: Toggl Track: Hours & Time Log
+Url: https://testflight.apple.com/join/dONNQfWl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/98/59/51/98595186-6c83-7b4e-1e8f-4eb12c4205e4/AppIcon-85-220-4-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:30:50.024Z
+Categories:
+
+
+Name: Strings Messenger
+Url: https://testflight.apple.com/join/B8X26MxM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/a9/69/08a96933-f35a-e5ad-34a1-006869cc1b07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:30:50.060Z
+Categories:
+
+
+Name: Kress Commercial
+Url: https://testflight.apple.com/join/nUEGQnQt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/b7/67/59b76728-f498-d08e-22e9-0dea12d56ace/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:30:50.096Z
+Categories:
+
+
+Name: The Wardrobe
+Url: https://testflight.apple.com/join/Yctx5DtW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/31/df/d331df1f-e0fc-ca5f-9ec7-0cc067d8efdc/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T12:30:50.131Z
+Categories:
+
+
+Name: Tunda Island - BFF & Dating
+Url: https://testflight.apple.com/join/Afx8xXRn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e2/a2/ff/e2a2ff04-f1b8-6173-fb86-7373a669b3f3/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:30:50.167Z
+Categories:
+
+
+Name: csl.
+Url: https://testflight.apple.com/join/JhvirvMs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/1f/86/5b1f86ff-ac07-6847-95e4-c1b6f2a3efbe/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:30:50.202Z
+Categories:
+
+
+Name: SuperNews: custom news app
+Url: https://testflight.apple.com/join/SKj6fn5k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/be/65/0b/be650b23-ec1e-1f87-840a-eb29397f2f64/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:30:50.238Z
+Categories:
+
+
+Name: iBoot - StartupDisk shortcut
+Url: https://testflight.apple.com/join/yjWEwvq1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/93/68/4d9368e9-eba7-0933-02b4-9a550388bbd8/AppIcon-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:30:50.273Z
+Categories:
+
+
+Name: Whalestream Flow
+Url: https://testflight.apple.com/join/muxvoB7l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/88/8c/29888c9a-4c12-e4a4-fe54-e1824b317617/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T12:30:50.309Z
+Categories:
+
+
+Name: TILT Mobile BETA
+Url: https://testflight.apple.com/join/SporEXST
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/85/ce/8c/85ce8cc0-b615-c039-8af0-74e2ff80e278/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:30:50.345Z
+Categories:
+
+
+Name: ObjectDetection2
+Url: https://testflight.apple.com/join/Hv7T2Ozg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/ee/25/bcee25db-f679-be2e-b9bb-0fd83835f159/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:30:50.381Z
+Categories:
+
+
+Name: Scrcpy Remote
+Url: https://testflight.apple.com/join/9ZE6xhRt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/81/83/f7818363-5c03-2eef-5992-fc8e27cdedc7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:30:50.417Z
+Categories:
+
+
