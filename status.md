@@ -20311,3 +20311,120 @@ Last Checked: 2024-06-04T04:05:21.790Z
 Categories:
 
 
+Name: Quatro Booking
+Url: https://testflight.apple.com/join/YG23lJxL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/a7/de/f9a7debd-a8a5-b9a3-6776-d6b8f0209131/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T04:06:12.784Z
+Categories:
+
+
+Name: BESV Smart Plus App
+Url: https://testflight.apple.com/join/FLmvkYS8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/89/8f/c2/898fc218-f7d1-0368-834b-3b75fc9e0557/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:06:12.820Z
+Categories:
+
+
+Name: Fair Plus
+Url: https://testflight.apple.com/join/Ao0G8UZD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/26/7b/8a267b50-4552-dd7c-496d-a63b787a555d/AppIcon-Plus-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T04:06:12.855Z
+Categories:
+
+
+Name: GO-ACT
+Url: https://testflight.apple.com/join/qxWL77Pv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/08/fc/ac08fc38-77cd-00a2-94c4-ddaba9ade0b4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:06:12.902Z
+Categories:
+
+
+Name: Air Manager
+Url: https://testflight.apple.com/join/f81FJgKN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/28/02/98/2802983f-6485-f17b-b4ed-3861480220b2/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:06:12.948Z
+Categories:
+
+
+Name: eM Client
+Url: https://testflight.apple.com/join/nzXZuIQs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ee/03/f2/ee03f234-c439-db5f-df93-1f16fe89e132/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:06:12.984Z
+Categories:
+
+
+Name: Memento: Modern Reminders
+Url: https://testflight.apple.com/join/aRvubPov
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b3/28/da/b328da28-5f6e-1abd-2b2f-dcf390cba918/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:06:13.020Z
+Categories:
+
+
+Name: monpay
+Url: https://testflight.apple.com/join/kCeARWvI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/dd/7b/4bdd7b7b-8118-a733-6cc6-377e86412d8c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:06:13.061Z
+Categories:
+
+
+Name: repeatup-STG
+Url: https://testflight.apple.com/join/2JFHqcf0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/7e/9e/817e9e03-769e-c476-d3ff-d5eed99194e6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:06:13.097Z
+Categories:
+
+
+Name: Spiral Engineering
+Url: https://testflight.apple.com/join/iQt3or0z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/62/87/97628710-fe31-ece6-9f9e-1e61c57c130f/AppIcon-Spiral_Probject-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:06:13.133Z
+Categories:
+
+
+Name: Hanami - Manga Reader
+Url: https://testflight.apple.com/join/VUPzZpkc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/29/32/d7/2932d737-55c9-39a4-1257-3490df9b1911/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:06:13.168Z
+Categories:
+
+
+Name: The(Any)Thing
+Url: https://testflight.apple.com/join/PCdOj1hw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cb/5a/7ccb5afc-35d0-994a-73db-81034922b9c1/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:06:13.204Z
+Categories:
+
+
+Name: Windscribe VPN
+Url: https://testflight.apple.com/join/oKib5JOq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/0e/a7/d80ea7f6-a384-4721-5abb-9b2ecc79c1e6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: full
+Last Checked: 2024-06-04T04:06:13.240Z
+Categories:
+
+
