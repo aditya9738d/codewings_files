@@ -5506,3 +5506,123 @@ Last Checked: 2024-06-04T10:21:10.177Z
 Categories:
 
 
+Name: Varzea
+Url: https://testflight.apple.com/join/hDTCtxrY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d0/0f/88/d00f881b-fde3-b122-02ee-e3ecda768ba3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T10:22:10.202Z
+Categories:
+
+
+Name: F8 LiveStream
+Url: https://testflight.apple.com/join/tvpJzFOW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/6f/ad/e76fadd0-9c04-3c5f-a288-56e1889a2598/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-04T10:22:10.238Z
+Categories:
+
+
+Name: Graphite: Photo to Drawing
+Url: https://testflight.apple.com/join/gRhGuXzI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/40/a6/eb40a6f9-b243-3115-376e-99132ed59694/AppIcon-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T10:22:10.275Z
+Categories:
+
+
+Name: Sapa Dev
+Url: https://testflight.apple.com/join/bACaymuB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4e/50/00/4e50005c-0dfc-edb8-bce0-db58fe017357/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T10:22:10.312Z
+Categories:
+
+
+Name: QLAT
+Url: https://testflight.apple.com/join/wELnBqRQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/c6/7e/bfc67e46-0d14-1ef6-54c3-3c82a47794a0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T10:22:10.348Z
+Categories:
+
+
+Name: Onboard Wallet
+Url: https://testflight.apple.com/join/XJU5cuus
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/8e/43/d08e4360-ab10-8d11-300a-6b0eaa75a2ca/prodAppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T10:22:10.385Z
+Categories:
+
+
+Name: SotaApp
+Url: https://testflight.apple.com/join/71IxEXG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/c5/7a/0dc57a7b-cdb1-5fd0-ce48-02d29f843109/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T10:22:10.421Z
+Categories:
+
+
+Name: Truther
+Url: https://testflight.apple.com/join/kdW8XFwc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0c/e0/05/0ce00568-b117-61fd-2362-dbebd86cd7da/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T10:22:10.458Z
+Categories:
+
+
+Name: RADii Viewer
+Url: https://testflight.apple.com/join/XU57P5PD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/5e/d5/5d5ed59a-03e3-c202-35be-9368458a881c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T10:22:10.494Z
+Categories:
+
+
+Name: 100ms Live
+Url: https://testflight.apple.com/join/Uhzebmut
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/3d/f8/543df866-6fdc-76e6-cdc3-848bcc8e43c0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T10:22:10.531Z
+Categories:
+
+
+Name: WhatsApp Messenger
+Url: https://testflight.apple.com/join/8sLvv90R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/18/c3/2f18c3e8-103d-dd67-7cf9-c81307459370/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1014
+Beta Available: full
+Last Checked: 2024-06-04T10:22:10.568Z
+Categories:
+- Business
+- Chat
+- Education
+- Social Networking
+
+Name: Mini Militia Classic
+Url: https://testflight.apple.com/join/mTdIgovd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/d4/0a/f5d40a00-fbc1-7578-79da-9172bafadead/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 307
+Beta Available: full
+Last Checked: 2024-06-04T10:22:10.604Z
+Categories:
+- Games
+
+Name: McDonald's: Cupons e Delivery
+Url: https://testflight.apple.com/join/yBDER0Mf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/bf/36/f2bf3612-6535-698c-e807-31987e67d2ad/AppIcon-0-0-1x_U007emarketing-0-4-0-512MB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T10:22:10.660Z
+Categories:
+
+
