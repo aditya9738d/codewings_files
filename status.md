@@ -27583,3 +27583,120 @@ Last Checked: 2024-06-04T22:34:12.020Z
 Categories:
 
 
+Name: S-AI
+Url: https://testflight.apple.com/join/2FEQ6bxb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/94/15/87/94158789-16b0-ccbd-b8bf-38c204fe46d5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.485Z
+Categories:
+
+
+Name: InPost Mobile (Sandbox)
+Url: https://testflight.apple.com/join/ey6Yherd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/bb/64/e5bb64ed-26da-5667-30cb-760287f1bbc8/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.512Z
+Categories:
+
+
+Name: kubenav - Kubernetes Dashboard
+Url: https://testflight.apple.com/join/RQUFGkHi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/4e/4b/9f4e4b0d-5f7e-d0a8-6c42-a5395d127058/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.541Z
+Categories:
+
+
+Name: Threema Work. For Companies
+Url: https://testflight.apple.com/join/0c69vzrf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/a8/6f/d3a86ffa-9ab9-59ca-7c05-49dc5c276434/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.570Z
+Categories:
+
+
+Name: RG-SSLVPN
+Url: https://testflight.apple.com/join/2dFuSUbh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/99/d3/2599d363-f3a8-1499-67de-25b3688ae307/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.597Z
+Categories:
+
+
+Name: kmepepo
+Url: https://testflight.apple.com/join/qAxdHMBu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a7/fa/d4/a7fad409-32ab-f020-c560-ccec99188149/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.625Z
+Categories:
+
+
+Name: Cleo3D
+Url: https://testflight.apple.com/join/Eyao5wAT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/a0/6a/33a06a80-0c5e-0523-3f5f-fa067c8dd9bd/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.653Z
+Categories:
+
+
+Name: GMGN Wallet
+Url: https://testflight.apple.com/join/8GH4HtMu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/39/fa/2039fa8f-f483-d4e5-751c-1c2bce98aa0d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.681Z
+Categories:
+
+
+Name: Bela Blok
+Url: https://testflight.apple.com/join/p4XX4hyv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f8/78/f1f878c9-b43c-4741-4a24-6ca942013d86/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.709Z
+Categories:
+
+
+Name: super metal mons
+Url: https://testflight.apple.com/join/1hO6bCMH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/c6/79/b8c6791a-9dfc-804b-ae97-9a2f8f02eeb9/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T22:35:17.737Z
+Categories:
+
+
+Name: StatusBuddy
+Url: https://testflight.apple.com/join/MK6zSKdG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/e5/c8/0ee5c859-e1b1-dd24-9958-47bd97137f9e/AppIcon-0-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.765Z
+Categories:
+
+
+Name: Shipper Japfa
+Url: https://testflight.apple.com/join/OMP57RQo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/39/e4/56/39e45611-3373-b6f0-d6d3-aac4aa6233b9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.793Z
+Categories:
+
+
+Name: Levana.ai
+Url: https://testflight.apple.com/join/hntBsPDi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/0c/45/870c451f-7bf3-74a5-390b-3e2353076f7d/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:35:17.821Z
+Categories:
+
+
