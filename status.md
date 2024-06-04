@@ -13525,3 +13525,120 @@ Last Checked: 2024-06-04T03:03:10.176Z
 Categories:
 
 
+Name: Sundaymart
+Url: https://testflight.apple.com/join/n3vjyJCx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/bd/7f/91bd7f96-f31a-8c67-5aaa-b025c5c10fc7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:04:11.622Z
+Categories:
+
+
+Name: Cash App Pay Sandbox
+Url: https://testflight.apple.com/join/TZY8IaM9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/dc/93/fedc93b8-698f-5029-a073-e6a35f0252d1/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-04T03:04:11.650Z
+Categories:
+
+
+Name: VirtuaSWAP
+Url: https://testflight.apple.com/join/62K9dz4Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/ac/b2/16acb2d4-25dd-24f0-45ac-8e03bd6e2269/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:04:11.677Z
+Categories:
+
+
+Name: wiggler
+Url: https://testflight.apple.com/join/O6FzQSu2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b5/8a/c5/b58ac515-7b68-e400-fb4f-aef30187b25c/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T03:04:11.705Z
+Categories:
+
+
+Name: NOVABOT-TEST
+Url: https://testflight.apple.com/join/ParKxA0P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/be/93/c4be93ec-797e-0f17-4686-fe4af45df6ec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:04:11.732Z
+Categories:
+
+
+Name: Gluon for Micro.blog
+Url: https://testflight.apple.com/join/RwbLiFcR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/89/10/c989105e-e626-50aa-537b-69c048db22ef/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:04:11.760Z
+Categories:
+
+
+Name: Caesars Palace Online Casino
+Url: https://testflight.apple.com/join/moreVpRL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/0e/47/af0e47d0-f6f6-7a4d-6dad-a80e63560237/AppIcon-CasinoStandalone-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:04:11.787Z
+Categories:
+
+
+Name: NotePlan - To-Do List & Notes
+Url: https://testflight.apple.com/join/fm9q4OjE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/78/99/6e789923-858f-890a-97ad-131b01752f53/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:04:11.816Z
+Categories:
+
+
+Name: White Album
+Url: https://testflight.apple.com/join/L4NRSHp0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/58/4d/47584d1c-26a0-2ae9-fa16-3f501ba4c3aa/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:04:11.845Z
+Categories:
+
+
+Name: Windows App Preview
+Url: https://testflight.apple.com/join/YqNaYeyS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/22/2e/f5222e4e-e6cb-5960-550e-fb29fd757b38/AppIconBeta-85-220-0-4-2x.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-04T03:04:11.901Z
+Categories:
+
+
+Name: ZingPlay Beta test
+Url: https://testflight.apple.com/join/CHlUL9QF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/57/45/d35745fb-b583-422e-ad35-e652bc658ff6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:04:11.928Z
+Categories:
+
+
+Name: Smart Sale 2
+Url: https://testflight.apple.com/join/k3Vi2v0i
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/81/9f/ea819f89-e352-bbc5-e238-578753775966/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T03:04:11.955Z
+Categories:
+
+
+Name: Birding Local
+Url: https://testflight.apple.com/join/sfVJt2aY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/22/66/5c/22665c53-54ec-fce1-fbef-27bdf43d7d79/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T03:04:11.985Z
+Categories:
+
+
