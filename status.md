@@ -9430,3 +9430,120 @@ Last Checked: 2024-06-04T02:27:07.147Z
 Categories:
 
 
+Name: deadsound
+Url: https://testflight.apple.com/join/7KNeR1zy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/8a/21/988a2127-fdde-50b6-a6fd-43a890e2484f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T02:28:12.664Z
+Categories:
+
+
+Name: Parcel - Delivery Tracking
+Url: https://testflight.apple.com/join/fMeg6C4A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/2c/45/8c2c45c8-9d13-2c67-4f68-7d58a72e4670/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T02:28:12.700Z
+Categories:
+
+
+Name: CoreLogic Smart Survey Test
+Url: https://testflight.apple.com/join/mauENzvi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/c0/80/96c080a6-0977-8c48-7a5b-9cedc91469e7/AppIcon-Test-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T02:28:12.736Z
+Categories:
+
+
+Name: Boop - Instant Networking
+Url: https://testflight.apple.com/join/lhiEluu4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/de/cb/3cdecb05-07ea-68f7-50d7-3c0d851c1fe2/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T02:28:12.771Z
+Categories:
+
+
+Name: PuffGo
+Url: https://testflight.apple.com/join/8gX0EHpR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/a5/28/2da52804-1d72-067b-6e1c-6f79908abc70/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T02:28:12.807Z
+Categories:
+
+
+Name: TaraMap
+Url: https://testflight.apple.com/join/hPAmQcl3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/4e/4d/614e4d18-ecdf-d5f4-6ace-71a0c67d56ac/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T02:28:12.842Z
+Categories:
+
+
+Name: Pro epicery
+Url: https://testflight.apple.com/join/8NrpK6Bc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/ec/62/29ec625a-d228-0541-386d-858d77d76c14/prodAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T02:28:12.877Z
+Categories:
+
+
+Name: Simple Scan • Quick Scanner
+Url: https://testflight.apple.com/join/5I9XpfUP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/20/b2/8820b2bc-32d3-a7cf-dc1b-386b72bd7819/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T02:28:12.912Z
+Categories:
+
+
+Name: ONE Link – Device management
+Url: https://testflight.apple.com/join/A2sl6Kiu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/30/57/2030570a-328e-e8ea-4be2-c0285ac717f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T02:28:12.947Z
+Categories:
+
+
+Name: LeitzXPert
+Url: https://testflight.apple.com/join/Ugn8mYBJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/22/77/ad22777d-f1fb-fa27-3b72-bcbb582f5b5b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T02:28:12.983Z
+Categories:
+
+
+Name: FIO MOTUS
+Url: https://testflight.apple.com/join/cYi790XR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/38/c0/8638c01c-ca98-bb1d-302e-eef464491a00/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T02:28:13.019Z
+Categories:
+
+
+Name: Training Camp
+Url: https://testflight.apple.com/join/9mDQ8dl8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/db/74/99db7460-795e-51ab-ab90-e69fc9ee94cb/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T02:28:13.054Z
+Categories:
+
+
+Name: CryptoQR Pay
+Url: https://testflight.apple.com/join/0IOfCbnR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/0e/8e/630e8e55-2760-384d-9558-66292e16898b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T02:28:13.090Z
+Categories:
+
+
