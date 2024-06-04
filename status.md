@@ -14695,3 +14695,120 @@ Last Checked: 2024-06-04T03:16:11.928Z
 Categories:
 
 
+Name: WalterChat: Meet New Personas
+Url: https://testflight.apple.com/join/NjydjCrm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/44/25/66442540-28a6-fc65-6751-a89fa63422ef/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.374Z
+Categories:
+
+
+Name: Peercoin Wallet
+Url: https://testflight.apple.com/join/iilc4SvQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/d2/0b/a9d20b5c-6fd1-1cf0-10a9-37febff5ee08/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.402Z
+Categories:
+
+
+Name: Nemo App
+Url: https://testflight.apple.com/join/87mvDHEa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/fd/fd/e1fdfd2a-c59e-5d5a-7057-993f9db9c347/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.429Z
+Categories:
+
+
+Name: Spare
+Url: https://testflight.apple.com/join/TljIYgC7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/c7/85/2bc785cb-f33a-19e7-c7c5-49ccdf2d40ea/AppIconRelease-0-0-1x_U007epad-0-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.457Z
+Categories:
+
+
+Name: Chatwoot
+Url: https://testflight.apple.com/join/yQ4yoSx4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/4d/46/ac4d464a-527a-aa73-a645-bf80ab1f7b91/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.484Z
+Categories:
+
+
+Name: Keenetic
+Url: https://testflight.apple.com/join/dZEvORpb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/9d/26/c59d264c-b9f9-b099-7368-c220b35cebe9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.511Z
+Categories:
+
+
+Name: Vision employees
+Url: https://testflight.apple.com/join/oCwQvo6u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/88/c5/3c88c5f1-942f-65c1-40db-7cfa0c9cbf78/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.539Z
+Categories:
+
+
+Name: My bpost - UAT
+Url: https://testflight.apple.com/join/HHXgX2nZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/ac/75/9eac758a-511d-9bfc-8522-3144d9af1391/AppIcon-UAT-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.566Z
+Categories:
+
+
+Name: Wisenet mobile
+Url: https://testflight.apple.com/join/jI7mowH7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/fc/af/dafcafaf-fd0c-9185-19d4-af95bb2e9e52/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.593Z
+Categories:
+
+
+Name: Greenside AI
+Url: https://testflight.apple.com/join/F59Kqq5f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/db/22/c9/db22c9de-011e-3fd6-e5f9-7e2bdce927e2/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.621Z
+Categories:
+
+
+Name: Suka Pass
+Url: https://testflight.apple.com/join/TAHEsrwi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/36/a8/e136a8d3-21d1-8999-a076-32dad285e6a5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.648Z
+Categories:
+
+
+Name: Cove - your money haven
+Url: https://testflight.apple.com/join/OyfX2FgU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/7c/0c/1e7c0c9e-70bf-6fa9-f49e-b47ffc0d5cdd/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.676Z
+Categories:
+
+
+Name: Mobile Banking - Preprod
+Url: https://testflight.apple.com/join/nBbLgYON
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/86/ae/e586ae14-6a53-613b-71b0-2a786491ec3d/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:17:09.703Z
+Categories:
+
+
