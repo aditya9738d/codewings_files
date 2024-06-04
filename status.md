@@ -2455,3 +2455,120 @@ Last Checked: 2024-06-04T14:20:29.996Z
 Categories:
 
 
+Name: Infomaniak Mail
+Url: https://testflight.apple.com/join/t8dXx60N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/77/9d/ab779da2-8775-2d35-f115-f6b52ef7ee52/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:21:11.854Z
+Categories:
+
+
+Name: Appeon Workspace
+Url: https://testflight.apple.com/join/VqQv2TMz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/96/de/0c96de3e-c78c-a875-d39b-cf6502e37b39/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:21:11.891Z
+Categories:
+
+
+Name: BeKa Apps
+Url: https://testflight.apple.com/join/zPG0b0Po
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/1b/e3/eb1be32a-bf51-be36-0ffd-7c90d93629b5/prodAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:21:11.929Z
+Categories:
+
+
+Name: eBlockchain
+Url: https://testflight.apple.com/join/MHF9zwit
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e3/07/d2/e307d23c-eb15-b547-c106-f465eadbfbc0/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:21:11.966Z
+Categories:
+
+
+Name: cc-flutter-profitness
+Url: https://testflight.apple.com/join/5mPAa2UR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/89/b4/c389b465-4508-9b48-7709-c01729f65f48/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:21:12.003Z
+Categories:
+
+
+Name: OnionShare
+Url: https://testflight.apple.com/join/ZCJeY65W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/53/48/38534875-3226-92b3-05c2-688c21aaef99/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:21:12.039Z
+Categories:
+
+
+Name: Maidzo
+Url: https://testflight.apple.com/join/1tF0eQrB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/fa/bf/9efabf44-2023-7e3e-7424-58ef64782bb8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:21:12.075Z
+Categories:
+
+
+Name: UniSecure Mobile
+Url: https://testflight.apple.com/join/bk4QLalb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/d0/9b/62d09b0e-6a36-545d-e8e7-8cd3110e12b8/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:21:12.118Z
+Categories:
+
+
+Name: Helium HNT Wallet
+Url: https://testflight.apple.com/join/SsAjbJEi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/39/cd/b939cdb4-5d2d-e2e0-3d02-51bf944355d3/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:21:12.154Z
+Categories:
+
+
+Name: FEWS
+Url: https://testflight.apple.com/join/RpVVKAvz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/9a/5b/c59a5bec-9994-1efe-0196-5daacd623926/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:21:12.191Z
+Categories:
+
+
+Name: BETA Buncombe IR
+Url: https://testflight.apple.com/join/FJuhAJeH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/ae/4e/70ae4e9f-ea1e-6e61-8eef-0f22988da86e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:21:12.228Z
+Categories:
+
+
+Name: Taco Universe - WAX Gaming
+Url: https://testflight.apple.com/join/jdUTGInd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/f5/a9/a9f5a940-3c5c-7c92-9066-1f43e6a022a0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:21:12.265Z
+Categories:
+
+
+Name: Gun Run: Auto Shooting Sniper
+Url: https://testflight.apple.com/join/mdGda6N0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/6a/11/dc6a11a6-6243-25ba-c1f3-05273becc25e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:21:12.301Z
+Categories:
+
+
