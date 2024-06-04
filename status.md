@@ -5848,3 +5848,120 @@ Last Checked: 2024-06-04T23:32:12.429Z
 Categories:
 
 
+Name: Mixin Messenger
+Url: https://testflight.apple.com/join/G36egM0k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/74/8a/c8/748ac8f4-45cd-4907-ae2d-8fad4b572f29/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:10.830Z
+Categories:
+
+
+Name: APK-TEST
+Url: https://testflight.apple.com/join/Zm62zLyL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dd/42/d6/dd42d639-a7ef-9637-2d44-ca50070a21dd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-04T23:33:10.858Z
+Categories:
+
+
+Name: Stickier
+Url: https://testflight.apple.com/join/WjxlZzrm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/60/27/ab/6027abaf-294e-cdd0-2ba0-97fddd4c6209/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:10.886Z
+Categories:
+
+
+Name: FTL Mobile Trading System
+Url: https://testflight.apple.com/join/4azP6hqE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/43/98/434398c8-27b3-8a78-f291-1b157bea29c3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:10.914Z
+Categories:
+
+
+Name: AUTO.RIA: продаж, купівля авто
+Url: https://testflight.apple.com/join/chzd1loM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/b1/cb/0fb1cba5-cfe3-4abe-4b9b-fe027d6cc44e/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:10.942Z
+Categories:
+
+
+Name: Pennyworth Expense Tracker App
+Url: https://testflight.apple.com/join/2SmGmL2X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/0a/78/730a789f-6f4e-ccff-4f91-b929b6adc117/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:10.969Z
+Categories:
+
+
+Name: XRAI Glass
+Url: https://testflight.apple.com/join/oS3CLajQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/a6/29/3ba629ed-1f44-0b29-9c2c-c8870a381626/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:10.997Z
+Categories:
+
+
+Name: Poker Master - Texas Hold’em
+Url: https://testflight.apple.com/join/3aPlJZGg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/5b/f8/e75bf8ef-5acd-e5ea-40c8-696d32bab15a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:11.025Z
+Categories:
+
+
+Name: Umay
+Url: https://testflight.apple.com/join/AIqnaiRD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/5b/53/ee5b53c9-8e5c-6b76-61f3-f64487734168/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:11.053Z
+Categories:
+
+
+Name: SSP UAT
+Url: https://testflight.apple.com/join/fDTIhPK5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5c/26/c1/5c26c1f9-ec5d-4e81-b735-0a8ac82aba48/SSPAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:11.081Z
+Categories:
+
+
+Name: Uniwhale Care
+Url: https://testflight.apple.com/join/e7gQg6qR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/9d/ed/d69ded8c-c5aa-0f08-3fbd-c5c27e6c8722/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:11.111Z
+Categories:
+
+
+Name: ChanExpress
+Url: https://testflight.apple.com/join/YrrAMjcu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/18/0c/ec180c2f-befa-d4f1-1a4e-1621e3c69dbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:11.139Z
+Categories:
+
+
+Name: BsAgentes
+Url: https://testflight.apple.com/join/L4oPaQvR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/31/b4/dc31b4f6-78a4-ecae-daef-6b6bdb3e5d61/AppIcon-2-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:33:11.166Z
+Categories:
+
+
