@@ -7486,3 +7486,120 @@ Last Checked: 2024-06-04T15:04:12.602Z
 Categories:
 
 
+Name: Unity CRM Test
+Url: https://testflight.apple.com/join/6br4OV2b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/22/ae/88/22ae883a-2289-ea2b-008a-ff6635924e70/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.451Z
+Categories:
+
+
+Name: GSC Dev
+Url: https://testflight.apple.com/join/Y2NDd08x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/5d/a6/b85da663-e338-7b26-608d-eb588220119c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.479Z
+Categories:
+
+
+Name: Bitpie One
+Url: https://testflight.apple.com/join/RU1xhJV1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/5a/94/ef5a94ad-2f12-77a3-6031-92c18b764bbc/BitpieOneAppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.507Z
+Categories:
+
+
+Name: HF_YQ
+Url: https://testflight.apple.com/join/nx925ZZG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/4f/4d/cb4f4db8-65c5-fec8-79a5-2e988e1d0237/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.535Z
+Categories:
+
+
+Name: EdCast Preview
+Url: https://testflight.apple.com/join/mN15zAnj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/c0/3f/8bc03f57-03c9-a7e5-869b-0b03e80bf503/EdCast-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.563Z
+Categories:
+
+
+Name: Adobe Scan: PDF & OCR Scanner
+Url: https://testflight.apple.com/join/yP3SqM7b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/3f/f1/513ff177-9780-f12a-6d6e-3b56317b35c4/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.591Z
+Categories:
+
+
+Name: Minority Owned Businesses
+Url: https://testflight.apple.com/join/BvlNgzMW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/fd/e6/b7fde61c-1659-beaf-32d5-7e67f78ffa86/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.621Z
+Categories:
+
+
+Name: FRITZ!App TV
+Url: https://testflight.apple.com/join/Zl2czQO2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/2d/30/2d2d3052-2741-3240-138b-ffa8037dde78/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.649Z
+Categories:
+
+
+Name: Polity - Online Role Playing
+Url: https://testflight.apple.com/join/pSvtiAVL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/9e/63/de9e63b9-2bbe-a692-2cf7-6075cfae8833/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.677Z
+Categories:
+
+
+Name: Celestia - Space Simulator
+Url: https://testflight.apple.com/join/VPp0g68O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/85/83/a78583ae-c4b4-d2f1-a550-4cdf7171b575/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.705Z
+Categories:
+
+
+Name: Personal Diary (Journal) App
+Url: https://testflight.apple.com/join/vGSyL9K7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/ae/52/9aae5279-1499-a56c-8dce-c09206e19947/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.734Z
+Categories:
+
+
+Name: jkfkjfkdfjkdf
+Url: https://testflight.apple.com/join/Wtb2KRp8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/64/42/aa6442db-9477-d7d2-6018-0576ec6c5d0b/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T15:05:19.765Z
+Categories:
+
+
+Name: SAP Concur
+Url: https://testflight.apple.com/join/XHz0uxsp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/58/0d/4e580d3e-f85b-613f-2bd7-840719e4f219/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:05:19.792Z
+Categories:
+
+
