@@ -16683,3 +16683,120 @@ Last Checked: 2024-06-04T12:01:12.867Z
 Categories:
 
 
+Name: IS – Ilta-Sanomat
+Url: https://testflight.apple.com/join/1RBY45gc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/d3/26/17d326f6-c546-6b42-0caa-bc3633a5fae4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.233Z
+Categories:
+
+
+Name: Kasir Mudah
+Url: https://testflight.apple.com/join/UzbspNT4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/b4/ce/c9b4ce51-e9bd-257f-ad6a-ca0195bc3ff6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.267Z
+Categories:
+
+
+Name: Wristcheck  - Staging
+Url: https://testflight.apple.com/join/87I2Gzgb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/6d/49/766d492a-e6ae-9781-4696-b6c1ab21b006/wc-staging-icon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.302Z
+Categories:
+
+
+Name: Vu Kiem Mobile.
+Url: https://testflight.apple.com/join/hNR3a0Lw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/79/f6/3b79f6da-0970-b95e-f111-13fc16f2ac9c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.337Z
+Categories:
+
+
+Name: Geda Grill
+Url: https://testflight.apple.com/join/ZBZYxufg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/11/cb/9611cb23-23e4-5e11-262b-3f900ed6ddc2/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.373Z
+Categories:
+
+
+Name: EOJO
+Url: https://testflight.apple.com/join/Bw4Iu4VO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/b8/79/9db879bc-2edd-c4c4-5856-55fe6857cf1f/AppIcon-1x_U007ephone-0-8-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.408Z
+Categories:
+
+
+Name: AGEphone Cloud
+Url: https://testflight.apple.com/join/D6hYD9bS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/ec/1c/d6ec1c20-72ce-422d-970d-45a1985a7965/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-04T12:03:08.443Z
+Categories:
+
+
+Name: ifland - Social Metaverse
+Url: https://testflight.apple.com/join/gwsjvjj7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/f0/30/a7f030d6-d08d-0af5-2449-22b427cd1e11/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.478Z
+Categories:
+
+
+Name: MarkMark Legacy
+Url: https://testflight.apple.com/join/2Udv5Czf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/f9/df/6cf9df13-0c9e-d070-be95-e819a9e63df4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.513Z
+Categories:
+
+
+Name: Microsoft SwiftKey AI Keyboard
+Url: https://testflight.apple.com/join/yhIhAvjp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/cf/78/c5cf7898-42ae-cc87-c841-61302efebcc6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.548Z
+Categories:
+
+
+Name: DR3FanmadeViewer
+Url: https://testflight.apple.com/join/zjbpRT9d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/80/36/ab/8036ab1c-28cc-eb72-9c0c-22a4c77852b4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.583Z
+Categories:
+
+
+Name: Level Home
+Url: https://testflight.apple.com/join/jpibV2eQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/3b/d8/213bd8d8-c57a-ccb5-c609-07364629ef83/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.619Z
+Categories:
+
+
+Name: Dilo Wallet
+Url: https://testflight.apple.com/join/r19zMRr9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/64/c9/6964c999-26ac-a30d-2380-641be56deeab/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:03:08.653Z
+Categories:
+
+
