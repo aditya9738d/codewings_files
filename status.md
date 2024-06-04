@@ -6784,3 +6784,120 @@ Last Checked: 2024-06-04T06:22:12.468Z
 Categories:
 
 
+Name: Smart Site Beta V6
+Url: https://testflight.apple.com/join/ARWrsiI2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/c9/cf/dfc9cf92-445a-c48c-5825-484b72278ad1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:23:10.299Z
+Categories:
+
+
+Name: Citytouch-UAT
+Url: https://testflight.apple.com/join/FWXy7VRP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/44/8c/bf448cdf-cc54-d7cf-236f-8f8b8f2713cb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:23:10.334Z
+Categories:
+
+
+Name: Multifamily-Beta
+Url: https://testflight.apple.com/join/euMYy2jh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c5/b7/4a/c5b74a3c-b949-33bf-699a-42ad5345e467/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:23:10.369Z
+Categories:
+
+
+Name: Outmarch
+Url: https://testflight.apple.com/join/nIS30kDU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/9f/52/699f5297-21f2-396b-e3e9-3679bc94595b/AppIcon-1-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T06:23:10.405Z
+Categories:
+
+
+Name: Crypto Messanger
+Url: https://testflight.apple.com/join/MksTdPCN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/8f/1f/6f8f1fc7-5f80-ff1b-c038-14c98c62597b/AppIconGP-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:23:10.439Z
+Categories:
+
+
+Name: ClockMa
+Url: https://testflight.apple.com/join/y4l4nVY3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/9d/6f/dc9d6f61-f2b7-3f47-33c8-a60d11d831da/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:23:10.475Z
+Categories:
+
+
+Name: Glamuare
+Url: https://testflight.apple.com/join/qX9Tatyt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/e4/2c/8ee42cb4-090e-3e1b-afc9-428ee27e6b07/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:23:10.511Z
+Categories:
+
+
+Name: FanHub
+Url: https://testflight.apple.com/join/0Qs2zWGI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/00/6f/bc006f27-d684-9f41-23bb-bfceea8c0954/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T06:23:10.547Z
+Categories:
+
+
+Name: Fexobit:Kripto Para |BTC|ETH
+Url: https://testflight.apple.com/join/haFCJFGX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/f3/3b/c2f33b85-9412-d5e2-57f9-8bf80a5dfc29/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:23:10.582Z
+Categories:
+
+
+Name: Trampoline - Supercharged RSS
+Url: https://testflight.apple.com/join/d6XdEmV6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/01/21/d2/0121d235-f190-b69f-e010-44d206be2ef7/AppIcon-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:23:10.617Z
+Categories:
+
+
+Name: DACS
+Url: https://testflight.apple.com/join/a5n9Emt9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/11/27/db112755-b2e5-949f-6a60-fbdd6e140b91/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T06:23:10.652Z
+Categories:
+
+
+Name: Parkway Wallet
+Url: https://testflight.apple.com/join/VBAkPyvl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/87/fa/e6/87fae6db-eb3d-5f1a-22db-03ab06ca3219/productionAppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T06:23:10.688Z
+Categories:
+
+
+Name: QLCV QB
+Url: https://testflight.apple.com/join/gmZ3L0kX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/d0/45/abd04517-4fbd-79e2-f7f7-635ea8e140a0/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:23:10.724Z
+Categories:
+
+
