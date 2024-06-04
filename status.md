@@ -3157,3 +3157,120 @@ Last Checked: 2024-06-04T23:08:13.451Z
 Categories:
 
 
+Name: BTG Pactual Empresas (UAT)
+Url: https://testflight.apple.com/join/pV7ml4bt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/f7/1e/00f71e54-761b-bfb8-8bd8-b29ad609268a/AppIcon-uat-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.329Z
+Categories:
+
+
+Name: Aurora Catch
+Url: https://testflight.apple.com/join/qkGBWF1j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/c4/2f/aec42f11-c282-9dde-33ec-b1bbdf3f831e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.373Z
+Categories:
+
+
+Name: Opera GX
+Url: https://testflight.apple.com/join/t3k1AVL3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7e/b3/f87eb3ea-aa4a-736d-654d-82748c819553/AppIcon13-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.408Z
+Categories:
+
+
+Name: HWCLink
+Url: https://testflight.apple.com/join/rdvuydiF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/2b/8e/2a2b8e3f-5ce1-4c25-cc74-1a4c90349fa7/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T23:09:09.443Z
+Categories:
+
+
+Name: Pedal – Your cycling companion
+Url: https://testflight.apple.com/join/WOYFrthX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/2d/3a/402d3acf-43df-087c-3654-6f6b977dd96b/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.480Z
+Categories:
+
+
+Name: Leobank - mobil bank
+Url: https://testflight.apple.com/join/CttKRgOa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/95/ac/ab95acb9-fefd-7661-da93-fe3b4f8c9735/AppIconLeobank-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.515Z
+Categories:
+
+
+Name: vApp: Energized Web3
+Url: https://testflight.apple.com/join/vLpCsgHT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/7c/c3/387cc3ee-9a1d-94b1-8f4f-dc40e9c0eec0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.550Z
+Categories:
+
+
+Name: Relingo
+Url: https://testflight.apple.com/join/BqlSJG5M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/44/53/d244538a-5231-abbf-8472-7c2462cd4f88/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.585Z
+Categories:
+
+
+Name: Check Later
+Url: https://testflight.apple.com/join/7GeZxGXl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/e1/f8/f1e1f8da-a4cd-9004-21a3-be34ad33cf23/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.621Z
+Categories:
+
+
+Name: NETGEAR Nighthawk - WiFi App
+Url: https://testflight.apple.com/join/hj5dd0En
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/2d/16/942d1606-8daf-7050-78f8-4b33404f220e/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.657Z
+Categories:
+
+
+Name: CollateAI
+Url: https://testflight.apple.com/join/18GrnMEr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/21/fa/b521fa81-404e-b564-1c1a-b07381c382d5/AppIcon-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.693Z
+Categories:
+
+
+Name: ASUS MediConnect
+Url: https://testflight.apple.com/join/K8alBiZw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/57/fe/fc/57fefcd4-e01c-9f0b-c3d4-1bee4b552752/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.729Z
+Categories:
+
+
+Name: DZ Browser
+Url: https://testflight.apple.com/join/Xc3Nmb6c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/54/e8/b6/54e8b69c-e9d8-b36d-5e04-423624d3dc61/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:09:09.764Z
+Categories:
+
+
