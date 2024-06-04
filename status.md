@@ -4833,3 +4833,120 @@ Last Checked: 2024-06-04T01:46:13.673Z
 Categories:
 
 
+Name: Applaydu & Friends games
+Url: https://testflight.apple.com/join/qwxFohAR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/5f/19/9a5f19da-ba24-6236-7ab1-e678085a74e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:47:10.380Z
+Categories:
+- Games
+
+Name: True Compliance Go
+Url: https://testflight.apple.com/join/etFoJxFn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/3a/91/503a9112-c31c-4d59-e74c-b521ba202727/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T01:47:10.407Z
+Categories:
+
+
+Name: Chipotle UAT
+Url: https://testflight.apple.com/join/QmohviU2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/61/63/73616364-8279-12a7-1b5f-3e89e4eabd20/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-04T01:47:10.434Z
+Categories:
+
+
+Name: TOZO Wear
+Url: https://testflight.apple.com/join/z0fAkLp4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fc/8c/0d/fc8c0d61-93fc-10bc-4ecf-94fd7026b627/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T01:47:10.462Z
+Categories:
+
+
+Name: Vulcanova Dzienniczek
+Url: https://testflight.apple.com/join/fGMjqr58
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/0e/1d/a30e1db0-80c2-9a66-2381-0a4b4375f1b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T01:47:11.565Z
+Categories:
+
+
+Name: Mlem for Lemmy
+Url: https://testflight.apple.com/join/MelFP11Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/56/71/a1/5671a154-4a74-144b-fef1-ccc091f2cc77/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 24
+Beta Available: open
+Last Checked: 2024-06-04T01:47:11.593Z
+Categories:
+
+
+Name: Strava: Run, Bike, Hike
+Url: https://testflight.apple.com/join/j1cjOW6Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/8e/b3/d88eb395-3211-529b-480f-5185d55aeb89/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T01:47:11.620Z
+Categories:
+
+
+Name: Sumo Shapes
+Url: https://testflight.apple.com/join/urA1vYR8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/25/d7/2625d765-9635-2fe9-3305-eb261ebcadc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T01:47:11.648Z
+Categories:
+
+
+Name: Pathao Talk
+Url: https://testflight.apple.com/join/gSrptqOf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/84/d9/77/84d9779e-c3de-a75e-e890-daf2dbb84060/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T01:47:11.675Z
+Categories:
+
+
+Name: Channel - Staging
+Url: https://testflight.apple.com/join/DDIffbcT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/56/fe/7c56feb7-0a3b-42c2-957f-9c28ea012a98/AppIcon-staging-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T01:47:11.703Z
+Categories:
+
+
+Name: Qobuz Club
+Url: https://testflight.apple.com/join/bufxnrS4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/cc/98/48cc984c-47f7-be87-d0c5-3b53e481740c/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-04T01:47:11.730Z
+Categories:
+
+
+Name: Nostur - Nostr client
+Url: https://testflight.apple.com/join/TyrRNCXA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/33/90/5933904d-6d4e-2932-8698-231431373404/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:47:11.758Z
+Categories:
+
+
+Name: Axm Wallet
+Url: https://testflight.apple.com/join/Bjz0XZ5v
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/91/34/d191341e-fcd3-10ac-cfa7-c7268411a585/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 16
+Beta Available: open
+Last Checked: 2024-06-04T01:47:11.786Z
+Categories:
+
+
