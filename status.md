@@ -13102,3 +13102,120 @@ Last Checked: 2024-06-04T07:21:11.498Z
 Categories:
 
 
+Name: UIS Mobile
+Url: https://testflight.apple.com/join/TaNgDFcD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/ed/82/17ed82fb-a4e8-8370-1ec7-cb1aaef2a8fe/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.246Z
+Categories:
+
+
+Name: Samsung-S
+Url: https://testflight.apple.com/join/yham4UcU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/c2/fa/bbc2fae2-554d-cccb-ae21-d88c181e7f87/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.282Z
+Categories:
+
+
+Name: KFC DSR
+Url: https://testflight.apple.com/join/mEaucAkB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/fd/98/b8fd9842-af30-8d9b-9e63-74b662b35dea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.318Z
+Categories:
+
+
+Name: Abu Dhabi 360
+Url: https://testflight.apple.com/join/4kxqnVgM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/91/84/519184fc-b79c-29bf-da3c-7f523400feec/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.354Z
+Categories:
+
+
+Name: Pocket Qt
+Url: https://testflight.apple.com/join/cbExq27M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/da/f8/7edaf825-5623-ad68-c1b5-3056508dead0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.390Z
+Categories:
+
+
+Name: Communite
+Url: https://testflight.apple.com/join/ZJcMZYwV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/92/ed/5492ed84-2278-213d-5851-64da87816cd1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.426Z
+Categories:
+
+
+Name: ASN Bank
+Url: https://testflight.apple.com/join/sGPfrD4t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/41/c7/3e41c723-4647-7d80-7bad-f7b45399bfba/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.462Z
+Categories:
+
+
+Name: Portfolio Tracker Finance Bay
+Url: https://testflight.apple.com/join/y4etT8Ht
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a5/50/f3a550f7-07b6-9483-0559-91c8b1d85324/icon_boat_dark-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.498Z
+Categories:
+
+
+Name: Service Point Pro
+Url: https://testflight.apple.com/join/m9scoLMH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/09/e1/2909e148-9ecd-d721-f082-e9be566113b9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.535Z
+Categories:
+
+
+Name: KDB
+Url: https://testflight.apple.com/join/5NYuoa0E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/4d/86/fc4d8608-5532-38c2-1283-9e8a3f3bda8c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.570Z
+Categories:
+
+
+Name: Headspace Care (Ginger)
+Url: https://testflight.apple.com/join/sTpCZcWG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/29/18/f4291871-53a9-d6d2-6890-b15a681b4f71/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.606Z
+Categories:
+
+
+Name: Mercedes me
+Url: https://testflight.apple.com/join/sy7wTTt7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0f/cc/03/0fcc03b1-25a6-8e2a-f015-39c7c8183519/MyStarAppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T07:22:12.642Z
+Categories:
+
+
+Name: TimeDeposit: Task timer report
+Url: https://testflight.apple.com/join/2WGIkfbJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/f8/f1/3ff8f1d1-787b-f7aa-dc20-e938e9c3ff73/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T07:22:12.678Z
+Categories:
+
+
