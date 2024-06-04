@@ -20778,3 +20778,120 @@ Last Checked: 2024-06-04T12:47:10.745Z
 Categories:
 
 
+Name: Wehealth Notify
+Url: https://testflight.apple.com/join/Ed3IIqyP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/7a/42/087a42db-9f96-3b3b-e8c1-54f687414890/AppIcon-Arizona-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:48:13.939Z
+Categories:
+
+
+Name: Dynastar
+Url: https://testflight.apple.com/join/b4Dy5q97
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/f5/02/40f502b9-38b2-9c5a-4aac-994ef8a2f24b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:48:13.974Z
+Categories:
+
+
+Name: Moj STCable - DEV
+Url: https://testflight.apple.com/join/pq3fmJG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/bd/ec/2ebdec9b-2c06-9c38-bdc5-bfd3dfd7bc25/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:48:14.010Z
+Categories:
+
+
+Name: SHUM
+Url: https://testflight.apple.com/join/Co5dY1N7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2e/9b/962e9bd4-d36f-2f51-edb4-39137c4fe36d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:48:14.045Z
+Categories:
+
+
+Name: Trickster's Table
+Url: https://testflight.apple.com/join/uuFXY9mw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e5/7c/f8/e57cf8cc-454f-3521-77cb-74d35b01b507/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:48:14.080Z
+Categories:
+
+
+Name: ByteFM
+Url: https://testflight.apple.com/join/8byWHA4T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/78/1b/7d781b64-13a4-65e0-706b-71bd126a3e38/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T12:48:14.114Z
+Categories:
+
+
+Name: Azizan
+Url: https://testflight.apple.com/join/OIZHiYNM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d5/47/bf/d547bf9b-2196-72ac-38cc-c3d8f59b2785/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:48:14.150Z
+Categories:
+
+
+Name: Tailscale
+Url: https://testflight.apple.com/join/tLcYLZJV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/c7/81/aac78126-b372-e35e-f307-93766cedc790/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T12:48:14.185Z
+Categories:
+
+
+Name: Timecard - Employees Version
+Url: https://testflight.apple.com/join/YR4TTZaS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/fe/87/2dfe8704-13a1-1e5d-edca-065e21f538d5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:48:14.221Z
+Categories:
+
+
+Name: Calendar & Schedule - Day Peek
+Url: https://testflight.apple.com/join/pT6COwt1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/3a/76/8b3a76bc-a757-2e09-ecc7-1f3a06ae863a/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T12:48:14.256Z
+Categories:
+
+
+Name: M-Connect
+Url: https://testflight.apple.com/join/uFUXooCX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/b3/bc/65b3bcc7-28cb-e4d4-8ce9-5b3dac06779f/AppIcon-production-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:48:14.291Z
+Categories:
+
+
+Name: AB1562UT
+Url: https://testflight.apple.com/join/hC5Ext2W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/3b/78/923b78c6-d8b7-b94d-a3fa-4108501cfaf5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T12:48:14.326Z
+Categories:
+
+
+Name: Skytren Mobile
+Url: https://testflight.apple.com/join/yjF4IqQp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/73/42/4773426a-e899-4395-17bc-05824d460603/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T12:48:14.362Z
+Categories:
+
+
