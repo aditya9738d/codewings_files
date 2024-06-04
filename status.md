@@ -10762,3 +10762,120 @@ Last Checked: 2024-06-04T06:58:13.154Z
 Categories:
 
 
+Name: FutureLog Dev
+Url: https://testflight.apple.com/join/5FlCce89
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/c3/03/06c30304-a8dc-2fa9-b207-cff873367bf4/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T06:59:09.641Z
+Categories:
+
+
+Name: Federated Farmers Wallet
+Url: https://testflight.apple.com/join/BAVx66sN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/5b/ec/3a5bec5b-db8b-7289-5d40-9796c7662728/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:59:09.677Z
+Categories:
+
+
+Name: Fusion: Stations and Playlists
+Url: https://testflight.apple.com/join/mgKIQ9hU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/b8/0c/83b80c5e-effc-3edb-b7ac-54e87a8ac023/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:59:09.714Z
+Categories:
+
+
+Name: Embibe Classroom Preprod
+Url: https://testflight.apple.com/join/3qrHb5kN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/11/02/5d1102ab-6d43-6c08-2c6c-4aeb6c030531/AppIconPreprod-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T06:59:09.751Z
+Categories:
+
+
+Name: Wattpad - Read & Write Stories
+Url: https://testflight.apple.com/join/CXefLgKK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/1e/8c/771e8cf7-4a95-6516-c03f-087b729bfcc6/AppIconBeta-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:59:09.787Z
+Categories:
+
+
+Name: smallcase: Stock Investments
+Url: https://testflight.apple.com/join/XSkiZoQf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/3e/47/e83e47ca-3fc9-016d-9a1b-ca44f40d83df/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:59:09.824Z
+Categories:
+
+
+Name: iContentPro
+Url: https://testflight.apple.com/join/m0rBXZzt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/69/e4/ff/69e4ffd1-52fd-3d1a-cc48-2c32d3d3d696/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T06:59:09.860Z
+Categories:
+
+
+Name: Steps - Activity Tracker
+Url: https://testflight.apple.com/join/YWU5fJLj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/08/d8/a308d82a-dba2-d617-387b-9e635e5e92f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T06:59:09.896Z
+Categories:
+
+
+Name: Vimcal: Calendar and Schedule
+Url: https://testflight.apple.com/join/W7evUHfZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6d/73/26/6d732682-d809-15d2-37b3-ddea5677560f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:59:09.932Z
+Categories:
+
+
+Name: iCanMall
+Url: https://testflight.apple.com/join/r6ZHVEFA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/68/28/036828d9-850b-1485-1a89-09e8eb26c721/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:59:09.969Z
+Categories:
+
+
+Name: MzFit: Fitness & Workouts
+Url: https://testflight.apple.com/join/nfAeYMTd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/3b/7f/893b7f56-3d43-9c47-2191-74cc93be6e37/AppIcon-0-1x_U007epad-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:59:10.006Z
+Categories:
+
+
+Name: Incrowd
+Url: https://testflight.apple.com/join/4h32bQgd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/45/07/e9450789-c740-2237-4b55-51fd01aeb0a8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T06:59:10.042Z
+Categories:
+
+
+Name: FITIV Pulse Heart Rate Monitor
+Url: https://testflight.apple.com/join/JIKK58Sp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/12/13/91121339-e80b-d3c2-2fe3-f85dfd819ab2/motiFITIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:59:10.078Z
+Categories:
+
+
