@@ -28150,3 +28150,120 @@ Last Checked: 2024-06-04T05:16:13.460Z
 Categories:
 
 
+Name: APS Wallet Agent UAT
+Url: https://testflight.apple.com/join/HDZDSWDe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0e/be/b0/0ebeb065-8ed7-9c26-5c39-cf10e4f9078a/AppIconAgent-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:09.744Z
+Categories:
+
+
+Name: HuiOne-test
+Url: https://testflight.apple.com/join/oEUeqGeZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/f5/e1/97f5e1fd-4ffb-c58d-841f-f1eada672f38/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:09.774Z
+Categories:
+
+
+Name: SM Data
+Url: https://testflight.apple.com/join/Y9naobS1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/cb/e2/b0cbe2c4-0f2d-4df2-ac1f-7451980ae23a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:09.803Z
+Categories:
+
+
+Name: VanigliaPro
+Url: https://testflight.apple.com/join/kKlcn37G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/f0/5e/7df05eb3-03a9-e57d-7d71-75b3a755e3a5/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:09.832Z
+Categories:
+
+
+Name: KeyCard BBM
+Url: https://testflight.apple.com/join/5EukzLT1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/df/ec/e3dfec88-35c9-a298-fb68-9e90d4af6d36/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T05:17:09.861Z
+Categories:
+
+
+Name: Deezer: Music Player, Podcast
+Url: https://testflight.apple.com/join/e7mCOEeg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/a9/93/8ea9931a-2dab-0330-2333-446bb8d40f16/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:09.889Z
+Categories:
+
+
+Name: DTPocketFM
+Url: https://testflight.apple.com/join/1FP0EBMN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/37/c6/46/37c6469f-e1ca-0dd3-8337-20b0f4aef0c8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:09.918Z
+Categories:
+
+
+Name: Nick Pinwheel
+Url: https://testflight.apple.com/join/JX4td6PX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/4d/88/814d887f-07bd-5220-abf5-f47784e5daf2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:09.948Z
+Categories:
+
+
+Name: InfiniTime - Widget Reminders
+Url: https://testflight.apple.com/join/VYgsR7d8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/6f/7f/a46f7fef-39b5-99c4-830b-1c16fb5c0546/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:09.978Z
+Categories:
+
+
+Name: DFM - Dubai Financial Market
+Url: https://testflight.apple.com/join/aCoL0El2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/64/cf/ec64cfbf-57cc-56f9-a4ad-5dde53fc31b7/AppIcon-NEW-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:10.007Z
+Categories:
+
+
+Name: Sitefotos
+Url: https://testflight.apple.com/join/mUfUXNwb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/fe/d2/bffed239-7819-bcb8-128a-4dc24cfc6caa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:10.045Z
+Categories:
+
+
+Name: Shopify - Your Ecommerce Store
+Url: https://testflight.apple.com/join/XuMIYekt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/c0/89/f1c08902-7b92-bec5-169c-c781d7781963/AppIcon-com.jadedpixel.shopify-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:10.081Z
+Categories:
+
+
+Name: Mamalift-UAT New
+Url: https://testflight.apple.com/join/bqvRMoKO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ff/39/ecff3905-a3e3-4d37-437b-96495715da41/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:17:10.117Z
+Categories:
+
+
