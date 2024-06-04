@@ -2464,3 +2464,120 @@ Last Checked: 2024-06-04T01:25:14.437Z
 Categories:
 
 
+Name: CAINIAO - 讓集運更簡單
+Url: https://testflight.apple.com/join/VgfJfp4l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/46/18/2e46184d-40a8-662d-28b6-4b28a784df03/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.011Z
+Categories:
+
+
+Name: SwiftTask
+Url: https://testflight.apple.com/join/uPYoVBBN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/db/76/05db76ee-25cc-b1d4-2805-7df5520963ac/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 20
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.039Z
+Categories:
+
+
+Name: GoEffects
+Url: https://testflight.apple.com/join/76TbaVKJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b3/d0/9ab3d017-3a68-47e1-5d0d-2b2a7890a22e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.069Z
+Categories:
+
+
+Name: 云宝加速器
+Url: https://testflight.apple.com/join/nBkljFCK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/09/26/a909266d-0124-943a-1e47-3b9d789c9a70/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.098Z
+Categories:
+
+
+Name: Thập Đại Anh Hùng 2
+Url: https://testflight.apple.com/join/NAG6vC6N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/fd/49/80fd4913-d739-6708-eb21-5007e3300a0d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.127Z
+Categories:
+
+
+Name: Composer: Automate Trades
+Url: https://testflight.apple.com/join/nnQC498c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/b8/7b34b805-7b67-97d7-e85d-7ff38a8a9f80/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.155Z
+Categories:
+
+
+Name: Học Viện TuVi Việt Nam
+Url: https://testflight.apple.com/join/rFMlokwB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/6e/b3/636eb3eb-bda3-0a89-3525-6b1c18d09a29/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.183Z
+Categories:
+
+
+Name: KSAS（クボタスマートアグリシステム）
+Url: https://testflight.apple.com/join/9qAbc8OZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/4a/0d/394a0d8f-f72c-3bd5-a2de-0f86f3ce6951/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.213Z
+Categories:
+
+
+Name: 中国移动云盘-全民不限速
+Url: https://testflight.apple.com/join/cR3t7Cnj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/8f/bf/028fbfb6-ccea-3298-01cd-6ae7e10ff908/AppIcon-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.242Z
+Categories:
+
+
+Name: Rồng Thần Online
+Url: https://testflight.apple.com/join/k8584n03
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/fb/46/abfb466f-6a33-f63f-d5b7-a01b9293835e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.270Z
+Categories:
+
+
+Name: 思拓新闻
+Url: https://testflight.apple.com/join/jbVM8nuq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/47/34/03473451-bfd5-15d9-d04b-0d9092df7179/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.299Z
+Categories:
+
+
+Name: 棋路-象棋课堂
+Url: https://testflight.apple.com/join/s9SdLije
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/47/fd/6347fdfd-d951-7dd7-aaf5-5a9ad5dedd4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:26:15.327Z
+Categories:
+
+
+Name: WeChat
+Url: https://testflight.apple.com/join/xHCJ0qBT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/12/e1/9012e10b-7eac-bd36-23d7-e24f372c976d/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 32
+Beta Available: full
+Last Checked: 2024-06-04T01:26:15.357Z
+Categories:
+
+
