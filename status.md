@@ -6316,3 +6316,120 @@ Last Checked: 2024-06-04T23:36:12.289Z
 Categories:
 
 
+Name: Degrii OS
+Url: https://testflight.apple.com/join/Ssjy3v1U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/18/f2/f6/18f2f60f-1493-b59b-1c9d-faac97a718d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.029Z
+Categories:
+
+
+Name: icash Pay
+Url: https://testflight.apple.com/join/MZOWNxwg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/6d/9c/8b6d9c3d-3699-63dd-4bbe-9872b684a09f/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.057Z
+Categories:
+
+
+Name: Anito Legends
+Url: https://testflight.apple.com/join/BE3BYa6B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/72/5f/1c725f0e-d203-504f-1858-c9285df1cc7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.084Z
+Categories:
+
+
+Name: UPTM Attendance
+Url: https://testflight.apple.com/join/h0owcGXH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/e2/5c/cde25cf9-08e8-97f2-3d5d-3d7c67fd4e98/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.112Z
+Categories:
+
+
+Name: Holler - talk and text
+Url: https://testflight.apple.com/join/WYwS7eX5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/69/9c/9a699c0d-9bde-e6ab-f6f6-55d3856da6b3/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.141Z
+Categories:
+
+
+Name: Jam Family Calendar
+Url: https://testflight.apple.com/join/9kchKRLL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/69/71/da69717b-1897-52e4-ce18-a3037265df65/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.170Z
+Categories:
+
+
+Name: Sugarverse: Sugar Match PvP
+Url: https://testflight.apple.com/join/OxozkTj0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/00/7d/49/007d49c4-bc2c-8255-94cc-1ab867171b63/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.197Z
+Categories:
+
+
+Name: Uno: Pick-up & Delivery
+Url: https://testflight.apple.com/join/yKGCFlof
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/c2/ac/dfc2ac2b-c9b9-668c-e252-1084d99a4406/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.225Z
+Categories:
+
+
+Name: When.fm
+Url: https://testflight.apple.com/join/4Hi4M1G9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/38/53/b83853f0-1140-2e20-c093-96a76a7e047e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.254Z
+Categories:
+
+
+Name: Maxen Dev
+Url: https://testflight.apple.com/join/VhET2wtO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/6b/d5/7b6bd54d-0046-cc04-5f89-ab98f436b118/AppIconDev-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.281Z
+Categories:
+
+
+Name: TestTokenFlex
+Url: https://testflight.apple.com/join/eRU8YI0G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/d1/eb/f3d1eb38-5d50-91cd-81c8-a29ac120dcc5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.310Z
+Categories:
+
+
+Name: Master Tour Mobile
+Url: https://testflight.apple.com/join/KonAvtmc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/3e/fe/d93efeb3-0373-8074-2125-c2c70428b7ac/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.337Z
+Categories:
+
+
+Name: ApexTool
+Url: https://testflight.apple.com/join/eoceEVdR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/e5/03/6be50377-3f3f-eaf7-44d7-cfea83872dc5/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T23:37:09.366Z
+Categories:
+
+
