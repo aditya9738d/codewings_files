@@ -7758,3 +7758,120 @@ Last Checked: 2024-06-04T10:40:28.599Z
 Categories:
 
 
+Name: Farmacia Sucre
+Url: https://testflight.apple.com/join/mkeLhGSF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/09/cc/4c09cce8-91cb-031c-22a2-dcf7241b563d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T10:41:10.281Z
+Categories:
+
+
+Name: rdvz
+Url: https://testflight.apple.com/join/cVOUQgVD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/0b/35/5e0b3557-3273-8094-3e88-edd4d800b118/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-04T10:41:10.316Z
+Categories:
+
+
+Name: Vipps MT
+Url: https://testflight.apple.com/join/hTAYrwea
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/a9/e5/afa9e567-175c-4ea6-4836-ee978b257aef/AppIconMT-Vipps-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 22
+Beta Available: open
+Last Checked: 2024-06-04T10:41:10.352Z
+Categories:
+
+
+Name: Float Remote
+Url: https://testflight.apple.com/join/lRG2HmW6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/95/2f/6d952f63-74e2-a12f-d127-59397dd7ff61/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-04T10:41:10.388Z
+Categories:
+
+
+Name: Avatar Musik
+Url: https://testflight.apple.com/join/O0KKLALY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/22/37/b222371a-7bfb-eee7-d3ba-a8aec03d54f8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-04T10:41:10.424Z
+Categories:
+- Games
+
+Name: Compass 55. Map & GPS kit.
+Url: https://testflight.apple.com/join/AlVn2xFs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6b/5d/d8/6b5dd883-ba66-9f99-f770-b0cee480b042/offroad_AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T10:41:10.463Z
+Categories:
+
+
+Name: Moon Player: Play Everything
+Url: https://testflight.apple.com/join/jvjbvKYm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/58/d6/1358d643-b9ef-bffd-b34f-1e089ff44288/AppIcon.lsr/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-04T10:41:10.499Z
+Categories:
+
+
+Name: AZDOME
+Url: https://testflight.apple.com/join/7NgrnJ91
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/40/c2/b140c2fd-1669-0d0b-f024-fa59d09756ec/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T10:41:10.536Z
+Categories:
+
+
+Name: Email App –  Mail.ru
+Url: https://testflight.apple.com/join/G04Eq2nO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/0d/b6/d60db6e5-286d-8555-2454-68a36e708ccf/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T10:41:10.572Z
+Categories:
+
+
+Name: Windmill - Best mobile booster
+Url: https://testflight.apple.com/join/ATmUrGm5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/fc/04/ccfc041a-3ea9-f76a-afcf-0007edfe77da/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: error
+Last Checked: 2024-06-04T10:41:10.607Z
+Categories:
+
+
+Name: Gigantix Wallet
+Url: https://testflight.apple.com/join/J48mQeRd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/63/ba/ed63ba33-34bf-997b-ca5c-95cde034fb34/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-04T10:41:10.643Z
+Categories:
+
+
+Name: Vida Journal
+Url: https://testflight.apple.com/join/zBWk4QZ1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/6d/e8/466de8bc-c3b5-d5fb-1354-2f29ea588ead/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 11
+Beta Available: not accepting
+Last Checked: 2024-06-04T10:41:10.680Z
+Categories:
+
+
+Name: NTNU CVCS 2021
+Url: https://testflight.apple.com/join/GkbLawaz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/be/9a/c2be9a04-b38a-7985-21ef-56d192c95abf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-04T10:41:10.715Z
+Categories:
+
+
