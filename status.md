@@ -9358,3 +9358,120 @@ Last Checked: 2024-06-04T15:20:27.257Z
 Categories:
 
 
+Name: Partner app for WooCommerce
+Url: https://testflight.apple.com/join/G6H4vdqI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/45/c5/6945c5ee-e4a0-7256-20dd-6b85e8589ed9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.346Z
+Categories:
+
+
+Name: Allwyn
+Url: https://testflight.apple.com/join/wDCK3CI0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/5e/c1/5f5ec179-d64a-16c2-dd9e-a16f8129312a/AppIcon_DEV-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.375Z
+Categories:
+
+
+Name: Cenomi Rewards UAT
+Url: https://testflight.apple.com/join/RDaa35mr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/90/84/ee908414-17c0-9323-4aca-6a223d1a0101/AppIcon-UAT-1x_U007ephone-0-0-0-0-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.405Z
+Categories:
+
+
+Name: StreamMagic by Cambridge Audio
+Url: https://testflight.apple.com/join/SIgTLuHz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/75/b0/d975b012-cbe6-7d25-916a-78e9fdde017d/AppIcon-0-1x_U007emarketing-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.434Z
+Categories:
+
+
+Name: MiCare MyMed
+Url: https://testflight.apple.com/join/eCbFpS6f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/09/9b/3b099bd7-18d1-f8be-e21b-97a67d7a8978/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.462Z
+Categories:
+
+
+Name: Zavala
+Url: https://testflight.apple.com/join/iFbND23m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/0b/bd/8f0bbdc0-5d27-18c8-0998-0ad296d3dce4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.491Z
+Categories:
+
+
+Name: Passio GO
+Url: https://testflight.apple.com/join/GkoL7RfS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/4b/72/8f4b724b-6c7f-63b0-331b-657007e8a479/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.520Z
+Categories:
+
+
+Name: ST ERP
+Url: https://testflight.apple.com/join/4Z1LX9wB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/68/c4/ae68c4e3-ca72-547e-8630-7a03d53fb351/ERPAppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.549Z
+Categories:
+
+
+Name: zheluDocu
+Url: https://testflight.apple.com/join/JsFZlqNF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/73/81/2e738153-5b8a-34ad-32f7-714394036520/AppIcon-2-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.578Z
+Categories:
+
+
+Name: UltraWater Solutions Dealers
+Url: https://testflight.apple.com/join/ShU1I3zu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9d/e6/62/9de66266-2b98-6ca4-d87b-adea5b24f09a/AppIcon-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T15:21:13.606Z
+Categories:
+
+
+Name: AI Photo Enhancer - Nero Lens
+Url: https://testflight.apple.com/join/ovS85vhw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/a9/3c/c9a93c77-4df8-d505-7936-826e3cd7bd93/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 14
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.634Z
+Categories:
+
+
+Name: Sufra Rewards
+Url: https://testflight.apple.com/join/3yblSMk6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/14/32/02143220-b260-134f-ad99-9351c9b98a73/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.663Z
+Categories:
+
+
+Name: Rom 2023
+Url: https://testflight.apple.com/join/WbnwCsJD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c5/10/32/c510329e-b643-672c-6f06-dcff22d72ab7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:21:13.693Z
+Categories:
+
+
