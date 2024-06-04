@@ -23020,3 +23020,120 @@ Last Checked: 2024-06-04T21:52:12.424Z
 Categories:
 
 
+Name: PosPosPos
+Url: https://testflight.apple.com/join/8KMKs54Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/4b/77/4b4b77ea-e870-f997-dbd0-7cca4b135f8b/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:53:10.619Z
+Categories:
+
+
+Name: Glucose Direct
+Url: https://testflight.apple.com/join/dWDt5Wme
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/96/63/8496637e-c910-ece0-2c51-870ce9db5c0a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T21:53:10.647Z
+Categories:
+
+
+Name: Ultimate Cafe Franchise
+Url: https://testflight.apple.com/join/xYu5frI7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/82/5a/de825ad5-f708-bd7c-514d-393d14ff7e6a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-04T21:53:10.675Z
+Categories:
+
+
+Name: SmartumPay
+Url: https://testflight.apple.com/join/G26deldP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/64/3a/18/643a1893-b14c-0b3a-fb13-9d2ec569ffd3/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T21:53:10.704Z
+Categories:
+
+
+Name: PMP App Dev
+Url: https://testflight.apple.com/join/lbmpmtQ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/cd/c2/79cdc227-47ab-a78d-375a-24b2ff7e68ed/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:53:10.733Z
+Categories:
+
+
+Name: Guarding Vision
+Url: https://testflight.apple.com/join/AtU9J2Xn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/0a/51/e70a5173-8b29-1b68-f18a-a58e445f552f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:53:10.761Z
+Categories:
+
+
+Name: Breaking News
+Url: https://testflight.apple.com/join/W85f0g3L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/f6/9b/c3f69b31-652c-9673-43a9-2f1b48cee453/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:53:10.790Z
+Categories:
+
+
+Name: Pikalist
+Url: https://testflight.apple.com/join/XnUYLSHN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/89/51/b9895167-28f3-821f-3d97-bd0dfdf28443/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:53:10.818Z
+Categories:
+
+
+Name: Huawei e+
+Url: https://testflight.apple.com/join/tr1WU6iX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/cb/13/cfcb1353-451f-cbef-e3d6-99758c31930c/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:53:10.851Z
+Categories:
+
+
+Name: Blu - Financial Tracker
+Url: https://testflight.apple.com/join/JInmTNff
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/fb/1f/72fb1f38-bd4e-bdea-531f-fa37db8bd830/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:53:10.879Z
+Categories:
+
+
+Name: Auchan
+Url: https://testflight.apple.com/join/ZN5yKVN7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/dc/88/aadc8801-e782-df50-5552-cf2a7264c0e4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T21:53:10.907Z
+Categories:
+
+
+Name: Safewave
+Url: https://testflight.apple.com/join/hPs6FGvq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/97/6a/d0976a58-38ac-c6b0-873d-bc89b5355641/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:53:10.941Z
+Categories:
+
+
+Name: GhostMove
+Url: https://testflight.apple.com/join/DR5VLHcn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/76/d5/7076d54c-e32f-1d6d-1eff-0834d9206ab5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T21:53:10.969Z
+Categories:
+
+
