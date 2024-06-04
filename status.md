@@ -3884,3 +3884,126 @@ Last Checked: 2024-06-04T01:38:12.135Z
 Categories:
 - Utility
 
+Name: Power Automate
+Url: https://testflight.apple.com/join/IQfqWDCi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/80/3e/ae803e47-3bfa-71c3-578f-9f814a2ce179/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-04T01:39:11.336Z
+Categories:
+- Utility
+
+Name: 1Password for Safari
+Url: https://testflight.apple.com/join/wdCBan7N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/45/c6/cd45c6c9-64c6-1492-1041-d5f002359499/AppIcon-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 15
+Beta Available: open
+Last Checked: 2024-06-04T01:39:11.371Z
+Categories:
+- Browser
+- Utility
+
+Name: Blaze Of Empires RTS
+Url: https://testflight.apple.com/join/MAyTMggk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/78/56/207856b5-d2a6-cfc4-4b64-2fe892ed7518/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-04T01:39:11.406Z
+Categories:
+- Games
+
+Name: Clipchamp Dev
+Url: https://testflight.apple.com/join/rG93mFo8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/e8/57/2be857b1-c121-0918-9601-d114bb7b85b9/AppIcon-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T01:39:11.441Z
+Categories:
+- Utility
+- Video
+
+Name: AnyTV - IPTV Player
+Url: https://testflight.apple.com/join/NuYsARQq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/ec/98/51ec98b8-36dc-ca86-7871-6c13a09d49a5/AppIcon-0-0-1x_U007epad-0-10-0-85-220.jpeg/200x200bb-8.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-04T01:39:11.476Z
+Categories:
+- Video
+
+Name: Obsidian - Connected Notes
+Url: https://testflight.apple.com/join/f3moqRS1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/81/b9/0b81b9a9-90ca-83e8-c7ee-bb9fdf205b9c/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T01:39:11.511Z
+Categories:
+- Developer
+- List & To Do
+- Utility
+
+Name: Rave - Watch Party
+Url: https://testflight.apple.com/join/OrZ9CLQU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/6a/31/926a3121-2285-10d4-5bdf-aa0df27e93e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 53
+Beta Available: full
+Last Checked: 2024-06-04T01:39:11.546Z
+Categories:
+- Entertainment
+- Music
+
+Name: Wikipedia
+Url: https://testflight.apple.com/join/Z0AU0KXC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/94/80/0e948063-347c-5d10-b447-9a5874d9377f/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T01:39:11.581Z
+Categories:
+- Books
+- Education
+
+Name: On: Shop Shoes & Apparel
+Url: https://testflight.apple.com/join/xXPcBCE3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/75/5d/fe755daf-6e47-8aae-e715-a945f116f494/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:39:11.617Z
+Categories:
+
+
+Name: Arm Arena
+Url: https://testflight.apple.com/join/OaBr1tzV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/79/d0/5c79d06c-3025-f814-c303-6d650e07724d/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: full
+Last Checked: 2024-06-04T01:39:11.652Z
+Categories:
+
+
+Name: Jusour-Beta
+Url: https://testflight.apple.com/join/zdZpWEmB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/dd/9f/a6dd9f58-bb4e-93b8-41ca-f2e35b908789/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:39:11.706Z
+Categories:
+
+
+Name: FSCB Banking
+Url: https://testflight.apple.com/join/J0HJaCws
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/e3/e6/eae3e6d0-a88c-f654-3890-120e7102164a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T01:39:11.741Z
+Categories:
+- Finance
+
+Name: Lyd - Vision Remote for Sonos
+Url: https://testflight.apple.com/join/NDTrJKcG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6e/57/186e571c-a4b9-8e00-5d34-ab0854c3cb45/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:39:11.777Z
+Categories:
+
+
