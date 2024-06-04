@@ -25692,3 +25692,120 @@ Last Checked: 2024-06-04T13:34:12.698Z
 Categories:
 
 
+Name: Microsoft Excel
+Url: https://testflight.apple.com/join/3lIiz1eZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/2c/83/bd2c83d9-d41c-cde0-9535-abe05c15ad95/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:35:16.059Z
+Categories:
+
+
+Name: APKTEST
+Url: https://testflight.apple.com/join/RuiOxg8k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/92/f9/7392f904-0ed4-e7a5-771e-038066d1f885/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-04T13:35:16.086Z
+Categories:
+
+
+Name: Focus Bear
+Url: https://testflight.apple.com/join/axIWyrO7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/93/5e/ec935e05-3538-5249-848e-3aba0d25380b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:35:16.114Z
+Categories:
+
+
+Name: ForeverRealm
+Url: https://testflight.apple.com/join/dy5TUU0M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/7c/37/9c7c3779-413d-b6aa-f74b-5be665e1ff7e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T13:35:16.142Z
+Categories:
+
+
+Name: ServiceNAVI Plus
+Url: https://testflight.apple.com/join/ZfjkU2ui
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/86/70/95867028-1775-8cc2-0197-da0ee8cfd00f/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:35:16.170Z
+Categories:
+
+
+Name: Seestar
+Url: https://testflight.apple.com/join/E8NGuZbe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/65/4c/5d654c3a-b1cb-0e07-9be6-28e44ed2afd4/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:35:16.197Z
+Categories:
+
+
+Name: TM+ Stage
+Url: https://testflight.apple.com/join/36wtJdNv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/d9/22/28d92218-5fdd-a2b5-078a-8e495838f56c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:35:16.224Z
+Categories:
+
+
+Name: BasisCPDB13
+Url: https://testflight.apple.com/join/BbIP2NP5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/35/fd/77/35fd77b6-5b9b-c9e5-d26a-20168fb2068b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:35:16.252Z
+Categories:
+
+
+Name: Flutter iOS Example
+Url: https://testflight.apple.com/join/C1UOYbxh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/75/c6/4175c6f3-a3e9-ca85-0fb6-98423a99d59f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T13:35:16.279Z
+Categories:
+
+
+Name: Pinterest
+Url: https://testflight.apple.com/join/ffIBkq35
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/17/95/4917954e-0739-4624-907e-105e8b837574/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T13:35:16.307Z
+Categories:
+
+
+Name: (pre)Naturally Plus
+Url: https://testflight.apple.com/join/KfrT90iV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/f7/41/dcf74116-3bc8-3db3-bf6e-251e37417b35/AppIcon-pre-pro-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:35:16.334Z
+Categories:
+
+
+Name: RoccoVideo-Fun Videos, Go Live
+Url: https://testflight.apple.com/join/5z5jB04Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ac/d2/b6/acd2b6ae-8111-fae4-a843-bd98b44d24fe/productionAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:35:16.362Z
+Categories:
+
+
+Name: Wana
+Url: https://testflight.apple.com/join/fyaWtWXX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c5/a6/e5/c5a6e557-3899-b8d9-7352-f230ceabb944/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:35:16.390Z
+Categories:
+
+
