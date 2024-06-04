@@ -6199,3 +6199,120 @@ Last Checked: 2024-06-04T06:16:10.309Z
 Categories:
 
 
+Name: Lee's Famous Recipe Chicken
+Url: https://testflight.apple.com/join/GrbuoDdv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/a2/0b/e1a20b81-9b29-9c82-d47c-dfe718490576/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.458Z
+Categories:
+
+
+Name: Meerabel
+Url: https://testflight.apple.com/join/mvIVmpcR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/18/fc/9f/18fc9fe9-4cea-3557-02ec-3f7005099b55/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.487Z
+Categories:
+
+
+Name: Orbot
+Url: https://testflight.apple.com/join/adSqbCeM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/67/32/8567320e-4198-b8eb-2a98-c9acbbc960ac/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.516Z
+Categories:
+
+
+Name: Zest - Longevity
+Url: https://testflight.apple.com/join/lAqDDbp5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/f0/b8/2ff0b866-2eff-b732-bf1a-5332d6d10c83/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.545Z
+Categories:
+
+
+Name: studypilot
+Url: https://testflight.apple.com/join/7sa47mrv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bf/f3/31/bff331e4-2702-684e-897d-35cd7c962571/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.575Z
+Categories:
+
+
+Name: Arrow+
+Url: https://testflight.apple.com/join/f4Dl2qw7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/74/87/4d748761-f85b-1078-1a9b-2d4a132d31f3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.604Z
+Categories:
+
+
+Name: MMITA: Meet me in the Astral
+Url: https://testflight.apple.com/join/YjRxf6gX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/3d/1a/f23d1a4b-85bf-e22a-3d41-a2d0d85c40d1/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.633Z
+Categories:
+
+
+Name: Frich
+Url: https://testflight.apple.com/join/TEMBMEy2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/76/11/41/76114149-1640-100b-d5d9-d89d726f83a5/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.663Z
+Categories:
+
+
+Name: Weather Champs
+Url: https://testflight.apple.com/join/xjuEeHhl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5f/da/70/5fda7037-dea2-3ad7-16e0-4951bf777b68/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.691Z
+Categories:
+
+
+Name: BR Installer
+Url: https://testflight.apple.com/join/92xnXQdZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cf/cf/4a/cfcf4ad5-51c5-22e3-c6f8-ade78fb1916a/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-04T06:17:11.720Z
+Categories:
+
+
+Name: foodora: Food Delivery
+Url: https://testflight.apple.com/join/bvN8GUcQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/a6/7a/59a67af5-59ea-4688-f2b4-c64045850c95/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.749Z
+Categories:
+
+
+Name: PatternMA
+Url: https://testflight.apple.com/join/5TImYsjh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/1e/bc/571ebccf-ae0d-a927-03bb-7c3c89f10f54/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.779Z
+Categories:
+
+
+Name: SupaPro-UAT
+Url: https://testflight.apple.com/join/dfXZhhm9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/87/4f/08874f7b-4eba-26f0-75f1-dc9d371a780e/AppIcon-1x_U007emarketing-0-7-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:17:11.809Z
+Categories:
+
+
