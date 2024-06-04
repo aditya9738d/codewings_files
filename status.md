@@ -26557,3 +26557,120 @@ Last Checked: 2024-06-04T00:46:10.644Z
 Categories:
 
 
+Name: Simma
+Url: https://testflight.apple.com/join/deHG8B69
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/4f/f0/ec4ff09a-d18a-7c73-7307-7a89b13a764e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:47:10.035Z
+Categories:
+
+
+Name: Simmer: Cooking for Couples
+Url: https://testflight.apple.com/join/Or7k1QLU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/64/1c/f3641ceb-40f4-cf3b-12f9-5af3c0f0010b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:47:10.071Z
+Categories:
+
+
+Name: Simple CrossFit WOD tracker
+Url: https://testflight.apple.com/join/HzFsNZ3A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/5e/58/ad5e5841-02ea-0e06-3f35-e50862eebdd6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:47:10.109Z
+Categories:
+
+
+Name: Simple LLM
+Url: https://testflight.apple.com/join/CTeTrDSH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0d/b5/11/0db51152-7940-4c6d-b998-c5015444f1dd/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:47:10.146Z
+Categories:
+
+
+Name: Simple Player For VisionOS
+Url: https://testflight.apple.com/join/lxythkF5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/c3/6c/fdc36c3c-90a6-f9e9-9eed-5f75c4ab06e1/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:47:10.183Z
+Categories:
+
+
+Name: Simple Practice
+Url: https://testflight.apple.com/join/pEWVpfVM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/4b/e7/cb4be78c-eab3-7f0b-fd93-035801a90753/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:47:10.220Z
+Categories:
+
+
+Name: SimpleMusic Transfer
+Url: https://testflight.apple.com/join/SUgkyY4I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/75/89/f7/7589f70d-de25-e9b2-a915-d839915bfd7a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:47:10.256Z
+Categories:
+
+
+Name: SingLand App
+Url: https://testflight.apple.com/join/TWoFujz4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ef/b8/cf/efb8cf5f-bc05-af98-89ea-76090f7bd1c5/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:47:10.293Z
+Categories:
+
+
+Name: Singa Pro Karaoke
+Url: https://testflight.apple.com/join/grs5xfdB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/d8/48/71d848f4-918c-6b8b-a9fe-b4555c8121cf/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T00:47:10.331Z
+Categories:
+
+
+Name: Site:See - Audio Guide
+Url: https://testflight.apple.com/join/ABrGUsFU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/03/ee/08/03ee0861-914d-e929-5894-2b40a354c777/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:47:10.368Z
+Categories:
+
+
+Name: SiteMakers
+Url: https://testflight.apple.com/join/HtiuGD8p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/1e/0c/c51e0ca1-558d-5306-aae2-bfd07df60d7d/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:47:10.404Z
+Categories:
+
+
+Name: Ski Tracks
+Url: https://testflight.apple.com/join/j5c1rePX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/b9/b2/8eb9b2d6-9f6b-cef7-8062-16d2f8309b8b/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:47:10.441Z
+Categories:
+
+
+Name: Skida: Alpine Adventures
+Url: https://testflight.apple.com/join/yLrIQLeQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c8/e9/e7c8e97b-ba74-a67e-763b-d369a0c9bc77/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:47:10.478Z
+Categories:
+
+
