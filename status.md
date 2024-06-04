@@ -2923,3 +2923,120 @@ Last Checked: 2024-06-04T14:24:11.156Z
 Categories:
 
 
+Name: essence - Prix carburants
+Url: https://testflight.apple.com/join/jAWDobNh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/3b/c1/5c3bc1f4-ff9a-b55e-917f-dc7fc8e77633/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.364Z
+Categories:
+
+
+Name: Shopik
+Url: https://testflight.apple.com/join/L8PiBUYU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/6b/e3/8f6be389-5ac7-d8c2-ff4c-d4cafa78be35/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T14:25:19.401Z
+Categories:
+
+
+Name: AWS+
+Url: https://testflight.apple.com/join/hxBHqDTi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/7c/b2/117cb24d-3ae1-a28c-79ac-a1458b63e896/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.436Z
+Categories:
+
+
+Name: waipu.tv - Live TV Streaming
+Url: https://testflight.apple.com/join/l72L1OK3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/f8/2c/28f82ca8-bbac-52d9-e2be-8f8f460d326b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.472Z
+Categories:
+
+
+Name: BlinkReceipt Demo App
+Url: https://testflight.apple.com/join/3oGcYulN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/8b/12/ee8b1271-2507-99e0-4800-478372a8813d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.510Z
+Categories:
+
+
+Name: DropletFuel Driver
+Url: https://testflight.apple.com/join/aXAxIilC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/57/b7/d6/57b7d663-1c63-4ae8-664c-a3fbcaa7a685/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.547Z
+Categories:
+
+
+Name: Waylet Pre
+Url: https://testflight.apple.com/join/1QHOFclG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/dd/75/d5dd75a2-f5bb-227d-f29e-0fa6dbab93f0/AppIconPre-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.583Z
+Categories:
+
+
+Name: Prettycharm
+Url: https://testflight.apple.com/join/phHKHeD9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/86/fd/9d86fd16-d25e-2c53-da04-ecb67c79724e/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.620Z
+Categories:
+
+
+Name: Oasys Passport
+Url: https://testflight.apple.com/join/TxPGwlBC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5c/29/a0/5c29a0ae-eae1-36b2-e06e-61e2f607a922/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.657Z
+Categories:
+
+
+Name: NinjaOne Mobile
+Url: https://testflight.apple.com/join/QpKJvmwC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/03/99/8903992f-514c-4a79-4364-b16b5fde6924/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.693Z
+Categories:
+
+
+Name: 3W.com
+Url: https://testflight.apple.com/join/pCT4GqxY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/ce/1d/6dce1d45-8e16-93ee-b372-03875edb8034/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.729Z
+Categories:
+
+
+Name: pairmemaybe
+Url: https://testflight.apple.com/join/1rjzXvJy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/5f/71/8f5f710e-db5a-c317-605a-31ab88a1fa1c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.765Z
+Categories:
+
+
+Name: AirohaUnifyUT
+Url: https://testflight.apple.com/join/MXtXrr2V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/42/90/92/42909245-be29-379a-785c-90e8bff98e5f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:25:19.801Z
+Categories:
+
+
