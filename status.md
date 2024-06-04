@@ -20239,3 +20239,120 @@ Last Checked: 2024-06-04T08:23:10.825Z
 Categories:
 
 
+Name: CleanPay Mobile
+Url: https://testflight.apple.com/join/ErKYR493
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/8e/68/9d8e6850-276a-d4bc-62c0-f1f29b37c77d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T08:24:10.844Z
+Categories:
+
+
+Name: Clear-Com Agent-IC
+Url: https://testflight.apple.com/join/USfpPQTt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/70/81/e770815d-fd27-9346-7316-b42e285c9ebe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T08:24:10.879Z
+Categories:
+
+
+Name: ClearWatt
+Url: https://testflight.apple.com/join/fvBbiwLc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/31/2e/65312e75-354c-52c3-bbf1-096c7ce16d49/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T08:24:10.915Z
+Categories:
+
+
+Name: CleoCleaner
+Url: https://testflight.apple.com/join/2rV85hKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/88/04/2588046f-e87e-a0d7-9b4d-10bbedf11c5c/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-04T08:24:10.950Z
+Categories:
+
+
+Name: ClienWidget
+Url: https://testflight.apple.com/join/TEBsNPe9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/7d/3c/257d3c35-d070-e1a8-742b-c3cdd6c055c0/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:24:10.985Z
+Categories:
+
+
+Name: Client APP staging
+Url: https://testflight.apple.com/join/2FkXPCyY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ba/81/b8/ba81b849-b737-4dc0-c45f-f414c4bd05bc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:24:11.021Z
+Categories:
+
+
+Name: Clinflash eTMF
+Url: https://testflight.apple.com/join/SPFIThq0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/1d/7f/051d7f6c-780c-c5ab-e526-518e31fe702b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:24:11.056Z
+Categories:
+
+
+Name: Clinic Companion
+Url: https://testflight.apple.com/join/yD0O4Af7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b2/f8/5d/b2f85d3c-45c4-5aae-5f32-2bce6ab8a5d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:24:11.092Z
+Categories:
+
+
+Name: Clinical Dementia Rating
+Url: https://testflight.apple.com/join/vCvP7h1s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/16/fd/e316fddd-b88d-e902-b1a2-09a017aded1e/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T08:24:11.127Z
+Categories:
+
+
+Name: Clockwise - Read the clock
+Url: https://testflight.apple.com/join/0kMxWstS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/33/90/98339003-c472-7c0f-4047-33daa00fefda/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:24:11.163Z
+Categories:
+
+
+Name: CloudClip
+Url: https://testflight.apple.com/join/pYrj28b4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/03/6b/e8036b88-788a-5f82-07bc-48b0d5eba331/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:24:11.198Z
+Categories:
+
+
+Name: Clump
+Url: https://testflight.apple.com/join/OqDBfh4J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/46/54/5c/46545cef-f757-68b7-d34a-7966dd663847/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:24:11.233Z
+Categories:
+
+
+Name: CoCoRaHS
+Url: https://testflight.apple.com/join/IfvoZAx5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7b/55/dc/7b55dc32-c6f3-e539-f8d8-10a8276fe2bb/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:24:11.270Z
+Categories:
+
+
