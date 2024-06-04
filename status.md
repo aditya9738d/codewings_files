@@ -26908,3 +26908,120 @@ Last Checked: 2024-06-04T18:06:12.162Z
 Categories:
 
 
+Name: Make It Like Mama Beta
+Url: https://testflight.apple.com/join/fJR72rrc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/28/f6/a228f6a4-9762-59ca-905f-8e8fa3f4bb2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.420Z
+Categories:
+
+
+Name: Manabi.hu
+Url: https://testflight.apple.com/join/j3HRYQB3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c0/fb/50/c0fb507f-020b-2839-9bd1-99cb46247600/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.457Z
+Categories:
+
+
+Name: ManageClean: Janitorial Teams
+Url: https://testflight.apple.com/join/0xGUCg9M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/30/60/58/30605834-e431-16fb-bb7f-fb23d527412a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.492Z
+Categories:
+
+
+Name: Mango 5Star
+Url: https://testflight.apple.com/join/jjAoIiwl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/8a/35/f48a3588-5c30-5783-1a11-6b6e36a1d200/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.527Z
+Categories:
+
+
+Name: MannKareTest
+Url: https://testflight.apple.com/join/8IENI9Yi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/55/a0/d755a07e-0dd1-40c6-dfdb-3ba5a9ad171b/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.563Z
+Categories:
+
+
+Name: Manufacton
+Url: https://testflight.apple.com/join/Nb1EncLZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/fa/d6/f4fad6be-7eda-3614-71d9-a5d85e22ac7b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.599Z
+Categories:
+
+
+Name: Mapy.cz navigation & maps
+Url: https://testflight.apple.com/join/2nXnREvO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/9a/57/aa9a5774-273d-42a9-4a3d-e441d6781bf2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T18:07:10.635Z
+Categories:
+
+
+Name: Marauder - retrace your steps
+Url: https://testflight.apple.com/join/8IJMaTyQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/48/eb/5f/48eb5f99-bfa3-5e07-4d2d-9c7206236815/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.671Z
+Categories:
+
+
+Name: Mastowatch
+Url: https://testflight.apple.com/join/FlIkWPVa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/90/f9/49/90f9497a-2a8c-282f-4d6b-761eaded1132/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.706Z
+Categories:
+
+
+Name: Mateline X
+Url: https://testflight.apple.com/join/r1K2v8qd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/e5/f3/d0e5f38e-e9c0-96fa-6c52-a6b2d1abc5de/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.743Z
+Categories:
+
+
+Name: Matik
+Url: https://testflight.apple.com/join/8Vvy7roa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c8/9a/05/c89a05c5-dfc6-805c-fe87-6a67fe79fffa/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.778Z
+Categories:
+
+
+Name: Mauka - Cricket Fantasy
+Url: https://testflight.apple.com/join/cHAQwqyE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d7/41/ac/d741ac0a-139b-5b2c-51e2-5bf5e6013607/AppIcon-1x_U007ephone-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.813Z
+Categories:
+
+
+Name: MaxRewards Legacy
+Url: https://testflight.apple.com/join/VFIdt0m4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/aa/64/f3aa6435-c567-67da-4221-3983d3112716/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:07:10.849Z
+Categories:
+
+
