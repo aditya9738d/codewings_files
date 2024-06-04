@@ -26647,3 +26647,120 @@ Last Checked: 2024-06-04T22:26:11.960Z
 Categories:
 
 
+Name: VATRadar
+Url: https://testflight.apple.com/join/Xq5kz7Fk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/1b/b6/531bb68c-6470-058b-3127-c2c9e2bc9dbd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:27:10.138Z
+Categories:
+
+
+Name: Doctor G
+Url: https://testflight.apple.com/join/Hw3QCEX6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/f7/cf/60f7cf0b-de12-ad31-4efe-d18e1d245a45/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T22:27:10.166Z
+Categories:
+
+
+Name: Cyber - Chat with Everyone
+Url: https://testflight.apple.com/join/UDNPwhUl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/75/b7/a275b7b1-e34c-160c-4a7f-098c695a2d08/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:27:10.194Z
+Categories:
+
+
+Name: Savi Finance
+Url: https://testflight.apple.com/join/rEoRm62h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/b1/b4/86b1b42d-d6b3-dbab-0450-33474446126a/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T22:27:10.222Z
+Categories:
+
+
+Name: FanSee Social
+Url: https://testflight.apple.com/join/du6pg1x5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/01/d6/ee01d67b-8d5d-2289-be6e-1835fbc4ba89/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:27:10.250Z
+Categories:
+
+
+Name: Baseus
+Url: https://testflight.apple.com/join/Xir761ph
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/19/ad/4619ad29-8048-19fa-19fd-f1fa9957e71e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T22:27:10.279Z
+Categories:
+
+
+Name: StageLight - DMX Controller
+Url: https://testflight.apple.com/join/X1Ja2Mai
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/92/4d/96924d1c-c5e2-5973-de6b-5d1d3dd486cd/AppIcon-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:27:10.307Z
+Categories:
+
+
+Name: Ollie: AI Smart Photo Cleaner
+Url: https://testflight.apple.com/join/Q1xqr01y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/a1/96/1ea1961f-1350-9327-e288-47e6ab39e685/AppIcon-var-01-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:27:10.335Z
+Categories:
+
+
+Name: South Peak Resort
+Url: https://testflight.apple.com/join/EEi9Hq70
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/c9/32/17c9327b-8571-ddec-a03a-9df79fe851cf/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T22:27:10.363Z
+Categories:
+
+
+Name: Revgram
+Url: https://testflight.apple.com/join/mj83Wzx6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/11/b2/0f/11b20fd5-f3b3-bfa5-4f5f-b02a389121e9/AppIconLLC-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:27:10.394Z
+Categories:
+
+
+Name: Dronelink Flight
+Url: https://testflight.apple.com/join/PumJOBFK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/0d/6d/9d0d6d8a-bae1-939e-e57b-a3d0b4468487/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:27:10.422Z
+Categories:
+
+
+Name: Streamerce Broadcasting App
+Url: https://testflight.apple.com/join/dTmPkikA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/7e/4f/9a7e4fc7-86e4-e9d0-1ed5-bc64a12d77d4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T22:27:10.450Z
+Categories:
+
+
+Name: Prize Platform
+Url: https://testflight.apple.com/join/d26dH3nn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/28/ff/4628ff35-cd79-1005-cade-6df255afa6c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:27:10.479Z
+Categories:
+
+
