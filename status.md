@@ -8539,3 +8539,120 @@ Last Checked: 2024-06-04T15:13:09.496Z
 Categories:
 
 
+Name: iLand.BRVT
+Url: https://testflight.apple.com/join/PanKodoM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0c/7f/12/0c7f12f0-6e4b-5f4b-7a3a-a5d12b7cffc8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T15:14:11.340Z
+Categories:
+
+
+Name: HeapsGo
+Url: https://testflight.apple.com/join/Xgk71v9A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/83/71/b483719e-2365-1682-e056-badd25b9e8a0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:14:11.368Z
+Categories:
+
+
+Name: BiliTV
+Url: https://testflight.apple.com/join/swQEmTp2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/af/12/4f/af124ffc-898c-cff3-6ae0-1a9f53e78f45/App_Icon-marketing.lsr/200x200bb-80.png
+Click Count: 8
+Beta Available: full
+Last Checked: 2024-06-04T15:14:11.395Z
+Categories:
+
+
+Name: Me@Walmart
+Url: https://testflight.apple.com/join/bqo4smK7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/01/37/58013793-a104-15a6-c327-af7d81cadba2/AppIcon-Prod-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:14:11.423Z
+Categories:
+
+
+Name: Skritter: Write Japanese
+Url: https://testflight.apple.com/join/bAhSp5an
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/82/b5/b9/82b5b9fa-c384-13b4-c7a3-221f238ada8c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:14:11.450Z
+Categories:
+
+
+Name: TomTom AmiGO GPS Maps, Traffic
+Url: https://testflight.apple.com/join/udcY58FH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/de/a6/c9dea67a-281c-acaf-e0e5-7183d0071f1a/AppIconAlpha-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:14:11.478Z
+Categories:
+
+
+Name: Juno: New Origins
+Url: https://testflight.apple.com/join/5SRK7rgD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d0/52/a4/d052a497-35ca-cb4e-60fe-002ea0ba7420/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:14:11.506Z
+Categories:
+
+
+Name: BSNeBiz Mobile- Corporate User
+Url: https://testflight.apple.com/join/hf4SeRaH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/5c/da/e75cda77-8c94-1ced-a003-cf88c11b1a98/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:14:11.534Z
+Categories:
+
+
+Name: sadra weather
+Url: https://testflight.apple.com/join/xzTsRcf6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/bc/22/f4bc222f-4474-2cbd-98e6-a0cadc3955a2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:14:11.561Z
+Categories:
+
+
+Name: Grav.id
+Url: https://testflight.apple.com/join/NDEQ52A7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/e3/81/e7e38146-2a0a-af8b-56e4-440f2456720b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:14:11.589Z
+Categories:
+
+
+Name: Mobius
+Url: https://testflight.apple.com/join/0qloGnRK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/20/04/1e200418-8042-05f4-3c12-bdfb1a59256e/AppIcon_1-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T15:14:11.616Z
+Categories:
+
+
+Name: Touchpix
+Url: https://testflight.apple.com/join/I35Yb9iJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/d8/de/abd8def6-0691-c006-81f9-8db241923457/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:14:11.644Z
+Categories:
+
+
+Name: Mutant Forge
+Url: https://testflight.apple.com/join/ealvdxfe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/8c/b6/fd8cb62e-886f-57cb-ba5e-9c89cc5fa346/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:14:11.672Z
+Categories:
+
+
