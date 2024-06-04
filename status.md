@@ -18250,3 +18250,120 @@ Last Checked: 2024-06-04T08:06:10.654Z
 Categories:
 
 
+Name: Alkashier Pos
+Url: https://testflight.apple.com/join/cZG0FeYa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/26/86/9c26867d-fc7b-9026-4989-798eddc818f1/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:07:07.810Z
+Categories:
+
+
+Name: Alleo.ai To-Do List & Calendar
+Url: https://testflight.apple.com/join/D0gVDq5I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/3d/80/613d806e-5964-6276-d819-58c41e54ce4a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:07:07.846Z
+Categories:
+
+
+Name: Allo driver
+Url: https://testflight.apple.com/join/49G3LFrY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/be/9d/72/be9d72f6-7ee9-a4bc-b7b6-f8b12f05048d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:07:07.881Z
+Categories:
+
+
+Name: Aloha Browser: Private VPN
+Url: https://testflight.apple.com/join/Xh9VNQoA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/f9/b5/d8f9b52a-1461-221b-1d2a-ea84f34d9610/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T08:07:07.916Z
+Categories:
+
+
+Name: AlphaEnergyCapital
+Url: https://testflight.apple.com/join/DEtEmmac
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/a3/00/f7a300db-4216-9a97-4e61-1d53bf603689/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T08:07:07.952Z
+Categories:
+
+
+Name: Alphonso
+Url: https://testflight.apple.com/join/Gs8UC1bR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/32/2a/1d/322a1daf-528e-ee2b-ecea-f4c54fc1b2c5/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:07:07.987Z
+Categories:
+
+
+Name: Amaziograph
+Url: https://testflight.apple.com/join/3Ma3OWrG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/48/f8/22/48f82290-2fe1-95d9-2b99-6f56cc3095c5/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:07:08.021Z
+Categories:
+
+
+Name: Amazon Location Demo
+Url: https://testflight.apple.com/join/zh52FrVh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/d3/0a/e7d30a0a-677c-d012-db51-ecea40482486/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:07:08.057Z
+Categories:
+
+
+Name: Amber
+Url: https://testflight.apple.com/join/W1O5WlMR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/3d/76/e03d7616-3a54-d85c-2ebe-b38747fa7b90/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:07:08.092Z
+Categories:
+
+
+Name: Amiilog - Collect 'em all
+Url: https://testflight.apple.com/join/JapWWVAI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/48/de/6848ded5-bd7a-6ce2-486e-3531b0c7b573/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:07:08.128Z
+Categories:
+
+
+Name: Amity - Social Music Player
+Url: https://testflight.apple.com/join/vcSr1T3x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/68/38/82/683882ea-ba6f-927f-f353-41c2590a7cd7/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:07:08.162Z
+Categories:
+
+
+Name: Amphetamine
+Url: https://testflight.apple.com/join/GeZMOAsG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/7b/26/677b264a-6fab-2311-3bfa-be8ede3120ce/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:07:08.200Z
+Categories:
+
+
+Name: Amway Healthy Home
+Url: https://testflight.apple.com/join/lupWGyPQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/5d/59/b95d59e0-fd44-aa32-9679-6550052fdc16/AppIcon-0-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:07:08.236Z
+Categories:
+
+
