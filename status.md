@@ -1870,3 +1870,120 @@ Last Checked: 2024-06-04T05:36:11.496Z
 Categories:
 
 
+Name: Quitterz
+Url: https://testflight.apple.com/join/JZoILuGY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/23/9b/13239b2b-27c6-9857-5e41-1a7a1b925adc/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:37:10.722Z
+Categories:
+
+
+Name: Horzono World Clock
+Url: https://testflight.apple.com/join/Vf0OdwOo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/02/f6/4802f6ff-596d-46f5-6778-bf343558c314/AppIcon-0-1x_U007ephone-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:37:10.759Z
+Categories:
+
+
+Name: SLEC LUCAS
+Url: https://testflight.apple.com/join/djfafmr6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/bf/d0/7dbfd07a-5b90-9d16-4325-3d03d4339b9c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:37:10.795Z
+Categories:
+
+
+Name: Cactus TV
+Url: https://testflight.apple.com/join/sCZ7Jw4k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6d/1d/5a/6d1d5a57-8d73-2f26-6294-0195fa9a0567/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:37:10.832Z
+Categories:
+
+
+Name: minimlist
+Url: https://testflight.apple.com/join/OqVr7ntZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/c1/07/54c10782-b0f3-1edb-c77a-536bb6d39481/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:37:10.868Z
+Categories:
+
+
+Name: Mai Linh Admin
+Url: https://testflight.apple.com/join/Pgl35zHg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/a4/86/3ba486c9-633b-438c-5ce7-f4970efedd4e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:37:10.905Z
+Categories:
+
+
+Name: AGFEO Dashboard
+Url: https://testflight.apple.com/join/D3krMHzA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/79/42/a07942d8-acb9-5885-73c3-de5fa719e29f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T05:37:10.942Z
+Categories:
+
+
+Name: UniFi Verify
+Url: https://testflight.apple.com/join/qsQZWNJd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/40/e9/ca/40e9cabf-1db8-b6d4-87ae-4290e5d8aa15/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:37:10.978Z
+Categories:
+
+
+Name: Fushaar+
+Url: https://testflight.apple.com/join/diUxUx2w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a8/e7/ba/a8e7bab4-4c89-19cf-db1c-1c1f9184056a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:37:11.015Z
+Categories:
+
+
+Name: Snowbank | Credibrf Dev
+Url: https://testflight.apple.com/join/iuGwJjw3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/14/1b/24141b71-a14f-c2ff-3683-359a241dbc34/credibrf_homologAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T05:37:11.052Z
+Categories:
+
+
+Name: CommandWorx
+Url: https://testflight.apple.com/join/LsNmpxiy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/8a/e1/a48ae144-1fb6-0b15-1bb1-b939e91c1c02/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T05:37:11.089Z
+Categories:
+
+
+Name: Vialer
+Url: https://testflight.apple.com/join/JL86Wn15
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d8/3f/95d83fe2-cb06-148f-5829-cdcb2cb38e02/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:37:11.125Z
+Categories:
+
+
+Name: ImpactAI: AI Chat
+Url: https://testflight.apple.com/join/K0EmPbTw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/aa/40/fcaa4086-7061-f939-1a09-3393a0690e42/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:37:11.164Z
+Categories:
+
+
