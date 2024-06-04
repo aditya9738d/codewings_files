@@ -5497,3 +5497,120 @@ Last Checked: 2024-06-04T06:08:13.850Z
 Categories:
 
 
+Name: MOMI - Meet You
+Url: https://testflight.apple.com/join/Yb2rAMDO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/02/dd/d802dd5e-ddea-8346-4877-9d6c677d69b1/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:09:10.460Z
+Categories:
+
+
+Name: Tapatalk - 200,000+ Forums
+Url: https://testflight.apple.com/join/oGFXVgl6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/18/ce/6618ce3a-283a-de12-1d66-65d28fb4a4e0/FreeAppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:09:10.490Z
+Categories:
+
+
+Name: Uzmart
+Url: https://testflight.apple.com/join/qlRpaL76
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/b2/e8/14b2e82b-204a-09ac-7230-1b28e66c7fb6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:09:10.519Z
+Categories:
+
+
+Name: JGZQuant
+Url: https://testflight.apple.com/join/jZ5L0OQt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/fe/a8/b5fea8c5-b1ca-a7c6-4da8-e6f7be1722f7/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T06:09:10.548Z
+Categories:
+
+
+Name: Loop E-Wallet
+Url: https://testflight.apple.com/join/vaPWrMZC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/fd/4e/5cfd4e94-7e28-7831-83ae-2400eff4f91a/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:09:10.576Z
+Categories:
+
+
+Name: ParkXL Parking
+Url: https://testflight.apple.com/join/rvTTit9I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/e4/59/74e459d2-9b15-af6c-f338-f5cda8f66b61/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:09:10.605Z
+Categories:
+
+
+Name: QRNext Support
+Url: https://testflight.apple.com/join/Is0RWxcf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/09/cc/fe09cc2c-2c2f-466d-839f-e45f27bb712f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T06:09:10.634Z
+Categories:
+
+
+Name: Prologue
+Url: https://testflight.apple.com/join/mmH46578
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/76/ac/b576ac1b-ba3b-251f-fb01-4a03ca003de6/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T06:09:10.663Z
+Categories:
+
+
+Name: CT Connect
+Url: https://testflight.apple.com/join/CcEUxxmu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/2f/f9/392ff9ea-3126-050a-c792-e5ad30652e00/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T06:09:10.693Z
+Categories:
+
+
+Name: R1WURKS
+Url: https://testflight.apple.com/join/SP9WiLp6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/6c/2b/d16c2b1e-d8fa-7dd0-506a-0d8b50315682/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:09:10.722Z
+Categories:
+
+
+Name: CheggoutV2New
+Url: https://testflight.apple.com/join/I2EVMcAZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/cd/65/12cd652f-cf70-8037-3864-101c60a25e5d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:09:10.751Z
+Categories:
+
+
+Name: installer TEam
+Url: https://testflight.apple.com/join/vuuVZCUa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/61/d5/cf61d5fa-7208-7f93-315c-fcb98092ff54/AppIcon-TE-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:09:10.784Z
+Categories:
+
+
+Name: Lalaland Journal
+Url: https://testflight.apple.com/join/UycMtg9y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/e0/e7/28e0e767-c995-821e-d06e-083b08d98ec3/AppIcon-production-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:09:10.814Z
+Categories:
+
+
