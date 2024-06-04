@@ -25693,3 +25693,120 @@ Last Checked: 2024-06-04T04:55:21.469Z
 Categories:
 
 
+Name: Wire • Secure Messenger
+Url: https://testflight.apple.com/join/TiFZsCXi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/88/8e/11888ea4-f916-70ea-6868-db54a90213a8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:56:11.784Z
+Categories:
+
+
+Name: PaperWorks - your business app
+Url: https://testflight.apple.com/join/7InzeakC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2a/c7/49/2ac749bf-0da1-5df3-4169-f136cdc44f5a/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T04:56:11.819Z
+Categories:
+
+
+Name: Hisense Hi-Mit II
+Url: https://testflight.apple.com/join/1wO01ljO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a3/34/e6a33428-343c-b468-ca9f-3e42c1b84324/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:56:11.859Z
+Categories:
+
+
+Name: MAX2GO
+Url: https://testflight.apple.com/join/x0MOgcSq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7e/1a/d8/7e1ad818-176a-298a-d226-2769263f9298/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:56:11.895Z
+Categories:
+
+
+Name: Pulse4Fitness
+Url: https://testflight.apple.com/join/UgC1vFwz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f1/f3/7b/f1f37b1d-b851-066c-f524-55816cfff3c4/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:56:11.931Z
+Categories:
+
+
+Name: Passare Beta
+Url: https://testflight.apple.com/join/4EShbzzF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/11/10/17111009-77c1-9b6b-2575-abb56726e478/AppIconBeta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T04:56:11.967Z
+Categories:
+
+
+Name: ProjectN_Joywork
+Url: https://testflight.apple.com/join/QhcK6bso
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/65/9d/a4659d79-d497-9d25-d45d-bafc9471444d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:56:12.002Z
+Categories:
+
+
+Name: HomeTechProvider
+Url: https://testflight.apple.com/join/Q5sBcmTI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/49/0b/9d490b4c-0418-20db-d723-8163b636c3bd/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:56:12.038Z
+Categories:
+
+
+Name: du pay UAT
+Url: https://testflight.apple.com/join/AFnL9F9R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f9/0f/b3f90fcc-9445-e09e-fd04-b8e6db50f4d1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:56:12.074Z
+Categories:
+
+
+Name: Chatmini App
+Url: https://testflight.apple.com/join/Gz3zNqjz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/ed/92/aeed920d-494d-2dd1-4d15-1273bfc5058c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:56:12.110Z
+Categories:
+
+
+Name: Zeoniq KDS
+Url: https://testflight.apple.com/join/E0qBpGS2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/2a/6c/d62a6c2e-f04f-a36f-e7c9-f474625cd73e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:56:12.146Z
+Categories:
+
+
+Name: Sneaker Tracker
+Url: https://testflight.apple.com/join/RmrjfnYR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/a7/23/fda72356-21a6-08f0-95c1-313fff46d1fd/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-GLES2_U002c0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:56:12.182Z
+Categories:
+
+
+Name: VC Install
+Url: https://testflight.apple.com/join/qCNqaXrj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/86/4c/67/864c671c-3633-3918-bc1a-1990e3db7fd6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T04:56:12.217Z
+Categories:
+
+
