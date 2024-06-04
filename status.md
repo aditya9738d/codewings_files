@@ -10130,3 +10130,120 @@ Last Checked: 2024-06-04T11:01:13.325Z
 Categories:
 
 
+Name: Chore Champ
+Url: https://testflight.apple.com/join/eMqx5DEF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/c1/9c/4ec19cf9-7cda-0bce-f573-23c99263e5f4/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: error
+Last Checked: 2024-06-04T11:02:15.513Z
+Categories:
+
+
+Name: Apple AMB
+Url: https://testflight.apple.com/join/DsJkKvf8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/1f/03/021f03be-7e8f-f102-3567-9633b514481b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 28
+Beta Available: open
+Last Checked: 2024-06-04T11:02:15.541Z
+Categories:
+
+
+Name: Cyber Key Fob
+Url: https://testflight.apple.com/join/wzaCXTpH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ad/f6/f8adf6f1-37b5-ec81-ef62-7f8daedd70d7/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 16
+Beta Available: full
+Last Checked: 2024-06-04T11:02:15.570Z
+Categories:
+
+
+Name: nospace
+Url: https://testflight.apple.com/join/8To9vUPJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/40/a8/f140a807-f685-8c24-fadc-6ed8504b062a/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 19
+Beta Available: full
+Last Checked: 2024-06-04T11:02:15.598Z
+Categories:
+
+
+Name: MOONDROP
+Url: https://testflight.apple.com/join/jih3rTIP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/80/89/6080891f-0d6d-878f-be86-2bcfe2cc91cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 30
+Beta Available: open
+Last Checked: 2024-06-04T11:02:15.627Z
+Categories:
+
+
+Name: Matrixport
+Url: https://testflight.apple.com/join/s5rARDvM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/80/1f/43801ff2-5051-9deb-681b-f917e109caf4/AppIcon-TF-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 57
+Beta Available: open
+Last Checked: 2024-06-04T11:02:15.655Z
+Categories:
+
+
+Name: Ohere Wallet - Pay & Get Paid
+Url: https://testflight.apple.com/join/jsf7ZPVr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/3d/10/b33d10e7-d1ea-787d-05ef-7a9e45aa6009/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T11:02:15.684Z
+Categories:
+
+
+Name: Cali - Your new calendar
+Url: https://testflight.apple.com/join/yKXoESUD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/bc/64/bfbc644f-5221-c5c9-98bc-5a7e6e04b66b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:02:15.713Z
+Categories:
+
+
+Name: Sila for Twitch
+Url: https://testflight.apple.com/join/tvPhZZ8w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/01/e1/c901e16d-664b-2f7a-fee0-46748b84654f/AppIcon.lsr/200x200bb-80.png
+Click Count: 16
+Beta Available: not accepting
+Last Checked: 2024-06-04T11:02:15.741Z
+Categories:
+
+
+Name: Carbon Browser
+Url: https://testflight.apple.com/join/Nd0sc84V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/aa/ce/19aaceac-277c-f1e6-b5d3-baf57b1bad7b/AppIcon_Carbon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 61
+Beta Available: open
+Last Checked: 2024-06-04T11:02:15.769Z
+Categories:
+
+
+Name: Circle Finance
+Url: https://testflight.apple.com/join/t9LweeB5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/88/ff/c288ffad-447f-008d-e51d-8973c20d0f08/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T11:02:15.797Z
+Categories:
+
+
+Name: TiTi App
+Url: https://testflight.apple.com/join/NeXUqMRv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/64/67/60/6467601b-2a38-d3ce-1fec-70f29326445b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 157
+Beta Available: open
+Last Checked: 2024-06-04T11:02:15.825Z
+Categories:
+
+
+Name: NFTDuel Game
+Url: https://testflight.apple.com/join/xEyjKgoy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/5d/88/3a5d882d-25b3-6de0-ac8e-76ce42801eff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 43
+Beta Available: open
+Last Checked: 2024-06-04T11:02:15.856Z
+Categories:
+
+
