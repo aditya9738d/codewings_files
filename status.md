@@ -9531,3 +9531,120 @@ Last Checked: 2024-06-04T19:46:12.689Z
 Categories:
 
 
+Name: Qobuz Club
+Url: https://testflight.apple.com/join/bufxnrS4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/cc/98/48cc984c-47f7-be87-d0c5-3b53e481740c/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-04T19:47:11.103Z
+Categories:
+
+
+Name: Nostur - Nostr client
+Url: https://testflight.apple.com/join/TyrRNCXA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/33/90/5933904d-6d4e-2932-8698-231431373404/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:47:11.772Z
+Categories:
+
+
+Name: Axm Wallet
+Url: https://testflight.apple.com/join/Bjz0XZ5v
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/91/34/d191341e-fcd3-10ac-cfa7-c7268411a585/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 16
+Beta Available: open
+Last Checked: 2024-06-04T19:47:11.800Z
+Categories:
+
+
+Name: 3x3 CubeSpeed
+Url: https://testflight.apple.com/join/mIk6RkqE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/5b/1e/dc5b1e26-508a-b8c7-68cb-7af43a18b778/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T19:47:11.828Z
+Categories:
+- Games
+
+Name: EIC App
+Url: https://testflight.apple.com/join/B45OhL1o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/0b/b3/a50bb388-8fd1-2589-ce2b-0ea74433a4c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T19:47:11.857Z
+Categories:
+
+
+Name: IntraMOB
+Url: https://testflight.apple.com/join/QH7hDuCE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/89/c5/72/89c57201-d702-1713-7b1e-069e5d511a76/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T19:47:11.885Z
+Categories:
+
+
+Name: ONLINE Ticket
+Url: https://testflight.apple.com/join/YNwwlTvs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/03/c6/6b03c62a-373d-76e1-78d4-9082f690f9ae/AppIcon-online-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T19:47:11.912Z
+Categories:
+
+
+Name: BuddyBoss App for LearnDash
+Url: https://testflight.apple.com/join/nMz29b8b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/9c/97/879c978a-44b9-c350-7b62-477c785b4b3b/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T19:47:11.940Z
+Categories:
+
+
+Name: ZONT
+Url: https://testflight.apple.com/join/k4dsrhQc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/66/d1/2a66d1ac-1507-fcc7-72e8-0e669f8afaaf/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T19:47:11.969Z
+Categories:
+
+
+Name: Planny • Daily Planner
+Url: https://testflight.apple.com/join/FhbZxvhv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/75/60/7775606d-6a8e-24b1-416e-94ce96bf64d4/PlannyNew-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-04T19:47:11.997Z
+Categories:
+
+
+Name: Blixt Wallet
+Url: https://testflight.apple.com/join/EXvGhRzS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/22/d3/6f/22d36f5e-3047-c716-52c4-0b49473bf438/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-04T19:47:12.024Z
+Categories:
+
+
+Name: coffey community network
+Url: https://testflight.apple.com/join/8TYRTQz5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/50/0a/66500a42-db4b-0be9-68ee-c7a8207cb33e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-04T19:47:12.053Z
+Categories:
+
+
+Name: Legatrix Mobile App
+Url: https://testflight.apple.com/join/q5mdzbKH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/7a/ec/c07aec41-8046-2d84-03ea-25ce209c4553/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T19:47:12.081Z
+Categories:
+
+
