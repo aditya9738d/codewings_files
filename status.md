@@ -583,3 +583,120 @@ Last Checked: 2024-06-04T09:38:10.282Z
 Categories:
 
 
+Name: Shatterpoint - Epic Action RPG
+Url: https://testflight.apple.com/join/mo75EO8y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/2a/fc/8c2afc47-0ba7-da55-87f9-a4e9bda5c336/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:39:08.459Z
+Categories:
+
+
+Name: ShelvesEDU
+Url: https://testflight.apple.com/join/SBoIjRaX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/1d/8a/851d8ada-63cf-9c39-4b1a-4f3a20e8f67d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T09:39:08.487Z
+Categories:
+
+
+Name: Shiny Cards
+Url: https://testflight.apple.com/join/MIejZzhl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/43/96/a9/4396a9dd-989a-0fc3-14d5-e97701768cb8/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:39:08.515Z
+Categories:
+
+
+Name: Shmeal
+Url: https://testflight.apple.com/join/y59GQbLy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/b6/d6/58b6d657-7c07-f408-7d2a-ca60ca13a5ec/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T09:39:08.542Z
+Categories:
+
+
+Name: Shorts or Pants?
+Url: https://testflight.apple.com/join/Z1hbzqYg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/16/0c/2d160c84-ac45-72a5-7d6e-3ee4172d0798/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:39:08.571Z
+Categories:
+
+
+Name: ShowMIDI
+Url: https://testflight.apple.com/join/kTNj26rK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/cd/0b/7acd0b97-1ba8-16ce-3278-9e1fcf076948/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:39:08.599Z
+Categories:
+
+
+Name: Showing Up
+Url: https://testflight.apple.com/join/iVFFyNAT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/68/7b/32/687b3284-0afb-d011-2500-400dea965ec9/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T09:39:08.627Z
+Categories:
+
+
+Name: Showplaces
+Url: https://testflight.apple.com/join/803WP9We
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/06/38/950638f6-f8da-23e4-a914-bb7db02f652e/MainAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:39:08.654Z
+Categories:
+
+
+Name: Shred Crew
+Url: https://testflight.apple.com/join/S4vpMXJQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5d/9c/d7/5d9cd76f-7920-4827-4de2-4a1a76e453e1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:39:08.684Z
+Categories:
+
+
+Name: Shuffle: Connecting students
+Url: https://testflight.apple.com/join/ngNRJnuz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/00/d4/4700d421-3dfd-f1f0-2b3c-4cbca76c1a3f/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:39:08.712Z
+Categories:
+
+
+Name: Siglota-Test
+Url: https://testflight.apple.com/join/OmeNBe5T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/d0/43/4fd043da-ca88-15be-3dde-62276d07b79c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:39:08.740Z
+Categories:
+
+
+Name: SignScribe
+Url: https://testflight.apple.com/join/yeW1EozJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/53/b3/90/53b39084-1d01-d058-f0f5-0b12f532bfa2/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:39:08.769Z
+Categories:
+
+
+Name: Signicat - Assure Demo
+Url: https://testflight.apple.com/join/30TXS7EW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/c3/ad/d3c3ad97-1f84-6a95-b018-e0dfc8ce232b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:39:08.797Z
+Categories:
+
+
