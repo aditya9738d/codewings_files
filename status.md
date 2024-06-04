@@ -1168,3 +1168,120 @@ Last Checked: 2024-06-04T22:51:11.727Z
 Categories:
 
 
+Name: Notion - notes, docs, tasks
+Url: https://testflight.apple.com/join/YSo8aVCS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/51/e4/1251e451-6fe2-4679-90f1-37896e885e1c/AppIconProd-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T22:52:14.872Z
+Categories:
+
+
+Name: Jeep®
+Url: https://testflight.apple.com/join/YGQinHIa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/07/80/5107804e-f491-34f6-6060-305a3fd2ae31/AppIcon.nafta.prod-1x_U007emarketing-0-5-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:52:14.901Z
+Categories:
+
+
+Name: StarEx - Buy Bitcoin
+Url: https://testflight.apple.com/join/XsgTpGZF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/70/eb/7470eb30-4387-9326-1f24-8cfe5af9fdbe/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:52:14.929Z
+Categories:
+
+
+Name: MadPay
+Url: https://testflight.apple.com/join/1959Lqzn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/19/6a/cc196a61-3eb3-8884-95b2-a9b85175a7ba/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:52:14.966Z
+Categories:
+
+
+Name: Planetary Social
+Url: https://testflight.apple.com/join/M9hPo1gA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/bf/70/06bf700a-2624-40f5-dec3-8d16509dc528/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:52:14.994Z
+Categories:
+
+
+Name: MusicSync for Home Assistant
+Url: https://testflight.apple.com/join/4nCUW4lI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/48/0c/51/480c5113-3473-ec81-68ed-2a16eaf56ac6/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:52:15.022Z
+Categories:
+
+
+Name: Filmlog
+Url: https://testflight.apple.com/join/ywiozhph
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/94/01/39940172-880d-e881-0d43-4658a39688c1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:52:15.050Z
+Categories:
+
+
+Name: Metacast: Podcast Player
+Url: https://testflight.apple.com/join/5ubyRzbg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/13/ae/5913aea9-1623-3bad-b64f-88803813d4ed/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:52:15.079Z
+Categories:
+
+
+Name: MySecretCase
+Url: https://testflight.apple.com/join/oqovz2xl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c2/45/99/c24599d5-a24e-0155-8861-602263547daf/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T22:52:15.107Z
+Categories:
+
+
+Name: C4CG Staff
+Url: https://testflight.apple.com/join/x0ni7LH8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/d6/6e/b0d66e03-6808-ca5e-688c-3793b9022415/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:52:15.136Z
+Categories:
+
+
+Name: WeFTTR
+Url: https://testflight.apple.com/join/ah0Uqrw5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0e/22/c7/0e22c7d8-46e0-7e76-b09d-b9b7a38b6401/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:52:15.163Z
+Categories:
+
+
+Name: LILIN Pro
+Url: https://testflight.apple.com/join/9XwvKbjH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/23/33/f3233325-06be-ce3b-7f64-ec9cd73cdecf/LILINHomeAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:52:15.192Z
+Categories:
+
+
+Name: KlipC:FX Copytrading Community
+Url: https://testflight.apple.com/join/sb8EbOpI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/98/ab/3098ab30-d3f4-b754-020c-b40927e829bc/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:52:15.221Z
+Categories:
+
+
