@@ -2338,3 +2338,120 @@ Last Checked: 2024-06-04T18:39:10.870Z
 Categories:
 
 
+Name: SSIKHJ Weather with WeatherKit
+Url: https://testflight.apple.com/join/yNfV6ehk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/81/6e/24/816e2498-cbf4-a73c-060e-aa29bdee2a2e/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.053Z
+Categories:
+
+
+Name: SSO+
+Url: https://testflight.apple.com/join/5TaqxnCM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/3a/04/463a0424-be9e-e75a-0886-318005211942/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.081Z
+Categories:
+
+
+Name: STJ Beta
+Url: https://testflight.apple.com/join/9qHB2ZZx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/f3/48/01f3489e-96d1-5000-733e-0f18fa59a6ef/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.109Z
+Categories:
+
+
+Name: SUPLA
+Url: https://testflight.apple.com/join/GZyMLwH0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/00/a4/d200a412-be78-d4b8-ee54-812a72e03c62/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T18:40:25.136Z
+Categories:
+
+
+Name: SV Trucking
+Url: https://testflight.apple.com/join/EtcKMHe1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/17/eb/6117ebaa-69ec-8b8e-4ffa-c527894c1ad4/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.163Z
+Categories:
+
+
+Name: SYS™
+Url: https://testflight.apple.com/join/xt0WFuzE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/80/49/bc804969-7d85-a521-c6f4-46e0ab63d541/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.190Z
+Categories:
+
+
+Name: Saakuru: All-in-one Crypto App
+Url: https://testflight.apple.com/join/iHwPYAow
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/a0/dc/6ea0dc75-3631-13c8-303a-5f0ee481f4a3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.218Z
+Categories:
+
+
+Name: Saas waiter
+Url: https://testflight.apple.com/join/1FOEhWfz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/29/28/4d/29284d7d-e0e8-7f96-9188-1cc8bc0ce29a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.246Z
+Categories:
+
+
+Name: Safe Dev
+Url: https://testflight.apple.com/join/Bu0OVZJd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d7/65/7e/d7657e51-043c-b68e-9648-04bee71af1c1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.273Z
+Categories:
+
+
+Name: Sake Discovery - OneSip
+Url: https://testflight.apple.com/join/W5Z3eLUF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/61/41/2d6141c2-d4b5-e3b4-3662-768dbb71834e/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.301Z
+Categories:
+
+
+Name: Sammy Cash
+Url: https://testflight.apple.com/join/3abHwWlN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/8f/ec/8f8fecef-7997-e60a-66e2-6a41ffbe4900/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.328Z
+Categories:
+
+
+Name: Samplr
+Url: https://testflight.apple.com/join/VkpeP9uI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/2c/01/6f2c0139-c8c2-1904-427c-d6365d66c4d2/AppIcon-1x_U007emarketing-0-2-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.357Z
+Categories:
+
+
+Name: Samurai Fight
+Url: https://testflight.apple.com/join/4a8K6ltZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/90/10/f69010b2-a7c3-9185-3c05-9c323de125d7/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T18:40:25.384Z
+Categories:
+
+
