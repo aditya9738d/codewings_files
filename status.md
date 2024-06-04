@@ -3859,3 +3859,120 @@ Last Checked: 2024-06-04T14:32:11.811Z
 Categories:
 
 
+Name: USST Payment Code
+Url: https://testflight.apple.com/join/D2EzTjkP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/81/98/60819895-8959-4b78-5a2b-03fb34ced61f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:33:09.132Z
+Categories:
+
+
+Name: IntraoralScan
+Url: https://testflight.apple.com/join/OG5QCCyP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/06/8b/8d068b4d-87cd-30a7-951d-0795c63861cf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:33:09.169Z
+Categories:
+
+
+Name: Pal Chat - AI Chat Client
+Url: https://testflight.apple.com/join/Vmd7XZa7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/1b/be/aa1bbe44-c5bc-6ff4-d453-647f6a0fe308/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:33:09.198Z
+Categories:
+
+
+Name: Moniepoint Business BETA2
+Url: https://testflight.apple.com/join/Zamt761t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/14/d7/96/14d796a0-eb2d-7fa7-0c59-66aafb51f6f1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:33:09.226Z
+Categories:
+
+
+Name: BIKA Global Pro
+Url: https://testflight.apple.com/join/NoMIn8b7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/13/bf/2513bf84-a74c-f621-b49d-c71feaabea9a/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:33:09.254Z
+Categories:
+
+
+Name: ThrivePal
+Url: https://testflight.apple.com/join/TsVZk2EP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/ca/b6/a6cab6b1-cf5d-30d3-cd80-62fa21413634/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T14:33:09.283Z
+Categories:
+
+
+Name: MICO: Make Friends, Live Chat
+Url: https://testflight.apple.com/join/6Yu1OJAy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/c1/e4/e3c1e481-4ac5-b6e6-e5ab-fda9ae69af0b/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T14:33:09.311Z
+Categories:
+
+
+Name: Flow Internet with Wireguard
+Url: https://testflight.apple.com/join/1c97AYHj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/01/8b/e3/018be31f-d460-1b75-e3a7-f958ca764b46/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T14:33:09.340Z
+Categories:
+
+
+Name: ZAX WIFI
+Url: https://testflight.apple.com/join/kYNzJ1QH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/19/bb/c5/19bbc55d-d278-572f-fff1-cd39bf534fbe/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T14:33:09.369Z
+Categories:
+
+
+Name: Rejoicify: Gospel Music
+Url: https://testflight.apple.com/join/Z57KUG3E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d9/c9/7a/d9c97a4f-42d8-5f1d-2e8f-b69a6720681a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:33:09.398Z
+Categories:
+
+
+Name: HENDERSON: мужская одежда
+Url: https://testflight.apple.com/join/8cJMVw0M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/ed/8c/45ed8c26-f3aa-a6db-1dc0-e010415b7ff8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:33:09.427Z
+Categories:
+
+
+Name: KSFinance
+Url: https://testflight.apple.com/join/gsJ4e4Y0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/fb/c0/5dfbc0b8-d873-0403-06d6-19f87de5f58a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:33:09.457Z
+Categories:
+
+
+Name: Cryptomator
+Url: https://testflight.apple.com/join/WMtYSrzD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/e3/c2/b8e3c2b1-2f45-222e-5267-71ad8ff24d71/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:33:09.486Z
+Categories:
+
+
