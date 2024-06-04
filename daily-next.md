@@ -1,3 +1,5 @@
+- **DS Cloud-高清影片、无损音乐轻松播放**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/43/88/3c438850-a4cb-74b1-c4b8-537aa986943b/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pL9tLj6Q)
+
 - **依米短视频**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/d4/34/3ed434b5-2b18-51d3-624f-e48ed79e063c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8LDV312x)
 
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mE4SHGvn)
@@ -46,5 +48,3 @@
 - **DropZap World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/7b/56/317b564e-a2b5-f033-1297-b42ea2db0c61/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CdEXgjst)
 - **Aventon: MyRide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/65/76/386576db-f48f-2d36-48e2-553799f1bfcd/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R285EnR0)
 - **mSale++**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/08/04/330804f9-21b4-77e0-636e-c32d273653e2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NfK9P5L4)
-- **Microsoft Authenticator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/a8/ed/35a8ed2d-3a24-a6a0-f90c-2ea85e568833/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Coqmmppd)
-- **VNSDK**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1f/85/5b1f85b3-ba7b-9fa1-6c05-add8912dca06/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/toblTDxv)
