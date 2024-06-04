@@ -10233,3 +10233,121 @@ Last Checked: 2024-06-04T19:52:15.048Z
 Categories:
 - Video
 
+Name: SolarEdge Go
+Url: https://testflight.apple.com/join/KzfUUDAC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/47/ee/d9/47eed99e-1439-86b2-3b6a-d8a4b556817c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 19
+Beta Available: open
+Last Checked: 2024-06-04T19:53:12.289Z
+Categories:
+
+
+Name: Map Alarm: Maps & Open Streets
+Url: https://testflight.apple.com/join/LF2SNq7J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/1a/06/271a065b-b2c9-6e3c-b04d-62517123e375/AppIcon_Color1-0-0-2x_U007euniversal-0-4-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T19:53:12.317Z
+Categories:
+
+
+Name: V-Guardian EVO
+Url: https://testflight.apple.com/join/n7ZP4qBe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/07/e5/0007e502-2c7e-bcb3-8003-95822a9d7f7a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:53:12.345Z
+Categories:
+
+
+Name: Fast Vpn Demo
+Url: https://testflight.apple.com/join/v6hQPX5p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a1/79/27a17902-9c75-a371-227a-fea9e287fb32/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 65
+Beta Available: open
+Last Checked: 2024-06-04T19:53:12.373Z
+Categories:
+
+
+Name: Avare - Journal Map
+Url: https://testflight.apple.com/join/kQF1GrAT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/28/b2/e228b283-8ab9-49da-b099-120cd3537ab9/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T19:53:12.400Z
+Categories:
+
+
+Name: AliExpress Shopping App
+Url: https://testflight.apple.com/join/TFhYeUyJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bb/81/52/bb8152f5-a7dd-ec25-e6c9-55f0d3a30292/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 35
+Beta Available: full
+Last Checked: 2024-06-04T19:53:12.429Z
+Categories:
+- Business
+- Shopping
+
+Name: Hyalocare
+Url: https://testflight.apple.com/join/UAy33SuS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/5e/43/655e43e4-3aeb-3bce-078c-2b1c16add00c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-04T19:53:12.456Z
+Categories:
+
+
+Name: Texts.com: Unified Messenger
+Url: https://testflight.apple.com/join/j15QDhZq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/89/55/478955a7-cb6f-86ff-db2b-fe560f6eff05/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T19:53:12.483Z
+Categories:
+
+
+Name: BandLab – Music Making Studio
+Url: https://testflight.apple.com/join/BwbEj9Xx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/93/a1/d593a1b5-5fe5-1ba4-6157-dc1d43740d0e/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-04T19:53:12.511Z
+Categories:
+- Music
+
+Name: GroupMe
+Url: https://testflight.apple.com/join/6CcTotfX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/53/f3/7d/53f37d35-25f5-e77d-69a5-62a34de4843e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 43
+Beta Available: open
+Last Checked: 2024-06-04T19:53:12.538Z
+Categories:
+- Chat
+
+Name: Neon - Color Picker
+Url: https://testflight.apple.com/join/p3t93K3L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/46/8b/74468bf5-daf6-cb3a-f3a2-eff77083769a/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: full
+Last Checked: 2024-06-04T19:53:12.565Z
+Categories:
+- Utility
+
+Name: Proximus+ Beta
+Url: https://testflight.apple.com/join/toywNocd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/b9/07/52b9073d-1efb-a40b-5905-c086d32ea90a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:53:12.593Z
+Categories:
+
+
+Name: Metro Staging
+Url: https://testflight.apple.com/join/0jTIOXG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/c6/80/68c68013-d69d-bdf3-e406-68e2b12425a7/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T19:53:12.620Z
+Categories:
+
+
