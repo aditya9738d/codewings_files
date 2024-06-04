@@ -7252,3 +7252,120 @@ Last Checked: 2024-06-04T15:01:11.323Z
 Categories:
 
 
+Name: WiseCRM365
+Url: https://testflight.apple.com/join/Gh4sPVC3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/7e/1f/e67e1f72-c063-595e-f13f-865f66e7e400/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.337Z
+Categories:
+
+
+Name: Kolumbus
+Url: https://testflight.apple.com/join/96HAjNXJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/58/85/eb5885dd-9e57-820e-b606-e66e18df38f4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.365Z
+Categories:
+
+
+Name: Pashouses Sales Portal
+Url: https://testflight.apple.com/join/cFa1rdON
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/75/03/b87503da-6245-a2db-7cb3-9b8beb07f9f9/AppIcon-production-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.392Z
+Categories:
+
+
+Name: Square Invoices: Invoice Maker
+Url: https://testflight.apple.com/join/6kzaqhuF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/df/ce/f2dfce4c-77e7-7a4d-0cd2-717ad81f4bae/AppIcon-AppStore-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.423Z
+Categories:
+
+
+Name: Aartas-ConnectPlus
+Url: https://testflight.apple.com/join/vINAz0J7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/45/9b/e2/459be2e2-6490-edfd-1517-8288456bc443/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.453Z
+Categories:
+
+
+Name: Overland GPS Tracker
+Url: https://testflight.apple.com/join/6UD8Jcvz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/ce/d6/afced67d-7fde-d7e7-b8cf-b97e8d599308/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.481Z
+Categories:
+
+
+Name: HCL Verse
+Url: https://testflight.apple.com/join/ICw74nJw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/69/31/ad693115-82ce-990f-674f-eef0c67f54fd/AppIconExternal-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.509Z
+Categories:
+
+
+Name: AgoraLabs
+Url: https://testflight.apple.com/join/MgzoWZvV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/e5/b6/5ce5b65e-be2c-8b38-3e3b-373966b5a010/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.537Z
+Categories:
+
+
+Name: Games Console
+Url: https://testflight.apple.com/join/23aH3U3q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/6a/65/ee6a65be-c121-68ad-5abd-7ae760c28e44/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.565Z
+Categories:
+
+
+Name: Travian: Legends Mobile
+Url: https://testflight.apple.com/join/QLm2zhZz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/d6/a6/8ad6a68b-05a7-605a-6b54-66002b58395e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.593Z
+Categories:
+
+
+Name: Staff2
+Url: https://testflight.apple.com/join/KohcfXzt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/f1/5f/09f15ff4-6a9c-f668-450c-56f6bcff5fc7/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.621Z
+Categories:
+
+
+Name: Cantoboard
+Url: https://testflight.apple.com/join/zq9YSjuv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/3f/e4/a13fe4ce-b8b7-6983-e51b-9bfcc48de02c/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.649Z
+Categories:
+
+
+Name: Lifetime Movie Club
+Url: https://testflight.apple.com/join/UCChlLvP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/96/b8/6a96b8dc-ed07-1555-07bf-13ec7fc116f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 11
+Beta Available: open
+Last Checked: 2024-06-04T15:03:10.678Z
+Categories:
+
+
