@@ -2572,3 +2572,120 @@ Last Checked: 2024-06-04T05:42:12.507Z
 Categories:
 
 
+Name: The Neighborhood Squatch
+Url: https://testflight.apple.com/join/IDdMLWVz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/cd/e0/e3cde080-f2bc-b2a8-1074-bae2ca45f22b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:43:09.801Z
+Categories:
+
+
+Name: Solis Finance App
+Url: https://testflight.apple.com/join/hSZPPY3X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/8f/69/258f6998-83bf-1008-2877-ef74f9a6ceb0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:43:09.830Z
+Categories:
+
+
+Name: Nozbe
+Url: https://testflight.apple.com/join/P4TnAn85
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ef/7f/a7ef7fde-f35f-7ea9-d2ed-cabf411bcc58/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:43:09.858Z
+Categories:
+
+
+Name: Aburra
+Url: https://testflight.apple.com/join/uLiAhdUA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/75/66/3b/75663b7b-4cb5-e4a1-8e52-5fc22ccfe4eb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:43:09.886Z
+Categories:
+
+
+Name: AtaOnline
+Url: https://testflight.apple.com/join/dARiQ3uL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/1f/c2/d41fc291-32a6-270c-0000-27b6355492a9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:43:09.916Z
+Categories:
+
+
+Name: Halasat HRMS
+Url: https://testflight.apple.com/join/Mrcoo96t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/66/f2/7366f25a-a433-832c-7f6d-a0f51fcc56c2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:43:09.944Z
+Categories:
+
+
+Name: Unitree Robotics
+Url: https://testflight.apple.com/join/HkN8x2vc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/90/38/8a/90388abc-c3b7-c7fe-fdea-96cd1fee2f0e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T05:43:09.973Z
+Categories:
+
+
+Name: SPONT POS - Kassa
+Url: https://testflight.apple.com/join/L6Tx1Px1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/4f/fd/a04ffdc0-367a-1982-744a-57ceacd1cdcb/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:43:10.002Z
+Categories:
+
+
+Name: Orna: The GPS RPG (BETA)
+Url: https://testflight.apple.com/join/5U2DDNNQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/a5/a8/70a5a850-1d0a-1811-ddf9-6d0070cb3fdb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:43:10.031Z
+Categories:
+
+
+Name: Optima CRM
+Url: https://testflight.apple.com/join/biKQAAaH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ef/8d/51/ef8d51ca-041b-0baa-0b53-d535e77ad24e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:43:10.059Z
+Categories:
+
+
+Name: KloudGin
+Url: https://testflight.apple.com/join/E4mEnK51
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/2e/ff/922eff95-cb2d-e9f0-0db0-c6fb7e835d58/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:43:10.088Z
+Categories:
+
+
+Name: Winee3
+Url: https://testflight.apple.com/join/IFjwtnsG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/27/b2/df27b22a-9fbb-29c1-ca94-7a36edd03791/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T05:43:10.117Z
+Categories:
+
+
+Name: Bloo
+Url: https://testflight.apple.com/join/MQrlEUdu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/25/00/a0/2500a0dc-3175-1703-b6b0-fad8c2f09596/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T05:43:10.146Z
+Categories:
+
+
