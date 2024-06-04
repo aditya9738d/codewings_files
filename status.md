@@ -9648,3 +9648,120 @@ Last Checked: 2024-06-04T19:47:12.081Z
 Categories:
 
 
+Name: Starr - Smart Calculator
+Url: https://testflight.apple.com/join/n2Ii3S0r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/b3/3a/16b33aec-4b82-9e03-ae80-090524187d31/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T19:48:12.867Z
+Categories:
+
+
+Name: Embibe Experiments Preprod
+Url: https://testflight.apple.com/join/YTAYIT3R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/75/9d/bd759d97-e563-a389-4d8b-06492003ae34/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-04T19:48:12.895Z
+Categories:
+
+
+Name: Hand Mirror
+Url: https://testflight.apple.com/join/bnUjZUkE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/b4/5c/9cb45c82-ed3a-9bdc-419f-11aba0d41f6e/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 6
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:48:12.924Z
+Categories:
+
+
+Name: Treegaze Cove: Merge & Craft
+Url: https://testflight.apple.com/join/4l65h1Yz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/c2/1c/86c21cf5-d1e3-8fb5-277b-415e5457079d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:48:12.952Z
+Categories:
+
+
+Name: HISTORY Vault
+Url: https://testflight.apple.com/join/nPNYe0PY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/1a/5b/321a5b28-1f90-050e-0ccd-c3ec67d8a6bb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 134
+Beta Available: open
+Last Checked: 2024-06-04T19:48:12.980Z
+Categories:
+- Entertainment
+
+Name: FUT Sniping Bot
+Url: https://testflight.apple.com/join/t7766iRc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/eb/8d/a4/eb8da4b7-1fd4-bc3b-7183-51e1837470ee/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T19:48:13.008Z
+Categories:
+
+
+Name: Mage: Strength Coaching
+Url: https://testflight.apple.com/join/ELyfxQcj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/c7/3a/ecc73a95-bc43-b684-b248-6ffcd90e21f6/AppIconSingle-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T19:48:13.037Z
+Categories:
+
+
+Name: Doris by dgApps
+Url: https://testflight.apple.com/join/dTdLfvIK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/25/a2/4725a266-e9a1-3d92-c136-3a146fe96ba1/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T19:48:13.065Z
+Categories:
+
+
+Name: PSX Real Estates Classified
+Url: https://testflight.apple.com/join/qouq41dn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a9/4f/fe/a94ffeee-776d-ad8f-afc7-f7641582c04e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T19:48:13.093Z
+Categories:
+
+
+Name: One Technical Lite
+Url: https://testflight.apple.com/join/uwpTKire
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/26/14/f62614f4-a67e-a11a-acbc-82917a0d8fb3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T19:48:13.121Z
+Categories:
+
+
+Name: Waverly
+Url: https://testflight.apple.com/join/uT8hwVyG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/58/69/d358696a-94b9-bc29-a444-6f0fa7995107/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T19:48:13.150Z
+Categories:
+
+
+Name: MixMob: Racer 1
+Url: https://testflight.apple.com/join/ljXumv54
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/1f/7b/731f7b09-76d6-f602-c9d1-238a0f2824cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:48:13.178Z
+Categories:
+
+
+Name: WunderLINQ
+Url: https://testflight.apple.com/join/Nlw5rUn2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/53/98/b15398a9-d193-1737-2fb9-937151386118/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T19:48:13.206Z
+Categories:
+
+
