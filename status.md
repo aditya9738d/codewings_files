@@ -9882,3 +9882,120 @@ Last Checked: 2024-06-04T19:49:11.577Z
 Categories:
 
 
+Name: Vida Journal
+Url: https://testflight.apple.com/join/zBWk4QZ1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/6d/e8/466de8bc-c3b5-d5fb-1354-2f29ea588ead/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 11
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:50:28.303Z
+Categories:
+
+
+Name: NTNU CVCS 2021
+Url: https://testflight.apple.com/join/GkbLawaz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/be/9a/c2be9a04-b38a-7985-21ef-56d192c95abf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-04T19:50:28.339Z
+Categories:
+
+
+Name: Oooh: Way Better Group Chats
+Url: https://testflight.apple.com/join/dlm34fHd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/88/39/528839db-115b-8297-86cd-56869066c8f2/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:50:28.374Z
+Categories:
+
+
+Name: Flickplay: Digital Characters
+Url: https://testflight.apple.com/join/xr5o788R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/65/f5/0f65f546-1ef3-0a21-bbe2-4fc5e70ed9ae/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T19:50:28.409Z
+Categories:
+- Social Networking
+
+Name: Vetero° Weather
+Url: https://testflight.apple.com/join/sAJWcbZ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/bc/21/68bc21ca-10e9-710d-0f6c-56f747c0c1c6/AppIcon-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T19:50:28.445Z
+Categories:
+
+
+Name: Nootti
+Url: https://testflight.apple.com/join/LDJGX8QV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/21/42/7b214293-b377-1eb0-1878-2b24a7dbfa41/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: full
+Last Checked: 2024-06-04T19:50:28.480Z
+Categories:
+
+
+Name: YouSee Musik
+Url: https://testflight.apple.com/join/bUlXGEb8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/92/ca/4992cafa-8ab9-4e1a-fbcf-e0e364c0eb5a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 70
+Beta Available: open
+Last Checked: 2024-06-04T19:50:28.516Z
+Categories:
+- Music
+
+Name: KingPoker.Club
+Url: https://testflight.apple.com/join/hFIiD6km
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/53/b8/fa/53b8fa49-296c-39ec-0906-f5687b49d9a9/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T19:50:28.552Z
+Categories:
+
+
+Name: Mbuntu
+Url: https://testflight.apple.com/join/aDVXKCIm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f8/fa/7f/f8fa7fc6-4512-7e0f-c585-bd6e81a59bc4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-04T19:50:28.587Z
+Categories:
+
+
+Name: FOLKLORE: Enjoy festivals!
+Url: https://testflight.apple.com/join/whnVOjRc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/bf/21/67bf210f-f7be-01db-e834-2a2d849fbc40/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:50:28.623Z
+Categories:
+
+
+Name: MeetIRL
+Url: https://testflight.apple.com/join/w8XEqaKg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a8/fb/1f/a8fb1fe3-4cbd-08db-a049-40ecbc847a2d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T19:50:28.658Z
+Categories:
+
+
+Name: Eyva
+Url: https://testflight.apple.com/join/n8M2itWd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/fa/47/effa47bc-055d-5bc1-e4e8-842c596e49ba/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:50:28.694Z
+Categories:
+
+
+Name: Untappd - Discover Beer
+Url: https://testflight.apple.com/join/EbIrz3mA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/ec/ec/9eecec27-c12b-f452-f68e-0cd3193398a2/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T19:50:28.729Z
+Categories:
+
+
