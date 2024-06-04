@@ -25243,3 +25243,120 @@ Last Checked: 2024-06-04T22:13:09.276Z
 Categories:
 
 
+Name: MaaS360 Browser
+Url: https://testflight.apple.com/join/NBp8ZCtV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/39/06/c8390602-3c0e-345f-46e5-a4e21edb76a7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:14:11.763Z
+Categories:
+
+
+Name: Reaslo
+Url: https://testflight.apple.com/join/90I3yOHf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/9e/87/699e87d7-029b-0da7-0cc1-4b57f5d7cdf6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-04T22:14:11.791Z
+Categories:
+
+
+Name: Homey — A better smart home
+Url: https://testflight.apple.com/join/tA2e9vby
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a2/b3/aca2b3e3-6909-da8d-7e6a-e27050356853/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:14:11.819Z
+Categories:
+
+
+Name: Reeder 5.
+Url: https://testflight.apple.com/join/2w63KOGS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/82/4c/05824c90-43c7-935a-228e-edfb0282484f/AppIcon-macOS-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T22:14:11.848Z
+Categories:
+
+
+Name: Pixelfed
+Url: https://testflight.apple.com/join/dNcLnb1n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/61/01/d56101d0-d124-8202-d71c-31e76155418c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:14:11.877Z
+Categories:
+
+
+Name: Veritas Market
+Url: https://testflight.apple.com/join/8kksZ7jU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/ac/50/4fac5095-56e4-8be0-2a3e-aa0da8d00282/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:14:11.905Z
+Categories:
+
+
+Name: ABC Self Order Plus
+Url: https://testflight.apple.com/join/xtxVUgmp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/73/de/fa73de10-00d8-f415-38f6-aaada254debd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:14:11.933Z
+Categories:
+
+
+Name: ISAI Cloud
+Url: https://testflight.apple.com/join/nylJX8pq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/77/17/8f771759-ce1f-efd7-81bd-95ea393edf2b/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:14:11.962Z
+Categories:
+
+
+Name: Passio Nutrition-AI Demo
+Url: https://testflight.apple.com/join/E8X1SS5l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a8/c5/1c/a8c51c50-5d1f-4dfa-9124-fd840ad914ac/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:14:11.990Z
+Categories:
+
+
+Name: DTalks
+Url: https://testflight.apple.com/join/QhTCjaUQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1d/8a/2c1d8ace-5a79-175c-21e5-178e3ab09306/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:14:12.018Z
+Categories:
+
+
+Name: HICity Fusen Dev
+Url: https://testflight.apple.com/join/krqiRZOU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/45/0e/6b450e77-4401-efa9-5e10-3f20875a107c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:14:12.047Z
+Categories:
+
+
+Name: KSBB Universe
+Url: https://testflight.apple.com/join/kxNZnqHu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/7e/9b/767e9b7a-cf1d-2531-c90a-2291b1eb208c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:14:12.075Z
+Categories:
+
+
+Name: Bouncie
+Url: https://testflight.apple.com/join/wdcTwUbX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/38/9c/d8/389cd8e6-ed8e-4d95-f41c-828e404bf3c1/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T22:14:12.103Z
+Categories:
+
+
