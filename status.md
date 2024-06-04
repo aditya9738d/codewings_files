@@ -5146,3 +5146,120 @@ Last Checked: 2024-06-04T14:43:11.509Z
 Categories:
 
 
+Name: Tamweel
+Url: https://testflight.apple.com/join/5Xw0cTFz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/b2/43/2fb24363-e610-ae9d-170f-32191f885ff5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:44:11.817Z
+Categories:
+
+
+Name: Nexus - Mobile Wallet
+Url: https://testflight.apple.com/join/dJLBiKzt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/26/8e/46268e1c-bd06-8e42-5b83-f6f451dc78c3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:44:11.845Z
+Categories:
+
+
+Name: Wonga Swiss 2.0
+Url: https://testflight.apple.com/join/4qzEY0Xg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/64/9d/fe649df9-038e-611d-1f81-e70a210b8e5c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T14:44:11.874Z
+Categories:
+
+
+Name: 24 Hour Wallpaper
+Url: https://testflight.apple.com/join/OW9iNMED
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/98/8d/bf988ddc-7421-0e0d-c19a-86336a6c8a7d/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-04T14:44:11.902Z
+Categories:
+
+
+Name: Taska for GitHub/GitLab Issues
+Url: https://testflight.apple.com/join/C1wZmUlK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/b6/86/1bb686cb-9364-08bc-23a0-7f6d79927759/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:44:11.929Z
+Categories:
+
+
+Name: Zenze
+Url: https://testflight.apple.com/join/E03ZubTj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/2c/64/892c64b9-7560-74b4-6f83-bb059ab46739/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:44:11.957Z
+Categories:
+
+
+Name: ECOXPLORE WMS
+Url: https://testflight.apple.com/join/x5kKuVuU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/5a/8f/c75a8f81-c59f-805f-deb9-32330db7d375/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:44:11.986Z
+Categories:
+
+
+Name: NFS Room Panel
+Url: https://testflight.apple.com/join/abk8i54v
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/0c/4e/ec0c4e63-1170-defe-c5ee-a7f74dfcb3d3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:44:12.014Z
+Categories:
+
+
+Name: FMIS Portal Lite
+Url: https://testflight.apple.com/join/R50vNXA4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/22/42/4d22425e-54a0-2499-6351-26bd2cc5d484/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:44:12.042Z
+Categories:
+
+
+Name: iTelevision
+Url: https://testflight.apple.com/join/woLYKBj6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/ee/c0/e6eec0a6-f4f8-f8aa-970e-9d8655f7a609/App_Icon-marketing.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T14:44:12.071Z
+Categories:
+
+
+Name: BigRich_QA
+Url: https://testflight.apple.com/join/lAWeUkCj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/94/ad/fa94adf0-8aaf-c102-722a-3d5545c1c7bb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:44:12.098Z
+Categories:
+
+
+Name: AdGuard Pro — adblock&privacy
+Url: https://testflight.apple.com/join/Eita1W29
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/39/a8/0a39a8df-a3ad-6fe6-569f-b7b256b9572d/ProAppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T14:44:12.126Z
+Categories:
+
+
+Name: Liv Bank
+Url: https://testflight.apple.com/join/Ou5CKdgc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/de/5d/cbde5dc3-800d-bd43-8722-88273bfa3ff7/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:44:12.155Z
+Categories:
+
+
