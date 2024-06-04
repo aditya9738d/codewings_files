@@ -9592,3 +9592,120 @@ Last Checked: 2024-06-04T06:47:12.684Z
 Categories:
 
 
+Name: Connect-It 365 Inspectie app
+Url: https://testflight.apple.com/join/xpVS2BSb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/7f/a8/567fa8ed-83e2-3a38-4ce4-94ac6929b42a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.442Z
+Categories:
+
+
+Name: Happy Treasure
+Url: https://testflight.apple.com/join/eKNJoc6b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/d1/6c/3fd16cdf-60b1-28be-d555-d30539fd6f2f/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.469Z
+Categories:
+
+
+Name: ProjectCura
+Url: https://testflight.apple.com/join/S6RYM0gg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/88/84/b8888406-d89c-0c8c-181d-16f4a22ed626/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.497Z
+Categories:
+
+
+Name: Comes
+Url: https://testflight.apple.com/join/XO5Gw5WU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/bd/68/4abd687a-0f91-9aba-c4c5-965d3b04fe8b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.525Z
+Categories:
+
+
+Name: Sheet
+Url: https://testflight.apple.com/join/YxROrjRM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/f2/e1/a4f2e189-cdb9-eddf-c426-2e9f684f3638/AppIcon-Mac-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.553Z
+Categories:
+
+
+Name: Insight Growth: Be Better
+Url: https://testflight.apple.com/join/omVEGyIb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/c2/60/abc260f2-483d-1c5b-d604-c71222f0ffc1/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.581Z
+Categories:
+
+
+Name: Skype
+Url: https://testflight.apple.com/join/fB5IkJT7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/4a/79/d04a7907-af35-331c-0dbe-dba23ce7951b/AppIcon.insiders-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.610Z
+Categories:
+
+
+Name: SCDBO Belarusbank TEST
+Url: https://testflight.apple.com/join/od8a3NAU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/ac/26/dfac26b4-c0ec-0de9-2151-b18dbe801159/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.637Z
+Categories:
+
+
+Name: Pockity
+Url: https://testflight.apple.com/join/eDudhWmO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/97/f9/1f97f993-2f04-6b1a-6cda-cd33337451cb/AppIcon-0-0-1x_U007epad-0-10-0-P3-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T06:48:14.665Z
+Categories:
+
+
+Name: hatracker
+Url: https://testflight.apple.com/join/2TX3ZzDm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/d1/16/36d1163a-589c-bfa4-f040-7db087581f55/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.701Z
+Categories:
+
+
+Name: Revo Scan-3D scanner app
+Url: https://testflight.apple.com/join/8fitIoqJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0a/c5/a2/0ac5a21e-2991-6fe0-edb0-808bdc0b1c2c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.728Z
+Categories:
+
+
+Name: xLights
+Url: https://testflight.apple.com/join/LT2Eppmr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/42/f1/6242f1df-c6f4-c334-c482-1509628fad53/AppIcon-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.756Z
+Categories:
+
+
+Name: My Painpal App
+Url: https://testflight.apple.com/join/hDm0TCPY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/53/2c/41532ce2-4fb1-5713-c86e-71cf8cda70fc/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:48:14.783Z
+Categories:
+
+
