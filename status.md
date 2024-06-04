@@ -8539,3 +8539,120 @@ Last Checked: 2024-06-04T06:37:10.708Z
 Categories:
 
 
+Name: NearbyStores
+Url: https://testflight.apple.com/join/G3FnOZoT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/1e/39/ad1e39a7-d61b-e26c-201c-f04b64ff1b96/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:38:13.702Z
+Categories:
+
+
+Name: InstaLauncher
+Url: https://testflight.apple.com/join/EkylgE8G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/a6/35/9aa63592-1560-ca3f-ed61-70e3effa3d1a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T06:38:13.738Z
+Categories:
+
+
+Name: eplusDev
+Url: https://testflight.apple.com/join/0GDhnEkQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ba/db/3a/badb3ace-27fc-82da-2cb5-2ade86c2ab36/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:38:13.773Z
+Categories:
+
+
+Name: Featherweight UI
+Url: https://testflight.apple.com/join/3HPI9h3W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/04/c7/9e/04c79e10-c197-2ea5-d745-5fb3acb2808e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:38:13.809Z
+Categories:
+
+
+Name: Lazy Mobile
+Url: https://testflight.apple.com/join/TDwWJhJy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/57/36/2c/57362c63-fa62-8b43-74a7-70d8755c1f89/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:38:13.845Z
+Categories:
+
+
+Name: Structured - Daily Planner
+Url: https://testflight.apple.com/join/k3x7jn8B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/62/a9/1662a960-d2e3-10ac-c258-979513eb7fce/AppIcon-0-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:38:13.880Z
+Categories:
+
+
+Name: WashSMa
+Url: https://testflight.apple.com/join/J58fpV8u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/fd/25/cbfd2540-df16-56b0-35ed-13f5c3cb818e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:38:13.916Z
+Categories:
+
+
+Name: icube laser
+Url: https://testflight.apple.com/join/bPVMbqS9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/92/ba/5e92ba58-c166-f1ef-4ab8-54e9ea09c40d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T06:38:13.952Z
+Categories:
+
+
+Name: Doctor - Appointments Booking
+Url: https://testflight.apple.com/join/C0IsBZdY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/e2/31/26e231be-22c5-f6e6-aa16-7fdc14f8ed50/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:38:13.988Z
+Categories:
+
+
+Name: Soulver
+Url: https://testflight.apple.com/join/rBWP4hPz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/1b/27/b01b270e-909c-e1f8-cbbf-f7416f4776aa/App_Icon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:38:14.023Z
+Categories:
+
+
+Name: Teem Tracker - Find My Friends
+Url: https://testflight.apple.com/join/W6pJBW1N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/94/49/06/944906d4-e989-17f8-8bea-d45d676e3e1c/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T06:38:14.059Z
+Categories:
+
+
+Name: 52RedPoker
+Url: https://testflight.apple.com/join/XIcXxLRY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/20/ce/a220ce55-e3ed-4b82-7bd6-cf682f72fee5/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:38:14.094Z
+Categories:
+
+
+Name: Embrace BrandGame
+Url: https://testflight.apple.com/join/oa6rZtmR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/c7/f6/7fc7f6ee-7ca8-bd0f-7f29-36ae77b98060/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:38:14.130Z
+Categories:
+
+
