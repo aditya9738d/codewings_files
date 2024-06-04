@@ -22111,3 +22111,120 @@ Last Checked: 2024-06-04T00:07:10.892Z
 Categories:
 
 
+Name: Lucas App Suite
+Url: https://testflight.apple.com/join/djfafmr6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f2/4e/85/f24e8537-bdff-dc16-01f6-7076166bc20a/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:08:10.946Z
+Categories:
+
+
+Name: Lucky Supermarkets
+Url: https://testflight.apple.com/join/jYsgeGWy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/c9/c6/97c9c686-51b5-620d-24d4-ed7ac8546569/LuckyAppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:08:10.981Z
+Categories:
+
+
+Name: Lufi: Bilingual Stories
+Url: https://testflight.apple.com/join/VwTvwVWk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/b3/b5/19b3b533-528e-565d-3fa9-62d49556aa25/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:08:11.018Z
+Categories:
+
+
+Name: Luna HWC
+Url: https://testflight.apple.com/join/RbRX3LT5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/cd/6f/9dcd6fbf-0d6a-1371-5afc-6e758e9b39c5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:08:11.054Z
+Categories:
+
+
+Name: Lungy: Sleep Exercises
+Url: https://testflight.apple.com/join/MmC4RwiG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/45/89/144589db-200d-5b53-8adb-7751d43754f0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:08:11.089Z
+Categories:
+
+
+Name: Lyrak - Live your way
+Url: https://testflight.apple.com/join/c76yIqKK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/f1/5e/12f15ec4-7132-e1a6-354b-5c2d8ef0fa2f/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:08:11.124Z
+Categories:
+
+
+Name: M.App Enterprise
+Url: https://testflight.apple.com/join/ZPaCor58
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/70/7a/cf/707acf2e-f9af-2c0b-7b6c-effd5ea28c6d/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T00:08:11.159Z
+Categories:
+
+
+Name: MATRIC - Remote for Windows PC
+Url: https://testflight.apple.com/join/pkXPB9BD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e7/bf/6e/e7bf6eaa-0489-3b95-2f22-c23c52f13c09/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:08:11.195Z
+Categories:
+
+
+Name: MB UAT
+Url: https://testflight.apple.com/join/PAilDClq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b5/83/21/b5832115-63e2-e20a-7b1b-eb9f7fbdd6e4/AMKAppIcon_uat-0-0-1x_U007emarketing-0-7-0-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:08:11.231Z
+Categories:
+
+
+Name: MIDIVision 3D
+Url: https://testflight.apple.com/join/lVmr7qJl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/5d/4b/f65d4b5f-d750-43e1-565e-7ce4ae9cc658/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:08:11.267Z
+Categories:
+
+
+Name: MLS-Touch
+Url: https://testflight.apple.com/join/wSerJeCW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/72/b3/4c/72b34c83-8d8e-434d-6766-6956265a2546/AppIcon_MLST-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:08:11.303Z
+Categories:
+
+
+Name: MODEX 2024
+Url: https://testflight.apple.com/join/B19bhMpp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/d4/64/3ed46481-8d82-bd25-577a-740df3970cea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:08:11.338Z
+Categories:
+
+
+Name: MOI-DMS
+Url: https://testflight.apple.com/join/BvkMjyI5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8a/99/c4/8a99c4d3-3c25-71ef-ef7a-9de428df3f60/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T00:08:11.373Z
+Categories:
+
+
