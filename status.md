@@ -16468,3 +16468,120 @@ Last Checked: 2024-06-04T20:51:11.278Z
 Categories:
 
 
+Name: BackpackWallet
+Url: https://testflight.apple.com/join/YAAWF4RL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/84/75/8e84751c-be7b-bb4a-2cfe-4ff864453d8e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:12.719Z
+Categories:
+
+
+Name: Village Playdates
+Url: https://testflight.apple.com/join/tAknV9Dy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/c7/53/5cc753ba-e8f8-deb5-9eba-4a585bbdef32/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:12.755Z
+Categories:
+
+
+Name: Kafi Wealth
+Url: https://testflight.apple.com/join/4VGRGvow
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/38/0f/65380feb-7495-bad0-2699-42a1f25ec340/AppIcon_PROD-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:12.793Z
+Categories:
+
+
+Name: One Plus
+Url: https://testflight.apple.com/join/mIt9uVcU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/af/9b/72af9bf0-adc0-638f-c42d-015a67981817/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:12.829Z
+Categories:
+
+
+Name: InstaPlan-UAT
+Url: https://testflight.apple.com/join/ikqPfq52
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/13/3c/80133cce-6ff1-e8e2-36ca-d5254d845275/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:12.865Z
+Categories:
+
+
+Name: iPOS Inventory V2(DEV-STAG)
+Url: https://testflight.apple.com/join/wMRUOvJE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/10/68/1d10689b-e3bc-50f5-3b31-4b32f7e6e7f8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:12.902Z
+Categories:
+
+
+Name: TwoNav: Maps Routes
+Url: https://testflight.apple.com/join/d0uLPpsj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/55/48/d555485a-49cb-1a22-4d0a-74c16efecce9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:12.939Z
+Categories:
+
+
+Name: ATPRulesBook
+Url: https://testflight.apple.com/join/qFzXoEbk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/c4/dd/0dc4ddd6-d8b0-504f-2ac0-03f1ab6cc3d0/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:12.976Z
+Categories:
+
+
+Name: In Spirit and Truth
+Url: https://testflight.apple.com/join/VVulCkvp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3f/68/4c/3f684cfd-7a41-e67c-688e-b173e162bcb0/AppIcon-beta-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:13.012Z
+Categories:
+
+
+Name: Weewx Weather
+Url: https://testflight.apple.com/join/6cDf6InF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/dc/ad/60dcad93-fa0d-8728-96a5-2ff86215a9a7/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:13.047Z
+Categories:
+
+
+Name: FeatsClub
+Url: https://testflight.apple.com/join/z9hBqVML
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/13/e2/8e13e29b-c2a6-91da-1133-ff04b753e3af/AppIcon-1x_U007emarketing-0-6-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:13.084Z
+Categories:
+
+
+Name: Payt
+Url: https://testflight.apple.com/join/RA4jRA8J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/13/10/0b1310fa-5e6d-0bf8-4dca-2c974618f0ec/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T20:52:13.122Z
+Categories:
+
+
+Name: Binance: Buy Bitcoin & Crypto
+Url: https://testflight.apple.com/join/vUT5Rdfz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/1f/95/991f954e-3d4d-e675-6a46-7086dba45f9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:52:13.159Z
+Categories:
+
+
