@@ -1051,3 +1051,120 @@ Last Checked: 2024-06-04T22:50:23.503Z
 Categories:
 
 
+Name: Bielaruskaja Lacinka
+Url: https://testflight.apple.com/join/pfIj5vHJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/85/b7/8f85b710-ee6f-c2d4-ac48-725603a7388e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:51:11.350Z
+Categories:
+
+
+Name: Potunes
+Url: https://testflight.apple.com/join/LswWKGfh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/bb/d4/32bbd493-bccd-1668-b315-e8f13e771d3b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T22:51:11.379Z
+Categories:
+
+
+Name: Atividades CESAT
+Url: https://testflight.apple.com/join/iZuYcaED
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/25/85/e32585e6-711f-0f74-25fb-1b6a7933693f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:51:11.408Z
+Categories:
+
+
+Name: FM Chat
+Url: https://testflight.apple.com/join/2YkUXwk7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/38/e4/27/38e427a5-eb6d-1765-8a11-aba0ac993364/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:51:11.437Z
+Categories:
+
+
+Name: glinet
+Url: https://testflight.apple.com/join/8XEBMu8T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0e/5d/4f/0e5d4fcc-21d3-4836-1e64-7ad6ec9d6a1f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:51:11.495Z
+Categories:
+
+
+Name: AdvisorZone
+Url: https://testflight.apple.com/join/563RDDqZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/b5/4c/d9b54ce0-15ae-d5f0-9699-470f7f05c61c/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:51:11.524Z
+Categories:
+
+
+Name: CRAFT - the Social Beer App
+Url: https://testflight.apple.com/join/oD1kIq3s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/09/ba/7f09bab9-2f62-8d3a-491e-ff852252c6ad/AppIcon-0-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:51:11.552Z
+Categories:
+
+
+Name: MWeb - Markdown Writing, Notes
+Url: https://testflight.apple.com/join/XDGRHrm3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/d5/73/a8d57319-92a5-2240-a3f7-c00a2f10db60/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T22:51:11.581Z
+Categories:
+
+
+Name: RoseStation
+Url: https://testflight.apple.com/join/J0cvhgqw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/87/ba/5187ba03-c4b6-276c-61ab-882eda668a86/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:51:11.611Z
+Categories:
+
+
+Name: Square Kitchen Display System
+Url: https://testflight.apple.com/join/3pkewqyV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/ec/17/f6ec177d-14c2-f80e-4aba-541df6328464/AppIconAppStore-1x_U007emarketing-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:51:11.639Z
+Categories:
+
+
+Name: Fastastic
+Url: https://testflight.apple.com/join/MmhnoVae
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/f6/e1/d9f6e113-585b-aa22-764c-2af94fd8a3e3/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T22:51:11.668Z
+Categories:
+
+
+Name: Geo Gods
+Url: https://testflight.apple.com/join/zTAdypfH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/2f/d8/022fd84e-8636-298b-64ac-ce4cba8ac617/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:51:11.698Z
+Categories:
+
+
+Name: Vult DEV
+Url: https://testflight.apple.com/join/DCXRcJAD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/07/ae/4c07ae9a-f39c-9ada-6f68-d50ee76b530f/AppIcon-dev-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T22:51:11.727Z
+Categories:
+
+
