@@ -13687,3 +13687,120 @@ Last Checked: 2024-06-04T16:03:11.098Z
 Categories:
 
 
+Name: Instatruck (Driver)
+Url: https://testflight.apple.com/join/bF1BUqpB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b2/e5/a2b2e5f6-cc22-1ee4-0a4f-cc5a8a5e68da/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:04:13.227Z
+Categories:
+
+
+Name: Cobo Crypto Wallet: BTC & DASH
+Url: https://testflight.apple.com/join/AjCO87zA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/87/c4/d7/87c4d7be-f846-bf9a-ba2d-50b8aca6bd08/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T16:04:13.255Z
+Categories:
+
+
+Name: SIFU Dev
+Url: https://testflight.apple.com/join/vbNwMlKz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/8b/77/a78b7794-329a-cd55-1429-89fea8d11cc5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:04:13.281Z
+Categories:
+
+
+Name: Audit App
+Url: https://testflight.apple.com/join/g2fS8AHA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3b/f9/9d/3bf99d7a-b523-c400-54b8-9d3b8ad64c15/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:04:13.309Z
+Categories:
+
+
+Name: Innovative Libraries
+Url: https://testflight.apple.com/join/Wd2F7SO5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/05/3d/94/053d9419-9bec-b3f9-a204-34d359987f45/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:04:13.336Z
+Categories:
+
+
+Name: ZEEKR
+Url: https://testflight.apple.com/join/lyu3rgmd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/c6/c6/a3c6c62a-5ecd-e132-55fe-a2adfff8d9ae/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T16:04:13.363Z
+Categories:
+
+
+Name: eGov Mobile
+Url: https://testflight.apple.com/join/ml5B60m8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/93/c8/5693c828-153f-5cf2-9d45-499d9f0373fc/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:04:13.391Z
+Categories:
+
+
+Name: Loungebird
+Url: https://testflight.apple.com/join/86myR6st
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/51/cb/df51cb37-2d66-effb-3f06-89cc3a13bb92/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-04T16:04:13.418Z
+Categories:
+
+
+Name: Microsoft Word
+Url: https://testflight.apple.com/join/hw76phYi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/b6/64/10b66473-b693-9753-aa9c-60b4e557ae04/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:04:13.448Z
+Categories:
+
+
+Name: Fraction Steps: Learn Visually
+Url: https://testflight.apple.com/join/VhzZ7q96
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/0d/9c/820d9cbb-1966-cf3a-f37d-2257528086d8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:04:13.475Z
+Categories:
+
+
+Name: Kacam
+Url: https://testflight.apple.com/join/FlJ1GV2u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/b4/b1/59b4b1f8-8c1e-477e-5ebb-9a2cf720fee2/AppIcon-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:04:13.502Z
+Categories:
+
+
+Name: LocaMos
+Url: https://testflight.apple.com/join/KjufVyuE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/67/0d/3e670d92-0c86-9abf-6ef9-1f9efe3c3f2b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T16:04:13.530Z
+Categories:
+
+
+Name: Verbs German Dictionary
+Url: https://testflight.apple.com/join/w2VyNpay
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/54/f9/9554f92f-4577-5184-614a-c3812dd8d5ec/VerbsIcon-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:04:13.558Z
+Categories:
+
+
