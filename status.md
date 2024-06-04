@@ -6131,3 +6131,122 @@ Last Checked: 2024-06-04T01:58:15.446Z
 Categories:
 
 
+Name: Trello: organize anything!
+Url: https://testflight.apple.com/join/cRWMcQsr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/d0/ee/3fd0ee68-40c5-0cf1-d42d-4b7fd449161c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T01:59:11.415Z
+Categories:
+
+
+Name: Locket Widget
+Url: https://testflight.apple.com/join/IGjs9EMj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/59/95/33599516-4382-1149-651d-69de8531fa89/app_icon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 951
+Beta Available: full
+Last Checked: 2024-06-04T01:59:11.450Z
+Categories:
+- Widgets
+
+Name: Photoroom: AI Photo Editor
+Url: https://testflight.apple.com/join/guZ2IygR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/bd/90/8abd90d0-9dcf-84e9-f502-5b56c59a76b8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: full
+Last Checked: 2024-06-04T01:59:11.485Z
+Categories:
+- Ai
+- Photography
+- Utility
+
+Name: SchoolMate – Ace the Day
+Url: https://testflight.apple.com/join/WZcoUcHQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/85/97/49/85974991-bda4-15aa-33a3-af41947799cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T01:59:11.520Z
+Categories:
+
+
+Name: Screeps Observer
+Url: https://testflight.apple.com/join/u4GlOWaL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/42/c6/ea42c6dd-4335-936c-ab57-22f31c02dbfe/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-04T01:59:11.555Z
+Categories:
+
+
+Name: My McDonald's QA
+Url: https://testflight.apple.com/join/ftRKu5mE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/ae/a8/9daea854-edd3-256d-8020-f0b8af986d22/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-04T01:59:11.590Z
+Categories:
+
+
+Name: WordPress – Website Builder
+Url: https://testflight.apple.com/join/AkJQt8Pw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/9c/7d/209c7ddb-508b-9a01-4ddd-bd5dbd2d098a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T01:59:11.625Z
+Categories:
+
+
+Name: Wink - Video Enhancing Tool
+Url: https://testflight.apple.com/join/ZviH3WzG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/65/64/85656468-793f-1754-25d1-2c2d8386a186/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-04T01:59:11.659Z
+Categories:
+
+
+Name: PanTiltZoom
+Url: https://testflight.apple.com/join/ZUtNX7V2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/be/eb/1bbeeb98-50aa-2a08-2906-87ef973cea27/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-04T01:59:11.694Z
+Categories:
+
+
+Name: YabiVision
+Url: https://testflight.apple.com/join/AtFppKIy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/05/4d/ff054d8d-5f36-ed66-a980-1874adf38c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-04T01:59:11.729Z
+Categories:
+
+
+Name: Zenmoney: expense tracker
+Url: https://testflight.apple.com/join/UNbjeBue
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/43/43/e84343f4-54c4-fc00-6927-cf4ca54c290f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T01:59:11.765Z
+Categories:
+
+
+Name: SkyDemon
+Url: https://testflight.apple.com/join/hz1uLaJX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/21/43/1b2143c4-65ca-e334-3401-7d8076d143a8/AppIcons-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T01:59:11.800Z
+Categories:
+
+
+Name: AstroDX-Beta (Group B)
+Url: https://testflight.apple.com/join/ocj3yptn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/f5/8b/f1f58bc0-c20a-779c-706a-352d59c05af0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T01:59:11.835Z
+Categories:
+
+
