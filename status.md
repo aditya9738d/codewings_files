@@ -17548,3 +17548,120 @@ Last Checked: 2024-06-04T16:37:10.903Z
 Categories:
 
 
+Name: Aerofly FS Global
+Url: https://testflight.apple.com/join/O2K1t3YG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/85/18/4d8518c6-a703-b2c6-85da-419d17d47357/AppIconiOS-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.429Z
+Categories:
+
+
+Name: Autooth
+Url: https://testflight.apple.com/join/da8mRQpG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/24/54/372454c1-5084-e3f4-5465-2b6f7d489436/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.463Z
+Categories:
+
+
+Name: Keeper for Safari
+Url: https://testflight.apple.com/join/OlJmNYgR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/ee/86/f3ee8677-9e5a-09a1-4258-1b057e843a7f/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.497Z
+Categories:
+
+
+Name: Jollibee Vietnam
+Url: https://testflight.apple.com/join/1UIcKV1S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/74/b7/f9/74b7f9b6-d47f-ab69-b314-d2fc6a7eb7e3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.531Z
+Categories:
+
+
+Name: Isoping
+Url: https://testflight.apple.com/join/uuAp0qkj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/07/cd/a907cd6c-340d-39bb-c7f6-1f52c4509024/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.565Z
+Categories:
+
+
+Name: FPT.AI eKYC
+Url: https://testflight.apple.com/join/k76YlAcP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/ee/87/8dee87d4-414a-c75f-c32f-ef8d44a5555b/AppIcon-0-0-1x_U007epad-0-5-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.600Z
+Categories:
+
+
+Name: OurSphere
+Url: https://testflight.apple.com/join/aXh71uMm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/8a/8b/f38a8b27-b0a7-8e3e-1e6b-8fea8ad80190/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.635Z
+Categories:
+
+
+Name: Simple Habits: Routine Tracker
+Url: https://testflight.apple.com/join/1mwpvbf4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/33/64/3b/33643bcb-5ea0-5463-e537-31d07dbed304/SimpleHabitsAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.670Z
+Categories:
+
+
+Name: Local Brain
+Url: https://testflight.apple.com/join/BO48KqQ5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7b/9e/9f/7b9e9ff1-bd2c-71e9-837c-353c70c0c8b3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.705Z
+Categories:
+
+
+Name: Letsgo..
+Url: https://testflight.apple.com/join/qWPSTlD5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/81/06/84810668-2280-a33e-b1e5-148ec270fc0d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.740Z
+Categories:
+
+
+Name: AdvantageConnect
+Url: https://testflight.apple.com/join/AOD8UoMw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0c/c8/7c/0cc87cf7-f791-bf8f-c512-7461816b448a/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.775Z
+Categories:
+
+
+Name: Toodledo (Next Generation) App
+Url: https://testflight.apple.com/join/OTkRmQMb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/57/f3/1b/57f31be4-12fe-d279-478c-da272234e5b8/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.810Z
+Categories:
+
+
+Name: Peach Bitcoin
+Url: https://testflight.apple.com/join/wfSPFEWG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/45/1a/50451ad3-1690-47e6-4a3f-0ad0cc389859/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T16:38:12.844Z
+Categories:
+
+
