@@ -1285,3 +1285,120 @@ Last Checked: 2024-06-04T01:13:10.687Z
 Categories:
 
 
+Name: YoYi!Station
+Url: https://testflight.apple.com/join/TLFKu902
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/90/0c/ae900c8d-9d43-d392-bd15-2c1513b09cf4/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:14:11.531Z
+Categories:
+
+
+Name: YouChat AI
+Url: https://testflight.apple.com/join/TNT9BeLf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/8b/80/b08b8091-3d6d-de93-4046-31c646ce262c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:14:11.567Z
+Categories:
+
+
+Name: Youniq: Personalized nutrition
+Url: https://testflight.apple.com/join/6cTtKxdm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6d/43/3f/6d433fac-d394-4932-29ab-c0f47b42576b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:14:11.603Z
+Categories:
+
+
+Name: Yuan Line
+Url: https://testflight.apple.com/join/99fzgLKP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/46/e5/3a46e57e-dc2b-fab7-a25a-f4be930dddd6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:14:11.638Z
+Categories:
+
+
+Name: ZKBioiCare
+Url: https://testflight.apple.com/join/KjMy4syQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/77/2d/d3/772dd3f7-6230-d257-c82a-635f23dc64ac/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:14:11.674Z
+Categories:
+
+
+Name: ZMobile Ghana
+Url: https://testflight.apple.com/join/JwhjpeDR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/b1/a8/2fb1a841-8900-0a4e-2871-895ff3e4afa9/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:14:11.709Z
+Categories:
+
+
+Name: Zakat App Calculator & Finance
+Url: https://testflight.apple.com/join/upiuWAYK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/ac/f5/a1acf51a-9205-8d19-891b-006464bde4a4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:14:11.745Z
+Categories:
+
+
+Name: Zamlift Order
+Url: https://testflight.apple.com/join/mjsEfdo5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/73/2c/ed732cc2-98be-0a2c-27bf-b11949356bf1/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:14:11.780Z
+Categories:
+
+
+Name: Ze Car Finder
+Url: https://testflight.apple.com/join/Q0T97aME
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/04/9e/73/049e739e-c39c-2ec6-fd74-3e388680727e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:14:11.818Z
+Categories:
+
+
+Name: Zealous Notes
+Url: https://testflight.apple.com/join/LH7qcUjG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/4a/38/474a38ca-ab71-23cb-1d80-b9cf9aa153ff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:14:11.853Z
+Categories:
+
+
+Name: Zemlift Dispatcher
+Url: https://testflight.apple.com/join/0tmFisIJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/c7/af/bdc7af55-d996-94f1-1828-ca97c0f53d13/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:14:11.890Z
+Categories:
+
+
+Name: Zenith Bank eaZymoney
+Url: https://testflight.apple.com/join/AS85ckOL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/33/ba/3633bafe-3e4b-de0a-77c8-6ed224b008e2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:14:11.926Z
+Categories:
+
+
+Name: Zenleaps
+Url: https://testflight.apple.com/join/3QfJaQ5K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/0b/52/250b52a8-a6d4-691e-ffb9-21f7ae1cc6b9/launcher_icon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T01:14:11.961Z
+Categories:
+
+
