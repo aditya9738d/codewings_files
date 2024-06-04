@@ -13057,3 +13057,120 @@ Last Checked: 2024-06-04T02:59:11.574Z
 Categories:
 
 
+Name: EDIS electrical certificates
+Url: https://testflight.apple.com/join/NgkYv12x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/11/90/5a/11905a37-b600-476c-4d96-c696bc931308/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.470Z
+Categories:
+
+
+Name: B.tv par Bouygues Telecom
+Url: https://testflight.apple.com/join/3eJMLBeq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/de/19/4e/de194e8e-b70b-159e-eba3-3724910ffdb1/AppIconRelease-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.504Z
+Categories:
+
+
+Name: VAM - ocio, cultura y eventos
+Url: https://testflight.apple.com/join/iz0mCrE4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/0c/ab/3e0cab73-5586-a034-b895-0534af5b6a55/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.539Z
+Categories:
+
+
+Name: TMB App (Metro Bus Barcelona)
+Url: https://testflight.apple.com/join/c2FIzDkK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/f9/ed/fbf9ed91-5db3-f97e-c4a8-1e25a4a11fc9/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.572Z
+Categories:
+
+
+Name: Coinyee_Beta
+Url: https://testflight.apple.com/join/IAufvK5J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/9d/a6/2d9da6ee-59f2-89ee-893a-4e3c39ad8e03/AppIcon-0-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.607Z
+Categories:
+
+
+Name: HSBC WorldTrader
+Url: https://testflight.apple.com/join/koKMbYcD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/8b/88/df8b88c8-d361-2edc-e430-a81b96652199/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.641Z
+Categories:
+
+
+Name: Dose Guru
+Url: https://testflight.apple.com/join/O16RBjPf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/42/36/18/42361850-46d8-20a8-60b4-4a766894b81c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.676Z
+Categories:
+
+
+Name: Coke&Go
+Url: https://testflight.apple.com/join/HUyeJpZN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/a0/df/4aa0df28-ec3a-bc2c-424b-20966da271ab/CokeAndGoAppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.710Z
+Categories:
+
+
+Name: Mi App Megalabs
+Url: https://testflight.apple.com/join/zMHHWd3B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/6c/4c/716c4c6c-66a1-eea7-f931-432fc48c3384/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.745Z
+Categories:
+
+
+Name: Note To Self Mail
+Url: https://testflight.apple.com/join/dYMPAThh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8a/af/9c/8aaf9cd2-b97a-8511-aaec-4018540aea50/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.779Z
+Categories:
+
+
+Name: ROBOOTER+
+Url: https://testflight.apple.com/join/puG9uH7T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/3d/1f/d23d1fd7-8925-58b2-7e95-70b16ef32448/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.814Z
+Categories:
+
+
+Name: Viidure
+Url: https://testflight.apple.com/join/2msJGLhk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/7f/94/b77f9409-f469-110c-c000-1a9d8eb7406a/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:00:54.847Z
+Categories:
+
+
+Name: HiCoffee - Caffeine Tracker
+Url: https://testflight.apple.com/join/yTaowxYa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/f1/59/7ef1591a-7bfc-7741-2dbb-c0a6863de488/AppIcon-0-0-1x_U007epad-0-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T03:00:54.881Z
+Categories:
+
+
