@@ -6433,3 +6433,120 @@ Last Checked: 2024-06-04T14:54:11.951Z
 Categories:
 
 
+Name: Woacomic
+Url: https://testflight.apple.com/join/NAx7EVyN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/4a/ce/3e4aceb2-84ea-f073-0335-b012c9b21b0f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:55:16.206Z
+Categories:
+
+
+Name: Meridian Control
+Url: https://testflight.apple.com/join/YOBnf9Ph
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/01/7d/4b/017d4b72-b5e5-4ec2-f4f4-0366ee296c49/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:55:16.233Z
+Categories:
+
+
+Name: beautydemo
+Url: https://testflight.apple.com/join/Z0JdEmDW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/2f/cf/e72fcf62-673f-fce0-df1c-b259519c3a6f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:55:16.261Z
+Categories:
+
+
+Name: Desktop Calculator
+Url: https://testflight.apple.com/join/EL3THUQJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/79/3f/79793f53-bc7c-9ce5-309a-4d755607b77a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:55:16.289Z
+Categories:
+
+
+Name: OneDBv2
+Url: https://testflight.apple.com/join/MSIiGCtt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/7d/b0/907db00c-c7a5-9b80-ca48-64fd9801330a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:55:16.317Z
+Categories:
+
+
+Name: BTSE: Buy & Sell Crypto
+Url: https://testflight.apple.com/join/b91HVb3Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4d/09/4f/4d094fd5-084b-9c53-dad7-72a503e84d36/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:55:16.346Z
+Categories:
+
+
+Name: Dropbox: Cloud & Photo Storage
+Url: https://testflight.apple.com/join/LBZaRq4I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/24/fc/e424fc64-ab60-e315-a5fc-b554dde2287f/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:55:16.374Z
+Categories:
+
+
+Name: Speechable - Text to Voice
+Url: https://testflight.apple.com/join/8OYs1O2V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/cc/68/0acc681f-392f-2aa2-bb7f-ebd92f6ca906/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T14:55:16.403Z
+Categories:
+
+
+Name: Sunshine KSBank
+Url: https://testflight.apple.com/join/QrotjYdi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/e2/69/7de269aa-ebea-1808-dffb-5ac355db605f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:55:16.431Z
+Categories:
+
+
+Name: Ayoba
+Url: https://testflight.apple.com/join/7VmdxH4C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/34/01/863401e6-0a32-581c-2086-e8d2956cb693/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:55:16.459Z
+Categories:
+
+
+Name: FitnessSyncer
+Url: https://testflight.apple.com/join/WFPPizK6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/df/5c/5b/df5c5bb0-0b41-1258-15fd-9b0d769c48db/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:55:16.487Z
+Categories:
+
+
+Name: IRL Link
+Url: https://testflight.apple.com/join/6WSPZxUQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/72/dd/b0/72ddb0cf-a4b2-0e40-66c4-2d3dad47649b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:55:16.514Z
+Categories:
+
+
+Name: Fast Habit Tracker - FastBot
+Url: https://testflight.apple.com/join/9gMlhI2k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/aa/09/5caa092f-6823-ff9d-7326-27b526f27119/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T14:55:16.542Z
+Categories:
+
+
