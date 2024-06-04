@@ -13309,3 +13309,120 @@ Last Checked: 2024-06-04T20:22:12.345Z
 Categories:
 
 
+Name: Asurascans - Hot Manga Reader
+Url: https://testflight.apple.com/join/VdR4sNPA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/1b/f3/591bf359-4553-eb9a-8966-89ef30255ce9/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T20:23:10.296Z
+Categories:
+
+
+Name: The Weekendest: NYC Subway Map
+Url: https://testflight.apple.com/join/QMF8mCtV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/0d/af/270daf07-4942-1936-d272-7e4ffbab02f0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T20:23:10.324Z
+Categories:
+
+
+Name: GP Calendar - F1
+Url: https://testflight.apple.com/join/aKCOxRQU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/b8/e4/a9b8e40e-157c-93d1-3d53-503771278f3c/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T20:23:10.352Z
+Categories:
+
+
+Name: wthr.cloud
+Url: https://testflight.apple.com/join/xQvgZlZ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/2b/32/7a2b32be-e2c5-0c09-689e-451835627e5e/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-04T20:23:10.379Z
+Categories:
+
+
+Name: Salmonia3+
+Url: https://testflight.apple.com/join/JO6VICoZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/5b/f3/5b5bf377-5f58-64da-ef63-b754202e13c4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T20:23:10.407Z
+Categories:
+
+
+Name: LemonSqueezy - Unofficial
+Url: https://testflight.apple.com/join/yRCtKeaR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/51/da/3a51daf8-3623-906d-338e-9b1f9713fa6b/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:23:10.436Z
+Categories:
+
+
+Name: Pupgame
+Url: https://testflight.apple.com/join/IM3kTRUY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/fb/64/0afb64dc-0826-d0b6-31a3-5ee1596f3342/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-04T20:23:10.463Z
+Categories:
+
+
+Name: Bitflex - Buy & Trade Crypto
+Url: https://testflight.apple.com/join/B086wN2p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/3a/75/603a7565-f99d-80ea-7a16-2a8950dc451e/Icon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T20:23:10.490Z
+Categories:
+
+
+Name: Swing Trials
+Url: https://testflight.apple.com/join/BgReQFnF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/da/4a/46da4ab6-b579-47f3-bf37-373aad89e811/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 25
+Beta Available: open
+Last Checked: 2024-06-04T20:23:10.518Z
+Categories:
+
+
+Name: Manga Clash - Warrior Arena
+Url: https://testflight.apple.com/join/htIpxyDx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/49/81/3749819f-3416-1cd0-df9b-8a666f02d580/AppIcon-1x_U007emarketing-0-7-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T20:23:10.545Z
+Categories:
+
+
+Name: Notes - Sight Reading Trainer
+Url: https://testflight.apple.com/join/l4ad6sxi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/2f/2c/8e2f2c48-940f-0fe8-4ce8-688a19b0e042/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-04T20:23:10.577Z
+Categories:
+
+
+Name: GeoQuestAR
+Url: https://testflight.apple.com/join/Aqpi4Ote
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/d8/b9/c8d8b975-74dc-62c2-3404-1e217f9ddfb3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 33
+Beta Available: open
+Last Checked: 2024-06-04T20:23:10.606Z
+Categories:
+
+
+Name: Sw!ftalyzer
+Url: https://testflight.apple.com/join/hqzrhjHd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/55/62/ce55629f-8627-95b6-c607-758e60140d5c/AppIcon-85-220-0-3-2x-sRGB-0-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T20:23:10.633Z
+Categories:
+
+
