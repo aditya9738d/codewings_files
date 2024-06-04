@@ -25594,3 +25594,120 @@ Last Checked: 2024-06-04T22:17:11.919Z
 Categories:
 
 
+Name: Money: track income & expenses
+Url: https://testflight.apple.com/join/UAzr0dcN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/77/4a/ea774af2-821d-9f67-c79f-6038ab634c6e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:18:12.197Z
+Categories:
+
+
+Name: VIP Station
+Url: https://testflight.apple.com/join/lIHB40dx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d5/a6/51/d5a651c6-e0d4-4819-b12f-183d227e30c7/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:18:12.226Z
+Categories:
+
+
+Name: Nect TEST
+Url: https://testflight.apple.com/join/e9QJ1gzZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/59/4a/c8/594ac8d6-7dc9-e656-e24e-b22e9b050b1e/AppIconTEST-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T22:18:12.254Z
+Categories:
+
+
+Name: Ida
+Url: https://testflight.apple.com/join/4WvvUAuu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/3f/f4/b93ff4b7-5d9e-62c2-6f82-c22070e04c49/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:18:12.283Z
+Categories:
+
+
+Name: Solfy
+Url: https://testflight.apple.com/join/WE3U3mGv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/db/55/e9/db55e9da-8957-4163-9bf6-af6d18952b12/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T22:18:12.312Z
+Categories:
+
+
+Name: Smart DigiBook
+Url: https://testflight.apple.com/join/2yvBp9cw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/4f/fe/624ffede-0300-d857-e982-ed65a0739f9e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:18:12.340Z
+Categories:
+
+
+Name: Closwap
+Url: https://testflight.apple.com/join/zuRQv3Dv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/1e/8d/5f1e8db4-5320-42e3-8ad6-83df33db9d1e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-04T22:18:12.369Z
+Categories:
+
+
+Name: CamDigiKey: ExternalDev
+Url: https://testflight.apple.com/join/Rmiw8D8h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/74/3a/e7743a4c-0622-e8ce-d1a2-29c8fdf744b9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:18:12.397Z
+Categories:
+
+
+Name: Richter-Tools
+Url: https://testflight.apple.com/join/eNb6iMb1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/ab/b7/21abb7fc-6dfa-d21b-bbc4-b0c3075fed1b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:18:12.425Z
+Categories:
+
+
+Name: Leboncoin
+Url: https://testflight.apple.com/join/6Bqlhlha
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/4c/e3/7d4ce380-0589-dfc7-ebf7-4966c6106588/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:18:12.453Z
+Categories:
+
+
+Name: Nos Social
+Url: https://testflight.apple.com/join/YBBlRWc8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/f9/64/cbf9645b-958e-02db-4b7d-f2fa3cb56fe6/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T22:18:12.482Z
+Categories:
+
+
+Name: NCBA NOW TEST
+Url: https://testflight.apple.com/join/jRnz9Kxt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/e3/64/d8e3642e-c385-750f-2c50-b4ad1af91a4a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:18:12.510Z
+Categories:
+
+
+Name: Menuverse
+Url: https://testflight.apple.com/join/9uKaannN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/22/51/6c/22516c26-66aa-d070-5521-252618e74c94/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T22:18:12.539Z
+Categories:
+
+
