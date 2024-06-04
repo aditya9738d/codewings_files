@@ -27727,3 +27727,120 @@ Last Checked: 2024-06-04T09:28:12.354Z
 Categories:
 
 
+Name: QR Code Chasers
+Url: https://testflight.apple.com/join/rr18q4vd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/ad/e4/d5ade44f-3f65-be5c-852a-3ea6f6a15458/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T09:29:12.098Z
+Categories:
+
+
+Name: QTALK 6
+Url: https://testflight.apple.com/join/gpxQpTio
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/8f/d8/e88fd8e4-a035-cd69-640b-ed59d17c2fe7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T09:29:12.134Z
+Categories:
+
+
+Name: QTU Club
+Url: https://testflight.apple.com/join/X80OpU6V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/bf/30/babf30a3-b9d1-9913-add4-faaccfa9ccef/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:29:12.169Z
+Categories:
+
+
+Name: Qfile Pro
+Url: https://testflight.apple.com/join/MBaauJO8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/45/0b/94/450b94ce-2b97-7ba3-67e7-4fc1618c2bb9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: error
+Last Checked: 2024-06-04T09:29:12.205Z
+Categories:
+
+
+Name: Qithesizer
+Url: https://testflight.apple.com/join/uI4K65op
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/3c/10/e03c104b-2dd1-41cd-9179-6798bc06681c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:29:12.241Z
+Categories:
+
+
+Name: Quick Key Fob Remote for Tesla
+Url: https://testflight.apple.com/join/AJWzHt8x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/12/d5/1e12d555-0958-49d1-2150-bb738cb0ce49/AppIcon-1x_U007ephone-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:29:12.277Z
+Categories:
+
+
+Name: Quick Quizzes
+Url: https://testflight.apple.com/join/NMJeepvx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/09/3e/73/093e7345-8bf9-10e2-630e-954da1f79222/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T09:29:12.312Z
+Categories:
+
+
+Name: QuickStream for Vision Pro
+Url: https://testflight.apple.com/join/DxssEKzw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d7/50/76/d75076f2-b78c-b7b6-8af3-c6c683e2252a/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:29:12.348Z
+Categories:
+
+
+Name: QuicklAI -  AI Chatbot
+Url: https://testflight.apple.com/join/lBgAC6jd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/33/81/8733815e-a75c-1f8f-aa69-cbb992d19d86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:29:12.383Z
+Categories:
+
+
+Name: QuitMate
+Url: https://testflight.apple.com/join/16noNg2J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/bd/4b/a1bd4b60-b1f1-7a30-8b42-fed0421c80da/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:29:12.419Z
+Categories:
+
+
+Name: Quiz Online - WRTeam
+Url: https://testflight.apple.com/join/KvjntP8H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/78/c1/5078c1dc-2da9-aee9-a512-16af71e0c9fb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:29:12.454Z
+Categories:
+
+
+Name: QvaPay (OLD)
+Url: https://testflight.apple.com/join/s4AQQMpB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/d4/2d/b5d42d16-9a2d-1ac2-6a5e-ddfb3a8de53a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T09:29:12.490Z
+Categories:
+
+
+Name: R Plus Health - Pro Edition
+Url: https://testflight.apple.com/join/hO6bDEAc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f2/72/a3/f272a394-c70d-50df-c7ac-ca4c1b807ce1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T09:29:12.526Z
+Categories:
+
+
