@@ -16000,3 +16000,120 @@ Last Checked: 2024-06-04T20:47:11.073Z
 Categories:
 
 
+Name: Wellness Coach:Mind Body Sleep
+Url: https://testflight.apple.com/join/BTtsdcCg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/b3/2e/8db32e42-a3a1-896d-32c2-bc4ee4655569/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:48:11.255Z
+Categories:
+
+
+Name: BBEdit
+Url: https://testflight.apple.com/join/imiQlCyL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/34/c4/c934c407-fe8b-0239-6557-a1dddc3008b8/BBEditApplication-0-85-220-0-4-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:48:11.291Z
+Categories:
+
+
+Name: Cat Inspect UAT
+Url: https://testflight.apple.com/join/GmtFFsvK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/e3/d7/8be3d7d4-6cf7-50fd-c9f8-ce589cf12542/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:48:11.326Z
+Categories:
+
+
+Name: Sprit-Rechner Plus
+Url: https://testflight.apple.com/join/7zKcg5eF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/92/5d/02/925d0250-fff7-4a97-65de-ff8a376f427f/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T20:48:11.362Z
+Categories:
+
+
+Name: StepsApp Pedometer
+Url: https://testflight.apple.com/join/gz1xcfBL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/af/fa/e2affa10-d6ee-9ec2-7264-b39f0a934d1c/AppIcon-0-0-1x_U007ephone-0-0-P3-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T20:48:11.399Z
+Categories:
+
+
+Name: Binana
+Url: https://testflight.apple.com/join/KH0E6Tbk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/05/1c/f5/051cf529-7b40-204f-8255-3eb6e2ff6190/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:48:11.435Z
+Categories:
+
+
+Name: Gradvisor
+Url: https://testflight.apple.com/join/EfvtbzGU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/3b/32/193b32e6-6411-9d52-4580-d1c4043edb0d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T20:48:11.473Z
+Categories:
+
+
+Name: Session - Pomodoro Focus Timer
+Url: https://testflight.apple.com/join/8RwXF4v7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5a/1b/df/5a1bdf91-ddb8-8047-722c-9f0d3e6240f7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:48:11.513Z
+Categories:
+
+
+Name: FVCrew
+Url: https://testflight.apple.com/join/uPBEIbPJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/43/de/8143de5b-c61a-e2e6-3306-d0cc79d56919/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:48:11.551Z
+Categories:
+
+
+Name: Dustland Runner
+Url: https://testflight.apple.com/join/j3aaHsHj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/aa/13/30aa1396-4fc2-4a3c-67c4-a0a5904e23c0/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:48:11.588Z
+Categories:
+
+
+Name: Plum Music Player
+Url: https://testflight.apple.com/join/NTNN2SHE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/8d/eb/5e8debb0-f9dc-9351-240c-8d55e34be424/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:48:11.625Z
+Categories:
+
+
+Name: Napkinmatic
+Url: https://testflight.apple.com/join/FvQUhvHT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/9b/c7/e49bc736-1570-0e8a-7bbb-1893bb8a4178/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:48:11.662Z
+Categories:
+
+
+Name: Nahpu
+Url: https://testflight.apple.com/join/b18Rs4ju
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/70/ac/e670ac33-ec2e-4a81-54f6-c7107430823b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T20:48:11.698Z
+Categories:
+
+
