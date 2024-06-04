@@ -5774,3 +5774,122 @@ Last Checked: 2024-06-04T01:55:17.886Z
 Categories:
 
 
+Name: Misty lite
+Url: https://testflight.apple.com/join/cKNtU9TX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/fe/bc/8ffebc0d-8def-a955-fec1-4a8b724bcf9c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-04T01:56:11.685Z
+Categories:
+
+
+Name: Magic Tiles 3: Piano Game
+Url: https://testflight.apple.com/join/NTu06NVE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/8f/5c/a58f5cd8-35b4-3da3-34ef-09bdfbae3841/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-04T01:56:11.720Z
+Categories:
+- Games
+
+Name: Camera Companion BETA
+Url: https://testflight.apple.com/join/z18Ngj0N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/1e/3c/3b1e3ce7-e0b2-67d3-ec12-c833ebef3b0c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 17
+Beta Available: full
+Last Checked: 2024-06-04T01:56:11.756Z
+Categories:
+
+
+Name: Big Mail
+Url: https://testflight.apple.com/join/wboU3bTt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/d4/55/2ad455dc-7a1f-c26a-2f82-dd1038cecbc4/AppIcon-0-1x_U007emarketing-0-3-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 59
+Beta Available: full
+Last Checked: 2024-06-04T01:56:11.791Z
+Categories:
+- Chat
+- Email & Calandar
+- Utility
+
+Name: Hunters On-Chain
+Url: https://testflight.apple.com/join/mnB642dv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/30/f9/9730f9c0-07f9-6869-5d33-a331261d3557/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T01:56:11.827Z
+Categories:
+- Games
+
+Name: Egern
+Url: https://testflight.apple.com/join/AzU6kAzX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/4b/b6/cf4bb6c7-cc64-ecf6-83b4-673c5aaa7ded/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 125
+Beta Available: full
+Last Checked: 2024-06-04T01:56:11.862Z
+Categories:
+
+
+Name: AstreOS
+Url: https://testflight.apple.com/join/ZsGh6uYD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 38
+Beta Available: open
+Last Checked: 2024-06-04T01:56:11.897Z
+Categories:
+
+
+Name: QQ
+Url: https://testflight.apple.com/join/R5FNGUl3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c7/74/acc7744b-e38d-5cee-d585-622f1983699c/AppIcon-1-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 44
+Beta Available: open
+Last Checked: 2024-06-04T01:56:11.934Z
+Categories:
+
+
+Name: eufy Clean (EufyHome)
+Url: https://testflight.apple.com/join/ABaSUurE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/83/0c/7b830c86-020e-1748-6967-b736b05d76a2/AppIcon-all-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T01:56:11.969Z
+Categories:
+
+
+Name: Cinema Time
+Url: https://testflight.apple.com/join/prtbcetS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/6c/a3/886ca376-f279-5890-dcdf-04dccfbeac69/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 40
+Beta Available: open
+Last Checked: 2024-06-04T01:56:12.004Z
+Categories:
+
+
+Name: DEXART Metaverse
+Url: https://testflight.apple.com/join/ntsoqpNK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/95/d9/8295d967-3f21-e128-b26e-dfd64cf82ca1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T01:56:12.040Z
+Categories:
+
+
+Name: EMOTIV Launcher
+Url: https://testflight.apple.com/join/jSL0XTP9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/97/4b/9e974bf8-0786-453f-f692-898dd31aa82c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-04T01:56:12.075Z
+Categories:
+
+
+Name: Swapple - Word Puzzle Game
+Url: https://testflight.apple.com/join/XU84IqaM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3c/0f/e43c0feb-7a5e-ede7-baad-98d13ab994c1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T01:56:12.112Z
+Categories:
+
+
