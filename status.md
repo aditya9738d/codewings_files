@@ -4444,3 +4444,120 @@ Last Checked: 2024-06-04T05:59:09.887Z
 Categories:
 
 
+Name: Suunto
+Url: https://testflight.apple.com/join/DJyDC5SU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/ac/90/a3ac9064-0901-cd3e-ebac-7865e109c6ae/SuuntoAppIcon-1x_U007emarketing-0-7-0-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.166Z
+Categories:
+
+
+Name: Shots - Events & Parties
+Url: https://testflight.apple.com/join/TsE0NySE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/94/8f/e8/948fe8ba-b440-b98a-428a-d4a422e6e2ec/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.194Z
+Categories:
+
+
+Name: iAppStore
+Url: https://testflight.apple.com/join/XXEQdVKN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1b/f3/96/1bf3965c-ae40-5c92-9ceb-98a410ea6782/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.222Z
+Categories:
+
+
+Name: ChatroomUIKit
+Url: https://testflight.apple.com/join/kc0vtbgH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/e0/0a/26e00af0-913c-6aa4-51c5-2ce780106d1a/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.251Z
+Categories:
+
+
+Name: FinancialWell
+Url: https://testflight.apple.com/join/Z4CekvDa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/c4/2c/eec42c93-240f-8fe2-4def-396f5e5077b8/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.280Z
+Categories:
+
+
+Name: RitMeter
+Url: https://testflight.apple.com/join/1x1EROoV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/04/de/3304de23-c710-b72a-acc7-697648b557a1/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.308Z
+Categories:
+
+
+Name: PolyFling
+Url: https://testflight.apple.com/join/2liO8nWS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/76/66/4b7666b6-aa1a-5b99-1913-337c34998c2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.336Z
+Categories:
+
+
+Name: HERE WeGo - BETA
+Url: https://testflight.apple.com/join/Y4bJp9CR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/80/9e/d8809e89-9aba-a2a5-ac5b-354fc7aaaea3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.366Z
+Categories:
+
+
+Name: Sharezone - Schulplaner
+Url: https://testflight.apple.com/join/4luKeRNN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/81/d5/b481d599-dd41-463a-058e-f3b392389e0b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.395Z
+Categories:
+
+
+Name: JibJab QA
+Url: https://testflight.apple.com/join/JcSNLXht
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/d1/56/63d1569c-0e81-3782-d6ce-d215fc1d5d5e/AppIconBeta-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.423Z
+Categories:
+
+
+Name: VietMap navigation
+Url: https://testflight.apple.com/join/72lT6D0w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/df/fd/78/dffd78b9-9447-1f76-464b-1a2391237028/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.452Z
+Categories:
+
+
+Name: Human App: claim Human Dollars
+Url: https://testflight.apple.com/join/G73isbuI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/99/e8/3999e8ac-2ee4-fa05-333d-7ab17a1c1fe4/AppIcon-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:00:54.481Z
+Categories:
+
+
+Name: curtis-tradeshow
+Url: https://testflight.apple.com/join/HtXYawJE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f0/a1/30/f0a13084-a7e0-9aa1-8fae-6a6490593d95/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T06:00:54.512Z
+Categories:
+
+
