@@ -7486,3 +7486,120 @@ Last Checked: 2024-06-04T06:28:11.357Z
 Categories:
 
 
+Name: Safebox Wallet
+Url: https://testflight.apple.com/join/4Sjq14xs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/52/59/fe/5259fe51-4e52-b571-2c9c-1f1e9a3c70c2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.135Z
+Categories:
+
+
+Name: Flipabit
+Url: https://testflight.apple.com/join/ruyYHU5E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/40/19/15/401915ec-9156-ffd1-ecea-f46ad66291ec/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.171Z
+Categories:
+
+
+Name: Technics Audio Center
+Url: https://testflight.apple.com/join/FH92DLCj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/96/d6/0796d65d-2262-cce2-6d9f-c8835277e24e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.206Z
+Categories:
+
+
+Name: ChinaG
+Url: https://testflight.apple.com/join/tR7h52Yw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/29/9d/bd/299dbd26-ab24-afae-aa8b-51f2b6594b53/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.241Z
+Categories:
+
+
+Name: Pati-Games&Chat
+Url: https://testflight.apple.com/join/OySOWcrj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/7e/68/387e6817-ce6b-15e2-d472-1d4171e60ae8/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.276Z
+Categories:
+
+
+Name: iTAK
+Url: https://testflight.apple.com/join/tSqpq4EI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/80/17/aa8017d6-301c-f555-34e7-9e255bd83764/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.311Z
+Categories:
+
+
+Name: FluxStore manager
+Url: https://testflight.apple.com/join/7a7i6Hst
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/e8/86/83e886c2-a10b-d5af-99a1-d55252db5243/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.348Z
+Categories:
+
+
+Name: Zendure
+Url: https://testflight.apple.com/join/b1s01DSx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7f/97/c2/7f97c2fa-381e-e81c-4ecb-d470269d520c/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.384Z
+Categories:
+
+
+Name: J&T Driver.Vietnam
+Url: https://testflight.apple.com/join/ngwb0Mpe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/b6/81/36b68116-14e5-649d-c8af-f48fc4a3b291/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.420Z
+Categories:
+
+
+Name: STJK
+Url: https://testflight.apple.com/join/4jJ5SvMg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/24/44/65244417-5eee-643b-caae-47e304ef7a0c/AppIcon-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.455Z
+Categories:
+
+
+Name: Textastic Code Editor
+Url: https://testflight.apple.com/join/QdnuMySm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/5b/24/8f5b2471-de30-0f32-db2b-108325ea43b4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T06:29:10.490Z
+Categories:
+
+
+Name: Newslaundry
+Url: https://testflight.apple.com/join/pQpstpDK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/d6/8c/d5d68c43-f842-233b-f2fb-0e2e14e55cbf/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.526Z
+Categories:
+
+
+Name: Phira
+Url: https://testflight.apple.com/join/Y4lVszTN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/10/64/be106414-6732-1527-8b1e-d961e04fb1cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T06:29:10.562Z
+Categories:
+
+
