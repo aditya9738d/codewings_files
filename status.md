@@ -11418,3 +11418,120 @@ Last Checked: 2024-06-04T11:13:11.078Z
 Categories:
 
 
+Name: Jitsi Meet
+Url: https://testflight.apple.com/join/isy6ja7S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/3d/fc/fe3dfc47-e5f5-4933-5d4a-60e8f4157925/AppIconRelease-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.360Z
+Categories:
+
+
+Name: Coinoverse
+Url: https://testflight.apple.com/join/kh4CD9t2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/18/fb/8018fb46-2031-42f9-305b-a7d8c91e8551/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.396Z
+Categories:
+
+
+Name: Sleep Cycle - Tracker & Sounds
+Url: https://testflight.apple.com/join/tCeANbZi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/42/f0/6142f0f3-6cbc-55c6-ec38-4d55f166c3a6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.432Z
+Categories:
+
+
+Name: Virgin TV Anywhere Ireland
+Url: https://testflight.apple.com/join/JTLqhtdP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/07/87/cf07873e-7e7b-a10f-d584-dc89ae221b12/AppIcon-virgin_ie-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.468Z
+Categories:
+
+
+Name: Apptile Admin
+Url: https://testflight.apple.com/join/RjifTcpD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/74/7d/f6747d3b-4093-731d-4de6-3c9da19ac1b7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.504Z
+Categories:
+
+
+Name: UptickPro NFT Market on IRIS
+Url: https://testflight.apple.com/join/B5no7LfQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/e4/ca/70e4ca86-a7d8-2dfd-abc9-9489bbfb229f/AppIcon-0-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.540Z
+Categories:
+
+
+Name: HWLWorks Shift Planner
+Url: https://testflight.apple.com/join/ztK7pJsN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/31/f2/fa31f231-5171-0a26-1eb4-e07c2870f145/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.576Z
+Categories:
+
+
+Name: Connect Social: Everything app
+Url: https://testflight.apple.com/join/TFOyqUZD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/f2/f8/1ff2f8db-77ac-239d-d545-5e4111f9a7bd/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.612Z
+Categories:
+
+
+Name: RESWUE
+Url: https://testflight.apple.com/join/IuHQgJ7s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/b5/2c/0eb52cee-64ca-5516-c56a-b56e6ab840f3/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.649Z
+Categories:
+
+
+Name: cnvrs
+Url: https://testflight.apple.com/join/ERFxInZg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/26/07/2a26077b-f2b3-e917-2f92-1ea01db5c9f2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.684Z
+Categories:
+
+
+Name: SIMOSA (Previously Jazz World)
+Url: https://testflight.apple.com/join/522ZboUu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/07/ff/ba07ff06-4bd3-0b1f-a326-f519bd8f3d13/AppIcon-0-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.720Z
+Categories:
+
+
+Name: Otis Lift
+Url: https://testflight.apple.com/join/wfVQ3WRf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/5c/4c/195c4c36-633d-e50e-edef-7cda47a01a0d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.756Z
+Categories:
+
+
+Name: AccuStore® 6
+Url: https://testflight.apple.com/join/G9LcbUPW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/fc/0c/0afc0cf8-0375-537e-f8c7-820323beef3f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T11:14:13.792Z
+Categories:
+
+
