@@ -5029,3 +5029,12 @@ Last Checked: 2024-06-04T10:16:10.813Z
 Categories:
 
 
+Name: Ｖirgo
+Url: https://testflight.apple.com/join/5RoYYdyC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/2a/63/502a6353-dbd6-836b-76f7-0cc05ff58201/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T10:17:04.733Z
+Categories:
+
+
