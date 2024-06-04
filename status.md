@@ -8221,3 +8221,120 @@ Last Checked: 2024-06-04T19:34:14.929Z
 Categories:
 
 
+Name: EVnSteven
+Url: https://testflight.apple.com/join/3HurFoSb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a9/32/ce/a932ce34-99fa-6c23-f35e-a94393d324ee/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T19:35:20.856Z
+Categories:
+
+
+Name: Affinity iOS Beta
+Url: https://testflight.apple.com/join/DdFJxPLX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/19/17/dc1917b7-4bfb-8a71-ff0f-b0138a3353e2/AppIcon-0-1x_U007epad-0-0-85-220-0.jpeg/200x200bb-80.png
+Click Count: 33
+Beta Available: open
+Last Checked: 2024-06-04T19:35:20.892Z
+Categories:
+
+
+Name: Dharamik Signal
+Url: https://testflight.apple.com/join/BuwazBeq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b8/74/3e/b8743e07-8130-f015-8989-5bc094012dde/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-04T19:35:20.928Z
+Categories:
+
+
+Name: Joplin
+Url: https://testflight.apple.com/join/p5iLVzrG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/39/40/5b394075-28a9-31c7-29ed-8a3552d0a721/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T19:35:20.964Z
+Categories:
+
+
+Name: DiaBLE
+Url: https://testflight.apple.com/join/H48doU3l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/df/61/8ddf617d-a57e-6d68-f058-ad835ed371ad/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T19:35:21.000Z
+Categories:
+
+
+Name: BROKOL
+Url: https://testflight.apple.com/join/YzZEAcjg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/06/a7/0e06a717-c498-7f3e-9af4-7f441d945081/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:35:21.036Z
+Categories:
+
+
+Name: Dev6 Greenworks Tools
+Url: https://testflight.apple.com/join/alnsHiKu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/45/41/3c454135-bf57-7c95-adac-39615c399afe/AppIconsGW-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:35:21.072Z
+Categories:
+
+
+Name: Quadeye
+Url: https://testflight.apple.com/join/hzAFZjci
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/22/c4/bb22c413-ba6e-ccfd-e4f1-f3550463ea58/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:35:21.107Z
+Categories:
+
+
+Name: Banfield React Native App
+Url: https://testflight.apple.com/join/8gfKMC4B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/5d/df/a45ddf64-00dd-fe29-20c3-34260d756748/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-04T19:35:21.143Z
+Categories:
+
+
+Name: mydealz – Gutscheine, Angebote
+Url: https://testflight.apple.com/join/LUbo3fzi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/c3/a4/abc3a4ed-f1ce-175d-b7a0-3cfbadb929a8/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:35:21.178Z
+Categories:
+
+
+Name: ObsIdentify
+Url: https://testflight.apple.com/join/mBfNWeIY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/1f/fd/8d1ffd42-ec13-8733-7931-5ebd26ef4b66/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:35:21.215Z
+Categories:
+
+
+Name: Zincir Market Beta
+Url: https://testflight.apple.com/join/S2QCk2zj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/df/e7/76dfe76e-370e-8ff9-c696-6b1a4401dd42/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-04T19:35:21.251Z
+Categories:
+
+
+Name: ThreadMaster
+Url: https://testflight.apple.com/join/JwlFTX03
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/28/13/a4281332-f8ca-e33a-22a0-f7d906418373/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T19:35:21.287Z
+Categories:
+
+
