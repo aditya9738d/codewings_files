@@ -19186,3 +19186,120 @@ Last Checked: 2024-06-04T08:14:10.178Z
 Categories:
 
 
+Name: Bizpoint Social
+Url: https://testflight.apple.com/join/D3hp3VO5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ef/1b/8f/ef1b8f93-4d0e-6e54-c7ef-7dd356ea5aef/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:15:23.896Z
+Categories:
+
+
+Name: Black Ink Crosswords
+Url: https://testflight.apple.com/join/NzNMAjOa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/57/06/2f/57062f8f-605c-2e39-90eb-95c81f881d8b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:15:23.931Z
+Categories:
+
+
+Name: Blast Royale Battle Online PvP
+Url: https://testflight.apple.com/join/oumKXOTP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/8a/b7/af8ab7b2-7765-b553-81cf-07ec14855222/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T08:15:23.980Z
+Categories:
+
+
+Name: Blaze - Global payments
+Url: https://testflight.apple.com/join/eFlUSEVw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/50/9b/52509b9e-64be-3ffa-deb7-16566b6ad3fd/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:15:24.015Z
+Categories:
+
+
+Name: Blink - Test
+Url: https://testflight.apple.com/join/7Ao8gxyG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/60/03/726003d6-bc7c-c684-284a-b0c5109bfade/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T08:15:24.051Z
+Categories:
+
+
+Name: Blink App - Say Hello to Web3!
+Url: https://testflight.apple.com/join/R8VcSAqq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/c4/7a/6ec47a02-341e-339e-7973-9a3f308b39f8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:15:24.087Z
+Categories:
+
+
+Name: Block Drop 2D
+Url: https://testflight.apple.com/join/XYJD9hv6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/b6/3e/c0b63e50-25ab-5e98-1bb3-b05e78e8c807/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:15:24.129Z
+Categories:
+
+
+Name: Block Puzzle! Cop City Chase
+Url: https://testflight.apple.com/join/JewMjU43
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/3d/d6/ba3dd609-5209-fa9a-69bc-abbe95bf9ccc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-04T08:15:24.164Z
+Categories:
+
+
+Name: Block impact
+Url: https://testflight.apple.com/join/51YpVjnx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/66/54/7f66547c-e478-7e54-d18f-2dc9b1a91e94/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:15:24.199Z
+Categories:
+
+
+Name: Block Blast!
+Url: https://testflight.apple.com/join/sAKvKHH7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/6e/5c/1e6e5cf8-dffd-2953-dff7-6ec7e3b190aa/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:15:24.234Z
+Categories:
+
+
+Name: Blokus!
+Url: https://testflight.apple.com/join/9lAifufL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0a/4a/55/0a4a55a0-e593-7c96-de3a-29a564ec8ac3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:15:24.270Z
+Categories:
+
+
+Name: Bloomy: Your Inner Garden
+Url: https://testflight.apple.com/join/9vsNl4Vy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/1a/58/871a58d6-94dd-3d73-e335-13cd393cefc3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-04T08:15:24.307Z
+Categories:
+
+
+Name: Blox Tower Defense
+Url: https://testflight.apple.com/join/WYxpu1kO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/52/03/0d520308-86f6-8ad4-d534-344ced1a6d69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T08:15:24.343Z
+Categories:
+
+
