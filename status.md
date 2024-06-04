@@ -22065,3 +22065,120 @@ Last Checked: 2024-06-04T13:00:57.397Z
 Categories:
 
 
+Name: PickCard
+Url: https://testflight.apple.com/join/SNZQmonf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/18/c9/8218c9bb-7808-394c-9e5b-658964fd3c6b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.556Z
+Categories:
+
+
+Name: Orange Money JO Dev
+Url: https://testflight.apple.com/join/qvp4mFcA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/89/16/66/8916663d-4bc8-e89f-bba3-469380b27841/OrangeMoneyAppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.591Z
+Categories:
+
+
+Name: Dato
+Url: https://testflight.apple.com/join/4CLefx8W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/75/a8/5d75a8ff-9a26-d182-b7c9-323455ee9331/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.625Z
+Categories:
+
+
+Name: Get A Drip
+Url: https://testflight.apple.com/join/ohtf1T5d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/2d/d1/e32dd114-d206-10f0-5ac8-03a90013b3e3/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.660Z
+Categories:
+
+
+Name: Roborock
+Url: https://testflight.apple.com/join/hNr1Pz2Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/18/88/601888fd-84f6-d5ed-085d-005c5c53f0f3/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.696Z
+Categories:
+
+
+Name: Josplay
+Url: https://testflight.apple.com/join/EpoaguEa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/34/a1/3634a1b2-2f0f-4f96-728f-7b898975ad92/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.731Z
+Categories:
+
+
+Name: Exult Engine
+Url: https://testflight.apple.com/join/D1qeCZAB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/52/3a/e8523a26-03a1-5b02-9898-a64c59f1c3e7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.766Z
+Categories:
+
+
+Name: Diligent: Minimal Daily Habits
+Url: https://testflight.apple.com/join/N9P4sCtz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/64/e3/0f64e37f-6d12-c34a-4b6c-c2ab30fee8ea/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.802Z
+Categories:
+
+
+Name: Room 4™
+Url: https://testflight.apple.com/join/P7q8o1bb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/ec/24/ecec24c9-4339-1256-300b-ba8c5f034aff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.852Z
+Categories:
+
+
+Name: CharMap — Unicode Characters
+Url: https://testflight.apple.com/join/jhiYnxfr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/db/bb/55dbbb7c-0516-f63a-2958-789c84cc8c24/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.887Z
+Categories:
+
+
+Name: MedPal-AI
+Url: https://testflight.apple.com/join/MQIM3fFZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/d1/8d/b5d18def-6edb-fa0f-3763-8a029a9dab3e/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.922Z
+Categories:
+
+
+Name: WW.Rocket.Chat
+Url: https://testflight.apple.com/join/tgoNx3rx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/28/25/e32825af-5c64-2095-57d0-d0eec55d14b6/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.957Z
+Categories:
+
+
+Name: KeePassium (KeePass passwords)
+Url: https://testflight.apple.com/join/y8R6iLlK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/27/2d/83272d39-7b4e-a3be-4b96-3a74bdac03b6/app-icon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T13:01:11.994Z
+Categories:
+
+
