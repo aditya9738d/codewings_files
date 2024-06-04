@@ -5848,3 +5848,120 @@ Last Checked: 2024-06-04T14:49:09.846Z
 Categories:
 
 
+Name: Longplay
+Url: https://testflight.apple.com/join/Wmlgt9BP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/5e/5e/df5e5ebf-44d8-3a75-0de0-9e3916b3f6b5/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.088Z
+Categories:
+
+
+Name: Diag Pro Stag
+Url: https://testflight.apple.com/join/UefY0CzS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/06/3d/63/063d6349-33df-e7a2-29dc-1e9322fb5ddf/AppIconStaging-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.115Z
+Categories:
+
+
+Name: Rover Demo
+Url: https://testflight.apple.com/join/ArZHl0jA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/0c/c0/c80cc069-cf8e-3155-eb66-4ba6d931a07a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.144Z
+Categories:
+
+
+Name: CorrigoPro
+Url: https://testflight.apple.com/join/SL2PQU6w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/0f/ff/5b0fff17-5ed4-6317-fbc3-033f82cf0ed2/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.172Z
+Categories:
+
+
+Name: Loxone
+Url: https://testflight.apple.com/join/54JTsdTf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/83/72/5b/83725b9f-9124-e389-f87c-5b5c5e2b71d6/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.199Z
+Categories:
+
+
+Name: WinZO: Jogos de Buraco e Truco
+Url: https://testflight.apple.com/join/1Lhm2xtq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/fc/f4/eafcf4dd-b562-748a-0556-0c209a33f0ce/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.227Z
+Categories:
+
+
+Name: Spectora v10
+Url: https://testflight.apple.com/join/d92gCR0s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/33/9d/e6/339de632-1bc3-8289-6cb4-a70e8210a47c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.255Z
+Categories:
+
+
+Name: Mapletree FMS STG
+Url: https://testflight.apple.com/join/Wz0eptdq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/5d/a5/495da533-04e3-522f-e751-eaa4697775b5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.283Z
+Categories:
+
+
+Name: Easy Menu
+Url: https://testflight.apple.com/join/5J1NkbiB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/de/a2/79/dea279b2-62b7-fe17-89d6-4b77c641763e/AppIcon-0-0-1x_U007emarketing-0-0-0-2-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.311Z
+Categories:
+
+
+Name: UAT Jenbunjerd
+Url: https://testflight.apple.com/join/HgCSDTd9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8a/d1/218ad131-ca82-10a3-9089-4258affbeb61/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.339Z
+Categories:
+
+
+Name: IDentitySDK2 Ionic
+Url: https://testflight.apple.com/join/VEiBfP8E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/73/13/b173137f-f749-dec3-e74c-02e1c464bf63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.366Z
+Categories:
+
+
+Name: FocalPaint
+Url: https://testflight.apple.com/join/1adnuUHv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/bf/73/3cbf7340-4805-2b1f-43a5-e8fb190d981b/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.394Z
+Categories:
+
+
+Name: Mastodon
+Url: https://testflight.apple.com/join/ebSjPU84
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/e5/d6/bfe5d6ad-087c-c4df-c91a-5b779d2edc9d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T14:50:26.423Z
+Categories:
+
+
