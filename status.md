@@ -19609,3 +19609,120 @@ Last Checked: 2024-06-04T03:58:15.067Z
 Categories:
 
 
+Name: B-Live Shopping
+Url: https://testflight.apple.com/join/sZ5dhpoF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/8c/1a/598c1a8f-a35c-eeaf-3ae7-b97f901771b8/productionAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.386Z
+Categories:
+
+
+Name: Agmo EV Superapp Staging
+Url: https://testflight.apple.com/join/rFXujeqB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/47/f0/c147f0ec-8d81-5972-10c0-0d7f53a22b5a/AppIcon-stg-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.414Z
+Categories:
+
+
+Name: BADGE·R
+Url: https://testflight.apple.com/join/0dlHiWHB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/e2/e1/b4e2e1e3-8658-9cf3-a3a0-5facd738230e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.442Z
+Categories:
+
+
+Name: AnyList: Grocery Shopping List
+Url: https://testflight.apple.com/join/xwvLPc6o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/6d/5b/0d6d5bf3-4341-d0b3-2a79-d4bd297f8e0e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.469Z
+Categories:
+
+
+Name: MFiT Shop UAT
+Url: https://testflight.apple.com/join/Ps0aKmrJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/69/0a/2b/690a2bb3-f27f-1193-0fd7-61e354ea3037/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.496Z
+Categories:
+
+
+Name: HDFC_ERGO_BIP
+Url: https://testflight.apple.com/join/sHCbnplf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/d8/3f/b8d83f35-db6f-7abe-7fe7-d583016bf8e0/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.524Z
+Categories:
+
+
+Name: Actions
+Url: https://testflight.apple.com/join/fJGUrsZx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/4a/4b/b04a4b70-7b2f-5b95-e9be-430c93ea7157/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.552Z
+Categories:
+
+
+Name: Mixl.ai
+Url: https://testflight.apple.com/join/WpGYUXvc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/5d/82/475d8271-94dd-be6e-5fb8-418f84d449a1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.579Z
+Categories:
+
+
+Name: Sygic Travel Maps Trip Planner
+Url: https://testflight.apple.com/join/LBRoKDBI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/4b/49/7b4b499e-7de7-e6c7-e843-ae0c3c5f18b1/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.607Z
+Categories:
+
+
+Name: IdeaDreamOne
+Url: https://testflight.apple.com/join/hhN1BryN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/77/cb/de77cb71-02f3-65a5-7fec-9eb8373058d6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.635Z
+Categories:
+
+
+Name: Mapy.cz: maps & navigation
+Url: https://testflight.apple.com/join/2nXnREvO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/d2/c8/f7d2c8c2-9dd6-4774-fff5-9466fb25c2d1/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.662Z
+Categories:
+
+
+Name: Adonis Extension
+Url: https://testflight.apple.com/join/RFvgepLW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2c/3b/56/2c3b56d4-b97f-6aa8-f4a4-2530bd48a8af/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.689Z
+Categories:
+
+
+Name: FEZ Community
+Url: https://testflight.apple.com/join/SyVaVuX2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/fd/e0/befde010-3fde-731d-9836-e285ffce93ba/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-04T03:59:10.718Z
+Categories:
+
+
