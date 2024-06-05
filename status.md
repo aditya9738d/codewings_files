@@ -22787,3 +22787,120 @@ Last Checked: 2024-06-05T18:55:18.627Z
 Categories:
 
 
+Name: Pawket Wallet
+Url: https://testflight.apple.com/join/GWcIleEy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/a1/12/6da112d8-54eb-a883-64f1-933d0e8f18d0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.496Z
+Categories:
+
+
+Name: allRiDi
+Url: https://testflight.apple.com/join/tafaI1MI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/81/a3/bb81a300-071a-2340-116e-5414104dc98d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.525Z
+Categories:
+
+
+Name: Quick Notes - Email Me
+Url: https://testflight.apple.com/join/ZCXmn3qw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/85/fa/9385fa93-a12e-b7b6-59e1-de43bcbe36d1/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.553Z
+Categories:
+
+
+Name: MBME Bills
+Url: https://testflight.apple.com/join/8lW9R5u1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/db/14/e5db145e-9b41-aa46-dcc8-9f9393905bca/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.581Z
+Categories:
+
+
+Name: Berry-Lab
+Url: https://testflight.apple.com/join/0coWQyy2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/70/d6/8770d637-f902-b8d0-594c-ed4ff16068ad/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.609Z
+Categories:
+
+
+Name: ONB
+Url: https://testflight.apple.com/join/sfPw00LD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/96/50/56965040-2495-fc0c-d253-8380cf599330/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.637Z
+Categories:
+
+
+Name: Bolt Charger
+Url: https://testflight.apple.com/join/Hhm685us
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/a4/0d/9ea40d10-09ab-829a-af4a-40c3c2d23db3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.665Z
+Categories:
+
+
+Name: PoultryProductionNew
+Url: https://testflight.apple.com/join/BNS0jhZx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/a2/13/89a213ad-4167-ee1f-305a-c1f8ffb505b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T18:56:13.692Z
+Categories:
+
+
+Name: Mouse for Cats
+Url: https://testflight.apple.com/join/XVdvflES
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/6d/c9/256dc9fa-2b93-0cf1-d6f3-dd48e6a4306f/AppIcon-1x_U007epad-0-6-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.720Z
+Categories:
+
+
+Name: DRIVE ³⁶⁰
+Url: https://testflight.apple.com/join/TpEczFm8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/2d/1d/452d1dd5-8ddf-d762-6e88-dda9b23afcff/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.748Z
+Categories:
+
+
+Name: Widget Monitor
+Url: https://testflight.apple.com/join/4iTWxzPn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/df/f1/54dff1c2-8933-5d1d-a904-8a0a611104dc/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.775Z
+Categories:
+
+
+Name: Eulogica Companion
+Url: https://testflight.apple.com/join/eYkxx5Yw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/23/05/6c23056b-0f4f-5557-338d-b1d3f604d676/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.804Z
+Categories:
+
+
+Name: EDU365 Trial
+Url: https://testflight.apple.com/join/DJLBMjhQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/0f/45/0b0f45e2-4195-de54-a41b-89ea0ba43963/AppIcon_1-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T18:56:13.832Z
+Categories:
+
+
