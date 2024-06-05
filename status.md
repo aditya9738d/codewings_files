@@ -17296,3 +17296,120 @@ Last Checked: 2024-06-05T09:24:14.020Z
 Categories:
 
 
+Name: ASUS Health Promotion
+Url: https://testflight.apple.com/join/shZQWBSr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/7d/ad/417dadd4-b4e9-b27b-4d72-2a86fdde999d/AppIcon-0-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.375Z
+Categories:
+
+
+Name: Onsight Field Service
+Url: https://testflight.apple.com/join/4zl8Z87S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/72/1f/4b721f44-2eb2-4779-e1fc-94ca304442f8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.404Z
+Categories:
+
+
+Name: CFMOTO RIDE
+Url: https://testflight.apple.com/join/gMVlHLCY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/88/52/7c88524b-1353-6701-ddee-c9345c517b0c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.432Z
+Categories:
+
+
+Name: Clix
+Url: https://testflight.apple.com/join/dn3sNrts
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/3e/f6/b93ef60a-f432-b40d-8917-479d86ac797b/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.473Z
+Categories:
+
+
+Name: Malice Mobile
+Url: https://testflight.apple.com/join/EGftPQfZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/15/88/ff/1588ff74-3833-9583-d0e9-341a65e40e69/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.501Z
+Categories:
+
+
+Name: Shokz
+Url: https://testflight.apple.com/join/hkK6ANDy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/59/3b/d0593bc9-046b-1ae3-eda2-13cbd5b2be2b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.530Z
+Categories:
+
+
+Name: Fixi BETA
+Url: https://testflight.apple.com/join/Ukxk4mhg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/e8/54/58e8544e-9f03-1841-b925-709cabd8f3d0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.557Z
+Categories:
+
+
+Name: KioPay Mobile
+Url: https://testflight.apple.com/join/Aitx3oOS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d4/16/9a/d4169a30-382f-89a4-748c-013277ae3f05/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.586Z
+Categories:
+
+
+Name: OpenInYT
+Url: https://testflight.apple.com/join/k604MXnM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/eb/73/70eb7315-00c4-11b5-ccba-414f2935787a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T09:25:19.615Z
+Categories:
+
+
+Name: Sandbox Fresh KDS
+Url: https://testflight.apple.com/join/yWR1751L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/3b/02/4c3b0258-a855-151f-f38e-d0fcb1e00e09/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.643Z
+Categories:
+
+
+Name: MinuPlus
+Url: https://testflight.apple.com/join/Q1zPYbSZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/3f/94/503f94bd-10cc-32f3-457d-f2498fac0544/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.671Z
+Categories:
+
+
+Name: SMEConnect
+Url: https://testflight.apple.com/join/RoiHSYUr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/be/f4/94bef4bb-998b-b834-0938-9578c3eb2413/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.700Z
+Categories:
+
+
+Name: Endpt
+Url: https://testflight.apple.com/join/emE0d6Mf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/6f/e4/436fe4cb-c000-94f8-f7c4-87556123af25/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:25:19.728Z
+Categories:
+
+
