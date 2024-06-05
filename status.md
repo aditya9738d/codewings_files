@@ -24667,3 +24667,120 @@ Last Checked: 2024-06-05T10:29:12.135Z
 Categories:
 
 
+Name: Habit Tracker
+Url: https://testflight.apple.com/join/VwXGrgLq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/51/fa/4351fafe-0e04-9717-8710-e5c91f228270/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T10:30:46.887Z
+Categories:
+
+
+Name: Teste Notify
+Url: https://testflight.apple.com/join/ZwRf86x3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/81/73/fe817318-0767-773e-a0c9-384955679e47/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:30:46.922Z
+Categories:
+
+
+Name: The Five
+Url: https://testflight.apple.com/join/fGdS4O6y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/eb/d0/d3ebd0df-ba58-248e-9472-797616baab80/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:30:46.958Z
+Categories:
+
+
+Name: FlipMe Demo App
+Url: https://testflight.apple.com/join/rzlfFfWF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/30/ab/7230ab4d-a6f8-2fb7-a6a1-1a89a53511d0/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T10:30:46.993Z
+Categories:
+
+
+Name: Lemio: Dopamine Phone Detox
+Url: https://testflight.apple.com/join/aOhPP9qo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/7b/99/b47b9937-ca46-fe32-a625-5c117a47fec1/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:30:47.029Z
+Categories:
+
+
+Name: Oxzo
+Url: https://testflight.apple.com/join/dqOthlXx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/00/51/a900512a-602f-1c63-1e08-6399da900b72/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T10:30:47.064Z
+Categories:
+
+
+Name: Black Star - A better way.
+Url: https://testflight.apple.com/join/wyj4keKZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/88/e5/9f88e5db-6e76-e7f2-9faa-b12737ea21be/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:30:47.100Z
+Categories:
+
+
+Name: ZeroPuttPlus-Dev
+Url: https://testflight.apple.com/join/F0lttrj5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/f1/61/2af1610f-c58f-a421-f31d-997ff9327d82/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:30:47.137Z
+Categories:
+
+
+Name: RPA
+Url: https://testflight.apple.com/join/RlR36eh0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/9f/e9/6c9fe96e-df55-39f6-9bcd-da305db8adae/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:30:47.172Z
+Categories:
+
+
+Name: Royale Town
+Url: https://testflight.apple.com/join/d7TDODwA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/0a/d8/b30ad800-9234-4a91-2eb3-76a8a7222462/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:30:47.208Z
+Categories:
+
+
+Name: GoRide Drivers
+Url: https://testflight.apple.com/join/yph352IB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/10/4f/fd104fbd-35b9-5d8c-e7a9-9545e6ca93a5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:30:47.247Z
+Categories:
+
+
+Name: CopyPad
+Url: https://testflight.apple.com/join/MD3Ossnz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/d3/65/bbd365bd-25f1-b193-6287-90fcddfacef4/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:30:47.282Z
+Categories:
+
+
+Name: TRADEFOOX
+Url: https://testflight.apple.com/join/PiKfy0IT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/7a/73/d27a7379-dfae-beb3-2cf7-fd8d6f4b4b69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:30:47.318Z
+Categories:
+
+
