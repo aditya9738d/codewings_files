@@ -25387,3 +25387,120 @@ Last Checked: 2024-06-05T23:37:10.431Z
 Categories:
 
 
+Name: HolyGrails
+Url: https://testflight.apple.com/join/Cv5DsqXL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/b2/10/50b21063-8ce2-b820-4a75-fda500bd12e9/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.607Z
+Categories:
+
+
+Name: Mealstar Cocinero
+Url: https://testflight.apple.com/join/5JTO4OKr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/43/e7/ed43e7c8-ed42-90aa-faf3-058c826531c9/AppIcon-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.636Z
+Categories:
+
+
+Name: BetterShifts
+Url: https://testflight.apple.com/join/RheXgQ6R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/cc/7f/5fcc7fb4-83ed-36f3-2e6a-fd04011267bb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.664Z
+Categories:
+
+
+Name: Square Point of Sale (POS)
+Url: https://testflight.apple.com/join/sjSddveJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/dd/21/85dd2171-7579-cef1-ed3c-98b2e8381fb0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.693Z
+Categories:
+
+
+Name: Bdk Native App
+Url: https://testflight.apple.com/join/2hCVHjya
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/50/26/9c502676-8f84-1121-21f5-a26a91d01f70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.722Z
+Categories:
+
+
+Name: PromoDescuentos: ofertas
+Url: https://testflight.apple.com/join/64cKelOa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/a5/7a/c4a57a8d-2a6b-f129-6240-b717813a76f7/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.751Z
+Categories:
+
+
+Name: Anglo Checklist App PREPROD
+Url: https://testflight.apple.com/join/JdRWlvky
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/48/d2/3a48d2c4-2f98-8543-7e21-6cd015199163/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.781Z
+Categories:
+
+
+Name: Surge Network Tester
+Url: https://testflight.apple.com/join/ABWQfJsU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/b5/e7/fcb5e7e8-0930-19b0-0434-18bd916c0f6b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.809Z
+Categories:
+
+
+Name: My Vodacom X
+Url: https://testflight.apple.com/join/6VTYMpIz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/32/f0/ab/32f0ab97-d7f5-bb01-0c52-9970e9d2e549/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.838Z
+Categories:
+
+
+Name: eDarkstore Shipping Transfers
+Url: https://testflight.apple.com/join/HxEFOrQp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/3b/23/323b2301-5fb3-829f-992e-e0266b076b86/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.867Z
+Categories:
+
+
+Name: Around Capture
+Url: https://testflight.apple.com/join/Fpox5bGg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9b/53/fd/9b53fd34-30cc-5257-ff8c-ad977df8f1f2/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.895Z
+Categories:
+
+
+Name: Enceladus
+Url: https://testflight.apple.com/join/FZzHTdPi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/9f/1d/059f1d3b-9818-580d-62c1-d18b0b6476f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.924Z
+Categories:
+
+
+Name: ViSymulation
+Url: https://testflight.apple.com/join/y8gAh6Lf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/cd/79/bccd79af-c370-6510-40eb-29acf0f4bc19/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:38:10.963Z
+Categories:
+
+
