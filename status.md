@@ -17314,3 +17314,120 @@ Last Checked: 2024-06-05T22:23:11.163Z
 Categories:
 
 
+Name: IBM MaaS360
+Url: https://testflight.apple.com/join/Xiv1aFBM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/7d/fe/bf7dfeb6-a0d0-7f40-fc05-e4f12b00b25a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:24:12.887Z
+Categories:
+
+
+Name: LFVN Seller
+Url: https://testflight.apple.com/join/2hlN9oxN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/df/dc/3adfdcf4-aa25-659a-da62-4e08b99c6c12/AppIcon-1x_U007emarketing-0-2-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:24:12.923Z
+Categories:
+
+
+Name: Luno Bitcoin & Cryptocurrency
+Url: https://testflight.apple.com/join/rwd9Fajs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/7e/e9/fd7ee9fd-975f-1676-226d-686362f8d4c8/AppIconProd-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:24:12.959Z
+Categories:
+
+
+Name: NearbyStores
+Url: https://testflight.apple.com/join/G3FnOZoT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/1e/39/ad1e39a7-d61b-e26c-201c-f04b64ff1b96/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T22:24:12.995Z
+Categories:
+
+
+Name: InstaLauncher
+Url: https://testflight.apple.com/join/EkylgE8G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/a6/35/9aa63592-1560-ca3f-ed61-70e3effa3d1a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T22:24:13.031Z
+Categories:
+
+
+Name: eplusDev
+Url: https://testflight.apple.com/join/0GDhnEkQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ba/db/3a/badb3ace-27fc-82da-2cb5-2ade86c2ab36/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:24:13.066Z
+Categories:
+
+
+Name: Featherweight UI
+Url: https://testflight.apple.com/join/3HPI9h3W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/04/c7/9e/04c79e10-c197-2ea5-d745-5fb3acb2808e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:24:13.103Z
+Categories:
+
+
+Name: Lazy Mobile
+Url: https://testflight.apple.com/join/TDwWJhJy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/57/36/2c/57362c63-fa62-8b43-74a7-70d8755c1f89/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:24:13.138Z
+Categories:
+
+
+Name: Structured - Daily Planner
+Url: https://testflight.apple.com/join/k3x7jn8B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/62/a9/1662a960-d2e3-10ac-c258-979513eb7fce/AppIcon-0-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:24:13.175Z
+Categories:
+
+
+Name: WashSMa
+Url: https://testflight.apple.com/join/J58fpV8u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/fd/25/cbfd2540-df16-56b0-35ed-13f5c3cb818e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:24:13.211Z
+Categories:
+
+
+Name: icube laser
+Url: https://testflight.apple.com/join/bPVMbqS9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/92/ba/5e92ba58-c166-f1ef-4ab8-54e9ea09c40d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T22:24:13.246Z
+Categories:
+
+
+Name: Doctor - Appointments Booking
+Url: https://testflight.apple.com/join/C0IsBZdY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/e2/31/26e231be-22c5-f6e6-aa16-7fdc14f8ed50/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:24:13.282Z
+Categories:
+
+
+Name: Soulver
+Url: https://testflight.apple.com/join/rBWP4hPz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/1b/27/b01b270e-909c-e1f8-cbbf-f7416f4776aa/App_Icon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:24:13.318Z
+Categories:
+
+
