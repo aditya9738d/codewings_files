@@ -20239,3 +20239,120 @@ Last Checked: 2024-06-05T22:48:09.722Z
 Categories:
 
 
+Name: Exponent Energy
+Url: https://testflight.apple.com/join/5q9vsQMn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/25/a6/ce/25a6cef6-e5b5-2c83-1d98-7f8c4e06d979/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.611Z
+Categories:
+
+
+Name: iMobile Pay: Banking, UPI
+Url: https://testflight.apple.com/join/vvSTVqxu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6a/2c/186a2ce7-b935-be1c-e2a9-5cf8d6f53c05/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.650Z
+Categories:
+
+
+Name: FP - Card Reader
+Url: https://testflight.apple.com/join/Hd1vt8p1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c5/52/f2/c552f2ac-d558-f9ff-d4cf-85ace41bc555/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.678Z
+Categories:
+
+
+Name: RAS UAT
+Url: https://testflight.apple.com/join/6uZNkFTd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/2b/5a/a62b5a82-2e02-42f3-c0b7-e63e49b35687/AppIcon-uat-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.706Z
+Categories:
+
+
+Name: time2u-eNoah
+Url: https://testflight.apple.com/join/ae0ayk56
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/a3/32/9ea33217-386e-ec26-d9c9-79fe239ebdf4/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.734Z
+Categories:
+
+
+Name: Profoto Control Desktop
+Url: https://testflight.apple.com/join/XAMYj1Hr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/c2/d1/9fc2d1c3-575a-9eea-e1a5-2c64cb62ce2d/AppIcon-0-85-220-0-4-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.762Z
+Categories:
+
+
+Name: CrewWorks
+Url: https://testflight.apple.com/join/R0ZE1tt6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/b3/fe/feb3fe80-78d8-0071-7d08-bdac141a9b21/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-05T22:49:07.790Z
+Categories:
+
+
+Name: Journal365ai
+Url: https://testflight.apple.com/join/crr4Eu99
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/50/660e50ce-3a44-cbc9-f7eb-18d12e408e1e/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.818Z
+Categories:
+
+
+Name: FluvalSmart
+Url: https://testflight.apple.com/join/74j34HG2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/43/c5/e843c5b9-b0e5-8752-9123-d50b8e87e70f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.845Z
+Categories:
+
+
+Name: Subscriptions - Track Expenses
+Url: https://testflight.apple.com/join/6jbgrn7l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/37/e0/9c37e014-9526-09c6-9259-8c4d67f418ea/AppIcon-0-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.875Z
+Categories:
+
+
+Name: VSE BIKER GN
+Url: https://testflight.apple.com/join/UY2EfyLO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d0/c5/11/d0c51186-4fa8-767a-aae6-3dd91d0ba806/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.903Z
+Categories:
+
+
+Name: Stelyum
+Url: https://testflight.apple.com/join/uPyl9y6m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/59/9e/19599e16-01d6-5dd2-4799-35740058475b/AppIcon-0-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.931Z
+Categories:
+
+
+Name: AAB New Apps Dev
+Url: https://testflight.apple.com/join/Hkiz5yar
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/20/e4/1c20e45c-827b-741d-7f3f-b4089a3b4bfd/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:49:07.958Z
+Categories:
+
+
