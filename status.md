@@ -8422,3 +8422,120 @@ Last Checked: 2024-06-05T08:07:10.081Z
 Categories:
 
 
+Name: cityradar
+Url: https://testflight.apple.com/join/MRsOANwy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5f/a0/98/5fa0989b-5f78-cc08-5f55-31bb28604d43/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.192Z
+Categories:
+
+
+Name: cnMaestro Subscriber
+Url: https://testflight.apple.com/join/JroFOiAc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/41/c4/41/41c44184-d2df-805b-e58b-39dfe1bfdc33/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.227Z
+Categories:
+
+
+Name: coinbyte
+Url: https://testflight.apple.com/join/WQt92zUm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/9a/9f/9d9a9fa0-a9da-7583-087f-02e48be2cf46/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.261Z
+Categories:
+
+
+Name: cuddle+kind
+Url: https://testflight.apple.com/join/4QS15nus
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/b5/a2/a2b5a25c-ea5c-d3b3-c395-921499b0032c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.297Z
+Categories:
+
+
+Name: dYdX V4
+Url: https://testflight.apple.com/join/cVXR4niD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/23/d9/2123d9e5-b4c6-1329-6d5b-2e50d4468378/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.332Z
+Categories:
+
+
+Name: debtMe
+Url: https://testflight.apple.com/join/QH523MIn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/1a/20/191a2043-9341-262e-5a08-a2a43217c824/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.368Z
+Categories:
+
+
+Name: dime.algo
+Url: https://testflight.apple.com/join/qCH71rx7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/7b/ee/9a7bee46-ba3a-7244-7f90-169fe4236563/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.403Z
+Categories:
+
+
+Name: doForms BETA
+Url: https://testflight.apple.com/join/reM6lFmL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/06/fa/d806fa16-61d0-8529-a727-e1bd85dda779/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:08:11.438Z
+Categories:
+
+
+Name: doForms Mobile Data
+Url: https://testflight.apple.com/join/VUgxqwt5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/09/64/e0/0964e02e-c7b3-ec23-1fca-4679ef41f6e5/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.473Z
+Categories:
+
+
+Name: doForms Mobile Data Platform
+Url: https://testflight.apple.com/join/sb5vHqk1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/51/3b/c9513b7b-dcca-a57a-b42a-935d32c99e65/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.508Z
+Categories:
+
+
+Name: dumbbe: add fun text to photos
+Url: https://testflight.apple.com/join/BlTCbUNR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2f/31/d5/2f31d5e4-825d-e007-813f-7e84109313cb/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.543Z
+Categories:
+
+
+Name: e-Gro Portable
+Url: https://testflight.apple.com/join/LGmI6uff
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/66/e7/7c/66e77c9f-331c-a2ab-c3b8-74bcd585ade0/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.578Z
+Categories:
+
+
+Name: e-Port Viaggi Autotrasporto
+Url: https://testflight.apple.com/join/jGRTzW0x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/51/f3/2e51f3b2-e8f0-bc46-6bbe-d36adadd01e1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:08:11.613Z
+Categories:
+
+
