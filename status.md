@@ -15793,3 +15793,120 @@ Last Checked: 2024-06-05T01:06:11.840Z
 Categories:
 
 
+Name: WAS - We Are Soccer
+Url: https://testflight.apple.com/join/KFI1gSnf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/da/d6/ebdad680-ab04-abe0-36fd-ebbf4b98d943/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T01:07:11.026Z
+Categories:
+
+
+Name: MindNode – Mind Map & Outline
+Url: https://testflight.apple.com/join/oZLi68WG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/d6/ab/0cd6abae-95d2-4cc3-e903-25d2ff89def2/AppIcon-0-85-220-0-0-4-0-0-2x-P3-0-0-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:07:11.062Z
+Categories:
+
+
+Name: Hama Fit Move
+Url: https://testflight.apple.com/join/vipm8nvK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/a4/fb/bfa4fbf0-1040-c0ed-954c-ecfa6ba95e9c/AppIcon-1x_U007emarketing-0-5-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:07:11.097Z
+Categories:
+
+
+Name: focus messenger
+Url: https://testflight.apple.com/join/r1cu2m0W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/ce/50/2fce5090-828d-0a71-b6ef-2cbff8799ac7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:07:11.133Z
+Categories:
+
+
+Name: Toast Now
+Url: https://testflight.apple.com/join/O2iSXotz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/0d/0b/ec0d0b4a-33c5-bf82-6bd3-01d7e58e33ac/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:07:11.168Z
+Categories:
+
+
+Name: Trip.com: Book Flights, Hotels
+Url: https://testflight.apple.com/join/M2HUqe2P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a8/ad/0a/a8ad0a8a-7925-d09a-e472-acc1ac6ff31e/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:07:11.204Z
+Categories:
+
+
+Name: the week: share your cal
+Url: https://testflight.apple.com/join/Mvkb3NXg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/c1/a1/26c1a1c0-c21c-3bda-ad03-6e72948e3fc5/AppIcon-0-1x_U007ephone-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:07:11.239Z
+Categories:
+
+
+Name: Lichess beta
+Url: https://testflight.apple.com/join/WEurB7MT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/98/56/0598562e-82da-1747-9e18-b246dcb4dd1e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T01:07:11.274Z
+Categories:
+
+
+Name: Pick Up My Meds
+Url: https://testflight.apple.com/join/IHnTq0bA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/2d/cf/382dcf80-62e9-cedf-8137-eea42313891d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T01:07:11.309Z
+Categories:
+
+
+Name: Exify
+Url: https://testflight.apple.com/join/EpGlutqv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c2/76/23/c2762343-1459-485d-4330-d51ccea4695f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:07:11.345Z
+Categories:
+
+
+Name: SuperOffice Mobile CRM
+Url: https://testflight.apple.com/join/VaSLz5VC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/39/0a/46/390a4644-5379-83bb-f85d-d0e0738e3174/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:07:11.380Z
+Categories:
+
+
+Name: Cash App
+Url: https://testflight.apple.com/join/An0RiOFF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/fe/e1/7efee179-f4d5-ceb9-f2f6-367c500e3b06/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-05T01:07:11.415Z
+Categories:
+
+
+Name: Scarlett: Skincare Assistant
+Url: https://testflight.apple.com/join/MFwjG3FV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/59/83/df598342-b40a-864a-92ce-c50370c17ebd/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T01:07:11.451Z
+Categories:
+
+
