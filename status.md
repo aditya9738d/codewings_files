@@ -2455,3 +2455,120 @@ Last Checked: 2024-06-05T20:11:10.790Z
 Categories:
 
 
+Name: Prize Platform
+Url: https://testflight.apple.com/join/d26dH3nn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/28/ff/4628ff35-cd79-1005-cade-6df255afa6c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.424Z
+Categories:
+
+
+Name: CHILDCARE DEVELOPMENT
+Url: https://testflight.apple.com/join/ErtVY0ox
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/34/3e/06/343e06e1-361b-4287-74ed-f2710bceaa23/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.460Z
+Categories:
+
+
+Name: Aroraboll
+Url: https://testflight.apple.com/join/kkhcYE3O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/02/92/a60292b2-355f-f7ee-67ae-ec4bb64bea89/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.496Z
+Categories:
+
+
+Name: ProSafeT
+Url: https://testflight.apple.com/join/eORSQW4B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/ca/3b/07ca3b3e-1b8f-ddf5-9bc6-27c164b9fdae/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.533Z
+Categories:
+
+
+Name: DoAI
+Url: https://testflight.apple.com/join/jmD319UT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/46/4a/7b464a5f-0135-cf3a-1013-0393e8695f2c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.569Z
+Categories:
+
+
+Name: Seafi
+Url: https://testflight.apple.com/join/iLhMYCOC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/89/91/cd899151-fa73-c665-7205-73ab8681ca6c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.605Z
+Categories:
+
+
+Name: Gentler
+Url: https://testflight.apple.com/join/wSH4p6PU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/78/c2/5f78c2aa-da58-2932-d4e8-83baaea0600d/AppIconBeta-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.640Z
+Categories:
+
+
+Name: AI-Chef
+Url: https://testflight.apple.com/join/cWx9R8OK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/19/93/8c/19938c20-94f5-1c9d-d5cb-519fa169a28f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.676Z
+Categories:
+
+
+Name: OfficeSuite Sheets
+Url: https://testflight.apple.com/join/i5vRfqkD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/57/5d/58575d13-5ffb-bca1-529d-93f68e88fd5c/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.712Z
+Categories:
+
+
+Name: KryptoPoker
+Url: https://testflight.apple.com/join/Mv3vEy0C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/09/98/3e09982d-8b3d-5b80-b67f-e1dff9a2e320/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.748Z
+Categories:
+
+
+Name: LNDU+
+Url: https://testflight.apple.com/join/TBR0bOOL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/18/08/6a180857-ceba-2d52-57c5-e76858ca3d9b/AppIcon-0-0-1x_U007ephone-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.783Z
+Categories:
+
+
+Name: Samsung Shop
+Url: https://testflight.apple.com/join/FVoXfI5R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/80/4a/ad804ac4-bba1-52e5-56f1-96578f39fd6c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-05T20:12:12.820Z
+Categories:
+
+
+Name: Castle Empire
+Url: https://testflight.apple.com/join/p6Vl1pLP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/80/c0/b180c0fe-bd1c-b81e-a371-49df1c09e5ec/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:12:12.857Z
+Categories:
+
+
