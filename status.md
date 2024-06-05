@@ -2572,3 +2572,120 @@ Last Checked: 2024-06-05T11:26:12.998Z
 Categories:
 
 
+Name: Metalstorm Beta
+Url: https://testflight.apple.com/join/eKIvxdwT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/94/0d/c9940d38-2565-5f0e-1ec7-808963014393/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T11:27:10.920Z
+Categories:
+
+
+Name: mewatch Preprod App
+Url: https://testflight.apple.com/join/2XDMVdXD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/61/b5/aa61b5d6-f977-3a63-bc94-ec60c923a70b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:27:10.947Z
+Categories:
+
+
+Name: Tonomy ID
+Url: https://testflight.apple.com/join/7Bdd9jdB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/1e/7e/4e1e7eae-1669-d49a-8c11-4e26ef680774/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T11:27:10.975Z
+Categories:
+
+
+Name: Salonbookly Manager Dev
+Url: https://testflight.apple.com/join/sbYtp1eA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/c4/07/36c4078e-8eb1-2320-38fc-b56f8450ac37/AppIcon-dev-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:27:11.003Z
+Categories:
+
+
+Name: Comisionistas Carobra Dev
+Url: https://testflight.apple.com/join/Arj8BLMH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1a/ce/3d/1ace3d70-6fc9-0051-b524-bc7883aca1ca/AppIcon-0-1x_U007ephone-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:27:11.032Z
+Categories:
+
+
+Name: POC
+Url: https://testflight.apple.com/join/0hOfJXCg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/91/fb/f191fb66-08be-5939-9861-2bdc30f587fd/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T11:27:11.060Z
+Categories:
+
+
+Name: Home Service Near You
+Url: https://testflight.apple.com/join/VhugajHG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/29/d7/2e/29d72e03-5f6e-4304-fd62-dff545a96333/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T11:27:11.088Z
+Categories:
+
+
+Name: SimpleTix Organizer
+Url: https://testflight.apple.com/join/zyByZSX8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/f0/e4/8ff0e46c-bd06-ab44-04a4-4e2633417cbc/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:27:11.116Z
+Categories:
+
+
+Name: Long Ago
+Url: https://testflight.apple.com/join/lSUBOcUu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/c9/87/15c98733-26cf-339e-9545-f8c0b4c977a6/AppIcon-TriceraRed-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:27:11.146Z
+Categories:
+
+
+Name: Mountain Mike's Pizza
+Url: https://testflight.apple.com/join/5pSMjqMz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/34/3d/6c/343d6c33-66a9-32c5-9651-ca5ece381d7d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:27:11.174Z
+Categories:
+
+
+Name: UD Mobile
+Url: https://testflight.apple.com/join/xHtzI5R3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ca/d9/85cad9ff-d4fb-7de2-145c-04891d33894d/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:27:11.202Z
+Categories:
+
+
+Name: Mastery by Sir Brad
+Url: https://testflight.apple.com/join/WbpwRW3Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/54/39/d45439cf-c8b3-d6d1-3ba8-721192531c47/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-05T11:27:11.230Z
+Categories:
+
+
+Name: all 4 hue   (for Philips Hue)
+Url: https://testflight.apple.com/join/4Jc5hX2s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/8d/95/6b8d95bf-90aa-74c0-b9f3-383bea810e95/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-85-220.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T11:27:11.259Z
+Categories:
+
+
