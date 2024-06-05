@@ -15306,3 +15306,120 @@ Last Checked: 2024-06-05T09:07:10.912Z
 Categories:
 
 
+Name: ColorSlurp
+Url: https://testflight.apple.com/join/xxEw2j1X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/0d/5b/5d0d5b74-4198-002d-5a4f-54386fb8b02d/app-icon-0-0-85-220-0-0-4-0-2x-sRGB.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-05T09:08:11.763Z
+Categories:
+
+
+Name: War Robots Test
+Url: https://testflight.apple.com/join/aE7qTf9G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/99/1b/71991be5-0fd6-84de-6066-8744bdbe3993/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 104
+Beta Available: open
+Last Checked: 2024-06-05T09:08:11.791Z
+Categories:
+- Games
+
+Name: Devil May Cry: Peak of Combat
+Url: https://testflight.apple.com/join/YwdVgCwp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/41/58/964158f8-9560-87bb-3bff-0e455f21e625/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 17
+Beta Available: not accepting
+Last Checked: 2024-06-05T09:08:11.820Z
+Categories:
+
+
+Name: MotoWeek
+Url: https://testflight.apple.com/join/GqtAtfQu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/64/da/d064da0d-daf1-2e33-1ea8-aa83c7c8320a/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 33
+Beta Available: open
+Last Checked: 2024-06-05T09:08:11.848Z
+Categories:
+
+
+Name: Beautiful Covers
+Url: https://testflight.apple.com/join/YSOynOzr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/73/b2/9673b244-571e-c908-74f4-cc49c8aef3d0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-05T09:08:11.877Z
+Categories:
+
+
+Name: VPN ExpressVPN - Fast & Secure
+Url: https://testflight.apple.com/join/6flRfmYW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/bf/13/dabf13e5-89e3-dd4f-d5bb-9080cc6d3fee/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 12
+Beta Available: full
+Last Checked: 2024-06-05T09:08:11.904Z
+Categories:
+
+
+Name: RAFA: AI Investment Copilot
+Url: https://testflight.apple.com/join/LqD6DlOe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3c/5a/72/3c5a72c3-6a19-e7a8-362c-2cbadf58d2fe/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:08:11.932Z
+Categories:
+
+
+Name: Blocs - Website Builder
+Url: https://testflight.apple.com/join/B4bn2vEz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e9/be/97e9be72-3d38-f7e0-df09-b07b47e1145a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T09:08:11.962Z
+Categories:
+
+
+Name: Jetpack for WordPress
+Url: https://testflight.apple.com/join/AZG7g4Bg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/cd/4c/80cd4c81-dddd-f1f0-c70b-263b9ce1946b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 41
+Beta Available: open
+Last Checked: 2024-06-05T09:08:11.990Z
+Categories:
+
+
+Name: Icons Of Theia: Tactical RPG
+Url: https://testflight.apple.com/join/XZYouium
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2c/e3/bb/2ce3bba0-c3ea-315d-ec2c-1b08a415d914/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T09:08:12.019Z
+Categories:
+
+
+Name: Applight – Next App Switcher
+Url: https://testflight.apple.com/join/DG64k6Ag
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/9c/59/2c9c59d1-efa4-3458-ecaf-78e84c506d82/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 7
+Beta Available: not accepting
+Last Checked: 2024-06-05T09:08:12.047Z
+Categories:
+
+
+Name: AirPages
+Url: https://testflight.apple.com/join/ISWpAxRP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/90/0c/d9900c5b-0113-0663-d6d3-a5d7d8d3ffe8/Air1.lsr/200x200bb-8.png
+Click Count: 18
+Beta Available: not accepting
+Last Checked: 2024-06-05T09:08:12.075Z
+Categories:
+
+
+Name: Carnets - Jupyter (with scipy)
+Url: https://testflight.apple.com/join/UbNIjkjp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/41/28/584128f7-8c49-d3b6-7af2-0a99854f90dd/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T09:08:12.104Z
+Categories:
+
+
