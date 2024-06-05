@@ -19537,3 +19537,120 @@ Last Checked: 2024-06-05T13:59:10.775Z
 Categories:
 
 
+Name: Divination_ Ziwei
+Url: https://testflight.apple.com/join/N7ZZDSTL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/c9/b7/dec9b741-951f-40b2-1046-e17533c9e97c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.032Z
+Categories:
+
+
+Name: Trustee Wallet bitcoin wallet
+Url: https://testflight.apple.com/join/5q6MASIB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/fb/91/e0fb913b-133c-aab9-b7bd-8a07bd4ea451/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.062Z
+Categories:
+
+
+Name: EcoNet
+Url: https://testflight.apple.com/join/nh7rowKL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7b/47/13/7b471305-96ea-9175-58af-610ddf9016c9/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.091Z
+Categories:
+
+
+Name: Mainbase Prototype
+Url: https://testflight.apple.com/join/0sCQT2lr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/79/e2/fe79e2f7-4431-5ac5-76df-391feead1b29/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.120Z
+Categories:
+
+
+Name: Empirical Health for Watch
+Url: https://testflight.apple.com/join/Nq5fTBL5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e9/76/41/e976419b-6335-aa38-4e23-320a57b5fab3/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.149Z
+Categories:
+
+
+Name: Blu Junior
+Url: https://testflight.apple.com/join/APiuB347
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/a8/a0/1ba8a071-30fd-044d-da9a-5d6be5ed93a9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T14:00:54.178Z
+Categories:
+
+
+Name: Worktron
+Url: https://testflight.apple.com/join/TrQXd25R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/d7/4f/49d74f5d-ec1f-5f01-a9ea-e1e8c55ad8d9/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.208Z
+Categories:
+
+
+Name: Merlin Bird ID by Cornell Lab
+Url: https://testflight.apple.com/join/ouR8psUZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/b2/a1/01b2a139-6a5a-4071-eb3a-fd51b2afe26f/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.238Z
+Categories:
+
+
+Name: Microsoft Start
+Url: https://testflight.apple.com/join/jOahtut6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/fd/09/e3fd0904-7472-33ae-c72c-fe868e4bddb7/AppIcon-0-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.267Z
+Categories:
+
+
+Name: TOKIMEKI for Bluesky
+Url: https://testflight.apple.com/join/chSOHsvh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/ed/d3/ebedd3fe-6a3f-a975-b9c1-9847e18410c0/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.297Z
+Categories:
+
+
+Name: Oura Widget
+Url: https://testflight.apple.com/join/ZkxJiTh9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/2b/75/612b7554-45c2-d54d-f901-06b03ec4e992/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.326Z
+Categories:
+
+
+Name: Steward Stage
+Url: https://testflight.apple.com/join/6m6SU2uP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/17/a7/eb17a7f5-b9fb-4e76-1e36-3db9acfc2c0b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.356Z
+Categories:
+
+
+Name: Franck Muller Collection
+Url: https://testflight.apple.com/join/n2ImgOL3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/35/e5/84/35e58488-bf75-a3cf-0276-f01412d4a548/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T14:00:54.385Z
+Categories:
+
+
