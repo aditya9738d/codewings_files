@@ -14248,3 +14248,122 @@ Last Checked: 2024-06-05T08:58:12.145Z
 Categories:
 
 
+Name: Life360: Find Friends & Family
+Url: https://testflight.apple.com/join/syX6IOJF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/cc/26/a0cc2664-d06a-6292-ce67-258d1bd9a937/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-05T08:59:11.271Z
+Categories:
+
+
+Name: Slack
+Url: https://testflight.apple.com/join/QE3kgqJ2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/bb/0e/7bbb0e8a-e861-9ee0-63df-31a8ada20932/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 14
+Beta Available: open
+Last Checked: 2024-06-05T08:59:11.300Z
+Categories:
+
+
+Name: Minecraft Preview
+Url: https://testflight.apple.com/join/qC1ZnReJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/d5/a1/c5d5a1b7-0be2-4c8f-b804-069d36f89a9f/AppIcon-beta-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 1965
+Beta Available: full
+Last Checked: 2024-06-05T08:59:11.330Z
+Categories:
+- Education
+- Entertainment
+- Games
+
+Name: Leplace World
+Url: https://testflight.apple.com/join/WXZlJtL0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5b/fd/ca/5bfdcae6-6545-b7e5-d2b4-4d51d021c19a/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-05T08:59:11.359Z
+Categories:
+
+
+Name: CCS Mobile
+Url: https://testflight.apple.com/join/IAFHUVdV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/51/21/105121ab-47ef-384d-74c3-57f3c9276aa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 23
+Beta Available: open
+Last Checked: 2024-06-05T08:59:11.519Z
+Categories:
+
+
+Name: Nostrmo
+Url: https://testflight.apple.com/join/kvGz47De
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/12/70/921270f6-7a10-9cf1-a369-6947581a991d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-05T08:59:11.547Z
+Categories:
+
+
+Name: HomeHabit
+Url: https://testflight.apple.com/join/KbpFHzx0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/a6/8a/8fa68a5c-ae68-6283-b387-2a882ef494db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 22
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:59:11.576Z
+Categories:
+
+
+Name: ClipBorad
+Url: https://testflight.apple.com/join/zgd15gEU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/16/09/88160915-cd66-d72c-47e9-538b3b7f9cdc/DefaultAppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 13
+Beta Available: full
+Last Checked: 2024-06-05T08:59:11.604Z
+Categories:
+
+
+Name: TV Time: Track Shows & Movies
+Url: https://testflight.apple.com/join/hjKkDsc4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/64/38/79643818-915f-278e-0e59-7755084b7156/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-05T08:59:11.633Z
+Categories:
+
+
+Name: Call of Duty Mobile
+Url: https://testflight.apple.com/join/p2C7aFDw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png
+Click Count: 620
+Beta Available: full
+Last Checked: 2024-06-05T08:59:11.661Z
+Categories:
+- Games
+
+Name: OctaVPN
+Url: https://testflight.apple.com/join/BhLLjqAX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/bf/f0/74bff03d-e5c2-272c-8d6c-99045e23ad4f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 95
+Beta Available: error
+Last Checked: 2024-06-05T08:59:11.690Z
+Categories:
+
+
+Name: GolfClubInfoTracker
+Url: https://testflight.apple.com/join/9ZKdwgYZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/57/92/71/579271b6-0431-33b8-71c4-4136bd6a949f/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:59:11.722Z
+Categories:
+
+
+Name: dot.dot.dot.
+Url: https://testflight.apple.com/join/Fc48B6AB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/13/55/781355d0-a5b0-97c6-2ed8-4e4977131c36/AppIcon.lsr/200x200bb-8.png
+Click Count: 34
+Beta Available: open
+Last Checked: 2024-06-05T08:59:11.750Z
+Categories:
+
+
