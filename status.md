@@ -24802,3 +24802,120 @@ Last Checked: 2024-06-05T23:32:10.930Z
 Categories:
 
 
+Name: HOM - Unimed Cooperado
+Url: https://testflight.apple.com/join/bRkYYlJ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d1/55/0d/d1550d6a-237b-6be7-a7e7-510ed87bfc37/AppIcon-HOM-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.404Z
+Categories:
+
+
+Name: WebLink Host
+Url: https://testflight.apple.com/join/1G6evopJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/76/49/7976491e-ee2f-8e99-cf8b-74ba4cb30567/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.433Z
+Categories:
+
+
+Name: Sonar by Kujira
+Url: https://testflight.apple.com/join/ISbDaKs7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/ac/ea/60acea4e-2b8f-411a-ebff-f8596af4d4aa/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.461Z
+Categories:
+
+
+Name: izibank: легкий мобільний банк
+Url: https://testflight.apple.com/join/1tKyw5jh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1d/b7/1f1db787-314c-903e-9cf9-cd95871b76d5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.489Z
+Categories:
+
+
+Name: iOiO New
+Url: https://testflight.apple.com/join/UfgjAldx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/84/37/168437a6-ff8d-b4ed-a363-25d28b1c37ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.518Z
+Categories:
+
+
+Name: LoanKiemUs
+Url: https://testflight.apple.com/join/XHeMYnlj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/3e/0f/2b3e0f4c-f661-03f4-73bc-ba82a2323c39/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.547Z
+Categories:
+
+
+Name: Combustion Inc.
+Url: https://testflight.apple.com/join/tpQZYiNV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/98/f8/a298f806-5a6e-f723-16ab-a89fbebc1bb3/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.577Z
+Categories:
+
+
+Name: Owwll Beta
+Url: https://testflight.apple.com/join/uraOO51T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/48/4f/c5484fc5-8de2-3202-16b8-f9977f879b5b/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.605Z
+Categories:
+
+
+Name: Saltar
+Url: https://testflight.apple.com/join/1PfRknnc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/48/a6/d148a657-550e-3076-cab3-dd81b159f65f/AppIcon-1x_U007emarketing-0-5-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T23:33:10.634Z
+Categories:
+
+
+Name: GLOWRIUM
+Url: https://testflight.apple.com/join/rbGtyL1h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/9b/7d/139b7d8c-16cb-d8d7-e357-2ef6632bf1ef/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.662Z
+Categories:
+
+
+Name: [STG] Extra 10
+Url: https://testflight.apple.com/join/nWdwl75f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/e1/b1/63e1b163-44c6-607b-390d-9bab06fc7457/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.691Z
+Categories:
+
+
+Name: When We Disappear
+Url: https://testflight.apple.com/join/BkBZx6Em
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ca/2b/b1/ca2bb19a-c5d8-c11d-5d57-f608e8ab29e0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.722Z
+Categories:
+
+
+Name: Prime Gems loan & credit card
+Url: https://testflight.apple.com/join/HdaFKodA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/9f/0c/809f0cd2-19b1-726a-9515-e7c3fa94a6db/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:33:10.750Z
+Categories:
+
+
