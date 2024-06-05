@@ -12400,3 +12400,120 @@ Last Checked: 2024-06-05T00:36:11.477Z
 Categories:
 
 
+Name: Fawry Sudan
+Url: https://testflight.apple.com/join/PhzYIUKp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/f3/10/d9f310ee-3927-98a7-2174-4e01527f2860/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T00:37:10.068Z
+Categories:
+
+
+Name: Incognito — Private Browser
+Url: https://testflight.apple.com/join/O08pq9aJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/3b/8b/e33b8b15-fb6c-67aa-0942-53e3f54cb250/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T00:37:10.097Z
+Categories:
+
+
+Name: MemeTrade
+Url: https://testflight.apple.com/join/wknfh88W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1f/33/f61f33d2-3b33-c469-4915-b7b2361406b2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:37:10.127Z
+Categories:
+
+
+Name: Webull: Trade & Invest Stocks
+Url: https://testflight.apple.com/join/cUXyfxRK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/9c/3f/c99c3f7a-235d-05c7-bc0d-fbbe016edda1/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:37:10.155Z
+Categories:
+
+
+Name: Celechron
+Url: https://testflight.apple.com/join/9Yitx2yG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/87/5a/7d875a2a-da2d-9f4f-f4a1-d65d749a4f76/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:37:10.184Z
+Categories:
+
+
+Name: ITock
+Url: https://testflight.apple.com/join/qYhOqNRw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/c4/91/62c491cf-5b0a-d4fa-08c5-d392250c77dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:37:10.212Z
+Categories:
+
+
+Name: Elytra
+Url: https://testflight.apple.com/join/PQtYgSOo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/98/4f/d6984fe7-b7eb-badd-fb70-a60a22963434/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:37:10.240Z
+Categories:
+
+
+Name: Lenovo Smart Storage
+Url: https://testflight.apple.com/join/yjgUleaX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/4f/39/664f3939-c179-ab22-1a21-f02079558532/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:37:10.269Z
+Categories:
+
+
+Name: Oilbrush: Oil Painting Editor
+Url: https://testflight.apple.com/join/M8nRADRo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/12/3c/b7123c3c-1cf5-2f71-4a10-97aab42f02b3/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T00:37:10.297Z
+Categories:
+
+
+Name: Mhaya Test
+Url: https://testflight.apple.com/join/6FIIvKlJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/d8/b1/c4d8b170-f072-45bb-b5f0-5b435396bb26/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-05T00:37:10.325Z
+Categories:
+
+
+Name: App for WooCommerce
+Url: https://testflight.apple.com/join/LBoLdW0r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/d8/0f/49d80f3c-8ec6-131d-75bd-f4f03d707135/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T00:37:10.353Z
+Categories:
+
+
+Name: Astara
+Url: https://testflight.apple.com/join/ZWokb4hI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/ce/b3/c1ceb39b-4759-c7da-dae3-b773651bec6b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:37:10.382Z
+Categories:
+
+
+Name: bitXin
+Url: https://testflight.apple.com/join/AAqEldbE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/73/f2/3073f2e7-9d08-9f9e-bd0a-7abcd342bec0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:37:10.409Z
+Categories:
+
+
