@@ -27709,3 +27709,120 @@ Last Checked: 2024-06-05T10:56:09.842Z
 Categories:
 
 
+Name: Drivometer
+Url: https://testflight.apple.com/join/LKnK7eup
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/2a/fd/e22afdf5-5758-9e6b-4675-8f329cb22ef2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T10:57:10.898Z
+Categories:
+
+
+Name: MaaS360 Browser
+Url: https://testflight.apple.com/join/NBp8ZCtV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/39/06/c8390602-3c0e-345f-46e5-a4e21edb76a7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:57:10.934Z
+Categories:
+
+
+Name: Reaslo
+Url: https://testflight.apple.com/join/90I3yOHf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/9e/87/699e87d7-029b-0da7-0cc1-4b57f5d7cdf6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-05T10:57:10.972Z
+Categories:
+
+
+Name: Homey — A better smart home
+Url: https://testflight.apple.com/join/tA2e9vby
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a2/b3/aca2b3e3-6909-da8d-7e6a-e27050356853/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:57:11.007Z
+Categories:
+
+
+Name: Reeder 5.
+Url: https://testflight.apple.com/join/2w63KOGS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/82/4c/05824c90-43c7-935a-228e-edfb0282484f/AppIcon-macOS-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T10:57:11.043Z
+Categories:
+
+
+Name: Pixelfed
+Url: https://testflight.apple.com/join/dNcLnb1n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/61/01/d56101d0-d124-8202-d71c-31e76155418c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:57:11.080Z
+Categories:
+
+
+Name: Veritas Market
+Url: https://testflight.apple.com/join/8kksZ7jU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/ac/50/4fac5095-56e4-8be0-2a3e-aa0da8d00282/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:57:11.115Z
+Categories:
+
+
+Name: ABC Self Order Plus
+Url: https://testflight.apple.com/join/xtxVUgmp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/73/de/fa73de10-00d8-f415-38f6-aaada254debd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:57:11.151Z
+Categories:
+
+
+Name: ISAI Cloud
+Url: https://testflight.apple.com/join/nylJX8pq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/77/17/8f771759-ce1f-efd7-81bd-95ea393edf2b/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:57:11.188Z
+Categories:
+
+
+Name: Passio Nutrition-AI Demo
+Url: https://testflight.apple.com/join/E8X1SS5l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a8/c5/1c/a8c51c50-5d1f-4dfa-9124-fd840ad914ac/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:57:11.224Z
+Categories:
+
+
+Name: DTalks
+Url: https://testflight.apple.com/join/QhTCjaUQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1d/8a/2c1d8ace-5a79-175c-21e5-178e3ab09306/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:57:11.260Z
+Categories:
+
+
+Name: HICity Fusen Dev
+Url: https://testflight.apple.com/join/krqiRZOU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/45/0e/6b450e77-4401-efa9-5e10-3f20875a107c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:57:11.296Z
+Categories:
+
+
+Name: KSBB Universe
+Url: https://testflight.apple.com/join/kxNZnqHu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/7e/9b/767e9b7a-cf1d-2531-c90a-2291b1eb208c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:57:11.333Z
+Categories:
+
+
