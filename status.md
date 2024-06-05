@@ -8539,3 +8539,120 @@ Last Checked: 2024-06-05T21:04:11.987Z
 Categories:
 
 
+Name: Sitefotos
+Url: https://testflight.apple.com/join/mUfUXNwb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/fe/d2/bffed239-7819-bcb8-128a-4dc24cfc6caa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:05:18.959Z
+Categories:
+
+
+Name: Shopify - Your Ecommerce Store
+Url: https://testflight.apple.com/join/XuMIYekt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/c0/89/f1c08902-7b92-bec5-169c-c781d7781963/AppIcon-com.jadedpixel.shopify-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:05:18.994Z
+Categories:
+
+
+Name: Mamalift-UAT New
+Url: https://testflight.apple.com/join/bqvRMoKO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ff/39/ecff3905-a3e3-4d37-437b-96495715da41/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:05:19.029Z
+Categories:
+
+
+Name: CryptoGeeks
+Url: https://testflight.apple.com/join/6K1acH32
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/4e/fe/594efe65-6925-57aa-cda8-d4580c7f9f13/AppIcon-0-0-1x_U007ephone-0-0-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:05:19.064Z
+Categories:
+
+
+Name: Queens of Fortune
+Url: https://testflight.apple.com/join/5Fsv22M5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/a7/7a/cea77a09-6da6-519d-39c6-657bee902b57/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T21:05:19.101Z
+Categories:
+
+
+Name: RISYR
+Url: https://testflight.apple.com/join/JFO5eJ07
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/6d/e6/836de68c-f028-c121-8949-9c554be8edcf/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T21:05:19.136Z
+Categories:
+
+
+Name: Lampa MX
+Url: https://testflight.apple.com/join/4xqg1q15
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/b6/47/95b64781-8def-1433-87bc-9873fa7d3b44/App_Icon_-_Small-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:05:19.172Z
+Categories:
+
+
+Name: Brick-Tracker
+Url: https://testflight.apple.com/join/OkRFIGEq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/63/59/39635918-72d4-89ec-be11-ee4bffc30e21/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:05:19.207Z
+Categories:
+
+
+Name: baseus Security
+Url: https://testflight.apple.com/join/opHcP4Ei
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/ff/74/c9ff7433-580d-9f1c-c499-8ffec243b20d/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:05:19.242Z
+Categories:
+
+
+Name: Newwave Solutions JSC - Portal
+Url: https://testflight.apple.com/join/73LC8QQg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/37/b5/4d37b5a4-8c1b-7b18-ffa5-bed0d04bec5f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:05:19.278Z
+Categories:
+
+
+Name: 4me App DEMO
+Url: https://testflight.apple.com/join/WMxlRNxv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/15/7e/51/157e51ae-796d-8f02-5c81-0588c10e0b77/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:05:19.313Z
+Categories:
+
+
+Name: Wizz App - chat now
+Url: https://testflight.apple.com/join/bqvqe3Js
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/10/d4/7410d405-1071-a8e0-f445-26187f6e6ce1/AppIcon_2-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:05:19.347Z
+Categories:
+
+
+Name: MyTonWallet: Anyway TON Wallet
+Url: https://testflight.apple.com/join/rFESSnmy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/4a/a8/894aa8b1-cdee-548e-2ca0-3ae3eeb152a8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:05:19.387Z
+Categories:
+
+
