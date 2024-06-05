@@ -19303,3 +19303,120 @@ Last Checked: 2024-06-05T22:40:24.569Z
 Categories:
 
 
+Name: MySeniorCenter
+Url: https://testflight.apple.com/join/gJMg99Km
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/21/36/9a2136e4-a097-8bb7-7c00-9145a3ff1d27/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:10.785Z
+Categories:
+
+
+Name: Dr. Muscle AI Personal Trainer
+Url: https://testflight.apple.com/join/qkjapYet
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/54/d2/1b54d26a-f806-c461-f430-08da32cdd766/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:10.815Z
+Categories:
+
+
+Name: PRINCE Flexi
+Url: https://testflight.apple.com/join/KdX32Jdu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/4a/ec/834aec25-85c0-7ea4-5f40-11f8c2d50856/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:10.845Z
+Categories:
+
+
+Name: CamStar-Video Chat
+Url: https://testflight.apple.com/join/M22pJcve
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/cd/dd/a2cdddcc-5a28-d232-2206-2d0bf02d1c31/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:10.874Z
+Categories:
+
+
+Name: Okta Personal
+Url: https://testflight.apple.com/join/QssLtyiM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/32/39/e43239a1-4075-8308-aa27-fa47a920d6ec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:10.903Z
+Categories:
+
+
+Name: Bookmarks - URL Manager
+Url: https://testflight.apple.com/join/g8JjoIT6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/97/ae/1e97ae88-8548-e639-fa62-0e091998e9c5/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:10.934Z
+Categories:
+
+
+Name: iGOT Karmayogi
+Url: https://testflight.apple.com/join/gA442u3K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/af/5b/d8af5b4a-3f0a-4a03-7ba8-355896694740/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:10.963Z
+Categories:
+
+
+Name: NRK Radio Beta
+Url: https://testflight.apple.com/join/i6l4IBtZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/10/22/e4102273-ea4a-d4b2-1929-daf4627e62bb/AppIcon_beta-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:10.993Z
+Categories:
+
+
+Name: Blink (Bitcoin Beach Wallet)
+Url: https://testflight.apple.com/join/n2pRlXon
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/3c/a3/bb3ca39a-770a-252d-beac-adb02401c285/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:11.023Z
+Categories:
+
+
+Name: MagicContact
+Url: https://testflight.apple.com/join/9wn8hdTa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/86/f7/c6/86f7c698-e76f-29b2-d981-f520b8b8c616/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:11.052Z
+Categories:
+
+
+Name: PBS KIDS Games
+Url: https://testflight.apple.com/join/MkXGm8vv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/0a/d6/8b0ad674-ba56-8a37-f430-f9e55b5dbe55/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T22:41:11.082Z
+Categories:
+
+
+Name: Namshi - We Move Fashion
+Url: https://testflight.apple.com/join/mMvHQCZK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a7/8e/60/a78e600d-5920-8aef-6e61-70c3b4920f57/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:11.112Z
+Categories:
+
+
+Name: 8xTrade
+Url: https://testflight.apple.com/join/4pBopdcl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/3e/ad/c73ead87-3c14-3803-b32d-0cd43f3558d6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:41:11.141Z
+Categories:
+
+
