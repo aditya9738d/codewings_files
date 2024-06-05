@@ -26089,3 +26089,120 @@ Last Checked: 2024-06-05T23:43:10.283Z
 Categories:
 
 
+Name: Actionary
+Url: https://testflight.apple.com/join/SqjfVM7g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/aa/6b/fcaa6b53-43e3-e2a4-dc93-ca10b29bc3ff/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T23:44:10.010Z
+Categories:
+
+
+Name: TV Forecast: Shows & Movies
+Url: https://testflight.apple.com/join/NYFJ36tq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/e3/5c/7be35c21-d20b-ee0f-e15e-2fd9f0529cce/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-05T23:44:10.038Z
+Categories:
+
+
+Name: Mornin Key
+Url: https://testflight.apple.com/join/jNMEhKU4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/c7/df/e1c7df5d-409c-99a6-c54a-fb82f440b3e4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:44:10.066Z
+Categories:
+
+
+Name: Prompt Care-STG
+Url: https://testflight.apple.com/join/7FsZJnG4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/32/dd/7b32dd89-93c8-fa2b-76f0-2a0e93d9ce8e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:44:10.095Z
+Categories:
+
+
+Name: FieldEdge 3
+Url: https://testflight.apple.com/join/Sn5ZlSry
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/ed/e4/7aede463-a6c2-c0d9-8afe-75940f12ab40/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:44:10.123Z
+Categories:
+
+
+Name: winTwins
+Url: https://testflight.apple.com/join/hvem47iU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/e2/4b/81e24bb5-9722-433c-d3cf-33927be282ef/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T23:44:10.152Z
+Categories:
+
+
+Name: Open Food Facts - Product Scan
+Url: https://testflight.apple.com/join/c2tiBHgd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/68/13/e468133c-a04f-d42c-7f50-cc5c53d4bd99/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:44:10.180Z
+Categories:
+
+
+Name: CDS SIT
+Url: https://testflight.apple.com/join/agC95OKT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/6c/b8/166cb841-9966-5539-fbbe-566916fc884f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:44:10.208Z
+Categories:
+
+
+Name: LANforge InterOp
+Url: https://testflight.apple.com/join/GpQSr1bw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/43/3d/5a433db8-b352-ab68-2cf6-099c0bd6a181/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:44:10.237Z
+Categories:
+
+
+Name: Nothing X
+Url: https://testflight.apple.com/join/zfiuRO5D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/14/40/f51440a3-cc09-cbc6-8780-e8f9f51fe020/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T23:44:10.265Z
+Categories:
+
+
+Name: Octopus
+Url: https://testflight.apple.com/join/LvkAzx92
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/fb/35/1cfb355c-e767-54b9-d21b-f086ed80f069/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:44:10.293Z
+Categories:
+
+
+Name: iChauffeur
+Url: https://testflight.apple.com/join/aO9m9XfL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/79/cd/4979cd68-822a-af3c-f75f-cea1a659c27e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:44:10.326Z
+Categories:
+
+
+Name: MLBB Beta
+Url: https://testflight.apple.com/join/yYjKTTlT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/9c/67/7c9c67e6-d0a6-fe6b-7a5e-f89dab4063d8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 160
+Beta Available: full
+Last Checked: 2024-06-05T23:44:10.354Z
+Categories:
+
+
