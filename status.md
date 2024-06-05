@@ -1168,3 +1168,120 @@ Last Checked: 2024-06-05T11:14:14.138Z
 Categories:
 
 
+Name: Livraria Lello
+Url: https://testflight.apple.com/join/gZ8Ay0Q7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/48/1b/ef/481bef86-15fd-b71b-9b17-4ca5f527c1bb/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T11:15:22.670Z
+Categories:
+
+
+Name: Hayat Finans
+Url: https://testflight.apple.com/join/P6Proc7g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/35/c6/1d35c693-dc6a-e899-f1a2-5618e1ed56db/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:15:22.702Z
+Categories:
+
+
+Name: 1Team.mn
+Url: https://testflight.apple.com/join/ODgTgRrY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/2b/b2/4d2bb2f2-1d7f-9a67-7396-5f7afc1deb6f/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:15:22.731Z
+Categories:
+
+
+Name: StraboSpot2
+Url: https://testflight.apple.com/join/RHM31xfL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/80/3d/7a803d25-3483-6532-75fc-56d5fba1a0d2/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T11:15:22.759Z
+Categories:
+
+
+Name: CheckHWPlus
+Url: https://testflight.apple.com/join/dHntzkGb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/44/bb/f744bbe7-5f86-1ed9-614d-ba5e1e89cb22/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:15:22.787Z
+Categories:
+
+
+Name: Club Wizard
+Url: https://testflight.apple.com/join/iWBdAqET
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/45/04/e8/4504e80e-b71e-63bc-cacd-3d4380d6b17c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:15:22.816Z
+Categories:
+
+
+Name: eduID
+Url: https://testflight.apple.com/join/Ogk1TxKu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/66/7e/6e/667e6eac-a0d4-a8c8-4935-861e5308c3e3/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T11:15:22.844Z
+Categories:
+
+
+Name: SEPHORA Bra Staging
+Url: https://testflight.apple.com/join/0paAIDFp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e4/14/d4e414fd-5003-8623-fe70-e7999fa75ce3/AppIcon-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T11:15:22.872Z
+Categories:
+
+
+Name: BotGem
+Url: https://testflight.apple.com/join/NVP0zRFW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/37/8a/1d378a7f-7c92-f0bf-a3aa-a638e72fe6b9/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T11:15:22.901Z
+Categories:
+
+
+Name: chargEV UAT
+Url: https://testflight.apple.com/join/lygg1Zkv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1a/58/eb1a5825-65d9-98ff-fdf0-6d92b928521a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:15:22.930Z
+Categories:
+
+
+Name: Shrimoney Hybrid
+Url: https://testflight.apple.com/join/d3wuMKFK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/b3/67/b6b36784-e0f9-9cc7-0134-4d8da080c545/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:15:22.959Z
+Categories:
+
+
+Name: HomeService Dev
+Url: https://testflight.apple.com/join/7uaqsLKw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/b4/62/d8b462b8-64ab-0fbc-03d7-5e0615ad94ff/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:15:22.988Z
+Categories:
+
+
+Name: La Positiva Dev
+Url: https://testflight.apple.com/join/R4EiypuH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/e1/ba/cfe1baa8-6234-c4ee-750b-c3dba79eb02b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:15:23.017Z
+Categories:
+
+
