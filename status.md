@@ -14130,3 +14130,121 @@ Last Checked: 2024-06-05T08:57:11.744Z
 Categories:
 
 
+Name: DTVideo
+Url: https://testflight.apple.com/join/iD4Gh1AM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/0f/b3/e00fb389-dc06-6f15-7973-feaf3182d51b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 24
+Beta Available: open
+Last Checked: 2024-06-05T08:58:11.802Z
+Categories:
+
+
+Name: Resy DEMO
+Url: https://testflight.apple.com/join/ra4JdZuI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/41/17/3a4117c7-dd18-e2e8-40bc-33918594287f/AppIcon.demo-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-05T08:58:11.832Z
+Categories:
+
+
+Name: Twitch
+Url: https://testflight.apple.com/join/8vRKFAiY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/68/db/f768dba9-2d36-ddf2-9c78-a9530689e533/XarthAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 29
+Beta Available: open
+Last Checked: 2024-06-05T08:58:11.860Z
+Categories:
+- Chat
+- Social Networking
+
+Name: MyWeight²
+Url: https://testflight.apple.com/join/tCFT6Kfr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/41/29/ce4129ee-7c2e-5d59-2eae-9a36f519de03/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-05T08:58:11.891Z
+Categories:
+
+
+Name: Xade Finance
+Url: https://testflight.apple.com/join/ppdLa9dl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/7d/e5/fe7de52b-1343-e7ac-9d2e-ffcc4240b49b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-05T08:58:11.919Z
+Categories:
+
+
+Name: eSchoool
+Url: https://testflight.apple.com/join/LopTn7zc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/65/fa/0b/65fa0b6d-8259-9461-c6c7-b6c05b04b8dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-05T08:58:11.947Z
+Categories:
+
+
+Name: Apollo
+Url: https://testflight.apple.com/join/5oPNS4nn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/b0/d1/14b0d11a-d55b-afa3-369a-af750e392700/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 12
+Beta Available: error
+Last Checked: 2024-06-05T08:58:11.976Z
+Categories:
+
+
+Name: Microsoft 365 (Office)
+Url: https://testflight.apple.com/join/eHAKJBtM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/3e/af/263eaf22-5fd0-cc25-5945-96ab8fe3a789/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-05T08:58:12.004Z
+Categories:
+
+
+Name: Giftr - GIF Maker
+Url: https://testflight.apple.com/join/eyZbAhlV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/df/41/acdf415f-99a9-c35b-4b37-8d115647dd89/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-512MB-85-220-0.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-05T08:58:12.033Z
+Categories:
+
+
+Name: DR Expense Tracker
+Url: https://testflight.apple.com/join/pqWTpKCY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/63/e4/b063e404-5ab9-5f7f-b01a-34b760bb98aa/AppIcon-0-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-05T08:58:12.061Z
+Categories:
+
+
+Name: Gamery - Game Tracker
+Url: https://testflight.apple.com/join/va16ipuj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/f5/5c/aaf55cef-6c5d-e073-e8fd-0c152172bc1f/AppIcon-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 29
+Beta Available: open
+Last Checked: 2024-06-05T08:58:12.089Z
+Categories:
+- Games
+
+Name: Disney DLP Preview
+Url: https://testflight.apple.com/join/b6bWpoHB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/76/f3/25/76f325a7-1259-72f4-b46a-880e0aa855ca/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 42
+Beta Available: open
+Last Checked: 2024-06-05T08:58:12.117Z
+Categories:
+
+
+Name: Hookymia
+Url: https://testflight.apple.com/join/Myp9NrwZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/95/90/c6959005-ed86-5fce-7200-790d648ba4f5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-05T08:58:12.145Z
+Categories:
+
+
