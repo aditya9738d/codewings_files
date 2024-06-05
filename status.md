@@ -5965,3 +5965,120 @@ Last Checked: 2024-06-05T11:57:11.559Z
 Categories:
 
 
+Name: a-Shell mini
+Url: https://testflight.apple.com/join/REdHww5C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/68/5b/74/685b7479-0933-aef4-8002-8a8285fc8c3b/AppIcon-mini-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.430Z
+Categories:
+
+
+Name: KareKimlik-PiLoT
+Url: https://testflight.apple.com/join/nLFmTF3Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ed/42/74/ed4274ab-ea64-1f3d-81f6-d2230f2c1bab/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.458Z
+Categories:
+
+
+Name: ETHOS.PLUS
+Url: https://testflight.apple.com/join/O8aJHZhE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/70/ba/3f/70ba3fcf-4353-d807-13b1-3fcd28798cf9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.486Z
+Categories:
+
+
+Name: Movavi: Photo & Video Editor
+Url: https://testflight.apple.com/join/Fbqgk7Fv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/5b/49/825b49a6-a950-3348-17ea-58fc75d5bc5f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.515Z
+Categories:
+
+
+Name: HondaTouch
+Url: https://testflight.apple.com/join/SlTAvT7i
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/25/4b/37254bf9-2837-77d4-19da-16c31ebc3224/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.542Z
+Categories:
+
+
+Name: JSTCC
+Url: https://testflight.apple.com/join/wHWkBbHw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/9b/b3/3a9bb342-0aa8-9530-e94f-872a183924d1/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.571Z
+Categories:
+
+
+Name: phizlive
+Url: https://testflight.apple.com/join/uBmt7vKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/98/e1/8e98e16e-4ae9-4900-f670-e0bbd9960572/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.599Z
+Categories:
+
+
+Name: AdGuard  — adblock&privacy
+Url: https://testflight.apple.com/join/PMfu4nmW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/dc/4b/eedc4b4e-4c5f-cb70-5d72-e8737d751c6c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.627Z
+Categories:
+
+
+Name: MyGOtv
+Url: https://testflight.apple.com/join/gXYXZLgF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/a6/9e/8ca69e53-b21d-baf2-e1c7-41782fad8d0f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.655Z
+Categories:
+
+
+Name: Mobox Wallet
+Url: https://testflight.apple.com/join/abV2hPXU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/55/c3/5055c34c-4d19-7bd1-5678-98c16323e530/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.683Z
+Categories:
+
+
+Name: MyCHIPs
+Url: https://testflight.apple.com/join/5IP35ipV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/40/c3/7d40c358-d097-ba7d-370a-1635f5419ac9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.712Z
+Categories:
+
+
+Name: Connectcz
+Url: https://testflight.apple.com/join/ScBdVqMB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/71/5b/19715bf0-4c39-bdd2-fdcc-9adfa96d6665/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.740Z
+Categories:
+
+
+Name: shanglifetest
+Url: https://testflight.apple.com/join/9c3C2Nz6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/de/9a/26/de9a269e-0943-db8d-b8b6-01515d60f3fe/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:58:14.768Z
+Categories:
+
+
