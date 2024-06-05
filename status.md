@@ -1870,3 +1870,120 @@ Last Checked: 2024-06-05T20:04:13.222Z
 Categories:
 
 
+Name: Niantic Wayfarer
+Url: https://testflight.apple.com/join/VXu1F2jf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/84/b9/26/84b9268a-f1e1-7fa2-f00d-0a96390ba747/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.000Z
+Categories:
+
+
+Name: Eagle Eye Demo
+Url: https://testflight.apple.com/join/wP2BDFsk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/59/3d/e5593d98-b613-a1b5-4110-dc2333c9ce29/AppIcon-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.030Z
+Categories:
+
+
+Name: Ungdungsinhvien.com
+Url: https://testflight.apple.com/join/qdUjhQP7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/8c/9b/a88c9bd1-5390-b26e-9104-3fbbd39f302e/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.059Z
+Categories:
+
+
+Name: Notilify
+Url: https://testflight.apple.com/join/900xOXOk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/d4/f3/c8d4f32a-1444-1535-b1a7-2e71aa04257e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.088Z
+Categories:
+
+
+Name: CareAR Scan
+Url: https://testflight.apple.com/join/HTQEJaTk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/34/c0/a234c017-e189-8e0b-2382-9fe74efbe04c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.117Z
+Categories:
+
+
+Name: Hytech Gizmo
+Url: https://testflight.apple.com/join/XqAOyZXH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/ee/1d/2bee1d0e-3a23-0f93-54ed-6874371fde92/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.147Z
+Categories:
+
+
+Name: The New York Times
+Url: https://testflight.apple.com/join/gfiSREAr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/c3/aa/83c3aa44-db43-6ed7-3144-1b83272b1f95/release-app-icon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.175Z
+Categories:
+
+
+Name: TRViS
+Url: https://testflight.apple.com/join/yYBaAdqX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0d/38/5e/0d385e3b-1d4e-314a-c3cf-e8bd42ed1cdc/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.204Z
+Categories:
+
+
+Name: Microsoft PowerPoint
+Url: https://testflight.apple.com/join/a9Ef0N3g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/9e/e7/819ee73c-0a60-d490-d15a-1f322a604389/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.234Z
+Categories:
+
+
+Name: Remote Desktop Mobile Beta
+Url: https://testflight.apple.com/join/vkLIflUJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/1e/33/e21e33f0-7382-be66-dd11-06859cf799e7/AppIconBeta-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.263Z
+Categories:
+
+
+Name: Connect4Sports
+Url: https://testflight.apple.com/join/Q97cZPXd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/e5/87/6ee58775-c160-81ee-1d7f-78a9860c5892/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.292Z
+Categories:
+
+
+Name: Venuse
+Url: https://testflight.apple.com/join/VfusX5HL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/db/ff/8ddbff0c-c46d-b07b-dd24-50ae50f51623/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.322Z
+Categories:
+
+
+Name: Gold Fish Slots - Casino Games
+Url: https://testflight.apple.com/join/ITYHdhUt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/54/71/74/547174a3-6b96-e577-ec68-e20e4b604ad2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:05:22.352Z
+Categories:
+
+
