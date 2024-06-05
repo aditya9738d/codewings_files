@@ -10528,3 +10528,120 @@ Last Checked: 2024-06-05T12:40:25.588Z
 Categories:
 
 
+Name: WF-LINK
+Url: https://testflight.apple.com/join/pOGZfi8W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/de/a4/cddea433-0c25-523b-7316-34dc033d0aaa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:41:10.989Z
+Categories:
+
+
+Name: BURNLAB
+Url: https://testflight.apple.com/join/PhrpWqk9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5b/9f/99/5b9f9981-b5cf-28d9-45d7-24a3ca791690/AppIcon_burnlab-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:41:11.018Z
+Categories:
+
+
+Name: LittlebeeTrust
+Url: https://testflight.apple.com/join/JZZsSSHB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/42/0f5e4203-c621-6f90-b762-efe464b47839/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T12:41:11.046Z
+Categories:
+
+
+Name: Aurender Conductor V4
+Url: https://testflight.apple.com/join/Fsk9QFKX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/f9/49/fbf94965-4b2b-1a63-4ada-4679c6f3679e/AppIcon-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:41:11.075Z
+Categories:
+
+
+Name: Horse Of Legends - HOL
+Url: https://testflight.apple.com/join/LHUHLYG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ce/76/d9ce76c5-0335-f768-8934-3ab1c1901d69/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:41:11.104Z
+Categories:
+
+
+Name: Mentorbaik
+Url: https://testflight.apple.com/join/JfwiNZlP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/ad/7e/ccad7e4a-e9dc-642e-cf6b-ee6026e1184e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:41:11.133Z
+Categories:
+
+
+Name: ContactSafe2
+Url: https://testflight.apple.com/join/RtCJfLfa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/44/d4/4f44d461-9cc8-7537-178f-42549db0a89d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T12:41:11.162Z
+Categories:
+
+
+Name: Domain Pursuit
+Url: https://testflight.apple.com/join/b8L8zxw1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/37/1b/d6371b20-d7e0-6ca8-5f67-374e1920ed12/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T12:41:11.192Z
+Categories:
+
+
+Name: FluffyChat
+Url: https://testflight.apple.com/join/fhMtOXc0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e2/4c/28/e24c28e2-8d13-dc20-3b3f-5ef3bf95909e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:41:11.221Z
+Categories:
+
+
+Name: SAND: Sequencer for AUv3, MIDI
+Url: https://testflight.apple.com/join/AOjCW1IG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/d5/07/18d50728-f5e7-0b20-e1a6-d6441d5cfa46/AppIcon-PURPLE-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T12:41:11.249Z
+Categories:
+
+
+Name: Octopus Energy
+Url: https://testflight.apple.com/join/c9II11da
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/7d/d8/897dd86c-b8c0-ec2e-8c34-84b0a99870ac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:41:11.279Z
+Categories:
+
+
+Name: Tata AIA VAcademy
+Url: https://testflight.apple.com/join/K6cCscio
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/52/5b/ac525b72-5bd9-aa19-2b0c-52b507ed2aed/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:41:11.306Z
+Categories:
+
+
+Name: Hoctapnr
+Url: https://testflight.apple.com/join/bdsdvNqd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/f9/af/a5f9af9d-55c0-153f-231e-0435b6ebbf60/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:41:11.334Z
+Categories:
+
+
