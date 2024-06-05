@@ -16378,3 +16378,120 @@ Last Checked: 2024-06-05T22:15:23.328Z
 Categories:
 
 
+Name: Textastic Code Editor
+Url: https://testflight.apple.com/join/QdnuMySm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/5b/24/8f5b2471-de30-0f32-db2b-108325ea43b4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T22:16:11.234Z
+Categories:
+
+
+Name: Newslaundry
+Url: https://testflight.apple.com/join/pQpstpDK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/d6/8c/d5d68c43-f842-233b-f2fb-0e2e14e55cbf/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.268Z
+Categories:
+
+
+Name: Phira
+Url: https://testflight.apple.com/join/Y4lVszTN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/10/64/be106414-6732-1527-8b1e-d961e04fb1cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.304Z
+Categories:
+
+
+Name: Prana.io
+Url: https://testflight.apple.com/join/JDZDY79Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/05/39/e405394c-477f-e576-0efb-98fd59d96468/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.340Z
+Categories:
+
+
+Name: Anime boxes
+Url: https://testflight.apple.com/join/8U7wjAiP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/7d/b8/c37db82f-90dc-5a26-985c-08d666eb4a2e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 15
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.374Z
+Categories:
+
+
+Name: Snowpack VIPN
+Url: https://testflight.apple.com/join/oFvpDxPL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/4d/61/4d4d614a-9587-6aa3-8270-5abf5b74f917/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.410Z
+Categories:
+
+
+Name: Microsoft Translator
+Url: https://testflight.apple.com/join/xOWLmqjv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f0/4d/aa/f04daaef-14ba-5f12-e548-13139c2db702/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.445Z
+Categories:
+
+
+Name: KastlePresence
+Url: https://testflight.apple.com/join/meWAMyDv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/64/15/a66415ff-e99d-a6f1-d77f-0e90c9460850/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.480Z
+Categories:
+
+
+Name: SILKWELL CO
+Url: https://testflight.apple.com/join/pKUmx9h4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/e7/9a/2de79af8-b1f6-f0ce-e86c-8fe69a6a5135/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.516Z
+Categories:
+
+
+Name: Shared Grocery Shopping List
+Url: https://testflight.apple.com/join/3Htu8ruM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/6a/e7/376ae792-e6b6-3719-8357-f1daf70f90f5/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.551Z
+Categories:
+
+
+Name: IBIT Pro
+Url: https://testflight.apple.com/join/weLede8L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/32/47/fc324722-9c25-9c48-5b79-5eb4e9f1c531/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.585Z
+Categories:
+
+
+Name: Pictographs - Beta
+Url: https://testflight.apple.com/join/rvfhXXd3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/05/cd/b205cd38-9839-7e97-8edf-511d03012208/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.622Z
+Categories:
+
+
+Name: Watsons TH
+Url: https://testflight.apple.com/join/F1V91NOb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e5/a9/4d/e5a94d3a-4dc4-d3ef-7de2-d0cf14b8a135/AppIcon-TH-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T22:16:11.657Z
+Categories:
+
+
