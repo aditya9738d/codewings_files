@@ -12700,3 +12700,126 @@ Last Checked: 2024-06-05T08:45:28.766Z
 Categories:
 
 
+Name: Metro Staging
+Url: https://testflight.apple.com/join/0jTIOXG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/c6/80/68c68013-d69d-bdf3-e406-68e2b12425a7/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-05T08:46:14.047Z
+Categories:
+
+
+Name: Swiggy Food, Grocery & Dineout
+Url: https://testflight.apple.com/join/IERuiSEL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/21/ad/e2/21ade2f8-1708-3622-97ec-f1dc19a0fc25/AppIcon_testflight-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-05T08:46:14.083Z
+Categories:
+- Food
+- Shopping
+- Utility
+- Food
+- Shopping
+
+Name: RoQoL
+Url: https://testflight.apple.com/join/53H1QbUr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/1c/2d/ae1c2ddc-f499-cc04-a39b-419e05ef0b44/AppIcon-1x_U007emarketing-0-7-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-05T08:46:14.117Z
+Categories:
+
+
+Name: Misty lite
+Url: https://testflight.apple.com/join/cKNtU9TX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/fe/bc/8ffebc0d-8def-a955-fec1-4a8b724bcf9c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-05T08:46:14.152Z
+Categories:
+
+
+Name: Magic Tiles 3: Piano Game
+Url: https://testflight.apple.com/join/NTu06NVE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/8f/5c/a58f5cd8-35b4-3da3-34ef-09bdfbae3841/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-05T08:46:14.187Z
+Categories:
+- Games
+
+Name: Camera Companion BETA
+Url: https://testflight.apple.com/join/z18Ngj0N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/1e/3c/3b1e3ce7-e0b2-67d3-ec12-c833ebef3b0c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-05T08:46:14.222Z
+Categories:
+
+
+Name: Big Mail
+Url: https://testflight.apple.com/join/wboU3bTt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/d4/55/2ad455dc-7a1f-c26a-2f82-dd1038cecbc4/AppIcon-0-1x_U007emarketing-0-3-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 59
+Beta Available: full
+Last Checked: 2024-06-05T08:46:14.257Z
+Categories:
+- Chat
+- Email & Calandar
+- Utility
+
+Name: Hunters On-Chain
+Url: https://testflight.apple.com/join/mnB642dv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/30/f9/9730f9c0-07f9-6869-5d33-a331261d3557/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T08:46:14.292Z
+Categories:
+- Games
+
+Name: Egern
+Url: https://testflight.apple.com/join/AzU6kAzX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/4b/b6/cf4bb6c7-cc64-ecf6-83b4-673c5aaa7ded/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 126
+Beta Available: full
+Last Checked: 2024-06-05T08:46:14.327Z
+Categories:
+
+
+Name: AstreOS
+Url: https://testflight.apple.com/join/ZsGh6uYD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/b2/ba/02b2bad9-bec8-a36d-544b-8c77c659e6e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 38
+Beta Available: open
+Last Checked: 2024-06-05T08:46:14.362Z
+Categories:
+
+
+Name: QQ
+Url: https://testflight.apple.com/join/R5FNGUl3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c7/74/acc7744b-e38d-5cee-d585-622f1983699c/AppIcon-1-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 44
+Beta Available: open
+Last Checked: 2024-06-05T08:46:14.397Z
+Categories:
+
+
+Name: eufy Clean (EufyHome)
+Url: https://testflight.apple.com/join/ABaSUurE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/83/0c/7b830c86-020e-1748-6967-b736b05d76a2/AppIcon-all-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:46:14.432Z
+Categories:
+
+
+Name: Cinema Time
+Url: https://testflight.apple.com/join/prtbcetS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/6c/a3/886ca376-f279-5890-dcdf-04dccfbeac69/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 40
+Beta Available: open
+Last Checked: 2024-06-05T08:46:14.468Z
+Categories:
+
+
