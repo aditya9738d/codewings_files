@@ -23840,3 +23840,120 @@ Last Checked: 2024-06-05T19:04:13.764Z
 Categories:
 
 
+Name: FleksySDK Staging
+Url: https://testflight.apple.com/join/zOZEBpQ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4b/ba/64/4bba642a-c8cc-681f-6772-e8057d3d4e9f/AppIcon-Staging-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.364Z
+Categories:
+
+
+Name: Kasa Smart
+Url: https://testflight.apple.com/join/AvhWfwqs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/06/3a/34063a32-5388-507c-e3f6-c0c49fdabf4b/KasaAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.400Z
+Categories:
+
+
+Name: D2C AR App
+Url: https://testflight.apple.com/join/watR3OOS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/0a/09/aa0a09a7-a6d6-618b-8f25-e53e055f8c61/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.436Z
+Categories:
+
+
+Name: Tactic Legends
+Url: https://testflight.apple.com/join/OnRQLDUN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/f7/0f/d1f70f9e-8d73-e40d-6209-bff50b752a2c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.471Z
+Categories:
+
+
+Name: The CHAMP Plan
+Url: https://testflight.apple.com/join/ktFCgVLx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1c/62/aa1c6286-ae2d-6401-1f3d-3a88ab009787/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.507Z
+Categories:
+
+
+Name: ScaleSmith (BS Magic)
+Url: https://testflight.apple.com/join/488x1Sk4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0b/96/bf/0b96bfe0-3063-0ef7-daf8-ce73fcfb673a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.542Z
+Categories:
+
+
+Name: Flamingo Dating
+Url: https://testflight.apple.com/join/nXXHuaiX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/d8/58/bcd8582c-cd40-f1e2-ad35-241e2ab96b6d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.577Z
+Categories:
+
+
+Name: Exxar Huddle
+Url: https://testflight.apple.com/join/9eFpiPaZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/bc/b3/f4bcb31b-7f7d-27c3-c3e6-096f6b655a43/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.614Z
+Categories:
+
+
+Name: Reoqoo
+Url: https://testflight.apple.com/join/nYpiuvD4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c4/15/7dc415f6-b2d9-f373-9ca1-e963571e1851/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.650Z
+Categories:
+
+
+Name: Loco: Live Game Streaming
+Url: https://testflight.apple.com/join/KBJzjxSJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/d4/eb/72d4eb02-83a9-096d-5864-1941a1fe2f0d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.686Z
+Categories:
+
+
+Name: Strum Machine Beta
+Url: https://testflight.apple.com/join/eabHfWMa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/de/b9/e9/deb9e92d-3cf1-e7aa-bf9e-8189a6e0672d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.721Z
+Categories:
+
+
+Name: Maestro App
+Url: https://testflight.apple.com/join/uYJrBSSz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c0/b6/fb/c0b6fbb4-c638-5c1b-f202-dc4aebd68ab3/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.757Z
+Categories:
+
+
+Name: Paytm-PG
+Url: https://testflight.apple.com/join/oeXnj05q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/21/8b/ae/218baec0-9c5a-32ee-1e07-fbb9eccd18f3/AppIconPaytmAll-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:06:12.793Z
+Categories:
+
+
