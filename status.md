@@ -4327,3 +4327,120 @@ Last Checked: 2024-06-05T07:29:09.281Z
 Categories:
 
 
+Name: Renaissance Kingdoms
+Url: https://testflight.apple.com/join/KkFL0EvO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/12/5c/42125ce9-34cf-424f-5f5f-d94dcba8da82/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T07:30:45.818Z
+Categories:
+
+
+Name: Renogy Diagnosis
+Url: https://testflight.apple.com/join/vmZcpfaL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/8a/83/ae8a8382-4340-a744-7642-8eb4958c32c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:30:45.853Z
+Categories:
+
+
+Name: RentalBuddy
+Url: https://testflight.apple.com/join/E6dkYz1A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/0d/3d/620d3dc9-1ca3-8bc2-9a71-6eef556a69b6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:30:45.888Z
+Categories:
+
+
+Name: Reolink
+Url: https://testflight.apple.com/join/vrJKodta
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/a7/84/dda78450-4a59-d687-cfcc-f964086f3da9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T07:30:45.924Z
+Categories:
+
+
+Name: Repay Digital Banking
+Url: https://testflight.apple.com/join/haJu53wJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/bd/5f/62bd5f7d-7935-4297-9152-834df247a9b4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-05T07:30:45.959Z
+Categories:
+
+
+Name: Resecurity
+Url: https://testflight.apple.com/join/cE8fyxdw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/d3/a1/6ad3a123-d358-6fad-6306-590fea0e162c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T07:30:45.994Z
+Categories:
+
+
+Name: ResidentScreen
+Url: https://testflight.apple.com/join/1j2zTwc5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c9/c5/e2/c9c5e211-e46e-23e8-365e-5c2a5fdaa293/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:30:46.029Z
+Categories:
+
+
+Name: Retro Wallet
+Url: https://testflight.apple.com/join/n71vOGwl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/c8/1f/10c81f28-2001-706b-902b-bd96e00f2c20/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:30:46.064Z
+Categories:
+
+
+Name: Retrospecs
+Url: https://testflight.apple.com/join/Nj54Pufb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/6b/46/3a6b469c-004e-5bf2-07f3-5b16fdb633d4/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T07:30:46.099Z
+Categories:
+
+
+Name: Rhema Journal
+Url: https://testflight.apple.com/join/Fg8mhlTe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/df/59/44df5911-a3b1-7b1e-eeed-6e387511c64f/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:30:46.135Z
+Categories:
+
+
+Name: Rhythm*IZ
+Url: https://testflight.apple.com/join/3gpsI6wD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/a3/8c/cba38c11-1397-3b4b-5e99-de139d6558f7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:30:46.171Z
+Categories:
+
+
+Name: RioPlay
+Url: https://testflight.apple.com/join/9EA54Av9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/11/70/62/11706237-c261-3186-3d29-0c43ae8ca4ad/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T07:30:46.206Z
+Categories:
+
+
+Name: Rituals - Routines and Lists
+Url: https://testflight.apple.com/join/ipCf7rIu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/00/fe/c000fe98-0ee1-6b4f-6f52-ef99fb2aef3d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:30:46.241Z
+Categories:
+
+
