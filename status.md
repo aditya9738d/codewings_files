@@ -7837,3 +7837,120 @@ Last Checked: 2024-06-05T08:02:10.491Z
 Categories:
 
 
+Name: WoWs Info Future
+Url: https://testflight.apple.com/join/685rpJS8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/11/1d/bc111dba-d448-2e81-f064-a0017a8b2f07/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:03:09.294Z
+Categories:
+
+
+Name: Women'secret
+Url: https://testflight.apple.com/join/eZR4aiJY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/43/c0/8043c0fa-e740-9f72-19fd-9d500b30c102/AppIcon-1x_U007ephone-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:03:09.329Z
+Categories:
+
+
+Name: Wonderwake: Gentle Alarm Clock
+Url: https://testflight.apple.com/join/5yUkUQRe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0b/db/a9/0bdba9e5-2ed4-cd43-f289-55022ade3099/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:03:09.365Z
+Categories:
+
+
+Name: Woopdo
+Url: https://testflight.apple.com/join/eqcSqwuI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9d/db/509ddb1b-8523-c2c2-6735-5919fbefc38d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:03:09.400Z
+Categories:
+
+
+Name: Wordy Word Picker
+Url: https://testflight.apple.com/join/dUfJ3mdV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/f0/74/fef074b0-7a1a-576c-535a-442e7827a00f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:03:09.436Z
+Categories:
+
+
+Name: WorkForce Dev
+Url: https://testflight.apple.com/join/C0oKDMB9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/a6/fc/b9a6fc1e-1e50-9a79-4112-271e49f44e82/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:03:09.472Z
+Categories:
+
+
+Name: WorkHR
+Url: https://testflight.apple.com/join/2oZXcpEQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f5/c3/6f/f5c36f8c-a8de-49fc-ce7a-11af8060eeee/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:03:09.508Z
+Categories:
+
+
+Name: Working Hours 4b
+Url: https://testflight.apple.com/join/FtzoFkE8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/2e/32/872e323d-2b50-e447-5277-e7aeec18594c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:03:09.544Z
+Categories:
+
+
+Name: WorkoutGPT
+Url: https://testflight.apple.com/join/Gnj7iziU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/c8/3d/d2c83dc5-3ea6-286c-0ca2-69f3bd415bfe/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:03:09.581Z
+Categories:
+
+
+Name: Workspot
+Url: https://testflight.apple.com/join/gKTd3iFb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2e/b3/9a2eb396-92d4-21f3-b63a-0ea8ff9a3674/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:03:09.617Z
+Categories:
+
+
+Name: World Reborn
+Url: https://testflight.apple.com/join/nxPJzyDe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/b3/8a/65b38ace-c961-0273-3780-91f8c6b6219b/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:03:09.652Z
+Categories:
+
+
+Name: Wugo: discover local events
+Url: https://testflight.apple.com/join/bkCQOX3i
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/2e/85/992e851b-deae-c173-74d6-8aced74a05f6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:03:09.688Z
+Categories:
+
+
+Name: WunderLINQ GoPro Remote
+Url: https://testflight.apple.com/join/lIl1Uamg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/bd/08/febd087d-d550-ced8-f593-938a8cbe86e7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:03:09.724Z
+Categories:
+
+
