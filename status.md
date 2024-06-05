@@ -4444,3 +4444,120 @@ Last Checked: 2024-06-05T20:28:14.839Z
 Categories:
 
 
+Name: iV2EX
+Url: https://testflight.apple.com/join/LvKIxl69
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/6f/51/126f5177-2ecd-f427-77cf-0321cc1249e7/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T20:29:12.771Z
+Categories:
+
+
+Name: Everand: Ebooks and audiobooks
+Url: https://testflight.apple.com/join/hJZY2QeX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/1a/b9/d21ab996-a849-894c-966e-e243fd576046/Everand-beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T20:29:12.799Z
+Categories:
+
+
+Name: Secolink Pro
+Url: https://testflight.apple.com/join/5rvPhg4s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/ad/8c/a2ad8c07-5cf0-cbad-bc1d-6a0385152a1f/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-05T20:29:12.827Z
+Categories:
+
+
+Name: My MTG Collection
+Url: https://testflight.apple.com/join/QzRFLcGW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/92/96/2d/92962d39-4326-eb12-1c67-89231f8e9481/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:29:12.855Z
+Categories:
+
+
+Name: SuperFan
+Url: https://testflight.apple.com/join/4K5j8EXQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/4d/32/554d3259-2f32-69fd-c4f9-9f283f6b159d/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:29:12.884Z
+Categories:
+
+
+Name: Givamaze (Dev)
+Url: https://testflight.apple.com/join/yXsSCmuy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/8e/de/b98edefa-1da6-367a-3918-4ae8885adaf2/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:29:12.912Z
+Categories:
+
+
+Name: ntv Nachrichten
+Url: https://testflight.apple.com/join/n65TDvGb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/da/ec/97daec47-44f5-6c4e-1539-80f21f003edd/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:29:12.939Z
+Categories:
+
+
+Name: MP CRM
+Url: https://testflight.apple.com/join/NqTN0JgK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/16/d8/35/16d8356a-298c-27c8-772d-5b2219f3a05f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:29:12.968Z
+Categories:
+
+
+Name: HelloFresh: Meal Kit Delivery
+Url: https://testflight.apple.com/join/zwhJ2o6f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/ab/12/e2ab124a-d2e9-cc7a-5d5d-b8907babefe5/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:29:12.996Z
+Categories:
+
+
+Name: Doppi: the nicest music player
+Url: https://testflight.apple.com/join/eMHoOSsL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/aa/31/23aa313a-e09e-6abf-8c9b-976d7d684667/AppIcon-0-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:29:13.024Z
+Categories:
+
+
+Name: Unicorn Pro:Privacy & Adblock
+Url: https://testflight.apple.com/join/Lr1vIu8x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/ae/2d/9eae2d24-6680-6e16-ee20-069d4687fc18/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:29:13.052Z
+Categories:
+
+
+Name: Crisp
+Url: https://testflight.apple.com/join/EiqYmhki
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/c9/44/7ac9444c-be6f-bfe8-56f4-8f640af13ca5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:29:13.108Z
+Categories:
+
+
+Name: UB UAT
+Url: https://testflight.apple.com/join/qVpMqG8k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/cb/53/b7cb532b-30a1-960e-1334-2fdcf5e6eed4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:29:13.136Z
+Categories:
+
+
