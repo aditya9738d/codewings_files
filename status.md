@@ -3040,3 +3040,120 @@ Last Checked: 2024-06-05T11:30:47.106Z
 Categories:
 
 
+Name: moldcell money uat
+Url: https://testflight.apple.com/join/rgL38qI6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/43/5d/e2435d65-fe43-abc6-ac59-4853610ff29a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:31:10.659Z
+Categories:
+
+
+Name: Hatcher - Match 3 Bubble Blitz
+Url: https://testflight.apple.com/join/pD8iHutN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/38/4f/45384f60-0028-d068-33e8-734c2dcbd8c0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:31:10.695Z
+Categories:
+
+
+Name: Winamp
+Url: https://testflight.apple.com/join/wZcYMPaN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/e4/3b/f9e43b3e-3fec-431e-c837-a3db9496f0b9/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T11:31:10.731Z
+Categories:
+
+
+Name: Honor Health
+Url: https://testflight.apple.com/join/DYuCLcQh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/76/02/b9760237-f178-7daa-6ef7-ef87355c82fe/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:31:10.768Z
+Categories:
+
+
+Name: KSBank UAT
+Url: https://testflight.apple.com/join/q9iyx0PY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/43/e0/7543e0b2-bb9e-85cb-1aab-82dc365fc2aa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:31:10.804Z
+Categories:
+
+
+Name: OSE Banfi STAGE
+Url: https://testflight.apple.com/join/6eY2iqjt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/bb/e5/e6bbe5e8-7a7a-4d75-cd66-353ac010e838/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:31:10.840Z
+Categories:
+
+
+Name: MTS Xpress
+Url: https://testflight.apple.com/join/oiqFKcb7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/59/9e/e4/599ee4ba-807e-b2bf-7893-3076f0585f86/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T11:31:10.875Z
+Categories:
+
+
+Name: iHRP QA
+Url: https://testflight.apple.com/join/FY2xNTcv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/35/2a/88352a69-74c7-3fcd-71ef-b56dd3f3a9a7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:31:10.912Z
+Categories:
+
+
+Name: AEON Rohas UAT
+Url: https://testflight.apple.com/join/xyKrvf9m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/94/33/ff943309-fc1e-7c30-6360-bff0ef4c8981/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:31:10.948Z
+Categories:
+
+
+Name: PRESTO
+Url: https://testflight.apple.com/join/nrw6ENok
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/f9/bc/a1f9bc6a-7bd7-a79c-1a58-1d5c29fefc49/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:31:10.985Z
+Categories:
+
+
+Name: OneMeter
+Url: https://testflight.apple.com/join/xFdpjcCr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/37/f5/0537f50d-4863-9749-6833-e6c7db429ad5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:31:11.021Z
+Categories:
+
+
+Name: Pulse Ispu
+Url: https://testflight.apple.com/join/HeHMNmF9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/2f/40/e62f4048-c14b-c0da-95c9-f07e02fc4240/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:31:11.057Z
+Categories:
+
+
+Name: DBOE
+Url: https://testflight.apple.com/join/txpR5LQT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/d1/52/efd15217-c9fc-d031-cf3d-c28967e57195/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T11:31:11.093Z
+Categories:
+
+
