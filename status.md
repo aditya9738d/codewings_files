@@ -700,3 +700,120 @@ Last Checked: 2024-06-05T19:54:13.828Z
 Categories:
 
 
+Name: NYC Connect Call
+Url: https://testflight.apple.com/join/kme6IlBV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/a6/ea/c2a6eac7-c428-7c33-773c-bb896ad87bff/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-05T19:55:20.768Z
+Categories:
+
+
+Name: Shinobi Go
+Url: https://testflight.apple.com/join/xdFGvw71
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/b1/ed/37b1ed20-7e2f-816f-5a31-c57f2042147f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:55:20.796Z
+Categories:
+
+
+Name: BAMS CONNECT
+Url: https://testflight.apple.com/join/aJuNytbY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/86/dc/0286dc21-9c05-3b78-4e15-fc72bd2bdaa1/AppIcon3-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:55:20.823Z
+Categories:
+
+
+Name: Recco Showcase
+Url: https://testflight.apple.com/join/6gAcLQtf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6c/3f/ca/6c3fca0d-0e6d-6de4-db93-56e64294cd42/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:55:20.851Z
+Categories:
+
+
+Name: Threaded for Mastodon
+Url: https://testflight.apple.com/join/zepqQW1Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/21/ed/9e21ede2-adee-6adc-7ec9-8cd77a3ac39c/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T19:55:20.879Z
+Categories:
+
+
+Name: Bahnfinder
+Url: https://testflight.apple.com/join/ApOg97KB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/a3/bb/18a3bb2b-75d8-eddb-df52-6638def0a67d/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:55:20.908Z
+Categories:
+
+
+Name: LTS X Cloud
+Url: https://testflight.apple.com/join/cd0TOwaA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6f/c9/27/6fc927b7-2066-4c2c-2dc9-dd8124de52d5/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:55:20.935Z
+Categories:
+
+
+Name: Neuro Goal
+Url: https://testflight.apple.com/join/U3XgZKM9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/96/0e/da960e33-6cb0-595f-29b7-8d9efae9ac91/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:55:20.963Z
+Categories:
+
+
+Name: Simple Pay Global
+Url: https://testflight.apple.com/join/Y8z5REP2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/af/6e/eaaf6ea2-a420-51b2-b760-5383c27c6515/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:55:20.991Z
+Categories:
+
+
+Name: SierraBooks Invoices
+Url: https://testflight.apple.com/join/KZx6AD22
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/af/c4/54afc4e5-8b09-19b9-0579-6cf8b88711fb/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T19:55:21.019Z
+Categories:
+
+
+Name: Gibber - Communicate, Easily
+Url: https://testflight.apple.com/join/JbcYsfUF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/b6/e8/d7b6e87d-9500-7bd3-e2e4-d81408bef5de/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:55:21.047Z
+Categories:
+
+
+Name: My Friendly Eyes
+Url: https://testflight.apple.com/join/6dtvM8cp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/21/96/7f2196fc-7394-ebfe-fb96-03e804a79f24/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:55:21.075Z
+Categories:
+
+
+Name: Elloro – Mindshift & Wellness
+Url: https://testflight.apple.com/join/46vnnSnh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/c7/6a/6fc76a20-3dc9-a736-7967-2c292ac4bb12/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T19:55:21.103Z
+Categories:
+
+
