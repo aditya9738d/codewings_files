@@ -17990,3 +17990,120 @@ Last Checked: 2024-06-05T18:12:15.004Z
 Categories:
 
 
+Name: OpenEarable
+Url: https://testflight.apple.com/join/Kht3e1Cb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/52/38/b05238a2-a708-5f80-48d4-0d7eaa38cce5/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:14:14.295Z
+Categories:
+
+
+Name: Diane
+Url: https://testflight.apple.com/join/zSpWn6S0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/37/db/3b37db70-8ffe-a54e-fcc6-c4f13fd8082c/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:14:14.330Z
+Categories:
+
+
+Name: LK8386
+Url: https://testflight.apple.com/join/UxJHV2an
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/07/2d/df072d3a-d879-0266-675d-8028b82d65f9/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-05T18:14:14.365Z
+Categories:
+
+
+Name: InterPals
+Url: https://testflight.apple.com/join/yZMcGPCc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/c2/b0/14c2b09d-6673-4203-8f3c-3ff83fef2bdb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:14:14.400Z
+Categories:
+
+
+Name: Malwarebytes - Mobile Security
+Url: https://testflight.apple.com/join/3jvaSuyE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/6d/0d/fb6d0d80-026f-5273-b210-7d30e6e03485/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T18:14:14.435Z
+Categories:
+
+
+Name: MY ASSET - MIRAE ASSET(VN)
+Url: https://testflight.apple.com/join/1cImTeaT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/03/6f/e8036fa6-ad1b-6950-5b46-d83bc0120f1c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:14:14.471Z
+Categories:
+
+
+Name: Dubbing AI Voice Changer
+Url: https://testflight.apple.com/join/LX9ho2sb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/d8/67/8ad86711-efb6-570a-ef7a-d2ead3965684/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T18:14:14.506Z
+Categories:
+
+
+Name: LeesSimpel
+Url: https://testflight.apple.com/join/Y4wmUcGd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/f5/01/def5010f-b2da-3471-e74d-04d49e3083f8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:14:14.543Z
+Categories:
+
+
+Name: WordFlower
+Url: https://testflight.apple.com/join/eF9Rl4sc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/7c/85/e77c85ee-1965-bb12-a9c2-f72f71453089/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:14:14.578Z
+Categories:
+
+
+Name: CalcMate - notes calculator
+Url: https://testflight.apple.com/join/0TqHQ8Kj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a4/b5/37/a4b537e4-5d4a-0d3c-9afe-50ac042146bd/AppIconBeta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:14:14.613Z
+Categories:
+
+
+Name: LinkTrade Pro
+Url: https://testflight.apple.com/join/43hD6Qlc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b6/0f/b0b60f9c-032c-289b-29af-b4f795a4f9d9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:14:14.649Z
+Categories:
+
+
+Name: Sveriges Radio Play
+Url: https://testflight.apple.com/join/JdU1hU1C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/7f/af/ca7faf5e-d910-9e4e-ac6e-0a1ac3df0123/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:14:14.686Z
+Categories:
+
+
+Name: Salesforce
+Url: https://testflight.apple.com/join/PdNDqlHt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/df/f4/0cdff4e4-46de-258a-bdb5-d328c97a3963/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:14:14.721Z
+Categories:
+
+
