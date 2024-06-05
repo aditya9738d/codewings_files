@@ -24919,3 +24919,120 @@ Last Checked: 2024-06-05T06:16:10.927Z
 Categories:
 
 
+Name: CloudClip
+Url: https://testflight.apple.com/join/pYrj28b4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/03/6b/e8036b88-788a-5f82-07bc-48b0d5eba331/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:17:09.041Z
+Categories:
+
+
+Name: Clump
+Url: https://testflight.apple.com/join/OqDBfh4J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/46/54/5c/46545cef-f757-68b7-d34a-7966dd663847/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:17:09.069Z
+Categories:
+
+
+Name: CoCoRaHS
+Url: https://testflight.apple.com/join/IfvoZAx5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7b/55/dc/7b55dc32-c6f3-e539-f8d8-10a8276fe2bb/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:17:09.098Z
+Categories:
+
+
+Name: CoachRx
+Url: https://testflight.apple.com/join/slabzPHS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6e/93/7a/6e937aba-2f01-e240-f420-08a99c68c660/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:17:09.126Z
+Categories:
+
+
+Name: Cobo Guard Dev
+Url: https://testflight.apple.com/join/pcSF46JK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/bd/fe/87bdfe06-6e2b-7ea7-3ba3-c47167b09fc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:17:09.154Z
+Categories:
+
+
+Name: Cocoon - Mental
+Url: https://testflight.apple.com/join/XvLuW7wj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/32/2c/b7322c47-907f-d3b9-9cce-9ab341987215/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:17:09.183Z
+Categories:
+
+
+Name: CodeFrame
+Url: https://testflight.apple.com/join/R14bEW1V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7f/af/70/7faf708b-8d00-2a73-fce2-ca90e8ee48ac/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:17:09.211Z
+Categories:
+
+
+Name: CodeMenu - Snippets manager
+Url: https://testflight.apple.com/join/CHkcKbLU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/00/a7/ab00a7af-e05c-ac9b-0ced-fd48986dcaa3/AppIcon-0-85-220-0-4-0-0-2x-0-0-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:17:09.239Z
+Categories:
+
+
+Name: CodeStar Testing
+Url: https://testflight.apple.com/join/BbAY1S8h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/ae/28/80ae28fa-c606-5b78-8f32-be19614fe1b4/AppIcon-1x_U007emarketing-0-10-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:17:09.267Z
+Categories:
+
+
+Name: Coffee Notes
+Url: https://testflight.apple.com/join/p51EEPOE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/20/26/e520267e-f473-93b4-6637-2d1ab7f45f79/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:17:09.295Z
+Categories:
+
+
+Name: Cogia Messenger
+Url: https://testflight.apple.com/join/7iubJ1Eq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/cb/8d/0ccb8dc3-c188-230c-92fb-a044ae02fc55/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:17:09.323Z
+Categories:
+
+
+Name: CoinW
+Url: https://testflight.apple.com/join/EnVxDqYN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/80/30/2c8030ab-cb8e-b8af-7070-c750c2778057/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:17:09.351Z
+Categories:
+
+
+Name: Colorfol : Vente de Musique
+Url: https://testflight.apple.com/join/njLMVbVO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5b/a0/98/5ba0989b-d173-5af1-2df6-e6468aee502f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:17:09.382Z
+Categories:
+
+
