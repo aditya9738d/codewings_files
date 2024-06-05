@@ -20707,3 +20707,120 @@ Last Checked: 2024-06-05T22:53:11.632Z
 Categories:
 
 
+Name: Wikimapia moblie maps
+Url: https://testflight.apple.com/join/lqDNqsAs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/e3/14/d6e3149c-8c62-8048-ba5b-3f42c6cced62/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.100Z
+Categories:
+
+
+Name: Color Pop AI - Coloring Book
+Url: https://testflight.apple.com/join/C73mVb2l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/8d/23/598d2352-eddb-0f94-2c14-2a5dded2bd65/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.135Z
+Categories:
+
+
+Name: Faysal DigiBank BETA
+Url: https://testflight.apple.com/join/2mCXeziY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b1/fb/9cb1fb04-fe0a-9cdc-b64e-2a4a3fd527d4/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.171Z
+Categories:
+
+
+Name: Castor: Movie Database
+Url: https://testflight.apple.com/join/Q570OQWk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/2e/cd/942ecddc-8522-b0ba-8a71-c6c8da21ca88/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.208Z
+Categories:
+
+
+Name: Bizvoice UC 2.0
+Url: https://testflight.apple.com/join/QU60rK1I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/30/9a/1a309a2a-8d85-4ef4-5224-2e28ade973c2/AppIcon-singtel-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.244Z
+Categories:
+
+
+Name: TytoCare
+Url: https://testflight.apple.com/join/XkQ0wygP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/73/51/7f735170-9951-c063-2f11-bcd7c1d436cd/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.281Z
+Categories:
+
+
+Name: Evolv Fit: Get Personal Coach
+Url: https://testflight.apple.com/join/sru5N6Fc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5d/4a/9e/5d4a9e6c-b2cb-e75b-6a6b-6e8e09eae576/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.317Z
+Categories:
+
+
+Name: Auto ModList
+Url: https://testflight.apple.com/join/2hLtgUdN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/0c/37/2d0c3722-a770-0f80-daa0-37759bed3747/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.353Z
+Categories:
+
+
+Name: Mercaso UAT
+Url: https://testflight.apple.com/join/PR1IENkc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c2/28/e0/c228e0a1-e39c-b018-11cb-e0ce4ea9115d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.389Z
+Categories:
+
+
+Name: aiwa wear
+Url: https://testflight.apple.com/join/8TOVMlwm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/84/20/348420c3-1dcb-3588-d435-57195b4da43e/AIWAIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.425Z
+Categories:
+
+
+Name: Hermannpost
+Url: https://testflight.apple.com/join/XpbGU0R8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/58/30/7a583048-96bf-4ba9-6241-55021d33b4e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.461Z
+Categories:
+
+
+Name: Zerodha Kite - Trade & Invest
+Url: https://testflight.apple.com/join/Z8a3CqcZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/98/a4/99/98a49943-0b47-5b7e-a036-0d4af8b6fd20/KiteAppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.497Z
+Categories:
+
+
+Name: CoScribes
+Url: https://testflight.apple.com/join/bCGrPgLb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/cd/41/72cd415d-631a-2918-8636-66d4b9a52f3b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:54:11.533Z
+Categories:
+
+
