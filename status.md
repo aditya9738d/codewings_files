@@ -14837,3 +14837,120 @@ Last Checked: 2024-06-05T09:03:11.950Z
 Categories:
 
 
+Name: HEAT APP Mining
+Url: https://testflight.apple.com/join/5VrmUlmj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9b/c6/fc/9bc6fcd8-23b6-abf9-dd4a-f51717cf4fd1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 30
+Beta Available: open
+Last Checked: 2024-06-05T09:04:11.494Z
+Categories:
+
+
+Name: SimpleX Chat: secure messenger
+Url: https://testflight.apple.com/join/DWuT2LQu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/93/3b/9c933b3c-ca56-0a76-371b-0ca5860e0224/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T09:04:11.521Z
+Categories:
+
+
+Name: Science of Reading
+Url: https://testflight.apple.com/join/sKBQlu0w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ca/bb/d9cabbc9-a9e6-0d2b-2ad4-e353030f51b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 55
+Beta Available: open
+Last Checked: 2024-06-05T09:04:11.548Z
+Categories:
+
+
+Name: VisionCode
+Url: https://testflight.apple.com/join/W7N1Vk9q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/d1/93/65d193c3-1760-b24f-2440-baf99dafe9bf/AppIcon.lsr/200x200bb-8.png
+Click Count: 73
+Beta Available: open
+Last Checked: 2024-06-05T09:04:11.575Z
+Categories:
+
+
+Name: Reach Infinity
+Url: https://testflight.apple.com/join/4rdyJbDf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/15/8a/00158ac0-6591-6dd1-74fc-663685284386/AppIcon.lsr/200x200bb-80.png
+Click Count: 119
+Beta Available: open
+Last Checked: 2024-06-05T09:04:11.603Z
+Categories:
+
+
+Name: Heat — Ask Anything
+Url: https://testflight.apple.com/join/AX9JftGk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/b6/4d/eab64d1a-4076-2d3a-5f64-348e78fb62b3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T09:04:11.643Z
+Categories:
+
+
+Name: DriverApp Dev
+Url: https://testflight.apple.com/join/VPSg1dyq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/80/f7/da80f73b-a97e-00ec-dab8-dcb2305f92cc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 111
+Beta Available: open
+Last Checked: 2024-06-05T09:04:11.670Z
+Categories:
+
+
+Name: fortitude
+Url: https://testflight.apple.com/join/IO9jqeaB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e3/91/71e391bd-2bb3-78e1-a2b2-dea1e795094c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 106
+Beta Available: open
+Last Checked: 2024-06-05T09:04:11.697Z
+Categories:
+
+
+Name: Hyena VPN-secure & fast
+Url: https://testflight.apple.com/join/zRvqNj4y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a5/d9/9ba5d9e8-4c90-47ae-1ac1-f7cc954172e1/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: error
+Last Checked: 2024-06-05T09:04:11.725Z
+Categories:
+
+
+Name: Waydger
+Url: https://testflight.apple.com/join/xckrvkWD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/a9/1d/66a91d24-15ab-9cba-63d0-2444a8e82e6d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 67
+Beta Available: error
+Last Checked: 2024-06-05T09:04:11.753Z
+Categories:
+
+
+Name: Poolview
+Url: https://testflight.apple.com/join/JqdvQprT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/5d/9c/dc5d9c8b-5b87-e6f7-5b2b-ad2a84423f8e/AppIcon.lsr/200x200bb-8.png
+Click Count: 71
+Beta Available: open
+Last Checked: 2024-06-05T09:04:11.780Z
+Categories:
+
+
+Name: AR Helicopters
+Url: https://testflight.apple.com/join/ToXsnZXX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/f7/38/84f738e4-c95f-30d0-df57-111e9ee42624/AppIcon.lsr/200x200bb-80.png
+Click Count: 66
+Beta Available: not accepting
+Last Checked: 2024-06-05T09:04:11.809Z
+Categories:
+
+
+Name: GentlemanClub
+Url: https://testflight.apple.com/join/zwWNpIXx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/b1/eb/54b1eb14-f8b7-7748-7ea6-e173902d8a54/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 87
+Beta Available: open
+Last Checked: 2024-06-05T09:04:11.836Z
+Categories:
+
+
