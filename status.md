@@ -13102,3 +13102,120 @@ Last Checked: 2024-06-05T13:04:11.278Z
 Categories:
 
 
+Name: foodora: Food Delivery
+Url: https://testflight.apple.com/join/bvN8GUcQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/a6/7a/59a67af5-59ea-4688-f2b4-c64045850c95/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:05:21.025Z
+Categories:
+
+
+Name: PatternMA
+Url: https://testflight.apple.com/join/5TImYsjh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/1e/bc/571ebccf-ae0d-a927-03bb-7c3c89f10f54/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:05:21.062Z
+Categories:
+
+
+Name: SupaPro-UAT
+Url: https://testflight.apple.com/join/dfXZhhm9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/87/4f/08874f7b-4eba-26f0-75f1-dc9d371a780e/AppIcon-1x_U007emarketing-0-7-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:05:21.100Z
+Categories:
+
+
+Name: Castamatic Podcast Player
+Url: https://testflight.apple.com/join/Uc63akXE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/16/91/3e169153-cb4d-136a-ebbc-9f805d6b9e5a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:05:21.733Z
+Categories:
+
+
+Name: CosmicAI
+Url: https://testflight.apple.com/join/5MA2baD8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/32/a2/f632a256-ad27-d4fc-035e-3cefcc5f7cd0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T13:05:21.771Z
+Categories:
+
+
+Name: Mobile Agent Dev
+Url: https://testflight.apple.com/join/gM9CGhpn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/85/12/d2/8512d203-995d-f4ec-bb30-37ccb7629ec0/AppIcon-dev-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T13:05:21.808Z
+Categories:
+
+
+Name: Euro Cup 2024 Score Predictor
+Url: https://testflight.apple.com/join/H1XDE4V9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/68/24/c968241d-b025-10e7-7cfb-d415ba3af675/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T13:05:21.845Z
+Categories:
+
+
+Name: Mobius Template
+Url: https://testflight.apple.com/join/cISp06fo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/9d/cc/fa9dcc14-b72d-477e-97ea-8fa408a1312b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T13:05:21.882Z
+Categories:
+
+
+Name: iHerb: Vitamins & Supplements
+Url: https://testflight.apple.com/join/ra5oPV8S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/0c/d5/750cd52b-0659-c219-4229-dc55fa72fefb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:05:21.919Z
+Categories:
+
+
+Name: GWM ORA
+Url: https://testflight.apple.com/join/GQIZJoBn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/e7/96/e2e79607-dfdf-f38b-171d-cfd5d2521a5f/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-05T13:05:21.956Z
+Categories:
+
+
+Name: Cult‎
+Url: https://testflight.apple.com/join/xFRfXTAC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/14/aa/9614aa9e-ec23-5cc2-efe5-a7da7de175fc/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:05:21.993Z
+Categories:
+
+
+Name: sensat.com
+Url: https://testflight.apple.com/join/hKRBMAFA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/8c/6e/3a8c6e41-b9c3-5b6c-b355-9fbfb1360cc2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:05:22.029Z
+Categories:
+
+
+Name: iAnyGo-1
+Url: https://testflight.apple.com/join/cuVcvkxl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/7e/99/217e999b-7e91-42bf-9de0-4596b342db6c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T13:05:22.065Z
+Categories:
+
+
