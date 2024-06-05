@@ -4561,3 +4561,120 @@ Last Checked: 2024-06-05T11:43:12.531Z
 Categories:
 
 
+Name: Lifetime: TV Shows & Movies
+Url: https://testflight.apple.com/join/teq9lCJC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1d/93/aa1d9319-0313-88e0-1066-c844c1593e32/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.527Z
+Categories:
+
+
+Name: FindMe Show
+Url: https://testflight.apple.com/join/1jsXHD60
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/f5/b0/aff5b0bd-e9e3-0c77-b8f4-245e9907e9ee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.562Z
+Categories:
+
+
+Name: tomedo Praxissoftware
+Url: https://testflight.apple.com/join/SO0klpxy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/07/b1/8407b105-9b66-17ad-8b9c-b04892258bf9/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.598Z
+Categories:
+
+
+Name: Leon Delivery
+Url: https://testflight.apple.com/join/A1LvEoG0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0f/b9/38/0fb938a3-3cc2-7491-fffa-eeeac1aafe9c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.633Z
+Categories:
+
+
+Name: Smantry: Smart pantry
+Url: https://testflight.apple.com/join/gNSUhCi2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/72/4b/86724b3f-7697-d108-c620-6178bbd88ac0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.669Z
+Categories:
+
+
+Name: RealityGuard
+Url: https://testflight.apple.com/join/WUOiuC2s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/59/d2/a559d21a-919e-905c-4a4b-cad84e806784/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.704Z
+Categories:
+
+
+Name: CellTrust SL2
+Url: https://testflight.apple.com/join/n5uZn1bW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/da/9f/5bda9ff0-2058-c3b7-1c34-c36139e3b94f/AppIcon-EP-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220-0.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.739Z
+Categories:
+
+
+Name: Migaku - Learn Languages
+Url: https://testflight.apple.com/join/LtFkhwCk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/c9/a0/4ac9a0e2-0403-248a-47b8-8d1b27d356ea/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.774Z
+Categories:
+
+
+Name: App HawkSystem
+Url: https://testflight.apple.com/join/qnr6YaRx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/1d/10/0d1d105f-c7a0-6f8d-23c1-5233cf6d8aed/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.809Z
+Categories:
+
+
+Name: Mapxus Map Sample
+Url: https://testflight.apple.com/join/2jp7G7pc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/23/0c/80230cca-59c8-cc06-0145-06b2bf269509/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.844Z
+Categories:
+
+
+Name: WG Compass
+Url: https://testflight.apple.com/join/QwqZBSmJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/fb/50/78fb5069-5e65-9dbb-747d-27789362e31c/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T11:44:13.879Z
+Categories:
+
+
+Name: Crypto Raiders
+Url: https://testflight.apple.com/join/fqOxLyvt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e0/e8/03/e0e803d2-f78f-3d84-f63d-ae33c4ba2bce/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.914Z
+Categories:
+
+
+Name: QBMT Study app
+Url: https://testflight.apple.com/join/MKPhU3Dk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/aa/00/ffaa00cf-03bb-4452-d42b-acdbf1f44e49/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:44:13.949Z
+Categories:
+
+
