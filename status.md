@@ -21734,3 +21734,120 @@ Last Checked: 2024-06-05T18:46:12.988Z
 Categories:
 
 
+Name: Phum Teacher Portal
+Url: https://testflight.apple.com/join/BU9cN0lH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/ad/c9/65adc9f6-6a1f-ce43-7766-85bc71377d90/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.105Z
+Categories:
+
+
+Name: BS Magic tricks
+Url: https://testflight.apple.com/join/lSfg23eV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/df/2b/80/df2b8051-894b-77fb-8abc-83e5d28594db/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.141Z
+Categories:
+
+
+Name: MWA WLMA Pro
+Url: https://testflight.apple.com/join/2WEx6Kwv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5f/f8/46/5ff84642-c34d-f99d-805d-057f1f69da21/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.178Z
+Categories:
+
+
+Name: Go Program Way2Go Card
+Url: https://testflight.apple.com/join/saUtmWFv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/c6/ae/34c6ae12-198e-fd9d-af25-8a5a690b2ade/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.214Z
+Categories:
+
+
+Name: FlightAware Flight Tracker
+Url: https://testflight.apple.com/join/YDNhKtAe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/4e/5c/ca4e5c75-c2e4-788d-3527-de9d0c2c83b2/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.252Z
+Categories:
+
+
+Name: Diabetes Cockpit
+Url: https://testflight.apple.com/join/y2VVZQ3Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/a1/f1/2ca1f1b8-307b-078d-d09d-9e0f20ffb65e/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.291Z
+Categories:
+
+
+Name: BBC Weather
+Url: https://testflight.apple.com/join/WLTdwbcK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/51/88/26/518826f1-6bb1-49ef-44cd-724034300273/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T18:47:11.327Z
+Categories:
+
+
+Name: Moon Portal: Frame, Widget, AI
+Url: https://testflight.apple.com/join/e5tVF4Q2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/e0/12/65e012be-9cb7-3b92-e7f8-6e830ac9dccc/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.363Z
+Categories:
+
+
+Name: Allthenticator
+Url: https://testflight.apple.com/join/WmVsH9M8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/a2/66/fda26686-a013-034c-57de-b28979047e90/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.398Z
+Categories:
+
+
+Name: Monitok
+Url: https://testflight.apple.com/join/9HixraVR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e3/04/d4e30454-f898-86dd-105d-041185358ece/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.435Z
+Categories:
+
+
+Name: peace out, a meditation timer
+Url: https://testflight.apple.com/join/yL6EDsoP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/27/b9/2a27b956-3744-fa0e-fca9-993d9f2d2e7c/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.471Z
+Categories:
+
+
+Name: PALM Health App
+Url: https://testflight.apple.com/join/irTlqgn5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/15/67/8d/15678da1-a9b2-693f-27f3-e0e7cf2437d3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.507Z
+Categories:
+
+
+Name: PN Seller
+Url: https://testflight.apple.com/join/xhkdVa2h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/ee/88/a1ee8858-0ef8-2f49-b369-d6dc364eeef3/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T18:47:11.543Z
+Categories:
+
+
