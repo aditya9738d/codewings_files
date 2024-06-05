@@ -16126,3 +16126,120 @@ Last Checked: 2024-06-05T09:14:12.623Z
 Categories:
 
 
+Name: StopMaster
+Url: https://testflight.apple.com/join/z7lVdgx8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/4b/a2/894ba2dc-9f34-5434-60b7-276b7519d76d/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.152Z
+Categories:
+
+
+Name: JobLog - Application Tracker
+Url: https://testflight.apple.com/join/9bxP6NCH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/26/af/8e26afb6-7ee8-80de-8f21-24b7aca2d429/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.181Z
+Categories:
+
+
+Name: Urban - Resident App (Staging)
+Url: https://testflight.apple.com/join/C7pDmQD8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/81/2b/a7812b03-4b2e-4114-6969-77d900541e44/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.209Z
+Categories:
+
+
+Name: Alephium Wallet
+Url: https://testflight.apple.com/join/oRHkgVPU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/bb/04/5dbb04c7-9a3d-b965-6f7a-5be6f08c124c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.237Z
+Categories:
+
+
+Name: UU VIET EXPRESS
+Url: https://testflight.apple.com/join/sohtojoG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/0e/87/410e878b-e2dd-c4f8-6608-c93807803fac/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.265Z
+Categories:
+
+
+Name: Mapillary
+Url: https://testflight.apple.com/join/ULVifZEZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/6c/ee/f96ceed3-71c1-5525-8cd9-edc93b4abbe5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.295Z
+Categories:
+
+
+Name: Speak Out+
+Url: https://testflight.apple.com/join/gMUSAk3M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/2e/20/852e2066-1a14-c337-b4cd-6f171b49e948/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.323Z
+Categories:
+
+
+Name: KeyboardKit
+Url: https://testflight.apple.com/join/i46nqNAM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/cd/a2/6bcda2e1-9a6a-ca5b-fa5b-d209c581eb87/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.350Z
+Categories:
+
+
+Name: PLN Mobile
+Url: https://testflight.apple.com/join/DGO1D2kT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/63/39/ea633995-4e00-be84-5d9e-de4d8844a4e8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.379Z
+Categories:
+
+
+Name: AppWage
+Url: https://testflight.apple.com/join/HLMemeqy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/34/42/01344203-dba7-8832-e205-361d34783dc5/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.407Z
+Categories:
+
+
+Name: Nearby AI - GPT 4 Prompts Omni
+Url: https://testflight.apple.com/join/xHGrkViR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f7/1e/42f71ec2-bfb5-9e9b-83c6-8b3572a73dcd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.436Z
+Categories:
+
+
+Name: iPulse
+Url: https://testflight.apple.com/join/ZgvsV8jn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/d8/16/4bd8164f-a90e-d102-bbb9-7976cf299334/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.464Z
+Categories:
+
+
+Name: FLY OYA
+Url: https://testflight.apple.com/join/wcScfBmr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/33/5c/87335c78-15be-ce8f-0c22-278d1c5ac104/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:15:26.492Z
+Categories:
+
+
