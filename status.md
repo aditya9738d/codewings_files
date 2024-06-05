@@ -2689,3 +2689,120 @@ Last Checked: 2024-06-05T20:13:11.396Z
 Categories:
 
 
+Name: Dwindle: Reusable Checklists
+Url: https://testflight.apple.com/join/lMvf92rT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/95/78/8e9578c8-16ef-ff37-86f3-13c2de36f8be/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.347Z
+Categories:
+
+
+Name: Singlife Plan & Protect (UAT)
+Url: https://testflight.apple.com/join/hcPy8m6o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/dc/ec/7cdcec02-bee0-094a-a640-e27d7b77dcc7/UAT-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.383Z
+Categories:
+
+
+Name: MLG OFFICE
+Url: https://testflight.apple.com/join/E6tNgtat
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/64/40/ad64405f-12b6-ee4b-3f63-a207fa315bb7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.420Z
+Categories:
+
+
+Name: KSD-OTA
+Url: https://testflight.apple.com/join/c8q46JrN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e9/e8/5b/e9e85bb0-f5b4-9da3-a31c-755bdf360a7d/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.455Z
+Categories:
+
+
+Name: Giftit - Social Wishlists
+Url: https://testflight.apple.com/join/NqXVgmCC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/3b/33/1b3b33df-a1f0-b6cb-82df-590b3aeb2a4c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.492Z
+Categories:
+
+
+Name: hyperPad Visual Coding on iPad
+Url: https://testflight.apple.com/join/2tOMSM6Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/7e/92/e67e921c-1942-6cd8-1641-59bd09a94631/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.528Z
+Categories:
+
+
+Name: Liftin' - Gym Workout Tracker
+Url: https://testflight.apple.com/join/WTXiGTTA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/70/38/b97038cd-47e9-bb6e-5c29-575ff65e3a8f/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.564Z
+Categories:
+
+
+Name: Zoho Classes
+Url: https://testflight.apple.com/join/bp0D5VW8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/28/64/772864a9-186a-15c9-39de-6c42ef22a1d7/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.600Z
+Categories:
+
+
+Name: Lux Mundi Center
+Url: https://testflight.apple.com/join/Xv2cnazz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/7f/ae/437fae8e-662b-1c16-e148-cbe1037a7ba2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.636Z
+Categories:
+
+
+Name: Critical Ops: Online PvP FPS
+Url: https://testflight.apple.com/join/MxOubzDi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/73/e8/fc73e8e4-59c5-b007-6be3-61ed2ef6ac40/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.672Z
+Categories:
+
+
+Name: NIMS School Diary
+Url: https://testflight.apple.com/join/lGnENnry
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/4d/ee/bc4deed5-51b2-74f3-1e11-d110b618a36a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.708Z
+Categories:
+
+
+Name: GR-55 Editor
+Url: https://testflight.apple.com/join/qCaUIoiQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/0a/a5/dc0aa5f1-063c-f826-e916-f4cfdadfb278/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.743Z
+Categories:
+
+
+Name: Chessity
+Url: https://testflight.apple.com/join/CpO1jrpj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/fa/ff/04faff3b-abc2-e809-0344-e6ffbff98be9/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:14:13.779Z
+Categories:
+
+
