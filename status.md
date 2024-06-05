@@ -19402,3 +19402,120 @@ Last Checked: 2024-06-05T09:44:12.351Z
 Categories:
 
 
+Name: SubWallet - Polkadot Wallet
+Url: https://testflight.apple.com/join/ZW3pUbWj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/1b/bc/1e1bbcdd-2ea3-6767-dcaf-282a07457854/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:45:28.670Z
+Categories:
+
+
+Name: Met Office Weather Forecast
+Url: https://testflight.apple.com/join/MIUMNYDz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/0f/51/e30f51a3-618a-8c43-98af-786eb53e49f5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T09:45:28.706Z
+Categories:
+
+
+Name: Forbes
+Url: https://testflight.apple.com/join/E8Tgou8D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/7b/73/5f7b73dc-36cb-1b1e-18d1-318632840958/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:45:28.742Z
+Categories:
+
+
+Name: SWIPE The App
+Url: https://testflight.apple.com/join/BnYiqRzA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/dd/c8/77ddc870-ed2b-a5b3-cfba-6dcd4fd26451/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T09:45:28.778Z
+Categories:
+
+
+Name: NOMA - Manchester
+Url: https://testflight.apple.com/join/sasHE2GQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/53/4e/69534e78-1d3a-f3aa-2dd4-59ef24f17ad5/AppIcon-noma-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:45:28.814Z
+Categories:
+
+
+Name: Coffee Notes by Fecapp
+Url: https://testflight.apple.com/join/p51EEPOE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/82/5e/db825e91-ef95-eca4-c21b-86195a887c01/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:45:28.849Z
+Categories:
+
+
+Name: Hala-Providers
+Url: https://testflight.apple.com/join/HIeNvHGW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/a9/8b/8ea98bb4-c199-859c-ac2e-da916b20a5bb/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:45:28.884Z
+Categories:
+
+
+Name: Xiaomi Kids
+Url: https://testflight.apple.com/join/YAdTqF1G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/00/9c/49009cda-56e7-8632-fdad-3b71e1e2dd5d/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:45:28.920Z
+Categories:
+
+
+Name: Zepp Clarity
+Url: https://testflight.apple.com/join/JVUsHOTa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b9/8f/c5/b98fc569-4b0b-f653-0a20-a0d99a898fb7/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:45:28.955Z
+Categories:
+
+
+Name: Daily Schedule Planner - Myday
+Url: https://testflight.apple.com/join/WtpRtuGC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/4b/03/fb4b0336-1f09-490b-b996-9795cffab178/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:45:28.991Z
+Categories:
+
+
+Name: eMart - Vendor App
+Url: https://testflight.apple.com/join/e6YrRtSn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fc/a5/88/fca588f4-d228-d63d-018f-bcf84a4bae34/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:45:29.027Z
+Categories:
+
+
+Name: iCountdown
+Url: https://testflight.apple.com/join/np8EtaPV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/30/ed/c9/30edc91f-b145-a82b-75a3-ca4e52a9a6a0/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 40
+Beta Available: open
+Last Checked: 2024-06-05T09:45:29.063Z
+Categories:
+
+
+Name: iUBIK
+Url: https://testflight.apple.com/join/ijGm4j2h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/0d/33/650d334d-203f-09a4-4d28-6817c295a5de/AppIcons-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T09:45:29.099Z
+Categories:
+
+
