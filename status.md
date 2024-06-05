@@ -5146,3 +5146,120 @@ Last Checked: 2024-06-05T11:49:13.367Z
 Categories:
 
 
+Name: Smartoffice VN
+Url: https://testflight.apple.com/join/lfztPro1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/86/cf/8586cfd2-0fbc-c803-680c-975507de771b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:50:26.025Z
+Categories:
+
+
+Name: MAZAICA Lines & Numbers Game
+Url: https://testflight.apple.com/join/SHQWmTRq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/2a/1a/ff2a1a22-06be-1e64-3591-98dd42567121/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:50:26.053Z
+Categories:
+
+
+Name: Kurita AR Pilot
+Url: https://testflight.apple.com/join/0HD4k52r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/78/40/537840c2-5228-cb48-2fbe-ab830b7388c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:50:26.081Z
+Categories:
+
+
+Name: Penedex
+Url: https://testflight.apple.com/join/iQxlIZAu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/26/48/15/264815db-9311-72dd-95c9-48e7cf5e2249/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:50:26.110Z
+Categories:
+
+
+Name: VTC QR Event
+Url: https://testflight.apple.com/join/H0MG2s2n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/f1/05/27f105d0-a2a9-6273-50ac-bb3166d5125f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:50:26.138Z
+Categories:
+
+
+Name: Proton Pass - Password Manager
+Url: https://testflight.apple.com/join/GiTMzX3I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/3a/e3/f53ae373-91e7-7bf8-4439-d3c752a4203c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:50:26.166Z
+Categories:
+
+
+Name: Walmart: Shopping & Savings
+Url: https://testflight.apple.com/join/hDDYNJ6Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/25/99/3a2599d7-137c-9c61-4458-b2080cdc1ecb/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:50:26.195Z
+Categories:
+
+
+Name: Ver
+Url: https://testflight.apple.com/join/7U76Onsb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/b7/fd/97b7fdf9-10c8-313c-6268-0f5139bb0f10/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T11:50:26.223Z
+Categories:
+
+
+Name: qplayer2demo
+Url: https://testflight.apple.com/join/YocXmZ2j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/4a/b8/484ab8ae-9f4e-eba5-fb9e-9643c338afcd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:50:26.252Z
+Categories:
+
+
+Name: Pannnnnnnntry
+Url: https://testflight.apple.com/join/pb7bgJO1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/02/b0/2a/02b02a49-8ecc-e9b5-5156-70180226b366/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T11:50:26.281Z
+Categories:
+
+
+Name: Serial Reader
+Url: https://testflight.apple.com/join/T8mtWpmc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/8f/0d/a08f0df3-d58f-1ecd-e464-22df71fbdd20/AppIcon-1-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:50:26.309Z
+Categories:
+
+
+Name: KEIYO Alcohol Sensor
+Url: https://testflight.apple.com/join/lASfXSKZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/69/f4/7569f4c6-509b-f3bb-fa15-b949ac96660d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:50:26.337Z
+Categories:
+
+
+Name: Yandex Browser
+Url: https://testflight.apple.com/join/Y4k4ze6V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/90/88/ee90887e-9f04-59c8-da43-eeeea4962d06/Icon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: full
+Last Checked: 2024-06-05T11:50:26.366Z
+Categories:
+
+
