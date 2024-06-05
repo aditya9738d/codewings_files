@@ -24802,3 +24802,120 @@ Last Checked: 2024-06-05T06:15:23.404Z
 Categories:
 
 
+Name: Citrix Secure Web
+Url: https://testflight.apple.com/join/DQ71ZZMK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/a8/68/17a86828-911f-c5d4-f8ea-b47a0d357068/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:16:10.585Z
+Categories:
+
+
+Name: Clarii
+Url: https://testflight.apple.com/join/4mUWjnx4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/92/13/379213b0-5b6b-89b3-d436-489fb8e2e2ce/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:16:10.614Z
+Categories:
+
+
+Name: Classifier: Collection Tracker
+Url: https://testflight.apple.com/join/HeIftx1S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/7a/b0/a57ab075-eeef-2309-a543-b033bd951c05/AppIcon-1x_U007emarketing-0-7-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:16:10.642Z
+Categories:
+
+
+Name: CleanPay Mobile
+Url: https://testflight.apple.com/join/ErKYR493
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/8e/68/9d8e6850-276a-d4bc-62c0-f1f29b37c77d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:16:10.671Z
+Categories:
+
+
+Name: Clear-Com Agent-IC
+Url: https://testflight.apple.com/join/USfpPQTt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/70/81/e770815d-fd27-9346-7316-b42e285c9ebe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:16:10.700Z
+Categories:
+
+
+Name: ClearWatt
+Url: https://testflight.apple.com/join/fvBbiwLc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/31/2e/65312e75-354c-52c3-bbf1-096c7ce16d49/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:16:10.728Z
+Categories:
+
+
+Name: CleoCleaner
+Url: https://testflight.apple.com/join/2rV85hKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/88/04/2588046f-e87e-a0d7-9b4d-10bbedf11c5c/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-05T06:16:10.756Z
+Categories:
+
+
+Name: ClienWidget
+Url: https://testflight.apple.com/join/TEBsNPe9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/7d/3c/257d3c35-d070-e1a8-742b-c3cdd6c055c0/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:16:10.784Z
+Categories:
+
+
+Name: Client APP staging
+Url: https://testflight.apple.com/join/2FkXPCyY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ba/81/b8/ba81b849-b737-4dc0-c45f-f414c4bd05bc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:16:10.813Z
+Categories:
+
+
+Name: Clinflash eTMF
+Url: https://testflight.apple.com/join/SPFIThq0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/1d/7f/051d7f6c-780c-c5ab-e526-518e31fe702b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:16:10.842Z
+Categories:
+
+
+Name: Clinic Companion
+Url: https://testflight.apple.com/join/yD0O4Af7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b2/f8/5d/b2f85d3c-45c4-5aae-5f32-2bce6ab8a5d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:16:10.871Z
+Categories:
+
+
+Name: Clinical Dementia Rating
+Url: https://testflight.apple.com/join/vCvP7h1s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/16/fd/e316fddd-b88d-e902-b1a2-09a017aded1e/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:16:10.899Z
+Categories:
+
+
+Name: Clockwise - Read the clock
+Url: https://testflight.apple.com/join/0kMxWstS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/33/90/98339003-c472-7c0f-4047-33daa00fefda/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:16:10.927Z
+Categories:
+
+
