@@ -27241,3 +27241,120 @@ Last Checked: 2024-06-05T10:52:14.201Z
 Categories:
 
 
+Name: WW.Rocket.Chat
+Url: https://testflight.apple.com/join/tgoNx3rx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/28/25/e32825af-5c64-2095-57d0-d0eec55d14b6/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:53:11.506Z
+Categories:
+
+
+Name: KeePassium (KeePass passwords)
+Url: https://testflight.apple.com/join/y8R6iLlK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/27/2d/83272d39-7b4e-a3be-4b96-3a74bdac03b6/app-icon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:53:11.534Z
+Categories:
+
+
+Name: EMobile7
+Url: https://testflight.apple.com/join/zzkHHQtj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/71/68/d67168be-b4c3-5904-8a85-73b03223e386/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:53:11.561Z
+Categories:
+
+
+Name: ConnectEBT(UAT)
+Url: https://testflight.apple.com/join/qolQIhD4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/1c/52/1c1c5297-05eb-d382-6b64-8c57edb0e797/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:53:11.590Z
+Categories:
+
+
+Name: TCL Connect
+Url: https://testflight.apple.com/join/aAJoEr9z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/fe/8c/5bfe8c7d-155d-5637-5cb1-5214200048b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:53:11.618Z
+Categories:
+
+
+Name: Goverland - All DAOs, One App
+Url: https://testflight.apple.com/join/RXPCZXIg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/83/96/e983965a-e6f4-eeb9-508f-7e8232e81139/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:53:11.646Z
+Categories:
+
+
+Name: Unnus
+Url: https://testflight.apple.com/join/52wdtrc9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/d6/9c/a5d69c0c-c048-dfcf-beb8-0b3a7dcc29af/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:53:11.674Z
+Categories:
+
+
+Name: ProgTV
+Url: https://testflight.apple.com/join/RKN8upW7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/0a/b7/ba0ab77c-da1a-11a6-1b2f-4b67695c3196/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-05T10:53:11.702Z
+Categories:
+
+
+Name: S3XY Watch
+Url: https://testflight.apple.com/join/194LkkmW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/b3/57/8fb35734-98eb-3ee8-0672-94561e41f23c/AppIcon-0-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-05T10:53:11.730Z
+Categories:
+
+
+Name: OceanEx-Test
+Url: https://testflight.apple.com/join/PkPRNIIp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/71/78/e47178c2-6905-58df-7700-2e78cf4ce3e9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:53:11.758Z
+Categories:
+
+
+Name: Status++
+Url: https://testflight.apple.com/join/F1KmUg6K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/6f/3a/ae6f3abf-e91b-08f6-df38-c0e37db5fcdc/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T10:53:11.786Z
+Categories:
+
+
+Name: Swish Sandbox
+Url: https://testflight.apple.com/join/iQTsRg5b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/31/d7/c6/31d7c60a-9682-e04c-87b1-c6d7671fd559/AppIconSandbox-0-0-1x_U007emarketing-0-5-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:53:11.815Z
+Categories:
+
+
+Name: Sky Go
+Url: https://testflight.apple.com/join/27XwW4TL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/df/f2/89/dff289f9-34a9-fb0b-2cbd-6ecc2cc7df0a/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T10:53:11.842Z
+Categories:
+
+
