@@ -8656,3 +8656,120 @@ Last Checked: 2024-06-05T21:05:19.387Z
 Categories:
 
 
+Name: DuroFlex
+Url: https://testflight.apple.com/join/YHLMqGNc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/fd/9e/5cfd9ec8-b601-6927-4a11-e7703739885c/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.300Z
+Categories:
+
+
+Name: Entonal Studio
+Url: https://testflight.apple.com/join/dK8z4mxw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/c9/76/9dc97630-6265-89d3-da7b-607cbeb76d34/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.335Z
+Categories:
+
+
+Name: Oliphaunt
+Url: https://testflight.apple.com/join/QLqIRNwe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/a0/23/39a023be-03f4-1590-dacd-e235e904f17a/AppIcon-0-85-220-4-0-0-2x-sRGB-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.370Z
+Categories:
+
+
+Name: TwoNav Premium: Maps Routes
+Url: https://testflight.apple.com/join/4SFNwRfY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/b1/4d/58b14d61-e666-5423-4024-b2e4f02b97e3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T21:06:12.406Z
+Categories:
+
+
+Name: Akiflow
+Url: https://testflight.apple.com/join/EkR2moK1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/08/4d/e1084d47-0ba7-78fb-3e7d-4724da2d8cca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.441Z
+Categories:
+
+
+Name: Idle Island Builder
+Url: https://testflight.apple.com/join/mtzfb7Qu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/10/da/e810daad-bc14-9521-bff3-035b1084a237/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.476Z
+Categories:
+
+
+Name: Copia Wealth
+Url: https://testflight.apple.com/join/oUStxehv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/9d/ac/319dacb9-b00d-73cd-d76e-535f76d7ff4a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.521Z
+Categories:
+
+
+Name: Stanpro Genio
+Url: https://testflight.apple.com/join/LvtzYDAF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/20/ca/f420cac9-e767-d963-8762-00b812cc1d8e/AppIcon-Genio_Stanpro-0-0-1x_U007emarketing-0-5-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.556Z
+Categories:
+
+
+Name: Techbit
+Url: https://testflight.apple.com/join/JbudYMLz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/74/be/2074be60-3fdd-ce81-e2b3-459f29876b8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.591Z
+Categories:
+
+
+Name: Audials Play - Radio & Podcast
+Url: https://testflight.apple.com/join/33fiI1b4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/25/03/8d250357-8231-b3e4-b377-f2da0506b25b/AudialsAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.627Z
+Categories:
+
+
+Name: Tops-SIT
+Url: https://testflight.apple.com/join/d0DHc5aD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/08/d4/dd08d46d-6721-5918-f5df-93d568b5c4d5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.662Z
+Categories:
+
+
+Name: TimeSoul App
+Url: https://testflight.apple.com/join/9LjZvst1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/85/9f/cc859f52-97e6-77f9-ba86-059ad424d7e2/AppIcon-1x_U007emarketing-0-2-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.697Z
+Categories:
+
+
+Name: Matchely
+Url: https://testflight.apple.com/join/nmK65ZZ3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e5/8c/ca/e58cca68-63b7-624b-892d-0819f7830b12/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:06:12.732Z
+Categories:
+
+
