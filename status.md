@@ -9475,3 +9475,120 @@ Last Checked: 2024-06-05T12:31:10.226Z
 Categories:
 
 
+Name: BASD
+Url: https://testflight.apple.com/join/SVvmtHeR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/6b/06/906b068d-053e-7deb-5b9a-57ade499a7eb/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:32:12.121Z
+Categories:
+
+
+Name: Lady & gentleman CITY
+Url: https://testflight.apple.com/join/keUChAvk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4a/56/954a5678-9082-8108-ee2c-de2a26c682e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:32:12.150Z
+Categories:
+
+
+Name: Assistant
+Url: https://testflight.apple.com/join/e9U5Mfz4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/77/3f/b5773f06-e95a-972a-2b0e-6991835374c3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:32:12.180Z
+Categories:
+
+
+Name: Zepp (formerly Amazfit)
+Url: https://testflight.apple.com/join/kBbaIpT3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/9f/f7/aa9ff750-3617-16db-3346-ab7a3780a0a3/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:32:12.209Z
+Categories:
+
+
+Name: auth. - 2FA Smart Sync
+Url: https://testflight.apple.com/join/8XDBCC4Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/db/7a/b6db7a6d-bdbc-a4ce-e1f7-520c019c0fd7/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T12:32:12.237Z
+Categories:
+
+
+Name: UDisc Disc Golf
+Url: https://testflight.apple.com/join/vRPkDDy1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/4b/65/884b6511-c2bc-aaa3-b8a2-45cae8f350b9/AppIconfree-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:32:12.265Z
+Categories:
+
+
+Name: Mate - Live Video Chat & Meet
+Url: https://testflight.apple.com/join/V2L1PH8N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/98/84/80/9884804f-1247-9eee-1dc3-32f5846146d6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:32:12.294Z
+Categories:
+
+
+Name: Queued Up
+Url: https://testflight.apple.com/join/HL0fmJAX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/f4/68/12f4689e-07eb-8cab-3374-5564d1342620/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-05T12:32:12.323Z
+Categories:
+
+
+Name: BETA_SoundBar
+Url: https://testflight.apple.com/join/ihUDCKgt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/38/46/6b384654-199a-380d-5c17-fe02a16f74aa/SoundBar2021-AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:32:12.352Z
+Categories:
+
+
+Name: Vesputio
+Url: https://testflight.apple.com/join/nb7I51Fm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/aa/80/77aa806c-5f91-0e20-de67-b33f345f4ecd/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:32:12.382Z
+Categories:
+
+
+Name: FunimBeta
+Url: https://testflight.apple.com/join/qZ5ZHVy8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/38/ef/2f38ef95-ddbd-5706-cb5f-22c48fd98803/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T12:32:12.411Z
+Categories:
+
+
+Name: SAl Maryah Bank
+Url: https://testflight.apple.com/join/7qMnjhjs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/cf/a2/88cfa23e-4cee-ad22-4718-7047dc31d650/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:32:12.439Z
+Categories:
+
+
+Name: NaviExpert - Nawigacja i Mapy
+Url: https://testflight.apple.com/join/TceKlU8h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/48/e6/7248e6eb-6207-8bef-bbe9-27dae6d4e0e3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:32:12.467Z
+Categories:
+
+
