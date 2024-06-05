@@ -5263,3 +5263,120 @@ Last Checked: 2024-06-05T07:37:09.773Z
 Categories:
 
 
+Name: SiteMakers
+Url: https://testflight.apple.com/join/HtiuGD8p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/1e/0c/c51e0ca1-558d-5306-aae2-bfd07df60d7d/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:38:11.524Z
+Categories:
+
+
+Name: Ski Tracks
+Url: https://testflight.apple.com/join/j5c1rePX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/b9/b2/8eb9b2d6-9f6b-cef7-8062-16d2f8309b8b/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T07:38:11.559Z
+Categories:
+
+
+Name: Skida: Alpine Adventures
+Url: https://testflight.apple.com/join/yLrIQLeQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c8/e9/e7c8e97b-ba74-a67e-763b-d369a0c9bc77/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T07:38:11.595Z
+Categories:
+
+
+Name: Sky Lifestyle
+Url: https://testflight.apple.com/join/T4bvLMx1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/8e/bb/3d8ebbf9-b074-21be-fdb3-74a9dc9eee20/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:38:11.631Z
+Categories:
+
+
+Name: SkyReachers
+Url: https://testflight.apple.com/join/extTJTTt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/7f/d8/4d7fd8c9-a404-9d54-8c7b-e1c224c9653e/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:38:11.666Z
+Categories:
+
+
+Name: SkySeat-Alpha
+Url: https://testflight.apple.com/join/rUfzP4VA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/16/3a/dc163a9b-2da3-99e1-0451-b7c3f7506b62/AppIcon-Alpha-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:38:11.702Z
+Categories:
+
+
+Name: Sleep Cycle - Sleep Tracker
+Url: https://testflight.apple.com/join/8RcEFqFF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/7f/2e/e37f2e02-0795-7f54-c116-87dc1f484f63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T07:38:11.738Z
+Categories:
+
+
+Name: SleepNote Pro
+Url: https://testflight.apple.com/join/TOTxD1i6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/37/65/9b37657c-3599-bb4d-5f6a-adf8013f6615/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:38:11.774Z
+Categories:
+
+
+Name: Smalo
+Url: https://testflight.apple.com/join/ssbju4XJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d1/d2/15/d1d215b1-d66c-f1a1-14d0-13a6f4796e58/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:38:11.809Z
+Categories:
+
+
+Name: Smart Card Utility
+Url: https://testflight.apple.com/join/eMO0PY8T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/10/4a/55104a4b-79dc-670b-cdbe-094006f759fd/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:38:11.844Z
+Categories:
+
+
+Name: Smart Card Utility AVP
+Url: https://testflight.apple.com/join/3J4RfCfp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/78/9a/a1789aa7-6087-cbd4-bbba-f90056fbfc05/AppIconVP.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:38:11.880Z
+Categories:
+
+
+Name: Smart Card Utility Browser
+Url: https://testflight.apple.com/join/tqE9oCTS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/af/f6/8baff69e-58a1-c2a3-ff91-5286af4676d4/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:38:11.916Z
+Categories:
+
+
+Name: Smart Duel Disk
+Url: https://testflight.apple.com/join/eBlsGP1I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1c/6a/61/1c6a61c8-fb4f-4918-ad8d-a0380cf41fa6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T07:38:11.951Z
+Categories:
+
+
