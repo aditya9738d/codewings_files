@@ -12751,3 +12751,120 @@ Last Checked: 2024-06-05T21:43:10.522Z
 Categories:
 
 
+Name: TaskChute Cloud Lite Beta
+Url: https://testflight.apple.com/join/WEe7vt0q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/a3/c5/50a3c5da-6d9d-8938-c1eb-ab30fbdc9865/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T21:44:11.354Z
+Categories:
+
+
+Name: Email Client - Boomerang Mail
+Url: https://testflight.apple.com/join/QvyVMhzJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/76/dc/59/76dc59b4-943b-a0d5-d3e1-8105317ab091/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:44:11.391Z
+Categories:
+
+
+Name: TeamPay
+Url: https://testflight.apple.com/join/EgeYGrfN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/7f/35/407f352a-c871-85fb-8d43-7c1d5c6a7b89/AppIcon-0-1x_U007ephone-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:44:11.427Z
+Categories:
+
+
+Name: GHL Connect
+Url: https://testflight.apple.com/join/fvZsPzNH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/6e/be/536ebe80-e074-3e4c-0fad-faef84e7e75d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:44:11.462Z
+Categories:
+
+
+Name: Maringo
+Url: https://testflight.apple.com/join/bkwfZ0u1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/fa/df/c4fadf7d-cdc9-6ef7-91e6-1ec70f8418b2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:44:11.498Z
+Categories:
+
+
+Name: NewStore Associate App
+Url: https://testflight.apple.com/join/OTsDnLEk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/79/9d/82799d9f-15ed-ac44-ca2f-d4ff49377565/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T21:44:11.535Z
+Categories:
+
+
+Name: Wipr 2
+Url: https://testflight.apple.com/join/YkdEItQi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/48/b4/2e48b46f-b181-1e6c-7b23-7f189db502f5/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-05T21:44:11.571Z
+Categories:
+
+
+Name: NodeVPN
+Url: https://testflight.apple.com/join/kTCCjGvg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/02/0b/4f020b88-58bf-1c0b-5f9f-1d7c1a2bbb20/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:44:11.607Z
+Categories:
+
+
+Name: DT Profile Admin
+Url: https://testflight.apple.com/join/0uCXKZcI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/c5/8d/ccc58d6a-f736-6415-53ab-e7f9bcaf6c53/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:44:11.643Z
+Categories:
+
+
+Name: Topo Maps+
+Url: https://testflight.apple.com/join/pSEBpvB3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/1f/11/011f11fa-d52e-eefa-a57b-92b86bec6a4b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:44:11.679Z
+Categories:
+
+
+Name: Dario Lightning Tester
+Url: https://testflight.apple.com/join/nAAVKc1A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/ef/79/8fef799b-6680-92b0-9c03-f9a6898108cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:44:11.715Z
+Categories:
+
+
+Name: ArcGIS QuickCapture
+Url: https://testflight.apple.com/join/uORl3GWS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c3/97/79c39774-d253-bb22-2978-d2f4223e30df/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:44:11.753Z
+Categories:
+
+
+Name: Aspen iSAVE
+Url: https://testflight.apple.com/join/kKA2LoEh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/dc/4b/2ddc4b08-3709-0e9d-9af3-b9a43cc6576d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T21:44:11.789Z
+Categories:
+
+
