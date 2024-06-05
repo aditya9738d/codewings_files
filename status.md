@@ -8539,3 +8539,120 @@ Last Checked: 2024-06-05T12:23:13.828Z
 Categories:
 
 
+Name: LiverCU
+Url: https://testflight.apple.com/join/icAUSdXy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a5/19/e5/a519e51e-7637-25de-0a01-373f3b055bff/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.166Z
+Categories:
+
+
+Name: Reflect Notes - Think Better
+Url: https://testflight.apple.com/join/v3yFxXaX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/56/b1/c456b1d0-62aa-4dfe-83b4-812b9ad4f99f/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.195Z
+Categories:
+
+
+Name: FChat
+Url: https://testflight.apple.com/join/fBJrehcF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/a5/91/b9a5918c-a6f7-b0ec-d12a-697a2a28504c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.223Z
+Categories:
+
+
+Name: Ubiq: spatial social world
+Url: https://testflight.apple.com/join/LS55HE8S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8c/24/53/8c2453a9-cc7e-1ed8-5a43-240bd3afff10/AppIcon-0-0-1x_U007ephone-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.251Z
+Categories:
+
+
+Name: Iron Roads
+Url: https://testflight.apple.com/join/YYkKU9tD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/12/68/e512681f-c207-407f-c400-dade092e138b/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.280Z
+Categories:
+
+
+Name: SCRM Econtract
+Url: https://testflight.apple.com/join/Xw8BoNMe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9b/d7/6c/9bd76c3a-a8ce-79f3-cd04-5d7fbcb278f7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.308Z
+Categories:
+
+
+Name: Userscripts
+Url: https://testflight.apple.com/join/2L3V6N2s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/05/b7/ad05b75f-13c0-ef15-49eb-74ca6cbbcd92/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.335Z
+Categories:
+
+
+Name: Trip Reader (NFC)
+Url: https://testflight.apple.com/join/Bl1meNOB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/2a/70/b72a701d-119a-f02e-da2a-f30c9d071282/AppIcon-ka2-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T12:24:13.364Z
+Categories:
+
+
+Name: AutoSale
+Url: https://testflight.apple.com/join/ZSYpiz2h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/69/57/5f/69575f8c-e0d6-68a6-7e50-c54ac2a9b0e9/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.391Z
+Categories:
+
+
+Name: Watch The Matrix
+Url: https://testflight.apple.com/join/a06n3gN4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/79/4b/1e794b78-187e-e405-6fe6-9b1161612828/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.419Z
+Categories:
+
+
+Name: BMBX
+Url: https://testflight.apple.com/join/vLWkddGc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/18/d1/18/18d1185d-07cc-b245-cb1d-29ee3d18d8dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.448Z
+Categories:
+
+
+Name: World Table Tennis App
+Url: https://testflight.apple.com/join/VPxvjQeo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/d6/8f/23d68f3a-00ce-ee73-6c0f-d1dae54c68a5/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.476Z
+Categories:
+
+
+Name: SN Lift Driver
+Url: https://testflight.apple.com/join/kWnasGgr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/f9/33/69f93348-2cfd-9dc1-f703-76c6e449f650/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:24:13.504Z
+Categories:
+
+
