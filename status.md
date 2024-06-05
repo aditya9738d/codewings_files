@@ -21058,3 +21058,120 @@ Last Checked: 2024-06-05T22:56:13.041Z
 Categories:
 
 
+Name: amblelog
+Url: https://testflight.apple.com/join/QNFW8iVT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/62/6a/68626a0a-891e-2627-23cc-bfbe935b21a5/AppIcon-1x_U007emarketing-0-7-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:57:10.735Z
+Categories:
+
+
+Name: Pouchii
+Url: https://testflight.apple.com/join/66oJM3yD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/11/5e/10115efd-83fa-5747-0c63-fbcdd83f3aad/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:57:10.768Z
+Categories:
+
+
+Name: Solar Wallet
+Url: https://testflight.apple.com/join/bwSpe2P9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d9/24/96/d9249676-6b06-4915-b65c-6e5f03697017/ApplicationIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-05T22:57:10.797Z
+Categories:
+
+
+Name: CC App
+Url: https://testflight.apple.com/join/Ap7kRs7W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/10/04/a7/1004a702-7f64-d3e0-1458-211734723518/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T22:57:10.826Z
+Categories:
+
+
+Name: VinHMS Staff
+Url: https://testflight.apple.com/join/VPHTX6OH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/3e/22/693e2252-31df-b1ea-9c7a-ce76bd6f97c7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:57:10.855Z
+Categories:
+
+
+Name: Fyreplace
+Url: https://testflight.apple.com/join/uWP3m9q7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/16/55/2b16557c-5112-ff9c-1e7b-b5344b1ce9bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:57:10.884Z
+Categories:
+
+
+Name: Trustee Plus | Wallet & Card
+Url: https://testflight.apple.com/join/VMvbSSX3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/22/5f/ca225fbf-4f89-e961-7a60-51dba2bd5d42/AppIcon-1x_U007emarketing-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:57:10.913Z
+Categories:
+
+
+Name: 4STREAM
+Url: https://testflight.apple.com/join/uIk56ID1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/e0/c7/9be0c73a-9d57-5ed0-9c31-9c767898da49/AllStream-AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T22:57:10.941Z
+Categories:
+
+
+Name: QReate - QR code editor
+Url: https://testflight.apple.com/join/B5D8pm9C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/7e/5d/7f7e5d5b-8fd1-21a9-e35e-f7d91e408424/AppIcon-85-220-0-4-0-0-2x-P3-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:57:10.970Z
+Categories:
+
+
+Name: Connectix VPN
+Url: https://testflight.apple.com/join/ATDvld9Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/66/cc/f0/66ccf0c1-7145-8609-ed8e-4c4b40dd2df1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T22:57:10.999Z
+Categories:
+
+
+Name: BBX UAT
+Url: https://testflight.apple.com/join/GiI5AG4r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/8a/d2/c78ad2d8-edee-e788-173c-52431de66818/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:57:11.027Z
+Categories:
+
+
+Name: Campfire - Cozy AI Villagers
+Url: https://testflight.apple.com/join/6Tzr0UYy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/a6/48/99a648b2-2c1c-4acf-e064-de93d09b5339/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:57:11.056Z
+Categories:
+
+
+Name: EasyChem: химия просто
+Url: https://testflight.apple.com/join/tcl2Hz3C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/62/48/556248f2-9c7e-4050-d6d2-99fb559bf225/AppIcon-Fresh-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T22:57:11.085Z
+Categories:
+
+
