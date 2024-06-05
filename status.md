@@ -5848,3 +5848,120 @@ Last Checked: 2024-06-05T11:56:09.444Z
 Categories:
 
 
+Name: Pace-Calc
+Url: https://testflight.apple.com/join/Ge4pa25s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/0e/0f/110e0f0d-77e5-1ff1-f7f4-32eb84cef2c1/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.198Z
+Categories:
+
+
+Name: Rondo Measure and Quote
+Url: https://testflight.apple.com/join/Hc0drHQj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/b9/0c/0bb90c48-a15b-83bc-2b47-5747df4868cb/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.226Z
+Categories:
+
+
+Name: Ever Play - HiFi Music Player
+Url: https://testflight.apple.com/join/MzvaziMT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/7c/2d/da7c2d3f-87b6-ee3a-2cbb-8d565ef3e799/AppIcon5-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T11:57:11.254Z
+Categories:
+
+
+Name: Alta Networks
+Url: https://testflight.apple.com/join/jbfXiKNg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/9d/35/e59d3579-0e49-523d-567f-2fbacabcf020/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.283Z
+Categories:
+
+
+Name: Write GT
+Url: https://testflight.apple.com/join/ZmKo5CMy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/46/cd/9846cd67-8ca5-f5f0-1ab0-550753061b83/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.327Z
+Categories:
+
+
+Name: Can of Soup
+Url: https://testflight.apple.com/join/mUGNMWLC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/91/e7/4c91e757-7cee-135e-05e8-e4214ecced3f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.355Z
+Categories:
+
+
+Name: Webful PasswordMaker
+Url: https://testflight.apple.com/join/3MnAJg3Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/14/5ad51457-15b9-f9dc-eb9a-cf1d56f33a23/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.383Z
+Categories:
+
+
+Name: cosinuss° Health
+Url: https://testflight.apple.com/join/icq0eiiq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/67/81/4467815c-c0d8-4564-7542-2735824ee894/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.413Z
+Categories:
+
+
+Name: Prowork
+Url: https://testflight.apple.com/join/x0ZYdEfu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/ea/dd/c8eaddfb-1419-e676-6bbf-d3d89f6096ce/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.442Z
+Categories:
+
+
+Name: Newsfreak Demo
+Url: https://testflight.apple.com/join/mFGxNnRM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/7c/c8/067cc882-2dd5-5c41-e3e7-fb5900359cad/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.470Z
+Categories:
+
+
+Name: Filwallet
+Url: https://testflight.apple.com/join/wG5UVUbI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/75/95/8575958b-7f23-4d50-b75b-4085dd8e299e/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.499Z
+Categories:
+
+
+Name: Tailor - A.I. for news
+Url: https://testflight.apple.com/join/jlQPI7I8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/b2/6f/d7b26f32-6953-1585-965d-a86c442f7a03/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.530Z
+Categories:
+
+
+Name: AutoTempest - Car Search
+Url: https://testflight.apple.com/join/TkiavMax
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/d9/ec/abd9ece0-32a1-65a6-14cf-ccae74ab9cb3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:57:11.559Z
+Categories:
+
+
