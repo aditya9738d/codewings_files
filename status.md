@@ -12910,3 +12910,120 @@ Last Checked: 2024-06-05T17:17:09.706Z
 Categories:
 
 
+Name: SomniusTestApp
+Url: https://testflight.apple.com/join/yxeNsUiP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/1e/1c/7c1e1cd6-6bba-cb3b-78df-94670e437064/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.672Z
+Categories:
+
+
+Name: HSBuddy
+Url: https://testflight.apple.com/join/YcxaaTG2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/31/7a/8f317ac8-e8c7-e020-9094-92ad05e9ab3e/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.701Z
+Categories:
+
+
+Name: Sangam Lite
+Url: https://testflight.apple.com/join/ffchyHEd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/36/01/25/36012541-1f22-4065-9832-129eab3d202b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.729Z
+Categories:
+
+
+Name: GoDeadOn
+Url: https://testflight.apple.com/join/MzZ2FQTP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/2a/e1/952ae15b-a6d6-56aa-bbdb-ed801aff4ffd/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.758Z
+Categories:
+
+
+Name: LCVirtual
+Url: https://testflight.apple.com/join/v1NLZ1Xb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/b2/ae/20b2aeb1-089a-fe95-6d1a-e3e144bb961f/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.786Z
+Categories:
+
+
+Name: Wildix Collaboration Mobile
+Url: https://testflight.apple.com/join/cGIt2kGL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/87/1a/31871a44-c918-7b67-f201-00a9bc1df84a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.814Z
+Categories:
+
+
+Name: iLabelPrint+
+Url: https://testflight.apple.com/join/f1Zez7KW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/42/05/b1420593-a3bc-3ca7-02ee-537fb3998666/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.842Z
+Categories:
+
+
+Name: Word Linker
+Url: https://testflight.apple.com/join/DGKlFwSd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/e7/ed/cee7ed0b-4726-280e-c589-d307a28a60cc/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.870Z
+Categories:
+
+
+Name: ShineTools
+Url: https://testflight.apple.com/join/Zan7lNZJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/36/7d/bd367d35-1230-0201-b71b-7606dc1f01a0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.898Z
+Categories:
+
+
+Name: In Stock Scanner
+Url: https://testflight.apple.com/join/faSXXGzT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/f8/c9/c0f8c9ff-876b-eb5d-d9f6-15ec89711c70/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.926Z
+Categories:
+
+
+Name: Ordway
+Url: https://testflight.apple.com/join/TdgH2IhC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/11/7b/5c117b4f-03c2-90f3-e879-5a7f7d1f6ba8/app-icon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.955Z
+Categories:
+
+
+Name: Ready4Sea: safe boating!
+Url: https://testflight.apple.com/join/cklHSFXd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/24/15/cb/2415cb6f-5fc9-38a1-30a8-d545f20de01e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:18:10.983Z
+Categories:
+
+
+Name: LoFi Cam: Film Digital Camera
+Url: https://testflight.apple.com/join/hUIJ8aAa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/f1/57/82f15787-7bc0-2b92-9d7e-955a72dda60e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T17:18:11.012Z
+Categories:
+
+
