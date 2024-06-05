@@ -3157,3 +3157,120 @@ Last Checked: 2024-06-05T20:17:11.244Z
 Categories:
 
 
+Name: HitFit Pro
+Url: https://testflight.apple.com/join/SVSfdxVC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/c1/e5/47c1e512-b0dc-ac3f-94be-c5944e18ab31/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.587Z
+Categories:
+
+
+Name: Esker Anywhere
+Url: https://testflight.apple.com/join/I6dNjjRl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/c4/ba/98c4ba2b-0a0d-7fcf-d293-0903162a6f42/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.623Z
+Categories:
+
+
+Name: Bright Visions
+Url: https://testflight.apple.com/join/yX1kpCil
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/4a/df/1e4adfbc-3ed0-05cf-e564-0d107c23424f/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.659Z
+Categories:
+
+
+Name: Bricksee
+Url: https://testflight.apple.com/join/wkPAMReO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/0d/6e/9a0d6ed6-ae31-d4f9-852b-0e0405611960/app_icon-0-0-1x_U007epad-0-0-0-0-0-85-220.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.695Z
+Categories:
+
+
+Name: QQT
+Url: https://testflight.apple.com/join/GAHLp8FA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/de/45/c7de4579-e114-490c-aebb-714d4a68bfb2/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.731Z
+Categories:
+
+
+Name: Film Trailers
+Url: https://testflight.apple.com/join/NixSFQIX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/5d/24/bd5d24d3-264f-1c6c-988a-110cdf27c3ce/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.767Z
+Categories:
+
+
+Name: Fettle
+Url: https://testflight.apple.com/join/96yjaBwS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/56/07/c0/5607c019-bd17-324f-b276-60a7ca9017f4/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.802Z
+Categories:
+
+
+Name: Expo Go
+Url: https://testflight.apple.com/join/GZJxxfUU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/20/af/7a/20af7a5b-df38-d3ad-ef1d-7ae2138fdda3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.839Z
+Categories:
+
+
+Name: Foreca Weather & Radar
+Url: https://testflight.apple.com/join/wG99Xsks
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/19/4b/8b/194b8be5-420f-e4e6-2f90-395a20e57d3d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.875Z
+Categories:
+
+
+Name: Medeor Cloud
+Url: https://testflight.apple.com/join/opDByo0Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/18/da/eb/18daeb2a-0f15-224a-9b9a-c7229fb0ca16/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.911Z
+Categories:
+
+
+Name: myWIC MOSAIC - UAT
+Url: https://testflight.apple.com/join/SRwp2yj5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/f5/9f/8df59f42-c0b0-6e02-6cbc-b8304ddefa26/AppIconUat-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.946Z
+Categories:
+
+
+Name: gyc.app
+Url: https://testflight.apple.com/join/qwezw85T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/78/9f/86/789f8685-223c-591c-7dce-86f23434114d/ic_launcher-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:18:12.982Z
+Categories:
+
+
+Name: NamirialOTP Test
+Url: https://testflight.apple.com/join/4ZUE4zjf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/6e/d8/1f6ed8b5-96e3-69dc-9454-865df1f7db7a/AppIconTest-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:18:13.018Z
+Categories:
+
+
