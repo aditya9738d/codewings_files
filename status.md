@@ -14974,3 +14974,120 @@ Last Checked: 2024-06-05T13:20:29.058Z
 Categories:
 
 
+Name: KA Power Boss
+Url: https://testflight.apple.com/join/WRXz6hFA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/1a/f4/2e1af41e-65bd-b172-355d-3a50fc309ec9/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:21:10.497Z
+Categories:
+
+
+Name: Demo 3 - enCappture
+Url: https://testflight.apple.com/join/8V7poWDO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/b1/35/9cb135ad-9345-6a63-dc7d-c14d50e52b6d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:21:10.526Z
+Categories:
+
+
+Name: InfoWear
+Url: https://testflight.apple.com/join/n0uOZqYR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/fc/ee/e5fcee04-6b9c-714a-5b21-a977fa32fc1b/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-05T13:21:10.554Z
+Categories:
+
+
+Name: Jainam Space
+Url: https://testflight.apple.com/join/9P6KyOdE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/0e/55/730e5554-1883-5561-e5c0-44b80dde6815/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:21:10.581Z
+Categories:
+
+
+Name: Melpot
+Url: https://testflight.apple.com/join/K4x3PKQN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/3e/90/cb3e90c4-4465-8471-7c2d-1391c5f2c09d/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T13:21:10.610Z
+Categories:
+
+
+Name: MamaMia Hemma
+Url: https://testflight.apple.com/join/pRhpmdv8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/71/9a/de719af1-81ed-9fe7-b68a-015bace8afa4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:21:10.638Z
+Categories:
+
+
+Name: QuettaScan
+Url: https://testflight.apple.com/join/qwPBKOq9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/76/0a/41760a4b-5499-b1d7-0ec5-8b6eea7c8481/AppIcon-1x_U007emarketing-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:21:10.667Z
+Categories:
+
+
+Name: AmneziaVPN
+Url: https://testflight.apple.com/join/cQ1ndT9p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b7/0c/27/b70c2749-af22-cb48-8983-289b51b23e14/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:21:10.696Z
+Categories:
+
+
+Name: Real Hire
+Url: https://testflight.apple.com/join/n94EaaVY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0a/7d/a3/0a7da3c4-7a0a-8a61-8fd7-b8ed9cdd4b85/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T13:21:10.725Z
+Categories:
+
+
+Name: HOANG ANH - FACTORY
+Url: https://testflight.apple.com/join/qi8oPgKV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/59/40/7d594010-0723-a211-bdef-86121e8f18b7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:21:10.752Z
+Categories:
+
+
+Name: PopAi-AI Chat with PDF & Image
+Url: https://testflight.apple.com/join/suD1oHP1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/72/f4/7f72f43a-188e-4baf-f4f8-093435f29f28/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:21:10.781Z
+Categories:
+
+
+Name: ArchiveME
+Url: https://testflight.apple.com/join/YWzAZiRs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/be/9f/afbe9fea-a5ad-13ca-0b72-43fbb392abc9/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T13:21:10.809Z
+Categories:
+
+
+Name: iAnyGo-2
+Url: https://testflight.apple.com/join/fU362zmT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/34/cf/6334cf10-17ed-0028-2f1e-af6ec6c335c6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T13:21:10.837Z
+Categories:
+
+
