@@ -15910,3 +15910,120 @@ Last Checked: 2024-06-05T01:07:11.451Z
 Categories:
 
 
+Name: Swisscom myCloud
+Url: https://testflight.apple.com/join/Y5pOcWGk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/1c/29/821c29ab-a687-9b67-e568-f6508b4f76a9/AppIcon-PROD-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T01:09:10.414Z
+Categories:
+
+
+Name: Mindbug
+Url: https://testflight.apple.com/join/GNUBgAQu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/40/dd/5f40dd73-d697-3fa6-a106-93621d575340/AppIcon-1x_U007emarketing-0-5-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:09:10.444Z
+Categories:
+
+
+Name: BopSyncNetPOC
+Url: https://testflight.apple.com/join/LFS1H99Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/7f/12/4b7f12f7-2c98-2513-6d2f-effd08316e77/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:09:10.473Z
+Categories:
+
+
+Name: Judo: Design and Build Apps
+Url: https://testflight.apple.com/join/cgXp6iN9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/db/12/f6db12b1-84f6-0690-4d7d-5c6e20757767/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T01:09:10.502Z
+Categories:
+
+
+Name: HRMS Lite
+Url: https://testflight.apple.com/join/YDovsfMJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/74/d1/be74d121-29d7-9dfa-00e3-b55ff66ed351/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:09:10.531Z
+Categories:
+
+
+Name: Beaver Pocket
+Url: https://testflight.apple.com/join/dSsmsGLY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d4/72/d7/d472d7ef-d17b-9b44-ebfc-677cf4d28a11/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:09:10.560Z
+Categories:
+
+
+Name: Target
+Url: https://testflight.apple.com/join/qcx8yK1s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/7c/cd/f07ccde9-1c52-7c2f-3a34-6a1a554baf42/AppIconShiny-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T01:09:10.589Z
+Categories:
+
+
+Name: BOG Lite
+Url: https://testflight.apple.com/join/LkWllLxe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/67/57/63/675763b2-5b82-8469-5b0d-3db95bb90773/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:09:10.617Z
+Categories:
+
+
+Name: BitMaps: Bite-Size Map Widgets
+Url: https://testflight.apple.com/join/7tjic8Hz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4f/f8/c0/4ff8c0a7-bd3b-65e6-92a0-365505a67d68/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:09:10.646Z
+Categories:
+
+
+Name: Uber Conta Hml
+Url: https://testflight.apple.com/join/GZHoMcHA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f3/31/97f3319d-f763-67b2-ecc6-8047a462f510/AppIcon-Hml-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:09:10.674Z
+Categories:
+
+
+Name: Consolinno Energy HEMS
+Url: https://testflight.apple.com/join/WsGtsHsP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/a1/99/0da1998f-d4f7-3f17-3aac-f6a307947242/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:09:10.703Z
+Categories:
+
+
+Name: J-Wallet
+Url: https://testflight.apple.com/join/ie76LZCG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/99/27/55992778-19c7-f4d1-4c31-463915379b1e/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T01:09:10.731Z
+Categories:
+
+
+Name: Microsoft Planner
+Url: https://testflight.apple.com/join/moiTpIqb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/78/99/0a789905-63ac-1634-a664-31ff455fde50/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T01:09:10.760Z
+Categories:
+
+
