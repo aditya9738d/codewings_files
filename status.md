@@ -5380,3 +5380,120 @@ Last Checked: 2024-06-05T11:51:11.982Z
 Categories:
 
 
+Name: NextStats
+Url: https://testflight.apple.com/join/9a4X8KBQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/7e/92/527e92c0-225f-b1e9-e736-ab29db6c2c68/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.550Z
+Categories:
+
+
+Name: vokiemus
+Url: https://testflight.apple.com/join/sbLruW6l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/14/27/af1427a8-26c8-8916-1513-486cbc70afa3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.585Z
+Categories:
+
+
+Name: iDMS.Nazzy
+Url: https://testflight.apple.com/join/sWI9SK87
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/91/56/b9915624-71e6-4059-9bb7-c820ff8ade81/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.620Z
+Categories:
+
+
+Name: FRITZ!App Smart Home
+Url: https://testflight.apple.com/join/kzVJhIg1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/84/ee/a084ee4e-5c4c-520a-2a22-87172ab00260/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.656Z
+Categories:
+
+
+Name: Capacities
+Url: https://testflight.apple.com/join/agRhmlby
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/22/c0/da22c037-692e-2b6d-4762-6e71a6361cbd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.691Z
+Categories:
+
+
+Name: BeauTech2
+Url: https://testflight.apple.com/join/LbpX2l7O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/d5/41/ccd541b6-fe3a-6e7d-3e4a-0603977a5739/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.727Z
+Categories:
+
+
+Name: NL Classifieds: Shop Local
+Url: https://testflight.apple.com/join/mgBYidoN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/72/34/6b7234ce-a7e8-2453-048b-e6e3e8e08a4a/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.762Z
+Categories:
+
+
+Name: PLAY SWING
+Url: https://testflight.apple.com/join/3TsNwhkd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/f8/bd/88f8bd2b-70cd-de41-f596-c6adfebeff67/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.798Z
+Categories:
+
+
+Name: Roon Remote
+Url: https://testflight.apple.com/join/uyG60hp2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/e4/5f/87e45fe5-8361-4096-59df-a48afbd73182/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.833Z
+Categories:
+
+
+Name: Strongineering
+Url: https://testflight.apple.com/join/1zhF7cmn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/8b/79/838b7905-d4aa-328b-2513-d7f623ed6c3b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.869Z
+Categories:
+
+
+Name: N1broker
+Url: https://testflight.apple.com/join/Ql500K0e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4c/03/25/4c032507-72bf-58e8-b7ca-7e58ef8e05cc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.905Z
+Categories:
+
+
+Name: eShop Multivendor Customer
+Url: https://testflight.apple.com/join/ekx7AYUP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/0f/a9/e80fa9f1-e8f7-e94c-491d-e4f21c306c9c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.941Z
+Categories:
+
+
+Name: Onion Browser
+Url: https://testflight.apple.com/join/90DvGBOE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/78/49/be/7849be5c-6b5a-e5dd-cc39-3c430cd76318/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T11:52:14.977Z
+Categories:
+
+
