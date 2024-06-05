@@ -18107,3 +18107,120 @@ Last Checked: 2024-06-05T18:14:14.721Z
 Categories:
 
 
+Name: Chronomizer: Custom Watchfaces
+Url: https://testflight.apple.com/join/m5xuQxCN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/ec/68/a5ec68c4-6ccd-9d02-8e6f-db45b1b4ac39/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:15:25.570Z
+Categories:
+
+
+Name: BBVA Spain | Online banking
+Url: https://testflight.apple.com/join/Fjj4M9xp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d1/79/15/d1791563-abe6-a7fc-6f0f-3c931dfb3aeb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:15:25.608Z
+Categories:
+
+
+Name: School Assistant – Planner
+Url: https://testflight.apple.com/join/KWohJ5aL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/12/d6/df12d62a-897c-6e9f-237d-5a45959924f4/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T18:15:25.644Z
+Categories:
+
+
+Name: deadsound
+Url: https://testflight.apple.com/join/7KNeR1zy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/8a/21/988a2127-fdde-50b6-a6fd-43a890e2484f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:15:25.679Z
+Categories:
+
+
+Name: Parcel - Delivery Tracking
+Url: https://testflight.apple.com/join/fMeg6C4A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/2c/45/8c2c45c8-9d13-2c67-4f68-7d58a72e4670/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T18:15:25.715Z
+Categories:
+
+
+Name: CoreLogic Smart Survey Test
+Url: https://testflight.apple.com/join/mauENzvi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/c0/80/96c080a6-0977-8c48-7a5b-9cedc91469e7/AppIcon-Test-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:15:25.750Z
+Categories:
+
+
+Name: Boop - Instant Networking
+Url: https://testflight.apple.com/join/lhiEluu4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/de/cb/3cdecb05-07ea-68f7-50d7-3c0d851c1fe2/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:15:25.788Z
+Categories:
+
+
+Name: PuffGo
+Url: https://testflight.apple.com/join/8gX0EHpR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/a5/28/2da52804-1d72-067b-6e1c-6f79908abc70/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T18:15:25.824Z
+Categories:
+
+
+Name: TaraMap
+Url: https://testflight.apple.com/join/hPAmQcl3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/4e/4d/614e4d18-ecdf-d5f4-6ace-71a0c67d56ac/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T18:15:25.859Z
+Categories:
+
+
+Name: Pro epicery
+Url: https://testflight.apple.com/join/8NrpK6Bc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/ec/62/29ec625a-d228-0541-386d-858d77d76c14/prodAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:15:25.895Z
+Categories:
+
+
+Name: Simple Scan • Quick Scanner
+Url: https://testflight.apple.com/join/5I9XpfUP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/20/b2/8820b2bc-32d3-a7cf-dc1b-386b72bd7819/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:15:25.931Z
+Categories:
+
+
+Name: ONE Link – Device management
+Url: https://testflight.apple.com/join/A2sl6Kiu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/30/57/2030570a-328e-e8ea-4be2-c0285ac717f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:15:25.967Z
+Categories:
+
+
+Name: LeitzXPert
+Url: https://testflight.apple.com/join/Ugn8mYBJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/22/77/ad22777d-f1fb-fa27-3b72-bcbb582f5b5b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:15:26.003Z
+Categories:
+
+
