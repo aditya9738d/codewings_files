@@ -26063,3 +26063,120 @@ Last Checked: 2024-06-05T19:27:10.986Z
 Categories:
 
 
+Name: MusicSmart - Liner Notes
+Url: https://testflight.apple.com/join/Rkfj7TSD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/66/f6/2766f679-4924-480c-8ecb-47744c988d71/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T19:28:12.014Z
+Categories:
+
+
+Name: My NTRA
+Url: https://testflight.apple.com/join/idT2CKHB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d8/62/2a/d8622ad3-a681-f870-3df4-1edf6c784562/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.043Z
+Categories:
+
+
+Name: Alkepedia
+Url: https://testflight.apple.com/join/PMK2fqhz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/0d/e1/b00de188-9554-b53b-60e7-73c7056e3679/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.073Z
+Categories:
+
+
+Name: Jumbosouq
+Url: https://testflight.apple.com/join/Ka7Jficj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/e9/27/dee927e9-2bff-56ba-0e0d-ba8ae8ed2d7d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.102Z
+Categories:
+
+
+Name: Onjabet
+Url: https://testflight.apple.com/join/6BMzRnUw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/86/57/61865744-68fc-5d9b-cbdb-2e67e4dece4d/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.131Z
+Categories:
+
+
+Name: FAN Academy App
+Url: https://testflight.apple.com/join/oELDReWR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/b1/aa/2cb1aa7d-5857-c156-4b74-c8f0f05b0d3b/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.160Z
+Categories:
+
+
+Name: Hrapp
+Url: https://testflight.apple.com/join/O0BY0Fcu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/28/7a/d2287af2-a005-4f3c-0c45-e3228d3064f8/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.189Z
+Categories:
+
+
+Name: Firefly - Quiz based matches
+Url: https://testflight.apple.com/join/LRJXegxs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/a3/af/fda3af18-78a6-32a0-2d9a-a327182ef0a4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.219Z
+Categories:
+
+
+Name: AixPro
+Url: https://testflight.apple.com/join/y6GWgaGM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/40/52/f540529a-96a2-afe7-92e7-5d3e08996d9f/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.250Z
+Categories:
+
+
+Name: PSX Multi-Purpose Classified
+Url: https://testflight.apple.com/join/Q7aJ6tnK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/99/39/4d/99394d24-4c6f-6bd9-9bc6-42f9123c554e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.279Z
+Categories:
+
+
+Name: Skedulo Plus
+Url: https://testflight.apple.com/join/NcMZL2e3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/a3/98/3ea39801-10c8-f53c-bc3f-f7cb31be750c/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.308Z
+Categories:
+
+
+Name: My Vodafone Ukraine
+Url: https://testflight.apple.com/join/Lg9WYrsn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/8f/ab/7a8fab0a-cd6f-e96a-969e-5b91b0509f44/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.337Z
+Categories:
+
+
+Name: FS8
+Url: https://testflight.apple.com/join/tQOHoB8x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/fb/95/35fb9535-2515-8c3a-cf39-1a9f15ca4b36/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:28:12.365Z
+Categories:
+
+
