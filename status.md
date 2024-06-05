@@ -27844,3 +27844,120 @@ Last Checked: 2024-06-05T15:15:23.654Z
 Categories:
 
 
+Name: DTNewsApp
+Url: https://testflight.apple.com/join/9LOKWQMn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b3/88/f7/b388f7f5-bfe1-6ca5-5253-67dd8915eb86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:16:09.976Z
+Categories:
+
+
+Name: DTWeb
+Url: https://testflight.apple.com/join/XtQzoc7P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/30/25/72/302572cd-3ea3-fd71-43e1-8aa534cb6b0a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:16:10.011Z
+Categories:
+
+
+Name: DTect Parcel
+Url: https://testflight.apple.com/join/sSN52W3D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/34/28/4f34284f-9ab8-036c-863d-f9ea43c08845/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:16:10.048Z
+Categories:
+
+
+Name: Dabbsson
+Url: https://testflight.apple.com/join/VGm2QxEK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/41/f7/d6/41f7d68b-4b2f-1c67-0bc2-f2d527c79613/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T15:16:10.083Z
+Categories:
+
+
+Name: Daily Planner Calendar - Myday
+Url: https://testflight.apple.com/join/WtpRtuGC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/2c/04/962c0448-0018-4850-2e63-121747f7f349/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T15:16:10.119Z
+Categories:
+
+
+Name: Daily TODOs
+Url: https://testflight.apple.com/join/yI66XvVd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/e9/69/b5e96960-0c1f-1602-4f95-20c0fbb383c3/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:16:10.153Z
+Categories:
+
+
+Name: DanceDuel : Dance Game
+Url: https://testflight.apple.com/join/bXdvlprE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/06/71/000671f7-8a48-06a9-187d-f36dede90754/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:16:10.188Z
+Categories:
+
+
+Name: Dancing Line Community Edition
+Url: https://testflight.apple.com/join/XnV3J5fu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/b7/90/81b7909c-2720-0a48-3deb-3bded481cf22/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: error
+Last Checked: 2024-06-05T15:16:10.223Z
+Categories:
+
+
+Name: ElevateDarts
+Url: https://testflight.apple.com/join/3jcns7lc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/d3/af/6bd3aff7-4758-f856-cd41-92431b61f584/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T15:16:10.258Z
+Categories:
+
+
+Name: DartsParty
+Url: https://testflight.apple.com/join/OthEcUVS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/ba/9f/83ba9fde-fc49-f23a-3f8a-44fec691bf80/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:16:10.293Z
+Categories:
+
+
+Name: DashBoard SoGTVT
+Url: https://testflight.apple.com/join/v4353UcL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/ba/b2/58bab2cc-8b4f-deab-e4f8-acae6685e71e/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:16:10.329Z
+Categories:
+
+
+Name: Dating CA
+Url: https://testflight.apple.com/join/YtgtFSxm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/74/e7/6074e773-5071-179d-e28b-35329d4e73cf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 16
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:16:10.364Z
+Categories:
+
+
+Name: Daxko
+Url: https://testflight.apple.com/join/kCG4pkpm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/54/f6/1f/54f61f43-ba76-590c-e07b-faa456f97caa/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-05T15:16:10.400Z
+Categories:
+
+
