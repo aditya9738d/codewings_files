@@ -13102,3 +13102,120 @@ Last Checked: 2024-06-05T00:42:12.349Z
 Categories:
 
 
+Name: FoXray
+Url: https://testflight.apple.com/join/CcuVfzon
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/fc/e5/fcfce543-dd3c-77fa-d706-14160bcf1426/IconBlue-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.237Z
+Categories:
+
+
+Name: PrioBike
+Url: https://testflight.apple.com/join/GXdqWpdn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0f/6d/e10f6dbc-6cf1-56b9-6bee-afa668346ca0/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.265Z
+Categories:
+
+
+Name: HERE Crypto Wallet
+Url: https://testflight.apple.com/join/osMqBAZ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/c6/bf/40c6bf38-9c35-13f6-301a-95fb811c4deb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.294Z
+Categories:
+
+
+Name: Unio
+Url: https://testflight.apple.com/join/sfhDqyz9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/23/d5/f3/23d5f30e-26d1-6cd6-4536-95610d44febe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.322Z
+Categories:
+
+
+Name: DFC DCP
+Url: https://testflight.apple.com/join/C7ZN9Fxc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/44/22/c644229e-4138-a157-740f-5e198922fc02/AppIcon-0-0-1x_U007emarketing-0-5-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.350Z
+Categories:
+
+
+Name: Home Appliances Smart Service
+Url: https://testflight.apple.com/join/wOlozIXw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/04/6d/ca/046dca0e-2a10-ed3a-664c-6073cf6cf08c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.389Z
+Categories:
+
+
+Name: Zeeverse
+Url: https://testflight.apple.com/join/x7XlR5Ij
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/b6/bf/deb6bf7c-e5bc-6c9a-5589-f1d97c395ed7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.417Z
+Categories:
+
+
+Name: the athlete's foot
+Url: https://testflight.apple.com/join/KojwNhua
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/db/cc/ee/dbcceefd-b11f-34e1-8bae-8e2317137898/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.445Z
+Categories:
+
+
+Name: Simbiotik VTS
+Url: https://testflight.apple.com/join/kkpvdXzF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/d8/e4/d7d8e416-1756-16d6-cf8b-529d871b8479/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.473Z
+Categories:
+
+
+Name: Chronicle - Bill Organizer
+Url: https://testflight.apple.com/join/w40ogK7n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/3d/d5/4e3dd5ad-f0e9-8586-eb5a-516d1449762a/iconLight-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.503Z
+Categories:
+
+
+Name: Sisiban
+Url: https://testflight.apple.com/join/y7KuF31I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/70/2e/1a702e50-e549-f18a-7d73-8f72d840e3a6/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.531Z
+Categories:
+
+
+Name: SUBWAY® Mexico
+Url: https://testflight.apple.com/join/VGYi9gZo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/fc/24/79fc2471-ae8e-8d4e-867d-252f77162b1c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.560Z
+Categories:
+
+
+Name: IBM MaaS360
+Url: https://testflight.apple.com/join/Xiv1aFBM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/7d/fe/bf7dfeb6-a0d0-7f40-fc05-e4f12b00b25a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:43:10.588Z
+Categories:
+
+
