@@ -25153,3 +25153,120 @@ Last Checked: 2024-06-05T23:35:17.408Z
 Categories:
 
 
+Name: Wasl
+Url: https://testflight.apple.com/join/UGZO93ve
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/44/cf/1844cfd8-be1d-1ce2-175c-2e92b959af40/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.534Z
+Categories:
+
+
+Name: Trading 212
+Url: https://testflight.apple.com/join/xs3VuheV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/bf/1a/3abf1a75-0da6-121d-2379-9e5258f8a168/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.562Z
+Categories:
+
+
+Name: D3DSocial
+Url: https://testflight.apple.com/join/qte7cYNn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/79/64/db79643d-2c0b-4e8e-da85-6e89b963bd83/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.591Z
+Categories:
+
+
+Name: Proton VPN: Fast & Secure
+Url: https://testflight.apple.com/join/3yl2MSbw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/45/a6/6c45a693-d9ae-b6ed-5bbd-1e8a5b20d173/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.619Z
+Categories:
+
+
+Name: Medisafe Medication Management
+Url: https://testflight.apple.com/join/4RXMF7OU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/7d/58/1b7d58bb-f76f-ae84-0c95-e227b544da8a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.647Z
+Categories:
+
+
+Name: Sicoob
+Url: https://testflight.apple.com/join/qxOTQRZC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/cc/f0/8bccf01a-e5b3-c9eb-d22b-9af89b6aeec8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.675Z
+Categories:
+
+
+Name: SmartPost - Post Scheduler
+Url: https://testflight.apple.com/join/a0zXMXbA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/52/75/5652751b-6267-ae2b-9ff9-5ec9302a4876/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.704Z
+Categories:
+
+
+Name: Beem: Video and Audio calls
+Url: https://testflight.apple.com/join/EdedfTyW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/7c/c6/ec7cc6d7-9b58-47aa-332e-190fb3b5ae9c/AppIcon-0-0-1x_U007emarketing-0-5-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.732Z
+Categories:
+
+
+Name: Boulder Logbook
+Url: https://testflight.apple.com/join/mfbctDHE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/3b/d1/823bd164-5f1d-91ab-8a80-35c83e69d592/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.760Z
+Categories:
+
+
+Name: Soro - For Sonos
+Url: https://testflight.apple.com/join/kZxRJCNw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/c8/88/61c88877-2221-5841-4963-0c2de4b48850/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T23:36:11.788Z
+Categories:
+
+
+Name: Genesis Intelligent Assistant
+Url: https://testflight.apple.com/join/Jw6NmgWd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/84/1b/04841b0a-9645-094d-1208-c0a748918cbe/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.817Z
+Categories:
+
+
+Name: Monal - XMPP chat
+Url: https://testflight.apple.com/join/lLLlgHpB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/e8/b0/b4e8b0fc-aa77-5fac-7c14-56b9675f2240/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.846Z
+Categories:
+
+
+Name: Pal: Caregiver Support
+Url: https://testflight.apple.com/join/rcsTBqvI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/f6/e6/70f6e6e7-cec7-b75f-e215-ec0c699cff63/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:36:11.875Z
+Categories:
+
+
