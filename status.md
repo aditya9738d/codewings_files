@@ -16612,3 +16612,120 @@ Last Checked: 2024-06-05T13:34:14.578Z
 Categories:
 
 
+Name: Maparoni
+Url: https://testflight.apple.com/join/SRSMIS7k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/44/ec/0e/44ec0e20-7186-67c1-20d9-faf2ca00e6bb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.065Z
+Categories:
+
+
+Name: RayStar
+Url: https://testflight.apple.com/join/Y7UGcs86
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fd/74/9d/fd749d8b-7bf8-7676-0624-b132a7af238a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.094Z
+Categories:
+
+
+Name: Daikin WH Keeper
+Url: https://testflight.apple.com/join/CzfagVlc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/01/bd/6201bd38-9926-c920-de18-81a7ae1b8ff9/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.122Z
+Categories:
+
+
+Name: Nam Viet Corp
+Url: https://testflight.apple.com/join/XhywUd3m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/05/4e/9f/054e9f2a-9693-2351-558f-ae3369057c55/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.151Z
+Categories:
+
+
+Name: MUUVS Maps
+Url: https://testflight.apple.com/join/Pvp1SbHS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/2f/8e/992f8e9e-5a7a-070f-ef9d-6b9c881fc86e/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.180Z
+Categories:
+
+
+Name: S3XY Watch Key Fob
+Url: https://testflight.apple.com/join/eKkI97SF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/29/65/a12965e5-1cbb-4dc7-6e37-968df11c60dc/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.208Z
+Categories:
+
+
+Name: NCB OTP TEST
+Url: https://testflight.apple.com/join/eteBAdfs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/7e/1d/ec7e1dce-4700-b82a-f21e-9f85bda4ee8f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.237Z
+Categories:
+
+
+Name: Tops-UAT
+Url: https://testflight.apple.com/join/jNcbqrm3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/34/b6/5a34b6c8-a119-bc5a-2b46-576a96df763e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.265Z
+Categories:
+
+
+Name: Pyware 3D Mobile Editor
+Url: https://testflight.apple.com/join/3qhjlHaZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/6d/16/476d16fb-7839-f89d-ff93-03b921bbc584/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.293Z
+Categories:
+
+
+Name: SVT Nyheter
+Url: https://testflight.apple.com/join/KWWcSkTi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/0b/4b/2e0b4b5c-2e0b-a065-fcc8-3158960e8bae/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.323Z
+Categories:
+
+
+Name: PriBank mBanking Test
+Url: https://testflight.apple.com/join/GujYmbdr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/e6/d6/9ce6d616-d4fc-a80a-9ddb-393c8ba09881/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.351Z
+Categories:
+
+
+Name: Fun Toast
+Url: https://testflight.apple.com/join/9FffIbCS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/fa/cb/33facb19-fd81-5bb3-f1e1-3c4843850564/FuntoastIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:35:17.380Z
+Categories:
+
+
+Name: Duel Revolution Beta
+Url: https://testflight.apple.com/join/F8yXrZdF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/22/01/4c/22014c08-6bbe-37b2-2113-42c324fff419/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T13:35:17.412Z
+Categories:
+
+
