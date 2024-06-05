@@ -20455,3 +20455,120 @@ Last Checked: 2024-06-05T09:53:13.382Z
 Categories:
 
 
+Name: GNC LiveWell
+Url: https://testflight.apple.com/join/PlJqoLRc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/a8/33/a5a83393-7419-9724-a732-c2a2f19b6202/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: error
+Last Checked: 2024-06-05T09:54:13.059Z
+Categories:
+
+
+Name: STACKAAR
+Url: https://testflight.apple.com/join/o0eSwBIs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/14/7b/e8147bd5-fac0-df1c-1e3f-634e58277a36/AppIcon-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:54:13.089Z
+Categories:
+
+
+Name: bob World Digital Rupee
+Url: https://testflight.apple.com/join/FYc6DAdE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/6d/ea/266dea0a-4a07-c61d-9d00-0e1f5b739f25/AppIconBOB-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:54:13.118Z
+Categories:
+
+
+Name: Sundaymart
+Url: https://testflight.apple.com/join/n3vjyJCx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/bd/7f/91bd7f96-f31a-8c67-5aaa-b025c5c10fc7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:54:13.147Z
+Categories:
+
+
+Name: Cash App Pay Sandbox
+Url: https://testflight.apple.com/join/TZY8IaM9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/dc/93/fedc93b8-698f-5029-a073-e6a35f0252d1/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-05T09:54:13.177Z
+Categories:
+
+
+Name: VirtuaSWAP
+Url: https://testflight.apple.com/join/62K9dz4Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/ac/b2/16acb2d4-25dd-24f0-45ac-8e03bd6e2269/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:54:13.205Z
+Categories:
+
+
+Name: wiggler
+Url: https://testflight.apple.com/join/O6FzQSu2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b5/8a/c5/b58ac515-7b68-e400-fb4f-aef30187b25c/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T09:54:13.234Z
+Categories:
+
+
+Name: NOVABOT-TEST
+Url: https://testflight.apple.com/join/ParKxA0P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/be/93/c4be93ec-797e-0f17-4686-fe4af45df6ec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:54:13.263Z
+Categories:
+
+
+Name: Gluon for Micro.blog
+Url: https://testflight.apple.com/join/RwbLiFcR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/89/10/c989105e-e626-50aa-537b-69c048db22ef/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:54:13.293Z
+Categories:
+
+
+Name: Caesars Palace Online Casino
+Url: https://testflight.apple.com/join/moreVpRL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/0e/47/af0e47d0-f6f6-7a4d-6dad-a80e63560237/AppIcon-CasinoStandalone-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:54:13.322Z
+Categories:
+
+
+Name: NotePlan - To-Do List & Notes
+Url: https://testflight.apple.com/join/fm9q4OjE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/78/99/6e789923-858f-890a-97ad-131b01752f53/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:54:13.351Z
+Categories:
+
+
+Name: White Album
+Url: https://testflight.apple.com/join/L4NRSHp0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/58/4d/47584d1c-26a0-2ae9-fa16-3f501ba4c3aa/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:54:13.380Z
+Categories:
+
+
+Name: Windows App Preview
+Url: https://testflight.apple.com/join/YqNaYeyS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/22/2e/f5222e4e-e6cb-5960-550e-fb29fd757b38/AppIconBeta-85-220-0-4-2x.png/200x200bb-80.png
+Click Count: 8
+Beta Available: full
+Last Checked: 2024-06-05T09:54:13.409Z
+Categories:
+
+
