@@ -13394,3 +13394,122 @@ Last Checked: 2024-06-05T17:21:10.483Z
 Categories:
 
 
+Name: Arm Arena
+Url: https://testflight.apple.com/join/OaBr1tzV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/79/d0/5c79d06c-3025-f814-c303-6d650e07724d/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: full
+Last Checked: 2024-06-05T17:23:09.305Z
+Categories:
+
+
+Name: Jusour-Beta
+Url: https://testflight.apple.com/join/zdZpWEmB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/dd/9f/a6dd9f58-bb4e-93b8-41ca-f2e35b908789/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.342Z
+Categories:
+
+
+Name: FSCB Banking
+Url: https://testflight.apple.com/join/J0HJaCws
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/e3/e6/eae3e6d0-a88c-f654-3890-120e7102164a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.378Z
+Categories:
+- Finance
+
+Name: Lyd - Vision Remote for Sonos
+Url: https://testflight.apple.com/join/NDTrJKcG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6e/57/186e571c-a4b9-8e00-5d34-ab0854c3cb45/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.413Z
+Categories:
+
+
+Name: Onto
+Url: https://testflight.apple.com/join/1QL1gXrP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/01/8f/a6018fcf-ad0b-0a9b-0de2-3400a5fa6b8e/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.449Z
+Categories:
+
+
+Name: Buno
+Url: https://testflight.apple.com/join/Ml8Cn0Fs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/c9/03/dcc903be-4522-eabe-275c-016a0bd5aa24/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.485Z
+Categories:
+
+
+Name: Jusoor
+Url: https://testflight.apple.com/join/1Obdkyq9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/04/5e/6d045ec4-9f99-5a37-638e-47577ef64f5b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.521Z
+Categories:
+
+
+Name: PGArcher
+Url: https://testflight.apple.com/join/6xQslzME
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/56/90/56569056-0391-3d16-3db1-03733682cf45/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.557Z
+Categories:
+
+
+Name: Satsuma Wallet
+Url: https://testflight.apple.com/join/QfWYprVO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/b5/a1/94b5a18b-6373-fbbb-55e5-a26079d20f8b/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.593Z
+Categories:
+- Finance
+- Utility
+
+Name: Changelog Publisher
+Url: https://testflight.apple.com/join/4YdmtpbZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/89/8e/cc898e15-eecd-74e0-ec92-a3027240f874/AppIcon-0-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.629Z
+Categories:
+- Developer
+- Utility
+
+Name: push – workout counter
+Url: https://testflight.apple.com/join/pyNg1Nhc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/24/d6/2024d6e4-ac2d-3295-dce8-2e83eeee260f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.683Z
+Categories:
+- Fitness
+
+Name: BOG X
+Url: https://testflight.apple.com/join/r7gWXcHK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/3f/14/853f1479-2d53-793a-a8c9-3b6297406867/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 36
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.720Z
+Categories:
+
+
+Name: KI Competitor
+Url: https://testflight.apple.com/join/Bj4wQBC8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/f1/cb/a9f1cb85-3f12-232a-ed21-c41ffe053a66/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:23:09.757Z
+Categories:
+
+
