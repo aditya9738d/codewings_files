@@ -14740,3 +14740,120 @@ Last Checked: 2024-06-05T22:01:11.880Z
 Categories:
 
 
+Name: Guardian
+Url: https://testflight.apple.com/join/9rtEeZ1c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ba/cd/8cbacd55-b93c-2de0-f584-95ad8d6edbb0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:02:10.213Z
+Categories:
+
+
+Name: RP Connect
+Url: https://testflight.apple.com/join/4nBHXkBG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/98/39/43983905-46e2-a475-4608-8e95714241ae/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T22:02:10.248Z
+Categories:
+
+
+Name: AstroDX-Beta (Group A)
+Url: https://testflight.apple.com/join/rACTLjPL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c6/71/68c671b3-b964-9bca-28d4-5985bad7587e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T22:02:10.283Z
+Categories:
+
+
+Name: Gymbud.de
+Url: https://testflight.apple.com/join/N4llTAZV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/00/25/21002597-64d6-a433-0478-aa8970b83513/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:02:10.321Z
+Categories:
+
+
+Name: Edforma
+Url: https://testflight.apple.com/join/xSa26EAE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/12/ee/6e12ee11-0bc1-fbaa-1990-2abb6593ef3a/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:02:10.357Z
+Categories:
+
+
+Name: appgefahren News
+Url: https://testflight.apple.com/join/09PLfiVD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e3/0a/80e30a5d-a8bf-33b2-b794-5f17ca6c2dc9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:02:10.392Z
+Categories:
+
+
+Name: MyAniList
+Url: https://testflight.apple.com/join/UtPWYb9D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/27/d0/e927d0eb-99bc-34ed-041f-2d90ef61f2bb/AppIcon-Debug-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T22:02:10.426Z
+Categories:
+
+
+Name: Platform-A
+Url: https://testflight.apple.com/join/rgmIaPN7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/a8/db/e2a8db49-6896-3d80-4c1f-2326a6d15fb7/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:02:10.462Z
+Categories:
+
+
+Name: Gyroflow
+Url: https://testflight.apple.com/join/e0RI1n5i
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/c4/50/2ec450c3-ad7e-ed41-d2bc-db316f8794a9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T22:02:10.497Z
+Categories:
+
+
+Name: HeyoTrip_Test
+Url: https://testflight.apple.com/join/CuqCMlwn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/d1/3d/ffd13d48-bbab-f12e-0371-17ebe4e0f177/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:02:10.533Z
+Categories:
+
+
+Name: SalesKit Library
+Url: https://testflight.apple.com/join/cC8bJ704
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/2b/3f962bf3-a28f-c716-9bb4-3b84191e9303/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:02:10.569Z
+Categories:
+
+
+Name: PeoplesHR Mobile
+Url: https://testflight.apple.com/join/m7sLqT2T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/9c/89/ed9c8970-b375-5157-78c7-ef78e5dbc746/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T22:02:10.606Z
+Categories:
+
+
+Name: FleetCommander℠
+Url: https://testflight.apple.com/join/Z4NK5M51
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/59/00/a6/5900a602-58f8-a163-fc11-e242ec60ab9f/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T22:02:10.641Z
+Categories:
+
+
