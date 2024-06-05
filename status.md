@@ -24901,3 +24901,120 @@ Last Checked: 2024-06-05T10:31:11.920Z
 Categories:
 
 
+Name: Affinity Designer 2 iPad Beta
+Url: https://testflight.apple.com/join/g1ygf6P7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/a1/4d/fba14d88-9054-27bd-83e9-5a1b0c550322/DesignerAppIconBeta-1x_U007emarketing-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.284Z
+Categories:
+
+
+Name: Streamie
+Url: https://testflight.apple.com/join/qcOTQQaL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/3b/ad/ad3bad9f-5d73-7621-529b-f727538a52d4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.320Z
+Categories:
+
+
+Name: Thunderobot Keyboard
+Url: https://testflight.apple.com/join/VHgA0BhI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/73/cc/98/73cc987e-51f9-2b50-5878-40889b967a90/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T10:32:12.356Z
+Categories:
+
+
+Name: TLV PTM Staging
+Url: https://testflight.apple.com/join/LhKljmhA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/01/c3/4501c356-4d8e-af81-6696-f9c57e7abd24/AppIcon-stg-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.392Z
+Categories:
+
+
+Name: RESET
+Url: https://testflight.apple.com/join/PS1X5p29
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/75/b8/7975b8a2-c96a-1167-7e50-80d003c84ec3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.428Z
+Categories:
+
+
+Name: What's Up?
+Url: https://testflight.apple.com/join/HELbS6FD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/ec/86/cfec8607-7a4e-eae5-9e57-eefa1c975be0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.463Z
+Categories:
+
+
+Name: Ticket Restaurant® Staging
+Url: https://testflight.apple.com/join/AYwkH0b0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ab/98/8b/ab988b83-e908-d36e-13f4-44e49247403f/AppIcon-0-1x_U007ephone-0-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.499Z
+Categories:
+
+
+Name: Beemi
+Url: https://testflight.apple.com/join/SpzGU7Cf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/7c/65/cb7c6510-1cf2-40f2-0383-840947edd1e1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.537Z
+Categories:
+
+
+Name: SVS 17U
+Url: https://testflight.apple.com/join/pr3s6iSu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/1c/54/5a1c540a-341e-3bdd-7fe8-b2ed23a49e10/AppOtaIcon-0-0-1x_U007emarketing-0-1-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.572Z
+Categories:
+
+
+Name: Mobipetz
+Url: https://testflight.apple.com/join/fPx4rDhW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/3b/3b/b53b3b43-7375-0344-5320-de655f6fdbe3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.608Z
+Categories:
+
+
+Name: Frigoligo
+Url: https://testflight.apple.com/join/nYnbySd8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/33/7d/68337d0e-b642-46ff-8513-efc257799283/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.643Z
+Categories:
+
+
+Name: VictronConnect
+Url: https://testflight.apple.com/join/cvufYMEh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/28/ac/54/28ac5473-de14-83e5-659f-16c585604476/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.679Z
+Categories:
+
+
+Name: Co-op Drive
+Url: https://testflight.apple.com/join/J9uhSXNj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/0f/b7/750fb763-bd5f-1e89-5f4f-3268ccde868d/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:32:12.714Z
+Categories:
+
+
