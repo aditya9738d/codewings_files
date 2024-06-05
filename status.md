@@ -8188,3 +8188,120 @@ Last Checked: 2024-06-05T16:35:21.804Z
 Categories:
 
 
+Name: StellarMate
+Url: https://testflight.apple.com/join/yPEDodh6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/3d/ba/e03dbaa8-8156-8804-5a3a-8db0784d85e4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:10.774Z
+Categories:
+
+
+Name: Step Ring
+Url: https://testflight.apple.com/join/1hLiQ9vs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/c9/ed/8ac9ed5c-f622-792d-c9b5-a9ac1704459c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:10.802Z
+Categories:
+
+
+Name: Stoop inc
+Url: https://testflight.apple.com/join/nqHfoLin
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2f/df/a3/2fdfa3bb-8e70-58a7-cc29-920dcae00896/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:10.834Z
+Categories:
+
+
+Name: Stop Motion Studio Pro
+Url: https://testflight.apple.com/join/rfWbdRvr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/45/63/fb4563a9-ff7c-d29d-5fea-582707359db5/Stop_Motion_Studio_Pro_AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:10.863Z
+Categories:
+
+
+Name: StopwatchDevelop
+Url: https://testflight.apple.com/join/rQTvK01U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/f3/58/51f3586f-36dd-6dc7-08e0-dad202113f1d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:10.891Z
+Categories:
+
+
+Name: StreamCam for OBS & Streamlabs
+Url: https://testflight.apple.com/join/G2nWjlsH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/e6/f1/79e6f1bb-3f60-524b-3a2d-add91c6f5ad5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:10.920Z
+Categories:
+
+
+Name: Streamsaver - Stream Companion
+Url: https://testflight.apple.com/join/QYe4O6Tr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b5/d5/8f/b5d58f91-71da-e7e0-8e94-f68b2d343a92/stylized-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:10.949Z
+Categories:
+
+
+Name: StreetBookies
+Url: https://testflight.apple.com/join/ycSUylsI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/af/44/67/af446736-d794-6044-d75c-77d3277ee60b/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:10.978Z
+Categories:
+
+
+Name: Strides: Habit Tracker + Goals
+Url: https://testflight.apple.com/join/yf1QglKW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/92/29/d4/9229d403-b858-3020-3510-38377dd436b6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:11.006Z
+Categories:
+
+
+Name: Strings Catalog Translator
+Url: https://testflight.apple.com/join/JcKYYGab
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/ba/a9/0fbaa918-b1b2-3ed5-9ca6-82e834b5895e/AppIcon-0-0-2x_U007euniversal-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:11.034Z
+Categories:
+
+
+Name: Study Snacks: Languages & More
+Url: https://testflight.apple.com/join/PBaw6V7Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/60/96/ae609675-cce7-ead7-1459-f4310e9a11b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:11.063Z
+Categories:
+
+
+Name: StudyStream
+Url: https://testflight.apple.com/join/BWd7tE6E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/3d/1e/f83d1e74-2d2a-65e5-6fb3-8f33c86c2b1a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:11.091Z
+Categories:
+
+
+Name: Subjects — school planner
+Url: https://testflight.apple.com/join/BnN6jEaJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/df/8a/69df8a90-8fa1-deb2-7581-fe8ef5f256a6/AppIcon-Green.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:36:11.120Z
+Categories:
+
+
