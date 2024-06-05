@@ -12319,3 +12319,120 @@ Last Checked: 2024-06-05T17:12:12.375Z
 Categories:
 
 
+Name: Discord - Chat, Talk & Hangout
+Url: https://testflight.apple.com/join/gdE4pRzI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/32/8d/95328db5-af1b-1a26-32e5-9cc556d89721/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 11
+Beta Available: full
+Last Checked: 2024-06-05T17:13:10.340Z
+Categories:
+
+
+Name: Batonex
+Url: https://testflight.apple.com/join/3IiGX7uy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/d9/2f/47d92f3a-7649-48f6-6dc3-9abec521031b/Icon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 85
+Beta Available: open
+Last Checked: 2024-06-05T17:13:10.369Z
+Categories:
+
+
+Name: KOSPET FIT
+Url: https://testflight.apple.com/join/4Rfh1gQM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/0b/30/df0b3061-8889-2c3a-14ed-b8f0f0ecc833/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T17:13:10.397Z
+Categories:
+
+
+Name: Varzea
+Url: https://testflight.apple.com/join/hDTCtxrY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d0/0f/88/d00f881b-fde3-b122-02ee-e3ecda768ba3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T17:13:10.426Z
+Categories:
+
+
+Name: F8 LiveStream
+Url: https://testflight.apple.com/join/tvpJzFOW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/6f/ad/e76fadd0-9c04-3c5f-a288-56e1889a2598/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-05T17:13:10.455Z
+Categories:
+
+
+Name: Graphite: Photo to Drawing
+Url: https://testflight.apple.com/join/gRhGuXzI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/40/a6/eb40a6f9-b243-3115-376e-99132ed59694/AppIcon-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T17:13:10.483Z
+Categories:
+
+
+Name: Sapa Dev
+Url: https://testflight.apple.com/join/bACaymuB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4e/50/00/4e50005c-0dfc-edb8-bce0-db58fe017357/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:13:10.511Z
+Categories:
+
+
+Name: QLAT
+Url: https://testflight.apple.com/join/wELnBqRQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/c6/7e/bfc67e46-0d14-1ef6-54c3-3c82a47794a0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:13:10.540Z
+Categories:
+
+
+Name: Onboard Wallet
+Url: https://testflight.apple.com/join/XJU5cuus
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/8e/43/d08e4360-ab10-8d11-300a-6b0eaa75a2ca/prodAppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:13:10.568Z
+Categories:
+
+
+Name: SotaApp
+Url: https://testflight.apple.com/join/71IxEXG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/c5/7a/0dc57a7b-cdb1-5fd0-ce48-02d29f843109/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T17:13:10.596Z
+Categories:
+
+
+Name: Truther
+Url: https://testflight.apple.com/join/kdW8XFwc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0c/e0/05/0ce00568-b117-61fd-2362-dbebd86cd7da/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:13:10.624Z
+Categories:
+
+
+Name: RADii Viewer
+Url: https://testflight.apple.com/join/XU57P5PD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/5e/d5/5d5ed59a-03e3-c202-35be-9368458a881c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:13:10.653Z
+Categories:
+
+
+Name: 100ms Live
+Url: https://testflight.apple.com/join/Uhzebmut
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/3d/f8/543df866-6fdc-76e6-cdc3-848bcc8e43c0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:13:10.681Z
+Categories:
+
+
