@@ -22930,3 +22930,120 @@ Last Checked: 2024-06-05T23:13:10.460Z
 Categories:
 
 
+Name: Boat autopilot bluetooth
+Url: https://testflight.apple.com/join/byXPylwX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/c6/2b/05c62baf-4871-d543-af2d-67d8bac161e3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T23:14:12.826Z
+Categories:
+
+
+Name: VOGA - Podcast & Audiobooks
+Url: https://testflight.apple.com/join/XQ21gmCB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/16/b5/ee16b5fb-197a-2be1-1448-15be910ba7bd/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:14:12.855Z
+Categories:
+
+
+Name: Easee
+Url: https://testflight.apple.com/join/6Z5poT5L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/0e/53/aa0e5333-d544-872b-933c-17efd417a133/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:14:12.884Z
+Categories:
+
+
+Name: Arkheim - Realms at War
+Url: https://testflight.apple.com/join/f6Rm1ucv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/46/1b/cf461b72-a534-17e4-81d9-21f7513e48d3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:14:12.913Z
+Categories:
+
+
+Name: Tropic Match
+Url: https://testflight.apple.com/join/hye8o3Au
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/23/ba/ae23ba12-beb2-b7a2-976b-6d81726f7d25/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:14:12.946Z
+Categories:
+
+
+Name: VCamMocap
+Url: https://testflight.apple.com/join/hv10Id8U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fd/3a/7e/fd3a7e33-45cd-a482-6486-bed4cf0dec88/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:14:12.988Z
+Categories:
+
+
+Name: Tapaday - Daily Minigames
+Url: https://testflight.apple.com/join/JdhOWXqp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/77/f1/5e77f122-6d97-2e0e-ce49-2e53fdae8fb1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:14:13.017Z
+Categories:
+
+
+Name: 1Password: Password Manager
+Url: https://testflight.apple.com/join/fzDLkIVK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/55/c5/6655c5e4-3580-1013-6e59-f51c1618dddf/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T23:14:13.045Z
+Categories:
+
+
+Name: Axos Beta
+Url: https://testflight.apple.com/join/NV4zvK7U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/db/02/a6/db02a606-1479-eb42-018b-c12295841043/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:14:13.075Z
+Categories:
+
+
+Name: Easee Installer
+Url: https://testflight.apple.com/join/8vFggOIU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/78/da/0c78dae5-0c99-d906-4368-816bda1c6467/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:14:13.104Z
+Categories:
+
+
+Name: Zoho Tables - Work Management
+Url: https://testflight.apple.com/join/04FUxbkg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/55/83/be5583b8-9b3e-64e8-f26f-21d349649213/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:14:13.133Z
+Categories:
+
+
+Name: JGD Patient Demo
+Url: https://testflight.apple.com/join/6MxTQulO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/96/2f/f1962f66-17d9-167e-05ca-d7420bd21f75/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:14:13.161Z
+Categories:
+
+
+Name: Meta Horse
+Url: https://testflight.apple.com/join/EFZgK0qz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/b6/59/b9b65997-4a33-fa0b-3dd5-238647e7717e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T23:14:13.189Z
+Categories:
+
+
