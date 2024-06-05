@@ -20689,3 +20689,120 @@ Last Checked: 2024-06-05T09:55:19.168Z
 Categories:
 
 
+Name: Spartan Camera Management
+Url: https://testflight.apple.com/join/Q2j4wD3u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/77/f6/49/77f64979-5f90-4605-5d51-e17bda804394/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.211Z
+Categories:
+
+
+Name: Maintenance IQ
+Url: https://testflight.apple.com/join/vIdktd75
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/6d/64/bd6d6404-218f-3b06-b96e-65e221e235bb/AppIcons-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.240Z
+Categories:
+
+
+Name: Nro SieuCap2.
+Url: https://testflight.apple.com/join/P2G81dBd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/3e/dc/873edcc3-94a1-3076-384b-71a6b7c622e3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.270Z
+Categories:
+
+
+Name: Libero Mail
+Url: https://testflight.apple.com/join/YEQsHyni
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/a6/d4/0fa6d4b7-404d-fd87-cb2c-e61b06934809/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.299Z
+Categories:
+
+
+Name: HiFutureSelf - Future Messages
+Url: https://testflight.apple.com/join/zRKU0Od8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/76/3e/50763eaf-5750-0119-29ab-bc5f620a0bda/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.329Z
+Categories:
+
+
+Name: TruMonitor - TruVent
+Url: https://testflight.apple.com/join/8RIXkqVl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/40/49/6e/40496e05-8657-507a-b4b9-b3e4f774938f/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.358Z
+Categories:
+
+
+Name: PowerAlarm
+Url: https://testflight.apple.com/join/G3MPcq6r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/91/4c/3c914c16-5943-0e2b-dce9-f7da080e5ce6/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.388Z
+Categories:
+
+
+Name: Supernova AI English Practice
+Url: https://testflight.apple.com/join/t3WTd9eN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/b0/ee/08b0ee60-1039-6166-aa07-45d015b75e37/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.417Z
+Categories:
+
+
+Name: UPC TV
+Url: https://testflight.apple.com/join/CuDxceM5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/47/e2/2c47e2df-6a7c-4e07-1523-0f8428801dff/AppIcon-upc_sk-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.446Z
+Categories:
+
+
+Name: My LEXUS
+Url: https://testflight.apple.com/join/bvdS5Fd2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/11/d4/f711d4f3-95da-9ae6-c6a5-165612702873/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.476Z
+Categories:
+
+
+Name: PurplePages.App
+Url: https://testflight.apple.com/join/ECKcvtwi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/f8/43/c1f8434b-b8be-d60c-60e5-e5b86b78b3a7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.505Z
+Categories:
+
+
+Name: Nukua Gestor Comercial STAS
+Url: https://testflight.apple.com/join/X9jhbpWW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/7f/7f/e17f7fd0-a4e4-4248-2b42-572ffd3a1791/AppIcons-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.535Z
+Categories:
+
+
+Name: HCL Connections
+Url: https://testflight.apple.com/join/4aWO2Eib
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/30/c5/0230c5ba-138b-2561-5c92-4ce50fb185ce/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T09:56:12.563Z
+Categories:
+
+
