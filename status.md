@@ -12166,3 +12166,120 @@ Last Checked: 2024-06-05T00:33:12.610Z
 Categories:
 
 
+Name: Flowy Cenotvorba
+Url: https://testflight.apple.com/join/pfslJkJb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/de/f5/f3def504-47a1-7d38-bbc9-611e6bc56a07/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.249Z
+Categories:
+
+
+Name: CartaCloseBeta nhbashi
+Url: https://testflight.apple.com/join/k1jTlFgw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/65/c4/a165c4f3-89fc-8d59-2cdd-1a4828bcd4f3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.286Z
+Categories:
+
+
+Name: Safebox Wallet
+Url: https://testflight.apple.com/join/4Sjq14xs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/52/59/fe/5259fe51-4e52-b571-2c9c-1f1e9a3c70c2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.322Z
+Categories:
+
+
+Name: Flipabit
+Url: https://testflight.apple.com/join/ruyYHU5E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/40/19/15/401915ec-9156-ffd1-ecea-f46ad66291ec/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.358Z
+Categories:
+
+
+Name: Technics Audio Center
+Url: https://testflight.apple.com/join/FH92DLCj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/96/d6/0796d65d-2262-cce2-6d9f-c8835277e24e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.394Z
+Categories:
+
+
+Name: ChinaG
+Url: https://testflight.apple.com/join/tR7h52Yw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/29/9d/bd/299dbd26-ab24-afae-aa8b-51f2b6594b53/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.430Z
+Categories:
+
+
+Name: Pati-Games&Chat
+Url: https://testflight.apple.com/join/OySOWcrj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/7e/68/387e6817-ce6b-15e2-d472-1d4171e60ae8/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.467Z
+Categories:
+
+
+Name: iTAK
+Url: https://testflight.apple.com/join/tSqpq4EI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/80/17/aa8017d6-301c-f555-34e7-9e255bd83764/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.504Z
+Categories:
+
+
+Name: FluxStore manager
+Url: https://testflight.apple.com/join/7a7i6Hst
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/e8/86/83e886c2-a10b-d5af-99a1-d55252db5243/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.540Z
+Categories:
+
+
+Name: Zendure
+Url: https://testflight.apple.com/join/b1s01DSx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7f/97/c2/7f97c2fa-381e-e81c-4ecb-d470269d520c/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.576Z
+Categories:
+
+
+Name: J&T Driver.Vietnam
+Url: https://testflight.apple.com/join/ngwb0Mpe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/b6/81/36b68116-14e5-649d-c8af-f48fc4a3b291/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.612Z
+Categories:
+
+
+Name: STJK
+Url: https://testflight.apple.com/join/4jJ5SvMg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/24/44/65244417-5eee-643b-caae-47e304ef7a0c/AppIcon-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:35:19.648Z
+Categories:
+
+
+Name: Textastic Code Editor
+Url: https://testflight.apple.com/join/QdnuMySm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/5b/24/8f5b2471-de30-0f32-db2b-108325ea43b4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T00:35:19.683Z
+Categories:
+
+
