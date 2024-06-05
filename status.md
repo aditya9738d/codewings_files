@@ -21383,3 +21383,120 @@ Last Checked: 2024-06-05T18:43:10.253Z
 Categories:
 
 
+Name: Niko Home
+Url: https://testflight.apple.com/join/Gieq9Zj2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/84/e8/73/84e8735f-9c4b-6787-87cf-28422d604b99/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T18:44:13.443Z
+Categories:
+
+
+Name: DXRating
+Url: https://testflight.apple.com/join/psw4PxSx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/2a/4d/282a4d0b-3eb5-5301-7eb6-3f21059a9d40/appicon-festival-plus-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:44:13.479Z
+Categories:
+
+
+Name: HKeMobility(UAT)
+Url: https://testflight.apple.com/join/4D1ZPFxw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/94/ed/d794ed9d-55d9-8462-2f04-2946168eff87/AppIcon-UAT-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:44:13.516Z
+Categories:
+
+
+Name: MILITARY D-LIB
+Url: https://testflight.apple.com/join/ARQ9bL6K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/3b/d4/dc3bd409-b98c-95f3-9c4d-150f672581c5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:44:13.552Z
+Categories:
+
+
+Name: Bose QCE Staging
+Url: https://testflight.apple.com/join/gRsE08gV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/70/15/ad701538-6e8e-e8b3-c9c9-101fe50b3a00/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:44:13.587Z
+Categories:
+
+
+Name: TianPlan
+Url: https://testflight.apple.com/join/beToEn3M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/ce/94/f5ce947c-2586-c8ee-d27e-54e0f865b495/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T18:44:13.623Z
+Categories:
+
+
+Name: Catch for Plex
+Url: https://testflight.apple.com/join/P8C0tMcJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/75/5a/ff755adc-a3e1-8ac0-acae-71914f1a224d/App_Icon_-_Small-marketing.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T18:44:13.659Z
+Categories:
+
+
+Name: Olark Mobile
+Url: https://testflight.apple.com/join/KG1HsiuQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/cd/7d/b0cd7db4-7fdd-3766-8c65-50cca88b9a74/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T18:44:13.694Z
+Categories:
+
+
+Name: Microsoft OneNote
+Url: https://testflight.apple.com/join/uDgoqfGS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/4c/c1/144cc1fa-188d-ff36-0229-391b494d2026/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T18:44:13.731Z
+Categories:
+
+
+Name: Puzzle - Aleo Wallet
+Url: https://testflight.apple.com/join/bikon7Nj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/db/2a/21/db2a21aa-bee4-4f3c-0558-88e3e0793adf/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:44:13.767Z
+Categories:
+
+
+Name: cention
+Url: https://testflight.apple.com/join/wYemVAvb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/68/5d/b7/685db71c-ac80-2059-59bb-fd50a975576f/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T18:44:13.803Z
+Categories:
+
+
+Name: ZCITY - UAT
+Url: https://testflight.apple.com/join/OI8oz46n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/ee/8a/e3ee8a30-5ca9-8e0a-3354-1ebc66983481/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:44:13.839Z
+Categories:
+
+
+Name: Twos: Remember & Share Things
+Url: https://testflight.apple.com/join/LUYlGm6k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/5c/20/d25c204e-8c9b-1fc7-8635-7ddb0f3e306f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:44:13.875Z
+Categories:
+
+
