@@ -1168,3 +1168,120 @@ Last Checked: 2024-06-05T19:58:13.241Z
 Categories:
 
 
+Name: Antigram: Instagram breaker
+Url: https://testflight.apple.com/join/uW2PJPKg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/d9/e3/ded9e361-0022-71a2-ad7a-5afb6820d255/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.231Z
+Categories:
+
+
+Name: e-Licence Public UAT
+Url: https://testflight.apple.com/join/bPOyZA5t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/8e/44/6f8e4490-f4b4-86b8-a4d6-f25c61578812/AppIcon-0-0-1x_U007epad-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.258Z
+Categories:
+
+
+Name: Vampire Survivors
+Url: https://testflight.apple.com/join/Q3eOYwKC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/38/c8/e5/38c8e5f7-27b8-0358-ee81-39d036dc917a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.287Z
+Categories:
+
+
+Name: Word Search Game & Languages
+Url: https://testflight.apple.com/join/3cLBFt5K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/c8/3e/47c83e2f-7cbb-aeae-d42f-a13a1a3a9630/AppIconProd-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.314Z
+Categories:
+
+
+Name: AIS Smart CAM
+Url: https://testflight.apple.com/join/lqNJEgTj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/60/b7/8060b7c6-ebaa-a5ef-18a8-0e2c16a3f519/AppIcon-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.342Z
+Categories:
+
+
+Name: EinsatzApp
+Url: https://testflight.apple.com/join/fjR2qiMP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/e1/97/2ee197a2-54f3-25e2-0e7e-02843192dc07/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.371Z
+Categories:
+
+
+Name: Withings Health Mate
+Url: https://testflight.apple.com/join/W6nOwUHe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/12/8e/4d128e51-0559-27b3-43c5-afbe41187468/AppIcon-Release-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.399Z
+Categories:
+
+
+Name: Meinong
+Url: https://testflight.apple.com/join/2dpyW6rC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/be/8e/f3/be8ef39c-446d-e6de-ba0c-749b65f18d50/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.427Z
+Categories:
+
+
+Name: Smart Admin
+Url: https://testflight.apple.com/join/u4Ep8Mpo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/11/37/72113787-d68c-6b84-d1c7-dc245bd8d9e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.456Z
+Categories:
+
+
+Name: DrugN
+Url: https://testflight.apple.com/join/S4SbpUjZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/6b/d0/3c6bd04c-3b89-682d-0e5c-ae094221257f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.483Z
+Categories:
+
+
+Name: RaundTable
+Url: https://testflight.apple.com/join/OIQ6oWbs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/64/85/936485e7-7dc1-ddce-3285-f170a641607f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T19:59:10.512Z
+Categories:
+
+
+Name: AnetaEd
+Url: https://testflight.apple.com/join/g1vKLVi2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/1f/d4/5f1fd4b5-1e56-f58b-8808-340d07fa450e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.540Z
+Categories:
+
+
+Name: Trident App
+Url: https://testflight.apple.com/join/Vs7MAj0D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/b3/1e/66b31e67-e333-a96c-b7fe-2ceb8d2046ee/AppIcon-trident-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T19:59:10.568Z
+Categories:
+
+
