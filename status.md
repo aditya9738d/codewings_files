@@ -14740,3 +14740,120 @@ Last Checked: 2024-06-05T00:56:13.822Z
 Categories:
 
 
+Name: Fandelo Preview
+Url: https://testflight.apple.com/join/f7L4NBen
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/50/b2/a650b287-85f0-8224-03e9-0e29ae89ac25/AppIconPreview-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:57:08.892Z
+Categories:
+
+
+Name: QNB Pay Wallet
+Url: https://testflight.apple.com/join/Sqcc8hLp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/01/fc/4d01fc00-fe16-75e4-e980-e13a50750b56/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:57:08.929Z
+Categories:
+
+
+Name: kuroneko
+Url: https://testflight.apple.com/join/9QdTc7Co
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/ef/37/93ef37d5-641e-6d9f-c14a-3b40720870f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T00:57:08.965Z
+Categories:
+
+
+Name: Fabric – Internet OS
+Url: https://testflight.apple.com/join/yd1SEh8B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/38/5f/68385fb0-c9cc-51cd-ae99-83b72b83c8f2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:57:09.001Z
+Categories:
+
+
+Name: MIC Test
+Url: https://testflight.apple.com/join/7SfF0vGt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/b6/0c/09b60c31-5d67-17cb-6de6-e27895afbadd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:57:09.038Z
+Categories:
+
+
+Name: Odaring Dev
+Url: https://testflight.apple.com/join/bMgZgPqF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/43/ad/9743ad7d-bbec-61c5-817e-16c6eb0bb319/AppIcon-dev-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:57:09.074Z
+Categories:
+
+
+Name: InZone.me
+Url: https://testflight.apple.com/join/hX9dtClm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/9c/d4/659cd4d7-8276-5d74-c439-e59a89f79588/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:57:09.110Z
+Categories:
+
+
+Name: Symptom Snap
+Url: https://testflight.apple.com/join/YJ2D8kKA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/de/6e/d1/de6ed146-d19b-84f1-4a29-698af089bc06/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:57:09.147Z
+Categories:
+
+
+Name: ecnu.im
+Url: https://testflight.apple.com/join/Re8gz1Cz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/b2/da/ebb2da7b-eb63-a862-3df2-40bada2f2fff/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T00:57:09.184Z
+Categories:
+
+
+Name: Diagnostic
+Url: https://testflight.apple.com/join/wp51p2jl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/0b/0e/a10b0eae-99ce-9cab-fb9a-a225c7a5b030/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:57:09.221Z
+Categories:
+
+
+Name: LearnBattle
+Url: https://testflight.apple.com/join/zxzIw9a5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/d9/c4/6ed9c4fb-be6c-a7ff-0401-bb3d5547a013/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:57:09.257Z
+Categories:
+
+
+Name: Jira Cloud by Atlassian
+Url: https://testflight.apple.com/join/2lm7vHBS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/57/ee/d257ee3d-cfc9-9f0d-e285-5c2d477030cf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T00:57:09.294Z
+Categories:
+
+
+Name: Kennen Asset Management
+Url: https://testflight.apple.com/join/yfhyscAR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/10/95/a4/1095a498-af5f-fd57-e959-f082e69f85ae/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T00:57:09.331Z
+Categories:
+
+
