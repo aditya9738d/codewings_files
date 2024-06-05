@@ -7486,3 +7486,120 @@ Last Checked: 2024-06-05T20:54:12.870Z
 Categories:
 
 
+Name: Wayback
+Url: https://testflight.apple.com/join/WdjIsZcp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/87/ba/2f87ba30-e7c0-6ec7-2380-90fb5c50b06b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:55:19.021Z
+Categories:
+
+
+Name: B9ChatAI
+Url: https://testflight.apple.com/join/ATSq4vfs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/54/38/3a5438b5-ce23-70b6-77d0-054d863dcb1a/AppIcon-0-2x_U007euniversal-0-4-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T20:55:19.057Z
+Categories:
+
+
+Name: Lumina_aiimpulse
+Url: https://testflight.apple.com/join/RfXZTKIY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/84/97/9d84975b-36a7-94fd-0be6-a71dd2e6f233/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:55:19.093Z
+Categories:
+
+
+Name: F-Portal Develop
+Url: https://testflight.apple.com/join/bpuMVnWz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/f2/3f/b7f23ffa-112b-0c0d-e1e7-1e1c0c982008/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:55:19.128Z
+Categories:
+
+
+Name: Milta
+Url: https://testflight.apple.com/join/arhLKWmO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/78/58/e978589e-616f-3da0-6b0f-8362f8a24cca/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T20:55:19.163Z
+Categories:
+
+
+Name: Qubika
+Url: https://testflight.apple.com/join/iI7bpjVW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/2b/da/d52bdabb-228f-5fb3-85dc-831158b58b0e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:55:19.199Z
+Categories:
+
+
+Name: Imprivata Locker
+Url: https://testflight.apple.com/join/bU0feGam
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/9b/63/169b6388-2288-8514-74a1-401196992561/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:55:19.234Z
+Categories:
+
+
+Name: Prime Web
+Url: https://testflight.apple.com/join/l6t5kD1G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/fc/61/9ffc61d2-281e-c659-8462-d7cc0c8210ed/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:55:19.268Z
+Categories:
+
+
+Name: Yaapt
+Url: https://testflight.apple.com/join/DiMLxTC4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f6/e4/7ff6e458-ed87-d6de-e9df-43258729e6da/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T20:55:19.304Z
+Categories:
+
+
+Name: BOOM CRM
+Url: https://testflight.apple.com/join/HoCiXQql
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/d3/9e/16d39ec6-3f44-4fb2-fc87-093bca8cc9e0/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:55:19.339Z
+Categories:
+
+
+Name: Bitunix : Crypto & BTC Trading
+Url: https://testflight.apple.com/join/riLL6dc0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/64/56/3b645625-5dd1-3dd7-a25f-883d8a4c598a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:55:19.374Z
+Categories:
+
+
+Name: Meditation Timer - Zenitizer
+Url: https://testflight.apple.com/join/QvKyRJ8x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/a4/d9/f8a4d968-809a-5be3-a4e3-9d708d3d4108/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:55:19.411Z
+Categories:
+
+
+Name: Xelerate Suite
+Url: https://testflight.apple.com/join/L89HPOdQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/20/57/7f/20577f6d-6f27-63c5-b169-ec2216941ed0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T20:55:19.446Z
+Categories:
+
+
