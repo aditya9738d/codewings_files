@@ -19394,3 +19394,120 @@ Last Checked: 2024-06-05T18:26:12.381Z
 Categories:
 
 
+Name: Mobox Pro
+Url: https://testflight.apple.com/join/zusuXNhi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/5c/5c/365c5c3c-2c6e-390c-7e70-587e6cc7faff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:27:11.123Z
+Categories:
+
+
+Name: NOSTRA LOGISTICS ePOD
+Url: https://testflight.apple.com/join/E729A3lz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/e5/a8/f0e5a874-359e-2839-f36e-4ed84be610c4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:27:11.159Z
+Categories:
+
+
+Name: Awesome Habits: Habit Tracker
+Url: https://testflight.apple.com/join/4ptd8XuD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/37/02/de/3702de6f-9b00-e320-bcea-b23b428e2a17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:27:11.195Z
+Categories:
+
+
+Name: Brain in Hand Mobile
+Url: https://testflight.apple.com/join/h0joowGW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/a2/dc/01a2dceb-83ed-3442-0951-863bf516ba71/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:27:11.231Z
+Categories:
+
+
+Name: Solplanet
+Url: https://testflight.apple.com/join/fDnLKHJT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/72/b5/30/72b53040-0a38-135c-ecfd-496823cdbfc1/AppIcon_Dev-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:27:11.266Z
+Categories:
+
+
+Name: HomefarmShip
+Url: https://testflight.apple.com/join/V5WM5A3M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/65/c8/20/65c8201a-6dae-67a2-9df9-a9f2f2a2438f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:27:11.302Z
+Categories:
+
+
+Name: Openvy
+Url: https://testflight.apple.com/join/o1Sq2K1h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/53/97/1a53977f-62e4-560c-4804-7c1ce08ab733/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T18:27:11.338Z
+Categories:
+
+
+Name: Streaks
+Url: https://testflight.apple.com/join/xYB3TvdT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/b2/8c/e2b28ca0-d911-95c3-a2f0-7e02c05c3141/AppIcon-Unfilled-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-05T18:27:11.374Z
+Categories:
+
+
+Name: Element X - Secure messenger
+Url: https://testflight.apple.com/join/uZbeZCOi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/43/6f/85436f85-31e9-4db2-1385-9760842e7e6a/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:27:11.410Z
+Categories:
+
+
+Name: PlantNet
+Url: https://testflight.apple.com/join/XYdwSHKM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6e/26/7a6e26d9-336f-d2b4-debf-9a79cbe792ca/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:27:11.445Z
+Categories:
+
+
+Name: Retro 2
+Url: https://testflight.apple.com/join/IjV5V0zL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/29/1d/4b291d51-32f9-cf75-defc-3397b09ed817/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-05T18:27:11.480Z
+Categories:
+
+
+Name: HTTT Scanner
+Url: https://testflight.apple.com/join/acZZ0ruD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/7e/90/257e9036-f48b-702b-9da8-3c368032edf0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:27:11.516Z
+Categories:
+
+
+Name: NZSB Customer
+Url: https://testflight.apple.com/join/6QH0KiQC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/0d/46/600d46d7-404e-b8dd-86d8-869964523650/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T18:27:11.552Z
+Categories:
+
+
