@@ -23164,3 +23164,120 @@ Last Checked: 2024-06-05T05:59:12.128Z
 Categories:
 
 
+Name: AstraUTM UAE (Beta)
+Url: https://testflight.apple.com/join/LnAZgCQ1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/a6/f1/a5a6f1b8-9308-567b-0769-95535d6473ba/AppIcon-0-1x_U007emarketing-0-7-0-P3-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:01:11.224Z
+Categories:
+
+
+Name: Astro Playbook Showcase
+Url: https://testflight.apple.com/join/4oNF3Add
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/f2/14/dcf21490-7792-fb07-9550-b5b77992502b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:01:11.251Z
+Categories:
+
+
+Name: Astrysk
+Url: https://testflight.apple.com/join/7EFQaTxj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/ad/50/f8ad5073-7309-b56b-8533-cc1051cb579b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:01:11.280Z
+Categories:
+
+
+Name: Ather
+Url: https://testflight.apple.com/join/KBOc7OYz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/c9/16/8ec91605-e658-5092-48d7-0b08991b3543/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:01:11.313Z
+Categories:
+
+
+Name: Atomic Connect
+Url: https://testflight.apple.com/join/V2fqBu19
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/ad/94/a5ad94b8-e6b4-4652-1688-2ef4eeae9aa3/AppIcon-Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:01:11.341Z
+Categories:
+
+
+Name: AubAI
+Url: https://testflight.apple.com/join/XuTpIgyY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/01/ab/d101abaa-99c0-1a10-6d5c-fd0dbef4cb10/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:01:11.369Z
+Categories:
+
+
+Name: Audio Panning Repro
+Url: https://testflight.apple.com/join/hqyG666W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/a7/2e/aea72e43-128e-5bd3-98e4-52b26cf5c018/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:01:11.396Z
+Categories:
+
+
+Name: Aur
+Url: https://testflight.apple.com/join/o2YgXZDb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/c1/b3/c2c1b39d-f12a-c334-6db1-245b78749428/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:01:11.427Z
+Categories:
+
+
+Name: Authenticator 2FA | Sentinel
+Url: https://testflight.apple.com/join/TqRZOFqa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/50/68/8d5068e4-268c-4751-4438-4c7b50fd0b32/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:01:11.454Z
+Categories:
+
+
+Name: AutoGrip GFS-100
+Url: https://testflight.apple.com/join/D30zGnUE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/b1/ae/87b1aebf-3ae5-d562-c4bf-2ed6c2d3cc05/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:01:11.483Z
+Categories:
+
+
+Name: AutoZoomFlutter
+Url: https://testflight.apple.com/join/sYyHEn8m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/96/f5/d796f535-fddf-3349-00ae-cbc6d09d4d27/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:01:11.512Z
+Categories:
+
+
+Name: Autofy App
+Url: https://testflight.apple.com/join/x4CJwNFp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/9b/7e/ea9b7e1d-3568-6a3d-08fc-94e5839167a5/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:01:11.540Z
+Categories:
+
+
+Name: Automanual for YNAB
+Url: https://testflight.apple.com/join/9gH57dyB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/48/38/79483808-71dc-853b-618f-cbbc07ac9916/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:01:11.567Z
+Categories:
+
+
