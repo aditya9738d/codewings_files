@@ -3040,3 +3040,120 @@ Last Checked: 2024-06-05T15:49:09.438Z
 Categories:
 
 
+Name: LosslessSwitcherRemote
+Url: https://testflight.apple.com/join/QDtXe7tV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/8a/0a/a88a0a6c-e7ca-e5f2-167c-b92330ef8a67/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:50:24.187Z
+Categories:
+
+
+Name: Lotus trade concept
+Url: https://testflight.apple.com/join/XhZ0wYUt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/4b/68/d64b68f6-1a21-c072-116d-ade4a94ab707/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:50:24.215Z
+Categories:
+
+
+Name: Love2D Game Maker
+Url: https://testflight.apple.com/join/bCLmQKfQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/20/44/90204420-8c6b-4e6f-d662-8e0bd6dacfad/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T15:50:24.244Z
+Categories:
+
+
+Name: Lucas App Suite
+Url: https://testflight.apple.com/join/djfafmr6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f2/4e/85/f24e8537-bdff-dc16-01f6-7076166bc20a/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T15:50:24.272Z
+Categories:
+
+
+Name: Lucky Supermarkets
+Url: https://testflight.apple.com/join/jYsgeGWy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/c9/c6/97c9c686-51b5-620d-24d4-ed7ac8546569/LuckyAppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:50:24.301Z
+Categories:
+
+
+Name: Lufi: Bilingual Stories
+Url: https://testflight.apple.com/join/VwTvwVWk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/b3/b5/19b3b533-528e-565d-3fa9-62d49556aa25/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:50:24.329Z
+Categories:
+
+
+Name: Luna HWC
+Url: https://testflight.apple.com/join/RbRX3LT5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/cd/6f/9dcd6fbf-0d6a-1371-5afc-6e758e9b39c5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T15:50:24.357Z
+Categories:
+
+
+Name: Lungy: Sleep Exercises
+Url: https://testflight.apple.com/join/MmC4RwiG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/45/89/144589db-200d-5b53-8adb-7751d43754f0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T15:50:24.385Z
+Categories:
+
+
+Name: Lyrak - Live your way
+Url: https://testflight.apple.com/join/c76yIqKK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/f1/5e/12f15ec4-7132-e1a6-354b-5c2d8ef0fa2f/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T15:50:24.413Z
+Categories:
+
+
+Name: M.App Enterprise
+Url: https://testflight.apple.com/join/ZPaCor58
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/70/7a/cf/707acf2e-f9af-2c0b-7b6c-effd5ea28c6d/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T15:50:24.441Z
+Categories:
+
+
+Name: MATRIC - Remote for Windows PC
+Url: https://testflight.apple.com/join/pkXPB9BD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e7/bf/6e/e7bf6eaa-0489-3b95-2f22-c23c52f13c09/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:50:24.469Z
+Categories:
+
+
+Name: MB UAT
+Url: https://testflight.apple.com/join/PAilDClq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b5/83/21/b5832115-63e2-e20a-7b1b-eb9f7fbdd6e4/AMKAppIcon_uat-0-0-1x_U007emarketing-0-7-0-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:50:24.498Z
+Categories:
+
+
+Name: MIDIVision 3D
+Url: https://testflight.apple.com/join/lVmr7qJl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/5d/4b/f65d4b5f-d750-43e1-565e-7ce4ae9cc658/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T15:50:24.526Z
+Categories:
+
+
