@@ -12868,3 +12868,120 @@ Last Checked: 2024-06-05T21:44:11.789Z
 Categories:
 
 
+Name: Net Worth Tracker – Sumio
+Url: https://testflight.apple.com/join/9908Qo7c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/f0/55/6af055c6-5fb3-684c-4469-68805287c5c4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T21:46:11.902Z
+Categories:
+
+
+Name: SaruMoney
+Url: https://testflight.apple.com/join/4rBv12aW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/89/14/e98914a3-f85a-22dd-e222-a688fa7c43fe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T21:46:11.938Z
+Categories:
+
+
+Name: Log-In Homolog
+Url: https://testflight.apple.com/join/IwWjz5bM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/02/0a/f1020a8e-9093-7731-3538-5702bea7aeb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T21:46:11.975Z
+Categories:
+
+
+Name: AppWizard Business App
+Url: https://testflight.apple.com/join/VZf1aegQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2a/ff/f0/2afff068-726b-63ea-e223-c1e6a1d7e71b/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T21:46:12.011Z
+Categories:
+
+
+Name: Touch&
+Url: https://testflight.apple.com/join/g7Edi10N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/0d/77/ac0d7742-45cc-fed0-ad6a-15451d0c0e44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T21:46:12.048Z
+Categories:
+
+
+Name: Nature's Playbook
+Url: https://testflight.apple.com/join/dJKPtyJO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/98/7e/66987e9b-4fdf-aafe-0906-2f119023e95e/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:46:12.084Z
+Categories:
+
+
+Name: GIG Survey
+Url: https://testflight.apple.com/join/wfotTGRq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/16/53/79165322-720c-2433-b4f9-02d382fe18b7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:46:12.119Z
+Categories:
+
+
+Name: Upwork for Clients
+Url: https://testflight.apple.com/join/SDedUCua
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/93/d7/f793d7f6-f372-42fe-6203-9fc2c9cf798d/ClientAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:46:12.155Z
+Categories:
+
+
+Name: Engfull
+Url: https://testflight.apple.com/join/K13UeFpI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/36/e5/5d36e539-3af8-32cc-b960-ffd585048824/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:46:12.191Z
+Categories:
+
+
+Name: Legend Motors Dev
+Url: https://testflight.apple.com/join/CI3DMPLQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/78/9f/02789f3e-859f-3074-48e1-5f1465f1af61/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:46:12.247Z
+Categories:
+
+
+Name: Lyrak
+Url: https://testflight.apple.com/join/c76yIqKK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/f1/5e/12f15ec4-7132-e1a6-354b-5c2d8ef0fa2f/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:46:12.283Z
+Categories:
+
+
+Name: Map Marker: places organizer
+Url: https://testflight.apple.com/join/nQWmtq8I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/b7/c3/27b7c361-7416-2afc-309f-2963feab28dd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:46:12.320Z
+Categories:
+
+
+Name: Cactos
+Url: https://testflight.apple.com/join/d2KSiLWe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/75/a2/0f/75a20f85-580e-8aa4-987e-d37e8e83abf3/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:46:12.356Z
+Categories:
+
+
