@@ -14155,3 +14155,120 @@ Last Checked: 2024-06-05T00:51:10.810Z
 Categories:
 
 
+Name: VivaHut
+Url: https://testflight.apple.com/join/Tza9mQtS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/be/3f/febe3f57-02fa-e934-872c-c39625ee3b3e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.078Z
+Categories:
+
+
+Name: Gesuido
+Url: https://testflight.apple.com/join/3tcSPCbC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/65/2f/9e652fe4-e634-3c1a-8d02-9daeb70cdc84/AppIcon-0-1x_U007emarketing-0-2-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.107Z
+Categories:
+
+
+Name: FlyGaruda
+Url: https://testflight.apple.com/join/f08i11gf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/62/d4/6b62d45b-51f8-26eb-36b6-5a75950f13fe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.135Z
+Categories:
+
+
+Name: MICPro Test
+Url: https://testflight.apple.com/join/bDHRA00p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/65/fe/1365fed3-c467-156d-ae0d-16ade3cf5dc9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.163Z
+Categories:
+
+
+Name: PRYM
+Url: https://testflight.apple.com/join/H4B4TNo4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/90/43/9e/90439ea3-7708-0644-d3ff-c7acd2d53058/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.192Z
+Categories:
+
+
+Name: Guncho
+Url: https://testflight.apple.com/join/d1nny6zi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/7b/56/537b5659-e045-dbd6-8e7e-dba107c7be79/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.223Z
+Categories:
+
+
+Name: Infinite Drive
+Url: https://testflight.apple.com/join/fDLLZeSk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cd/58/6e/cd586e4b-f4c7-8183-94c7-7cdcec47d427/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.251Z
+Categories:
+
+
+Name: GoEnjoyOversea
+Url: https://testflight.apple.com/join/xDk4MHna
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/6f/3e/5e6f3ec1-341b-2fcf-8f7e-d1782ed3c7c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.280Z
+Categories:
+
+
+Name: Poker Royal
+Url: https://testflight.apple.com/join/L785HuU4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/ce/fc/e6cefc13-d4ea-16ec-fdff-da62513105dc/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.308Z
+Categories:
+
+
+Name: Brew Meister: Measure & Manage
+Url: https://testflight.apple.com/join/LBlwlHNg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/96/04/38960464-d4d6-dc1b-576a-470ca2a07890/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.336Z
+Categories:
+
+
+Name: [UAT] McDonald’s Japan
+Url: https://testflight.apple.com/join/PbVDlHka
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/23/11/83231123-dc82-89a0-2f10-66289fadd9d7/AppIcon-UAT-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.365Z
+Categories:
+
+
+Name: Chelsea FC - The 5th Stand
+Url: https://testflight.apple.com/join/qtkzWwi8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/af/78/9caf7805-0f16-98da-6b9c-6fbdb32e0bd6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T00:52:13.393Z
+Categories:
+
+
+Name: Fountain: Podcast Player
+Url: https://testflight.apple.com/join/42UIoIzi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8c/2e/f88c2ec9-9125-5a1b-3932-a234c956a155/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:52:13.422Z
+Categories:
+
+
