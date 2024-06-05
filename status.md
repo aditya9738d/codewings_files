@@ -13453,3 +13453,120 @@ Last Checked: 2024-06-05T21:50:23.271Z
 Categories:
 
 
+Name: afterFIT (beta)
+Url: https://testflight.apple.com/join/SPnjZ34L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/28/7a/d8287a48-62bc-0874-3277-2dff32f67fbd/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:51:09.778Z
+Categories:
+
+
+Name: movebooth
+Url: https://testflight.apple.com/join/CkBZM6xw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/78/e3/6f78e3aa-096a-930e-7eac-741205e70a4c/AppIcon-0-0-1x_U007emarketing-0-5-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:51:09.814Z
+Categories:
+
+
+Name: Web Translator for DeepL
+Url: https://testflight.apple.com/join/QmZCoDZb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/01/10/02011002-ccdd-bae0-ef18-5aa5c76a757c/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:51:09.851Z
+Categories:
+
+
+Name: Bezogia
+Url: https://testflight.apple.com/join/iQjCrSCt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/ad/ec/e4adec8b-7834-ecf4-3793-934a0ceb05a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:51:09.887Z
+Categories:
+
+
+Name: Football Mates
+Url: https://testflight.apple.com/join/KHYnxy3f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/4b/da/964bda44-9d03-9071-29f6-8b69d3a83883/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:51:09.923Z
+Categories:
+
+
+Name: ZBX
+Url: https://testflight.apple.com/join/veVdy7LQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/17/1f/4f171f3e-51e6-b04f-fb3f-670e1b56bfbd/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:51:09.959Z
+Categories:
+
+
+Name: Blueye
+Url: https://testflight.apple.com/join/H2HWjbK3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/92/48/43924892-f297-d45c-2bed-e3354cd3a0d1/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T21:51:09.998Z
+Categories:
+
+
+Name: Pixelborn
+Url: https://testflight.apple.com/join/Gj4bLeoo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/de/38/9cde3891-d9f2-4c5c-a85c-cb24b809f8ee/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-05T21:51:10.034Z
+Categories:
+
+
+Name: OpenNutriTracker
+Url: https://testflight.apple.com/join/j7uKoEDl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/da/32/ddda325b-137a-e872-45d5-146fa348369c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:51:10.071Z
+Categories:
+
+
+Name: BeReal. Your friends for real.
+Url: https://testflight.apple.com/join/IM4jE5XY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/96/40/e99640cc-ec20-4151-374b-4187fcf0dc14/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T21:51:10.106Z
+Categories:
+
+
+Name: Bike Fun - Group Ride Calendar
+Url: https://testflight.apple.com/join/6sdNvZCG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/ca/cf/f4cacf37-cae8-41c5-076b-290f2c0f2574/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:51:10.142Z
+Categories:
+
+
+Name: The Home Depot
+Url: https://testflight.apple.com/join/wCtQCBPR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/03/66/c703666b-327b-c3d0-f193-fbfbb881bcc0/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T21:51:10.179Z
+Categories:
+
+
+Name: ConnectUC
+Url: https://testflight.apple.com/join/Bp2rBiDS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/58/77/615877eb-3cea-713e-7531-09f77086fdb1/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:51:10.215Z
+Categories:
+
+
