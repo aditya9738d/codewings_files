@@ -11698,3 +11698,120 @@ Last Checked: 2024-06-05T00:29:10.745Z
 Categories:
 
 
+Name: Smart Heating
+Url: https://testflight.apple.com/join/D9s8tE2R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/36/16/4d361633-37d6-7cca-cf30-554262a00d63/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T00:30:46.800Z
+Categories:
+
+
+Name: Nusameta
+Url: https://testflight.apple.com/join/jGJujGvE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/aa/63/71aa63ba-8c53-c089-c83e-8ba0a2bb9f1d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:30:46.830Z
+Categories:
+
+
+Name: GC Insider
+Url: https://testflight.apple.com/join/EyioMtIF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/15/76/6e15769e-ae4d-a9ef-c078-b1db47631695/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:30:46.858Z
+Categories:
+
+
+Name: Jello
+Url: https://testflight.apple.com/join/VdrBFmbL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/4e/af/574eaf80-daae-d5c3-28b3-ea84c55ed94e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:30:46.886Z
+Categories:
+
+
+Name: Deltapath Mobile
+Url: https://testflight.apple.com/join/tcIroNDK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/51/10/63/51106366-c9f3-32b9-b25c-47bad9342205/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:30:46.914Z
+Categories:
+
+
+Name: DocTime
+Url: https://testflight.apple.com/join/6g4SSwKO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/8b/cf/078bcfee-aefc-6dc7-3cc3-bf5de47bdbc4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T00:30:46.942Z
+Categories:
+
+
+Name: SMOLLAN SMART
+Url: https://testflight.apple.com/join/CvWmKloE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/df/f0/b7dff0e8-b8ad-1d59-2011-838d431df0b9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:30:46.969Z
+Categories:
+
+
+Name: HDS Driver App
+Url: https://testflight.apple.com/join/U7AtfURL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/23/c7/bf23c7d7-d568-5ea3-969a-b677e3aba8ef/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:30:46.998Z
+Categories:
+
+
+Name: Tusker
+Url: https://testflight.apple.com/join/wtB7HYvG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/43/d9/e443d988-57ac-3a62-5804-b318c066ee76/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:30:47.025Z
+Categories:
+
+
+Name: MyTan - Chat with AI
+Url: https://testflight.apple.com/join/TOiadljg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/9d/e9/4d9de95a-c598-71c1-1af4-53078ddb6d92/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:30:47.054Z
+Categories:
+
+
+Name: AstroDX-Beta (Group C)
+Url: https://testflight.apple.com/join/CuMxZE2M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/76/51/3a/76513ae3-9498-ae0a-83e0-787a90f763f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T00:30:47.082Z
+Categories:
+
+
+Name: Hayyacom
+Url: https://testflight.apple.com/join/SuQH5AMK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/53/11/ac/5311ac27-a658-81c5-bbe8-12d7dc1adeb4/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:30:47.111Z
+Categories:
+
+
+Name: TAKA Sports
+Url: https://testflight.apple.com/join/oe4iyl4C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/3c/64/b93c64e6-7052-6b1d-3284-e6b2f8006ec3/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T00:30:47.139Z
+Categories:
+
+
