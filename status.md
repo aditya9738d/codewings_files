@@ -10060,3 +10060,120 @@ Last Checked: 2024-06-05T16:52:11.571Z
 Categories:
 
 
+Name: WOWNOW -Food Delivery Shopping
+Url: https://testflight.apple.com/join/J7eBRagg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/d6/a0/a0d6a0e7-ad33-7637-652c-8336f0a35642/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-05T16:53:09.598Z
+Categories:
+
+
+Name: WTPay-VCard
+Url: https://testflight.apple.com/join/KhagbfCX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/5c/c0/6e5cc045-645b-5262-fe51-2e1f64adf7a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:53:09.634Z
+Categories:
+
+
+Name: WaiterOne
+Url: https://testflight.apple.com/join/RzByKIma
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/0b/14/760b14d6-c08a-c5ea-7a9b-9a77d2dd4afc/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-05T16:53:09.670Z
+Categories:
+
+
+Name: WaiterOne Remote
+Url: https://testflight.apple.com/join/yVrON1h7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/6f/0a/2f6f0a63-0b9f-65fb-0999-93578a8f15e6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-05T16:53:09.706Z
+Categories:
+
+
+Name: WalkingDoggo
+Url: https://testflight.apple.com/join/xiPCiYPS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/35/36/ff3536e2-ecde-eeeb-3a83-1d1fc3024548/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:53:09.742Z
+Categories:
+
+
+Name: Walleri
+Url: https://testflight.apple.com/join/kex6mnjV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/95/da/0795dafc-e2ad-15bc-f97b-054998a451c3/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:53:09.779Z
+Categories:
+
+
+Name: Walletry
+Url: https://testflight.apple.com/join/zXT4XA9V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/3a/f4/673af4b4-352d-6548-acd5-67e928873ae5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:53:09.815Z
+Categories:
+
+
+Name: WarehouseX
+Url: https://testflight.apple.com/join/9AzkMRFQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5f/e7/ab/5fe7aba8-1e88-a205-75ff-bb13135edd1a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:53:09.850Z
+Categories:
+
+
+Name: Wataniya WiseDrive
+Url: https://testflight.apple.com/join/BDBVnvpv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/cd/29/d9cd29b0-514f-5f34-76ba-7971e1d96b20/AppIcon_wd-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:53:09.886Z
+Categories:
+
+
+Name: Water Taxis AUS - Skippers
+Url: https://testflight.apple.com/join/uncAa91l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/01/3d/ab/013dabc4-2d9f-3bb6-d223-2981f3d33d3e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:53:09.922Z
+Categories:
+
+
+Name: Watsons eDr UAT
+Url: https://testflight.apple.com/join/vAES6efH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/5c/42/da5c4276-1a74-e0d2-6a79-a9588f0b4998/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:53:09.958Z
+Categories:
+
+
+Name: WeHear OX
+Url: https://testflight.apple.com/join/Wk3hRTbK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/cc/50/44cc50b6-912b-7be1-0414-95761b5fe3e4/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:53:09.994Z
+Categories:
+
+
+Name: WeShre-Private
+Url: https://testflight.apple.com/join/MFAluwhp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5e/3c/8b/5e3c8bbd-358a-775f-c944-9b96934594be/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:53:10.030Z
+Categories:
+
+
