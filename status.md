@@ -12940,3 +12940,124 @@ Last Checked: 2024-06-05T08:47:11.005Z
 Categories:
 
 
+Name: Rumble Beans
+Url: https://testflight.apple.com/join/L8E6pwG8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/c4/15/e4c415b5-ddc7-7758-a917-803a820bca57/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 23
+Beta Available: open
+Last Checked: 2024-06-05T08:48:13.522Z
+Categories:
+
+
+Name: Revolut: Send, spend and save
+Url: https://testflight.apple.com/join/oqrinjQB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/7a/a3/c27aa380-f53a-0cd9-194d-c69a36976bc0/AppIcon-Production-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-05T08:48:13.557Z
+Categories:
+
+
+Name: YakiHonne
+Url: https://testflight.apple.com/join/tcXozZIu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/43/47/60434750-d2ca-1743-2175-567b067cd81b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T08:48:13.592Z
+Categories:
+
+
+Name: Balance: Meditation & Sleep
+Url: https://testflight.apple.com/join/5V7gW8Zc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/20/7f/9e207fa8-3272-54cd-71f4-65c534bbd224/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-05T08:48:13.627Z
+Categories:
+
+
+Name: GameScent
+Url: https://testflight.apple.com/join/QMLqUfts
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ce/fb/5b/cefb5ba8-42fb-78bf-b4c2-8e21dc260297/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-05T08:48:13.662Z
+Categories:
+
+
+Name: MPL: Rummy, Poker, Patti Games
+Url: https://testflight.apple.com/join/j6Pz6p3E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/b1/80/afb180e4-2db8-140a-4804-3e62f3995a18/AppIcon-1x_U007ephone-0-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T08:48:13.698Z
+Categories:
+
+
+Name: Lovewick: Relationship App
+Url: https://testflight.apple.com/join/W8EmsRMa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/c7/63/70c76376-0a1b-591d-5d09-f6b5506c89a2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-05T08:48:13.733Z
+Categories:
+
+
+Name: Dupay Pro
+Url: https://testflight.apple.com/join/LpdH6PGp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/50/2b/ab502b61-90f4-f37e-3569-6aefa8d6718b/AppIcon_pro-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-05T08:48:13.769Z
+Categories:
+
+
+Name: MAFC CRM
+Url: https://testflight.apple.com/join/V0RkG8PS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/9a/8a/859a8af5-9314-e43f-7cce-987b9a1c5cff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T08:48:13.804Z
+Categories:
+
+
+Name: eDispatches
+Url: https://testflight.apple.com/join/ah3T3o1b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/a3/85/80a3855a-35ef-c6e1-018f-0daf73c44904/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-05T08:48:13.838Z
+Categories:
+
+
+Name: Mela 5 – AUv3: Synth, FX, MIDI
+Url: https://testflight.apple.com/join/4zbCXvXw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/98/35/f198359e-ec42-2c9a-70f2-fc31c5ae3780/AppIcon-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:48:13.873Z
+Categories:
+
+
+Name: The Kings Wants To Laugh
+Url: https://testflight.apple.com/join/hTqcj6u2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/98/3f/08983f93-ec13-b025-e24b-687c0ffc6390/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: not accepting
+Last Checked: 2024-06-05T08:48:13.908Z
+Categories:
+
+
+Name: Facebook
+Url: https://testflight.apple.com/join/C1a3MRG4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/69/9b/23699bca-3331-b7cf-7b01-65f7e93c1716/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 359
+Beta Available: full
+Last Checked: 2024-06-05T08:48:13.943Z
+Categories:
+- Business
+- Chat
+- Entertainment
+- Social Networking
+- Video
+
