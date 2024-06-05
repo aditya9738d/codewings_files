@@ -17548,3 +17548,120 @@ Last Checked: 2024-06-05T13:42:12.930Z
 Categories:
 
 
+Name: MyRaif
+Url: https://testflight.apple.com/join/w3vLydIr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/95/34/f3953448-2169-add4-3f7f-99f0e8195e59/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:43:10.961Z
+Categories:
+
+
+Name: thuocsi wms
+Url: https://testflight.apple.com/join/D7PK4Csp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b6/8a/bc/b68abc13-f288-50d6-5736-3102eba8ca3c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:43:10.999Z
+Categories:
+
+
+Name: InStoreForms
+Url: https://testflight.apple.com/join/aYKXRfLH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/90/06/10/900610c0-d094-58ce-3290-3250629cbd53/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:43:11.035Z
+Categories:
+
+
+Name: FutureLog Dev
+Url: https://testflight.apple.com/join/5FlCce89
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/c3/03/06c30304-a8dc-2fa9-b207-cff873367bf4/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T13:43:11.071Z
+Categories:
+
+
+Name: Federated Farmers Wallet
+Url: https://testflight.apple.com/join/BAVx66sN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/5b/ec/3a5bec5b-db8b-7289-5d40-9796c7662728/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:43:11.109Z
+Categories:
+
+
+Name: Fusion: Stations and Playlists
+Url: https://testflight.apple.com/join/mgKIQ9hU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/b8/0c/83b80c5e-effc-3edb-b7ac-54e87a8ac023/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:43:11.145Z
+Categories:
+
+
+Name: Embibe Classroom Preprod
+Url: https://testflight.apple.com/join/3qrHb5kN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/11/02/5d1102ab-6d43-6c08-2c6c-4aeb6c030531/AppIconPreprod-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-05T13:43:11.181Z
+Categories:
+
+
+Name: Wattpad - Read & Write Stories
+Url: https://testflight.apple.com/join/CXefLgKK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/1e/8c/771e8cf7-4a95-6516-c03f-087b729bfcc6/AppIconBeta-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:43:11.217Z
+Categories:
+
+
+Name: smallcase: Stock Investments
+Url: https://testflight.apple.com/join/XSkiZoQf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/3e/47/e83e47ca-3fc9-016d-9a1b-ca44f40d83df/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:43:11.253Z
+Categories:
+
+
+Name: iContentPro
+Url: https://testflight.apple.com/join/m0rBXZzt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/69/e4/ff/69e4ffd1-52fd-3d1a-cc48-2c32d3d3d696/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T13:43:11.289Z
+Categories:
+
+
+Name: Steps - Activity Tracker
+Url: https://testflight.apple.com/join/YWU5fJLj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/08/d8/a308d82a-dba2-d617-387b-9e635e5e92f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T13:43:11.327Z
+Categories:
+
+
+Name: Vimcal: Calendar and Schedule
+Url: https://testflight.apple.com/join/W7evUHfZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6d/73/26/6d732682-d809-15d2-37b3-ddea5677560f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:43:11.362Z
+Categories:
+
+
+Name: iCanMall
+Url: https://testflight.apple.com/join/r6ZHVEFA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/68/28/036828d9-850b-1485-1a89-09e8eb26c721/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:43:11.399Z
+Categories:
+
+
