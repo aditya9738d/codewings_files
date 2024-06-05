@@ -9241,3 +9241,120 @@ Last Checked: 2024-06-05T12:29:12.360Z
 Categories:
 
 
+Name: tabifolk
+Url: https://testflight.apple.com/join/K7Xw4iM9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/a6/07/efa6073a-8a60-14f7-b73f-6c94adba0ed0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:30:46.796Z
+Categories:
+
+
+Name: NFC-EBT
+Url: https://testflight.apple.com/join/unmYPwJH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/dd/48/fedd489c-2dc1-eae4-9760-3cd333a0cf57/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:30:46.833Z
+Categories:
+
+
+Name: Prestan Testing
+Url: https://testflight.apple.com/join/SxMdzL97
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/f1/65/19f16595-bc07-166b-7d49-e0b91bd4d338/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T12:30:46.868Z
+Categories:
+
+
+Name: Sculptura 2
+Url: https://testflight.apple.com/join/hFnAJdVU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/15/ef/a315efda-8be6-7bd0-ca70-edd1c6ca03e6/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 58
+Beta Available: open
+Last Checked: 2024-06-05T12:30:46.903Z
+Categories:
+
+
+Name: Dangify
+Url: https://testflight.apple.com/join/RvPeC0xU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/d6/2b/9cd62b87-6809-dbe5-1f28-9a0d873db5d8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T12:30:46.939Z
+Categories:
+
+
+Name: OSS Document Scanner
+Url: https://testflight.apple.com/join/sxiV4ZKL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/0f/4f/f80f4f06-eef9-0d75-5cda-ef07c9fd9af1/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T12:30:46.975Z
+Categories:
+
+
+Name: EIMSApp
+Url: https://testflight.apple.com/join/3Xbgfcdq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/0a/04/1d0a044f-0335-5eb7-e166-a07f479673d6/AppIcon-1-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:30:47.010Z
+Categories:
+
+
+Name: Firewalla
+Url: https://testflight.apple.com/join/qtUnSjJp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/77/fe/f777fe32-41a3-ae91-42bb-c9effd90c995/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:30:47.047Z
+Categories:
+
+
+Name: BosMon Mobile
+Url: https://testflight.apple.com/join/maJOZ07a
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/2b/d6/032bd673-b0cf-1fe2-d04e-3f47ff2bd57e/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:30:47.082Z
+Categories:
+
+
+Name: Cheatsheet Notes
+Url: https://testflight.apple.com/join/m84D5aUu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/34/74/f5347494-cc36-a730-f2d6-cc85169eb2f3/AppIcon-0-2x-0-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T12:30:47.118Z
+Categories:
+
+
+Name: WidgetWorks: Custom Widgets
+Url: https://testflight.apple.com/join/bc5frL3T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b2/d8/71/b2d8717c-23bb-a160-97e3-9c9a39cf9b12/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T12:30:47.154Z
+Categories:
+
+
+Name: KaraFun - Karaoke Singing
+Url: https://testflight.apple.com/join/zeZMtvcX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/d4/f8/fad4f8eb-1a76-0699-c980-211f5102e48e/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:30:47.190Z
+Categories:
+
+
+Name: Oura
+Url: https://testflight.apple.com/join/NPhd6XTF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/24/5f/84245f09-b2df-356d-082d-b63cd23ca044/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T12:30:47.226Z
+Categories:
+
+
