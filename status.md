@@ -25829,3 +25829,120 @@ Last Checked: 2024-06-05T19:25:19.240Z
 Categories:
 
 
+Name: Tapped Ai
+Url: https://testflight.apple.com/join/TbVZMGhA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/c8/40/4ec84014-9093-325c-a585-7a58a67e1e05/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:26:12.770Z
+Categories:
+
+
+Name: Kagi for Safari
+Url: https://testflight.apple.com/join/nx6Gvf4h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/6a/0e/5a6a0e3a-6a78-0651-82d9-fee5e9fe1417/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:26:12.799Z
+Categories:
+
+
+Name: Swords!
+Url: https://testflight.apple.com/join/7jREn7Ry
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/14/08/eb1408a4-8f37-0d38-819a-6c419c6d215a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:26:12.829Z
+Categories:
+
+
+Name: LazyBoard - Phrase Keyboard
+Url: https://testflight.apple.com/join/yus6zCQ0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/5c/d0/f55cd046-543f-5e3c-1f90-5c001e4e9ada/AppIconBeta-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:26:12.858Z
+Categories:
+
+
+Name: Encointer Wallet
+Url: https://testflight.apple.com/join/LFuSsdwT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/e8/12/f6e81272-b864-ec9e-b83c-6264a419b740/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:26:12.887Z
+Categories:
+
+
+Name: ECOVACS HOME
+Url: https://testflight.apple.com/join/gVXPtPlb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/1c/13/631c1355-b8e8-f3c3-eb52-fedc816a0f60/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:26:12.916Z
+Categories:
+
+
+Name: Microsoft Lists
+Url: https://testflight.apple.com/join/FL3caOg6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/c0/7e/03c07e6a-da82-8415-8b61-585fa6084596/ListsAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T19:26:12.945Z
+Categories:
+
+
+Name: Temu: Shop Like a Billionaire
+Url: https://testflight.apple.com/join/x6U6zcbR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/fd/a5/51fda561-7350-ab9c-4fbb-fade819ab5b2/AppIcon-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T19:26:12.975Z
+Categories:
+
+
+Name: Wagon
+Url: https://testflight.apple.com/join/M2xoL0bC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/e8/d7/d5e8d778-1ac2-f86e-3af5-4d10bc5ba95c/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T19:26:13.004Z
+Categories:
+
+
+Name: glimpse - photo dumps
+Url: https://testflight.apple.com/join/L4owCuqX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/72/46/0c/72460cc8-93f7-5d07-d71e-7c87eaf5a9c7/AppIcon-0-1x_U007ephone-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:26:13.033Z
+Categories:
+
+
+Name: VIT SelfCare
+Url: https://testflight.apple.com/join/XNCFbDIf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ef/4f/2b/ef4f2be3-1be6-0e56-8717-bfd0a93af937/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:26:13.063Z
+Categories:
+
+
+Name: DM Electric Bike
+Url: https://testflight.apple.com/join/CBCs1rMu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/41/6c/10416cb5-9fed-1bda-7142-f8a3ad86e3e8/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T19:26:13.092Z
+Categories:
+
+
+Name: Stick War: Saga
+Url: https://testflight.apple.com/join/eUx3WxVj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/2e/2f/da2e2fb5-2997-9655-0375-cad58dc6f0a1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T19:26:13.122Z
+Categories:
+
+
