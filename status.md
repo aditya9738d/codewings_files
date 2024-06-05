@@ -8305,3 +8305,120 @@ Last Checked: 2024-06-05T21:02:11.037Z
 Categories:
 
 
+Name: CubePlus by Tradejini
+Url: https://testflight.apple.com/join/MOBeDJ4G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/89/41/328941dc-1037-9143-19aa-14fbf05f999e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:03:10.297Z
+Categories:
+
+
+Name: SendCrypto - Pay & Send Crypto
+Url: https://testflight.apple.com/join/3atImRmo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/23/4a/ec234a8a-638d-41e7-d4da-bf553d088dda/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:03:10.332Z
+Categories:
+
+
+Name: TalkTime
+Url: https://testflight.apple.com/join/s1bkFX7L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/e5/fe/93e5fe27-b0c3-a8dc-d6ca-6504d62bd1a8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:03:10.367Z
+Categories:
+
+
+Name: Pastel iOS
+Url: https://testflight.apple.com/join/GK3zuCAQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0b/4b/cb/0b4bcbbf-5bdb-f57f-c7f6-f63bc474fa12/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T21:03:10.402Z
+Categories:
+
+
+Name: BellaLift UAT
+Url: https://testflight.apple.com/join/2y4dHkD8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f2/30/c4/f230c4eb-783c-a40c-a616-ea5d2b673355/AppIcon-BellaLift-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:03:10.437Z
+Categories:
+
+
+Name: Utkarsh UPI UAT
+Url: https://testflight.apple.com/join/C4IJHRMy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/13/72/f113728f-fe9d-e6e4-0088-f32bfdd8624c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:03:10.471Z
+Categories:
+
+
+Name: Nico Flap
+Url: https://testflight.apple.com/join/GeGzh9pB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/e0/e7/9ee0e777-cd2c-f49a-3587-dac0a1058421/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:03:10.506Z
+Categories:
+
+
+Name: KerznerPHO-Demo
+Url: https://testflight.apple.com/join/pPtUtx04
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d3/96/c6/d396c671-4ee3-a54c-f38c-a5db58f4738c/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:03:10.541Z
+Categories:
+
+
+Name: Wild Forest
+Url: https://testflight.apple.com/join/nh7RQmKw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/c0/50/76c050de-0874-4bd7-07ac-428fdfd6ff02/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 15
+Beta Available: full
+Last Checked: 2024-06-05T21:03:10.576Z
+Categories:
+
+
+Name: B-Gate
+Url: https://testflight.apple.com/join/gMm00PnS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/80/ea/1f80ea5a-1060-226d-f4e0-d53cc169b615/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:03:10.610Z
+Categories:
+
+
+Name: Staff Image Capture
+Url: https://testflight.apple.com/join/MP1unpTF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/99/88/d29988da-3b7b-3948-2bb6-9b700cdf0d80/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:03:10.645Z
+Categories:
+
+
+Name: mushroom ios combros
+Url: https://testflight.apple.com/join/gkr5dQ5t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b5/60/fb/b560fb84-8cce-4412-6231-43bddfff8394/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T21:03:10.680Z
+Categories:
+
+
+Name: Mercos - app de vendas
+Url: https://testflight.apple.com/join/Bqmr3dZ6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/15/30/e0153003-5cae-8cc7-7892-d21803daf532/AppIcons-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:03:10.716Z
+Categories:
+
+
