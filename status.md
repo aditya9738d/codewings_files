@@ -8305,3 +8305,120 @@ Last Checked: 2024-06-05T16:36:11.120Z
 Categories:
 
 
+Name: Sudoku Cloudscape: Solve Relax
+Url: https://testflight.apple.com/join/8CRMXkRl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/9b/a1/8f9ba1fe-1887-37b2-5e95-093e603b2024/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:38:09.935Z
+Categories:
+
+
+Name: Sukiru
+Url: https://testflight.apple.com/join/A8bB6OQo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/02/ee/7802eec2-d3a4-3c83-4f70-7788f8c2d31a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T16:38:09.972Z
+Categories:
+
+
+Name: Super Rich Dev
+Url: https://testflight.apple.com/join/shf70gTU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/e9/cb/7be9cb7b-fa6d-f91a-add0-39278e91c819/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:38:10.008Z
+Categories:
+
+
+Name: SuperDeker App
+Url: https://testflight.apple.com/join/w4x8bC22
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/bf/18/3dbf18dd-7b78-f056-95d9-4553cde73ed8/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T16:38:10.045Z
+Categories:
+
+
+Name: Superbloom Science
+Url: https://testflight.apple.com/join/CBWEOlEy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/57/64/2b576402-9b0f-1816-62d3-4e64108bdb69/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:38:10.082Z
+Categories:
+
+
+Name: Superhero Wallet
+Url: https://testflight.apple.com/join/3o5r4dQQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/82/d2/9682d250-0c3f-e408-3909-23a97fbab4f0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:38:10.118Z
+Categories:
+
+
+Name: Superpets Demo
+Url: https://testflight.apple.com/join/YVQODg4S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/08/b4/6f08b4b4-29db-eb43-96f4-2798620ad0ff/SuperpetsIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:38:10.155Z
+Categories:
+
+
+Name: Suptho
+Url: https://testflight.apple.com/join/OSBjZlhn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/56/69/9d5669bb-21ee-0cc0-671a-d752ebf7deb1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:38:10.192Z
+Categories:
+
+
+Name: Svarupaa
+Url: https://testflight.apple.com/join/YGZd63FH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/8b/b2/a88bb2ad-62ad-11eb-5f43-a69698c0cd97/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:38:10.229Z
+Categories:
+
+
+Name: Sweet Life record - 6686
+Url: https://testflight.apple.com/join/kgCE3HJF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/f6/49/55f6490b-be0b-d101-8ba9-8ea0991b846b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-05T16:38:10.266Z
+Categories:
+
+
+Name: Swishot_MVP
+Url: https://testflight.apple.com/join/1v4jF2AP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/60/a4/ea60a478-4706-685c-59f8-c2a49d59d352/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:38:10.302Z
+Categories:
+
+
+Name: SwoleMate: Workout Planner
+Url: https://testflight.apple.com/join/RIpV13lf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/95/53/0c95536f-f8a8-86b7-7647-f5ccf78e61c0/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T16:38:10.340Z
+Categories:
+
+
+Name: Sygic Truck & RV Navigation
+Url: https://testflight.apple.com/join/lxBCLzFG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/06/2e/c5062e70-55ac-80c1-dd27-2eba9af142e0/NTAppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T16:38:10.376Z
+Categories:
+
+
