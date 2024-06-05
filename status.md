@@ -17782,3 +17782,120 @@ Last Checked: 2024-06-05T13:44:13.067Z
 Categories:
 
 
+Name: Grammo
+Url: https://testflight.apple.com/join/h7hyOJ99
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ac/4d/23/ac4d23bc-d633-d83e-4ba7-3f6ec4d99d6a/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.024Z
+Categories:
+
+
+Name: GeoGebra 3D Calculator
+Url: https://testflight.apple.com/join/wDq81Ktm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/db/d2/03dbd23e-d582-0a42-19a3-206b3240336c/GeoGebra3DGrapher-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.060Z
+Categories:
+
+
+Name: MB Test
+Url: https://testflight.apple.com/join/poKSCOW8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/a1/46/2fa14641-fe94-a4a8-5520-657c831ea934/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: not accepting
+Last Checked: 2024-06-05T13:45:27.096Z
+Categories:
+
+
+Name: iDig - Recording Archaeology
+Url: https://testflight.apple.com/join/vwPDeAwQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e3/04/61/e304615e-0b74-8550-c9c5-bcf1f8161f1e/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.132Z
+Categories:
+
+
+Name: TV 2 Sport
+Url: https://testflight.apple.com/join/vEv7PL4F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/0e/66/440e663d-3a3e-9adf-782b-66ae85514859/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.169Z
+Categories:
+
+
+Name: EchoStream - AI Memory Agent
+Url: https://testflight.apple.com/join/x18p4hz7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/69/81/0e698108-d390-2395-a676-1e16dbc30bf1/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.205Z
+Categories:
+
+
+Name: tado°
+Url: https://testflight.apple.com/join/vcxVYb7M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/5e/75/be5e75a4-b7d0-e32f-40bc-1a70849e5b4a/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.243Z
+Categories:
+
+
+Name: Ekiva MS
+Url: https://testflight.apple.com/join/Xhh2wFC0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/2e/76/0d2e7605-6b47-38d3-dba4-6fb18230ae4c/AppIconDev-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.280Z
+Categories:
+
+
+Name: AMEXPAY
+Url: https://testflight.apple.com/join/uHc8oQV5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/c4/3a/e2c43ae3-36a7-e555-bb69-adc828a15303/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.316Z
+Categories:
+
+
+Name: Singo: Music Bingo for Hosts
+Url: https://testflight.apple.com/join/iTejlllM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/d9/0a/d9d90a9c-371c-9745-d9da-2474eb6a1e39/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.352Z
+Categories:
+
+
+Name: We@Hettich
+Url: https://testflight.apple.com/join/WY2pTjNq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/0a/c9/220ac955-a07b-4be4-b540-4ef82ef8dc16/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.389Z
+Categories:
+
+
+Name: Detz
+Url: https://testflight.apple.com/join/rWqEUTtm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/3f/11/2d3f1138-2941-197f-5a6b-a8e51c58e1e0/AppIcon-1x_U007ephone-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.425Z
+Categories:
+
+
+Name: Datadog
+Url: https://testflight.apple.com/join/UNFB4E9Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/19/b1/6c19b109-154a-0431-5a3d-9abcbd0cc220/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T13:45:27.460Z
+Categories:
+
+
