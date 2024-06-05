@@ -9475,3 +9475,120 @@ Last Checked: 2024-06-05T21:12:14.478Z
 Categories:
 
 
+Name: mSamex
+Url: https://testflight.apple.com/join/CQLK87FY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f3/7a/51/f37a5189-1ec9-9740-b6da-faa7972aaf1c/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:13:10.159Z
+Categories:
+
+
+Name: Hito App
+Url: https://testflight.apple.com/join/0fOZD2hD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/e1/65/8de165b9-faca-02be-fdb9-7bd913091311/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-05T21:13:10.194Z
+Categories:
+
+
+Name: Commande
+Url: https://testflight.apple.com/join/RXIFo8jG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/93/64/ae/9364ae18-4751-e2ea-97ac-a5fc6c6e7691/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T21:13:10.230Z
+Categories:
+
+
+Name: WorkTimes - Hours Tracker
+Url: https://testflight.apple.com/join/JlFlfIxN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/4d/f4/764df4a6-df0a-266b-e7d8-30792dd6b1df/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T21:13:10.266Z
+Categories:
+
+
+Name: Pigeon for Telegram
+Url: https://testflight.apple.com/join/nK86VViW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/7f/33/ba7f33a7-3ffa-d31c-92a8-46ef139146e5/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:13:10.301Z
+Categories:
+
+
+Name: STX Beta
+Url: https://testflight.apple.com/join/wRK4VY5I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e5/4c/9b/e54c9b04-0bad-d335-8269-58badd6c9e3a/AppIcon_BETA-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:13:10.339Z
+Categories:
+
+
+Name: MSC Force Medical
+Url: https://testflight.apple.com/join/65UK8DIv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/ac/ac/2aacac73-2a1b-6ae2-1cf6-d88942b00a5d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:13:10.375Z
+Categories:
+
+
+Name: ShortSheets
+Url: https://testflight.apple.com/join/zVFQFklC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/c2/7e/c6c27eac-a72e-a9b1-c904-416086d82cd0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T21:13:10.412Z
+Categories:
+
+
+Name: Yata: Yet Another To-Do App
+Url: https://testflight.apple.com/join/pGhH4eRP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/0a/9f/e80a9f56-5171-471a-de66-5485723a9f4e/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:13:10.447Z
+Categories:
+
+
+Name: Tetragram
+Url: https://testflight.apple.com/join/pfVsqeWc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/a8/16/a5a8162a-3204-9e0b-9414-1bfa349274fa/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:13:10.483Z
+Categories:
+
+
+Name: Photo Tape: Connect Images
+Url: https://testflight.apple.com/join/WAlVamXT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/32/33/e932331e-e52c-ecc8-2a5f-d5e9eaf26eaa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:13:10.519Z
+Categories:
+
+
+Name: Butler Area School District
+Url: https://testflight.apple.com/join/u4E3AgX4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/78/94/8f789464-47e5-25ba-e3ad-742d6ae721ca/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T21:13:10.554Z
+Categories:
+
+
+Name: My Time - My Precious
+Url: https://testflight.apple.com/join/TFq3Yrfm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/94/f0/e1/94f0e158-30c2-4017-4b94-6a45a654d059/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:13:10.590Z
+Categories:
+
+
