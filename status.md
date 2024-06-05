@@ -21859,3 +21859,120 @@ Last Checked: 2024-06-05T10:05:18.293Z
 Categories:
 
 
+Name: Suka Pass
+Url: https://testflight.apple.com/join/TAHEsrwi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/36/a8/e136a8d3-21d1-8999-a076-32dad285e6a5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.029Z
+Categories:
+
+
+Name: Cove - your money haven
+Url: https://testflight.apple.com/join/OyfX2FgU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/7c/0c/1e7c0c9e-70bf-6fa9-f49e-b47ffc0d5cdd/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.058Z
+Categories:
+
+
+Name: Mobile Banking - Preprod
+Url: https://testflight.apple.com/join/nBbLgYON
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/86/ae/e586ae14-6a53-613b-71b0-2a786491ec3d/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.087Z
+Categories:
+
+
+Name: Stanford Study App
+Url: https://testflight.apple.com/join/wlseiMRR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/5f/e8/735fe8df-5ac5-53e3-25bd-3bef6359c2eb/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.116Z
+Categories:
+
+
+Name: My GWM
+Url: https://testflight.apple.com/join/M6iKIo9e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/21/e0/d621e099-d903-9bb8-5226-b34ea9f1e07d/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.145Z
+Categories:
+
+
+Name: Stagecon
+Url: https://testflight.apple.com/join/JMuubh3f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c7/93/c8/c793c81d-bd0e-f808-ab10-ac63fb9699d5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.174Z
+Categories:
+
+
+Name: Brick Blaster Champions
+Url: https://testflight.apple.com/join/uJxLQpht
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/7d/76/a57d766a-5440-e0e3-7e71-6b6bb900001b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.203Z
+Categories:
+
+
+Name: Homza Cart
+Url: https://testflight.apple.com/join/nRfgxGaj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/a6/5d/83a65d63-3ca1-6f1f-f8b5-118f0610e344/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.271Z
+Categories:
+
+
+Name: BlockTrade
+Url: https://testflight.apple.com/join/bjKTB8X6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/e7/aa/b2e7aaf3-a055-49c1-2e0c-732e8095a448/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.299Z
+Categories:
+
+
+Name: Film Noir for Trakt Just Watch
+Url: https://testflight.apple.com/join/ZFdkEXo7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/15/47/db/1547dbfb-8548-2441-a4fc-64a8f57304dc/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T10:06:11.329Z
+Categories:
+
+
+Name: Talo
+Url: https://testflight.apple.com/join/0fth3q3Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/e1/ed/6ce1ed0d-cfd3-eccb-8f64-9c2756c31b45/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.357Z
+Categories:
+
+
+Name: My WV Lite
+Url: https://testflight.apple.com/join/CjZ7joXG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/fb/3c/3ffb3ca4-ed8a-fadd-a16b-46a0df2af8cc/AppIconQA-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.387Z
+Categories:
+
+
+Name: SC Mobile Singapore
+Url: https://testflight.apple.com/join/SUEExwMx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/a7/07/16a707ee-4769-c160-a34a-b67dc430c81d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T10:06:11.416Z
+Categories:
+
+
