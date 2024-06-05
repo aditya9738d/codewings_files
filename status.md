@@ -466,3 +466,120 @@ Last Checked: 2024-06-05T06:53:09.350Z
 Categories:
 
 
+Name: LentPal
+Url: https://testflight.apple.com/join/U7cAfa9q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/c5/5e/31c55eae-76a9-bf03-e45a-343eb4c6e140/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:54:10.103Z
+Categories:
+
+
+Name: Leplayer
+Url: https://testflight.apple.com/join/Bpa6BOWG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/fc/e4/7afce4a1-a1e6-b4c1-b49e-b093ab2fcc14/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:54:10.131Z
+Categories:
+
+
+Name: LetsChat: With Close Friends
+Url: https://testflight.apple.com/join/hbuquoCi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/09/e0/44/09e044e0-293b-9f60-6918-cbecb6205b76/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:54:10.159Z
+Categories:
+
+
+Name: Libssah
+Url: https://testflight.apple.com/join/G0mogUcA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/41/ed/e941ed75-9fdd-292e-c992-43b6799e8b1b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:54:10.186Z
+Categories:
+
+
+Name: Lichess
+Url: https://testflight.apple.com/join/WEurB7MT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/5d/e6/ba5de69e-425c-5de4-165a-4bfff0f3b133/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:54:10.214Z
+Categories:
+
+
+Name: Licky's Escape
+Url: https://testflight.apple.com/join/ZjKTYv47
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/26/0d/b0260d7f-2de4-df07-11de-166cfedfc723/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:54:10.242Z
+Categories:
+
+
+Name: Lien Minh
+Url: https://testflight.apple.com/join/LNQ8lMlr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/2e/7c/1f2e7ca2-0c02-3c0d-fddc-cd02ca065f0f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:54:10.269Z
+Categories:
+
+
+Name: Life Sound - Meditation
+Url: https://testflight.apple.com/join/1KwDcpOl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/30/2a/d2302ade-38a2-69c8-40d0-2cef20c1c532/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:54:10.296Z
+Categories:
+
+
+Name: LifeGuard SmartMobile
+Url: https://testflight.apple.com/join/Bfo7X4nB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/4b/be/2a4bbe1b-3e98-4bc1-4ee9-8017ed2eea38/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:54:10.324Z
+Categories:
+
+
+Name: Lifelog - Shape Your Wellness!
+Url: https://testflight.apple.com/join/XNH8QffB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/e5/a0/7ae5a002-1bb4-fca0-1c01-45d41ddc1b50/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:54:10.352Z
+Categories:
+
+
+Name: Liftin' Workout Tracker
+Url: https://testflight.apple.com/join/WTXiGTTA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/1c/95/181c958e-ae3e-87c4-1051-be907297f243/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T06:54:10.379Z
+Categories:
+
+
+Name: Liftoff: Space Launch Schedule
+Url: https://testflight.apple.com/join/2hLX9txr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ef/3e/d6/ef3ed6dd-934e-4559-adcb-a28388f48515/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:54:10.407Z
+Categories:
+
+
+Name: LightRemit
+Url: https://testflight.apple.com/join/PWcOQ0FH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/62/a2/0962a2fc-343d-33a4-9c0b-e41bbc7faaab/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T06:54:10.434Z
+Categories:
+
+
