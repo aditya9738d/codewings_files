@@ -18133,3 +18133,120 @@ Last Checked: 2024-06-05T13:47:10.827Z
 Categories:
 
 
+Name: Microsoft Planner
+Url: https://testflight.apple.com/join/moiTpIqb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/78/99/0a789905-63ac-1634-a664-31ff455fde50/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T13:48:13.514Z
+Categories:
+
+
+Name: Al Mayadeen
+Url: https://testflight.apple.com/join/jReQ1L8Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/50/67/47506789-162b-df11-3dd3-408b20434c99/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:48:13.550Z
+Categories:
+
+
+Name: Capital 28
+Url: https://testflight.apple.com/join/sWvydMQn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fb/e6/89/fbe68979-599c-d088-3f41-7ad9794edadd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:48:13.586Z
+Categories:
+
+
+Name: WeCopyTrade
+Url: https://testflight.apple.com/join/kBZXJVd4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/63/05/14630565-0ff8-b60d-15a2-cf36207e79ef/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:48:13.622Z
+Categories:
+
+
+Name: Gate of Abyss: GPS-Based RPG
+Url: https://testflight.apple.com/join/t7VtpoRD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/62/45/f162456b-237c-b1bb-6d0f-90742a859daf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:48:13.657Z
+Categories:
+
+
+Name: UniFi Access
+Url: https://testflight.apple.com/join/CCG4Os70
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/85/5a/a8855adc-1555-5d44-4240-185a3f90dcb8/AppIcon_Access-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:48:13.693Z
+Categories:
+
+
+Name: RecipeChef: Recipe Manager
+Url: https://testflight.apple.com/join/j5urtlwj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/da/8f/8fda8f31-7162-02c0-a8f2-0c08158de54a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:48:13.728Z
+Categories:
+
+
+Name: HiWater: Powerful Water Logger
+Url: https://testflight.apple.com/join/JamzElgi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/48/bb/6348bbe5-8c38-8c60-ccb7-fe30a54c3372/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T13:48:13.764Z
+Categories:
+
+
+Name: Lexic
+Url: https://testflight.apple.com/join/9pJ8x81Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/52/1e/51521e92-88de-3309-aa71-f383b77a1c7f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:48:13.800Z
+Categories:
+
+
+Name: eschool Saas
+Url: https://testflight.apple.com/join/HxZcnKO6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/fb/4d/aefb4d4d-6ca4-aa62-5b72-b58ae82d2b44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:48:13.836Z
+Categories:
+
+
+Name: Trap.nz
+Url: https://testflight.apple.com/join/SIZltsEm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/d9/2a/0cd92a67-1ceb-09bb-bd38-5d4831a7e684/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:48:13.872Z
+Categories:
+
+
+Name: Aliviado
+Url: https://testflight.apple.com/join/yxMciJ1R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/cb/67/5acb67c3-3596-a12a-4974-4b4c3697e8a4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T13:48:13.907Z
+Categories:
+
+
+Name: MSTravel Hub
+Url: https://testflight.apple.com/join/eKSC0pYL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/6a/5b/946a5b67-442b-d5f3-1910-9082de33c2c7/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T13:48:13.943Z
+Categories:
+
+
