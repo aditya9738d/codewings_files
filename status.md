@@ -11408,3 +11408,120 @@ Last Checked: 2024-06-05T08:34:12.370Z
 Categories:
 - Games
 
+Name: Fasty Tracker
+Url: https://testflight.apple.com/join/ArFEKEvI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/65/34/ea65340e-31bf-0dbc-6b91-dd5d63beaee7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.262Z
+Categories:
+
+
+Name: WillKey
+Url: https://testflight.apple.com/join/wJT1sQ37
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/44/b2/1144b2ff-0ea0-63a2-e9a4-147c61bdc90f/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.297Z
+Categories:
+
+
+Name: FormTime
+Url: https://testflight.apple.com/join/8oEvXjdL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/19/7b/bc197be8-6663-58a1-8948-d165adf7f15e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.333Z
+Categories:
+
+
+Name: Decipher AI News
+Url: https://testflight.apple.com/join/9l9ci5dq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/e0/96/8ae096f0-25df-63b1-1021-b69a357e8e4c/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.367Z
+Categories:
+
+
+Name: Lunch: Let's Grab Lunch
+Url: https://testflight.apple.com/join/TXiRrJ2e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/b8/9f/abb89f80-3d9e-9f16-6cb2-3a4849eaf8e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.402Z
+Categories:
+
+
+Name: Termius: Terminal & SSH client
+Url: https://testflight.apple.com/join/MnuClabg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/ec/cb/c7eccbbb-7b3f-8738-15e6-3e19aeabf3a5/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.438Z
+Categories:
+
+
+Name: Photos Backup Anywhere
+Url: https://testflight.apple.com/join/TcDH3ccO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/91/96/f49196be-d580-5577-2bf6-29af370bf66c/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.472Z
+Categories:
+
+
+Name: Marklog
+Url: https://testflight.apple.com/join/1OQuD2vJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b0/13/54b013e4-a76e-29a8-101c-75e723548bb0/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.507Z
+Categories:
+
+
+Name: Party Icons
+Url: https://testflight.apple.com/join/5yCOZGvM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/b0/ae/19b0ae42-5e66-d604-956d-72e3dad13ab5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.542Z
+Categories:
+
+
+Name: BankWizCalc
+Url: https://testflight.apple.com/join/IviU4Oqh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/99/56/8f995626-66e6-f4f5-c863-bee5be521e6c/TBankAppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.576Z
+Categories:
+
+
+Name: BOSSAY
+Url: https://testflight.apple.com/join/RCCA7SsH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/01/50/d10150c1-25a3-2a54-e845-75b0a0997a56/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.612Z
+Categories:
+
+
+Name: Dishdash
+Url: https://testflight.apple.com/join/u8NIoELS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/52/b0/7352b093-ddad-168b-111c-2d9e685b716d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.647Z
+Categories:
+
+
+Name: DKU FedCampus
+Url: https://testflight.apple.com/join/veDJckxp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/d0/09/19d00901-c268-351d-5c6a-001503cbed53/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T08:35:22.683Z
+Categories:
+
+
