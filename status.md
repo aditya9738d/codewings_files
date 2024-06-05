@@ -8890,3 +8890,120 @@ Last Checked: 2024-06-05T21:07:10.313Z
 Categories:
 
 
+Name: Everycards: Flashcards Quizzes
+Url: https://testflight.apple.com/join/vPjeZ0Kq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/90/63/1b906327-1da6-6079-c27a-a2f76b6765df/AppIconStudent-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:08:12.593Z
+Categories:
+
+
+Name: Free Your Kitchen
+Url: https://testflight.apple.com/join/bDqCbq2k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/36/41/f8/3641f845-e265-e304-3cbc-3747ddeaa96a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:08:12.628Z
+Categories:
+
+
+Name: Yalla Ludo - Ludo&Domino
+Url: https://testflight.apple.com/join/MVaIYlGT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/cc/d1/cbccd161-169a-93ab-62a2-3354bca1b477/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T21:08:12.664Z
+Categories:
+
+
+Name: RailCube Mobile
+Url: https://testflight.apple.com/join/hI9YK266
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/bc/d7/87bcd7d7-ba99-ec9d-3df0-4df0196fe2e3/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:08:12.699Z
+Categories:
+
+
+Name: MobiSign
+Url: https://testflight.apple.com/join/3VDw6koW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/93/6d/78936da1-b25b-a149-c62e-12d3c4ecc5d7/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:08:12.734Z
+Categories:
+
+
+Name: Shapr3D Beta
+Url: https://testflight.apple.com/join/Dm6lqUW7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/61/96/d161960f-605a-6a81-7459-a5f6a588d013/AppIcon-Beta-0-0-1x_U007epad-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:08:12.770Z
+Categories:
+
+
+Name: Synappx Go
+Url: https://testflight.apple.com/join/do0mqh9y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/44/3e/02443e8d-69a5-9481-973b-96a89ea5f670/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-05T21:08:12.806Z
+Categories:
+
+
+Name: Navigraph Charts
+Url: https://testflight.apple.com/join/nHCIhOwX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/f6/a5/8af6a59d-a924-9e7f-16bf-497e38cc6085/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:08:12.840Z
+Categories:
+
+
+Name: Cals SDK - Alpha
+Url: https://testflight.apple.com/join/KomNdckN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/44/77/b94477bf-8750-a4ff-584a-69645eae603d/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:08:12.875Z
+Categories:
+
+
+Name: FleetHD Mobile
+Url: https://testflight.apple.com/join/IXMqs3E1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/f2/0f/79f20f23-831e-97bf-8bbf-ef1add7aaa70/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:08:12.911Z
+Categories:
+
+
+Name: BETA Sierra Sacramento EMS
+Url: https://testflight.apple.com/join/GeBheHIM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/67/29/02/67290289-fb41-c2e4-6c16-63ce7774c714/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:08:12.946Z
+Categories:
+
+
+Name: Mein dm
+Url: https://testflight.apple.com/join/a51ByRrP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f7/b4/14f7b4ee-b0d5-0b23-2d22-b86669dda7f9/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:08:12.982Z
+Categories:
+
+
+Name: HKT Flexi Test
+Url: https://testflight.apple.com/join/XLmQBpBP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/04/aa/5304aaa0-bc57-7349-a627-38f9ba52deca/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T21:08:13.017Z
+Categories:
+
+
