@@ -12674,3 +12674,122 @@ Last Checked: 2024-06-05T17:15:23.849Z
 Categories:
 
 
+Name: ParkmePro Watchman
+Url: https://testflight.apple.com/join/fgPnIIvA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/c5/31/12c53192-625d-8271-d115-fcc9efd2e0dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T17:16:11.808Z
+Categories:
+
+
+Name: Deem Mail
+Url: https://testflight.apple.com/join/ox4Db7hW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a8/39/bb/a839bb14-13e0-480e-f65e-24d32455a102/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-05T17:16:11.837Z
+Categories:
+
+
+Name: TeamLive
+Url: https://testflight.apple.com/join/lXMsgmpL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/3d/51/313d5166-5251-9ec2-691e-b97180a22f61/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-05T17:16:11.865Z
+Categories:
+
+
+Name: Bridge Your Network
+Url: https://testflight.apple.com/join/MUVwq9V9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/b7/85/c9b78584-6f7b-bfa7-1e1e-2a029c95e431/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:16:11.894Z
+Categories:
+
+
+Name: OrangeX: Buy Bitcoin & Crypto
+Url: https://testflight.apple.com/join/BCQWwfAw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/fc/eb/f3fceb86-bade-c10a-d671-477dd513d993/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:16:11.922Z
+Categories:
+- Finance
+- Finance
+- Finance
+
+Name: STQRY Preview
+Url: https://testflight.apple.com/join/UQopMTJt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/b6/c9/dbb6c907-f759-c36f-596b-0faa84767358/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T17:16:11.950Z
+Categories:
+
+
+Name: hdrpano 3D
+Url: https://testflight.apple.com/join/mAvRbBTz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/90/17/5b9017f0-c2d8-79c7-c779-5c5541738946/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:16:11.978Z
+Categories:
+
+
+Name: Training plans by Run Roster
+Url: https://testflight.apple.com/join/RypszNGx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/07/c9/5907c9e9-4ed3-79af-8129-f232f7ae9b8a/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:16:12.007Z
+Categories:
+
+
+Name: Work Lunch
+Url: https://testflight.apple.com/join/AnTxOl6P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/b1/f5/50b1f563-059f-b85b-7ba0-24e4d6f059be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:16:12.036Z
+Categories:
+
+
+Name: Payconiq by Bancontact
+Url: https://testflight.apple.com/join/Mpza7scj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/6f/a6/da6fa63e-dd41-68d5-9b94-88fc8f20a1d9/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T17:16:12.064Z
+Categories:
+
+
+Name: Delta Digital
+Url: https://testflight.apple.com/join/AQ87Xg1x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/8b/37/8e8b37c0-c516-f804-9f61-80fb179bb462/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-05T17:16:12.093Z
+Categories:
+
+
+Name: SCA UAT
+Url: https://testflight.apple.com/join/a2W8tS4N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/2e/21/842e21a6-b8a0-5b53-e9e4-64515774e1e5/AppIcon-test-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:16:12.122Z
+Categories:
+
+
+Name: CPM VN
+Url: https://testflight.apple.com/join/Nu0VgBBq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/91/1b/9e911b22-8c80-5cfa-54d2-c4b901fcc1a1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T17:16:12.150Z
+Categories:
+
+
