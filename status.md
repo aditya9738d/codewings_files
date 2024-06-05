@@ -13687,3 +13687,120 @@ Last Checked: 2024-06-05T00:47:12.031Z
 Categories:
 
 
+Name: CareMonitor
+Url: https://testflight.apple.com/join/Gz3y9pb6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/f9/78/9bf9785d-5ebc-f0fe-82ae-18b84fa57788/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:48:13.564Z
+Categories:
+
+
+Name: Leemify
+Url: https://testflight.apple.com/join/ydTGSovz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/d7/ca/3ad7ca60-8598-7c2c-0622-5a25097be1be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:48:13.599Z
+Categories:
+
+
+Name: Tokkeni
+Url: https://testflight.apple.com/join/A84VY0e9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/d5/e6/78d5e6e2-db13-cffc-197e-47b37ff87e68/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:48:13.634Z
+Categories:
+
+
+Name: UniFi
+Url: https://testflight.apple.com/join/Pkd9a658
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/b9/f5/50b9f5c4-a5b6-5553-2e25-6b3986fe701c/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T00:48:13.670Z
+Categories:
+
+
+Name: Education xr
+Url: https://testflight.apple.com/join/l1XH8sFY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/32/79/7b327994-55c5-bc62-1dd7-bf5fb6cc5127/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T00:48:13.705Z
+Categories:
+
+
+Name: WidgetHealth - Widget & Health
+Url: https://testflight.apple.com/join/G0Wh2Ft0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/b2/f7/50b2f740-074d-1169-d71a-17db578459ea/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:48:13.740Z
+Categories:
+
+
+Name: VCM Digitization Project
+Url: https://testflight.apple.com/join/EhBNBAmr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/cc/cd/edcccd8a-3616-b227-0231-8a9e97dd11f7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:48:14.211Z
+Categories:
+
+
+Name: L[AI]ban
+Url: https://testflight.apple.com/join/L1BcTYd6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/28/fc/d428fcc4-fe10-0a8a-9e86-3e83071bb280/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:48:14.246Z
+Categories:
+
+
+Name: MFL Platinum
+Url: https://testflight.apple.com/join/FWg4IbLd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/0c/a9/f10ca966-b81e-dc73-ff4e-88dce3e8a60b/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:48:14.283Z
+Categories:
+
+
+Name: POS Dealer STG
+Url: https://testflight.apple.com/join/Rro2QfYU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/96/ed/b796edef-63db-52fa-e242-368743cb1e0b/stgAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:48:14.318Z
+Categories:
+
+
+Name: Metabox AR
+Url: https://testflight.apple.com/join/IFUB7cVT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/14/56/1f145604-89d7-b6a7-0b92-d1a273d93441/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-05T00:48:14.354Z
+Categories:
+
+
+Name: SSM Sales Force Automation UAT
+Url: https://testflight.apple.com/join/f460coYa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e1/9d/5ce19dd8-6b3c-1843-ac7d-c03eec238aa6/AppIcon-unzaGtSfa-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-05T00:48:14.389Z
+Categories:
+
+
+Name: Wam! Staging
+Url: https://testflight.apple.com/join/Qjr8ORdC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/7b/2d/ee7b2d44-92fb-d3f4-7844-8641258c43bd/AppIcon-Production-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T00:48:14.425Z
+Categories:
+
+
