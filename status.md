@@ -10528,3 +10528,120 @@ Last Checked: 2024-06-05T00:19:07.012Z
 Categories:
 
 
+Name: Unimed Cliente
+Url: https://testflight.apple.com/join/fLN5jmjj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/67/3b/ca673b00-6b3c-d8b2-70ab-4c7bb78ee22c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:20:25.751Z
+Categories:
+
+
+Name: Omniscience for GitHub
+Url: https://testflight.apple.com/join/qYnDNGN1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/75/ac/b9/75acb95d-615b-6141-5208-ae375e1c6d77/icon.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-05T00:20:25.779Z
+Categories:
+
+
+Name: Anime Junction
+Url: https://testflight.apple.com/join/aOLAk4xz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/f8/a6/f4f8a666-beb3-5f54-610c-16d8ff471da3/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 14
+Beta Available: open
+Last Checked: 2024-06-05T00:20:25.806Z
+Categories:
+
+
+Name: SBM Techs
+Url: https://testflight.apple.com/join/IAP8UtCh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/dd/9a/83dd9abd-4505-78d7-bd64-ff3fb026eefd/AppIcon_SBM-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:20:25.834Z
+Categories:
+
+
+Name: ControlOne Mobile
+Url: https://testflight.apple.com/join/jRxcVePi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/05/9f/e8059f26-71b8-91a5-b4a9-ae4f8c1f1d84/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:20:25.861Z
+Categories:
+
+
+Name: Zodia Pre-prod
+Url: https://testflight.apple.com/join/lFCm5oza
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/5e/67/585e677e-e53a-ac56-c09b-a6abb90aa706/AppIcon-preprod-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:20:25.889Z
+Categories:
+
+
+Name: bonbon shop
+Url: https://testflight.apple.com/join/phhemqCV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/0c/52/570c526b-14e9-c718-4b0e-daa7b5b7c8c7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:20:25.917Z
+Categories:
+
+
+Name: Loop: IRL & Local Activities
+Url: https://testflight.apple.com/join/38HHz3EE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/6a/8c/956a8c66-6ac7-ffec-a30d-3b4e9e0843aa/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:20:25.945Z
+Categories:
+
+
+Name: SRG+ OLD
+Url: https://testflight.apple.com/join/tLznKnUO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/24/2a/46/242a4677-2913-4710-560f-4142a1393b7e/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:20:25.973Z
+Categories:
+
+
+Name: MiScreen Test
+Url: https://testflight.apple.com/join/MjZ5M37C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/30/e4/92/30e492bc-1f40-2091-3123-ce472fe0ab58/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:20:26.000Z
+Categories:
+
+
+Name: JourneyMate
+Url: https://testflight.apple.com/join/cxv6llBt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/0b/a2/3e0ba2d9-740a-a6c4-6895-d09463d460ad/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:20:26.028Z
+Categories:
+
+
+Name: Radiacode
+Url: https://testflight.apple.com/join/8hSPtm4Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/1a/99/c61a991f-2773-14bb-5a14-2f44eeabaf50/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:20:26.056Z
+Categories:
+
+
+Name: Guardian
+Url: https://testflight.apple.com/join/9rtEeZ1c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ba/cd/8cbacd55-b93c-2de0-f584-95ad8d6edbb0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-05T00:20:26.084Z
+Categories:
+
+
