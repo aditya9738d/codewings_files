@@ -6667,3 +6667,120 @@ Last Checked: 2024-06-06T14:41:13.477Z
 Categories:
 
 
+Name: Metanote-beta
+Url: https://testflight.apple.com/join/pAYGdOQe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/13/35/b41335a5-d580-3af6-d869-d144b86371be/AppIcon_beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T14:43:07.021Z
+Categories:
+
+
+Name: THE FIRE Creator
+Url: https://testflight.apple.com/join/CHBIkPpV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/bc/c8/6cbcc840-f0a1-a3d6-4aca-5caeb84622cd/AppIcon-Prd-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T14:43:07.056Z
+Categories:
+
+
+Name: Mobile CDP
+Url: https://testflight.apple.com/join/7jPTTAYj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/fc/f5/3ffcf563-df8a-2773-18b0-3c6375fbf333/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T14:43:07.092Z
+Categories:
+
+
+Name: Graph Theorist
+Url: https://testflight.apple.com/join/sPstVIxn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/47/dd/ef47ddf7-1070-b616-7c99-82d7d995c5dd/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T14:43:07.128Z
+Categories:
+
+
+Name: mytonies
+Url: https://testflight.apple.com/join/8FxA7laF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/67/64/21/676421b9-c166-4d23-0b36-6cab8ad5b29e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T14:43:07.164Z
+Categories:
+
+
+Name: Open Trickler
+Url: https://testflight.apple.com/join/1XSoUPL3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/63/6d/3c636de1-d418-7ac2-1184-7afcf91b9b2e/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T14:43:07.200Z
+Categories:
+
+
+Name: O-KAM Pro
+Url: https://testflight.apple.com/join/3wVU0q2A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ef/20/4aef2092-9d48-0346-c61b-404503613443/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T14:43:07.237Z
+Categories:
+
+
+Name: AeonMallCsDev
+Url: https://testflight.apple.com/join/y0mUVG2r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/f7/22/98f7227d-2e8e-5f4e-ccab-8abbe4e8972e/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T14:43:07.273Z
+Categories:
+
+
+Name: FACEIT - Challenge your Game
+Url: https://testflight.apple.com/join/TZY7YS9K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/fc/56/17fc5654-529f-0c35-b7fa-a8af8dc90fc7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T14:43:07.308Z
+Categories:
+
+
+Name: Tourific: Audio and AR Tours
+Url: https://testflight.apple.com/join/wpYebzTb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/73/12/8d73126e-5766-fec9-accc-d9730af00bc5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T14:43:07.343Z
+Categories:
+
+
+Name: DDV-PMS
+Url: https://testflight.apple.com/join/PNw4Pt5z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5e/fe/7c/5efe7cdd-a303-4811-2ee4-acf5040972d3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T14:43:07.378Z
+Categories:
+
+
+Name: SALUS Premium Lite
+Url: https://testflight.apple.com/join/Tl5jlo4L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/87/45/8b874517-d4f1-f650-9b75-f5453b8b6403/salus_eu_prod_app_icon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T14:43:07.414Z
+Categories:
+
+
+Name: iTools Drive V2
+Url: https://testflight.apple.com/join/FP9sY5Nu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/e0/25/a2e0253f-a17d-54a6-e157-44a1456c1c2b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T14:43:07.449Z
+Categories:
+
+
