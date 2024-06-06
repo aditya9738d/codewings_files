@@ -13336,3 +13336,120 @@ Last Checked: 2024-06-06T02:05:15.944Z
 Categories:
 
 
+Name: plus Auth
+Url: https://testflight.apple.com/join/M6oYf8wm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/65/16/97/651697b3-f4da-48e9-8964-e5fe2df56198/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:06:08.984Z
+Categories:
+
+
+Name: popper social
+Url: https://testflight.apple.com/join/Wpa0PAOP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0b/4a/170b4a1b-0e0b-6c39-31ce-2655f90df8ae/AppIcon-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:06:09.012Z
+Categories:
+
+
+Name: privacyIDEA Authenticator
+Url: https://testflight.apple.com/join/hcpxWPt0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0e/d0/da/0ed0da81-24e2-3555-7f8b-b902e6dc1d09/AppIcon-netknights-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:06:09.040Z
+Categories:
+
+
+Name: rejsekort
+Url: https://testflight.apple.com/join/eeJMlIFY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/51/29/22512997-d8cd-7116-1020-6b47989fcec0/AppIcon-Rejsekort-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-06T02:06:09.067Z
+Categories:
+
+
+Name: sauceclip_dev
+Url: https://testflight.apple.com/join/ZbN3ZAZW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/df/20/23/df2023e2-7ac9-60ca-394f-62aa15731d66/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:06:09.095Z
+Categories:
+
+
+Name: scan my T3SLA
+Url: https://testflight.apple.com/join/Xra3qrlo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/98/86/65988679-56bb-bc2d-3d20-9b96c56043d8/AppIcons-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:06:09.123Z
+Categories:
+
+
+Name: spectwhirl
+Url: https://testflight.apple.com/join/tSjoUpc1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/e3/31/7ae3314f-6f1e-efa0-0ae0-9bae779eb92c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:06:09.151Z
+Categories:
+
+
+Name: status.log
+Url: https://testflight.apple.com/join/cDOrKBw5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/d6/ea/e0d6ea8b-e7d5-48c8-e557-355303b58d62/Prami-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T02:06:09.179Z
+Categories:
+
+
+Name: stone for iPad
+Url: https://testflight.apple.com/join/2gO6yFa9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/9a/ac/769aac90-645c-cc33-80d7-1d4bb1542a7a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:06:09.207Z
+Categories:
+
+
+Name: tagline Messenger
+Url: https://testflight.apple.com/join/QfY5kE7V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/f4/f7/e1f4f7c1-1c24-57f3-6e1a-382e916dca82/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:06:09.234Z
+Categories:
+
+
+Name: tappr.tv
+Url: https://testflight.apple.com/join/pFtqblqX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/f5/0c/b7f50c8d-d6dd-0e83-7d89-dff1246a73e6/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:06:09.262Z
+Categories:
+
+
+Name: telam
+Url: https://testflight.apple.com/join/WSUouY36
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/6d/cb/826dcbd8-9e1c-b14c-d096-a39acdf059a1/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:06:09.289Z
+Categories:
+
+
+Name: tomoropomodoro
+Url: https://testflight.apple.com/join/kINXqKh0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/f7/ec/37f7ecc4-f739-36d8-ab1e-36109fd8cbdd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:06:09.318Z
+Categories:
+
+
