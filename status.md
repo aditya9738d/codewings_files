@@ -17617,3 +17617,127 @@ Last Checked: 2024-06-06T20:58:12.727Z
 Categories:
 
 
+Name: mydealz – Gutscheine, Angebote
+Url: https://testflight.apple.com/join/LUbo3fzi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/c3/a4/abc3a4ed-f1ce-175d-b7a0-3cfbadb929a8/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.495Z
+Categories:
+
+
+Name: ObsIdentify
+Url: https://testflight.apple.com/join/mBfNWeIY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/1f/fd/8d1ffd42-ec13-8733-7931-5ebd26ef4b66/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.523Z
+Categories:
+
+
+Name: Zincir Market Beta
+Url: https://testflight.apple.com/join/S2QCk2zj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/df/e7/76dfe76e-370e-8ff9-c696-6b1a4401dd42/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.550Z
+Categories:
+
+
+Name: ThreadMaster
+Url: https://testflight.apple.com/join/JwlFTX03
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/28/13/a4281332-f8ca-e33a-22a0-f7d906418373/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.578Z
+Categories:
+
+
+Name: UB-OK
+Url: https://testflight.apple.com/join/pAsYu0rE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/7d/5a/767d5af6-3e41-9664-c9c1-03db4e4ee6db/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.605Z
+Categories:
+
+
+Name: talk for me
+Url: https://testflight.apple.com/join/hCuDAQT6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/90/b6/51/90b6513c-9428-b214-30d5-4b57fddb5824/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.633Z
+Categories:
+
+
+Name: Pushover Notifications
+Url: https://testflight.apple.com/join/vkwfdWM0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/0a/b2/4b0ab24d-d6d9-d085-b7c1-c1cfefc435ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.662Z
+Categories:
+
+
+Name: Zoom Tan
+Url: https://testflight.apple.com/join/FgdrHesl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/9b/3f/fb9b3fa9-7b8b-d6a0-6f7e-324cee7f3490/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.691Z
+Categories:
+
+
+Name: WiFi Setup
+Url: https://testflight.apple.com/join/DIDfVri2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/69/85/dc698533-f5b7-280b-a0be-89fa91c32eb0/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 28
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.718Z
+Categories:
+- Utility
+
+Name: Kade Pay Beta
+Url: https://testflight.apple.com/join/jhlHJFKC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/f3/4d/5bf34d6d-bf76-0af5-b021-8a05b6b83c1c/AppIcon-beta-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.752Z
+Categories:
+- Business
+- Finance
+
+Name: NRO by ixxc 01
+Url: https://testflight.apple.com/join/tFiMYRwn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f9/cd/d8f9cd16-0a1d-f677-772e-4480f63030bd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.798Z
+Categories:
+
+
+Name: Moments - GIF Your Life
+Url: https://testflight.apple.com/join/DipKBlaZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/c5/a3/3bc5a33d-52bf-95f4-b463-478b0a8a98cc/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.826Z
+Categories:
+- Entertainment
+- Photography
+- Social Networking
+- Video
+
+Name: Atlas - Spatial Ergonomics
+Url: https://testflight.apple.com/join/HbtqQVhn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/86/82/5f86824a-9495-d3a5-0536-57a20576e454/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T20:59:10.853Z
+Categories:
+- Education
+- Fitness
+- Health
+- Medical
+
