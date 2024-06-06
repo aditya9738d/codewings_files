@@ -8305,3 +8305,120 @@ Last Checked: 2024-06-06T05:40:26.454Z
 Categories:
 
 
+Name: Chatmini App
+Url: https://testflight.apple.com/join/Gz3zNqjz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/ed/92/aeed920d-494d-2dd1-4d15-1273bfc5058c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.619Z
+Categories:
+
+
+Name: Zeoniq KDS
+Url: https://testflight.apple.com/join/E0qBpGS2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/2a/6c/d62a6c2e-f04f-a36f-e7c9-f474625cd73e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.647Z
+Categories:
+
+
+Name: Sneaker Tracker
+Url: https://testflight.apple.com/join/RmrjfnYR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/a7/23/fda72356-21a6-08f0-95c1-313fff46d1fd/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-GLES2_U002c0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.677Z
+Categories:
+
+
+Name: VC Install
+Url: https://testflight.apple.com/join/qCNqaXrj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/86/4c/67/864c671c-3633-3918-bc1a-1990e3db7fd6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.705Z
+Categories:
+
+
+Name: GIFTOKY® | Lista de regalos
+Url: https://testflight.apple.com/join/y5leVciZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/15/82/fd1582c6-5de2-209e-b25b-84f8bbcf0cff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.733Z
+Categories:
+
+
+Name: My Chihiros
+Url: https://testflight.apple.com/join/hS1XQ1BO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/b6/3e/76b63ef2-b450-103a-eceb-69c34e383527/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.763Z
+Categories:
+
+
+Name: UByDesign Digital Wardrobe
+Url: https://testflight.apple.com/join/tUzEeN9X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/8e/6a/bc8e6a3a-a832-16e3-c255-7b633c7fc1a9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.792Z
+Categories:
+
+
+Name: Unwatched
+Url: https://testflight.apple.com/join/9RP0WzCR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/8b/8c/698b8c0e-734c-d1d1-c6f4-d7ed07813287/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.821Z
+Categories:
+
+
+Name: CGS F2F
+Url: https://testflight.apple.com/join/dPkNBMSx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/42/7b/27427bc8-16d8-733a-f0bc-12be4702772c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.849Z
+Categories:
+
+
+Name: PMP App
+Url: https://testflight.apple.com/join/lAcjPr1j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/ee/6f/33ee6f54-13f5-3d66-a2bd-cf3b3a3d9e91/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.878Z
+Categories:
+
+
+Name: Simulado Nu
+Url: https://testflight.apple.com/join/zgPIXQHg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/8b/78/498b7806-3829-97e6-53e3-96b364a17f6c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.907Z
+Categories:
+
+
+Name: VNU-Office
+Url: https://testflight.apple.com/join/z2lXJjX3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/36/f4/7b/36f47b22-2b65-aa96-e244-22e8fcb99002/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.936Z
+Categories:
+
+
+Name: manage4ALL
+Url: https://testflight.apple.com/join/0P4qUQYr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a4/e8/52/a4e85266-d7da-84fd-f199-817d2057b919/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:41:10.965Z
+Categories:
+
+
