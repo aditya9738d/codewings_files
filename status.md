@@ -1402,3 +1402,120 @@ Last Checked: 2024-06-06T00:17:07.891Z
 Categories:
 
 
+Name: DayStarter
+Url: https://testflight.apple.com/join/h01zNEgp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/43/e7/1343e7b6-e382-4252-e97e-5b06f154032f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:18:11.284Z
+Categories:
+
+
+Name: DeeX
+Url: https://testflight.apple.com/join/y4PA6ZV7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/43/90/d3/4390d340-9c9d-dc4d-c1b1-2840ed26e02f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:18:11.312Z
+Categories:
+
+
+Name: Degani
+Url: https://testflight.apple.com/join/8TBShCMv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/30/1b/da301b8e-00c0-618a-3514-2f31302b1989/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:18:11.341Z
+Categories:
+
+
+Name: DelishBun
+Url: https://testflight.apple.com/join/etPlLoyL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/f4/d9/d7f4d9f2-e48b-6577-40dc-439c5b7bb56a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:18:11.369Z
+Categories:
+
+
+Name: DeltaTube
+Url: https://testflight.apple.com/join/L4FzuAmE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/99/3b/fe/993bfe47-cb81-cd30-5e1c-ece5f781e5e1/AppIcon-1x_U007ephone-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 16
+Beta Available: open
+Last Checked: 2024-06-06T00:18:11.397Z
+Categories:
+
+
+Name: DemoShop
+Url: https://testflight.apple.com/join/Bwyi9fvv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a3/b3/7e/a3b37ed1-3a30-5964-6fb8-8d3daa5d4b52/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T00:18:11.425Z
+Categories:
+
+
+Name: Depesha
+Url: https://testflight.apple.com/join/7eK6bPOY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2b/6b/26/2b6b264b-7826-0265-7fd2-2871005d484d/AppIcon-Depesha-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:18:11.454Z
+Categories:
+
+
+Name: Depict
+Url: https://testflight.apple.com/join/SE17ZkK7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/2f/90/2f2f90bd-5657-a041-305e-48b0b1f6a611/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:18:11.482Z
+Categories:
+
+
+Name: Desk
+Url: https://testflight.apple.com/join/vMm2P3Lg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/f2/3c/7bf23cc5-7c92-fe5b-235b-1b9273833629/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:18:11.510Z
+Categories:
+
+
+Name: Destinations and more
+Url: https://testflight.apple.com/join/4KH29jSs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/02/a6/0702a6f1-2195-9e1f-4c7c-9befece43489/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:18:11.539Z
+Categories:
+
+
+Name: DevShares
+Url: https://testflight.apple.com/join/VilFjxLF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/03/22/980322e6-99ff-720b-e963-b3cd41eb9c12/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T00:18:11.567Z
+Categories:
+
+
+Name: Dialogy
+Url: https://testflight.apple.com/join/1Flw2nrl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/64/c4/7464c480-7538-1ea7-e1e1-92fb0d838e96/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:18:11.596Z
+Categories:
+
+
+Name: Diat
+Url: https://testflight.apple.com/join/h1QA5xQP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/04/e1/8504e12c-8cd8-2d46-11b9-7de2e67502ab/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T00:18:11.624Z
+Categories:
+
+
