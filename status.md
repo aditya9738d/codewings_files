@@ -14155,3 +14155,120 @@ Last Checked: 2024-06-06T06:31:09.913Z
 Categories:
 
 
+Name: BigRich_QA
+Url: https://testflight.apple.com/join/lAWeUkCj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/94/ad/fa94adf0-8aaf-c102-722a-3d5545c1c7bb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:32:12.503Z
+Categories:
+
+
+Name: AdGuard Pro — adblock&privacy
+Url: https://testflight.apple.com/join/Eita1W29
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/39/a8/0a39a8df-a3ad-6fe6-569f-b7b256b9572d/ProAppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T06:32:12.532Z
+Categories:
+
+
+Name: Liv Bank
+Url: https://testflight.apple.com/join/Ou5CKdgc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/de/5d/cbde5dc3-800d-bd43-8722-88273bfa3ff7/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:32:12.561Z
+Categories:
+
+
+Name: JX1 G4VN Mobile
+Url: https://testflight.apple.com/join/OnESLfw4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/28/f1/4b28f1c0-736e-aaef-79dc-64435700dab7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:32:12.590Z
+Categories:
+
+
+Name: ORDA
+Url: https://testflight.apple.com/join/0pzoEzjx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/96/00/d4960099-8eb2-a72d-9e77-7a75c4681328/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:32:12.620Z
+Categories:
+
+
+Name: Defence of Serenity: Castle
+Url: https://testflight.apple.com/join/SNpEhHA8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/a3/8d/21a38d8b-e6da-0f0c-9f54-c13431a45679/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:32:12.649Z
+Categories:
+
+
+Name: SM.MS
+Url: https://testflight.apple.com/join/bQz911w3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5a/5b/cb/5a5bcbc1-ff44-37c0-f23c-4501e22fc593/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:32:12.678Z
+Categories:
+
+
+Name: TOPPOINT
+Url: https://testflight.apple.com/join/21lcl1Ry
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/66/a0/bd66a05c-8baa-b5ca-ff77-2eaec7d775ad/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:32:12.706Z
+Categories:
+
+
+Name: Shadow PC
+Url: https://testflight.apple.com/join/PxpSW79P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c9/8a/9b/c98a9b95-703a-b7f2-efcb-281f35d9f1a5/AppIconBeta-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:32:12.735Z
+Categories:
+
+
+Name: ScanDoc
+Url: https://testflight.apple.com/join/w5AukfoU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fb/0a/35/fb0a35c5-1f60-e204-77a4-a235ede54d59/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T06:32:12.764Z
+Categories:
+
+
+Name: Tokata Custom
+Url: https://testflight.apple.com/join/nZe6WOkG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/5c/74/a75c7452-6df2-3a42-0748-57ff9fb1604c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:32:12.793Z
+Categories:
+
+
+Name: MusicMate: Music, Map, Friends
+Url: https://testflight.apple.com/join/kipoUqTn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/59/95/d45995c5-3984-6a2b-db9e-7d793c7639d0/AppIcon-0-1x_U007emarketing-0-3-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T06:32:12.822Z
+Categories:
+
+
+Name: VNeTraffic
+Url: https://testflight.apple.com/join/NW7uU3Jm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/19/54/df1954dc-ccff-10a0-61fc-f00c2504fb89/AppIcon-0-0-1x_U007epad-0-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:32:12.850Z
+Categories:
+
+
