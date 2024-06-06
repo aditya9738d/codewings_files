@@ -1,3 +1,5 @@
+- **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/43/4a/7f434a97-c61d-d46d-9ac2-0df3050e6c3d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
+
 - **Kiếm Ca Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/12/8f/98128f3d-a77a-82ab-8a0e-71b8b61bb007/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/O0ppOaM3)
 
 - **MeowBili**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/95/0c/a1950c25-ccd3-7227-5387-5fef2495287e/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P5CLgWpk)
@@ -46,5 +48,3 @@
 - **Delta Digital**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/8b/37/8e8b37c0-c516-f804-9f61-80fb179bb462/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AQ87Xg1x)
 - **SCA UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/2e/21/842e21a6-b8a0-5b53-e9e4-64515774e1e5/AppIcon-test-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a2W8tS4N)
 - **CPM VN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/91/1b/9e911b22-8c80-5cfa-54d2-c4b901fcc1a1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Nu0VgBBq)
-- **Cartender**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/63/81/a16381bd-9ecc-44ea-fbfc-40c9eeed23ba/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cTm5n7yt)
-- **phyphox**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/d9/dc/07d9dc99-02ea-617e-2474-d2f3e2e58043/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/r05iODWL)
