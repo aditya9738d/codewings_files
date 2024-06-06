@@ -7954,3 +7954,120 @@ Last Checked: 2024-06-06T05:36:11.830Z
 Categories:
 
 
+Name: Par Groups
+Url: https://testflight.apple.com/join/9GgIvLpB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/9c/5c/8d9c5c76-b722-c0d6-b500-e4a873c1b7ff/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:37:09.400Z
+Categories:
+
+
+Name: Alipay+ Linker Wallet
+Url: https://testflight.apple.com/join/eFAxdeIz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/be/f3/d2bef341-0799-262d-ea72-5982f91f809a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:37:09.436Z
+Categories:
+
+
+Name: Fantasy Jigsaw - HD Puzzle
+Url: https://testflight.apple.com/join/BOzhOTi3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/09/6d/73096dca-6039-9074-d013-84c6626c75dd/AppIcon-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:37:09.472Z
+Categories:
+
+
+Name: Suunto ZH
+Url: https://testflight.apple.com/join/0mD9QyKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/f5/65/d9f5653f-fdee-fca5-3995-77b5486ed7d6/SuuntoAppIcon-1x_U007emarketing-0-7-0-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T05:37:09.508Z
+Categories:
+
+
+Name: Limbo APP
+Url: https://testflight.apple.com/join/cXMvdFpd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/f1/42/1ef14203-ec9d-dcdd-67ba-fd7f97fd2334/limbo_prodAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:37:09.544Z
+Categories:
+
+
+Name: WisPro Business
+Url: https://testflight.apple.com/join/MJch86Qt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/80/08/af800831-311e-df47-20a8-7156a831f751/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:37:09.580Z
+Categories:
+
+
+Name: Wyrr
+Url: https://testflight.apple.com/join/2TyQkLz8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/09/da/1a/09da1a99-363a-74e2-4ae0-773f1780fa9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:37:09.615Z
+Categories:
+
+
+Name: Relax_AN
+Url: https://testflight.apple.com/join/F9iQi6PG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/ba/3c/63ba3c6f-d7b0-b325-6bf9-f460d18cdd76/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:37:09.650Z
+Categories:
+
+
+Name: HIPHOP SMART
+Url: https://testflight.apple.com/join/fC4nrQfl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/a1/cd/4ba1cd3d-f63b-974a-6630-d77a80a46c70/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T05:37:09.685Z
+Categories:
+
+
+Name: champion Beta
+Url: https://testflight.apple.com/join/ObKaA1Uz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/ac/da/aeacdaa3-3636-f395-e437-f9fb14d4fb35/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:37:09.720Z
+Categories:
+
+
+Name: iTools Drive
+Url: https://testflight.apple.com/join/4tSMG9BM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/3b/49/fd3b497e-53cf-6f9a-471d-e9ae89412597/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T05:37:09.756Z
+Categories:
+
+
+Name: Dj Syxx Figgaz
+Url: https://testflight.apple.com/join/tBRA2932
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/b3/1e/55b31ea9-db3e-8273-1331-463a7e2a050b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T05:37:09.791Z
+Categories:
+
+
+Name: Hey mind
+Url: https://testflight.apple.com/join/F19nS5Lu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/b1/74/e6b1740b-b595-667e-3470-1934d6577d22/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:37:09.827Z
+Categories:
+
+
