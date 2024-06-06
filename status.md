@@ -10294,3 +10294,120 @@ Last Checked: 2024-06-06T05:58:12.053Z
 Categories:
 
 
+Name: Upwork for Freelancers
+Url: https://testflight.apple.com/join/ef3GQatk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/c9/aa/aec9aab6-ba75-cbb0-f275-bdf4daad4810/FreelancerAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:59:09.738Z
+Categories:
+
+
+Name: monday.com - Work Management
+Url: https://testflight.apple.com/join/u48va7lC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/e0/21/0de021cc-b695-18c6-d3cc-52000b26aa96/AppIcon-Monday-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:59:09.765Z
+Categories:
+
+
+Name: EvoWalk App
+Url: https://testflight.apple.com/join/iZFJpZ8F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/18/cc/1f18cc0f-c054-4148-bb3b-2750adbf5766/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:59:09.792Z
+Categories:
+
+
+Name: Authenticator 2FA+
+Url: https://testflight.apple.com/join/PDUIq4bp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/3d/22/6d3d225f-781c-2168-dfd8-52d8651b9f77/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:59:09.820Z
+Categories:
+
+
+Name: EZFare
+Url: https://testflight.apple.com/join/priE8rm1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/36/7f/47367f3d-38de-9a57-6243-9a6c3924ba6d/AppIcon-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:59:09.848Z
+Categories:
+
+
+Name: Warranty+
+Url: https://testflight.apple.com/join/nWLuICPs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/8d/2a/9b8d2a9b-ee42-c272-9829-320c97cb2c1e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:59:09.876Z
+Categories:
+
+
+Name: DM Event Scanner
+Url: https://testflight.apple.com/join/WJ4n5rKy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/20/07/292007d7-0b30-d190-9a1f-bbfb3e7edb12/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:59:09.903Z
+Categories:
+
+
+Name: AlchemCharts
+Url: https://testflight.apple.com/join/4PazuisX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/99/47/a29947e7-0d52-285b-c860-a0d1104d9393/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:59:09.930Z
+Categories:
+
+
+Name: Organic Maps: Offline Map
+Url: https://testflight.apple.com/join/lrKCl08I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/be/24/ddbe2468-c2af-2ea8-a5a5-803374515b5a/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:59:09.958Z
+Categories:
+
+
+Name: RunCline
+Url: https://testflight.apple.com/join/lreTEZW3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/47/0f/e1470f34-4076-1bf9-aaea-9fc59cfc95a2/AppIcon-1-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T05:59:09.986Z
+Categories:
+
+
+Name: Audit Manager – EPA Soluzioni
+Url: https://testflight.apple.com/join/KEfWx74F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/3d/bd/ca3dbde6-90d5-ee06-7dd8-3d183e0fba98/AppIconsEPASoluzioni-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:59:10.014Z
+Categories:
+
+
+Name: 88 Mobile
+Url: https://testflight.apple.com/join/x5t2hBvy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/21/92/ae2192e3-0b06-3f32-d441-3fc013f895c1/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:59:10.042Z
+Categories:
+
+
+Name: ProdataKey
+Url: https://testflight.apple.com/join/OHwTybsU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/24/02/76240261-04f2-0b8f-d981-50a96ee41baa/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T05:59:10.069Z
+Categories:
+
+
