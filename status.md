@@ -14312,3 +14312,120 @@ Last Checked: 2024-06-06T02:15:24.128Z
 Categories:
 
 
+Name: Charge HQ
+Url: https://testflight.apple.com/join/yJr5Y0O9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/f6/82/05f6826d-e571-d397-0d58-ccb752709e55/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T02:16:12.796Z
+Categories:
+
+
+Name: Truck Maps Navigation
+Url: https://testflight.apple.com/join/vpYkazUc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/54/0c/db540cc1-3d1f-cd9d-d0a8-dec681987646/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T02:16:12.824Z
+Categories:
+
+
+Name: FoxCloud2.0
+Url: https://testflight.apple.com/join/MxSFUO60
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/51/11/a5511186-0c9c-2d7b-fcfc-a8c2cf8d7dba/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:16:12.852Z
+Categories:
+
+
+Name: NS Travel Planner
+Url: https://testflight.apple.com/join/ldBwapIg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/a2/12/15a21232-5468-1c50-a6a4-eb68f8fa4c66/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-06T02:16:12.881Z
+Categories:
+
+
+Name: Grindr - Gay Dating & Chat
+Url: https://testflight.apple.com/join/eO265vw7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/dd/43/01dd436f-3fcd-cdd6-e8e1-fb1e3eeb8c0d/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:16:12.909Z
+Categories:
+
+
+Name: Traini -Dog Training & AI Chat
+Url: https://testflight.apple.com/join/dA6l0fWU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/cb/4c/43cb4cb6-b07b-7f2e-13d4-503063eb9991/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:16:12.939Z
+Categories:
+
+
+Name: phaze
+Url: https://testflight.apple.com/join/fkQWk37B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/29/29/9529292f-e6ba-1dbd-f97d-1cfd19a7fac9/AppIcon-1x_U007ephone-0-0-0-0-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:16:12.967Z
+Categories:
+
+
+Name: monteStory
+Url: https://testflight.apple.com/join/EkfsDlme
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/d6/d0/73d6d067-9be0-9009-054a-5e1cfb86e3b5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T02:16:12.995Z
+Categories:
+
+
+Name: Stork
+Url: https://testflight.apple.com/join/pOk0I70t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/4c/4a/194c4a59-9dc4-adf6-c00e-49fe69f14309/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:16:13.024Z
+Categories:
+
+
+Name: stats.fm for Spotify Music App
+Url: https://testflight.apple.com/join/ATXJemn4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d9/41/3ad941f0-893d-6da9-4e65-f341c8fc0ca4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T02:16:13.052Z
+Categories:
+
+
+Name: Mythic Mischief
+Url: https://testflight.apple.com/join/Zm34KszI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/35/3a/0e353aba-1886-deec-730c-93771ee0bb7e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:16:13.081Z
+Categories:
+
+
+Name: Rachana Ranade Regional
+Url: https://testflight.apple.com/join/sp79yAyj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/32/4c/f7324c92-3bac-65a3-7f8c-2ce660c2bbc0/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:16:13.112Z
+Categories:
+
+
+Name: Godox Light
+Url: https://testflight.apple.com/join/LfIj3unB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/fa/10ddfa71-4ce1-ec04-6a65-5935d5836079/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T02:16:13.140Z
+Categories:
+
+
