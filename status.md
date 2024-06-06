@@ -7252,3 +7252,120 @@ Last Checked: 2024-06-06T01:10:25.720Z
 Categories:
 
 
+Name: PPL Coke
+Url: https://testflight.apple.com/join/Gya0FTFZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/a1/e6/e8a1e675-d89a-2f4b-9b66-d19ee3210237/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:11:10.079Z
+Categories:
+
+
+Name: PTSC
+Url: https://testflight.apple.com/join/yZYrhSFK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/81/4a/30/814a3095-9c07-fce2-b102-2dfc5b381364/AppIconTCT-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:11:10.115Z
+Categories:
+
+
+Name: PURE360 Lifestyle
+Url: https://testflight.apple.com/join/iBT180wY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/22/32/3e/22323edc-daf4-7311-9411-99fb25ec9256/AppIconGeneric-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:11:10.151Z
+Categories:
+
+
+Name: PVI 24/7
+Url: https://testflight.apple.com/join/aO0xCsLi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/01/87/e8/0187e86d-7c3e-155e-e9f4-5dea936121fb/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:11:10.187Z
+Categories:
+
+
+Name: PacaPomo
+Url: https://testflight.apple.com/join/o5K8xKSu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/52/77/435277ff-6667-d613-0b1e-e05605419cec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T01:11:10.224Z
+Categories:
+
+
+Name: Pact -Shop, discover & save
+Url: https://testflight.apple.com/join/mWLIdssX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/23/19/f0/2319f00b-97e3-441f-9791-8b1ad88b7dbd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:11:10.260Z
+Categories:
+
+
+Name: Padel Time Dev
+Url: https://testflight.apple.com/join/ifscZQas
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/30/0c/56/300c56f3-7d41-be7a-0247-dff468083187/AppIcon_Dev-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:11:10.296Z
+Categories:
+
+
+Name: Pafera Share
+Url: https://testflight.apple.com/join/rl3qfQW7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/c7/6b/b5c76b09-ce9a-b7e8-3312-a0e841b32de3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T01:11:10.332Z
+Categories:
+
+
+Name: Pal - AI Chat Client
+Url: https://testflight.apple.com/join/Vmd7XZa7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/1b/be/aa1bbe44-c5bc-6ff4-d453-647f6a0fe308/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T01:11:10.368Z
+Categories:
+
+
+Name: Pally - Deeper Relationships
+Url: https://testflight.apple.com/join/XD3Qzdsb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/82/8e/c5828e2c-cde4-3a83-ec08-bba91e9ce778/AppIcon-production-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T01:11:10.404Z
+Categories:
+
+
+Name: PalmPay
+Url: https://testflight.apple.com/join/bKon8lsd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ad/80/bead8060-6c95-8e17-cfb1-1e3c0c32d145/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T01:11:10.440Z
+Categories:
+
+
+Name: Panafrican CRM
+Url: https://testflight.apple.com/join/EtJdNaqQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f8/8e/21/f88e217f-89e8-6186-5e2e-3a0391c0a97b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:11:10.479Z
+Categories:
+
+
+Name: PanoX
+Url: https://testflight.apple.com/join/Uw4ZLtj8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/47/30/28473025-ac3a-258a-3db9-7dae22705a12/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:11:10.514Z
+Categories:
+
+
