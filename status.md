@@ -26539,3 +26539,120 @@ Last Checked: 2024-06-06T04:11:11.814Z
 Categories:
 
 
+Name: Power Of Power
+Url: https://testflight.apple.com/join/iOu2V3xs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/8c/94/168c94d6-e296-652d-3ccc-635f3106b59b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.317Z
+Categories:
+
+
+Name: Corsano
+Url: https://testflight.apple.com/join/cuAOjWGs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/fe/08/fcfe0877-8960-e1f0-cf97-35adaace5f46/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.345Z
+Categories:
+
+
+Name: Max Me
+Url: https://testflight.apple.com/join/2qa5beAh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/6c/23/986c238c-7fe7-b2e7-d7d1-a5fef31eec3d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.373Z
+Categories:
+
+
+Name: DragonC
+Url: https://testflight.apple.com/join/iRTotZtD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/4b/34/6b4b34a9-92f3-cf38-919b-aceada427ee0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.401Z
+Categories:
+
+
+Name: Zigbee Tool - Flight
+Url: https://testflight.apple.com/join/56u1S5SH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/2d/55/c92d554f-4d1a-e8a1-2370-e533797b4683/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.429Z
+Categories:
+
+
+Name: Embody Space
+Url: https://testflight.apple.com/join/JqfxmMzw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/40/09/c6400959-fe82-f439-d685-c4a36742aed6/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.458Z
+Categories:
+
+
+Name: My-Caddy
+Url: https://testflight.apple.com/join/JXR68OBi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/08/4a/f1084ae2-b5d5-6ac2-4c1f-ce1e956a645e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.486Z
+Categories:
+
+
+Name: weScan by 3DUniversum
+Url: https://testflight.apple.com/join/5VhPT8du
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/82/32/2e/82322ecb-deb3-79f9-3f64-6728f46c5403/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.515Z
+Categories:
+
+
+Name: Venex Staging
+Url: https://testflight.apple.com/join/vHuVvnuM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a9/ed/f8/a9edf850-37b5-bb92-0636-2f10181806dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.543Z
+Categories:
+
+
+Name: LightTwist
+Url: https://testflight.apple.com/join/3NhJIIHU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/4b/90/8f4b9076-5cea-0dbf-773b-aa5cdf197a70/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.571Z
+Categories:
+
+
+Name: SWFT Blockchain Pro
+Url: https://testflight.apple.com/join/gptqL2NT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/f0/a4/7af0a4af-3cfb-c3d6-1881-e758fc6ad940/AppIcon-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.612Z
+Categories:
+
+
+Name: CardBeat – Plot Your Story
+Url: https://testflight.apple.com/join/iu3QlyJ8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/49/bb/b9/49bbb9d2-641e-3da0-e554-af05948ea8d1/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T04:12:13.652Z
+Categories:
+
+
+Name: Model Colors
+Url: https://testflight.apple.com/join/jJmnVnB5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/9f/24/409f24ad-ff18-54fd-5cd1-7a8f0cbf0a7f/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:12:13.681Z
+Categories:
+
+
