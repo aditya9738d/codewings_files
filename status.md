@@ -11581,3 +11581,120 @@ Last Checked: 2024-06-06T06:09:08.482Z
 Categories:
 
 
+Name: DOEX Pro: Buy Bitcoin & Crypto
+Url: https://testflight.apple.com/join/n41HJYxd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/40/25/f4/4025f468-0ae3-e116-9edc-5b2f8a504a05/Icon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:10:24.610Z
+Categories:
+
+
+Name: AirMobile
+Url: https://testflight.apple.com/join/XU2iX4e5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/5d/ae/5c5dae2d-fb4c-b54d-fcc4-931d48944d02/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 15
+Beta Available: open
+Last Checked: 2024-06-06T06:10:24.637Z
+Categories:
+
+
+Name: Xbox Family Settings
+Url: https://testflight.apple.com/join/8oUnDzMQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/87/ab/d387ab45-dd84-45f8-42a7-458be7010066/AppIcon-Release-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-06T06:10:24.665Z
+Categories:
+
+
+Name: ANA.debug
+Url: https://testflight.apple.com/join/GFLwnyGG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/a2/50/66a25088-0fc9-0f00-ab57-0bf7f812e3a0/AppIconStg-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:10:24.693Z
+Categories:
+
+
+Name: TIME&SPACE - Event Manager
+Url: https://testflight.apple.com/join/QEoi3m9N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/6c/12/726c120f-39b7-f1b2-6623-1775a4f72f34/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:10:24.721Z
+Categories:
+
+
+Name: FaceToken
+Url: https://testflight.apple.com/join/2PybeBTz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/dc/ed/90dced18-2864-b876-98ad-8cfa3a76843b/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:10:24.749Z
+Categories:
+
+
+Name: i wanna be the creator
+Url: https://testflight.apple.com/join/CHz1LEJR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/38/21/8338211c-0a49-05b1-0a8f-2402a653859e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:10:24.777Z
+Categories:
+
+
+Name: CPR Life Support:  Life Saver
+Url: https://testflight.apple.com/join/ToOnIHhR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/59/c9/b0/59c9b006-8efb-49a6-6ce5-dcf351b49635/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T06:10:24.805Z
+Categories:
+
+
+Name: Home Inventory Itemlist
+Url: https://testflight.apple.com/join/yhttZvOd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/d6/33/d5d63384-eb00-4097-0bc1-7c2fcdabf517/AppIcon-0-0-1x_U007epad-0-0-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:10:24.832Z
+Categories:
+
+
+Name: TrueID: #1 Smart Entertainment
+Url: https://testflight.apple.com/join/CrbUBEe3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/38/97/ed389735-dbbc-8005-0e72-f893ee5da555/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:10:24.860Z
+Categories:
+
+
+Name: Ignite by Igloo
+Url: https://testflight.apple.com/join/GW28v1hF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/a5/d3/c6a5d37c-268e-7165-17cc-e30f01c6183d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T06:10:24.888Z
+Categories:
+
+
+Name: New Cambridge
+Url: https://testflight.apple.com/join/QTltAL3G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7b/c6/c5/7bc6c506-72e6-5000-2248-c5d095aa4027/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:10:24.916Z
+Categories:
+
+
+Name: MTG Scanner - Lion’s Eye
+Url: https://testflight.apple.com/join/yj6QDl0H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/78/4c/da/784cda18-2685-ef18-c760-915b0b874505/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:10:24.944Z
+Categories:
+
+
