@@ -26674,3 +26674,120 @@ Last Checked: 2024-06-06T08:23:11.289Z
 Categories:
 
 
+Name: Ponder: AI-powered Meditation
+Url: https://testflight.apple.com/join/tx2UzBdu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/76/95/32/76953210-8e5d-700b-d607-e6919ffeb162/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:24:09.137Z
+Categories:
+
+
+Name: August International
+Url: https://testflight.apple.com/join/WslmLnd2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/02/7c/d0027c55-4f2a-f187-1ad1-b1cf198a573e/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:24:09.165Z
+Categories:
+
+
+Name: AdonisBots
+Url: https://testflight.apple.com/join/0w5l6DOd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d0/f3/b0/d0f3b0fe-82a9-cec2-bec4-16f38497eb07/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:24:09.194Z
+Categories:
+
+
+Name: StrideTech GO
+Url: https://testflight.apple.com/join/M2imAzCP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d0/04/22/d00422c2-c48b-2ffe-0dbe-e5b66009301a/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:24:09.222Z
+Categories:
+
+
+Name: OSE Meteri
+Url: https://testflight.apple.com/join/dgRyOaoo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/3d/0f/0d3d0f39-2d8b-4f1c-62df-936f0cd194c4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T08:24:09.250Z
+Categories:
+
+
+Name: Vancy
+Url: https://testflight.apple.com/join/SQI4ipOm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/b0/2d/7db02d12-43ea-e0a2-0cc7-30ced8c6d2a9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T08:24:09.279Z
+Categories:
+
+
+Name: MySANY
+Url: https://testflight.apple.com/join/DN5sYoQ1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/0a/76/6b0a7628-9ae4-9957-ad38-5b4fb8c6fcb4/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:24:09.306Z
+Categories:
+
+
+Name: MetaLife.Social
+Url: https://testflight.apple.com/join/luqokCUq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/00/80/6c00807c-1c19-2b89-f937-7f878f85e875/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:24:09.334Z
+Categories:
+
+
+Name: IRCCloud
+Url: https://testflight.apple.com/join/MApr7Une
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/37/a4/9f/37a49fd3-cf9e-fe20-a634-cdb13dc48be7/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T08:24:09.362Z
+Categories:
+
+
+Name: RadarScope
+Url: https://testflight.apple.com/join/IBDF1eC7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/2a/bc/b32abce6-14b0-3803-8746-5d7bfa840256/App_Icon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T08:24:09.390Z
+Categories:
+
+
+Name: J2L3x
+Url: https://testflight.apple.com/join/ikliWgmi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/14/ee/5714ee5f-a231-eec6-3822-ed43982e2331/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:24:09.419Z
+Categories:
+
+
+Name: Candle - Smart Wallet
+Url: https://testflight.apple.com/join/6RGagpwc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/41/ce/6d41cea5-31eb-0bdf-c9bd-a453567bb627/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:24:09.448Z
+Categories:
+
+
+Name: GoRich
+Url: https://testflight.apple.com/join/Jk0uZ09X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/44/6b/1c446b4e-f884-109d-6b26-30276334e65f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:24:09.476Z
+Categories:
+
+
