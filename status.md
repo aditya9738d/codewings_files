@@ -7954,3 +7954,120 @@ Last Checked: 2024-06-06T23:56:11.040Z
 Categories:
 
 
+Name: LNDU+
+Url: https://testflight.apple.com/join/TBR0bOOL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/18/08/6a180857-ceba-2d52-57c5-e76858ca3d9b/AppIcon-0-0-1x_U007ephone-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.028Z
+Categories:
+
+
+Name: Samsung Shop
+Url: https://testflight.apple.com/join/FVoXfI5R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/80/4a/ad804ac4-bba1-52e5-56f1-96578f39fd6c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-06T23:57:09.063Z
+Categories:
+
+
+Name: Castle Empire
+Url: https://testflight.apple.com/join/p6Vl1pLP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/80/c0/b180c0fe-bd1c-b81e-a371-49df1c09e5ec/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.099Z
+Categories:
+
+
+Name: SushiDebtOff
+Url: https://testflight.apple.com/join/TWfxi97k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/08/0e/3f080e5e-9bea-655e-80c6-c0a0cb815ee9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.134Z
+Categories:
+
+
+Name: Welco - Relais particuliers
+Url: https://testflight.apple.com/join/DvCGTiws
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/92/7a/a9927a6f-f4aa-0d1f-0d51-6abc86466aa2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.170Z
+Categories:
+
+
+Name: Wipi
+Url: https://testflight.apple.com/join/uABDyoSk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/66/d2/7d66d22f-26bd-32d0-276d-6a9a0dededd1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.206Z
+Categories:
+
+
+Name: Nro O...
+Url: https://testflight.apple.com/join/B4KxzFpu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/c8/5b/12c85b19-59a9-9b21-f3ff-6f839b36f6ec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.242Z
+Categories:
+
+
+Name: Hello smart (SIT)
+Url: https://testflight.apple.com/join/6KxvN9lz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c9/f1/7ec9f128-0e9a-adce-37c2-18707212c218/AppIconSIT-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.278Z
+Categories:
+
+
+Name: Bitkub Metaverse
+Url: https://testflight.apple.com/join/hrwqekVZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/03/ad/df03ad5b-2be5-b7f0-6776-43e1484e4bf6/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.314Z
+Categories:
+
+
+Name: Penguin Run: Escape from Ice
+Url: https://testflight.apple.com/join/wqstETKZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/2c/07/e62c0777-85d8-0100-2008-f87bd4f195cb/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.349Z
+Categories:
+
+
+Name: mindlife
+Url: https://testflight.apple.com/join/kdt9LWvX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/e6/fa/a7e6faab-104d-1d28-463f-1055d27ea2e9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.385Z
+Categories:
+
+
+Name: KitchenOwl
+Url: https://testflight.apple.com/join/VkbZt2HD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/36/51/a5/3651a52d-cca8-20f2-5f55-7aa70ad0937e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.421Z
+Categories:
+
+
+Name: Snbd
+Url: https://testflight.apple.com/join/j2xr5lnj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/28/9d/85/289d8513-afcf-26c0-8781-93a4540921a5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:57:09.457Z
+Categories:
+
+
