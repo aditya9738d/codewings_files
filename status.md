@@ -19284,3 +19284,120 @@ Last Checked: 2024-06-06T03:02:11.193Z
 Categories:
 
 
+Name: Foursquare City Guide
+Url: https://testflight.apple.com/join/At7rr385
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/49/9b/8e499bcd-8617-8a57-7cca-579691da6651/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 20
+Beta Available: open
+Last Checked: 2024-06-06T03:03:10.131Z
+Categories:
+
+
+Name: Al Noor Prayer
+Url: https://testflight.apple.com/join/2w56J00s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/c4/65/c5c4658c-66bf-5371-43f2-cf8bd38cf663/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 34
+Beta Available: not accepting
+Last Checked: 2024-06-06T03:03:10.159Z
+Categories:
+
+
+Name: Honor of Nations - MMORPG
+Url: https://testflight.apple.com/join/lHJsHfmw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/62/52/3662527f-ad0f-18e2-2b6a-954f99a86aa0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T03:03:10.187Z
+Categories:
+
+
+Name: Wilderless
+Url: https://testflight.apple.com/join/8zIIxsqW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/4d/13/5e4d13f6-40cb-d61b-2f95-f4c983f0b966/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 11
+Beta Available: open
+Last Checked: 2024-06-06T03:03:10.216Z
+Categories:
+
+
+Name: Somewhere - a place
+Url: https://testflight.apple.com/join/bL4c0ZbG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/f9/a9/cff9a925-9d19-395a-8897-666d56b86ba5/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:03:10.243Z
+Categories:
+
+
+Name: Solana Crush
+Url: https://testflight.apple.com/join/b9gQMlQU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/01/9b/d9019b01-fc96-06f3-c18e-65fe739dbd71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-06T03:03:10.272Z
+Categories:
+
+
+Name: Foursquare Swarm: Check-in App
+Url: https://testflight.apple.com/join/0rRfTytM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/be/42/fabe42dd-9a0a-5df7-0052-071d217a5f6e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T03:03:10.300Z
+Categories:
+
+
+Name: Opener ‒ open links in apps
+Url: https://testflight.apple.com/join/jXivVMPE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/71/ed/bf71ed8e-ca0d-e462-6349-ee95f48ed2d1/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-06T03:03:10.328Z
+Categories:
+
+
+Name: Clash of MOland
+Url: https://testflight.apple.com/join/IXSVtiZJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/72/c6/45/72c645d5-0bc6-01da-7fe4-122f87f80da0/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-8.png
+Click Count: 23
+Beta Available: open
+Last Checked: 2024-06-06T03:03:10.355Z
+Categories:
+
+
+Name: Game Of Revenge
+Url: https://testflight.apple.com/join/5uee2m5t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/65/3c/94653cb6-4679-8e7a-a77c-f4cd0091f7c7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 11
+Beta Available: open
+Last Checked: 2024-06-06T03:03:10.383Z
+Categories:
+
+
+Name: Freebox Connect
+Url: https://testflight.apple.com/join/bxifCoxH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/95/5f/e9955ff3-0d11-bb7b-8bfd-5e854dec784c/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 25
+Beta Available: open
+Last Checked: 2024-06-06T03:03:10.411Z
+Categories:
+
+
+Name: HDHomeRun
+Url: https://testflight.apple.com/join/nn30hcfY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/26/cb/8a26cb76-5fb9-183b-4950-2d3f25e26c2e/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png
+Click Count: 52
+Beta Available: not accepting
+Last Checked: 2024-06-06T03:03:10.439Z
+Categories:
+
+
+Name: Bamboo Dragonfly
+Url: https://testflight.apple.com/join/9yO95rQX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/f5/b4/0ef5b4c9-eb75-6213-c57c-a79e5f4269b8/App_Icon-marketing.lsr/200x200bb-80.png
+Click Count: 5
+Beta Available: full
+Last Checked: 2024-06-06T03:03:10.466Z
+Categories:
+
+
