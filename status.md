@@ -1519,3 +1519,120 @@ Last Checked: 2024-06-06T00:18:11.624Z
 Categories:
 
 
+Name: Dice by PCalc
+Url: https://testflight.apple.com/join/Cpvyld9O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0a/d4/0d/0ad40de9-abac-bb31-5125-4c95c331d090/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T00:19:09.567Z
+Categories:
+
+
+Name: Dien Dan Xo So
+Url: https://testflight.apple.com/join/DUxrGP0m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/c1/65/19c16563-fc7c-90ff-2fce-7ac3788fffb8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:19:09.595Z
+Categories:
+
+
+Name: Digital Clock for Vision Pro
+Url: https://testflight.apple.com/join/fXuVnze7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/15/e7/7115e778-e40a-25ef-513b-73897dbb27fa/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T00:19:09.624Z
+Categories:
+
+
+Name: Digits: Sports News & Stats
+Url: https://testflight.apple.com/join/Yjr6CyCu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/c5/11/a7c511da-7193-e6bd-5396-9b8c9aded937/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:19:09.653Z
+Categories:
+
+
+Name: Diligent Daily Habits
+Url: https://testflight.apple.com/join/N9P4sCtz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/1d/1f/191d1fc6-e525-55fc-8158-c6b49ac8d86c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T00:19:09.681Z
+Categories:
+
+
+Name: Dime: Budget & Expense Tracker
+Url: https://testflight.apple.com/join/5pjgVpyM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/73/fd/26/73fd2616-c909-2415-be64-437174fd4a3d/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:19:09.710Z
+Categories:
+
+
+Name: Dino Ex
+Url: https://testflight.apple.com/join/sF0gLHJ8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/e0/6c/3be06c5e-ee3e-e5d5-a7d6-d56cad633d96/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:19:09.742Z
+Categories:
+
+
+Name: DiscDuck
+Url: https://testflight.apple.com/join/PENMqZbS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/63/b9/ad/63b9ad10-c5be-b2c9-54ae-63833ee2115e/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:19:09.771Z
+Categories:
+
+
+Name: Discogs
+Url: https://testflight.apple.com/join/MLrxqR4n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/ae/8d/53ae8def-3e67-44b8-cd38-20c8107a823c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:19:09.799Z
+Categories:
+
+
+Name: DiscountExpress
+Url: https://testflight.apple.com/join/sQwWXn71
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/d6/ba/38d6ba10-1cd0-98a0-4f5b-d75e70c65d56/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:19:09.828Z
+Categories:
+
+
+Name: Discover Culture AC
+Url: https://testflight.apple.com/join/HzUeAOlz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/30/d7/b130d7e3-ccab-5e82-3571-414818a439a6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T00:19:09.856Z
+Categories:
+
+
+Name: Distance Track
+Url: https://testflight.apple.com/join/yA1N8Ykd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/5d/e9/cb5de9ac-37f5-368d-c174-eb69987d3875/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T00:19:09.885Z
+Categories:
+
+
+Name: DitSitRit-beta
+Url: https://testflight.apple.com/join/TsUNwLK1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/66/b4/37/66b4377d-48f8-c1de-4b01-3afc96196c83/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T00:19:09.912Z
+Categories:
+
+
