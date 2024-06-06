@@ -5965,3 +5965,120 @@ Last Checked: 2024-06-06T23:38:12.608Z
 Categories:
 
 
+Name: repeatup-STG
+Url: https://testflight.apple.com/join/2JFHqcf0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/7e/9e/817e9e03-769e-c476-d3ff-d5eed99194e6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.280Z
+Categories:
+
+
+Name: Spiral Engineering
+Url: https://testflight.apple.com/join/iQt3or0z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/62/87/97628710-fe31-ece6-9f9e-1e61c57c130f/AppIcon-Spiral_Probject-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.308Z
+Categories:
+
+
+Name: Hanami - Manga Reader
+Url: https://testflight.apple.com/join/VUPzZpkc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/29/32/d7/2932d737-55c9-39a4-1257-3490df9b1911/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.337Z
+Categories:
+
+
+Name: The(Any)Thing
+Url: https://testflight.apple.com/join/PCdOj1hw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cb/5a/7ccb5afc-35d0-994a-73db-81034922b9c1/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.365Z
+Categories:
+
+
+Name: Windscribe VPN
+Url: https://testflight.apple.com/join/oKib5JOq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/0e/a7/d80ea7f6-a384-4721-5abb-9b2ecc79c1e6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.394Z
+Categories:
+
+
+Name: ClasseViva Famiglia
+Url: https://testflight.apple.com/join/2JqucKuC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/a6/ef/a6a6ef7f-7465-ceba-dbb8-18ff7f8565d7/cvvfAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.422Z
+Categories:
+
+
+Name: Gomocha FMP360
+Url: https://testflight.apple.com/join/ymBSaC7c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/95/b5/bc95b54e-74ad-d598-0053-f8e74d85c82d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.450Z
+Categories:
+
+
+Name: PW MedEd
+Url: https://testflight.apple.com/join/ioNORBFk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/f3/05/49f30565-760a-1d97-d869-7162414a8744/AppIcon-0-0-1x_U007epad-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.478Z
+Categories:
+
+
+Name: GoKab App
+Url: https://testflight.apple.com/join/xhqVkb39
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/d6/ab/acd6abaa-291f-dd08-c1a1-4a84a9239555/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.506Z
+Categories:
+
+
+Name: VB Global
+Url: https://testflight.apple.com/join/bzy7AoEp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/31/60/733160ff-c29e-c24a-d256-f4b408d953d2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.535Z
+Categories:
+
+
+Name: Elevate - Brain Training Games
+Url: https://testflight.apple.com/join/IGNkcVTL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/24/17/b3241711-037a-aeba-106a-4855ae1135b2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.563Z
+Categories:
+
+
+Name: Hypoxic Training
+Url: https://testflight.apple.com/join/dBb5tPjB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/29/fe/0b/29fe0bbe-97a7-bacc-fb6b-70c0c3816a91/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.592Z
+Categories:
+
+
+Name: GalaxyWak
+Url: https://testflight.apple.com/join/AvAvgff2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/a3/b5/e2a3b5c7-5ea6-55a9-dfdf-88b1a2958e87/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:39:12.620Z
+Categories:
+
+
