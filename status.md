@@ -466,3 +466,120 @@ Last Checked: 2024-06-06T13:26:11.118Z
 Categories:
 
 
+Name: Monzo Bank - Mobile Banking
+Url: https://testflight.apple.com/join/2NZLBFyb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/27/af/8327affc-f624-fbc6-5306-405d0bc60702/AppIconProd-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:27:09.229Z
+Categories:
+
+
+Name: Code Blue Leader
+Url: https://testflight.apple.com/join/FKoOFez8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/96/10/199610e6-6803-c1d8-447e-766b49892288/AppIcon-1x_U007emarketing-0-5-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T13:27:09.257Z
+Categories:
+
+
+Name: mytimelogger
+Url: https://testflight.apple.com/join/jnUKVlAH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d9/9a/1a/d99a1ab0-189f-fa9f-30b9-9ba50889645e/AppIcons-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:27:09.286Z
+Categories:
+
+
+Name: SimpleManga
+Url: https://testflight.apple.com/join/7COCzj1V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/27/75/6c2775e6-1c9d-159d-e494-715b9c2994dc/AppIcon-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T13:27:09.315Z
+Categories:
+
+
+Name: Litewallet: Buy Litecoin
+Url: https://testflight.apple.com/join/zNmFTm37
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/97/94/589794a6-3db4-be65-24cb-ed8420b47fab/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:27:10.432Z
+Categories:
+
+
+Name: Toggl Track: Hours & Time Log
+Url: https://testflight.apple.com/join/dONNQfWl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/98/59/51/98595186-6c83-7b4e-1e8f-4eb12c4205e4/AppIcon-85-220-4-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:27:10.465Z
+Categories:
+
+
+Name: Strings Messenger
+Url: https://testflight.apple.com/join/B8X26MxM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/a9/69/08a96933-f35a-e5ad-34a1-006869cc1b07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:27:10.493Z
+Categories:
+
+
+Name: Kress Commercial
+Url: https://testflight.apple.com/join/nUEGQnQt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/b7/67/59b76728-f498-d08e-22e9-0dea12d56ace/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:27:10.521Z
+Categories:
+
+
+Name: The Wardrobe
+Url: https://testflight.apple.com/join/Yctx5DtW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/31/df/d331df1f-e0fc-ca5f-9ec7-0cc067d8efdc/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T13:27:10.549Z
+Categories:
+
+
+Name: Tunda Island - BFF & Dating
+Url: https://testflight.apple.com/join/Afx8xXRn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e2/a2/ff/e2a2ff04-f1b8-6173-fb86-7373a669b3f3/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:27:10.578Z
+Categories:
+
+
+Name: csl.
+Url: https://testflight.apple.com/join/JhvirvMs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/1f/86/5b1f86ff-ac07-6847-95e4-c1b6f2a3efbe/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:27:10.606Z
+Categories:
+
+
+Name: SuperNews: custom news app
+Url: https://testflight.apple.com/join/SKj6fn5k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/be/65/0b/be650b23-ec1e-1f87-840a-eb29397f2f64/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:27:10.634Z
+Categories:
+
+
+Name: iBoot - StartupDisk shortcut
+Url: https://testflight.apple.com/join/yjWEwvq1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/93/68/4d9368e9-eba7-0933-02b4-9a550388bbd8/AppIcon-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:27:10.662Z
+Categories:
+
+
