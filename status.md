@@ -3040,3 +3040,120 @@ Last Checked: 2024-06-06T13:51:12.618Z
 Categories:
 
 
+Name: Audi Digital Twin Dealer PROD
+Url: https://testflight.apple.com/join/AeNFLu8H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/3f/cb/ac3fcb9d-a030-b32d-fb56-5f8fd0b072d0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:52:13.656Z
+Categories:
+
+
+Name: SG Vape
+Url: https://testflight.apple.com/join/HwvQiHNI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e7/d8/ab/e7d8abf1-5f6f-36e2-1d15-4e751e3a940a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:52:13.685Z
+Categories:
+
+
+Name: MeiJingA
+Url: https://testflight.apple.com/join/aOmgIMaB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/e7/c5/d2e7c5aa-2539-2f45-2c94-1a9704294285/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:52:13.714Z
+Categories:
+
+
+Name: Ruuvi Station
+Url: https://testflight.apple.com/join/loHFrEV1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/d8/e7/c8d8e727-fe47-e155-3723-a042d80da410/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:52:13.743Z
+Categories:
+
+
+Name: KryptoFighters
+Url: https://testflight.apple.com/join/odnfQIkv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/75/44/777544ce-b9fb-adcb-fc2a-8b74a7f1154c/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T13:52:13.772Z
+Categories:
+
+
+Name: REV RENTAL
+Url: https://testflight.apple.com/join/omnKJX29
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/34/77/273477db-13f9-b15a-a0ed-18bbbbb820a3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T13:52:13.801Z
+Categories:
+
+
+Name: iSH Shell
+Url: https://testflight.apple.com/join/97i7KM8O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/1b/8c/7a1b8cb3-bf37-47a4-9e1b-df68454771b7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: full
+Last Checked: 2024-06-06T13:52:13.830Z
+Categories:
+
+
+Name: UTG - Up To Game Pro
+Url: https://testflight.apple.com/join/GlfHoZv5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/35/e1/a135e116-6d64-03f8-1424-65726f2d55e6/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:52:13.859Z
+Categories:
+
+
+Name: Uzmart Seller
+Url: https://testflight.apple.com/join/ZjHulxhx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/69/1f/84/691f84cc-faa6-b097-2173-d285587b4d0d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T13:52:13.888Z
+Categories:
+
+
+Name: Sofa: Downtime Organizer
+Url: https://testflight.apple.com/join/rKbEXs1C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/d0/5d/5fd05d1b-24cc-9d6b-6d44-6a8c52c867e0/AppIcon-0-0-1x_U007epad-0-0-0-0-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:52:13.916Z
+Categories:
+
+
+Name: iTravel Check-In
+Url: https://testflight.apple.com/join/zDGpXjRC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/d2/18/54d218d9-998a-292d-cec5-bad12fbd204a/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:52:13.945Z
+Categories:
+
+
+Name: Reading List: Book Tracker
+Url: https://testflight.apple.com/join/pceGkOgP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/11/e2/5c11e25c-401e-c850-1057-76942ee6ccef/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T13:52:13.973Z
+Categories:
+
+
+Name: Glance for Plausible
+Url: https://testflight.apple.com/join/hG0MV7FC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/01/06/fe0106e2-890f-8400-fe9b-20bf053d04d9/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T13:52:14.002Z
+Categories:
+
+
