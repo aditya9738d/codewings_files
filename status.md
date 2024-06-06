@@ -18581,3 +18581,120 @@ Last Checked: 2024-06-06T02:55:18.768Z
 Categories:
 
 
+Name: Circle Finance
+Url: https://testflight.apple.com/join/t9LweeB5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/88/ff/c288ffad-447f-008d-e51d-8973c20d0f08/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T02:56:11.967Z
+Categories:
+
+
+Name: TiTi App
+Url: https://testflight.apple.com/join/NeXUqMRv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/64/67/60/6467601b-2a38-d3ce-1fec-70f29326445b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 157
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.003Z
+Categories:
+
+
+Name: NFTDuel Game
+Url: https://testflight.apple.com/join/xEyjKgoy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/5d/88/3a5d882d-25b3-6de0-ac8e-76ce42801eff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 44
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.038Z
+Categories:
+
+
+Name: Ask GPT Jesus
+Url: https://testflight.apple.com/join/qX0RYRDT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/e9/c5/f3e9c581-464e-2d02-9bd3-5aa5e81b924f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 56
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.073Z
+Categories:
+
+
+Name: AppMySite - My Web-to-App
+Url: https://testflight.apple.com/join/1cvKgAXc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/58/52/30/585230db-208a-d99b-eb9f-d60931f54435/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 13
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.108Z
+Categories:
+
+
+Name: Flakey
+Url: https://testflight.apple.com/join/TGOVnAxT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/8c/9a/4c8c9ae2-859e-68f3-d462-f5354ff14191/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.142Z
+Categories:
+
+
+Name: Get Hello World
+Url: https://testflight.apple.com/join/oRFmpWfV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/8c/ff/3b8cff4a-65e7-ad30-cb71-ddcae3b27c05/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 25
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.177Z
+Categories:
+
+
+Name: Any Recipe Keeper
+Url: https://testflight.apple.com/join/eedsEgLh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/83/c7/5683c795-3d68-3988-27e7-e24d60d9e563/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.211Z
+Categories:
+
+
+Name: Monetum
+Url: https://testflight.apple.com/join/Av9ileb2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/27/89/fe2789d1-a761-07ed-d04b-80381d074c50/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 15
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.245Z
+Categories:
+
+
+Name: Notesnook: Private note taking
+Url: https://testflight.apple.com/join/tYrz0XXl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/09/d9/7209d914-9454-f2e6-08e6-d28b18ac6412/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.281Z
+Categories:
+
+
+Name: onchain vision
+Url: https://testflight.apple.com/join/HinmLjRA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/e5/5e/ade55e2f-a48c-ca6a-62a8-82e3fd853bad/AppIcon.lsr/200x200bb-80.png
+Click Count: 22
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.315Z
+Categories:
+
+
+Name: Febriq
+Url: https://testflight.apple.com/join/K5bloOXm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/a5/d5/0da5d50d-00da-ea62-98dc-4e33734f9faa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.350Z
+Categories:
+
+
+Name: fortitude - simple journal
+Url: https://testflight.apple.com/join/IO9jqeaB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/88/3e9e881b-e813-7b88-236b-8f6dc4d23edf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-06T02:56:12.384Z
+Categories:
+
+
