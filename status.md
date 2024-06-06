@@ -1051,3 +1051,120 @@ Last Checked: 2024-06-06T08:52:11.843Z
 Categories:
 
 
+Name: Bank of Nevis Mobibanking
+Url: https://testflight.apple.com/join/0WB0N8pc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/61/65/3a61655a-718c-c5cd-a0e7-a593808d5ad1/AppIcons-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:53:07.350Z
+Categories:
+
+
+Name: Base8
+Url: https://testflight.apple.com/join/adzsaUAO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/03/49/69034905-633a-8b0f-af72-123316a3923b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:53:07.378Z
+Categories:
+
+
+Name: Basement
+Url: https://testflight.apple.com/join/xhJnf6f0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/53/3c/8c533cf7-4e5a-b18a-b56d-b3bb086e60a2/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:53:07.405Z
+Categories:
+
+
+Name: Battle Against Darkness
+Url: https://testflight.apple.com/join/KcWsdabC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/97/18/6897185c-d021-d567-dd78-f9ab45e20f85/AppIcon-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:53:07.433Z
+Categories:
+
+
+Name: Be Better - #1 Feedback App
+Url: https://testflight.apple.com/join/omVEGyIb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/82/68/cd826869-dcc9-b131-aab0-d83e713d4cf2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:53:07.460Z
+Categories:
+
+
+Name: BeBetta
+Url: https://testflight.apple.com/join/C0c0qfug
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/d8/b2/0cd8b2de-9568-b7a6-4f53-084fb5188ed8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-06T08:53:07.488Z
+Categories:
+
+
+Name: Beautics
+Url: https://testflight.apple.com/join/SgmfB2be
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/15/fd/e515fd6b-def4-8861-6658-7a47aec000e9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:53:07.516Z
+Categories:
+
+
+Name: Beezle Social
+Url: https://testflight.apple.com/join/Da72PT6N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/a5/46/58a54669-d4e1-c899-7422-26ab8e5e618e/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:53:07.544Z
+Categories:
+
+
+Name: Bein MEDICINE
+Url: https://testflight.apple.com/join/ZAyqT6sp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/71/5b/9e715b20-a375-e6fc-ccbf-4bf3407ae014/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:53:07.572Z
+Categories:
+
+
+Name: Belong - NFT Tickets & Events
+Url: https://testflight.apple.com/join/MLRsYDa5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/81/f7/d481f7b1-833c-40e0-7c4c-f33faf2d362d/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:53:07.600Z
+Categories:
+
+
+Name: BenThanh Group
+Url: https://testflight.apple.com/join/QVgal1IA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/46/f0/b046f099-ad37-518a-25fc-ea01a87dc80f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:53:07.628Z
+Categories:
+
+
+Name: BetHQ | AI Picks & Analysis
+Url: https://testflight.apple.com/join/K8lUrMKk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/6e/a7/3b6ea78b-d1be-13ca-af8e-6f2b72147e7e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-06T08:53:07.657Z
+Categories:
+
+
+Name: BetterWorrld
+Url: https://testflight.apple.com/join/XmET9old
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/dd/d0/baddd04a-f0a3-b7fe-5448-a30c935fcf64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:53:07.685Z
+Categories:
+
+
