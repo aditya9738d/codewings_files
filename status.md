@@ -22462,3 +22462,120 @@ Last Checked: 2024-06-06T17:25:18.436Z
 Categories:
 
 
+Name: Vimcal: Calendar and Schedule
+Url: https://testflight.apple.com/join/W7evUHfZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6d/73/26/6d732682-d809-15d2-37b3-ddea5677560f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.512Z
+Categories:
+
+
+Name: iCanMall
+Url: https://testflight.apple.com/join/r6ZHVEFA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/68/28/036828d9-850b-1485-1a89-09e8eb26c721/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.540Z
+Categories:
+
+
+Name: MzFit: Fitness & Workouts
+Url: https://testflight.apple.com/join/nfAeYMTd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/3b/7f/893b7f56-3d43-9c47-2191-74cc93be6e37/AppIcon-0-1x_U007epad-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.567Z
+Categories:
+
+
+Name: Incrowd
+Url: https://testflight.apple.com/join/4h32bQgd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/45/07/e9450789-c740-2237-4b55-51fd01aeb0a8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.595Z
+Categories:
+
+
+Name: FITIV Pulse Heart Rate Monitor
+Url: https://testflight.apple.com/join/JIKK58Sp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/12/13/91121339-e80b-d3c2-2fe3-f85dfd819ab2/motiFITIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.622Z
+Categories:
+
+
+Name: Mellors
+Url: https://testflight.apple.com/join/w9WF8yTV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/67/80/46/6780465c-30c3-e7a9-3a33-63753bb0c864/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.650Z
+Categories:
+
+
+Name: CRM sales tracker by Pipedrive
+Url: https://testflight.apple.com/join/n6E7WO4k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a3/46/02a346c7-14d2-57ce-1b2c-df587d4ce365/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.678Z
+Categories:
+
+
+Name: Kaspersky Passwords & Docs
+Url: https://testflight.apple.com/join/jIkedoTJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/ae/bc/feaebc32-2ab3-cde0-9329-76dacf9890d2/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.706Z
+Categories:
+
+
+Name: HEYTEA
+Url: https://testflight.apple.com/join/vKwE3Lrs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/5e/55/105e55e4-4de4-d6a6-03fc-5413e7e6bfae/AppIcon-1x_U007ephone-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.734Z
+Categories:
+
+
+Name: Xi Calculator
+Url: https://testflight.apple.com/join/AZSypkSa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/b8/df/a5b8dfb1-617f-198d-2183-18f8ce519145/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.762Z
+Categories:
+
+
+Name: ShedsDirectLLC
+Url: https://testflight.apple.com/join/VPzWsq4Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/5e/ec/665eec6f-3329-ace4-9866-785dd2beb647/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.793Z
+Categories:
+
+
+Name: Clic for Sonos
+Url: https://testflight.apple.com/join/heSmRY4t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fb/17/1d/fb171d3b-ea5e-c400-d2c3-17088180e856/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.821Z
+Categories:
+
+
+Name: Text-Panther
+Url: https://testflight.apple.com/join/Qt4zaXms
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/d3/86/47d38697-ea2b-8cf7-453d-7f21d23208cd/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:27:12.849Z
+Categories:
+
+
