@@ -16560,3 +16560,120 @@ Last Checked: 2024-06-06T02:36:12.755Z
 Categories:
 
 
+Name: Knight
+Url: https://testflight.apple.com/join/bOzxqdei
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/68/7e/d8687eda-71ae-fb1d-323f-16fdc8c55862/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png
+Click Count: 15
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.070Z
+Categories:
+- Games
+
+Name: MyOrderApp Demo
+Url: https://testflight.apple.com/join/YzHlJoxQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d3/88/bf/d388bfc0-5fc1-0d71-7f45-f202be893710/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 16
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:37:12.105Z
+Categories:
+
+
+Name: NotePlan - Planning with Notes
+Url: https://testflight.apple.com/join/fm9q4OjE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/dc/d9/83dcd9a4-6461-f8a2-77e6-8d22d67f967c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.141Z
+Categories:
+
+
+Name: Ninja School
+Url: https://testflight.apple.com/join/O1jTSJWE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/6e/ef/e66eefd9-f38c-7e97-c628-17a8c3a1f059/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 39
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.176Z
+Categories:
+- Games
+
+Name: Spezi Template Application
+Url: https://testflight.apple.com/join/ipEezBY1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/01/2e/39/012e397d-4da0-4e85-9438-4285e10fa13b/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.212Z
+Categories:
+
+
+Name: AMT Mobile V3
+Url: https://testflight.apple.com/join/PwQllkbR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/7d/f0/a77df0ad-38e7-4216-8b17-bcf8dc372695/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.247Z
+Categories:
+
+
+Name: Walbi: AI Crypto Assistant
+Url: https://testflight.apple.com/join/QRbXi8u3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/18/4e/6d184e66-81e3-bc9a-ae89-0af3e84d2942/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.282Z
+Categories:
+
+
+Name: Syncfusion MAUI UI Controls
+Url: https://testflight.apple.com/join/EEOtwVNN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/cf/8c/facf8c85-e9ac-06cf-d8e8-4ffb95479e14/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.332Z
+Categories:
+
+
+Name: YoWindow Weather 2
+Url: https://testflight.apple.com/join/pFytRDso
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/58/2c/50/582c50d2-4c0e-3628-a71e-ec060cd52e94/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.368Z
+Categories:
+
+
+Name: Flightman Flight Crew
+Url: https://testflight.apple.com/join/JAkLLOPT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/e1/fb/c0e1fbba-ce19-1c4e-f274-2d45900f2cb8/AppIcon-Demo-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 27
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.796Z
+Categories:
+
+
+Name: Nanoleaf
+Url: https://testflight.apple.com/join/e6YpifHl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/de/34/69de34d5-71d7-010e-da01-449b454fc03b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.832Z
+Categories:
+
+
+Name: JEFIT Workout Planner Gym Log
+Url: https://testflight.apple.com/join/xQf8YqKR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bb/f9/40/bbf9403b-021d-4e38-8741-68dc0fa1f696/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.867Z
+Categories:
+
+
+Name: FileTunnel
+Url: https://testflight.apple.com/join/lod3LiB6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d1/e6/71d1e6b7-ff79-c6a4-bfc0-6c56f9357d2d/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 29
+Beta Available: open
+Last Checked: 2024-06-06T02:37:12.902Z
+Categories:
+
+
