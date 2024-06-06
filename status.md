@@ -20356,3 +20356,120 @@ Last Checked: 2024-06-06T17:06:11.974Z
 Categories:
 
 
+Name: Doctor - Appointments Booking
+Url: https://testflight.apple.com/join/C0IsBZdY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/e2/31/26e231be-22c5-f6e6-aa16-7fdc14f8ed50/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.385Z
+Categories:
+
+
+Name: Soulver
+Url: https://testflight.apple.com/join/rBWP4hPz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/1b/27/b01b270e-909c-e1f8-cbbf-f7416f4776aa/App_Icon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.414Z
+Categories:
+
+
+Name: Teem Tracker - Find My Friends
+Url: https://testflight.apple.com/join/W6pJBW1N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/94/49/06/944906d4-e989-17f8-8bea-d45d676e3e1c/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T17:07:09.443Z
+Categories:
+
+
+Name: 52RedPoker
+Url: https://testflight.apple.com/join/XIcXxLRY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/20/ce/a220ce55-e3ed-4b82-7bd6-cf682f72fee5/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.471Z
+Categories:
+
+
+Name: Embrace BrandGame
+Url: https://testflight.apple.com/join/oa6rZtmR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/c7/f6/7fc7f6ee-7ca8-bd0f-7f29-36ae77b98060/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.501Z
+Categories:
+
+
+Name: WFM Track
+Url: https://testflight.apple.com/join/wNjjAsaf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/0f/44/1f0f44f8-c0e3-42e2-8c63-3839beed7103/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.529Z
+Categories:
+
+
+Name: Wopla
+Url: https://testflight.apple.com/join/OtODxOJc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/18/cb/10/18cb1091-9578-af7a-867e-1e9bb5efca6a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.558Z
+Categories:
+
+
+Name: Bit AdminPanel
+Url: https://testflight.apple.com/join/vzGAk3n1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/9e/13/119e13d4-689b-5265-397e-dfba0147bed7/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.586Z
+Categories:
+
+
+Name: JetStream - VPN for All
+Url: https://testflight.apple.com/join/plXjHO6W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/72/87/6172873d-f0e0-19b9-7017-c07ffb9342ae/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.615Z
+Categories:
+
+
+Name: HealthTrain Germany
+Url: https://testflight.apple.com/join/ZJopbT1F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/08/6c/30086c70-24be-ce37-8d27-a8ecf44be323/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.645Z
+Categories:
+
+
+Name: Trax - JO
+Url: https://testflight.apple.com/join/LydeMIau
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/2a/72/6c2a72f6-2a8b-a23e-ce4b-98117e0e633c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.673Z
+Categories:
+
+
+Name: HD Logistics
+Url: https://testflight.apple.com/join/YrjYiArZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/75/c1/8d/75c18d4f-8fc2-9fdd-b96c-b6dad0723dd9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.704Z
+Categories:
+
+
+Name: Lead Connector
+Url: https://testflight.apple.com/join/u00jRPj2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/d4/6d/88d46d2f-4e42-3d6a-352c-aaf5307e68c2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:07:09.734Z
+Categories:
+
+
