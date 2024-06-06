@@ -23632,3 +23632,120 @@ Last Checked: 2024-06-06T07:57:12.244Z
 Categories:
 
 
+Name: WEST
+Url: https://testflight.apple.com/join/bzEMdtCY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/81/1f/82811ff8-5f80-81d7-45be-8849130cc7aa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:58:09.303Z
+Categories:
+
+
+Name: eCarePlus Staging
+Url: https://testflight.apple.com/join/7kdGUCuv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/0d/a5/7b0da534-7de6-8a4a-d3af-1cdb100ce4a8/AppIcon-0-0-1x_U007ephone-0-9-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:58:09.340Z
+Categories:
+
+
+Name: Lefant
+Url: https://testflight.apple.com/join/8TCe5b03
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/30/54/9f305401-f105-8f59-77bc-e98fc90bc6a0/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:58:09.376Z
+Categories:
+
+
+Name: Speech Talking Newspaper
+Url: https://testflight.apple.com/join/dZGYHqX3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/66/5f/f2/665ff2ce-154c-d6a9-c9f1-27e2cd6ae521/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T07:58:09.414Z
+Categories:
+
+
+Name: 0xPPL
+Url: https://testflight.apple.com/join/JTVnB9JS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/db/95/c7db9527-9099-f5fa-631e-15837df5c7de/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T07:58:09.450Z
+Categories:
+
+
+Name: BTCC-Trade Bitcoin & Crypto
+Url: https://testflight.apple.com/join/avIqvmrR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/93/24/719324db-bc16-a0fd-707f-02abde45b71e/AppIcon-cf-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:58:09.486Z
+Categories:
+
+
+Name: Sandbox POS
+Url: https://testflight.apple.com/join/EAf8FbJu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/5d/49/ea5d4955-6c86-c615-5f48-446f65c2d432/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:58:09.522Z
+Categories:
+
+
+Name: Shred Vault
+Url: https://testflight.apple.com/join/7ewY7V1e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/d7/d2/cbd7d2d9-22c2-2573-60e5-28ba043efdc0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:58:09.557Z
+Categories:
+
+
+Name: Let's Lynx Communications
+Url: https://testflight.apple.com/join/SLy0XhLC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d8/7e/07/d87e07ee-545e-3442-7a70-f835357b166e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:58:09.592Z
+Categories:
+
+
+Name: Meadd
+Url: https://testflight.apple.com/join/2hmeSe58
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/cf/ab/cccfab32-d2a5-1f59-6e36-79d836296ff1/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:58:09.627Z
+Categories:
+
+
+Name: Poker Portal
+Url: https://testflight.apple.com/join/yky29Oot
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/9a/68/299a684b-f330-09fa-c96e-04d51255d1c2/AppIcon-0-1x_U007emarketing-0-0-0-8-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T07:58:09.664Z
+Categories:
+
+
+Name: Abastella
+Url: https://testflight.apple.com/join/5viaIz59
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/fe/4d/c9fe4d5a-4c0f-378f-5976-464abcd60dbb/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:58:09.699Z
+Categories:
+
+
+Name: iOiO App
+Url: https://testflight.apple.com/join/D96MstZu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/46/ef/3646eff9-7d08-179b-e260-1f874387c7ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T07:58:09.734Z
+Categories:
+
+
