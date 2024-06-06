@@ -583,3 +583,120 @@ Last Checked: 2024-06-06T08:48:12.343Z
 Categories:
 
 
+Name: Aoi Speak - Learning Languages
+Url: https://testflight.apple.com/join/WWdMch4w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/46/4a/1b/464a1b23-cf79-e84d-5a7d-64ad4e83f506/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:49:09.766Z
+Categories:
+
+
+Name: Apartment List
+Url: https://testflight.apple.com/join/dMauD5ZH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/0a/ca/fa0acaa3-b929-88d5-7ce7-87cb31884ba6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: error
+Last Checked: 2024-06-06T08:49:09.794Z
+Categories:
+
+
+Name: Apex | Avail & Offer Services
+Url: https://testflight.apple.com/join/gw7QIFmu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/3b/1e/b63b1e6f-9b61-2467-e5a8-9a9be0bd5ada/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:49:09.823Z
+Categories:
+
+
+Name: Apoapsis
+Url: https://testflight.apple.com/join/GUNfBdVU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/83/86/5a838689-0e91-7d49-733d-ba4f3a55577d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:49:09.851Z
+Categories:
+
+
+Name: Apostagram
+Url: https://testflight.apple.com/join/XQmKYN1t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/77/99/7f7799a3-36bf-17e9-c9c7-0bfb82f834ad/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:49:09.879Z
+Categories:
+
+
+Name: App HawkSystem 2
+Url: https://testflight.apple.com/join/ZikBmH59
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/f5/ad/62f5ad18-b422-b3b7-76a8-75ab03f52345/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:49:09.908Z
+Categories:
+
+
+Name: App Test Lab
+Url: https://testflight.apple.com/join/bX7ZBf3w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/c0/94/43c0941b-4323-d157-1302-09188f420226/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-8.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T08:49:09.936Z
+Categories:
+
+
+Name: Approaching-Test
+Url: https://testflight.apple.com/join/H44enl9S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/1a/9f/501a9fe1-e774-b5db-e6b1-a8613c904690/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:49:09.963Z
+Categories:
+
+
+Name: Ar Mooji
+Url: https://testflight.apple.com/join/tvBuPQDv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/95/3e/37953e3c-09f9-8938-3422-9a4b9976bdd5/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:49:09.992Z
+Categories:
+
+
+Name: Arcane Saga - Turn Based RPG
+Url: https://testflight.apple.com/join/zJI36Nf9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6f/01/8d/6f018d68-abaf-65de-e146-612c5d77e9a6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:49:10.019Z
+Categories:
+
+
+Name: Armui
+Url: https://testflight.apple.com/join/wtMPmQra
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/f9/d0/cbf9d000-d5b6-6a45-4bac-f41545da74f4/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:49:10.047Z
+Categories:
+
+
+Name: Art.Guru
+Url: https://testflight.apple.com/join/kEC5zrth
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/b9/c7/6cb9c7cd-760d-8188-baa2-2fcea8689d32/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:49:10.075Z
+Categories:
+
+
+Name: Ash - AI Counseling
+Url: https://testflight.apple.com/join/csobSduk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/84/f8/0884f8d0-d33f-badc-eedf-d93e53430e49/AppIconPublished-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T08:49:10.103Z
+Categories:
+
+
