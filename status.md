@@ -16027,3 +16027,120 @@ Last Checked: 2024-06-06T06:47:10.505Z
 Categories:
 
 
+Name: DreamsChat
+Url: https://testflight.apple.com/join/9UR8n06D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/3c/6a/f13c6a0f-d1b4-1163-5183-c3b658fe5555/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.204Z
+Categories:
+
+
+Name: MCalendar
+Url: https://testflight.apple.com/join/PPWLmiWG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/62/11/986211b7-5cc5-8b19-3598-0c2edb0c8fc8/Beta2Icon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.233Z
+Categories:
+
+
+Name: VPN by Private Internet Access
+Url: https://testflight.apple.com/join/cT7GLn1I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/9f/b0/2b9fb048-9e32-d5c6-9e6c-bbf50df5a65a/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.264Z
+Categories:
+
+
+Name: Uzmart Pos
+Url: https://testflight.apple.com/join/UzjRy3Hr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4c/84/df/4c84df9a-b4f7-2eaf-cfaf-bd66099ffa3b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.293Z
+Categories:
+
+
+Name: Greg - Plant Care
+Url: https://testflight.apple.com/join/vYqAc3Lf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/ab/ea/a8abea50-63c6-25e4-d0eb-8b6554f317b5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T06:48:13.321Z
+Categories:
+
+
+Name: Flashword - Save learnt words
+Url: https://testflight.apple.com/join/ppl9QbFc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/27/ae/4e27ae52-13e7-0064-3dd0-aeb7cda0c3d9/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.349Z
+Categories:
+
+
+Name: Royal Sydney Yacht Squadron
+Url: https://testflight.apple.com/join/SVJ8Flv7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/2f/f6/ec2ff6cf-640c-b5d3-9427-208ff3b04164/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.378Z
+Categories:
+
+
+Name: Flexi-BLE
+Url: https://testflight.apple.com/join/LHyKxPmj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/c8/96/6ec8962d-4c05-6944-bafa-9862a8318977/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.406Z
+Categories:
+
+
+Name: Chouten
+Url: https://testflight.apple.com/join/Cg1rAPB8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/2d/f3/292df31a-31da-2131-903b-24b2e54ac248/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.434Z
+Categories:
+
+
+Name: MeshCom
+Url: https://testflight.apple.com/join/wG4vtaw4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/88/14/2f/88142f95-f5e6-3112-9dc4-40bb9e4bfe08/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.462Z
+Categories:
+
+
+Name: Airtel TV
+Url: https://testflight.apple.com/join/r0T6b6S1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/59/14/7c591475-2f05-e17d-8c0f-48c74c761cf1/WynkIcon-0-0-1x_U007emarketing-0-10-0-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.490Z
+Categories:
+
+
+Name: mobicom
+Url: https://testflight.apple.com/join/YJSr30hu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/a3/56/15a3562d-6e1d-b44b-bce5-2101c80583f3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.518Z
+Categories:
+
+
+Name: Imperans
+Url: https://testflight.apple.com/join/cRXeF8OC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/4a/e3/0a4ae355-50d9-baae-f25c-e9df3a7b8bc3/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:48:13.546Z
+Categories:
+
+
