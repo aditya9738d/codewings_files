@@ -19654,3 +19654,120 @@ Last Checked: 2024-06-06T16:59:09.294Z
 Categories:
 
 
+Name: AI Partner PLUS
+Url: https://testflight.apple.com/join/cBIec0Ml
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b6/a9/29/b6a9290c-4f86-e6b7-a520-7b0132b90597/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:00:52.807Z
+Categories:
+
+
+Name: Axolotl Reader
+Url: https://testflight.apple.com/join/6NURI03h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/84/e5/fc/84e5fc29-62fa-c10e-1088-37e7f9e42c0f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:00:52.835Z
+Categories:
+
+
+Name: Symbolsaurus
+Url: https://testflight.apple.com/join/37LGuo07
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/63/e3/ac/63e3acf2-06f8-74a8-6945-dc23489668a1/AppPink-0-1x_U007epad-0-0-0-0-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T17:00:52.862Z
+Categories:
+
+
+Name: Krono Timeline History Trivia
+Url: https://testflight.apple.com/join/Q8uh1VUt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/bf/b9/0fbfb9d6-6bf2-407f-fece-958848b8ccba/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:00:52.889Z
+Categories:
+
+
+Name: TOPTAXI Driver
+Url: https://testflight.apple.com/join/2yiFM7xT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/c0/7d/95c07d5b-d498-f059-b2b1-0de7b941b2f4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:00:52.917Z
+Categories:
+
+
+Name: Asana: Work in one place
+Url: https://testflight.apple.com/join/ts6Q3gjw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f4/ed/b5f4eddb-0fac-463c-7747-b26273f75095/AppIcon_testflight-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:00:52.945Z
+Categories:
+
+
+Name: Y Combinator
+Url: https://testflight.apple.com/join/TrHIcvNN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/3f/f9/913ff91e-6b2a-c034-119d-8ada7a92cd66/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:00:52.973Z
+Categories:
+
+
+Name: Moon FM - The Podcasts App
+Url: https://testflight.apple.com/join/c6NtF2xP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/af/b3/48/afb348d0-9e08-45e7-6610-c963cc9a7ed7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:00:53.000Z
+Categories:
+
+
+Name: Sejladsudsigt
+Url: https://testflight.apple.com/join/hHvhYQdR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/8a/2b/0f8a2b5e-f12a-0e85-c0eb-23a52bded452/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:00:53.028Z
+Categories:
+
+
+Name: Go Map!!
+Url: https://testflight.apple.com/join/T96F9wYq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/12/55/5412552e-35a5-9f2e-7f4f-7e11af064c42/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:00:53.055Z
+Categories:
+
+
+Name: Screen Mirror and Control
+Url: https://testflight.apple.com/join/zlnbGVKx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/22/db/bb22db41-962f-ba48-27e5-a33943b9b599/AppIcon-0-0-85-220-0-2-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:00:53.083Z
+Categories:
+
+
+Name: SRL POC
+Url: https://testflight.apple.com/join/vD0ck6ax
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/89/c8/8389c8e9-28f6-6c52-af2e-66d15014eec3/AppIconUAT-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T17:00:53.110Z
+Categories:
+
+
+Name: Dazzle Me App
+Url: https://testflight.apple.com/join/cL75yPMn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/d4/85/27d485e4-e9e8-a8e6-10bf-561742b11686/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:00:53.140Z
+Categories:
+
+
