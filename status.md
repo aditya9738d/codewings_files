@@ -18133,3 +18133,120 @@ Last Checked: 2024-06-06T16:45:24.911Z
 Categories:
 
 
+Name: sensat.com
+Url: https://testflight.apple.com/join/hKRBMAFA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/8c/6e/3a8c6e41-b9c3-5b6c-b355-9fbfb1360cc2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T16:46:11.464Z
+Categories:
+
+
+Name: iAnyGo-1
+Url: https://testflight.apple.com/join/cuVcvkxl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/7e/99/217e999b-7e91-42bf-9de0-4596b342db6c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T16:46:11.491Z
+Categories:
+
+
+Name: Bitpie Two
+Url: https://testflight.apple.com/join/4ybWwoPN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/9c/7d/c69c7d90-7905-d77d-95d2-0342fa578209/BitpieTwoAppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T16:46:11.519Z
+Categories:
+
+
+Name: Herbalife VNHUB Staging
+Url: https://testflight.apple.com/join/rYr22T4c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/16/a6/8d16a6c0-1188-d1bd-d215-376108a08442/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T16:46:11.547Z
+Categories:
+
+
+Name: iLand.BRVT
+Url: https://testflight.apple.com/join/PanKodoM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0c/7f/12/0c7f12f0-6e4b-5f4b-7a3a-a5d12b7cffc8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T16:46:11.575Z
+Categories:
+
+
+Name: HeapsGo
+Url: https://testflight.apple.com/join/Xgk71v9A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/83/71/b483719e-2365-1682-e056-badd25b9e8a0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T16:46:11.603Z
+Categories:
+
+
+Name: BiliTV
+Url: https://testflight.apple.com/join/swQEmTp2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/af/12/4f/af124ffc-898c-cff3-6ae0-1a9f53e78f45/App_Icon-marketing.lsr/200x200bb-80.png
+Click Count: 8
+Beta Available: full
+Last Checked: 2024-06-06T16:46:11.631Z
+Categories:
+
+
+Name: Me@Walmart
+Url: https://testflight.apple.com/join/bqo4smK7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/01/37/58013793-a104-15a6-c327-af7d81cadba2/AppIcon-Prod-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T16:46:11.658Z
+Categories:
+
+
+Name: Skritter: Write Japanese
+Url: https://testflight.apple.com/join/bAhSp5an
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/82/b5/b9/82b5b9fa-c384-13b4-c7a3-221f238ada8c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T16:46:11.687Z
+Categories:
+
+
+Name: TomTom AmiGO GPS Maps, Traffic
+Url: https://testflight.apple.com/join/udcY58FH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/de/a6/c9dea67a-281c-acaf-e0e5-7183d0071f1a/AppIconAlpha-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T16:46:11.715Z
+Categories:
+
+
+Name: Juno: New Origins
+Url: https://testflight.apple.com/join/5SRK7rgD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d0/52/a4/d052a497-35ca-cb4e-60fe-002ea0ba7420/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T16:46:11.742Z
+Categories:
+
+
+Name: BSNeBiz Mobile- Corporate User
+Url: https://testflight.apple.com/join/hf4SeRaH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/5c/da/e75cda77-8c94-1ced-a003-cf88c11b1a98/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T16:46:11.771Z
+Categories:
+
+
+Name: sadra weather
+Url: https://testflight.apple.com/join/xzTsRcf6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/bc/22/f4bc222f-4474-2cbd-98e6-a0cadc3955a2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T16:46:11.798Z
+Categories:
+
+
