@@ -15442,3 +15442,120 @@ Last Checked: 2024-06-06T06:42:12.056Z
 Categories:
 
 
+Name: FitnessSyncer
+Url: https://testflight.apple.com/join/WFPPizK6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/df/5c/5b/df5c5bb0-0b41-1258-15fd-9b0d769c48db/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:43:09.916Z
+Categories:
+
+
+Name: IRL Link
+Url: https://testflight.apple.com/join/6WSPZxUQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/72/dd/b0/72ddb0cf-a4b2-0e40-66c4-2d3dad47649b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:43:09.944Z
+Categories:
+
+
+Name: Fast Habit Tracker - FastBot
+Url: https://testflight.apple.com/join/9gMlhI2k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/aa/09/5caa092f-6823-ff9d-7326-27b526f27119/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T06:43:09.973Z
+Categories:
+
+
+Name: Applaydu family games
+Url: https://testflight.apple.com/join/NCm69MHn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/4f/b2/254fb2d9-7380-f30c-a07a-39db80c69b1f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:43:10.001Z
+Categories:
+
+
+Name: Suunto
+Url: https://testflight.apple.com/join/DJyDC5SU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/ac/90/a3ac9064-0901-cd3e-ebac-7865e109c6ae/SuuntoAppIcon-1x_U007emarketing-0-7-0-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:43:10.030Z
+Categories:
+
+
+Name: Shots - Events & Parties
+Url: https://testflight.apple.com/join/TsE0NySE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/94/8f/e8/948fe8ba-b440-b98a-428a-d4a422e6e2ec/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:43:10.059Z
+Categories:
+
+
+Name: iAppStore
+Url: https://testflight.apple.com/join/XXEQdVKN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1b/f3/96/1bf3965c-ae40-5c92-9ceb-98a410ea6782/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-06T06:43:10.088Z
+Categories:
+
+
+Name: ChatroomUIKit
+Url: https://testflight.apple.com/join/kc0vtbgH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/e0/0a/26e00af0-913c-6aa4-51c5-2ce780106d1a/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:43:10.119Z
+Categories:
+
+
+Name: FinancialWell
+Url: https://testflight.apple.com/join/Z4CekvDa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/c4/2c/eec42c93-240f-8fe2-4def-396f5e5077b8/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:43:10.148Z
+Categories:
+
+
+Name: RitMeter
+Url: https://testflight.apple.com/join/1x1EROoV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/04/de/3304de23-c710-b72a-acc7-697648b557a1/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:43:10.177Z
+Categories:
+
+
+Name: PolyFling
+Url: https://testflight.apple.com/join/2liO8nWS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/76/66/4b7666b6-aa1a-5b99-1913-337c34998c2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T06:43:10.205Z
+Categories:
+
+
+Name: HERE WeGo - BETA
+Url: https://testflight.apple.com/join/Y4bJp9CR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/80/9e/d8809e89-9aba-a2a5-ac5b-354fc7aaaea3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:43:10.233Z
+Categories:
+
+
+Name: Sharezone - Schulplaner
+Url: https://testflight.apple.com/join/4luKeRNN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/81/d5/b481d599-dd41-463a-058e-f3b392389e0b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:43:10.262Z
+Categories:
+
+
