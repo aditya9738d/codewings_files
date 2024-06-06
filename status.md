@@ -2923,3 +2923,120 @@ Last Checked: 2024-06-06T18:51:10.764Z
 Categories:
 
 
+Name: CaptChores
+Url: https://testflight.apple.com/join/zpCkANIG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6c/43/a1/6c43a1cf-33ae-fe6e-a4df-6edd88e5d3bf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T18:52:10.629Z
+Categories:
+
+
+Name: Car Football ball
+Url: https://testflight.apple.com/join/rShFqmYq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/89/b1/da89b1b7-b864-9632-26f3-66f572f898dd/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-06T18:52:10.664Z
+Categories:
+
+
+Name: CarOS · Smart Dashboard
+Url: https://testflight.apple.com/join/Gc3iTcVY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/35/3f/bd/353fbd88-42c5-1b14-2de6-7d3627c4015e/AppIcon.beta-0-1x_U007epad-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T18:52:10.699Z
+Categories:
+
+
+Name: CardPointers for Credit Cards
+Url: https://testflight.apple.com/join/0cYRGKtA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ee/41/90/ee419047-ee25-5c12-5b7a-f708f0902fd5/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T18:52:10.734Z
+Categories:
+
+
+Name: Cards Ahoy!
+Url: https://testflight.apple.com/join/oi94nW9B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/88/61/df886110-14dd-57b2-0c74-5cd869aba078/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T18:52:10.770Z
+Categories:
+
+
+Name: CareCam Pro
+Url: https://testflight.apple.com/join/WbxeslCS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/c7/67/eac767fb-3b8f-38e0-2c86-bf482350ce42/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-06T18:52:10.806Z
+Categories:
+
+
+Name: Carista OBD2
+Url: https://testflight.apple.com/join/gIveBHOs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/25/5b/c2255b8a-d5b7-e631-75bb-e7a9e02a1a02/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T18:52:10.841Z
+Categories:
+
+
+Name: Carly
+Url: https://testflight.apple.com/join/hdEF0fvr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/be/a8/cbbea8a9-d489-5e88-4367-d0f70bc03d58/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T18:52:10.877Z
+Categories:
+
+
+Name: Carros Baixos Tunados
+Url: https://testflight.apple.com/join/MWQ90QBt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/88/e4/3788e4da-72e5-cefb-bfb2-c1e99facdd18/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T18:52:10.913Z
+Categories:
+
+
+Name: CarryOv3r
+Url: https://testflight.apple.com/join/GmPNpW9Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/e1/d3/47e1d330-c453-7450-9ef9-87864ce6d3f3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T18:52:10.949Z
+Categories:
+
+
+Name: Cars Jo
+Url: https://testflight.apple.com/join/Hh15TP7q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/99/c4/bc/99c4bc6e-9457-6f2f-a67c-278b1944f86d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T18:52:10.985Z
+Categories:
+
+
+Name: Cartoon Weather
+Url: https://testflight.apple.com/join/vMboPuBx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/7a/eb/f57aebde-72a4-5a5a-b5d6-917e63cf23c3/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-06T18:52:11.020Z
+Categories:
+
+
+Name: CashAr
+Url: https://testflight.apple.com/join/9xofhc97
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/dc/da/c2/dcdac290-62c9-bd7c-f2b1-9d7d91a92c13/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T18:52:11.056Z
+Categories:
+
+
