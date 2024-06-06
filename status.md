@@ -27145,3 +27145,120 @@ Last Checked: 2024-06-06T22:32:14.150Z
 Categories:
 
 
+Name: TRT Dinle: Müzik & Sesli Kitap
+Url: https://testflight.apple.com/join/KiuBvSp2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5d/95/0b/5d950bc9-a40e-f0db-5ed1-909c266698f7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T22:33:12.875Z
+Categories:
+
+
+Name: Bous Echanj
+Url: https://testflight.apple.com/join/YWLf2Wgm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/0d/52/8e0d525d-ed15-266b-4b30-8b9c304ca64f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:12.916Z
+Categories:
+
+
+Name: SANDS Movie
+Url: https://testflight.apple.com/join/3nfJLyC1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/90/29/c8902995-8562-23c7-c1d7-3f1c5678c2a2/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:12.952Z
+Categories:
+
+
+Name: Rollo - Print Labels & Ship
+Url: https://testflight.apple.com/join/Gi2OlhLL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/73/ae/e473ae02-9081-9d60-5ce1-9e95e0ed4753/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:12.988Z
+Categories:
+
+
+Name: Tavangary
+Url: https://testflight.apple.com/join/yzV9SSr9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/3f/2a/063f2ae5-d468-c9bb-15f3-aa67c1bb22ff/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:13.024Z
+Categories:
+
+
+Name: Sworkit Fitness & Workout App
+Url: https://testflight.apple.com/join/zbpaDZqh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/3c/c7/c93cc7d4-9277-178f-d0f5-46d3dbf8bc54/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:13.060Z
+Categories:
+
+
+Name: Raydar: Bike Radar
+Url: https://testflight.apple.com/join/3JFONQP2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/d6/51/15d65109-f254-b0a0-8ccb-4f4b0158d458/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:13.097Z
+Categories:
+
+
+Name: WarpERP
+Url: https://testflight.apple.com/join/jcaE7Jnr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/d9/49/22d949a4-25e2-9ba3-3f97-5ab0531f0d1c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:13.133Z
+Categories:
+
+
+Name: Seen: Private Alpha
+Url: https://testflight.apple.com/join/HYwduu4l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/bc/46/e3bc4606-3dbe-8d20-f388-8592977d4767/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:13.170Z
+Categories:
+
+
+Name: MedAT 2go by MEDBREAKER
+Url: https://testflight.apple.com/join/7VXZBG1K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/58/d8/2258d83b-fe36-e039-dc7a-2ab4bae1fb17/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:13.206Z
+Categories:
+
+
+Name: Yoroi Nightly
+Url: https://testflight.apple.com/join/BGVt9Fbd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/2f/27/972f27a4-8886-9c4a-341f-f6d1708656e5/AppIcon-nightly-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:13.242Z
+Categories:
+
+
+Name: SmartValue
+Url: https://testflight.apple.com/join/59TmMSNX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/8c/9b/548c9b4d-255a-0555-16bb-854366a4c546/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:13.278Z
+Categories:
+
+
+Name: TP-Link Tether Beta
+Url: https://testflight.apple.com/join/pULHhLSn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/c7/9c/31c79cf5-143b-7abf-ce73-f574164cb190/AppIconBeta-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:33:13.315Z
+Categories:
+
+
