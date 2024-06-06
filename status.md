@@ -16261,3 +16261,120 @@ Last Checked: 2024-06-06T06:49:11.866Z
 Categories:
 
 
+Name: Staff2
+Url: https://testflight.apple.com/join/KohcfXzt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/f1/5f/09f15ff4-6a9c-f668-450c-56f6bcff5fc7/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.528Z
+Categories:
+
+
+Name: Cantoboard
+Url: https://testflight.apple.com/join/zq9YSjuv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/3f/e4/a13fe4ce-b8b7-6983-e51b-9bfcc48de02c/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T06:50:26.556Z
+Categories:
+
+
+Name: Lifetime Movie Club
+Url: https://testflight.apple.com/join/UCChlLvP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/96/b8/6a96b8dc-ed07-1555-07bf-13ec7fc116f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 11
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.583Z
+Categories:
+
+
+Name: Kinvo: otimize investimentos
+Url: https://testflight.apple.com/join/eCVqmnqf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/41/12/5a/41125a37-f601-ab65-064d-5c331418b0b1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.612Z
+Categories:
+
+
+Name: Service Hub CRM - Services
+Url: https://testflight.apple.com/join/Zmewezvr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/c0/25/4ac025c1-f8ad-2198-3b99-95ee55599847/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.640Z
+Categories:
+
+
+Name: Zetrix Wallet V2
+Url: https://testflight.apple.com/join/BJGrhamE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/78/55/f07855db-b7a2-523d-b96e-793f4a218b37/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.667Z
+Categories:
+
+
+Name: E Doc
+Url: https://testflight.apple.com/join/Qr4ZhfPi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/15/76/be/1576be47-6a1a-4d4c-0bd4-b5d8ae5207f4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.696Z
+Categories:
+
+
+Name: TP-Link Aginet
+Url: https://testflight.apple.com/join/dO1nZKEQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/cc/0e/1ccc0e97-1854-8539-c9a9-e894340eb8bf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.724Z
+Categories:
+
+
+Name: IOB CRMS- Speridian
+Url: https://testflight.apple.com/join/q4K1XIx1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/57/d9/2057d9ba-dfbd-cea4-41f9-5744fcb07ead/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.752Z
+Categories:
+
+
+Name: Trust: Crypto & Bitcoin Wallet
+Url: https://testflight.apple.com/join/e7DSGHdY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/fc/cb/e4fccb65-27f4-0eb4-9cf8-eb30c3c11af3/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.780Z
+Categories:
+
+
+Name: eParkin
+Url: https://testflight.apple.com/join/Gwpoge0Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/19/44/651944f1-8ef5-7936-6b09-e7e08dd86f98/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.807Z
+Categories:
+
+
+Name: NetLadioPlayer
+Url: https://testflight.apple.com/join/Vvlzreni
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/b6/5b/56b65b76-14ea-69d4-2fa6-179271d473d6/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.836Z
+Categories:
+
+
+Name: Hezel for Apple Music
+Url: https://testflight.apple.com/join/SuvzvmNX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/4a/ec/7f4aec4c-507b-0adf-9f8d-745366413558/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:50:26.864Z
+Categories:
+
+
