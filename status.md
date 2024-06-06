@@ -10645,3 +10645,120 @@ Last Checked: 2024-06-06T06:01:10.979Z
 Categories:
 
 
+Name: Mercos - app de vendas
+Url: https://testflight.apple.com/join/Bqmr3dZ6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/15/30/e0153003-5cae-8cc7-7892-d21803daf532/AppIcons-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:02:14.646Z
+Categories:
+
+
+Name: Kiki: Social
+Url: https://testflight.apple.com/join/4HytpS8B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/55/46/635546e4-7c58-a0cb-d262-c2a4d199fa9e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T06:02:14.674Z
+Categories:
+
+
+Name: Bank of Montserrat
+Url: https://testflight.apple.com/join/CDJ3OVH0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/8a/f3/028af307-7dd6-f34d-9b02-b9ce5232f9ca/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T06:02:14.702Z
+Categories:
+
+
+Name: THORWallet: DeFi Crypto Wallet
+Url: https://testflight.apple.com/join/f5LW68I8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/09/fb/8c09fb42-0917-caef-5e23-38c15fbf46ee/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:02:14.730Z
+Categories:
+
+
+Name: APS Wallet Agent UAT
+Url: https://testflight.apple.com/join/HDZDSWDe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0e/be/b0/0ebeb065-8ed7-9c26-5c39-cf10e4f9078a/AppIconAgent-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:02:14.758Z
+Categories:
+
+
+Name: HuiOne-test
+Url: https://testflight.apple.com/join/oEUeqGeZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/f5/e1/97f5e1fd-4ffb-c58d-841f-f1eada672f38/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:02:14.787Z
+Categories:
+
+
+Name: SM Data
+Url: https://testflight.apple.com/join/Y9naobS1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/cb/e2/b0cbe2c4-0f2d-4df2-ac1f-7451980ae23a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:02:14.816Z
+Categories:
+
+
+Name: VanigliaPro
+Url: https://testflight.apple.com/join/kKlcn37G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/f0/5e/7df05eb3-03a9-e57d-7d71-75b3a755e3a5/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:02:14.843Z
+Categories:
+
+
+Name: KeyCard BBM
+Url: https://testflight.apple.com/join/5EukzLT1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/df/ec/e3dfec88-35c9-a298-fb68-9e90d4af6d36/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T06:02:14.873Z
+Categories:
+
+
+Name: Deezer: Music Player, Podcast
+Url: https://testflight.apple.com/join/e7mCOEeg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/a9/93/8ea9931a-2dab-0330-2333-446bb8d40f16/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:02:14.902Z
+Categories:
+
+
+Name: DTPocketFM
+Url: https://testflight.apple.com/join/1FP0EBMN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/37/c6/46/37c6469f-e1ca-0dd3-8337-20b0f4aef0c8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:02:14.929Z
+Categories:
+
+
+Name: Nick Pinwheel
+Url: https://testflight.apple.com/join/JX4td6PX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/4d/88/814d887f-07bd-5220-abf5-f47784e5daf2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:02:14.958Z
+Categories:
+
+
+Name: InfiniTime - Widget Reminders
+Url: https://testflight.apple.com/join/VYgsR7d8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/6f/7f/a46f7fef-39b5-99c4-830b-1c16fb5c0546/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:02:14.987Z
+Categories:
+
+
