@@ -22347,3 +22347,121 @@ Last Checked: 2024-06-06T21:44:11.255Z
 Categories:
 
 
+Name: Freebox Connect
+Url: https://testflight.apple.com/join/bxifCoxH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/95/5f/e9955ff3-0d11-bb7b-8bfd-5e854dec784c/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 25
+Beta Available: open
+Last Checked: 2024-06-06T21:45:26.233Z
+Categories:
+
+
+Name: HDHomeRun
+Url: https://testflight.apple.com/join/nn30hcfY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/26/cb/8a26cb76-5fb9-183b-4950-2d3f25e26c2e/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png
+Click Count: 52
+Beta Available: not accepting
+Last Checked: 2024-06-06T21:45:26.261Z
+Categories:
+
+
+Name: Bamboo Dragonfly
+Url: https://testflight.apple.com/join/9yO95rQX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/f5/b4/0ef5b4c9-eb75-6213-c57c-a79e5f4269b8/App_Icon-marketing.lsr/200x200bb-80.png
+Click Count: 5
+Beta Available: full
+Last Checked: 2024-06-06T21:45:26.290Z
+Categories:
+
+
+Name: Finiliar
+Url: https://testflight.apple.com/join/oFWpI2gy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/89/5a/da895a30-68b7-5eec-6900-ab86ccd3eb03/AppIcon5-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 15
+Beta Available: not accepting
+Last Checked: 2024-06-06T21:45:26.319Z
+Categories:
+
+
+Name: GitHub HyperList
+Url: https://testflight.apple.com/join/qfPzqQM0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/73/24/0c7324a9-b7e8-ee2e-5fb2-41317c7ad5da/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 83
+Beta Available: open
+Last Checked: 2024-06-06T21:45:26.348Z
+Categories:
+- Developer
+
+Name: Flipper Mobile App
+Url: https://testflight.apple.com/join/oLyR7YeT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/65/66/3d6566c5-1aa2-17a8-82a7-0b2b6b649188/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 130
+Beta Available: open
+Last Checked: 2024-06-06T21:45:26.376Z
+Categories:
+- Developer
+- Utility
+
+Name: Chronosphere - Clocks
+Url: https://testflight.apple.com/join/Mwfy3L0V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/b9/a0/1eb9a00c-0c30-265b-ae68-b024f2286ffc/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:45:26.405Z
+Categories:
+
+
+Name: AnyTrip
+Url: https://testflight.apple.com/join/z4jEQC9Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/c9/6a/e5c96a6c-9d82-fc03-90d8-157bf541340d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-06T21:45:26.434Z
+Categories:
+
+
+Name: Text & Markup
+Url: https://testflight.apple.com/join/LH7qcUjG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/4a/38/474a38ca-ab71-23cb-1d80-b9cf9aa153ff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-06T21:45:26.463Z
+Categories:
+
+
+Name: Launchcraft
+Url: https://testflight.apple.com/join/nSONe1lZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0b/7c/58/0b7c583c-9d4d-9df6-b244-cf16bc448885/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 113
+Beta Available: open
+Last Checked: 2024-06-06T21:45:26.492Z
+Categories:
+
+
+Name: Block Puzzle: Cops vs Robbers
+Url: https://testflight.apple.com/join/JewMjU43
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/41/80/cd41802e-7ec6-8d3c-a483-ceff4e6b22a5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: error
+Last Checked: 2024-06-06T21:45:26.521Z
+Categories:
+
+
+Name: KKClicker
+Url: https://testflight.apple.com/join/y2bNjrkT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/27/40/ba2740be-b5d9-004c-b84a-e59ba296efce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 13
+Beta Available: open
+Last Checked: 2024-06-06T21:45:26.550Z
+Categories:
+
+
+Name: Quizlet: AI-powered Flashcards
+Url: https://testflight.apple.com/join/mwhcPqxJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/b9/c3/d6b9c3c1-9b4a-60f9-8274-eb7d853c25b9/AppIcon-production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-06T21:45:26.579Z
+Categories:
+
+
