@@ -12283,3 +12283,120 @@ Last Checked: 2024-06-06T20:12:10.851Z
 Categories:
 
 
+Name: Soba - No-Code 3D Game Maker
+Url: https://testflight.apple.com/join/PJAJGNJP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/4e/00/5a4e0022-3e51-4d5c-6d9d-adba42a816bb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:13:09.040Z
+Categories:
+
+
+Name: Socrates - SocialFi & GameFi
+Url: https://testflight.apple.com/join/rI5UefEC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a0/be/66/a0be66a2-9efb-08fb-0466-9df8116550fd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:13:09.076Z
+Categories:
+
+
+Name: SohuGloba
+Url: https://testflight.apple.com/join/66rRi3GW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/55/90/305590c4-436d-d48b-23f1-5aec3a311641/AppIcon-0-0-1x_U007epad-0-0-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:13:09.111Z
+Categories:
+
+
+Name: SolaxCloud
+Url: https://testflight.apple.com/join/UZ7XGmiJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/40/72/13407201-34e2-1d73-dcb6-f018f06f3c9f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:13:09.146Z
+Categories:
+
+
+Name: Solstice
+Url: https://testflight.apple.com/join/gLxAcDxy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/03/6f/01036fd4-fa12-a92e-055c-06f44c8f49d5/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:13:09.183Z
+Categories:
+
+
+Name: Somneon
+Url: https://testflight.apple.com/join/4eRVz2zr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/46/af/fa/46affabd-0643-9756-4a5d-c8ed6541d6b8/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:13:09.218Z
+Categories:
+
+
+Name: Somos Referencia
+Url: https://testflight.apple.com/join/6x5fA1VZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/1b/86/541b865d-b1df-8257-aa42-19d7f21e3d6f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:13:09.254Z
+Categories:
+
+
+Name: Sonar – Project Task Manager
+Url: https://testflight.apple.com/join/C1wZmUlK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/b6/86/1bb686cb-9364-08bc-23a0-7f6d79927759/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:13:09.289Z
+Categories:
+
+
+Name: Songpocket
+Url: https://testflight.apple.com/join/YsnTDequ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/7f/15/9f7f15b5-26e5-1153-c0e5-dcb5e90d560f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:13:09.325Z
+Categories:
+
+
+Name: SonicJot
+Url: https://testflight.apple.com/join/Sr6LHdsR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/92/dc/86/92dc86a6-8f3c-4392-fca1-c92b86d6355a/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:13:09.360Z
+Categories:
+
+
+Name: SonicSphere
+Url: https://testflight.apple.com/join/Xnhl4qiL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/43/7d/8c437db6-0a1d-c8e8-359d-144e4bd83a6a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:13:09.396Z
+Categories:
+
+
+Name: SortApp
+Url: https://testflight.apple.com/join/RIJubiZ0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/8c/61/dc8c6172-354f-9360-5af6-a69a90a05443/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:13:09.431Z
+Categories:
+
+
+Name: Soulie
+Url: https://testflight.apple.com/join/grMFiOKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/16/55/50165578-97ac-ace5-969b-92bdec94ee99/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:13:09.466Z
+Categories:
+
+
