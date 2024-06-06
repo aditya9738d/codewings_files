@@ -4093,3 +4093,120 @@ Last Checked: 2024-06-06T09:20:25.346Z
 Categories:
 
 
+Name: FamilyMart
+Url: https://testflight.apple.com/join/PSzU2AER
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/55/e4/e355e4b3-521a-309c-0a9d-22a36b6caa9f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:21:10.943Z
+Categories:
+
+
+Name: FansHood
+Url: https://testflight.apple.com/join/EZW5QnFy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6d/a7/72/6da77204-da5f-ee25-8a11-75b9bf0205c4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:21:10.979Z
+Categories:
+
+
+Name: Fantasy Jigsaw - Magic Puzzle
+Url: https://testflight.apple.com/join/BOzhOTi3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/f8/fe/3cf8fec6-e1e7-259d-1220-4bfa3cfdfece/AppIcon-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T09:21:11.015Z
+Categories:
+
+
+Name: Farda
+Url: https://testflight.apple.com/join/knC6xqqI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/c7/2c/9fc72c1e-e1be-55e4-3a30-9bce1d10da2e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:21:11.051Z
+Categories:
+
+
+Name: Fasting Now
+Url: https://testflight.apple.com/join/dGuWXTzq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/22/05/a4220572-4747-c7a9-654d-a9ed79003b07/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:21:11.088Z
+Categories:
+
+
+Name: Fate of Nika Mobile
+Url: https://testflight.apple.com/join/oKCfCw3g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/15/e7/57/15e7579a-1359-484e-343a-4bf52c8b0f5f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-06T09:21:11.127Z
+Categories:
+
+
+Name: Favs - Social Networking
+Url: https://testflight.apple.com/join/2XsrvUyh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/d7/b0/85d7b04f-222c-81bd-6816-37f71075035b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T09:21:11.163Z
+Categories:
+
+
+Name: Fiddlicator2 Core
+Url: https://testflight.apple.com/join/5EnDDqnI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/fc/73/4cfc7341-4375-1d83-838b-bd426ac97571/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:21:11.199Z
+Categories:
+
+
+Name: Figo - AI Finance Pet
+Url: https://testflight.apple.com/join/GkykkmoZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/30/31/3f30318d-c09a-e25b-4d4f-7e9ecdefee42/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T09:21:11.235Z
+Categories:
+
+
+Name: FiiO DSP
+Url: https://testflight.apple.com/join/zfdXQMrE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1b/54/87/1b548794-8176-8f2a-4b66-8d8ac84422c1/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:21:11.271Z
+Categories:
+
+
+Name: Filter of Hope
+Url: https://testflight.apple.com/join/wvcengUV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/c5/80/e7c5806a-8ec8-8b53-1f14-b9a5338cefa0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:21:11.308Z
+Categories:
+
+
+Name: Finance Bay: Portfolio Tracker
+Url: https://testflight.apple.com/join/y4etT8Ht
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/de/f8/97def847-59fb-b86e-dcf5-475c3f7b4d41/icon_boat_dark-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T09:21:11.344Z
+Categories:
+
+
+Name: Finbank
+Url: https://testflight.apple.com/join/8Jv9PVWz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d3/d6/62/d3d662de-c827-0935-8c6f-e0e3920ab3cf/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T09:21:11.381Z
+Categories:
+
+
