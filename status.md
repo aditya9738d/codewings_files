@@ -10996,3 +10996,120 @@ Last Checked: 2024-06-06T10:22:09.938Z
 Categories:
 
 
+Name: ShakeSampler
+Url: https://testflight.apple.com/join/zjyDPj16
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/55/d5/c655d5ab-cbd8-9ca4-a823-bf2c1bb0171f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:23:11.045Z
+Categories:
+
+
+Name: Shakespay
+Url: https://testflight.apple.com/join/muuh0Fef
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/06/19/7a0619e7-89b7-bd00-b3b2-dfa34a8e7a9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:23:11.080Z
+Categories:
+
+
+Name: Shared
+Url: https://testflight.apple.com/join/Uv8lHmrO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/53/7d/eb537da1-d5aa-f240-87e3-54cc87f0d970/AppIcon-WoB-0-1x_U007epad-0-0-0-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:23:11.117Z
+Categories:
+
+
+Name: Shareup: Simple & Fast Sharing
+Url: https://testflight.apple.com/join/knCc0H6p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/a4/a3/2ba4a376-3286-4b6b-a138-f75216c9fb5f/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T10:23:11.153Z
+Categories:
+
+
+Name: Shatterpoint - Epic Action RPG
+Url: https://testflight.apple.com/join/mo75EO8y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8c/2a/fc/8c2afc47-0ba7-da55-87f9-a4e9bda5c336/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:23:11.189Z
+Categories:
+
+
+Name: ShelvesEDU
+Url: https://testflight.apple.com/join/SBoIjRaX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/1d/8a/851d8ada-63cf-9c39-4b1a-4f3a20e8f67d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T10:23:11.237Z
+Categories:
+
+
+Name: Shiny Cards
+Url: https://testflight.apple.com/join/MIejZzhl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/43/96/a9/4396a9dd-989a-0fc3-14d5-e97701768cb8/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:23:11.277Z
+Categories:
+
+
+Name: Shmeal
+Url: https://testflight.apple.com/join/y59GQbLy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/b6/d6/58b6d657-7c07-f408-7d2a-ca60ca13a5ec/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T10:23:11.312Z
+Categories:
+
+
+Name: Shorts or Pants?
+Url: https://testflight.apple.com/join/Z1hbzqYg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/16/0c/2d160c84-ac45-72a5-7d6e-3ee4172d0798/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:23:11.349Z
+Categories:
+
+
+Name: ShowMIDI
+Url: https://testflight.apple.com/join/kTNj26rK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/cd/0b/7acd0b97-1ba8-16ce-3278-9e1fcf076948/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:23:11.385Z
+Categories:
+
+
+Name: Showing Up
+Url: https://testflight.apple.com/join/iVFFyNAT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/68/7b/32/687b3284-0afb-d011-2500-400dea965ec9/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T10:23:11.421Z
+Categories:
+
+
+Name: Showplaces
+Url: https://testflight.apple.com/join/803WP9We
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/06/38/950638f6-f8da-23e4-a914-bb7db02f652e/MainAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:23:11.457Z
+Categories:
+
+
+Name: Shred Crew
+Url: https://testflight.apple.com/join/S4vpMXJQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5d/9c/d7/5d9cd76f-7920-4827-4de2-4a1a76e453e1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:23:11.493Z
+Categories:
+
+
