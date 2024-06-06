@@ -12868,3 +12868,120 @@ Last Checked: 2024-06-06T20:17:09.991Z
 Categories:
 
 
+Name: Swishot_MVP
+Url: https://testflight.apple.com/join/1v4jF2AP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/60/a4/ea60a478-4706-685c-59f8-c2a49d59d352/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:18:11.643Z
+Categories:
+
+
+Name: SwoleMate: Workout Planner
+Url: https://testflight.apple.com/join/RIpV13lf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/95/53/0c95536f-f8a8-86b7-7647-f5ccf78e61c0/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:18:11.679Z
+Categories:
+
+
+Name: Sygic Truck & RV Navigation
+Url: https://testflight.apple.com/join/lxBCLzFG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/06/2e/c5062e70-55ac-80c1-dd27-2eba9af142e0/NTAppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:18:11.714Z
+Categories:
+
+
+Name: Symbolic Icon Designer
+Url: https://testflight.apple.com/join/3JE662iB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0f/88/14/0f881421-1377-ae3a-ce66-227cc0afa9b5/AppIcon-85-220-4-0-0-2x-P3-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:18:11.751Z
+Categories:
+
+
+Name: Symcon Visualization
+Url: https://testflight.apple.com/join/GSkFZvWK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/cb/14/47cb14d4-6d5b-e0d9-c88c-f4ae83b1bd13/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:18:11.786Z
+Categories:
+
+
+Name: Syncronex Hub
+Url: https://testflight.apple.com/join/51KHUXzb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/ac/ef/faacef9c-d4e0-a317-8b40-e6bd29423999/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:18:11.823Z
+Categories:
+
+
+Name: T.Gargour & Fils
+Url: https://testflight.apple.com/join/0EAeiYFK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a3/c5/1b/a3c51b6f-6767-99ab-bc46-164bc8e8f2f5/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:18:11.859Z
+Categories:
+
+
+Name: T@book
+Url: https://testflight.apple.com/join/1RJnykEj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/48/0d/b2480d8d-052a-b3b2-046e-c5ce605fa312/AppIconProd-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:18:11.895Z
+Categories:
+
+
+Name: TAG - Phone Calls Reimagined
+Url: https://testflight.apple.com/join/2s6wqq4F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/57/c0/ed/57c0ed3c-77c6-14e4-7bfc-f09c968b69d9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:18:11.930Z
+Categories:
+
+
+Name: TANK: автомобили, общение
+Url: https://testflight.apple.com/join/0mXuamGR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/35/9b/c7359b9d-73e9-2470-59ae-cc8024a5b218/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:18:11.967Z
+Categories:
+
+
+Name: TCS One App
+Url: https://testflight.apple.com/join/5BlpO9is
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ac/ba/c9/acbac955-6ebf-a710-ab4d-a75a8fb2a66c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:18:12.002Z
+Categories:
+
+
+Name: TE Air
+Url: https://testflight.apple.com/join/4nsWiKcX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/21/62/0b/21620b27-1a5a-010d-5e16-fd9f7991d6cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:18:12.038Z
+Categories:
+
+
+Name: TForce App
+Url: https://testflight.apple.com/join/wAHbK9qU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/ba/e7/c3bae75b-30cf-911f-7b77-23956c1868de/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:18:12.074Z
+Categories:
+
+
