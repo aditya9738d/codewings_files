@@ -10879,3 +10879,120 @@ Last Checked: 2024-06-06T10:20:25.992Z
 Categories:
 
 
+Name: ScreenVision 3D
+Url: https://testflight.apple.com/join/ZBeNSKJX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/31/36/e6313667-96bf-7b55-bb0f-f0583b27c0f1/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:22:09.508Z
+Categories:
+
+
+Name: Scribe - Charting Made Easy
+Url: https://testflight.apple.com/join/b4fFcI7v
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b8/f8/f4/b8f8f423-9311-a824-b2d2-776e4e832e68/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:22:09.544Z
+Categories:
+
+
+Name: Scripture.LY
+Url: https://testflight.apple.com/join/thZtAcMd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/bc/cb/24bccb3e-df09-1289-78df-958efb16ad2f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:22:09.580Z
+Categories:
+
+
+Name: Searchitron
+Url: https://testflight.apple.com/join/FklZj33m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ed/0b/f5/ed0bf50e-60df-a301-5bb6-78dffe85c351/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:22:09.615Z
+Categories:
+
+
+Name: Sense — AI Chat
+Url: https://testflight.apple.com/join/R72eJyIm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/7a/48/f97a48f1-b4bf-612f-26b0-723a4c92f51a/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:22:09.651Z
+Categories:
+
+
+Name: SenseAR Effects
+Url: https://testflight.apple.com/join/psgZybKI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/13/0c/78130c76-f38e-a560-7738-471928b72004/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T10:22:09.687Z
+Categories:
+
+
+Name: Sensoria SKB
+Url: https://testflight.apple.com/join/htdxxQS8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/89/bc/f789bcfc-036e-0716-8932-595def28ee9d/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T10:22:09.723Z
+Categories:
+
+
+Name: Sentz Staging
+Url: https://testflight.apple.com/join/nfjbcrcE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/45/9a/bb459a7e-c705-3c93-3d35-26c3c21c9f82/AppIcon-beta-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:22:09.759Z
+Categories:
+
+
+Name: Senzei 1.1
+Url: https://testflight.apple.com/join/4QmxqYCB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/85/c5/9585c5a3-2282-d741-0561-208f29397d41/AppIcon-1x_U007ephone-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T10:22:09.795Z
+Categories:
+
+
+Name: Septourian
+Url: https://testflight.apple.com/join/d9tV98g1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/bc/e2/59bce292-108a-127a-053d-01ae153b1ac9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:22:09.831Z
+Categories:
+
+
+Name: Service Hero
+Url: https://testflight.apple.com/join/twgOWPvp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/9f/ee/919fee76-7619-e483-8760-27c3b41b94f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:22:09.867Z
+Categories:
+
+
+Name: ShaderVF
+Url: https://testflight.apple.com/join/y5BhHw8z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/cc/59/83cc591f-64c3-3333-fbba-bdd3498fa0ea/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:22:09.902Z
+Categories:
+
+
+Name: Shake - Dance Only
+Url: https://testflight.apple.com/join/DXOiiMCW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/80/eb/ca/80ebca90-54f0-7a13-2bc7-4b029694ec56/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T10:22:09.938Z
+Categories:
+
+
