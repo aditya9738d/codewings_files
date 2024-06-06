@@ -24802,3 +24802,120 @@ Last Checked: 2024-06-06T17:50:28.543Z
 Categories:
 
 
+Name: Service Point Pro
+Url: https://testflight.apple.com/join/m9scoLMH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/09/e1/2909e148-9ecd-d721-f082-e9be566113b9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:51:11.822Z
+Categories:
+
+
+Name: KDB
+Url: https://testflight.apple.com/join/5NYuoa0E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/4d/86/fc4d8608-5532-38c2-1283-9e8a3f3bda8c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:51:11.869Z
+Categories:
+
+
+Name: Headspace Care (Ginger)
+Url: https://testflight.apple.com/join/sTpCZcWG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/29/18/f4291871-53a9-d6d2-6890-b15a681b4f71/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:51:11.917Z
+Categories:
+
+
+Name: Mercedes me
+Url: https://testflight.apple.com/join/sy7wTTt7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0f/cc/03/0fcc03b1-25a6-8e2a-f015-39c7c8183519/MyStarAppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T17:51:11.964Z
+Categories:
+
+
+Name: TimeDeposit: Task timer report
+Url: https://testflight.apple.com/join/2WGIkfbJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/f8/f1/3ff8f1d1-787b-f7aa-dc20-e938e9c3ff73/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:51:12.012Z
+Categories:
+
+
+Name: Treeport
+Url: https://testflight.apple.com/join/TUvKkEE9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0d/90/a8/0d90a8c0-bbb9-1c0a-264c-d2766fe0fe78/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:51:12.061Z
+Categories:
+
+
+Name: PDR
+Url: https://testflight.apple.com/join/tBeWVDMU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/c1/c5/c8c1c5ad-3635-6f59-bab2-cdb4895359ab/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:51:12.109Z
+Categories:
+
+
+Name: Scrypted
+Url: https://testflight.apple.com/join/mpXXwLk7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/4e/e7/9e4ee76b-7625-0b9f-205a-c03ff1508362/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T17:51:12.157Z
+Categories:
+
+
+Name: Tsurukame - For WaniKani
+Url: https://testflight.apple.com/join/Fijye2AA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/c2/64/cfc26492-597d-a24b-3342-7ce6e25e7a02/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:51:12.207Z
+Categories:
+
+
+Name: Contadino
+Url: https://testflight.apple.com/join/vwhQ6dzJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/6c/10/606c1053-cd5d-4d6c-61ec-32e02e651cc3/AppIcon-0-1x_U007epad-0-8-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:51:12.255Z
+Categories:
+
+
+Name: SANUKI ROCK Dev
+Url: https://testflight.apple.com/join/No2FxlDe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/18/37/f9/1837f9cc-5402-1041-f7cf-7b2e31914a72/AppIconDev-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:51:12.340Z
+Categories:
+
+
+Name: WebSSH - SysAdmin Tools
+Url: https://testflight.apple.com/join/QSrBK59z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/54/e4/8d54e4a1-0284-d745-9a8a-83dbfcd0f6c1/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T17:51:12.388Z
+Categories:
+
+
+Name: Earth Broadband
+Url: https://testflight.apple.com/join/yHYL8jm6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/02/05/7a020551-a2d0-3148-043d-d77d0d4c73b0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T17:51:12.436Z
+Categories:
+
+
