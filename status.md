@@ -4795,3 +4795,120 @@ Last Checked: 2024-06-06T09:26:10.764Z
 Categories:
 
 
+Name: Genial investimentos - Beta
+Url: https://testflight.apple.com/join/5FtDtZks
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/47/be/9647be71-781d-3df5-c50e-4dd805db1407/preprodAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:27:08.037Z
+Categories:
+
+
+Name: Genie Camera Test
+Url: https://testflight.apple.com/join/BtnUDn7I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/92/b8/1792b8ed-9d1a-74a3-0b28-c38d0fc02a75/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T09:27:08.066Z
+Categories:
+
+
+Name: Gentmo - clienti e giro visite
+Url: https://testflight.apple.com/join/JZJYkjxs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/f2/e4/28f2e49b-d0ba-6eec-44bd-7ee8a3d494a9/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T09:27:08.094Z
+Categories:
+
+
+Name: GeoGuideMe
+Url: https://testflight.apple.com/join/sQoOQSJt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/1a/b9/941ab948-aef4-f8f1-ec9b-5e1ae554314a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T09:27:08.123Z
+Categories:
+
+
+Name: GeometricWeather
+Url: https://testflight.apple.com/join/sipVnAZC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/25/23/f8/2523f886-99b5-b3e7-85af-26139efe5400/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:27:08.151Z
+Categories:
+
+
+Name: Get Primed
+Url: https://testflight.apple.com/join/906aQCgQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/18/74/ce187400-e745-523e-6526-49139b58c249/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T09:27:08.180Z
+Categories:
+
+
+Name: Giant Mobil
+Url: https://testflight.apple.com/join/YMXhtMB5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/97/22/85/972285eb-b0fa-8db7-dd0a-fa23dd90430e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T09:27:08.210Z
+Categories:
+
+
+Name: Gigawrks
+Url: https://testflight.apple.com/join/A8eL6LCw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/47/dc/fa/47dcfa99-ede2-ac8f-63d6-35a2e621ad6f/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:27:08.240Z
+Categories:
+
+
+Name: Ginst - Horror Music Game
+Url: https://testflight.apple.com/join/Kxb7ZPTA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/49/6c/15/496c15b7-ef6e-4bd8-1522-222c4103c99a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:27:08.269Z
+Categories:
+
+
+Name: Ginst Kids - Music Game
+Url: https://testflight.apple.com/join/EEh0Fwzl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/b0/4d/9fb04d9f-6e46-a9e2-34b2-906f9c51ba9d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:27:08.298Z
+Categories:
+
+
+Name: Givamaze (Beta)
+Url: https://testflight.apple.com/join/bFdBxZXi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/e8/37/31e83739-c07b-1ab9-5de0-732d8b87ead4/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T09:27:08.327Z
+Categories:
+
+
+Name: Glisten · Language Podcasts
+Url: https://testflight.apple.com/join/5hvoRNHb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c7/97/fa/c797fa0a-90f5-1385-b04e-e227d26a7375/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T09:27:08.356Z
+Categories:
+
+
+Name: GloryFitPro
+Url: https://testflight.apple.com/join/SNA8TLMr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/83/14/3c8314d2-3546-573b-9ed5-cffdd38050a3/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T09:27:08.385Z
+Categories:
+
+
