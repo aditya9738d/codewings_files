@@ -4093,3 +4093,120 @@ Last Checked: 2024-06-06T23:22:14.328Z
 Categories:
 
 
+Name: Blu - Financial Tracker
+Url: https://testflight.apple.com/join/JInmTNff
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/fb/1f/72fb1f38-bd4e-bdea-531f-fa37db8bd830/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:23:10.555Z
+Categories:
+
+
+Name: Auchan
+Url: https://testflight.apple.com/join/ZN5yKVN7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/dc/88/aadc8801-e782-df50-5552-cf2a7264c0e4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T23:23:10.583Z
+Categories:
+
+
+Name: Safewave
+Url: https://testflight.apple.com/join/hPs6FGvq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/97/6a/d0976a58-38ac-c6b0-873d-bc89b5355641/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:23:10.611Z
+Categories:
+
+
+Name: GhostMove
+Url: https://testflight.apple.com/join/DR5VLHcn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/76/d5/7076d54c-e32f-1d6d-1eff-0834d9206ab5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:23:10.640Z
+Categories:
+
+
+Name: Filamingo Beta
+Url: https://testflight.apple.com/join/DIkvSViL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/21/d9/3b/21d93bbf-8d9d-350b-9be0-917ba96712de/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T23:23:10.669Z
+Categories:
+
+
+Name: CashBud
+Url: https://testflight.apple.com/join/U3ZKm77o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ed/9c/17/ed9c173f-101a-bf5f-4b66-09c582d3cd43/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T23:23:10.698Z
+Categories:
+
+
+Name: ESS 45 Zebra
+Url: https://testflight.apple.com/join/eb2VgXeu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/7d/12/9f7d129f-57b8-a1dd-328d-f19c0db30185/Product-AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:23:10.727Z
+Categories:
+
+
+Name: IPAS ONLINE
+Url: https://testflight.apple.com/join/bD5sg47d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/80/0f/cd/800fcdf5-c17a-e9e7-1e64-6535399a49a7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T23:23:10.755Z
+Categories:
+
+
+Name: BeloChat
+Url: https://testflight.apple.com/join/mPftmGko
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c5/ac/c3/c5acc37b-e2ed-3e61-29a2-c85ba0a172ec/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-06T23:23:10.783Z
+Categories:
+
+
+Name: [DEV] Extra 10
+Url: https://testflight.apple.com/join/pp5p0tyH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/bf/c7/35bfc774-b6c9-f5cc-2d3d-cb874dd59ba1/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:23:10.813Z
+Categories:
+
+
+Name: ProxyPin
+Url: https://testflight.apple.com/join/gURGH6B4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/98/dc/e898dc46-618b-4aab-a7bb-347833b0d7f8/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T23:23:10.841Z
+Categories:
+
+
+Name: imWeather - Forecast Alert
+Url: https://testflight.apple.com/join/iVmFXP7u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/90/8c/21908cd1-9c19-efc6-b430-7436fbf59a28/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:23:10.870Z
+Categories:
+
+
+Name: Kase₄
+Url: https://testflight.apple.com/join/1rKm0849
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/22/7a/91227ad0-f25a-74eb-957e-65919553964d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:23:10.899Z
+Categories:
+
+
