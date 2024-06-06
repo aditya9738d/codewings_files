@@ -17275,3 +17275,122 @@ Last Checked: 2024-06-06T02:43:10.843Z
 Categories:
 
 
+Name: Zenmoney: expense tracker
+Url: https://testflight.apple.com/join/UNbjeBue
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/43/43/e84343f4-54c4-fc00-6927-cf4ca54c290f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T02:44:12.978Z
+Categories:
+
+
+Name: SkyDemon
+Url: https://testflight.apple.com/join/hz1uLaJX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/21/43/1b2143c4-65ca-e334-3401-7d8076d143a8/AppIcons-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T02:44:13.014Z
+Categories:
+
+
+Name: AstroDX-Beta (Group B)
+Url: https://testflight.apple.com/join/ocj3yptn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/f5/8b/f1f58bc0-c20a-779c-706a-352d59c05af0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-06T02:44:13.049Z
+Categories:
+
+
+Name: Ulysses: Writing App
+Url: https://testflight.apple.com/join/r7ehG0dQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/31/65/33316554-64b3-a324-b0f9-549cb48df00f/Ulysses-Release-0-0-1x_U007emarketing-0-0-0-6-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-06T02:44:13.084Z
+Categories:
+
+
+Name: Idle Iktah
+Url: https://testflight.apple.com/join/Xpg1aGvf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/78/16/317816e5-aad8-dc53-0aa2-aa4e3e570fb0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T02:44:13.119Z
+Categories:
+
+
+Name: Picsart AI Photo Video Editor
+Url: https://testflight.apple.com/join/d4gDz5s7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/af/59/12af59e1-0f2d-be16-eb41-a83d214a6ba2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 617
+Beta Available: full
+Last Checked: 2024-06-06T02:44:13.154Z
+Categories:
+- Art & Design
+- Photography
+- Utility
+
+Name: Composer: AI Trading
+Url: https://testflight.apple.com/join/nnQC498c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/4f/6d/b54f6db9-0939-f561-730c-5dccba4083f1/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T02:44:13.189Z
+Categories:
+
+
+Name: Suwatte
+Url: https://testflight.apple.com/join/qDyYMTLJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fb/6f/f5/fb6ff59f-c51f-9a6a-b05d-15951d6901dc/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-06T02:44:13.225Z
+Categories:
+
+
+Name: Geotag Alpha for Sony
+Url: https://testflight.apple.com/join/0Fht2ff6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/72/4d/c0724ded-f522-51ee-d95e-02d5a7c6e011/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-06T02:44:13.260Z
+Categories:
+
+
+Name: iReal Pro
+Url: https://testflight.apple.com/join/pNgXdvK7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/19/9a/b7/199ab7da-6d69-0cb4-d787-7a70bfb584f1/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T02:44:13.295Z
+Categories:
+
+
+Name: Palphone
+Url: https://testflight.apple.com/join/jVw2duqr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/ba/5f/f8ba5f90-b93e-4c3f-a7ee-23abfd61ee78/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 15
+Beta Available: open
+Last Checked: 2024-06-06T02:44:13.331Z
+Categories:
+
+
+Name: WEB.DE Mail & Cloud
+Url: https://testflight.apple.com/join/Do48rouk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/c8/62/c6c86262-bf48-6d29-364d-c9147754f4cf/WEBDE_MAIL_AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:44:13.366Z
+Categories:
+
+
+Name: Mira Fertility & Cycle Tracker
+Url: https://testflight.apple.com/join/jVUPS68D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/97/f5/6897f538-e7f5-0e9f-15b7-d556800c5ea5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T02:44:13.401Z
+Categories:
+
+
