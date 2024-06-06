@@ -20572,3 +20572,120 @@ Last Checked: 2024-06-06T03:15:26.068Z
 Categories:
 
 
+Name: Visionary
+Url: https://testflight.apple.com/join/ceIJWd8U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/88/8f/c4/888fc4b5-0cbf-9217-d2b1-bb888d8460fd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:16:11.613Z
+Categories:
+
+
+Name: Caritas App
+Url: https://testflight.apple.com/join/yl613COn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/ad/63/14ad6341-748b-bafd-b6c1-6537b3df2d36/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:16:11.648Z
+Categories:
+
+
+Name: Disability Detect
+Url: https://testflight.apple.com/join/UoUSmiM7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/c4/d1/0ec4d1e4-f79c-59ff-4c90-f0a721dc583f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T03:16:11.684Z
+Categories:
+
+
+Name: MelaleucaRally
+Url: https://testflight.apple.com/join/mmcv8HtX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/66/3c/95663c67-a5f7-dcf2-5018-296b52ad8f66/MLLCAAppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:16:11.720Z
+Categories:
+
+
+Name: Microsoft Loop
+Url: https://testflight.apple.com/join/KNyadcIZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4e/f7/af/4ef7afce-c70b-1bc0-48fd-722d3063cbcf/AppIcon-0-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T03:16:11.757Z
+Categories:
+
+
+Name: BisonBlock Auth - Sandbox
+Url: https://testflight.apple.com/join/IsqtiRVB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/30/e8/08/30e80824-fe2f-9f84-5888-cad58dd60da9/AppIconSandbox-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:16:11.792Z
+Categories:
+
+
+Name: Hokotashi Car Race
+Url: https://testflight.apple.com/join/u2txqKAk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/ae/ef/f8aeefdf-f25d-a365-eff5-e002463ded5d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T03:16:11.827Z
+Categories:
+
+
+Name: Bird ID
+Url: https://testflight.apple.com/join/bTo6QzTV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e6/d4/2ce6d4e1-3a50-0ea2-878b-f4b852ce0007/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:16:11.863Z
+Categories:
+
+
+Name: Haylou Fun
+Url: https://testflight.apple.com/join/BNZKCK8J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/64/bf/cb64bf0a-fb42-f315-5f61-8310746a8013/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:16:11.898Z
+Categories:
+
+
+Name: Tari Aurora
+Url: https://testflight.apple.com/join/8ccFp84C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/46/ff/d646ffac-f27a-55ad-66ad-a2f0bffe1a9e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:16:11.934Z
+Categories:
+
+
+Name: ZipGrade
+Url: https://testflight.apple.com/join/pjs0PkU2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/45/07/d8450723-e5a1-4541-0278-135783b00a85/AppIcon-1-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T03:16:11.969Z
+Categories:
+
+
+Name: EMMA by AXA (UAT)
+Url: https://testflight.apple.com/join/ZxMAa3Nk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/af/27/0daf27aa-3a1f-7859-7593-07d8267becbe/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:16:12.005Z
+Categories:
+
+
+Name: Posts by Read.cv
+Url: https://testflight.apple.com/join/OTiyTXl2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/df/0f/66/df0f66b6-3e7d-29d8-6020-47735003cdeb/AppIconDefault-0-0-1x_U007ephone-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:16:12.041Z
+Categories:
+
+
