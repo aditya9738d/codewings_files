@@ -13102,3 +13102,120 @@ Last Checked: 2024-06-06T15:57:13.347Z
 Categories:
 
 
+Name: Nagad Customer
+Url: https://testflight.apple.com/join/xhBJPuRp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/60/bd/8a60bd67-1de8-4f89-f07d-8d50f168a9d0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.471Z
+Categories:
+
+
+Name: Nova Health
+Url: https://testflight.apple.com/join/UUQw0cM2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/c2/8e/97c28ee2-dff4-3db9-83b6-2c5daadddaad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.507Z
+Categories:
+
+
+Name: Konekt
+Url: https://testflight.apple.com/join/OqSdJFWW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/70/ed/3770edf9-4e85-5198-7b8f-4fefa997bdf2/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.543Z
+Categories:
+
+
+Name: H-E-B Scanner
+Url: https://testflight.apple.com/join/YrzoRxPV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/52/5d/da525d00-f9bd-2962-3f90-07b0fab269fd/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.579Z
+Categories:
+
+
+Name: HealthWear
+Url: https://testflight.apple.com/join/ISIFWxDT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/a7/19/20a719df-37a6-67ee-4522-6584d5554712/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.615Z
+Categories:
+
+
+Name: VNeCSGT
+Url: https://testflight.apple.com/join/0a4TvLR7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2a/0a/5f/2a0a5fe4-d13d-ae14-54ae-2de326a08938/AppIcon-0-0-1x_U007epad-0-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.652Z
+Categories:
+
+
+Name: Bottled.: Savoure l'inattendu
+Url: https://testflight.apple.com/join/z6rrXvc5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/b0/fb/36b0fb49-0869-7ee4-e05c-822db904f12b/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.688Z
+Categories:
+
+
+Name: OONI Probe
+Url: https://testflight.apple.com/join/rh3Ig7fE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/90/94/dd9094b6-5032-e6c6-5e4b-56ae81a65abc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.724Z
+Categories:
+
+
+Name: MocPOGO - go everywhere
+Url: https://testflight.apple.com/join/Lp0nFXVn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/04/d2/0a04d203-9650-0641-a430-b4d0403f03cc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.761Z
+Categories:
+
+
+Name: LadderVPN
+Url: https://testflight.apple.com/join/gMEDe30T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/c4/fd/5cc4fdfa-27af-5dac-c45a-2c392bbf6941/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.798Z
+Categories:
+
+
+Name: Cinematik
+Url: https://testflight.apple.com/join/sUx4tX9D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/10/bd/be/10bdbe9b-14ae-9810-a99d-e30270814f7a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.835Z
+Categories:
+
+
+Name: MusConv
+Url: https://testflight.apple.com/join/18KuhbvM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/5f/2c/835f2c51-f2f9-48d6-4114-a63f8ab8b53c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.871Z
+Categories:
+
+
+Name: Arivei HR Partners
+Url: https://testflight.apple.com/join/JZLyfinp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/99/04/f9990480-b6bb-167c-fc2f-85d2c2377c2b/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T15:58:12.908Z
+Categories:
+
+
