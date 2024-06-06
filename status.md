@@ -23518,3 +23518,120 @@ Last Checked: 2024-06-06T21:57:11.025Z
 Categories:
 
 
+Name: Yattee
+Url: https://testflight.apple.com/join/tLOhggn5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c1/8e/d7/c18ed722-63b2-3d98-ef01-d3ebb59ce2a4/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-06T21:58:10.818Z
+Categories:
+
+
+Name: FYI TV: Passionate Enthusiasts
+Url: https://testflight.apple.com/join/uQDt9nZo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f2/6d/67/f26d67bf-b019-d29f-d435-0b0d4ca414fb/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:58:10.846Z
+Categories:
+
+
+Name: AQUA Wallet
+Url: https://testflight.apple.com/join/a89WWtZW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/55/af/42/55af42fb-d173-f4e9-de18-17dcfb742078/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:58:10.874Z
+Categories:
+
+
+Name: Visionary
+Url: https://testflight.apple.com/join/ceIJWd8U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/88/8f/c4/888fc4b5-0cbf-9217-d2b1-bb888d8460fd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:58:10.902Z
+Categories:
+
+
+Name: Caritas App
+Url: https://testflight.apple.com/join/yl613COn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/ad/63/14ad6341-748b-bafd-b6c1-6537b3df2d36/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:58:10.930Z
+Categories:
+
+
+Name: Disability Detect
+Url: https://testflight.apple.com/join/UoUSmiM7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/c4/d1/0ec4d1e4-f79c-59ff-4c90-f0a721dc583f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T21:58:10.959Z
+Categories:
+
+
+Name: MelaleucaRally
+Url: https://testflight.apple.com/join/mmcv8HtX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/66/3c/95663c67-a5f7-dcf2-5018-296b52ad8f66/MLLCAAppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:58:10.987Z
+Categories:
+
+
+Name: Microsoft Loop
+Url: https://testflight.apple.com/join/KNyadcIZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4e/f7/af/4ef7afce-c70b-1bc0-48fd-722d3063cbcf/AppIcon-0-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:58:11.015Z
+Categories:
+
+
+Name: BisonBlock Auth - Sandbox
+Url: https://testflight.apple.com/join/IsqtiRVB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/30/e8/08/30e80824-fe2f-9f84-5888-cad58dd60da9/AppIconSandbox-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:58:11.043Z
+Categories:
+
+
+Name: Hokotashi Car Race
+Url: https://testflight.apple.com/join/u2txqKAk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/ae/ef/f8aeefdf-f25d-a365-eff5-e002463ded5d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T21:58:11.071Z
+Categories:
+
+
+Name: Bird ID
+Url: https://testflight.apple.com/join/bTo6QzTV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e6/d4/2ce6d4e1-3a50-0ea2-878b-f4b852ce0007/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:58:11.099Z
+Categories:
+
+
+Name: Haylou Fun
+Url: https://testflight.apple.com/join/BNZKCK8J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/64/bf/cb64bf0a-fb42-f315-5f61-8310746a8013/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:58:11.126Z
+Categories:
+
+
+Name: Tari Aurora
+Url: https://testflight.apple.com/join/8ccFp84C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/46/ff/d646ffac-f27a-55ad-66ad-a2f0bffe1a9e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:58:11.154Z
+Categories:
+
+
