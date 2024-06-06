@@ -7837,3 +7837,120 @@ Last Checked: 2024-06-06T05:35:18.649Z
 Categories:
 
 
+Name: Polaroid X-1
+Url: https://testflight.apple.com/join/BtnUDn7I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/43/1f/89431f66-8ac5-2bb8-1581-9befb82ade89/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.408Z
+Categories:
+
+
+Name: Audiobookshelf App
+Url: https://testflight.apple.com/join/wiic7QIW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/c0/8f/14c08f89-e46e-9075-301d-eac6f06302aa/Icons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.444Z
+Categories:
+
+
+Name: Rizzference
+Url: https://testflight.apple.com/join/hSVtJLRj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/10/29/62/1029625f-f19a-40ce-8eb2-eca97b8b4226/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.480Z
+Categories:
+
+
+Name: Sky Sports
+Url: https://testflight.apple.com/join/r05IRSPx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/d6/47/88d6473c-da01-6f50-8eeb-aa0fa31e5fde/GB-AppIcon-0-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.515Z
+Categories:
+
+
+Name: CA Development
+Url: https://testflight.apple.com/join/fYmAbGwZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/d7/9f/6ed79f0c-eff1-440b-7c5b-77bd2a2d7642/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.550Z
+Categories:
+
+
+Name: EZVIZ
+Url: https://testflight.apple.com/join/omXyyGLX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/4e/b6/9b4eb649-f341-6f5e-74d3-d30077f395fd/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T05:36:11.585Z
+Categories:
+
+
+Name: J&T Singapore
+Url: https://testflight.apple.com/join/MHNGW0xP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/55/53/64555320-f34b-161e-d8b2-f4d270e5667a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.620Z
+Categories:
+
+
+Name: RealMaze AR
+Url: https://testflight.apple.com/join/tahFKjuQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/19/52/bb/1952bb19-2d82-18be-d2b0-14ba98de2657/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.654Z
+Categories:
+
+
+Name: Neurogine BKRM UAT
+Url: https://testflight.apple.com/join/J94C7OP1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cb/b2/93cbb225-06fa-c959-e762-2998570310d4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.689Z
+Categories:
+
+
+Name: Mileage by Hnry
+Url: https://testflight.apple.com/join/h5JnVk9X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/3f/3c/3d3f3c19-80db-c3a7-d021-212e90ba0d9a/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.725Z
+Categories:
+
+
+Name: Castaways Mobile
+Url: https://testflight.apple.com/join/g4wsHwa6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/71/e5/bc71e51a-bda6-f76d-1766-fa13583892e0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.759Z
+Categories:
+
+
+Name: Dreamehome
+Url: https://testflight.apple.com/join/IWeuSs78
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/df/24/d3df2462-df21-d9f4-e64f-b232361fe84d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.795Z
+Categories:
+
+
+Name: EinsatzTablet
+Url: https://testflight.apple.com/join/8WAnCt2K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/98/48/af98487e-8076-5895-d8cc-d9d3c8c89238/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 27
+Beta Available: open
+Last Checked: 2024-06-06T05:36:11.830Z
+Categories:
+
+
