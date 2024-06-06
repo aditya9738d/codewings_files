@@ -17511,3 +17511,123 @@ Last Checked: 2024-06-06T02:45:27.875Z
 Categories:
 
 
+Name: Darkroom: Photo & Video Editor
+Url: https://testflight.apple.com/join/mzR3XvHe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/5c/e8/165ce892-3107-c087-ff76-9647a60a0615/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-06T02:47:12.013Z
+Categories:
+
+
+Name: Daypage
+Url: https://testflight.apple.com/join/pSAEAqGk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1f/e3/36/1fe336e5-3f1c-cacb-dc96-7ad16ef3d687/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 22
+Beta Available: not accepting
+Last Checked: 2024-06-06T02:47:12.049Z
+Categories:
+
+
+Name: Vivaldi Snapshot
+Url: https://testflight.apple.com/join/RHz7zTUB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/9d/84/969d8425-b70b-fd4a-e1fc-b65ea290c36f/AppIcon-Snapshot-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 59
+Beta Available: open
+Last Checked: 2024-06-06T02:47:12.085Z
+Categories:
+
+
+Name: Easy Unarchiver - ZIP, RAR
+Url: https://testflight.apple.com/join/jXX0Wyfy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/36/f5/2e36f5b2-ce37-9019-2314-e53f10b92b44/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T02:47:12.121Z
+Categories:
+
+
+Name: KFC
+Url: https://testflight.apple.com/join/vWsEPv3U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/ca/20/68ca2036-a4ba-b43d-07a1-eb7d4a5fc0bd/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-06T02:47:12.157Z
+Categories:
+
+
+Name: Readwise Reader
+Url: https://testflight.apple.com/join/NSeQo22d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/b2/c9/77b2c916-a1be-cdc5-96c9-b2ad404f4235/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 28
+Beta Available: open
+Last Checked: 2024-06-06T02:47:12.193Z
+Categories:
+
+
+Name: enhanceAl
+Url: https://testflight.apple.com/join/P7nvmE22
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/d5/fe/8ed5fea8-a859-eda5-0599-c73007420bf1/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 24
+Beta Available: open
+Last Checked: 2024-06-06T02:47:12.229Z
+Categories:
+
+
+Name: Adobe Acrobat Reader: Edit PDF
+Url: https://testflight.apple.com/join/8XhFnQlp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/7c/78/a67c78a2-ce8a-adf1-1f88-e035d7c94826/ReleaseAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 41
+Beta Available: open
+Last Checked: 2024-06-06T02:47:12.266Z
+Categories:
+
+
+Name: Messenger
+Url: https://testflight.apple.com/join/njVWbUm0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/0b/ca/090bca5b-e8c4-473c-5bad-5b36347d363c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 99
+Beta Available: open
+Last Checked: 2024-06-06T02:47:12.302Z
+Categories:
+- Chat
+
+Name: CapCut - Video Editor
+Url: https://testflight.apple.com/join/F35EKwCs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/36/60/ce3660de-67fb-75f6-4f0a-96b6fd9f5fac/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 60
+Beta Available: full
+Last Checked: 2024-06-06T02:47:12.338Z
+Categories:
+- Utility
+- Video
+
+Name: TikTok
+Url: https://testflight.apple.com/join/pLmKZJKw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/1a/47/491a47e2-e0c9-87d8-f232-bb80289da6b7/AppIcon_TestFlight-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 210
+Beta Available: open
+Last Checked: 2024-06-06T02:47:12.377Z
+Categories:
+- Entertainment
+- Social Networking
+- Video
+
+Name: 1Blocker - Ad Blocker
+Url: https://testflight.apple.com/join/KjmVWFnT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/4d/aa/1e4daa09-f4db-ec2a-5010-4f997e72d455/AppIcon-TestFlight-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-06T02:47:12.413Z
+Categories:
+
+
+Name: ListenNow Air
+Url: https://testflight.apple.com/join/WFQmpxgp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/92/10/f59210ba-fa0d-8d57-ed36-f5a7dc4aae3d/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 116
+Beta Available: full
+Last Checked: 2024-06-06T02:47:12.449Z
+Categories:
+- Music
+
