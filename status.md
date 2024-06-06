@@ -11347,3 +11347,120 @@ Last Checked: 2024-06-06T06:07:10.147Z
 Categories:
 
 
+Name: GoalsWon™ Accountability Coach
+Url: https://testflight.apple.com/join/mSDBTfwe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/35/e2/9b35e2dd-ccd2-4ab5-37c6-475cd208d702/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.224Z
+Categories:
+
+
+Name: Univera
+Url: https://testflight.apple.com/join/g8aw4kOg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/c5/e1/c2c5e1a6-a1d1-e9e7-f659-2ea2bbc42fcf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.261Z
+Categories:
+
+
+Name: 51Talk
+Url: https://testflight.apple.com/join/zfGTfO4O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/2c/d4/b32cd418-1537-74e2-824a-07296b06c76e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.297Z
+Categories:
+
+
+Name: Infomaniak Mail
+Url: https://testflight.apple.com/join/t8dXx60N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/77/9d/ab779da2-8775-2d35-f115-f6b52ef7ee52/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.334Z
+Categories:
+
+
+Name: Appeon Workspace
+Url: https://testflight.apple.com/join/VqQv2TMz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/96/de/0c96de3e-c78c-a875-d39b-cf6502e37b39/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.370Z
+Categories:
+
+
+Name: BeKa Apps
+Url: https://testflight.apple.com/join/zPG0b0Po
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/1b/e3/eb1be32a-bf51-be36-0ffd-7c90d93629b5/prodAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.407Z
+Categories:
+
+
+Name: eBlockchain
+Url: https://testflight.apple.com/join/MHF9zwit
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e3/07/d2/e307d23c-eb15-b547-c106-f465eadbfbc0/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.443Z
+Categories:
+
+
+Name: cc-flutter-profitness
+Url: https://testflight.apple.com/join/5mPAa2UR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/89/b4/c389b465-4508-9b48-7709-c01729f65f48/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.479Z
+Categories:
+
+
+Name: OnionShare
+Url: https://testflight.apple.com/join/ZCJeY65W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/53/48/38534875-3226-92b3-05c2-688c21aaef99/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.516Z
+Categories:
+
+
+Name: Maidzo
+Url: https://testflight.apple.com/join/1tF0eQrB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/fa/bf/9efabf44-2023-7e3e-7424-58ef64782bb8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.552Z
+Categories:
+
+
+Name: UniSecure Mobile
+Url: https://testflight.apple.com/join/bk4QLalb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/d0/9b/62d09b0e-6a36-545d-e8e7-8cd3110e12b8/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.588Z
+Categories:
+
+
+Name: Helium HNT Wallet
+Url: https://testflight.apple.com/join/SsAjbJEi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/39/cd/b939cdb4-5d2d-e2e0-3d02-51bf944355d3/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.625Z
+Categories:
+
+
+Name: FEWS
+Url: https://testflight.apple.com/join/RpVVKAvz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/9a/5b/c59a5bec-9994-1efe-0196-5daacd623926/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:08:11.662Z
+Categories:
+
+
