@@ -18367,3 +18367,120 @@ Last Checked: 2024-06-06T07:07:11.637Z
 Categories:
 
 
+Name: AI Photo Enhancer - Nero Lens
+Url: https://testflight.apple.com/join/ovS85vhw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/a9/3c/c9a93c77-4df8-d505-7936-826e3cd7bd93/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 14
+Beta Available: open
+Last Checked: 2024-06-06T07:09:06.945Z
+Categories:
+
+
+Name: Sufra Rewards
+Url: https://testflight.apple.com/join/3yblSMk6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/14/32/02143220-b260-134f-ad99-9351c9b98a73/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:09:06.981Z
+Categories:
+
+
+Name: Rom 2023
+Url: https://testflight.apple.com/join/WbnwCsJD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c5/10/32/c510329e-b643-672c-6f06-dcff22d72ab7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:09:07.017Z
+Categories:
+
+
+Name: Cardary: Optimized Anki Plus
+Url: https://testflight.apple.com/join/3YbQD5qr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/69/d2/dd/69d2dd3c-36fd-b1e9-302a-a7da1998fb10/Icon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:09:07.052Z
+Categories:
+
+
+Name: Green: Bitcoin Wallet
+Url: https://testflight.apple.com/join/tGTU5qqI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/f1/61/83f161c8-09c6-85e7-33fc-9863d5f34680/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:09:07.088Z
+Categories:
+
+
+Name: Stori | Social pays
+Url: https://testflight.apple.com/join/iEsDuIx9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/63/f2/7663f29d-50ed-b416-676d-4c9fc49219d5/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:09:07.123Z
+Categories:
+
+
+Name: VideoDemo
+Url: https://testflight.apple.com/join/43dwyhdT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/11/d6/df11d6c2-7da2-216f-c9ef-5976b2ac1f66/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T07:09:07.158Z
+Categories:
+
+
+Name: BlueBattery
+Url: https://testflight.apple.com/join/6b03YkGB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4e/48/f4/4e48f4a0-498f-1ff8-8042-888d80df444b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:09:07.195Z
+Categories:
+
+
+Name: PentimeX
+Url: https://testflight.apple.com/join/5QceqKnp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/ef/8c/d0ef8c6a-e3aa-2c8c-82a4-d3d65ee6a63a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:09:07.231Z
+Categories:
+
+
+Name: Livedub
+Url: https://testflight.apple.com/join/lTElna20
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/50/d4/a350d464-c939-4049-1d8e-a3b4bdb874b6/AppIcon-1x_U007ephone-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T07:09:07.266Z
+Categories:
+
+
+Name: TheWide (Alpha-stage)
+Url: https://testflight.apple.com/join/tDAKptuH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/07/5c/de075c77-b7fa-ee2c-b2e4-023308d6c4f1/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:09:07.302Z
+Categories:
+
+
+Name: RefClock Timer
+Url: https://testflight.apple.com/join/VwSMTrrn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/b6/93/f3b69314-05f1-8b7d-0c56-47b3fbc9dc84/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:09:07.338Z
+Categories:
+
+
+Name: ECBank
+Url: https://testflight.apple.com/join/PIOH75Jq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/77/17/007717fe-74bf-abca-409c-b78abfb4d88d/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:09:07.374Z
+Categories:
+
+
