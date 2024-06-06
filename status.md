@@ -11464,3 +11464,120 @@ Last Checked: 2024-06-06T20:05:18.966Z
 Categories:
 
 
+Name: SMRT Lighting Controls
+Url: https://testflight.apple.com/join/IIgMTCch
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7e/34/90/7e34907a-4530-f5b9-34cb-03ead01ac430/AppIcon-SMRT_Lighting-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:06:11.982Z
+Categories:
+
+
+Name: SMS ONE Democenter
+Url: https://testflight.apple.com/join/Z6cBynMR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/3a/85/9e3a8542-086f-f90f-a8a6-ffb33c286275/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:06:12.017Z
+Categories:
+
+
+Name: SPAR India Online Shopping App
+Url: https://testflight.apple.com/join/BXV7nk0H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/5b/97/4d5b9738-d3e5-a634-429a-28fff49032f3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:06:12.051Z
+Categories:
+
+
+Name: SRG+
+Url: https://testflight.apple.com/join/tLznKnUO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/24/2a/46/242a4677-2913-4710-560f-4142a1393b7e/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:06:12.086Z
+Categories:
+
+
+Name: SSIKHJ Weather with WeatherKit
+Url: https://testflight.apple.com/join/yNfV6ehk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/81/6e/24/816e2498-cbf4-a73c-060e-aa29bdee2a2e/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:06:12.121Z
+Categories:
+
+
+Name: SSO+
+Url: https://testflight.apple.com/join/5TaqxnCM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/3a/04/463a0424-be9e-e75a-0886-318005211942/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:06:12.156Z
+Categories:
+
+
+Name: STJ Beta
+Url: https://testflight.apple.com/join/9qHB2ZZx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/f3/48/01f3489e-96d1-5000-733e-0f18fa59a6ef/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:06:12.191Z
+Categories:
+
+
+Name: SUPLA
+Url: https://testflight.apple.com/join/GZyMLwH0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/00/a4/d200a412-be78-d4b8-ee54-812a72e03c62/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:06:12.228Z
+Categories:
+
+
+Name: SV Trucking
+Url: https://testflight.apple.com/join/EtcKMHe1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/17/eb/6117ebaa-69ec-8b8e-4ffa-c527894c1ad4/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:06:12.262Z
+Categories:
+
+
+Name: SYS™
+Url: https://testflight.apple.com/join/xt0WFuzE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/80/49/bc804969-7d85-a521-c6f4-46e0ab63d541/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:06:12.297Z
+Categories:
+
+
+Name: Saakuru: All-in-one Crypto App
+Url: https://testflight.apple.com/join/iHwPYAow
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/a0/dc/6ea0dc75-3631-13c8-303a-5f0ee481f4a3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:06:12.333Z
+Categories:
+
+
+Name: Saas waiter
+Url: https://testflight.apple.com/join/1FOEhWfz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/29/28/4d/29284d7d-e0e8-7f96-9188-1cc8bc0ce29a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:06:12.368Z
+Categories:
+
+
+Name: Safe Dev
+Url: https://testflight.apple.com/join/Bu0OVZJd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d7/65/7e/d7657e51-043c-b68e-9648-04bee71af1c1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T20:06:12.404Z
+Categories:
+
+
