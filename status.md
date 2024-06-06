@@ -24688,3 +24688,120 @@ Last Checked: 2024-06-06T22:10:22.958Z
 Categories:
 
 
+Name: SnippetsLab
+Url: https://testflight.apple.com/join/LBF2tQ2l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/54/e0/cb54e0b3-3d71-2c54-94aa-546f51ffe59b/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T22:11:11.298Z
+Categories:
+
+
+Name: B-Bank Debug
+Url: https://testflight.apple.com/join/lnzqqwbU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/30/f4/9e30f4af-41cc-5278-81cd-ea741355fe39/AppIcon-Debug-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.335Z
+Categories:
+
+
+Name: BILLA Bonus
+Url: https://testflight.apple.com/join/GcABkueS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/1a/d5/561ad5f1-d9e8-5728-eb16-9a83929d7304/BillaSlovakia_appicon_release-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.370Z
+Categories:
+
+
+Name: DNB Mobile Bank
+Url: https://testflight.apple.com/join/b6NACjPd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/1b/79/871b79fa-5a5b-5c69-d892-1a6c61e1f30d/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.405Z
+Categories:
+
+
+Name: ITRI_BaseBall
+Url: https://testflight.apple.com/join/4PbHN70P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/51/a0/2c51a0c8-7dc5-bd66-0e81-6929defeeddb/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.442Z
+Categories:
+
+
+Name: Debit & Credit
+Url: https://testflight.apple.com/join/FvufwHrV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/25/7e/9e/257e9e05-4019-80e7-d7b6-07945fbda564/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.480Z
+Categories:
+
+
+Name: Shivam Yoga Studio
+Url: https://testflight.apple.com/join/Zj8YjHg4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/3c/a0/463ca005-e548-7b65-86ce-d3dce5185e36/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.516Z
+Categories:
+
+
+Name: rogo fit
+Url: https://testflight.apple.com/join/Cd8qavhM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/21/f7/85/21f78554-2648-cb77-c242-3a53557fb1d6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.551Z
+Categories:
+
+
+Name: TileCut
+Url: https://testflight.apple.com/join/vJgUzCMr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/43/0a/53430a91-e613-b67b-96ea-c063a3a0dac2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.588Z
+Categories:
+
+
+Name: Ash - AI Counselor & Coach
+Url: https://testflight.apple.com/join/csobSduk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/49/83/d4498392-db8e-8c35-00fa-8d1dcca503c3/AppIconPublished-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.624Z
+Categories:
+
+
+Name: VPN Master Pro-WiFi Security
+Url: https://testflight.apple.com/join/Lr2NqCzs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/66/72/8d66724a-263b-1186-67f8-4576b6dbfc55/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.661Z
+Categories:
+
+
+Name: AXONS Packhouse(UAT)
+Url: https://testflight.apple.com/join/Ob2dMUzt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/b2/5f/16b25fa4-0b0f-df91-1804-9dff5aa69ac0/AppIcon-staging-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.697Z
+Categories:
+
+
+Name: Gadha - Dev
+Url: https://testflight.apple.com/join/wNYIryit
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/56/2b/73562bc8-8889-3c49-8ba7-6f3ad84b6ad7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:11:11.732Z
+Categories:
+
+
