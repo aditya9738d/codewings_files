@@ -23284,3 +23284,120 @@ Last Checked: 2024-06-06T21:55:21.011Z
 Categories:
 
 
+Name: Simple Scan • Quick Scanner
+Url: https://testflight.apple.com/join/5I9XpfUP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/20/b2/8820b2bc-32d3-a7cf-dc1b-386b72bd7819/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:56:09.941Z
+Categories:
+
+
+Name: ONE Link – Device management
+Url: https://testflight.apple.com/join/A2sl6Kiu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/30/57/2030570a-328e-e8ea-4be2-c0285ac717f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:56:09.976Z
+Categories:
+
+
+Name: LeitzXPert
+Url: https://testflight.apple.com/join/Ugn8mYBJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/22/77/ad22777d-f1fb-fa27-3b72-bcbb582f5b5b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:56:10.011Z
+Categories:
+
+
+Name: FIO MOTUS
+Url: https://testflight.apple.com/join/cYi790XR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/38/c0/8638c01c-ca98-bb1d-302e-eef464491a00/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:56:10.047Z
+Categories:
+
+
+Name: Training Camp
+Url: https://testflight.apple.com/join/9mDQ8dl8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/db/74/99db7460-795e-51ab-ab90-e69fc9ee94cb/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:56:10.083Z
+Categories:
+
+
+Name: CryptoQR Pay
+Url: https://testflight.apple.com/join/0IOfCbnR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/0e/8e/630e8e55-2760-384d-9558-66292e16898b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:56:10.117Z
+Categories:
+
+
+Name: iHome Clean
+Url: https://testflight.apple.com/join/O1BELvNa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/3a/65/5f3a654a-08c7-939f-03a0-095ab0bb4962/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:56:10.153Z
+Categories:
+
+
+Name: MobiPoints
+Url: https://testflight.apple.com/join/zzjnifFr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/e7/c2/c5e7c285-bab2-ef62-0151-acb884647e43/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T21:56:10.188Z
+Categories:
+
+
+Name: Wacky Genes
+Url: https://testflight.apple.com/join/1OTnKDDd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/24/3d/b7243d6c-2d92-9dc5-6514-c27d247de9eb/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:56:10.224Z
+Categories:
+
+
+Name: Sydbanks Mobilbank Privat
+Url: https://testflight.apple.com/join/Yh7ENG71
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/58/6c/ea586c5d-d5d2-b7e7-c8ad-cf51f2c6f29c/AppIcon-1x_U007emarketing-0-8-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:56:10.258Z
+Categories:
+
+
+Name: HIV Testing App
+Url: https://testflight.apple.com/join/NRNtAI3J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/bb/ae/8abbae7f-a2b2-67da-23bd-f7b7a4b70069/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:56:10.294Z
+Categories:
+
+
+Name: SSBeauty: Beauty Shopping App
+Url: https://testflight.apple.com/join/clWVMqlG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/ad/28/1ead281c-a23c-2322-3000-cb92e257adb2/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:56:10.329Z
+Categories:
+
+
+Name: SkipperLog
+Url: https://testflight.apple.com/join/NiiVIwqu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/a3/8a/b3a38add-386c-bfe4-732e-17c4851341bb/AppIcon-0-1x_U007ephone-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T21:56:10.364Z
+Categories:
+
+
