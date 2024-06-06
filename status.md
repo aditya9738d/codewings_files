@@ -3040,3 +3040,120 @@ Last Checked: 2024-06-06T23:13:10.603Z
 Categories:
 
 
+Name: Sales App - Vietnam
+Url: https://testflight.apple.com/join/nOSnYrG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/25/32/e3/2532e3b2-fb84-42fd-716f-13b6c88f47e7/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.367Z
+Categories:
+
+
+Name: Wedort
+Url: https://testflight.apple.com/join/SG1EJSXy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f1/6f/9b/f16f9ba7-1cc2-2c0a-aa76-92dc4b9e4b26/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.395Z
+Categories:
+
+
+Name: Sun Direct Go
+Url: https://testflight.apple.com/join/S0WAeAPY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/e0/d4/99e0d4f5-ae95-207b-db97-407f0a554b1a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.424Z
+Categories:
+
+
+Name: MusicSmart - Liner Notes
+Url: https://testflight.apple.com/join/Rkfj7TSD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/66/f6/2766f679-4924-480c-8ecb-47744c988d71/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T23:14:12.453Z
+Categories:
+
+
+Name: My NTRA
+Url: https://testflight.apple.com/join/idT2CKHB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d8/62/2a/d8622ad3-a681-f870-3df4-1edf6c784562/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.482Z
+Categories:
+
+
+Name: Alkepedia
+Url: https://testflight.apple.com/join/PMK2fqhz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/0d/e1/b00de188-9554-b53b-60e7-73c7056e3679/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.510Z
+Categories:
+
+
+Name: Jumbosouq
+Url: https://testflight.apple.com/join/Ka7Jficj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/e9/27/dee927e9-2bff-56ba-0e0d-ba8ae8ed2d7d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.538Z
+Categories:
+
+
+Name: Onjabet
+Url: https://testflight.apple.com/join/6BMzRnUw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/86/57/61865744-68fc-5d9b-cbdb-2e67e4dece4d/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.566Z
+Categories:
+
+
+Name: FAN Academy App
+Url: https://testflight.apple.com/join/oELDReWR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/b1/aa/2cb1aa7d-5857-c156-4b74-c8f0f05b0d3b/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.594Z
+Categories:
+
+
+Name: Hrapp
+Url: https://testflight.apple.com/join/O0BY0Fcu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/28/7a/d2287af2-a005-4f3c-0c45-e3228d3064f8/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.623Z
+Categories:
+
+
+Name: Firefly - Quiz based matches
+Url: https://testflight.apple.com/join/LRJXegxs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/a3/af/fda3af18-78a6-32a0-2d9a-a327182ef0a4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.651Z
+Categories:
+
+
+Name: AixPro
+Url: https://testflight.apple.com/join/y6GWgaGM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/40/52/f540529a-96a2-afe7-92e7-5d3e08996d9f/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.681Z
+Categories:
+
+
+Name: PSX Multi-Purpose Classified
+Url: https://testflight.apple.com/join/Q7aJ6tnK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/99/39/4d/99394d24-4c6f-6bd9-9bc6-42f9123c554e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T23:14:12.709Z
+Categories:
+
+
