@@ -1285,3 +1285,120 @@ Last Checked: 2024-06-06T04:38:10.078Z
 Categories:
 
 
+Name: ALRAMZ CAPITAL
+Url: https://testflight.apple.com/join/6qKCAjpU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/33/cd/0633cd59-7efc-e858-d9a8-bacd8d4f2ada/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:39:08.701Z
+Categories:
+
+
+Name: yeslive
+Url: https://testflight.apple.com/join/lTyYNvOJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9e/b8/f19eb8f0-fef1-3ac9-c67d-18210224c441/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T04:39:08.729Z
+Categories:
+
+
+Name: atome SG-Staging
+Url: https://testflight.apple.com/join/sWZnRQxH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/6f/3c/6d6f3c1b-f834-ea68-965e-c98f5724aac8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:39:08.758Z
+Categories:
+
+
+Name: Wehealth Notify
+Url: https://testflight.apple.com/join/Ed3IIqyP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/7a/42/087a42db-9f96-3b3b-e8c1-54f687414890/AppIcon-Arizona-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:39:08.787Z
+Categories:
+
+
+Name: Dynastar
+Url: https://testflight.apple.com/join/b4Dy5q97
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/f5/02/40f502b9-38b2-9c5a-4aac-994ef8a2f24b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:39:08.829Z
+Categories:
+
+
+Name: Moj STCable - DEV
+Url: https://testflight.apple.com/join/pq3fmJG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/bd/ec/2ebdec9b-2c06-9c38-bdc5-bfd3dfd7bc25/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:39:08.857Z
+Categories:
+
+
+Name: SHUM
+Url: https://testflight.apple.com/join/Co5dY1N7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2e/9b/962e9bd4-d36f-2f51-edb4-39137c4fe36d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:39:08.885Z
+Categories:
+
+
+Name: Trickster's Table
+Url: https://testflight.apple.com/join/uuFXY9mw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e5/7c/f8/e57cf8cc-454f-3521-77cb-74d35b01b507/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:39:08.913Z
+Categories:
+
+
+Name: ByteFM
+Url: https://testflight.apple.com/join/8byWHA4T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/78/1b/7d781b64-13a4-65e0-706b-71bd126a3e38/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T04:39:08.942Z
+Categories:
+
+
+Name: Azizan
+Url: https://testflight.apple.com/join/OIZHiYNM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d5/47/bf/d547bf9b-2196-72ac-38cc-c3d8f59b2785/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:39:08.969Z
+Categories:
+
+
+Name: Tailscale
+Url: https://testflight.apple.com/join/tLcYLZJV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/c7/81/aac78126-b372-e35e-f307-93766cedc790/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T04:39:08.997Z
+Categories:
+
+
+Name: Timecard - Employees Version
+Url: https://testflight.apple.com/join/YR4TTZaS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/fe/87/2dfe8704-13a1-1e5d-edca-065e21f538d5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:39:09.026Z
+Categories:
+
+
+Name: Calendar & Schedule - Day Peek
+Url: https://testflight.apple.com/join/pT6COwt1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/3a/76/8b3a76bc-a757-2e09-ecc7-1f3a06ae863a/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T04:39:09.054Z
+Categories:
+
+
