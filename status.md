@@ -10996,3 +10996,120 @@ Last Checked: 2024-06-06T06:04:11.113Z
 Categories:
 
 
+Name: Matchely
+Url: https://testflight.apple.com/join/nmK65ZZ3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e5/8c/ca/e58cca68-63b7-624b-892d-0819f7830b12/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:05:16.883Z
+Categories:
+
+
+Name: Mita
+Url: https://testflight.apple.com/join/nYc4u0E4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/65/6d/b9656d8d-e7eb-b1e5-dd31-d0b04e815a5e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:05:16.917Z
+Categories:
+
+
+Name: MoBuddy - Language Learning
+Url: https://testflight.apple.com/join/Kc79xIIm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/cb/3c/aecb3c90-b4c5-c2cc-5910-ca730f248b32/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:05:16.952Z
+Categories:
+
+
+Name: UPowr Installer
+Url: https://testflight.apple.com/join/po8JeuE7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/81/85/ec818594-6d51-1ee4-f449-c45af98d4460/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:05:16.988Z
+Categories:
+
+
+Name: Pillarbox
+Url: https://testflight.apple.com/join/TS6ngLqf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/39/75/81/397581f9-28a3-afec-7ff5-47c331ae5c09/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:05:17.023Z
+Categories:
+
+
+Name: GSC Staging
+Url: https://testflight.apple.com/join/PlUcxhPI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/e8/9a/41e89afc-0ed2-8405-b50f-1fffd4ac4b1e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:05:17.058Z
+Categories:
+
+
+Name: GoShops Customer
+Url: https://testflight.apple.com/join/HQwX7A6j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a2/bf/54/a2bf54e6-093b-0fc1-db65-550f66c5548b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T06:05:17.094Z
+Categories:
+
+
+Name: FieldNET
+Url: https://testflight.apple.com/join/npY9lmhn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/b5/d1/c7b5d156-745c-2c71-db47-6e26b3cc36ec/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:05:17.129Z
+Categories:
+
+
+Name: Xbox
+Url: https://testflight.apple.com/join/dfUeaFHS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/56/88/f5568883-389b-8aac-197d-de3cb54c4543/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 14
+Beta Available: full
+Last Checked: 2024-06-06T06:05:17.165Z
+Categories:
+
+
+Name: Bit TodoTemplate
+Url: https://testflight.apple.com/join/2qhcabSl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/a1/06/29a106ad-1939-3bcc-c028-3ad28179677d/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:05:17.200Z
+Categories:
+
+
+Name: Seek by iNaturalist
+Url: https://testflight.apple.com/join/LM5oO3P7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/34/f3/d934f3e7-b182-4bb3-c492-f1f80f8c52c4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:05:17.235Z
+Categories:
+
+
+Name: ELOQUII
+Url: https://testflight.apple.com/join/OJk4Uenf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/31/4d/12314dc5-dc62-bf1f-0f82-2880b8c92f18/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:05:17.270Z
+Categories:
+
+
+Name: Drive 2 Survive
+Url: https://testflight.apple.com/join/NSP76djg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/7c/10/9a7c1049-39a0-4f6b-5047-67c7900f497b/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:05:17.305Z
+Categories:
+
+
