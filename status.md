@@ -16441,3 +16441,120 @@ Last Checked: 2024-06-06T20:48:11.823Z
 Categories:
 
 
+Name: Học Viện TuVi Việt Nam
+Url: https://testflight.apple.com/join/rFMlokwB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/6e/b3/636eb3eb-bda3-0a89-3525-6b1c18d09a29/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T20:49:08.662Z
+Categories:
+
+
+Name: KSAS（クボタスマートアグリシステム）
+Url: https://testflight.apple.com/join/9qAbc8OZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/4a/0d/394a0d8f-f72c-3bd5-a2de-0f86f3ce6951/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:49:08.699Z
+Categories:
+
+
+Name: 中国移动云盘-全民不限速
+Url: https://testflight.apple.com/join/cR3t7Cnj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/8f/bf/028fbfb6-ccea-3298-01cd-6ae7e10ff908/AppIcon-0-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T20:49:08.736Z
+Categories:
+
+
+Name: Rồng Thần Online
+Url: https://testflight.apple.com/join/k8584n03
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/fb/46/abfb466f-6a33-f63f-d5b7-a01b9293835e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-06T20:49:08.774Z
+Categories:
+
+
+Name: 思拓新闻
+Url: https://testflight.apple.com/join/jbVM8nuq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/47/34/03473451-bfd5-15d9-d04b-0d9092df7179/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T20:49:08.811Z
+Categories:
+
+
+Name: 棋路-象棋课堂
+Url: https://testflight.apple.com/join/s9SdLije
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/47/fd/6347fdfd-d951-7dd7-aaf5-5a9ad5dedd4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T20:49:08.848Z
+Categories:
+
+
+Name: WeChat
+Url: https://testflight.apple.com/join/xHCJ0qBT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/12/e1/9012e10b-7eac-bd36-23d7-e24f372c976d/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 33
+Beta Available: full
+Last Checked: 2024-06-06T20:49:08.885Z
+Categories:
+
+
+Name: 逢客签
+Url: https://testflight.apple.com/join/H39dsyzG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/d6/99/22d69906-8c45-fa85-4c81-ca190bdfcc09/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:49:08.922Z
+Categories:
+
+
+Name: 葫芦娃-经典再现
+Url: https://testflight.apple.com/join/mE4SHGvn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/84/38/6d8438b9-cbef-4a79-93c4-4cf3e58d5708/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-06T20:49:08.959Z
+Categories:
+
+
+Name: 老虎国际
+Url: https://testflight.apple.com/join/27Pw9M0d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/be/42/23be425b-be1a-eaef-cfd5-53812eacfe20/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T20:49:08.996Z
+Categories:
+
+
+Name: Starship -Your Stars On GitHub
+Url: https://testflight.apple.com/join/748P3fGS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b7/c4/78/b7c478a4-c72e-19a8-a60c-230903f62e64/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:49:09.033Z
+Categories:
+
+
+Name: ACM-Meldingen
+Url: https://testflight.apple.com/join/8Z1blJVI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/6e/42/326e420a-bb98-51f8-9e1f-677b22965b36/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T20:49:09.069Z
+Categories:
+
+
+Name: SSH Files – Secure ShellFish
+Url: https://testflight.apple.com/join/D12EpKaj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/b9/68/90b968b5-7b98-44bb-04c8-93b51d8ad29c/AppIcon-0-0-1x_U007epad-0-0-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-06T20:49:09.107Z
+Categories:
+
+
