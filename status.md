@@ -19278,3 +19278,120 @@ Last Checked: 2024-06-06T21:12:11.967Z
 Categories:
 
 
+Name: FOLKLORE: Enjoy festivals!
+Url: https://testflight.apple.com/join/whnVOjRc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/bf/21/67bf210f-f7be-01db-e834-2a2d849fbc40/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:13:10.727Z
+Categories:
+
+
+Name: MeetIRL
+Url: https://testflight.apple.com/join/w8XEqaKg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a8/fb/1f/a8fb1fe3-4cbd-08db-a049-40ecbc847a2d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T21:13:10.768Z
+Categories:
+
+
+Name: Eyva
+Url: https://testflight.apple.com/join/n8M2itWd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/fa/47/effa47bc-055d-5bc1-e4e8-842c596e49ba/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T21:13:10.804Z
+Categories:
+
+
+Name: Untappd - Discover Beer
+Url: https://testflight.apple.com/join/EbIrz3mA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/ec/ec/9eecec27-c12b-f452-f68e-0cd3193398a2/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T21:13:10.839Z
+Categories:
+
+
+Name: Player Epic IRB Trial
+Url: https://testflight.apple.com/join/5iQxoMHb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/95/de/ce95de85-ac36-fbe6-b6eb-5c6d78cb46bc/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 21
+Beta Available: open
+Last Checked: 2024-06-06T21:13:10.874Z
+Categories:
+
+
+Name: Retro - Social Photo Journal
+Url: https://testflight.apple.com/join/ZLhPhXDv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/89/72/178972c1-2b38-83cf-6630-45a1296c12ed/AppIcon-Dark_Warm-0-0-1x_U007ephone-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T21:13:10.910Z
+Categories:
+
+
+Name: Kobble
+Url: https://testflight.apple.com/join/Zg8avLEy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/df/0b/7c/df0b7ce0-8162-363b-b4b4-7f81b9534cf2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 10
+Beta Available: not accepting
+Last Checked: 2024-06-06T21:13:10.946Z
+Categories:
+
+
+Name: IPSView
+Url: https://testflight.apple.com/join/YzBApZGy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/7c/5e/5e7c5e21-2194-ba45-620b-7b3e3ae0030d/AppIcon-IPSView-0-0-1x_U007emarketing-0-9-0-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-06T21:13:10.982Z
+Categories:
+
+
+Name: (Dev) Daikin ti premia
+Url: https://testflight.apple.com/join/19OkzluX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/35/e5/ec35e517-54de-36fe-1b42-ba8772d75fe5/AppIcon_-_Daikin_Demo-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T21:13:11.018Z
+Categories:
+
+
+Name: Zeroqode Native Preview
+Url: https://testflight.apple.com/join/htav1QLA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/45/87/c5/4587c555-9562-c9e1-3727-e5d4c0ee0431/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-06T21:13:11.088Z
+Categories:
+
+
+Name: ngoc rong wow
+Url: https://testflight.apple.com/join/1UKBoVDU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/42/fa/a042fa41-6d5a-daf0-f07a-85c2145fda55/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 17
+Beta Available: error
+Last Checked: 2024-06-06T21:13:11.124Z
+Categories:
+
+
+Name: Windows App Mobile Preview
+Url: https://testflight.apple.com/join/q4ha2nsh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/42/33/44/4233446f-780d-36a8-1e6c-4c4a22cccf3e/AppIconBeta-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 204
+Beta Available: full
+Last Checked: 2024-06-06T21:13:11.159Z
+Categories:
+- Utility
+
+Name: SiYuan
+Url: https://testflight.apple.com/join/BBLHMJ4g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/3f/45/4a3f4501-1b1a-b9db-81d8-e30735a9e9d9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-06T21:13:11.195Z
+Categories:
+
+
