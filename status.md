@@ -7369,3 +7369,120 @@ Last Checked: 2024-06-06T05:31:08.486Z
 Categories:
 
 
+Name: Fastriver
+Url: https://testflight.apple.com/join/wRu5bk3C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/58/d2/3d58d274-79d2-98cf-1b37-4660d144dbc5/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:32:10.800Z
+Categories:
+
+
+Name: WhisperAX
+Url: https://testflight.apple.com/join/LPVOyJZW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d1/bc/b6/d1bcb684-bab4-d41e-c881-61a23f930d9f/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T05:32:10.836Z
+Categories:
+
+
+Name: Carnets - Jupyter
+Url: https://testflight.apple.com/join/yevwlUs1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/08/4b/05/084b0541-6bff-200a-9768-8e0b612e460e/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:32:10.873Z
+Categories:
+
+
+Name: Socredo Mobile - Test
+Url: https://testflight.apple.com/join/6IbZKz6j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/02/06/9902061f-aeb5-d2e4-4a0e-d6ffbde7189c/AppIcon-beta-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:32:10.909Z
+Categories:
+
+
+Name: TP-Link Tether
+Url: https://testflight.apple.com/join/NdspPgyK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/19/91/8d199197-057c-31a5-d5ee-3cc26ed5a1c0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:32:10.944Z
+Categories:
+
+
+Name: Keka HR
+Url: https://testflight.apple.com/join/S4vJ4u1b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/6d/c0/d36dc0a4-8c46-92e8-b8ed-99d24cc15740/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T05:32:10.979Z
+Categories:
+
+
+Name: Fushaar
+Url: https://testflight.apple.com/join/z5r7a8dd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/28/fb/8728fb76-8727-3c56-48c0-cbdfc4386461/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T05:32:11.015Z
+Categories:
+
+
+Name: Backflow Pro
+Url: https://testflight.apple.com/join/GsOJ4Ufo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/2e/13/192e13b7-169d-a450-9f08-8d6b22bf18d4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T05:32:11.051Z
+Categories:
+
+
+Name: CFHarvest - awstest
+Url: https://testflight.apple.com/join/pTP6HfZb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/25/bb/4625bbad-6376-3961-ad9e-a652a4e21547/AppIcon_CFH_TEST-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:32:11.087Z
+Categories:
+
+
+Name: SynthMaker
+Url: https://testflight.apple.com/join/BKEgzNCg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/04/b0/9404b08b-a6cd-ba42-f7f3-971ec1c6c625/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T05:32:11.123Z
+Categories:
+
+
+Name: Flamingo Service Center
+Url: https://testflight.apple.com/join/dCllybfa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4a/24/32/4a24326a-dbf9-2db0-1f79-e42d9c717854/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T05:32:11.159Z
+Categories:
+
+
+Name: Mattermost Beta
+Url: https://testflight.apple.com/join/Q7Rx7K9P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/c6/68/40c668ee-afea-4880-cd5d-cd80abbd1179/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:32:11.196Z
+Categories:
+
+
+Name: Cric Cam
+Url: https://testflight.apple.com/join/vF0PYIzi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fc/ac/fd/fcacfd74-ac69-ac55-e7e5-0854b9d8a089/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:32:11.232Z
+Categories:
+
+
