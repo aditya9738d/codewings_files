@@ -26557,3 +26557,120 @@ Last Checked: 2024-06-06T08:22:12.913Z
 Categories:
 
 
+Name: AdvantageConnect
+Url: https://testflight.apple.com/join/AOD8UoMw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0c/c8/7c/0cc87cf7-f791-bf8f-c512-7461816b448a/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T08:23:10.952Z
+Categories:
+
+
+Name: Toodledo (Next Generation) App
+Url: https://testflight.apple.com/join/OTkRmQMb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/57/f3/1b/57f31be4-12fe-d279-478c-da272234e5b8/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:23:10.980Z
+Categories:
+
+
+Name: Peach Bitcoin
+Url: https://testflight.apple.com/join/wfSPFEWG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/45/1a/50451ad3-1690-47e6-4a3f-0ad0cc389859/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T08:23:11.008Z
+Categories:
+
+
+Name: Atlas Pro
+Url: https://testflight.apple.com/join/YL5CVk22
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/82/49/13824906-075c-b7fc-2a79-b5df858a7319/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:23:11.037Z
+Categories:
+
+
+Name: Ylore
+Url: https://testflight.apple.com/join/HB90ocDx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5a/59/db/5a59dbf1-7921-b538-cb15-3769eea5adf9/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T08:23:11.064Z
+Categories:
+
+
+Name: MechSmile
+Url: https://testflight.apple.com/join/XL0jwKjO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/dd/16/e1dd161e-4c72-eff3-425e-7706ff49aa96/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:23:11.093Z
+Categories:
+
+
+Name: Image Collection
+Url: https://testflight.apple.com/join/I0wOZM3q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/0c/50/9a0c5005-230c-80a3-6c29-4102998763c7/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T08:23:11.121Z
+Categories:
+
+
+Name: Skinmate
+Url: https://testflight.apple.com/join/uowK2yZc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/33/da/06/33da06c1-d3d8-78e0-4b98-07f284582f73/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T08:23:11.149Z
+Categories:
+
+
+Name: Vega Hotel
+Url: https://testflight.apple.com/join/K90OmD3e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/85/40/df/8540df42-acd3-f622-6040-43b6e710d6ae/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:23:11.177Z
+Categories:
+
+
+Name: Amato: Friendship Tracker CRM
+Url: https://testflight.apple.com/join/vYS3QkMe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/11/4e/22114eb1-a772-da59-2ab5-4f4d06329b4e/AppIcon-1x_U007ephone-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:23:11.205Z
+Categories:
+
+
+Name: 3CX
+Url: https://testflight.apple.com/join/5MPjSs2T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/45/cd/9545cd95-83ac-50d1-5cb8-d5145a4d65cb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:23:11.234Z
+Categories:
+
+
+Name: Lysten: Podcast Player
+Url: https://testflight.apple.com/join/7VS128LY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/2f/00/e12f00c8-acda-6edf-fbb2-fc745a42f48e/AppIcon-0-1x_U007epad-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:23:11.261Z
+Categories:
+
+
+Name: iPhoneMOBPOS
+Url: https://testflight.apple.com/join/HhNUDjSr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/73/fc/7173fc89-6438-8b0d-1f2b-3ac02c81016a/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T08:23:11.289Z
+Categories:
+
+
