@@ -27610,3 +27610,120 @@ Last Checked: 2024-06-06T08:35:21.668Z
 Categories:
 
 
+Name: OVOSTAGE
+Url: https://testflight.apple.com/join/9ZLWymvx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/c3/64/5ec36458-1072-a71c-2589-61fe4706d411/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.514Z
+Categories:
+
+
+Name: Noor Chat
+Url: https://testflight.apple.com/join/yKKmzbhD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/c3/9b/69c39b97-7ba0-77e5-fa44-58db3ae9012c/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.543Z
+Categories:
+
+
+Name: SN Lift
+Url: https://testflight.apple.com/join/PkTLYlpJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/fd/bc/19fdbc5c-75cf-7f12-a5f3-ee361e16385a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.571Z
+Categories:
+
+
+Name: Home AC
+Url: https://testflight.apple.com/join/nbXXSEpD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/59/b9/a959b93f-7cd3-2175-0018-4f7c5cf99dd2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.600Z
+Categories:
+
+
+Name: Decathlon Outdoor : randonnée
+Url: https://testflight.apple.com/join/U2ccfsaY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/42/02/d5/4202d588-f093-8516-e23c-6da3b735dc5f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.629Z
+Categories:
+
+
+Name: MyUWLUAT
+Url: https://testflight.apple.com/join/0qCfYNn9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/24/ca/e724ca99-1fac-a3c2-023f-99d6ec7e39ab/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.658Z
+Categories:
+
+
+Name: Jcoin Shop ST
+Url: https://testflight.apple.com/join/AM3GWvJW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ce/b4/13/ceb41352-9a8f-87ed-73ce-b1924e8f7df8/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.686Z
+Categories:
+
+
+Name: Sangoma Meet
+Url: https://testflight.apple.com/join/BEd12vi5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/05/1f/b5051f07-a161-d3e1-28d7-876d3b836356/AppIconRelease-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.715Z
+Categories:
+
+
+Name: Tidus Wallet
+Url: https://testflight.apple.com/join/kJyhyCne
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/54/4c/8c/544c8ccc-4668-67d0-c9a5-411c613a9d5b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.743Z
+Categories:
+
+
+Name: PostFinance App
+Url: https://testflight.apple.com/join/936S1cyU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/e2/0a/cee20afc-ea82-528e-9e59-7cdb535c3975/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.772Z
+Categories:
+
+
+Name: Airveep
+Url: https://testflight.apple.com/join/t4bgGEWe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/2a/19/3e2a1948-d607-cec8-c6a7-89c5888d65c6/AppIcon-1x_U007emarketing-0-5-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.801Z
+Categories:
+
+
+Name: Deliverect(Staging)
+Url: https://testflight.apple.com/join/4dCmSumR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/4f/27/1e4f2723-4975-2d53-bbeb-f5b38087e6c3/AppIcon-Staging-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.829Z
+Categories:
+
+
+Name: RamseyTrusted for Pros
+Url: https://testflight.apple.com/join/tpo0ijJT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/f5/8e/29f58e24-431d-56b7-155d-9a92ad28ee4b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T08:36:12.858Z
+Categories:
+
+
