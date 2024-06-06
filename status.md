@@ -9592,3 +9592,120 @@ Last Checked: 2024-06-06T01:30:45.047Z
 Categories:
 
 
+Name: Smart Duel Gazer
+Url: https://testflight.apple.com/join/3eAV5YYt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d9/74/7f/d9747f58-8770-431a-c4d6-d057c4c9ff40/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:31:11.418Z
+Categories:
+
+
+Name: Smart-Travel
+Url: https://testflight.apple.com/join/PwBJ6Clz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/0a/d9/7d0ad9d4-5dfe-bc04-b551-9efa257ede6b/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:31:11.447Z
+Categories:
+
+
+Name: SmartLoop
+Url: https://testflight.apple.com/join/qSgJB0pI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/5e/b9/db5eb996-4adf-4d08-87fe-e6f5f3a55377/AppIcon-SmartLoop-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:31:11.477Z
+Categories:
+
+
+Name: SmokingArea
+Url: https://testflight.apple.com/join/GjTVceT9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/55/d5/e855d547-b194-c715-1a2d-a132c17682a3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:31:11.507Z
+Categories:
+
+
+Name: SmoothTrack: Head Tracker
+Url: https://testflight.apple.com/join/ytc1tAdA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f0/ec/72/f0ec72b9-ec62-a16f-4b6c-4d3b8e4ba304/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:31:11.536Z
+Categories:
+
+
+Name: Smugshot: Catfish-Proof Dating
+Url: https://testflight.apple.com/join/L3fAq4nr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/39/f3/fe/39f3fef9-793c-6d27-d330-52129a292b38/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:31:11.565Z
+Categories:
+
+
+Name: SnakeRidersMid
+Url: https://testflight.apple.com/join/cwjG9yse
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/f1/1f/94f11f85-d37f-f556-3fa4-28a0d1fc9f1d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:31:11.593Z
+Categories:
+
+
+Name: Snikket
+Url: https://testflight.apple.com/join/ayZ9Pxv7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/93/b8/eb93b83c-1c0e-aff8-5595-7d04ddfca561/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:31:11.625Z
+Categories:
+
+
+Name: SnoTel Mapper
+Url: https://testflight.apple.com/join/9dYilL8f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/8c/17/198c1789-8e8d-8e31-ff45-115985be120b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:31:11.654Z
+Categories:
+
+
+Name: Snowpack-SNO
+Url: https://testflight.apple.com/join/oFvpDxPL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/eb/53/a9eb5371-13d5-f30e-0c16-e5a2eb4294e2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T01:31:11.683Z
+Categories:
+
+
+Name: Soba - No-Code 3D Game Maker
+Url: https://testflight.apple.com/join/PJAJGNJP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/4e/00/5a4e0022-3e51-4d5c-6d9d-adba42a816bb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T01:31:11.713Z
+Categories:
+
+
+Name: Socrates - SocialFi & GameFi
+Url: https://testflight.apple.com/join/rI5UefEC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a0/be/66/a0be66a2-9efb-08fb-0466-9df8116550fd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T01:31:11.742Z
+Categories:
+
+
+Name: SohuGloba
+Url: https://testflight.apple.com/join/66rRi3GW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/55/90/305590c4-436d-d48b-23f1-5aec3a311641/AppIcon-0-0-1x_U007epad-0-0-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T01:31:11.771Z
+Categories:
+
+
