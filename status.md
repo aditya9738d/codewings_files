@@ -934,3 +934,120 @@ Last Checked: 2024-06-06T22:54:12.679Z
 Categories:
 
 
+Name: locco
+Url: https://testflight.apple.com/join/CYZzwXd4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/23/78/2e237897-dfe8-c9ff-04e2-f7069073442d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.319Z
+Categories:
+
+
+Name: Buffer: Plan & Schedule Posts
+Url: https://testflight.apple.com/join/DOpMcusn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/c5/97/7ac59756-5351-5926-7efe-8b56e75421ad/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.348Z
+Categories:
+
+
+Name: Campfire 3D Remote
+Url: https://testflight.apple.com/join/lA4A0Rif
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/57/1f/42571f2e-ff0b-a4ef-b5dc-af2a194456e2/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.376Z
+Categories:
+
+
+Name: Optimizely B2B Commerce
+Url: https://testflight.apple.com/join/6vcTh3Pn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/38/b9/2738b9a0-4950-ef98-9a17-fb9bff7eb733/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.406Z
+Categories:
+
+
+Name: AdGuard VPN – Unlimited & Fast
+Url: https://testflight.apple.com/join/fZRiD1zt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/01/7c/e4/017ce418-3608-4abd-d81f-6bcb64cb9478/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.434Z
+Categories:
+
+
+Name: eSchool Teacher
+Url: https://testflight.apple.com/join/6ppXe0nS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6c/0d/3e/6c0d3e14-5098-09d1-b462-5056f33cacca/AppIcon-0-0-1x_U007emarketing-0-7-85-220.jpeg/200x200bb-8.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.462Z
+Categories:
+
+
+Name: PICO VR
+Url: https://testflight.apple.com/join/DpwLvLwR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/e9/51/6ae951d5-770a-e508-fa78-0f480ea56074/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.490Z
+Categories:
+
+
+Name: Lexicon DJ
+Url: https://testflight.apple.com/join/Ndmg1Hp7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/be/a9/21/bea921c9-9454-a85b-796d-33bbfa6e56b8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.519Z
+Categories:
+
+
+Name: Best Good Dog
+Url: https://testflight.apple.com/join/IM3kTRUY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/3f/4a/543f4a57-9237-82d7-aff7-8a6d1cca03e3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.548Z
+Categories:
+
+
+Name: RiceballDb
+Url: https://testflight.apple.com/join/Maejdsvw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/41/0e/78410e28-4ef5-eb51-d9fb-0621400062b4/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.576Z
+Categories:
+
+
+Name: Nightingale Companion
+Url: https://testflight.apple.com/join/JNieAfgv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b3/eb/ac/b3ebacdb-1ac9-90da-269d-b85520ea6edc/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.605Z
+Categories:
+
+
+Name: Gladys
+Url: https://testflight.apple.com/join/GqEcpHVN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/65/c6/45/65c64550-b938-bbc9-a9d6-c218df4618fd/AppIcon-iOS-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.633Z
+Categories:
+
+
+Name: Stardust Mobile
+Url: https://testflight.apple.com/join/UyrMQoG0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/98/4e/91984eca-c184-3f8c-86b7-357a960adb9b/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-06T22:55:19.661Z
+Categories:
+
+
