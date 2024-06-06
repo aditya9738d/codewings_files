@@ -28060,3 +28060,120 @@ Last Checked: 2024-06-06T04:25:16.347Z
 Categories:
 
 
+Name: Ham
+Url: https://testflight.apple.com/join/waKNnCG3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/52/9f/7c/529f7cf1-43e7-a17e-bd21-0eb5571a7452/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.041Z
+Categories:
+
+
+Name: RED Complete Driving Theory
+Url: https://testflight.apple.com/join/v6eV5S8x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ea/3f/9fea3f46-deb0-434a-a7af-a574ef9bcc3f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.068Z
+Categories:
+
+
+Name: BFFL
+Url: https://testflight.apple.com/join/2A7tDogQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/a3/46/6aa346e4-d3e5-272c-9075-23768d516c05/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.096Z
+Categories:
+
+
+Name: Memento Database
+Url: https://testflight.apple.com/join/WjkG7HJD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/5a/32/c75a325b-5de4-c9e3-ef52-9cda6f447dc1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.124Z
+Categories:
+
+
+Name: AudioCallKit
+Url: https://testflight.apple.com/join/iBctSgsK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/06/68/da066821-2597-f5d9-6abd-78333773c0c4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.151Z
+Categories:
+
+
+Name: TouchDirector
+Url: https://testflight.apple.com/join/RcvAqWtS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/13/1f/3b131fc5-a473-9838-c077-27c40832fcac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.178Z
+Categories:
+
+
+Name: WeMaintain
+Url: https://testflight.apple.com/join/c1sgdiX0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/f9/3b/3df93bb0-ad94-57c5-4f00-c68c8b977db8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.207Z
+Categories:
+
+
+Name: Evergreen Mobile
+Url: https://testflight.apple.com/join/Nh5bypLY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/6a/f8/ed6af83e-c046-93f5-f8d9-ddb538254fe0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.235Z
+Categories:
+
+
+Name: PowerLite Pro
+Url: https://testflight.apple.com/join/ZSjreOgi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/53/62/e4536202-d4a3-d10a-108e-a353498acdd4/AppIcon-1x_U007emarketing-0-10-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.262Z
+Categories:
+
+
+Name: Meine DLRG
+Url: https://testflight.apple.com/join/slKRYjpI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ea/57/8c/ea578c2e-ab19-b00a-4dd3-ab870b0e0274/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.290Z
+Categories:
+
+
+Name: Dolby Personalization Beta
+Url: https://testflight.apple.com/join/7lxusSow
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/63/8b/1d638bd3-4ec0-8e56-f9e6-a649af26d3b8/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.318Z
+Categories:
+
+
+Name: GlobalTA Cloud
+Url: https://testflight.apple.com/join/7jdsjM2V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/93/87/74938709-ff4a-f199-8d27-97f6430a1335/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-06T04:26:12.345Z
+Categories:
+
+
+Name: NEO for Installers
+Url: https://testflight.apple.com/join/rTiUh9eI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/43/73/694373c8-b441-3faa-f43f-7cf0d5868a8f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T04:26:12.373Z
+Categories:
+
+
