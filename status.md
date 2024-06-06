@@ -232,3 +232,120 @@ Last Checked: 2024-06-06T08:45:23.803Z
 Categories:
 
 
+Name: Abonesepeti
+Url: https://testflight.apple.com/join/eb2FoW8F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/bc/f1/06bcf10a-e7f5-8992-0101-a56b31ebb151/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T08:46:11.027Z
+Categories:
+
+
+Name: Access Tonic Scanner
+Url: https://testflight.apple.com/join/jjlqGiXu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/a5/14/d5a514bd-3235-791e-3cec-2ff4bc77f339/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:46:11.057Z
+Categories:
+
+
+Name: Accops Workspace
+Url: https://testflight.apple.com/join/PEE25WlF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/64/89/3f64892d-cf11-8e4d-6487-560957906b9d/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:46:11.086Z
+Categories:
+
+
+Name: Accountit: Budget Tracker
+Url: https://testflight.apple.com/join/BoCFbgYf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/23/ed/15/23ed1500-a530-d46f-bce4-d7522de83940/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:46:11.113Z
+Categories:
+
+
+Name: Acuity Scheduling
+Url: https://testflight.apple.com/join/bg1PWE60
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/52/38/de/5238de8d-677c-61ea-7d55-c786bb0b4a50/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:46:11.141Z
+Categories:
+
+
+Name: Afiles
+Url: https://testflight.apple.com/join/pex4IRVE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/00/87/11/00871167-2faf-cead-902e-cf6d107d9ad9/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:46:11.169Z
+Categories:
+
+
+Name: Afina
+Url: https://testflight.apple.com/join/Neu2TOI2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6d/dd/f3/6dddf332-0f31-c4f8-f6ca-af6c359212c7/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:46:11.197Z
+Categories:
+
+
+Name: AgVerdict Next Staging
+Url: https://testflight.apple.com/join/s7BpoPKu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/12/08/cc/1208cc1f-fa63-0865-53a8-9304a4bf2a5c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:46:11.225Z
+Categories:
+
+
+Name: Agora Live: Social, Entertain
+Url: https://testflight.apple.com/join/yQOxh6hB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1a/64/00/1a640006-e372-139d-44db-c08c978fe98a/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:46:11.253Z
+Categories:
+
+
+Name: Ai Farmer
+Url: https://testflight.apple.com/join/Zgy8bhiq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/79/a9/0779a9ac-546e-cd06-8374-ee415843e638/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:46:11.281Z
+Categories:
+
+
+Name: Air Botswana
+Url: https://testflight.apple.com/join/j29Q4L4V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1f/0a/65/1f0a65e3-9609-b77f-bd31-1d6e08407b60/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:46:11.309Z
+Categories:
+
+
+Name: Air China
+Url: https://testflight.apple.com/join/WBkvyQWT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/4b/9e/ef4b9e10-402a-8d95-bdb6-a039fe86ef78/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: error
+Last Checked: 2024-06-06T08:46:11.337Z
+Categories:
+
+
+Name: AirChord 2
+Url: https://testflight.apple.com/join/YrPuAj7n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/04/5e/fe045e1d-8c80-ab93-2479-72fd2c487e85/AppIcon2-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-06T08:46:11.364Z
+Categories:
+
+
