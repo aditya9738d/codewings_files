@@ -17616,3 +17616,122 @@ Last Checked: 2024-06-06T11:26:13.875Z
 Categories:
 
 
+Name: Blast Royale
+Url: https://testflight.apple.com/join/oumKXOTP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/8a/b7/af8ab7b2-7765-b553-81cf-07ec14855222/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 22
+Beta Available: open
+Last Checked: 2024-06-06T11:27:08.336Z
+Categories:
+- Games
+
+Name: Olya Teste
+Url: https://testflight.apple.com/join/QLmmgWOR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/0b/79/fb0b795f-0340-c3a6-bca6-b20c50809758/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-06T11:27:08.365Z
+Categories:
+
+
+Name: Mobile2
+Url: https://testflight.apple.com/join/3JRkdcDB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/fa/36/68fa365b-0f9b-d51d-9818-f892a056c0ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 14
+Beta Available: open
+Last Checked: 2024-06-06T11:27:08.394Z
+Categories:
+
+
+Name: EHW+
+Url: https://testflight.apple.com/join/JAOTh0ap
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/4b/36/2c4b36c7-2f91-8feb-0c27-2fb453342f38/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T11:27:08.425Z
+Categories:
+
+
+Name: GRATIS GERADOR
+Url: https://testflight.apple.com/join/G33cUkPM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ea/d6/75ead6eb-ab03-055d-d37f-9b87fdec3361/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-06T11:27:08.454Z
+Categories:
+
+
+Name: DigiFT
+Url: https://testflight.apple.com/join/KKGOWQed
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/44/54/7544546c-520e-d314-3907-22fd7b04d07d/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-06T11:27:08.483Z
+Categories:
+
+
+Name: OSIM Staging
+Url: https://testflight.apple.com/join/opxes352
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/fb/03/90fb03bf-402d-2d99-e7ed-0acbb94af9e5/AppIcon.staging-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 21
+Beta Available: open
+Last Checked: 2024-06-06T11:27:08.512Z
+Categories:
+
+
+Name: NRO by ixxc 05
+Url: https://testflight.apple.com/join/Yqvol7gV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/a8/80/c1a88087-6650-6db5-eb1b-9456bd174481/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 14
+Beta Available: not accepting
+Last Checked: 2024-06-06T11:27:08.540Z
+Categories:
+
+
+Name: Stethophone
+Url: https://testflight.apple.com/join/psEDgC3w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/64/14/176414e6-6913-d783-32a6-098950bcbf21/UAAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-06T11:27:08.568Z
+Categories:
+
+
+Name: eRestro Singlevendor Rider
+Url: https://testflight.apple.com/join/wqMcr5at
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/8d/cc/c98dcca6-98b4-44a0-1a51-97226381ad3b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T11:27:08.597Z
+Categories:
+- Food
+- Shopping
+
+Name: CBRO
+Url: https://testflight.apple.com/join/UDDdSKNn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2a/58/8e2a5884-8da6-bfd5-3a58-5fb92817d594/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T11:27:08.625Z
+Categories:
+- Games
+
+Name: Watermelon__Game
+Url: https://testflight.apple.com/join/zEkLhX0L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/2c/66/892c66db-bdf7-605d-815a-cb80ed39f051/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 12
+Beta Available: not accepting
+Last Checked: 2024-06-06T11:27:08.653Z
+Categories:
+- Games
+
+Name: BuddyBoss Branding App
+Url: https://testflight.apple.com/join/RyFaWoIr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/9f/06/569f06b1-7f88-cd5c-f692-29b34b8859f8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-06T11:27:08.681Z
+Categories:
+- Art & Design
+- Education
+
