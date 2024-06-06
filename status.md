@@ -21174,3 +21174,122 @@ Last Checked: 2024-06-06T21:31:11.066Z
 Categories:
 - Games
 
+Name: OctaVPN
+Url: https://testflight.apple.com/join/BhLLjqAX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/bf/f0/74bff03d-e5c2-272c-8d6c-99045e23ad4f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 95
+Beta Available: error
+Last Checked: 2024-06-06T21:32:12.212Z
+Categories:
+
+
+Name: GolfClubInfoTracker
+Url: https://testflight.apple.com/join/9ZKdwgYZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/57/92/71/579271b6-0431-33b8-71c4-4136bd6a949f/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: not accepting
+Last Checked: 2024-06-06T21:32:12.240Z
+Categories:
+
+
+Name: dot.dot.dot.
+Url: https://testflight.apple.com/join/Fc48B6AB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/13/55/781355d0-a5b0-97c6-2ed8-4e4977131c36/AppIcon.lsr/200x200bb-8.png
+Click Count: 34
+Beta Available: open
+Last Checked: 2024-06-06T21:32:12.267Z
+Categories:
+
+
+Name: Groq
+Url: https://testflight.apple.com/join/Y9X0wGsi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/9a/66/c49a6692-318a-aff6-14e0-a84bc26a61bb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: full
+Last Checked: 2024-06-06T21:32:12.295Z
+Categories:
+
+
+Name: musicat.ai
+Url: https://testflight.apple.com/join/9KdDFgbw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/58/b1/ee/58b1eef1-4dfc-47d9-059b-bba86adaca2d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 23
+Beta Available: full
+Last Checked: 2024-06-06T21:32:12.322Z
+Categories:
+- Ai
+- Music
+
+Name: Empty Fasting
+Url: https://testflight.apple.com/join/1Ex8uyu7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/b6/b3/f6b6b36f-bff3-a72e-3463-d1c46b3f9b11/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png
+Click Count: 54
+Beta Available: error
+Last Checked: 2024-06-06T21:32:12.349Z
+Categories:
+
+
+Name: Fugl
+Url: https://testflight.apple.com/join/bZIZeB4N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/61/9b/3b619b15-4e0b-e2f4-c6f4-e702a63f8e87/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 71
+Beta Available: open
+Last Checked: 2024-06-06T21:32:12.377Z
+Categories:
+
+
+Name: Symbol Wallet
+Url: https://testflight.apple.com/join/oKCyZkRa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/53/8e/d2538eeb-f29e-2151-89ea-872e08ac62a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 21
+Beta Available: open
+Last Checked: 2024-06-06T21:32:12.405Z
+Categories:
+
+
+Name: Devomon Callisto
+Url: https://testflight.apple.com/join/zP1EuUwb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c7/4e/fe/c74efe98-b367-5262-1b1f-f1c445096766/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 21
+Beta Available: open
+Last Checked: 2024-06-06T21:32:12.433Z
+Categories:
+
+
+Name: Midicircuit
+Url: https://testflight.apple.com/join/pNyAUEac
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/b0/25/a0b025f5-5417-9497-8ed9-069eca225e31/AppIcon_-_iOS-beta-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 8
+Beta Available: not accepting
+Last Checked: 2024-06-06T21:32:12.461Z
+Categories:
+
+
+Name: Pikamoon
+Url: https://testflight.apple.com/join/YBKQzFTx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/15/50/e4155011-945f-10ed-0d6c-930fc746ca63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 22
+Beta Available: open
+Last Checked: 2024-06-06T21:32:12.489Z
+Categories:
+
+
+Name: Djablobeats
+Url: https://testflight.apple.com/join/gLcQh8g3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/d4/95/b7d495e9-fd8c-b11c-386f-208da8e62dad/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 32
+Beta Available: open
+Last Checked: 2024-06-06T21:32:12.517Z
+Categories:
+
+
+Name: Her AI Chat
+Url: https://testflight.apple.com/join/vYkfwoti
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/5d/f0/805df00e-999b-5aba-918e-c413dbe1deda/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 46
+Beta Available: open
+Last Checked: 2024-06-06T21:32:12.545Z
+Categories:
+- Ai
+- Chat
+
