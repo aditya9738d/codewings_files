@@ -21742,3 +21742,120 @@ Last Checked: 2024-06-06T03:26:12.300Z
 Categories:
 
 
+Name: Huddle - Get together
+Url: https://testflight.apple.com/join/FRg2IPXf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/b6/11/d1b61153-b5d4-a03c-218a-f7d551a8ec0f/AppIcon-0-1x_U007ephone-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.201Z
+Categories:
+
+
+Name: NostalgiX
+Url: https://testflight.apple.com/join/XC4ho7Iv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/e6/e1/a2e6e183-db50-0b14-887a-05bdc119904a/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.236Z
+Categories:
+
+
+Name: NFTTrack - new screen widgets
+Url: https://testflight.apple.com/join/XPP3geMf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/81/98/ea8198b5-2095-4c22-3b78-bf43a32a483d/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.272Z
+Categories:
+
+
+Name: 100ms
+Url: https://testflight.apple.com/join/dhUSE7N8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/4c/61/e04c61cb-94ee-7e8a-76d0-f53537934b5d/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.309Z
+Categories:
+
+
+Name: UP Board Lens
+Url: https://testflight.apple.com/join/ZZsalAXV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/20/c0/8d20c0b5-0d61-bc8a-9a84-21413642e49c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.344Z
+Categories:
+
+
+Name: I-CRM
+Url: https://testflight.apple.com/join/jYKfR9hO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/ef/ab/0aefab0b-2ed0-06ce-e941-67858441d8ac/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.380Z
+Categories:
+
+
+Name: Date-Buddy
+Url: https://testflight.apple.com/join/l5vU6FCI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/35/e2/2d/35e22d7e-597a-27fc-0eb0-ac0f33d8eecf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.416Z
+Categories:
+
+
+Name: Dynasty League Baseball
+Url: https://testflight.apple.com/join/GMIldzPW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/29/7f/0e297f1e-a6e2-7232-cf0f-2dea829989ce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.451Z
+Categories:
+
+
+Name: SmashinGas
+Url: https://testflight.apple.com/join/X9aBP0Iq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/d2/2b/81d22b8b-6838-6cbf-5c66-02433e603cf0/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.487Z
+Categories:
+
+
+Name: Furbol Dev
+Url: https://testflight.apple.com/join/hJ3kqXeF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/ff/34/6cff34dd-5994-66aa-b678-0b3ecdb1c0c9/devAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.524Z
+Categories:
+
+
+Name: SnippetsLab
+Url: https://testflight.apple.com/join/LBF2tQ2l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/54/e0/cb54e0b3-3d71-2c54-94aa-546f51ffe59b/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T03:27:09.560Z
+Categories:
+
+
+Name: B-Bank Debug
+Url: https://testflight.apple.com/join/lnzqqwbU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/30/f4/9e30f4af-41cc-5278-81cd-ea741355fe39/AppIcon-Debug-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.597Z
+Categories:
+
+
+Name: BILLA Bonus
+Url: https://testflight.apple.com/join/GcABkueS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/1a/d5/561ad5f1-d9e8-5728-eb16-9a83929d7304/BillaSlovakia_appicon_release-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T03:27:09.632Z
+Categories:
+
+
