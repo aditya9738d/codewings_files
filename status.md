@@ -12985,3 +12985,120 @@ Last Checked: 2024-06-06T06:21:09.992Z
 Categories:
 
 
+Name: Snowbank | Credibrf Dev
+Url: https://testflight.apple.com/join/iuGwJjw3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/14/1b/24141b71-a14f-c2ff-3683-359a241dbc34/credibrf_homologAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T06:22:11.415Z
+Categories:
+
+
+Name: CommandWorx
+Url: https://testflight.apple.com/join/LsNmpxiy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/8a/e1/a48ae144-1fb6-0b15-1bb1-b939e91c1c02/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T06:22:11.449Z
+Categories:
+
+
+Name: Vialer
+Url: https://testflight.apple.com/join/JL86Wn15
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d8/3f/95d83fe2-cb06-148f-5829-cdcb2cb38e02/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:22:11.484Z
+Categories:
+
+
+Name: ImpactAI: AI Chat
+Url: https://testflight.apple.com/join/K0EmPbTw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/aa/40/fcaa4086-7061-f939-1a09-3393a0690e42/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:22:11.519Z
+Categories:
+
+
+Name: DrivePro
+Url: https://testflight.apple.com/join/KeXrN5sz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/8e/4e/1a8e4e24-2f66-e0ec-f478-c19a81b2dd8f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T06:22:11.554Z
+Categories:
+
+
+Name: Nro Real...
+Url: https://testflight.apple.com/join/csIskyto
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/b4/3f/18b43fdb-00bd-1e8b-d1e7-6b04f5650a11/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:22:11.590Z
+Categories:
+
+
+Name: Urbanexs Order
+Url: https://testflight.apple.com/join/H3NGhtA4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/fa/81/9afa8137-6388-7d7a-5940-f6e637225f69/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:22:11.625Z
+Categories:
+
+
+Name: DTFansOnly
+Url: https://testflight.apple.com/join/kSjdIiQJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5c/a5/73/5ca573bc-0790-9f08-fd35-07b2462bfdde/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-06T06:22:11.660Z
+Categories:
+
+
+Name: Celtalk
+Url: https://testflight.apple.com/join/YutkPJIU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/70/05/1070055e-32dc-c0af-f687-8f28a48091d8/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:22:11.694Z
+Categories:
+
+
+Name: HelloSud
+Url: https://testflight.apple.com/join/1mnmt8IV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/eb/5c/e4eb5c20-2488-6c27-310a-abeb64b1bb35/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T06:22:11.729Z
+Categories:
+
+
+Name: Jio-bp Freight4U – King
+Url: https://testflight.apple.com/join/Sj6CPcj2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/00/92/fa/0092fa71-7155-6912-bb8f-8169c0f1a87a/shipper_pre_prodAppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:22:11.764Z
+Categories:
+
+
+Name: BeatGig
+Url: https://testflight.apple.com/join/aE4D81Hj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/9a/7d/139a7dbe-2622-53a2-316c-71915773dbf4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:22:11.799Z
+Categories:
+
+
+Name: Podverse
+Url: https://testflight.apple.com/join/VpxVTOsT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/99/70/15997012-3835-3e30-c034-5e36dc52f692/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T06:22:11.835Z
+Categories:
+
+
