@@ -6901,3 +6901,120 @@ Last Checked: 2024-06-06T05:27:09.697Z
 Categories:
 
 
+Name: UB UAT
+Url: https://testflight.apple.com/join/qVpMqG8k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/cb/53/b7cb532b-30a1-960e-1334-2fdcf5e6eed4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:28:11.059Z
+Categories:
+
+
+Name: NOS TV
+Url: https://testflight.apple.com/join/UgIz3p0R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/c9/7e/a1c97e6e-4d86-5b9c-5d12-e6a0208fe575/AppIconStore-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:28:11.096Z
+Categories:
+
+
+Name: Safa Wallet
+Url: https://testflight.apple.com/join/BCfKR1m6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a3/3e/d7/a33ed7b7-9d7f-5430-727f-5763962c6ba8/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:28:11.132Z
+Categories:
+
+
+Name: Digiteam
+Url: https://testflight.apple.com/join/Ra10vu6M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1f/4b/3e/1f4b3ea0-4ca4-9739-2bc2-35f1156840a9/DigiAppIcon-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T05:28:11.167Z
+Categories:
+
+
+Name: GoLingo!
+Url: https://testflight.apple.com/join/LwM7iOqi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/86/0d/07/860d07a9-e460-bcbf-f30d-858936a07d99/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:28:11.203Z
+Categories:
+
+
+Name: TP-Link Deco
+Url: https://testflight.apple.com/join/U5p3ccdw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/92/d9/5792d9b9-c2ae-249b-ca85-0abc95cd3f30/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:28:11.238Z
+Categories:
+
+
+Name: Info HR App
+Url: https://testflight.apple.com/join/vF1UKGOT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/49/88/2b/49882bf8-22cc-e1a7-df56-65673ca25725/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:28:11.274Z
+Categories:
+
+
+Name: Heavys - Stage
+Url: https://testflight.apple.com/join/2H7O9nFt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/2f/bf/8d2fbfe2-c1ab-cdc5-404d-d7ef62d10917/AppIconBeta-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:28:11.310Z
+Categories:
+
+
+Name: Podz: Family & Group Organizer
+Url: https://testflight.apple.com/join/FN4DdBCI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/ae/ad/29aeade1-6f4b-34b0-6f4c-937750c3cd67/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:28:11.346Z
+Categories:
+
+
+Name: Nutstore
+Url: https://testflight.apple.com/join/ADY4hFVz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/38/4c/a0384cb1-4c12-c8ba-847e-2c29b67fa9de/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-06T05:28:11.383Z
+Categories:
+
+
+Name: Tabletop Battles
+Url: https://testflight.apple.com/join/XWOfQyll
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/d5/3f/f2d53f6a-229e-5322-b1b5-616cb29e0127/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T05:28:11.419Z
+Categories:
+
+
+Name: MobeX+
+Url: https://testflight.apple.com/join/3j1wH9Zi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/8b/c6/158bc671-a949-f272-0cea-7742db49fcb5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:28:11.454Z
+Categories:
+
+
+Name: OBSERV 520x
+Url: https://testflight.apple.com/join/W2oGau0X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/10/e4/5f10e4ac-d81d-f565-e457-f2ddc9036876/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T05:28:11.491Z
+Categories:
+
+
