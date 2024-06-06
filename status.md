@@ -23398,3 +23398,120 @@ Last Checked: 2024-06-06T07:53:12.668Z
 Categories:
 
 
+Name: EasyChem: химия просто
+Url: https://testflight.apple.com/join/tcl2Hz3C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/62/48/556248f2-9c7e-4050-d6d2-99fb559bf225/AppIcon-Fresh-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T07:56:09.753Z
+Categories:
+
+
+Name: APTV-Mac
+Url: https://testflight.apple.com/join/QN934ULR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/14/dd/ad14ddfa-897d-a85f-7690-a8bbfe7f583d/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-06T07:56:09.789Z
+Categories:
+
+
+Name: Speedometer GPS And Compass
+Url: https://testflight.apple.com/join/y2nXKYRu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/f7/92/60f792d4-50c9-deac-5ab6-c508f7695d0a/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:56:09.825Z
+Categories:
+
+
+Name: Bondee
+Url: https://testflight.apple.com/join/NoSsyQFv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/7b/62/717b624e-673e-f751-8958-1392035f1010/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:56:09.861Z
+Categories:
+
+
+Name: Moreno Valley Inspector App
+Url: https://testflight.apple.com/join/Z0lTbApM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/b0/b5/94b0b57d-ee27-dc1d-b84d-6d69bbb12ac3/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T07:56:09.896Z
+Categories:
+
+
+Name: Quote Me Happy
+Url: https://testflight.apple.com/join/fK1FJYmG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/c2/28/f4c22836-d6a5-6646-c99e-20c5a56c7ce9/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:56:09.933Z
+Categories:
+
+
+Name: Widgets 212
+Url: https://testflight.apple.com/join/xu9Qi15z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/7e/29/957e29d2-a543-4741-6bf8-5f63ba1ef3b2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-06T07:56:09.970Z
+Categories:
+
+
+Name: Record Workout
+Url: https://testflight.apple.com/join/GFvd3tM1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/58/b5/ad58b502-b26d-e3c3-be2b-1bcaaa9a0c6f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:56:10.006Z
+Categories:
+
+
+Name: Towner
+Url: https://testflight.apple.com/join/CZUkvDbh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/14/3c/f7143cf5-15e4-0a7d-981b-2ca856ccdb8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:56:10.042Z
+Categories:
+
+
+Name: Take Stock — Film Metadata
+Url: https://testflight.apple.com/join/aYQGNXVc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/73/57/2873578d-2ada-6c13-13f4-5b326c76ba9f/AppIcon-0-0-85-220-0-4-0-2x-P3-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:56:10.077Z
+Categories:
+
+
+Name: Roon ARC
+Url: https://testflight.apple.com/join/yImqC6X5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/06/97/8e06976d-f187-13b2-2177-278cb25b10a4/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:56:10.114Z
+Categories:
+
+
+Name: WCWebPro
+Url: https://testflight.apple.com/join/k7o5tI7e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/06/be/1c06be77-edbb-55b3-a57a-d8a82a018c2c/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-06T07:56:10.150Z
+Categories:
+
+
+Name: To Earn NOW
+Url: https://testflight.apple.com/join/UIdBgJp1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/35/0c/3f350c80-3542-3211-4a97-2f132638471f/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-06T07:56:10.185Z
+Categories:
+
+
