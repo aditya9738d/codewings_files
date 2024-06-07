@@ -19837,3 +19837,121 @@ Last Checked: 2024-06-07T15:20:26.193Z
 Categories:
 
 
+Name: ORPHE ANALYTICS Recorder
+Url: https://testflight.apple.com/join/el6fn1Y0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/df/d0/7cdfd0eb-9931-0f51-69c4-719704bb1c14/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-07T15:21:11.530Z
+Categories:
+
+
+Name: Firefox Beta web browser
+Url: https://testflight.apple.com/join/JdsubPZs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/b2/1b/d7b21b50-ab59-4703-bc93-d95e67105cb6/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 157
+Beta Available: open
+Last Checked: 2024-06-07T15:21:11.558Z
+Categories:
+- Browser
+- Utility
+
+Name: SyenApp: Private Search & Shop
+Url: https://testflight.apple.com/join/GxsamE35
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/ce/b8/b4ceb845-3758-8641-9d8f-1576f1edb16c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T15:21:11.586Z
+Categories:
+
+
+Name: Charge HQ
+Url: https://testflight.apple.com/join/yJr5Y0O9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/f6/82/05f6826d-e571-d397-0d58-ccb752709e55/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T15:21:11.615Z
+Categories:
+
+
+Name: Truck Maps Navigation
+Url: https://testflight.apple.com/join/vpYkazUc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/54/0c/db540cc1-3d1f-cd9d-d0a8-dec681987646/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T15:21:11.642Z
+Categories:
+
+
+Name: FoxCloud2.0
+Url: https://testflight.apple.com/join/MxSFUO60
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/51/11/a5511186-0c9c-2d7b-fcfc-a8c2cf8d7dba/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:21:11.671Z
+Categories:
+
+
+Name: NS Travel Planner
+Url: https://testflight.apple.com/join/ldBwapIg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/a2/12/15a21232-5468-1c50-a6a4-eb68f8fa4c66/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-07T15:21:11.700Z
+Categories:
+
+
+Name: Grindr - Gay Dating & Chat
+Url: https://testflight.apple.com/join/eO265vw7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/dd/43/01dd436f-3fcd-cdd6-e8e1-fb1e3eeb8c0d/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:21:11.729Z
+Categories:
+
+
+Name: Traini -Dog Training & AI Chat
+Url: https://testflight.apple.com/join/dA6l0fWU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/cb/4c/43cb4cb6-b07b-7f2e-13d4-503063eb9991/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:21:11.758Z
+Categories:
+
+
+Name: phaze
+Url: https://testflight.apple.com/join/fkQWk37B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/29/29/9529292f-e6ba-1dbd-f97d-1cfd19a7fac9/AppIcon-1x_U007ephone-0-0-0-0-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T15:21:11.786Z
+Categories:
+
+
+Name: monteStory
+Url: https://testflight.apple.com/join/EkfsDlme
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/d6/d0/73d6d067-9be0-9009-054a-5e1cfb86e3b5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T15:21:11.815Z
+Categories:
+
+
+Name: Stork
+Url: https://testflight.apple.com/join/pOk0I70t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/4c/4a/194c4a59-9dc4-adf6-c00e-49fe69f14309/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:21:11.844Z
+Categories:
+
+
+Name: stats.fm for Spotify Music App
+Url: https://testflight.apple.com/join/ATXJemn4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d9/41/3ad941f0-893d-6da9-4e65-f341c8fc0ca4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T15:21:11.876Z
+Categories:
+
+
