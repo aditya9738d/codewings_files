@@ -14506,3 +14506,120 @@ Last Checked: 2024-06-07T23:22:11.098Z
 Categories:
 
 
+Name: Rec-HDM
+Url: https://testflight.apple.com/join/BJGMmoQ6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/73/f4/b273f4be-a18a-f8b1-e539-c5280d00dcac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.082Z
+Categories:
+
+
+Name: RecSLAM
+Url: https://testflight.apple.com/join/sozi0K9g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0d/06/17/0d061764-f797-9f0c-aacd-653730994ad3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.112Z
+Categories:
+
+
+Name: RecStar
+Url: https://testflight.apple.com/join/jBfhclHr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f5/3a/88/f53a88f8-9887-5af7-61a0-c7dd4a3823bd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.141Z
+Categories:
+
+
+Name: ReceiptEase
+Url: https://testflight.apple.com/join/4nKHb3qH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/32/9f/f3/329ff3a3-7ac3-e314-f333-a094b06b4330/AppIcon3-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.169Z
+Categories:
+
+
+Name: RecipiaTest
+Url: https://testflight.apple.com/join/mw7D589T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/d6/f0/19d6f021-c3cb-5748-5ac4-c3523fb0ee03/AppIcon-0-0-1x_U007emarketing-0-2-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.197Z
+Categories:
+
+
+Name: Recoil Shot Timer
+Url: https://testflight.apple.com/join/vlGEnaLo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/52/42/18/5242182c-5855-d562-c9ee-4af6a6319560/TimerIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.225Z
+Categories:
+
+
+Name: Recollective
+Url: https://testflight.apple.com/join/GZTsZpaz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/26/83/4c/26834cde-07ea-d610-d98f-3545ecc3fb9d/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.253Z
+Categories:
+
+
+Name: Record X - Track assets easily
+Url: https://testflight.apple.com/join/sL46irXJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/34/18/9b/34189bcf-bb44-9ea0-f30e-c5e3e93a7164/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.282Z
+Categories:
+
+
+Name: Recosia
+Url: https://testflight.apple.com/join/rGuWL5Fx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fb/17/ea/fb17ea27-f67e-74de-4703-a750bece87df/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.311Z
+Categories:
+
+
+Name: Recz-Social Recommendation App
+Url: https://testflight.apple.com/join/uXORYn6n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/7e/c4/3a7ec4aa-4844-8647-8bc9-1fb0b9045b22/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.353Z
+Categories:
+
+
+Name: RedZonkey - Fitness Buddy
+Url: https://testflight.apple.com/join/pdCu4V5w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/7f/6e/ab7f6e5b-0bee-03c2-dcdb-11742ec1be00/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.384Z
+Categories:
+
+
+Name: Redneck Bounce
+Url: https://testflight.apple.com/join/J1VIE1Md
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/ce/75/46ce759d-e4a3-0856-a387-121452f9f327/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:23:09.412Z
+Categories:
+
+
+Name: Reflect Notes
+Url: https://testflight.apple.com/join/v3yFxXaX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/4b/fc/374bfc4a-9c42-7c65-977d-28e7201cd7aa/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T23:23:09.441Z
+Categories:
+
+
