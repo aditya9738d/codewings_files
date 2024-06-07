@@ -10528,3 +10528,120 @@ Last Checked: 2024-06-07T00:18:10.318Z
 Categories:
 
 
+Name: Mattermost Beta
+Url: https://testflight.apple.com/join/Q7Rx7K9P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/c6/68/40c668ee-afea-4880-cd5d-cd80abbd1179/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:19:11.681Z
+Categories:
+
+
+Name: Cric Cam
+Url: https://testflight.apple.com/join/vF0PYIzi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fc/ac/fd/fcacfd74-ac69-ac55-e7e5-0854b9d8a089/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:19:11.717Z
+Categories:
+
+
+Name: My Airtel Africa
+Url: https://testflight.apple.com/join/D7BlzNvW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/5f/3f/f35f3f2c-d386-fc4e-2c94-a644465c3008/AppIcon-0-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:19:11.753Z
+Categories:
+
+
+Name: Line-up. Sports App
+Url: https://testflight.apple.com/join/0d7rBRBx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/11/51/b6115132-e8c3-9482-855f-2cc888c58548/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-07T00:19:11.790Z
+Categories:
+
+
+Name: Bielaruskaja Lacinka
+Url: https://testflight.apple.com/join/pfIj5vHJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/85/b7/8f85b710-ee6f-c2d4-ac48-725603a7388e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:19:11.826Z
+Categories:
+
+
+Name: Potunes
+Url: https://testflight.apple.com/join/LswWKGfh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/bb/d4/32bbd493-bccd-1668-b315-e8f13e771d3b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T00:19:11.863Z
+Categories:
+
+
+Name: Atividades CESAT
+Url: https://testflight.apple.com/join/iZuYcaED
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/25/85/e32585e6-711f-0f74-25fb-1b6a7933693f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:19:11.898Z
+Categories:
+
+
+Name: FM Chat
+Url: https://testflight.apple.com/join/2YkUXwk7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/38/e4/27/38e427a5-eb6d-1765-8a11-aba0ac993364/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:19:11.935Z
+Categories:
+
+
+Name: glinet
+Url: https://testflight.apple.com/join/8XEBMu8T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0e/5d/4f/0e5d4fcc-21d3-4836-1e64-7ad6ec9d6a1f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:19:11.972Z
+Categories:
+
+
+Name: AdvisorZone
+Url: https://testflight.apple.com/join/563RDDqZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/b5/4c/d9b54ce0-15ae-d5f0-9699-470f7f05c61c/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:19:12.012Z
+Categories:
+
+
+Name: CRAFT - the Social Beer App
+Url: https://testflight.apple.com/join/oD1kIq3s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/09/ba/7f09bab9-2f62-8d3a-491e-ff852252c6ad/AppIcon-0-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:19:12.047Z
+Categories:
+
+
+Name: MWeb - Markdown Writing, Notes
+Url: https://testflight.apple.com/join/XDGRHrm3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/d5/73/a8d57319-92a5-2240-a3f7-c00a2f10db60/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T00:19:12.085Z
+Categories:
+
+
+Name: RoseStation
+Url: https://testflight.apple.com/join/J0cvhgqw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/87/ba/5187ba03-c4b6-276c-61ab-882eda668a86/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:19:12.121Z
+Categories:
+
+
