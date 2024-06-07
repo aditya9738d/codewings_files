@@ -9241,3 +9241,120 @@ Last Checked: 2024-06-07T18:13:11.466Z
 Categories:
 
 
+Name: The Battle of Polytopia
+Url: https://testflight.apple.com/join/LjTQNqua
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/16/a5/2d/16a52d4f-47cb-1a16-05dd-5f73c519b7b6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:14:11.891Z
+Categories:
+
+
+Name: Fulfillment - Fabric UAT
+Url: https://testflight.apple.com/join/15orZW8j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cd/96/1c/cd961ce1-4c5e-c9f7-a764-1e9caad685ef/UAT-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:14:11.927Z
+Categories:
+
+
+Name: Flo-Digital
+Url: https://testflight.apple.com/join/qNqDUzjf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/d2/4e/c4d24ee0-a0b6-c691-2de0-f9d0a7e44abc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T18:14:11.963Z
+Categories:
+
+
+Name: uat Aljomaih
+Url: https://testflight.apple.com/join/2pwyZUeA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a8/cb/ad/a8cbad5d-50b5-9c26-b8ce-7ef437b4f8c8/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T18:14:11.998Z
+Categories:
+
+
+Name: Race Day | Real Time Stats
+Url: https://testflight.apple.com/join/AJqRFNjX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/2e/8a/852e8acd-6b8f-6e3d-3d6b-86f5bfd6aec4/AppIcon-0-0-1x_U007emarketing-0-2-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:14:12.034Z
+Categories:
+
+
+Name: Optii
+Url: https://testflight.apple.com/join/kQQKuwGZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/20/1b/f2201b20-3e1c-8369-87e1-1a4281a66d87/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:14:12.069Z
+Categories:
+
+
+Name: myGrenton
+Url: https://testflight.apple.com/join/TNQ6T8Xb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/bc/82/8ebc820f-f4be-5d2f-e391-99e45e443f47/Icon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-8.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T18:14:12.105Z
+Categories:
+
+
+Name: AvatarX Demo
+Url: https://testflight.apple.com/join/PaFI0bJr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d3/fe/b1/d3feb14d-eb36-e40c-5e6e-58026b26094f/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:14:12.141Z
+Categories:
+
+
+Name: Awaksense
+Url: https://testflight.apple.com/join/Njr0JMZo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/6c/1d/1c6c1d00-4e95-14c8-7dcc-d292c951ab33/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:14:12.177Z
+Categories:
+
+
+Name: EasyMQTT
+Url: https://testflight.apple.com/join/iEHD13L4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/24/d5/5d24d5e5-5b74-3065-c643-c28091aa00a3/AppIcon-purple-AI-0-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:14:12.213Z
+Categories:
+
+
+Name: GUTS Tickets
+Url: https://testflight.apple.com/join/PgVAxUxR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/f3/2c/87f32c81-2284-9483-7629-76c06a323b3d/AppIcon.guts-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:14:12.249Z
+Categories:
+
+
+Name: EatHalal Dispatcher App
+Url: https://testflight.apple.com/join/Xedn5Rdu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/1e/de/871eded9-25aa-e0b1-d0e2-cdf6b30f12d8/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:14:12.284Z
+Categories:
+
+
+Name: I love FM
+Url: https://testflight.apple.com/join/QeDMAI50
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/10/31/5e103179-f625-0aaf-a3e0-f4e67e510667/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T18:14:12.320Z
+Categories:
+
+
