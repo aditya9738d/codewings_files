@@ -22930,3 +22930,120 @@ Last Checked: 2024-06-07T20:22:11.733Z
 Categories:
 
 
+Name: Mhaya Test
+Url: https://testflight.apple.com/join/6FIIvKlJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/d8/b1/c4d8b170-f072-45bb-b5f0-5b435396bb26/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.126Z
+Categories:
+
+
+Name: App for WooCommerce
+Url: https://testflight.apple.com/join/LBoLdW0r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/d8/0f/49d80f3c-8ec6-131d-75bd-f4f03d707135/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.163Z
+Categories:
+
+
+Name: Astara
+Url: https://testflight.apple.com/join/ZWokb4hI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/ce/b3/c1ceb39b-4759-c7da-dae3-b773651bec6b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.200Z
+Categories:
+
+
+Name: bitXin
+Url: https://testflight.apple.com/join/AAqEldbE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/73/f2/3073f2e7-9d08-9f9e-bd0a-7abcd342bec0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.236Z
+Categories:
+
+
+Name: EC App Dev
+Url: https://testflight.apple.com/join/wdJjqbX5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/54/50/d2545006-97a8-ec82-9e30-f4d372ecae4e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.273Z
+Categories:
+
+
+Name: KidZoo - Playdates Made Easy
+Url: https://testflight.apple.com/join/sIDpnb8C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/35/f8/db35f8ac-017b-233e-5d1a-1d9365838cfc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.309Z
+Categories:
+
+
+Name: Triodos
+Url: https://testflight.apple.com/join/NTTi3y2g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/69/16/586916b3-0afd-4fe9-8eed-e82b28459d9c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.346Z
+Categories:
+
+
+Name: Remain in The Game Mobile App
+Url: https://testflight.apple.com/join/qgNfalhe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/18/64/f61864ae-a86c-c2f3-94f9-1c0ad90e3342/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.382Z
+Categories:
+
+
+Name: Indigo Education
+Url: https://testflight.apple.com/join/tTCxbyGo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/76/20/d57620a7-2091-ad74-b65e-e45d954283fe/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.418Z
+Categories:
+
+
+Name: Cloud Baby Monitor
+Url: https://testflight.apple.com/join/cXRn9NCj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/32/d2/2632d23e-f049-ab68-14d7-354d891914a8/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.453Z
+Categories:
+
+
+Name: Peerlist
+Url: https://testflight.apple.com/join/1KDD1Gqr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/8b/89/f18b8924-e2ac-c91a-f383-5937c355b9eb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.491Z
+Categories:
+
+
+Name: Superlist - Tasks & Lists
+Url: https://testflight.apple.com/join/b4fbhjqf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/6d/ec/656dec39-eea3-5675-b983-632b106e8408/AppIcon-0-0-1x_U007epad-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.528Z
+Categories:
+
+
+Name: Supercopy for Safari
+Url: https://testflight.apple.com/join/NnJV6ZTU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/6b/b6/676bb637-e50d-d8bc-0b4d-c81cb460a7f7/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:23:12.564Z
+Categories:
+
+
