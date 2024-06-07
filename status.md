@@ -11932,3 +11932,120 @@ Last Checked: 2024-06-07T04:46:12.244Z
 Categories:
 
 
+Name: PalmPay
+Url: https://testflight.apple.com/join/bKon8lsd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ad/80/bead8060-6c95-8e17-cfb1-1e3c0c32d145/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T04:47:09.510Z
+Categories:
+
+
+Name: Panafrican CRM
+Url: https://testflight.apple.com/join/EtJdNaqQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f8/8e/21/f88e217f-89e8-6186-5e2e-3a0391c0a97b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T04:47:09.538Z
+Categories:
+
+
+Name: PanoX
+Url: https://testflight.apple.com/join/Uw4ZLtj8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/47/30/28473025-ac3a-258a-3db9-7dae22705a12/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T04:47:09.567Z
+Categories:
+
+
+Name: Panoee
+Url: https://testflight.apple.com/join/HhFvq8FE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/91/cb/aa/91cbaae6-2d40-4697-1b0c-d8461b18710f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T04:47:09.595Z
+Categories:
+
+
+Name: Papa Johns Qatar
+Url: https://testflight.apple.com/join/lKxa9KH8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/12/fa/4912fad0-ea8d-7850-6447-0d6f97cbf9ab/AppIcons-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T04:47:09.624Z
+Categories:
+
+
+Name: Parade Pal
+Url: https://testflight.apple.com/join/fyO88byX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5f/33/8b/5f338b59-154a-3061-c477-d1ad07edfd4e/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T04:47:09.652Z
+Categories:
+
+
+Name: Paradise Tycoon
+Url: https://testflight.apple.com/join/sQ1hbXvC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/43/c1/1243c1c0-0912-b92e-0471-95043efead0f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T04:47:09.681Z
+Categories:
+
+
+Name: Paradoxly
+Url: https://testflight.apple.com/join/7CkRPCK4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ef/bf/15/efbf1501-d6dd-cd55-74ae-13ed347305fd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 15
+Beta Available: open
+Last Checked: 2024-06-07T04:47:09.710Z
+Categories:
+
+
+Name: Paragraph Doctors
+Url: https://testflight.apple.com/join/ZLoGQVdK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c9/c7/46/c9c7462f-a061-41b5-666c-d74f6929bb51/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T04:47:09.738Z
+Categories:
+
+
+Name: Paramount Mobile
+Url: https://testflight.apple.com/join/dBIc9TZu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/ba/57/72ba5763-3b08-ffb0-d0c3-9dbc55dc52fe/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T04:47:09.770Z
+Categories:
+
+
+Name: Parlaro
+Url: https://testflight.apple.com/join/uvrveFnX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/7e/af/3b7eafe8-9b16-63b8-5290-9434a565cbfb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T04:47:09.799Z
+Categories:
+
+
+Name: ParticleVision 3D
+Url: https://testflight.apple.com/join/TrxKbTEt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/ab/72/1eab72f1-3342-2ae3-5c21-2e03a3a0342d/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T04:47:09.826Z
+Categories:
+
+
+Name: Party Parrot World
+Url: https://testflight.apple.com/join/dnNlcOAI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/3a/3b/133a3b95-6bf5-8e7d-47a6-3ca31cd49732/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T04:47:09.854Z
+Categories:
+
+
