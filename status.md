@@ -24106,3 +24106,120 @@ Categories:
 - Entertainment
 - Video
 
+Name: PotClock
+Url: https://testflight.apple.com/join/ivCR0RIe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/23/08/f223085b-be12-cacb-6d66-ff7a55cc2770/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 25
+Beta Available: open
+Last Checked: 2024-06-07T06:36:12.449Z
+Categories:
+
+
+Name: Avici -Buy bitcoin with UPI
+Url: https://testflight.apple.com/join/Rl2vfoRy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/c6/57/11c657e2-0405-b1c6-aca8-0581b745b94b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T06:36:12.486Z
+Categories:
+
+
+Name: Per Watch
+Url: https://testflight.apple.com/join/kCM1SsCz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f0/2d/ae/f02dae4d-aa50-b44f-faef-1d00c64b2569/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-07T06:36:12.522Z
+Categories:
+
+
+Name: ColorSlurp
+Url: https://testflight.apple.com/join/xxEw2j1X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/0d/5b/5d0d5b74-4198-002d-5a4f-54386fb8b02d/app-icon-0-0-85-220-0-0-4-0-2x-sRGB.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-07T06:36:12.558Z
+Categories:
+
+
+Name: War Robots Test
+Url: https://testflight.apple.com/join/aE7qTf9G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/99/1b/71991be5-0fd6-84de-6066-8744bdbe3993/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 104
+Beta Available: open
+Last Checked: 2024-06-07T06:36:12.594Z
+Categories:
+- Games
+
+Name: Devil May Cry: Peak of Combat
+Url: https://testflight.apple.com/join/YwdVgCwp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/41/58/964158f8-9560-87bb-3bff-0e455f21e625/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 17
+Beta Available: not accepting
+Last Checked: 2024-06-07T06:36:12.630Z
+Categories:
+
+
+Name: MotoWeek
+Url: https://testflight.apple.com/join/GqtAtfQu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/64/da/d064da0d-daf1-2e33-1ea8-aa83c7c8320a/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 33
+Beta Available: open
+Last Checked: 2024-06-07T06:36:12.666Z
+Categories:
+
+
+Name: Beautiful Covers
+Url: https://testflight.apple.com/join/YSOynOzr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/73/b2/9673b244-571e-c908-74f4-cc49c8aef3d0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-07T06:36:12.702Z
+Categories:
+
+
+Name: VPN ExpressVPN - Fast & Secure
+Url: https://testflight.apple.com/join/6flRfmYW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/bf/13/dabf13e5-89e3-dd4f-d5bb-9080cc6d3fee/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 12
+Beta Available: full
+Last Checked: 2024-06-07T06:36:12.738Z
+Categories:
+
+
+Name: RAFA: AI Investment Copilot
+Url: https://testflight.apple.com/join/LqD6DlOe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3c/5a/72/3c5a72c3-6a19-e7a8-362c-2cbadf58d2fe/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T06:36:12.774Z
+Categories:
+
+
+Name: Blocs - Website Builder
+Url: https://testflight.apple.com/join/B4bn2vEz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e9/be/97e9be72-3d38-f7e0-df09-b07b47e1145a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T06:36:12.811Z
+Categories:
+
+
+Name: Jetpack for WordPress
+Url: https://testflight.apple.com/join/AZG7g4Bg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/cd/4c/80cd4c81-dddd-f1f0-c70b-263b9ce1946b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 41
+Beta Available: open
+Last Checked: 2024-06-07T06:36:12.846Z
+Categories:
+
+
+Name: Icons Of Theia: Tactical RPG
+Url: https://testflight.apple.com/join/XZYouium
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2c/e3/bb/2ce3bba0-c3ea-315d-ec2c-1b08a415d914/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T06:36:12.914Z
+Categories:
+
+
