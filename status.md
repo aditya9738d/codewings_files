@@ -8071,3 +8071,120 @@ Last Checked: 2024-06-07T08:30:50.502Z
 Categories:
 
 
+Name: Light of Coco
+Url: https://testflight.apple.com/join/nURS8Hx2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/e1/29/63e1295f-0a19-710a-24d7-fccf26491829/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.073Z
+Categories:
+
+
+Name: Vilja
+Url: https://testflight.apple.com/join/7s1wL3HL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/79/91/c0799189-bbcd-15f5-f6d8-8c6cabb23734/AppIcon-0-1x_U007emarketing-0-3-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.108Z
+Categories:
+
+
+Name: Ease-Amind
+Url: https://testflight.apple.com/join/Acq7jDLi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/73/b8/3d73b88c-cd60-a89b-7b6e-e711b1cefcd9/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.143Z
+Categories:
+
+
+Name: daoStk
+Url: https://testflight.apple.com/join/0FKLLJMM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/d0/44/d4d0443d-a4c1-68f8-8e53-8a1f0a3697e9/AppIcon-1x_U007ephone-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.178Z
+Categories:
+
+
+Name: Misty beta
+Url: https://testflight.apple.com/join/S6spJXQ1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/53/8a/ae538a64-d541-de81-4f4d-7a2c957fe2da/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.213Z
+Categories:
+
+
+Name: Store Card Wallet: Barcode Pal
+Url: https://testflight.apple.com/join/bD6QW9pJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/51/99/5d519970-d6cb-0f8d-4613-5e9a6ee27156/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T08:33:06.248Z
+Categories:
+
+
+Name: Grid 2.0 UAT
+Url: https://testflight.apple.com/join/Dv2pvGuI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/e0/22/e7e0229a-aca8-c98a-1fc9-4dcc3eae723c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.284Z
+Categories:
+
+
+Name: Crumbl Crew 2
+Url: https://testflight.apple.com/join/qGimPVP4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/93/4c/3c/934c3ce0-b376-c807-029f-fd71d860b332/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.318Z
+Categories:
+
+
+Name: Jakdojade - Timetables
+Url: https://testflight.apple.com/join/GAW1eZXA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/3c/dd/ad3cdd43-c197-8112-9498-38ae44efd072/AppIcon-Free-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.353Z
+Categories:
+
+
+Name: SHWDWN BETA
+Url: https://testflight.apple.com/join/oZXB1aNA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/22/0c/69/220c69f2-d0c0-1140-34b1-0e69a6884191/AppIcon-beta-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.388Z
+Categories:
+
+
+Name: Qobuz: Music & Editorial
+Url: https://testflight.apple.com/join/GPJZwnh9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/83/e6/d483e6f5-72e6-0379-9905-a30d6dfc9d96/AppIcon-Release-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.424Z
+Categories:
+
+
+Name: Dr.'s Prime Work
+Url: https://testflight.apple.com/join/jzUuNNXI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/27/5e/60275e5f-1194-32e6-acd1-659c30e7f00f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.459Z
+Categories:
+
+
+Name: tv Deeplinks
+Url: https://testflight.apple.com/join/7jcRh9fo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/09/fd/4f09fde2-dcea-77a8-f687-9d63afe9342d/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:33:06.494Z
+Categories:
+
+
