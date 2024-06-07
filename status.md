@@ -5731,3 +5731,120 @@ Last Checked: 2024-06-07T17:41:11.653Z
 Categories:
 
 
+Name: geteduroam
+Url: https://testflight.apple.com/join/80AujtVR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/6a/8c/dc6a8cbc-ac65-7c81-d659-b6b97afec3b4/AppIcon-0-1x_U007epad-0-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.068Z
+Categories:
+
+
+Name: iOPENMall Release Test
+Url: https://testflight.apple.com/join/Lp1GtsQW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/84/bb/cd/84bbcd8e-b0d7-cef7-67e3-055a28bad841/AppIconRelease-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.104Z
+Categories:
+
+
+Name: Mauju Invoice
+Url: https://testflight.apple.com/join/mWcEDPFo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/7b/7f/107b7f7e-3aa3-587a-0bbc-9bb0e337c9dc/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.140Z
+Categories:
+
+
+Name: Rouge Pro
+Url: https://testflight.apple.com/join/ipi8WkjL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/42/92/d142925c-cb96-683d-c52d-f1399ebaa45e/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.177Z
+Categories:
+
+
+Name: Tara App
+Url: https://testflight.apple.com/join/n0qbbDrs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/a5/35/c0a535df-a1b0-adc1-8963-882c4ac7002e/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.213Z
+Categories:
+
+
+Name: Orbi Alpha
+Url: https://testflight.apple.com/join/Lyd4vG3f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/a7/44/3aa74414-bcc3-df78-35c2-812194ac0fd0/AppIconOrbiAlpha-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.249Z
+Categories:
+
+
+Name: Daysy
+Url: https://testflight.apple.com/join/hSlpfpd2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6f/71/b2/6f71b2c4-265d-3112-c688-3935e2a6eabc/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.285Z
+Categories:
+
+
+Name: ONE Driver Application
+Url: https://testflight.apple.com/join/4ny3vkgs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/91/9b/00919b2d-f9d3-5fc8-365a-aa4878240e16/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.321Z
+Categories:
+
+
+Name: VirtualDJ Remote
+Url: https://testflight.apple.com/join/0RISY4X1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/a4/89/e7a489bd-8d9b-0ccb-03bf-dc5b126f422f/AppIcon-0-0-1x_U007emarketing-0-7-0-GLES2_U002c0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.358Z
+Categories:
+
+
+Name: Stern Todo
+Url: https://testflight.apple.com/join/N2pPLJW4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/12/ea/8612ea52-edde-2ef6-c277-0e8095077071/AppIcon-defualt-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.394Z
+Categories:
+
+
+Name: Unique Health
+Url: https://testflight.apple.com/join/kwlzf7WJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/5b/5e/e25b5efb-419f-109e-25f8-db8741e6c00e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.430Z
+Categories:
+
+
+Name: SoundHunters App
+Url: https://testflight.apple.com/join/lV32lz89
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/38/9f/84389f13-212b-6aa9-b451-6a46e8b4557b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.467Z
+Categories:
+
+
+Name: Benchmark Workout Tracker
+Url: https://testflight.apple.com/join/xi23tiNn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/fc/1e/f7fc1ea4-80fc-95ef-d8ba-75bab424aaf0/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:42:11.512Z
+Categories:
+
+
