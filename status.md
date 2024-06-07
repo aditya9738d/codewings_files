@@ -4912,3 +4912,120 @@ Last Checked: 2024-06-07T12:43:12.001Z
 Categories:
 
 
+Name: AutoZoomFlutter
+Url: https://testflight.apple.com/join/sYyHEn8m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/96/f5/d796f535-fddf-3349-00ae-cbc6d09d4d27/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T12:44:11.451Z
+Categories:
+
+
+Name: Autofy App
+Url: https://testflight.apple.com/join/x4CJwNFp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/9b/7e/ea9b7e1d-3568-6a3d-08fc-94e5839167a5/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-07T12:44:11.487Z
+Categories:
+
+
+Name: Automanual for YNAB
+Url: https://testflight.apple.com/join/9gH57dyB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/48/38/79483808-71dc-853b-618f-cbbc07ac9916/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T12:44:11.522Z
+Categories:
+
+
+Name: Automatic Timetracking
+Url: https://testflight.apple.com/join/3wWIxvJj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/fd/10/c6fd1049-c47e-2ada-9841-ab052740b45f/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T12:44:11.558Z
+Categories:
+
+
+Name: Avatar Land
+Url: https://testflight.apple.com/join/6lyeXvj5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fa/91/c5/fa91c5b6-8e2e-8c15-ed35-d755b43c5f83/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-07T12:44:11.593Z
+Categories:
+
+
+Name: Avatour: Khám phá chất bản địa
+Url: https://testflight.apple.com/join/zCTMbACx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/79/37/06/79370603-05b5-d855-4720-75f70bf8df83/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T12:44:11.630Z
+Categories:
+
+
+Name: Aventon
+Url: https://testflight.apple.com/join/R285EnR0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/50/86/79/50867916-3910-0c8a-3636-201045e38a6e/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:44:11.666Z
+Categories:
+
+
+Name: Avery Dennison
+Url: https://testflight.apple.com/join/VSqKSAWS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/1b/48/aa1b4849-99fc-e88c-4c3e-763e882dbf9b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T12:44:11.702Z
+Categories:
+
+
+Name: Avgeek - Log Flights
+Url: https://testflight.apple.com/join/GUZ8oaj9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/58/89/ab588983-d92b-5d2c-7899-127ff9197efa/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-07T12:44:11.738Z
+Categories:
+
+
+Name: Avive: Token Gated Community
+Url: https://testflight.apple.com/join/ydS1vH43
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/c8/f1/5bc8f104-a802-e3e7-c773-6db3450bae3f/AppIcon-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T12:44:11.774Z
+Categories:
+
+
+Name: Awaken Portfolio
+Url: https://testflight.apple.com/join/RxFrqbfX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/93/88/45/938845e9-e530-c70f-847f-b5e8adf4590d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T12:44:11.810Z
+Categories:
+
+
+Name: B+
+Url: https://testflight.apple.com/join/LCSVht3g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/11/d6/c511d649-ae66-f694-805a-32a3df6891f0/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T12:44:11.845Z
+Categories:
+
+
+Name: BBX ST
+Url: https://testflight.apple.com/join/S3gNxLz8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/21/49/4b21495f-a1d8-4d36-e748-8299136bca50/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:44:11.882Z
+Categories:
+
+
