@@ -28085,3 +28085,120 @@ Last Checked: 2024-06-07T07:11:09.547Z
 Categories:
 
 
+Name: Just Timers
+Url: https://testflight.apple.com/join/pyzrz0oT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/15/02/75150277-28b4-f747-5789-c02987befea3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.513Z
+Categories:
+
+
+Name: PickerPlus
+Url: https://testflight.apple.com/join/GBoH8MuG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/69/15/a3/6915a36d-c347-84b3-1ab0-be1d83c89db8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.551Z
+Categories:
+
+
+Name: Birds Evolution
+Url: https://testflight.apple.com/join/zS7REa05
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/86/ef/2f86effc-4e6d-b5fc-1ced-23ec3bac0a38/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.588Z
+Categories:
+
+
+Name: SubWallet - Polkadot Wallet
+Url: https://testflight.apple.com/join/ZW3pUbWj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/1b/bc/1e1bbcdd-2ea3-6767-dcaf-282a07457854/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.625Z
+Categories:
+
+
+Name: Met Office Weather Forecast
+Url: https://testflight.apple.com/join/MIUMNYDz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/0f/51/e30f51a3-618a-8c43-98af-786eb53e49f5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.662Z
+Categories:
+
+
+Name: Forbes
+Url: https://testflight.apple.com/join/E8Tgou8D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/7b/73/5f7b73dc-36cb-1b1e-18d1-318632840958/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.698Z
+Categories:
+
+
+Name: SWIPE The App
+Url: https://testflight.apple.com/join/BnYiqRzA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/dd/c8/77ddc870-ed2b-a5b3-cfba-6dcd4fd26451/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.734Z
+Categories:
+
+
+Name: NOMA - Manchester
+Url: https://testflight.apple.com/join/sasHE2GQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/53/4e/69534e78-1d3a-f3aa-2dd4-59ef24f17ad5/AppIcon-noma-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.770Z
+Categories:
+
+
+Name: Coffee Notes by Fecapp
+Url: https://testflight.apple.com/join/p51EEPOE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/82/5e/db825e91-ef95-eca4-c21b-86195a887c01/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.807Z
+Categories:
+
+
+Name: Hala-Providers
+Url: https://testflight.apple.com/join/HIeNvHGW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/a9/8b/8ea98bb4-c199-859c-ac2e-da916b20a5bb/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.843Z
+Categories:
+
+
+Name: Xiaomi Kids
+Url: https://testflight.apple.com/join/YAdTqF1G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/00/9c/49009cda-56e7-8632-fdad-3b71e1e2dd5d/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.880Z
+Categories:
+
+
+Name: Zepp Clarity
+Url: https://testflight.apple.com/join/JVUsHOTa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b9/8f/c5/b98fc569-4b0b-f653-0a20-a0d99a898fb7/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.916Z
+Categories:
+
+
+Name: Daily Schedule Planner - Myday
+Url: https://testflight.apple.com/join/WtpRtuGC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/4b/03/fb4b0336-1f09-490b-b996-9795cffab178/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:12:12.952Z
+Categories:
+
+
