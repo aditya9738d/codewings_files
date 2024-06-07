@@ -24685,3 +24685,120 @@ Last Checked: 2024-06-07T20:37:11.254Z
 Categories:
 
 
+Name: Brew Meister: Measure & Manage
+Url: https://testflight.apple.com/join/LBlwlHNg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/96/04/38960464-d4d6-dc1b-576a-470ca2a07890/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.427Z
+Categories:
+
+
+Name: [UAT] McDonald’s Japan
+Url: https://testflight.apple.com/join/PbVDlHka
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/23/11/83231123-dc82-89a0-2f10-66289fadd9d7/AppIcon-UAT-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.454Z
+Categories:
+
+
+Name: Chelsea FC - The 5th Stand
+Url: https://testflight.apple.com/join/qtkzWwi8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/af/78/9caf7805-0f16-98da-6b9c-6fbdb32e0bd6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T20:38:12.483Z
+Categories:
+
+
+Name: Fountain: Podcast Player
+Url: https://testflight.apple.com/join/42UIoIzi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8c/2e/f88c2ec9-9125-5a1b-3932-a234c956a155/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.522Z
+Categories:
+
+
+Name: Law Companion Express
+Url: https://testflight.apple.com/join/NdBpFoOT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/49/93/2b4993ec-24cf-65db-047f-77f657c42a12/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.562Z
+Categories:
+
+
+Name: Police Scanner Radio & Fire
+Url: https://testflight.apple.com/join/uKCjxQNM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/54/9d/79549dcb-b870-e80f-0223-41e11e379221/AppIcon-2-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.590Z
+Categories:
+
+
+Name: Connect-It 365 Inspectie app
+Url: https://testflight.apple.com/join/xpVS2BSb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/7f/a8/567fa8ed-83e2-3a38-4ce4-94ac6929b42a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.618Z
+Categories:
+
+
+Name: Happy Treasure
+Url: https://testflight.apple.com/join/eKNJoc6b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/d1/6c/3fd16cdf-60b1-28be-d555-d30539fd6f2f/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.646Z
+Categories:
+
+
+Name: ProjectCura
+Url: https://testflight.apple.com/join/S6RYM0gg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/88/84/b8888406-d89c-0c8c-181d-16f4a22ed626/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.674Z
+Categories:
+
+
+Name: Comes
+Url: https://testflight.apple.com/join/XO5Gw5WU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/bd/68/4abd687a-0f91-9aba-c4c5-965d3b04fe8b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.702Z
+Categories:
+
+
+Name: Sheet
+Url: https://testflight.apple.com/join/YxROrjRM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/f2/e1/a4f2e189-cdb9-eddf-c426-2e9f684f3638/AppIcon-Mac-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.731Z
+Categories:
+
+
+Name: Insight Growth: Be Better
+Url: https://testflight.apple.com/join/omVEGyIb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/c2/60/abc260f2-483d-1c5b-d604-c71222f0ffc1/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.759Z
+Categories:
+
+
+Name: Skype
+Url: https://testflight.apple.com/join/fB5IkJT7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/4a/79/d04a7907-af35-331c-0dbe-dba23ce7951b/AppIcon.insiders-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:38:12.787Z
+Categories:
+
+
