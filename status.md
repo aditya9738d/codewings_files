@@ -6784,3 +6784,120 @@ Last Checked: 2024-06-07T12:59:12.864Z
 Categories:
 
 
+Name: ConnectUI - Apps Sales Reports
+Url: https://testflight.apple.com/join/SL1E10Ar
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/ac/56/56ac561c-564b-d561-3c1f-90a41a261664/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T13:00:53.591Z
+Categories:
+
+
+Name: ConstCash
+Url: https://testflight.apple.com/join/J8ZGt0bI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/cf/14/90cf14ff-dbb9-5d83-fb12-bfb91daad579/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-07T13:00:53.620Z
+Categories:
+
+
+Name: Contacts - Reinvented
+Url: https://testflight.apple.com/join/JlHJj8mN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/10/08/aa/1008aa3d-36e0-a440-8eed-4345c46f53f7/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T13:00:53.647Z
+Categories:
+
+
+Name: Controlled—ControlD Client
+Url: https://testflight.apple.com/join/DsiP91S8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/55/f0/4b55f0cd-eb39-f674-6ee0-087203960648/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T13:00:53.676Z
+Categories:
+
+
+Name: Converse PREVIEW
+Url: https://testflight.apple.com/join/70v1Rvv5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/39/36/75/393675c1-debe-6eb8-86c3-9bb212c9c301/AppIconPreview-0-0-1x_U007epad-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T13:00:53.704Z
+Categories:
+
+
+Name: Converter: private photo vault
+Url: https://testflight.apple.com/join/SyDmR4Rg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/b5/6a/3eb56a6c-31eb-c9cb-be16-fbbaf98dd928/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T13:00:53.732Z
+Categories:
+
+
+Name: Coop-App
+Url: https://testflight.apple.com/join/mfN4mZL7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/23/06/8d/23068d0d-a8d3-e1cc-1671-88ee67d985ca/AppIcon-0-0-1x_U007emarketing-0-2-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T13:00:53.760Z
+Categories:
+
+
+Name: Coop: Tech for Happy Chickens
+Url: https://testflight.apple.com/join/XtaIPI55
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/b8/12/cbb81222-fe36-ca42-36c0-4301e77710f6/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T13:00:53.789Z
+Categories:
+
+
+Name: Coppice Growth Journal
+Url: https://testflight.apple.com/join/yXKr57lt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/b3/d3/7eb3d3e5-2a04-56a5-94cb-18b1d0c7708c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T13:00:53.818Z
+Categories:
+
+
+Name: Coptic Sunday School
+Url: https://testflight.apple.com/join/VrilDgy1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0b/f0/b0/0bf0b094-1dc6-caf0-762f-cddc78caae4b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T13:00:53.846Z
+Categories:
+
+
+Name: Corner: curate & share places
+Url: https://testflight.apple.com/join/Nb7Meg0r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/01/a8/ae01a85c-e9d1-b4a7-d5f1-d631a8301874/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T13:00:53.873Z
+Categories:
+
+
+Name: Corona Fit
+Url: https://testflight.apple.com/join/bQuYvtEI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/49/e7/8f49e731-d2a4-0155-d448-6452b223d92d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T13:00:53.901Z
+Categories:
+
+
+Name: CosyBuilding
+Url: https://testflight.apple.com/join/qk32DtdB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7d/65/12/7d651226-35e0-ccfc-45b4-2a9828011f6b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T13:00:53.930Z
+Categories:
+
+
