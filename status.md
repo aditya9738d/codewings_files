@@ -14155,3 +14155,120 @@ Last Checked: 2024-06-07T09:24:10.549Z
 Categories:
 
 
+Name: RegioBank
+Url: https://testflight.apple.com/join/BVkiZacv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/ad/63/d7ad6301-057e-adec-98c5-29e0114aecba/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:25:19.985Z
+Categories:
+
+
+Name: Jurnalle
+Url: https://testflight.apple.com/join/rpiFzOZF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/00/e7/5d/00e75d08-1adf-1b23-49b0-c9838442f485/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.020Z
+Categories:
+
+
+Name: Retail Suite
+Url: https://testflight.apple.com/join/kuVd8Fuq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/a8/aa/a0a8aac7-3428-ca90-6dcb-bd6e85839135/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.056Z
+Categories:
+
+
+Name: NextStats
+Url: https://testflight.apple.com/join/9a4X8KBQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/7e/92/527e92c0-225f-b1e9-e736-ab29db6c2c68/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.091Z
+Categories:
+
+
+Name: vokiemus
+Url: https://testflight.apple.com/join/sbLruW6l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/14/27/af1427a8-26c8-8916-1513-486cbc70afa3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.127Z
+Categories:
+
+
+Name: iDMS.Nazzy
+Url: https://testflight.apple.com/join/sWI9SK87
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/91/56/b9915624-71e6-4059-9bb7-c820ff8ade81/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.162Z
+Categories:
+
+
+Name: FRITZ!App Smart Home
+Url: https://testflight.apple.com/join/kzVJhIg1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/84/ee/a084ee4e-5c4c-520a-2a22-87172ab00260/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.197Z
+Categories:
+
+
+Name: Capacities
+Url: https://testflight.apple.com/join/agRhmlby
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/22/c0/da22c037-692e-2b6d-4762-6e71a6361cbd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.232Z
+Categories:
+
+
+Name: BeauTech2
+Url: https://testflight.apple.com/join/LbpX2l7O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/d5/41/ccd541b6-fe3a-6e7d-3e4a-0603977a5739/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.267Z
+Categories:
+
+
+Name: NL Classifieds: Shop Local
+Url: https://testflight.apple.com/join/mgBYidoN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/72/34/6b7234ce-a7e8-2453-048b-e6e3e8e08a4a/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.302Z
+Categories:
+
+
+Name: PLAY SWING
+Url: https://testflight.apple.com/join/3TsNwhkd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/f8/bd/88f8bd2b-70cd-de41-f596-c6adfebeff67/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.338Z
+Categories:
+
+
+Name: Roon Remote
+Url: https://testflight.apple.com/join/uyG60hp2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/e4/5f/87e45fe5-8361-4096-59df-a48afbd73182/AppIcons-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.374Z
+Categories:
+
+
+Name: Strongineering
+Url: https://testflight.apple.com/join/1zhF7cmn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/8b/79/838b7905-d4aa-328b-2513-d7f623ed6c3b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:25:20.409Z
+Categories:
+
+
