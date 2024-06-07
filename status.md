@@ -18601,3 +18601,120 @@ Last Checked: 2024-06-07T01:35:20.697Z
 Categories:
 
 
+Name: mobicom
+Url: https://testflight.apple.com/join/YJSr30hu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/a3/56/15a3562d-6e1d-b44b-bce5-2101c80583f3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.301Z
+Categories:
+
+
+Name: Imperans
+Url: https://testflight.apple.com/join/cRXeF8OC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/4a/e3/0a4ae355-50d9-baae-f25c-e9df3a7b8bc3/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.331Z
+Categories:
+
+
+Name: Tuned Global Demo
+Url: https://testflight.apple.com/join/9m8ISI1w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/29/11/5b/29115b86-3a08-31e3-8a4a-314330bb23e8/AppIconDemo-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.361Z
+Categories:
+
+
+Name: Smart Industry - IoT Solution
+Url: https://testflight.apple.com/join/bjGyWXnj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/23/24/02/232402f5-ff9b-3a46-8c5b-9a2add528461/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.389Z
+Categories:
+
+
+Name: OPEN SuperApp
+Url: https://testflight.apple.com/join/O4dOEWed
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/64/55/e864557a-8eab-4d0b-a66e-dcfce4da36ff/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.419Z
+Categories:
+
+
+Name: WiseCRM365
+Url: https://testflight.apple.com/join/Gh4sPVC3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/7e/1f/e67e1f72-c063-595e-f13f-865f66e7e400/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.448Z
+Categories:
+
+
+Name: Kolumbus
+Url: https://testflight.apple.com/join/96HAjNXJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/58/85/eb5885dd-9e57-820e-b606-e66e18df38f4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.477Z
+Categories:
+
+
+Name: Pashouses Sales Portal
+Url: https://testflight.apple.com/join/cFa1rdON
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/75/03/b87503da-6245-a2db-7cb3-9b8beb07f9f9/AppIcon-production-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.506Z
+Categories:
+
+
+Name: Square Invoices: Invoice Maker
+Url: https://testflight.apple.com/join/6kzaqhuF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/df/ce/f2dfce4c-77e7-7a4d-0cd2-717ad81f4bae/AppIcon-AppStore-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.535Z
+Categories:
+
+
+Name: Aartas-ConnectPlus
+Url: https://testflight.apple.com/join/vINAz0J7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/45/9b/e2/459be2e2-6490-edfd-1517-8288456bc443/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.565Z
+Categories:
+
+
+Name: Overland GPS Tracker
+Url: https://testflight.apple.com/join/6UD8Jcvz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/ce/d6/afced67d-7fde-d7e7-b8cf-b97e8d599308/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.594Z
+Categories:
+
+
+Name: HCL Verse
+Url: https://testflight.apple.com/join/ICw74nJw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/69/31/ad693115-82ce-990f-674f-eef0c67f54fd/AppIconExternal-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.623Z
+Categories:
+
+
+Name: AgoraLabs
+Url: https://testflight.apple.com/join/MgzoWZvV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/e5/b6/5ce5b65e-be2c-8b38-3e3b-373966b5a010/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:36:14.652Z
+Categories:
+
+
