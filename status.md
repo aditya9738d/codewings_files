@@ -8890,3 +8890,120 @@ Last Checked: 2024-06-07T00:04:11.032Z
 Categories:
 
 
+Name: RFOX VALT
+Url: https://testflight.apple.com/join/bPUkXcr3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/54/4f/8b/544f8bac-9f2a-9a75-9974-18c4e6fa96b7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-07T00:05:17.949Z
+Categories:
+
+
+Name: Memoro
+Url: https://testflight.apple.com/join/WQr1JiWh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/5f/90/e95f90d8-9019-672d-d7ec-697090adbaae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-07T00:05:17.985Z
+Categories:
+
+
+Name: Metanote-beta
+Url: https://testflight.apple.com/join/pAYGdOQe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/13/35/b41335a5-d580-3af6-d869-d144b86371be/AppIcon_beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T00:05:18.021Z
+Categories:
+
+
+Name: THE FIRE Creator
+Url: https://testflight.apple.com/join/CHBIkPpV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/bc/c8/6cbcc840-f0a1-a3d6-4aca-5caeb84622cd/AppIcon-Prd-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:05:18.058Z
+Categories:
+
+
+Name: Mobile CDP
+Url: https://testflight.apple.com/join/7jPTTAYj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/fc/f5/3ffcf563-df8a-2773-18b0-3c6375fbf333/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:05:18.094Z
+Categories:
+
+
+Name: Graph Theorist
+Url: https://testflight.apple.com/join/sPstVIxn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/47/dd/ef47ddf7-1070-b616-7c99-82d7d995c5dd/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:05:18.131Z
+Categories:
+
+
+Name: mytonies
+Url: https://testflight.apple.com/join/8FxA7laF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/67/64/21/676421b9-c166-4d23-0b36-6cab8ad5b29e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T00:05:18.168Z
+Categories:
+
+
+Name: Open Trickler
+Url: https://testflight.apple.com/join/1XSoUPL3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/63/6d/3c636de1-d418-7ac2-1184-7afcf91b9b2e/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:05:18.205Z
+Categories:
+
+
+Name: O-KAM Pro
+Url: https://testflight.apple.com/join/3wVU0q2A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ef/20/4aef2092-9d48-0346-c61b-404503613443/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:05:18.241Z
+Categories:
+
+
+Name: AeonMallCsDev
+Url: https://testflight.apple.com/join/y0mUVG2r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/f7/22/98f7227d-2e8e-5f4e-ccab-8abbe4e8972e/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:05:18.278Z
+Categories:
+
+
+Name: FACEIT - Challenge your Game
+Url: https://testflight.apple.com/join/TZY7YS9K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/fc/56/17fc5654-529f-0c35-b7fa-a8af8dc90fc7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:05:18.315Z
+Categories:
+
+
+Name: Tourific: Audio and AR Tours
+Url: https://testflight.apple.com/join/wpYebzTb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/73/12/8d73126e-5766-fec9-accc-d9730af00bc5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:05:18.352Z
+Categories:
+
+
+Name: DDV-PMS
+Url: https://testflight.apple.com/join/PNw4Pt5z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5e/fe/7c/5efe7cdd-a303-4811-2ee4-acf5040972d3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:05:18.389Z
+Categories:
+
+
