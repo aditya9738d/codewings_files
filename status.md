@@ -15910,3 +15910,120 @@ Last Checked: 2024-06-07T14:27:13.126Z
 Categories:
 
 
+Name: Stampede V6
+Url: https://testflight.apple.com/join/a1q1PpDx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/af/13/2baf13be-8031-5158-437f-2d9052bcd552/AppIconLive-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T14:28:14.277Z
+Categories:
+
+
+Name: Starkeeper
+Url: https://testflight.apple.com/join/37q6squK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/41/de/0641dec3-f063-f064-f27c-2d9591d33d16/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 11
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.304Z
+Categories:
+
+
+Name: Starvara Battle Royale
+Url: https://testflight.apple.com/join/WhZDJ4Xw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2c/a4/73/2ca4736d-e688-4f30-3349-d5302296006d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.333Z
+Categories:
+
+
+Name: StellarMate
+Url: https://testflight.apple.com/join/yPEDodh6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/3d/ba/e03dbaa8-8156-8804-5a3a-8db0784d85e4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.361Z
+Categories:
+
+
+Name: Step Ring
+Url: https://testflight.apple.com/join/1hLiQ9vs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/c9/ed/8ac9ed5c-f622-792d-c9b5-a9ac1704459c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.389Z
+Categories:
+
+
+Name: Stoop inc
+Url: https://testflight.apple.com/join/nqHfoLin
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2f/df/a3/2fdfa3bb-8e70-58a7-cc29-920dcae00896/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.417Z
+Categories:
+
+
+Name: Stop Motion Studio Pro
+Url: https://testflight.apple.com/join/rfWbdRvr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/45/63/fb4563a9-ff7c-d29d-5fea-582707359db5/Stop_Motion_Studio_Pro_AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.444Z
+Categories:
+
+
+Name: StopwatchDevelop
+Url: https://testflight.apple.com/join/rQTvK01U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/f3/58/51f3586f-36dd-6dc7-08e0-dad202113f1d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.471Z
+Categories:
+
+
+Name: StreamCam for OBS & Streamlabs
+Url: https://testflight.apple.com/join/G2nWjlsH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/e6/f1/79e6f1bb-3f60-524b-3a2d-add91c6f5ad5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.499Z
+Categories:
+
+
+Name: Streamsaver - Stream Companion
+Url: https://testflight.apple.com/join/QYe4O6Tr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b5/d5/8f/b5d58f91-71da-e7e0-8e94-f68b2d343a92/stylized-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.526Z
+Categories:
+
+
+Name: StreetBookies
+Url: https://testflight.apple.com/join/ycSUylsI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/af/44/67/af446736-d794-6044-d75c-77d3277ee60b/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.554Z
+Categories:
+
+
+Name: Strides: Habit Tracker + Goals
+Url: https://testflight.apple.com/join/yf1QglKW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/92/29/d4/9229d403-b858-3020-3510-38377dd436b6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.582Z
+Categories:
+
+
+Name: Strings Catalog Translator
+Url: https://testflight.apple.com/join/JcKYYGab
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/ba/a9/0fbaa918-b1b2-3ed5-9ca6-82e834b5895e/AppIcon-0-0-2x_U007euniversal-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:28:14.609Z
+Categories:
+
+
