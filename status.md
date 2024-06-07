@@ -14740,3 +14740,120 @@ Last Checked: 2024-06-07T19:02:14.143Z
 Categories:
 
 
+Name: MyCHIPs
+Url: https://testflight.apple.com/join/5IP35ipV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/40/c3/7d40c358-d097-ba7d-370a-1635f5419ac9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.345Z
+Categories:
+
+
+Name: Connectcz
+Url: https://testflight.apple.com/join/ScBdVqMB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/71/5b/19715bf0-4c39-bdd2-fdcc-9adfa96d6665/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.373Z
+Categories:
+
+
+Name: shanglifetest
+Url: https://testflight.apple.com/join/9c3C2Nz6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/de/9a/26/de9a269e-0943-db8d-b8b6-01515d60f3fe/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.401Z
+Categories:
+
+
+Name: MyAlerts App
+Url: https://testflight.apple.com/join/JiSE19LD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/61/d4/a761d455-406e-4236-978a-da77d8cf1cc5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.429Z
+Categories:
+
+
+Name: GetFitMining
+Url: https://testflight.apple.com/join/o76OlpiH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/53/fc/2453fccd-fa83-6fbf-4281-2ac6a1e9f2f5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.457Z
+Categories:
+
+
+Name: iToolsGoV2
+Url: https://testflight.apple.com/join/gBfoWaqS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/66/60/27/666027d7-7c59-4b99-f274-ef01eb86ee6b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.485Z
+Categories:
+
+
+Name: Tadhamon Mobile
+Url: https://testflight.apple.com/join/teSJtU3V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/27/43/d4/2743d4d0-866e-b8cb-35bb-ed1be3a87cb7/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.512Z
+Categories:
+
+
+Name: TC Order
+Url: https://testflight.apple.com/join/BWG7NN4O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/77/20/f7/7720f79b-4bb2-2807-295c-069026635dd3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.540Z
+Categories:
+
+
+Name: FITURE
+Url: https://testflight.apple.com/join/YlBphdyO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e3/69/a1/e369a111-f86c-7f5e-3f3f-6d25b58b7c5d/AppIconS31-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T19:03:11.568Z
+Categories:
+
+
+Name: Agnoplay
+Url: https://testflight.apple.com/join/jVlNKkPz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/02/d2/7d02d26f-fa39-7972-b835-8a1e4f0b82dc/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.595Z
+Categories:
+
+
+Name: EmployeeApp - UAT
+Url: https://testflight.apple.com/join/qXmnCDEV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6a/05/07/6a050793-eb9f-7fa1-3749-2ef19d13f271/AppIcon-dev-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.623Z
+Categories:
+
+
+Name: Pizza Hut Philippines
+Url: https://testflight.apple.com/join/f3VB9PaB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/03/b4/0a03b495-b538-2bf0-5463-8adaf7d477a5/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.651Z
+Categories:
+
+
+Name: Helios Scanning
+Url: https://testflight.apple.com/join/xDtRI9Mw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/8b/87/088b8712-4e16-3937-c5ee-41f1d0806370/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:03:11.679Z
+Categories:
+
+
