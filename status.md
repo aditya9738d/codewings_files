@@ -15208,3 +15208,120 @@ Last Checked: 2024-06-07T14:19:10.691Z
 Categories:
 
 
+Name: Showplaces
+Url: https://testflight.apple.com/join/803WP9We
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/06/38/950638f6-f8da-23e4-a914-bb7db02f652e/MainAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:26.723Z
+Categories:
+
+
+Name: Shred Crew
+Url: https://testflight.apple.com/join/S4vpMXJQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5d/9c/d7/5d9cd76f-7920-4827-4de2-4a1a76e453e1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:26.752Z
+Categories:
+
+
+Name: Shuffle: Connecting students
+Url: https://testflight.apple.com/join/ngNRJnuz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/00/d4/4700d421-3dfd-f1f0-2b3c-4cbca76c1a3f/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:26.782Z
+Categories:
+
+
+Name: Siglota-Test
+Url: https://testflight.apple.com/join/OmeNBe5T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/d0/43/4fd043da-ca88-15be-3dde-62276d07b79c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:26.811Z
+Categories:
+
+
+Name: SignScribe
+Url: https://testflight.apple.com/join/yeW1EozJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/53/b3/90/53b39084-1d01-d058-f0f5-0b12f532bfa2/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:26.840Z
+Categories:
+
+
+Name: Signicat - Assure Demo
+Url: https://testflight.apple.com/join/30TXS7EW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/c3/ad/d3c3ad97-1f84-6a95-b018-e0dfc8ce232b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:26.870Z
+Categories:
+
+
+Name: Simma
+Url: https://testflight.apple.com/join/deHG8B69
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/4f/f0/ec4ff09a-d18a-7c73-7307-7a89b13a764e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:26.898Z
+Categories:
+
+
+Name: Simmer: Cooking for Couples
+Url: https://testflight.apple.com/join/Or7k1QLU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/64/1c/f3641ceb-40f4-cf3b-12f9-5af3c0f0010b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:26.928Z
+Categories:
+
+
+Name: Simple CrossFit WOD tracker
+Url: https://testflight.apple.com/join/HzFsNZ3A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/5e/58/ad5e5841-02ea-0e06-3f35-e50862eebdd6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:26.957Z
+Categories:
+
+
+Name: Simple LLM
+Url: https://testflight.apple.com/join/CTeTrDSH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0d/b5/11/0db51152-7940-4c6d-b998-c5015444f1dd/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:26.987Z
+Categories:
+
+
+Name: Simple Player For VisionOS
+Url: https://testflight.apple.com/join/lxythkF5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/c3/6c/fdc36c3c-90a6-f9e9-9eed-5f75c4ab06e1/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:27.015Z
+Categories:
+
+
+Name: Simple Practice
+Url: https://testflight.apple.com/join/pEWVpfVM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/4b/e7/cb4be78c-eab3-7f0b-fd93-035801a90753/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:27.044Z
+Categories:
+
+
+Name: SimpleMusic Transfer
+Url: https://testflight.apple.com/join/SUgkyY4I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/75/89/f7/7589f70d-de25-e9b2-a915-d839915bfd7a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:20:27.072Z
+Categories:
+
+
