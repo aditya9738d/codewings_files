@@ -25270,3 +25270,120 @@ Last Checked: 2024-06-07T02:35:22.399Z
 Categories:
 
 
+Name: Hermannpost
+Url: https://testflight.apple.com/join/XpbGU0R8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/58/30/7a583048-96bf-4ba9-6241-55021d33b4e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.533Z
+Categories:
+
+
+Name: Zerodha Kite - Trade & Invest
+Url: https://testflight.apple.com/join/Z8a3CqcZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/98/a4/99/98a49943-0b47-5b7e-a036-0d4af8b6fd20/KiteAppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.569Z
+Categories:
+
+
+Name: CoScribes
+Url: https://testflight.apple.com/join/bCGrPgLb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/cd/41/72cd415d-631a-2918-8636-66d4b9a52f3b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.605Z
+Categories:
+
+
+Name: Grazie for Safari
+Url: https://testflight.apple.com/join/XjmWmmHB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/77/77/bf777745-e86d-aec8-73e1-be6e6224eb7c/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.641Z
+Categories:
+
+
+Name: BAL Connect Alpha (Staging)
+Url: https://testflight.apple.com/join/l4hVapAJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/5c/8a/5e5c8aa8-04a3-cebc-686e-0f06a4c8f6ac/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.677Z
+Categories:
+
+
+Name: Galxe
+Url: https://testflight.apple.com/join/bF15toL9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/6c/9f/636c9f3a-e7ae-8508-34cd-eb39ef3eb4d9/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-07T02:37:09.713Z
+Categories:
+
+
+Name: Sky X
+Url: https://testflight.apple.com/join/emExEMm6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f6/bb/9df6bba5-090e-e080-c5c3-cb9f84138c46/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.749Z
+Categories:
+
+
+Name: Mayo Clinic (STAGE)
+Url: https://testflight.apple.com/join/xBeWbWiv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/d5/28/a3d528d2-7995-d415-f681-39fe21ab1a28/AppIcon-TESTRELEASE-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.785Z
+Categories:
+
+
+Name: 1st for Women - SIT
+Url: https://testflight.apple.com/join/1zvvw6kh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/98/94/47989469-fd5b-3283-675f-c6c3ba675389/AppIcons-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.822Z
+Categories:
+
+
+Name: WeatherDate
+Url: https://testflight.apple.com/join/fLKrfyWT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/d9/e3/6ad9e3fe-57b8-46d3-ebc2-8faa13657c00/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.858Z
+Categories:
+
+
+Name: React Native Pro
+Url: https://testflight.apple.com/join/OPhFWnmu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/b5/8e/07b58ea3-280f-601f-5694-584e6bba1fd3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.895Z
+Categories:
+
+
+Name: Tazte - UAT
+Url: https://testflight.apple.com/join/H3sdfdJb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/63/4b/a8634b44-b0c1-ecad-44db-006d385129e0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.931Z
+Categories:
+
+
+Name: Bitmax
+Url: https://testflight.apple.com/join/RPeMymBd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/81/c2/c6/81c2c6a9-16bc-1b7b-5a18-55acdaa8ec53/AppIconLLC-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:37:09.968Z
+Categories:
+
+
