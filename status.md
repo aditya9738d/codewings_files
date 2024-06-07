@@ -2338,3 +2338,120 @@ Last Checked: 2024-06-07T21:37:11.049Z
 Categories:
 
 
+Name: Memorize - Learn and Remember
+Url: https://testflight.apple.com/join/nsTpApXA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/1b/fc/271bfce0-2f60-413c-4804-fa611d46412a/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T21:38:11.052Z
+Categories:
+
+
+Name: AlsuperApp
+Url: https://testflight.apple.com/join/Yl90dQvq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/86/9c/e2869ccd-fc63-d6c3-fb93-31ac74f8afb5/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T21:38:11.080Z
+Categories:
+
+
+Name: iVoRi XR V4
+Url: https://testflight.apple.com/join/RbesVa8g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/13/0e/49130e1d-c94d-00c4-1660-fa8141df2eeb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T21:38:11.108Z
+Categories:
+
+
+Name: Abilition Rise
+Url: https://testflight.apple.com/join/zKopXYyf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cd/df/5f/cddf5fd9-8a75-55f5-200e-b86202a6dd57/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T21:38:11.137Z
+Categories:
+
+
+Name: HOM - Unimed Cooperado
+Url: https://testflight.apple.com/join/bRkYYlJ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d1/55/0d/d1550d6a-237b-6be7-a7e7-510ed87bfc37/AppIcon-HOM-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T21:38:11.165Z
+Categories:
+
+
+Name: WebLink Host
+Url: https://testflight.apple.com/join/1G6evopJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/76/49/7976491e-ee2f-8e99-cf8b-74ba4cb30567/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T21:38:11.193Z
+Categories:
+
+
+Name: Sonar by Kujira
+Url: https://testflight.apple.com/join/ISbDaKs7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/ac/ea/60acea4e-2b8f-411a-ebff-f8596af4d4aa/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T21:38:11.223Z
+Categories:
+
+
+Name: izibank: легкий мобільний банк
+Url: https://testflight.apple.com/join/1tKyw5jh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/1d/b7/1f1db787-314c-903e-9cf9-cd95871b76d5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T21:38:11.252Z
+Categories:
+
+
+Name: iOiO New
+Url: https://testflight.apple.com/join/UfgjAldx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/84/37/168437a6-ff8d-b4ed-a363-25d28b1c37ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T21:38:11.304Z
+Categories:
+
+
+Name: LoanKiemUs
+Url: https://testflight.apple.com/join/XHeMYnlj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/3e/0f/2b3e0f4c-f661-03f4-73bc-ba82a2323c39/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T21:38:11.348Z
+Categories:
+
+
+Name: Combustion Inc.
+Url: https://testflight.apple.com/join/tpQZYiNV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/98/f8/a298f806-5a6e-f723-16ab-a89fbebc1bb3/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T21:38:11.392Z
+Categories:
+
+
+Name: Owwll Beta
+Url: https://testflight.apple.com/join/uraOO51T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/48/4f/c5484fc5-8de2-3202-16b8-f9977f879b5b/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T21:38:11.421Z
+Categories:
+
+
+Name: Saltar
+Url: https://testflight.apple.com/join/1PfRknnc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/48/a6/d148a657-550e-3076-cab3-dd81b159f65f/AppIcon-1x_U007emarketing-0-5-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T21:38:11.449Z
+Categories:
+
+
