@@ -21058,3 +21058,120 @@ Last Checked: 2024-06-07T10:31:08.362Z
 Categories:
 
 
+Name: NetLadioPlayer
+Url: https://testflight.apple.com/join/Vvlzreni
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/b6/5b/56b65b76-14ea-69d4-2fa6-179271d473d6/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.137Z
+Categories:
+
+
+Name: Hezel for Apple Music
+Url: https://testflight.apple.com/join/SuvzvmNX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/4a/ec/7f4aec4c-507b-0adf-9f8d-745366413558/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.172Z
+Categories:
+
+
+Name: MTS 34 (221)
+Url: https://testflight.apple.com/join/TORo6D2E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/7a/ed/897aed58-84b7-627e-a4f3-36b04c8761da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.208Z
+Categories:
+
+
+Name: KBuddy 8
+Url: https://testflight.apple.com/join/xactU5Jh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/08/33/950833b9-4f90-d48a-6cfc-397af9bb7161/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.243Z
+Categories:
+
+
+Name: Mixing Station
+Url: https://testflight.apple.com/join/lsd9mugy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/25/95/71259524-ac8a-8496-2c02-782075574d99/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T10:32:15.278Z
+Categories:
+
+
+Name: Unity CRM Test
+Url: https://testflight.apple.com/join/6br4OV2b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/22/ae/88/22ae883a-2289-ea2b-008a-ff6635924e70/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.315Z
+Categories:
+
+
+Name: GSC Dev
+Url: https://testflight.apple.com/join/Y2NDd08x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/5d/a6/b85da663-e338-7b26-608d-eb588220119c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.350Z
+Categories:
+
+
+Name: Bitpie One
+Url: https://testflight.apple.com/join/RU1xhJV1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/5a/94/ef5a94ad-2f12-77a3-6031-92c18b764bbc/BitpieOneAppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.385Z
+Categories:
+
+
+Name: HF_YQ
+Url: https://testflight.apple.com/join/nx925ZZG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/4f/4d/cb4f4db8-65c5-fec8-79a5-2e988e1d0237/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.423Z
+Categories:
+
+
+Name: EdCast Preview
+Url: https://testflight.apple.com/join/mN15zAnj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/c0/3f/8bc03f57-03c9-a7e5-869b-0b03e80bf503/EdCast-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.459Z
+Categories:
+
+
+Name: Adobe Scan: PDF & OCR Scanner
+Url: https://testflight.apple.com/join/yP3SqM7b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/3f/f1/513ff177-9780-f12a-6d6e-3b56317b35c4/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.495Z
+Categories:
+
+
+Name: Minority Owned Businesses
+Url: https://testflight.apple.com/join/BvlNgzMW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/fd/e6/b7fde61c-1659-beaf-32d5-7e67f78ffa86/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.532Z
+Categories:
+
+
+Name: FRITZ!App TV
+Url: https://testflight.apple.com/join/Zl2czQO2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/2d/30/2d2d3052-2741-3240-138b-ffa8037dde78/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:32:15.567Z
+Categories:
+
+
