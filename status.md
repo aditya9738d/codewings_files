@@ -14857,3 +14857,120 @@ Last Checked: 2024-06-07T14:16:12.153Z
 Categories:
 
 
+Name: Sake Discovery - OneSip
+Url: https://testflight.apple.com/join/W5Z3eLUF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/61/41/2d6141c2-d4b5-e3b4-3662-768dbb71834e/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.111Z
+Categories:
+
+
+Name: Sammy Cash
+Url: https://testflight.apple.com/join/3abHwWlN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/8f/ec/8f8fecef-7997-e60a-66e2-6a41ffbe4900/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.140Z
+Categories:
+
+
+Name: Samplr
+Url: https://testflight.apple.com/join/VkpeP9uI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/2c/01/6f2c0139-c8c2-1904-427c-d6365d66c4d2/AppIcon-1x_U007emarketing-0-2-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.170Z
+Categories:
+
+
+Name: Samurai Fight
+Url: https://testflight.apple.com/join/4a8K6ltZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/90/10/f69010b2-a7c3-9185-3c05-9c323de125d7/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.200Z
+Categories:
+
+
+Name: SaoRong
+Url: https://testflight.apple.com/join/0fcvJObP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ab/05/76/ab057688-aa0a-9e1a-b07d-9b9f3c14795a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.230Z
+Categories:
+
+
+Name: Sari
+Url: https://testflight.apple.com/join/nkfcGmjE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/6c/a4/076ca4b0-3dd6-541d-248f-c2f1fcc3e68d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.258Z
+Categories:
+
+
+Name: Satodime
+Url: https://testflight.apple.com/join/1nQlvjgn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c0/a3/27/c0a32719-987b-adb0-f5f9-b56da0c15dbb/AppIcon-0-1x_U007ephone-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.287Z
+Categories:
+
+
+Name: Save Mart Supermarkets
+Url: https://testflight.apple.com/join/lC1SEIkz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/ab/24/24ab2488-4f23-f91c-8df5-46a1c84c1863/SaveMartAppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.318Z
+Categories:
+
+
+Name: SaveDay - Your Knowledge Buddy
+Url: https://testflight.apple.com/join/g7rqSkKQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/18/7c/fa/187cfaa3-fc2c-d734-24c9-d7c46a56a66b/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T14:17:10.347Z
+Categories:
+
+
+Name: Scanner App: Genius Scan
+Url: https://testflight.apple.com/join/v2xNVdTt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a3/1d/4c/a31d4cea-de9f-8c09-0f15-c5de9c1056d0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.377Z
+Categories:
+
+
+Name: SceneShot
+Url: https://testflight.apple.com/join/H7iMSV4u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/ae/eb/7daeeb68-349a-8e4b-909a-fae097528fc3/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.407Z
+Categories:
+
+
+Name: Schiphalast
+Url: https://testflight.apple.com/join/Qy67ai4p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c7/37/7c/c7377cf8-3e91-b4f3-2219-d1d7b2518f89/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.436Z
+Categories:
+
+
+Name: ScooterLui
+Url: https://testflight.apple.com/join/xV4bLOSD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/2d/ce/b12dce12-7d88-6cc6-e4ea-94a1c674f39e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:17:10.465Z
+Categories:
+
+
