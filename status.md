@@ -23398,3 +23398,120 @@ Last Checked: 2024-06-07T20:26:12.175Z
 Categories:
 
 
+Name: PopAi-AI Chat with PDF & Image
+Url: https://testflight.apple.com/join/suD1oHP1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/72/f4/7f72f43a-188e-4baf-f4f8-093435f29f28/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.389Z
+Categories:
+
+
+Name: ArchiveME
+Url: https://testflight.apple.com/join/YWzAZiRs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/be/9f/afbe9fea-a5ad-13ca-0b72-43fbb392abc9/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.417Z
+Categories:
+
+
+Name: iAnyGo-2
+Url: https://testflight.apple.com/join/fU362zmT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/34/cf/6334cf10-17ed-0028-2f1e-af6ec6c335c6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.445Z
+Categories:
+
+
+Name: Maikr
+Url: https://testflight.apple.com/join/61cBo7QN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/54/df/7054df6f-acf8-1cde-3ac4-73acf1b5badc/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.473Z
+Categories:
+
+
+Name: PhoenixV
+Url: https://testflight.apple.com/join/xFHXiUkl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f3/7a/7c/f37a7cd7-abf5-33b8-744b-48cc85b7a723/AppIcon-0-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.501Z
+Categories:
+
+
+Name: MyHitron+
+Url: https://testflight.apple.com/join/ey7Ffnp3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6f/08/ad6f0899-6feb-2dc3-5294-fa265f103244/AppIcon_hitron-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T20:27:10.529Z
+Categories:
+
+
+Name: MPWT News UAT
+Url: https://testflight.apple.com/join/aRMaAdnH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/77/6a/e9776a66-4acc-87a4-08f3-11449d30415a/AppIcon-uat-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.557Z
+Categories:
+
+
+Name: JMB Business Mobile
+Url: https://testflight.apple.com/join/2xNkYHjU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/b4/70/10b470df-9256-8003-0a20-6ac458071efe/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.585Z
+Categories:
+
+
+Name: Crestron Home
+Url: https://testflight.apple.com/join/qvEvUmop
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/36/bb/b336bb2e-5c03-3458-a6f9-e7123549fd31/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.614Z
+Categories:
+
+
+Name: RAR Partner
+Url: https://testflight.apple.com/join/U2CVy8Z8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/26/14/8e/26148e8d-2727-eb19-5749-df5a59b8da39/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.641Z
+Categories:
+
+
+Name: Cosmo Pic
+Url: https://testflight.apple.com/join/gXpYuS4R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/e8/85/abe8852c-24a2-1576-2282-260fb47672b5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.669Z
+Categories:
+
+
+Name: Pionex - Crypto Trading Bots
+Url: https://testflight.apple.com/join/61qN730h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/d4/12/7ed41202-b63e-25ba-14c2-e60928fc7c26/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.697Z
+Categories:
+
+
+Name: Test - Service Ape
+Url: https://testflight.apple.com/join/v4iAsIiH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/4c/a0/704ca095-56bc-5502-4103-7bdb3620a8df/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:27:10.725Z
+Categories:
+
+
