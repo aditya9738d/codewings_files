@@ -11698,3 +11698,120 @@ Last Checked: 2024-06-07T09:03:09.276Z
 Categories:
 
 
+Name: MobeX+
+Url: https://testflight.apple.com/join/3j1wH9Zi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/8b/c6/158bc671-a949-f272-0cea-7742db49fcb5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:04:11.932Z
+Categories:
+
+
+Name: OBSERV 520x
+Url: https://testflight.apple.com/join/W2oGau0X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/10/e4/5f10e4ac-d81d-f565-e457-f2ddc9036876/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:04:11.962Z
+Categories:
+
+
+Name: Portfolio Personal Inversiones
+Url: https://testflight.apple.com/join/ELi7vQyK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/f1/96/15f1965a-0313-3d04-06a5-649e0ec80081/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:04:11.990Z
+Categories:
+
+
+Name: PaySii QAT
+Url: https://testflight.apple.com/join/eCNlkbIr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/98/d5/3898d548-db57-795a-e4e8-ef63ab9122f5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:04:12.018Z
+Categories:
+
+
+Name: IWAP Sports
+Url: https://testflight.apple.com/join/N75r82sV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/e7/bb/0ae7bbee-7160-f3cc-dfa0-a4e30a3eb80e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-07T09:04:12.047Z
+Categories:
+
+
+Name: Ensemble Go
+Url: https://testflight.apple.com/join/yFKnLQ1S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/fa/0d/7afa0dcb-15fd-950e-2b1b-7051f177a961/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:04:12.076Z
+Categories:
+
+
+Name: Matterport
+Url: https://testflight.apple.com/join/htfXQ8jV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/24/3d/2a243d47-e43c-d067-839b-c68b3465b8d9/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:04:12.104Z
+Categories:
+
+
+Name: EZECOM TEST
+Url: https://testflight.apple.com/join/tpPE9rJd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/8b/c2/a48bc25d-1cf8-3e66-2ba0-d318f1b1343c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:04:12.133Z
+Categories:
+
+
+Name: Bold Smart Lock
+Url: https://testflight.apple.com/join/fSEqFBIz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/3a/2d/f93a2d1a-bd39-756c-781e-28daa076c6e9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:04:12.162Z
+Categories:
+
+
+Name: TrackMan Golf
+Url: https://testflight.apple.com/join/W3vJChto
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/c4/0a/74c40a8e-6fdb-63e2-76ff-ea854a94dac6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:04:12.190Z
+Categories:
+
+
+Name: LimeCity
+Url: https://testflight.apple.com/join/8AfdmwsK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/66/ff/7266ff1d-989d-5b9c-6f32-35c3bcd61daa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-07T09:04:12.218Z
+Categories:
+
+
+Name: LYS Collect
+Url: https://testflight.apple.com/join/FAVv7VtK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/7d/7c/897d7c01-c320-c76d-25ac-732cc7e1e3e0/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:04:12.246Z
+Categories:
+
+
+Name: WiniERP
+Url: https://testflight.apple.com/join/be10JajG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/8f/87/a58f8700-75f8-3334-36c5-f8f727329a77/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:04:12.274Z
+Categories:
+
+
