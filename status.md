@@ -19303,3 +19303,120 @@ Last Checked: 2024-06-07T19:46:13.141Z
 Categories:
 
 
+Name: PTE - Synovus Gateway Mobile
+Url: https://testflight.apple.com/join/lNZVr14B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/45/2c/c7/452cc725-9afa-1522-4d7a-6d0671281dde/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.008Z
+Categories:
+
+
+Name: Board Papers for Intune
+Url: https://testflight.apple.com/join/mwUqBiAR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/4c/8d/4a4c8d39-1dd0-a2d4-2a9b-065ecfc303ed/Intune-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.044Z
+Categories:
+
+
+Name: Traady
+Url: https://testflight.apple.com/join/QRFA7SVq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/44/fe/57/44fe576e-316d-1eb5-71d7-ac3483b4a60e/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.080Z
+Categories:
+
+
+Name: TaskChute Cloud Lite Beta
+Url: https://testflight.apple.com/join/WEe7vt0q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/a3/c5/50a3c5da-6d9d-8938-c1eb-ab30fbdc9865/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.116Z
+Categories:
+
+
+Name: Email Client - Boomerang Mail
+Url: https://testflight.apple.com/join/QvyVMhzJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/76/dc/59/76dc59b4-943b-a0d5-d3e1-8105317ab091/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.152Z
+Categories:
+
+
+Name: TeamPay
+Url: https://testflight.apple.com/join/EgeYGrfN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/7f/35/407f352a-c871-85fb-8d43-7c1d5c6a7b89/AppIcon-0-1x_U007ephone-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.188Z
+Categories:
+
+
+Name: GHL Connect
+Url: https://testflight.apple.com/join/fvZsPzNH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/6e/be/536ebe80-e074-3e4c-0fad-faef84e7e75d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.225Z
+Categories:
+
+
+Name: Maringo
+Url: https://testflight.apple.com/join/bkwfZ0u1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/fa/df/c4fadf7d-cdc9-6ef7-91e6-1ec70f8418b2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.261Z
+Categories:
+
+
+Name: NewStore Associate App
+Url: https://testflight.apple.com/join/OTsDnLEk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/79/9d/82799d9f-15ed-ac44-ca2f-d4ff49377565/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.297Z
+Categories:
+
+
+Name: Wipr 2
+Url: https://testflight.apple.com/join/YkdEItQi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/48/b4/2e48b46f-b181-1e6c-7b23-7f189db502f5/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-07T19:47:10.333Z
+Categories:
+
+
+Name: NodeVPN
+Url: https://testflight.apple.com/join/kTCCjGvg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/02/0b/4f020b88-58bf-1c0b-5f9f-1d7c1a2bbb20/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.370Z
+Categories:
+
+
+Name: DT Profile Admin
+Url: https://testflight.apple.com/join/0uCXKZcI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/c5/8d/ccc58d6a-f736-6415-53ab-e7f9bcaf6c53/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.407Z
+Categories:
+
+
+Name: Topo Maps+
+Url: https://testflight.apple.com/join/pSEBpvB3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/1f/11/011f11fa-d52e-eefa-a57b-92b86bec6a4b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:47:10.444Z
+Categories:
+
+
