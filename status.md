@@ -5029,3 +5029,120 @@ Last Checked: 2024-06-07T22:01:10.026Z
 Categories:
 
 
+Name: Armui
+Url: https://testflight.apple.com/join/wtMPmQra
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/f9/d0/cbf9d000-d5b6-6a45-4bac-f41545da74f4/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T22:02:11.815Z
+Categories:
+
+
+Name: Art.Guru
+Url: https://testflight.apple.com/join/kEC5zrth
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/b9/c7/6cb9c7cd-760d-8188-baa2-2fcea8689d32/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T22:02:11.844Z
+Categories:
+
+
+Name: Ash - AI Counseling
+Url: https://testflight.apple.com/join/csobSduk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/84/f8/0884f8d0-d33f-badc-eedf-d93e53430e49/AppIconPublished-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T22:02:11.872Z
+Categories:
+
+
+Name: Assault Bots
+Url: https://testflight.apple.com/join/DoWqqxYC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/db/53/21db535c-7049-74d5-01ac-c54e6527959a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T22:02:11.900Z
+Categories:
+
+
+Name: AstraUTM UAE (Beta)
+Url: https://testflight.apple.com/join/LnAZgCQ1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/a6/f1/a5a6f1b8-9308-567b-0769-95535d6473ba/AppIcon-0-1x_U007emarketing-0-7-0-P3-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T22:02:11.928Z
+Categories:
+
+
+Name: Astro Playbook Showcase
+Url: https://testflight.apple.com/join/4oNF3Add
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/f2/14/dcf21490-7792-fb07-9550-b5b77992502b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T22:02:11.957Z
+Categories:
+
+
+Name: Astrysk
+Url: https://testflight.apple.com/join/7EFQaTxj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/ad/50/f8ad5073-7309-b56b-8533-cc1051cb579b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T22:02:11.985Z
+Categories:
+
+
+Name: Ather
+Url: https://testflight.apple.com/join/KBOc7OYz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/c9/16/8ec91605-e658-5092-48d7-0b08991b3543/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-07T22:02:12.014Z
+Categories:
+
+
+Name: Atomic Connect
+Url: https://testflight.apple.com/join/V2fqBu19
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/ad/94/a5ad94b8-e6b4-4652-1688-2ef4eeae9aa3/AppIcon-Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T22:02:12.043Z
+Categories:
+
+
+Name: AubAI
+Url: https://testflight.apple.com/join/XuTpIgyY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/01/ab/d101abaa-99c0-1a10-6d5c-fd0dbef4cb10/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T22:02:12.071Z
+Categories:
+
+
+Name: Audio Panning Repro
+Url: https://testflight.apple.com/join/hqyG666W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/a7/2e/aea72e43-128e-5bd3-98e4-52b26cf5c018/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T22:02:12.099Z
+Categories:
+
+
+Name: Aur
+Url: https://testflight.apple.com/join/o2YgXZDb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/c1/b3/c2c1b39d-f12a-c334-6db1-245b78749428/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T22:02:12.128Z
+Categories:
+
+
+Name: Authenticator 2FA | Sentinel
+Url: https://testflight.apple.com/join/TqRZOFqa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/50/68/8d5068e4-268c-4751-4438-4c7b50fd0b32/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T22:02:12.157Z
+Categories:
+
+
