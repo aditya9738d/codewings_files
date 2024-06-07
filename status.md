@@ -21029,3 +21029,120 @@ Last Checked: 2024-06-07T15:31:13.683Z
 Categories:
 
 
+Name: DetonatorEP1
+Url: https://testflight.apple.com/join/BLCKQDur
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ca/53/c6ca538f-4efe-c82a-1197-108671092bf8/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-07T15:33:06.546Z
+Categories:
+
+
+Name: Neboe
+Url: https://testflight.apple.com/join/VfD0t0P7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/f8/1c/2ef81cf8-daf8-90e2-dfbc-e8eacffb41c6/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:33:06.574Z
+Categories:
+
+
+Name: Utgard: Path of Heroes
+Url: https://testflight.apple.com/join/p90UlWdj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/9a/8c/c29a8ca2-72b5-2ad1-fdfc-217f1a7de528/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T15:33:06.601Z
+Categories:
+
+
+Name: Counter Fire
+Url: https://testflight.apple.com/join/FZy2TE8m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/9f/29/289f2944-2f25-5b85-3abd-3f69ba527425/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-07T15:33:06.629Z
+Categories:
+- Games
+
+Name: BerryLab
+Url: https://testflight.apple.com/join/0coWQyy2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/1d/5c/a21d5cc1-f9ca-59b4-b5c1-9b780f9a27bb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 23
+Beta Available: open
+Last Checked: 2024-06-07T15:33:06.656Z
+Categories:
+
+
+Name: Nachos and Movies
+Url: https://testflight.apple.com/join/doaG1qHl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/55/ea/6855ea0f-c70e-41f4-acaa-9ca93d50d93e/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:33:06.684Z
+Categories:
+
+
+Name: Futy
+Url: https://testflight.apple.com/join/p27wWTGd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/e2/bd/00e2bd86-8250-561e-f6c8-5487249aae10/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-07T15:33:06.713Z
+Categories:
+
+
+Name: Freebox Files
+Url: https://testflight.apple.com/join/T8Op14Wg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/e0/88/1be08811-b36e-d9a6-50b2-ce38d863cd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-07T15:33:06.741Z
+Categories:
+
+
+Name: ChatyN
+Url: https://testflight.apple.com/join/O1KUa1m3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/2a/e1/e62ae11e-73da-2386-ca7c-573400107148/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 72
+Beta Available: open
+Last Checked: 2024-06-07T15:33:06.769Z
+Categories:
+- Chat
+
+Name: Cake Wallet
+Url: https://testflight.apple.com/join/f9yFYx9H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c0/24/bc/c024bc05-c05f-697e-47db-5a50057b33f8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:33:06.797Z
+Categories:
+
+
+Name: RuBaRu
+Url: https://testflight.apple.com/join/mbz7OTlH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/62/a2/5462a2eb-df01-f591-0c7f-e8ebdfcb0539/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:33:06.825Z
+Categories:
+
+
+Name: Hiddify
+Url: https://testflight.apple.com/join/e5OHNkaF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/55/29/f455299e-7947-9a0d-dfdd-d04269270904/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-07T15:33:06.853Z
+Categories:
+
+
+Name: ALVR
+Url: https://testflight.apple.com/join/YoK2nuX6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/02/fe/7802fedd-b195-184b-30d5-255138eeebcb/AppIcon.lsr/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-07T15:33:06.880Z
+Categories:
+
+
