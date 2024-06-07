@@ -20590,3 +20590,120 @@ Last Checked: 2024-06-07T01:52:10.631Z
 Categories:
 
 
+Name: MyTan - Chat with AI
+Url: https://testflight.apple.com/join/TOiadljg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/9d/e9/4d9de95a-c598-71c1-1af4-53078ddb6d92/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:53:11.709Z
+Categories:
+
+
+Name: AstroDX-Beta (Group C)
+Url: https://testflight.apple.com/join/CuMxZE2M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/76/51/3a/76513ae3-9498-ae0a-83e0-787a90f763f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T01:53:11.737Z
+Categories:
+
+
+Name: Hayyacom
+Url: https://testflight.apple.com/join/SuQH5AMK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/53/11/ac/5311ac27-a658-81c5-bbe8-12d7dc1adeb4/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:53:11.765Z
+Categories:
+
+
+Name: TAKA Sports
+Url: https://testflight.apple.com/join/oe4iyl4C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/3c/64/b93c64e6-7052-6b1d-3284-e6b2f8006ec3/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T01:53:11.793Z
+Categories:
+
+
+Name: OnTheList HK
+Url: https://testflight.apple.com/join/Psb7gFQ3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/1d/34/4e1d34cc-7c23-c0da-81f3-b7273a2e49f4/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:53:11.822Z
+Categories:
+
+
+Name: mHealth Connect Follower
+Url: https://testflight.apple.com/join/Spf3ZOpM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/7d/eb/0f7debbd-9891-7829-8ad4-05ab2e12c8ea/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T01:53:11.851Z
+Categories:
+
+
+Name: SmartGuard
+Url: https://testflight.apple.com/join/E0yyZjVe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/8a/8f/0e8a8f20-cb82-4de8-7d44-d6beca2780a9/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T01:53:11.879Z
+Categories:
+
+
+Name: Capture - Quick Notes
+Url: https://testflight.apple.com/join/iipKV4OA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/05/1c/da051c9b-cb95-1208-a116-5c8e562880c3/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:53:11.907Z
+Categories:
+
+
+Name: Hung Duy
+Url: https://testflight.apple.com/join/DiMPR659
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/64/31/fa/6431fa17-305a-5db5-9f02-3db8a24bad7f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:53:11.935Z
+Categories:
+
+
+Name: APE of Mind
+Url: https://testflight.apple.com/join/gxrhxwos
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/8a/b5/c88ab56b-d22b-ec25-6ed8-6a53b69befd4/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:53:11.963Z
+Categories:
+
+
+Name: AC Capital Market
+Url: https://testflight.apple.com/join/YF6xIlCq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/54/7c/bb/547cbbf6-b09c-f2e9-52dd-bd5a7cf69c93/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-07T01:53:11.990Z
+Categories:
+
+
+Name: Radio by @oliverapps
+Url: https://testflight.apple.com/join/cihSea1P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/95/df/d295df07-5610-0888-cc97-7148cb6c4975/AppIcon-0-1x_U007epad-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:53:12.018Z
+Categories:
+
+
+Name: MMOB Preview
+Url: https://testflight.apple.com/join/SRkmO1Im
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/d6/64/42d66494-5531-ab13-fd99-f2e5da82b634/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:53:12.046Z
+Categories:
+
+
