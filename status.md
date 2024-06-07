@@ -14857,3 +14857,120 @@ Last Checked: 2024-06-07T23:26:12.609Z
 Categories:
 
 
+Name: Ruddarr
+Url: https://testflight.apple.com/join/WbWNuoos
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/6a/88/6c6a8827-77da-269a-73ee-1bacc8b7573d/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T23:27:09.911Z
+Categories:
+
+
+Name: Rumble Kong League
+Url: https://testflight.apple.com/join/FKHsFUMi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/da/5d/4fda5dab-523d-a3c0-f5e4-0fa5df2ecdb3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:27:09.947Z
+Categories:
+
+
+Name: Runestone Text Editor
+Url: https://testflight.apple.com/join/kDXvZwlD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/42/29/d34229f8-eea7-7a2b-9d7c-9e1e298539fc/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:27:09.983Z
+Categories:
+
+
+Name: Running Peas
+Url: https://testflight.apple.com/join/mWtz8DPE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/92/28/8e922804-328e-1b58-0162-b479964a539e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T23:27:10.020Z
+Categories:
+
+
+Name: Ryobi™ Robotic Mower
+Url: https://testflight.apple.com/join/Bylj1Hk8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/5c/84/375c8421-be93-15cd-229f-d60dfb5f5527/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:27:10.055Z
+Categories:
+
+
+Name: S2M Customer
+Url: https://testflight.apple.com/join/RZug4688
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e9/bb/91/e9bb916e-2fe1-2eef-585c-8e83e77338a2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:27:10.092Z
+Categories:
+
+
+Name: SAAN GO prod
+Url: https://testflight.apple.com/join/EEUVqB6C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/a8/56/7aa856d9-4b36-7ab0-83bc-b8608584845a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T23:27:10.129Z
+Categories:
+
+
+Name: SAFE by FieldEx
+Url: https://testflight.apple.com/join/E4KexlIs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/f0/e1/cdf0e168-a1d0-1099-c800-4c10f7c5b014/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:27:10.165Z
+Categories:
+
+
+Name: SAIMU-UAT
+Url: https://testflight.apple.com/join/IpE4pYqL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/04/cc/7104cc40-f9d7-2676-7d4c-286cff195260/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:27:10.201Z
+Categories:
+
+
+Name: SC Thrive Hub Client
+Url: https://testflight.apple.com/join/Qeh2WRdy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/9f/f7/009ff723-80e5-3980-c4a1-7f09bdfde6ee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:27:10.237Z
+Categories:
+
+
+Name: SEEC HomeOwners
+Url: https://testflight.apple.com/join/5ClON9Sr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6e/66/7c/6e667c79-d4b4-eab7-fbd9-26ac321835cb/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:27:10.273Z
+Categories:
+
+
+Name: SIMS LTD
+Url: https://testflight.apple.com/join/Wpug2yiB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/af/0d/c5af0dfa-46a1-ca4b-ac6c-f566bb1ec150/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T23:27:10.310Z
+Categories:
+
+
+Name: SMART MOBILITY ALMERIA
+Url: https://testflight.apple.com/join/fzQlYt6Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8c/be/8b/8cbe8bab-fbed-389e-7fc5-f6974024c70b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T23:27:10.346Z
+Categories:
+
+
