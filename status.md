@@ -8656,3 +8656,120 @@ Last Checked: 2024-06-07T08:37:09.519Z
 Categories:
 
 
+Name: MITSUBISHI MOTORS VIET NAM CRM
+Url: https://testflight.apple.com/join/4yQz3wlt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/74/a5/da74a58c-3715-a322-fe55-39d0aacb629a/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.437Z
+Categories:
+
+
+Name: Reps - Bodyweight exercises
+Url: https://testflight.apple.com/join/Keq4Mca2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/db/a0/68dba0d3-b564-1c8a-fde6-6af941f1699a/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.473Z
+Categories:
+
+
+Name: eShop Multivendor Seller
+Url: https://testflight.apple.com/join/eZJ6MBv1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/81/b3/2c81b303-2e79-0b1e-07a7-7d19c71e4fa9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.509Z
+Categories:
+
+
+Name: Krasview
+Url: https://testflight.apple.com/join/2yfc4w9V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/ab/37/5aab376f-903c-ef29-1d20-76b837011cb2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.545Z
+Categories:
+
+
+Name: eoTouch
+Url: https://testflight.apple.com/join/pN4u1eOu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e9/86/7a/e9867a3a-9873-90e3-24d1-ed2bb16ed6c1/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.581Z
+Categories:
+
+
+Name: XANA Metaverse
+Url: https://testflight.apple.com/join/TglRnz6A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/82/12/0382120e-9ac3-21e3-345f-b67eaed6660c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.616Z
+Categories:
+
+
+Name: QTGoing
+Url: https://testflight.apple.com/join/meDoBAsu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/ed/ea/ecedea60-a6bf-a8ea-5f50-a85944550a96/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.653Z
+Categories:
+
+
+Name: Faithlife Ebooks
+Url: https://testflight.apple.com/join/uOB3MBmz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/70/3d/4e703dce-5cfe-02c0-cc2e-5399d7ebcedd/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.689Z
+Categories:
+
+
+Name: Stumbll
+Url: https://testflight.apple.com/join/t3cwnmJw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/1e/da/db1eda36-4103-e774-8b05-def92d5c0e25/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T08:38:14.724Z
+Categories:
+
+
+Name: Essistant WApp (mobile)
+Url: https://testflight.apple.com/join/nMG0FnVy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7c/ce/58/7cce581e-c02c-2824-9273-db82e3fd7ccd/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.760Z
+Categories:
+
+
+Name: BenchApp - Sports Team Manager
+Url: https://testflight.apple.com/join/iJVviXVl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/c9/ea/4cc9ea15-0f0e-427b-aee8-bf750b15a719/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.796Z
+Categories:
+
+
+Name: Mochi Pets - Cute Pet Widget
+Url: https://testflight.apple.com/join/XhrDhcFH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/91/5e/11915e56-ad5b-3baa-0aa8-465a169320c3/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.832Z
+Categories:
+
+
+Name: Tunna
+Url: https://testflight.apple.com/join/dqMoJObA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/17/ed/eb17edd4-a3b7-3f42-0b16-03064a1d6443/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T08:38:14.868Z
+Categories:
+
+
