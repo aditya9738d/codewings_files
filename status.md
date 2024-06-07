@@ -4093,3 +4093,120 @@ Last Checked: 2024-06-07T07:52:11.278Z
 Categories:
 
 
+Name: Pagos por Whatsapp
+Url: https://testflight.apple.com/join/d2eVesnW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/a1/7b/71a17b45-2cc8-8cf0-1345-18451360b67f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.025Z
+Categories:
+
+
+Name: Aislingeach
+Url: https://testflight.apple.com/join/Q6WyyEpS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/de/06/43de065a-44a3-6de0-43ff-4bc0685b1031/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.061Z
+Categories:
+
+
+Name: LevelApp
+Url: https://testflight.apple.com/join/6prz5TOR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/81/ba/b381ba8d-8f34-fa26-0862-ce60eb59d30b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.097Z
+Categories:
+
+
+Name: Pivot88
+Url: https://testflight.apple.com/join/bNJ2ITDM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/ea/06/bcea0641-784c-2729-1440-e6171a80282a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.132Z
+Categories:
+
+
+Name: adoc Studio
+Url: https://testflight.apple.com/join/0mDOqdOt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/da/cb/b5dacb64-5e47-9c1f-a244-f9c5d0e36f0c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.168Z
+Categories:
+
+
+Name: PicPay: Conta, Pix e Cartão
+Url: https://testflight.apple.com/join/4lJVk53x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/85/78/ff857881-eed7-4136-24cd-fd47ba334cdf/AppIcon-1-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.203Z
+Categories:
+
+
+Name: OBDeleven Car diagnostics app
+Url: https://testflight.apple.com/join/PmfOjo0T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/d1/d3/bed1d3b6-7f35-8d93-e8d3-c70155212976/AppIcon-Beta-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T07:53:10.238Z
+Categories:
+
+
+Name: VeSync
+Url: https://testflight.apple.com/join/fJBKUFNX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/5e/de/585edead-f09e-142d-f884-d9d26304d450/AppIconWithIpad-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.274Z
+Categories:
+
+
+Name: Link Trade
+Url: https://testflight.apple.com/join/KLy5fJat
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/75/4b/c6/754bc6da-a4b9-ae0e-f56a-1a763a2ce613/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.309Z
+Categories:
+
+
+Name: Spark Mail + AI: Email Inbox
+Url: https://testflight.apple.com/join/KbPFFvWt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/07/0d/51070d19-12ae-e93e-6459-ffc95e86d783/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.368Z
+Categories:
+
+
+Name: sleepytime calculator
+Url: https://testflight.apple.com/join/onMsxaMt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/32/16/8d3216b2-9e6e-5d12-f6d6-1e552c8ef9e6/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.403Z
+Categories:
+
+
+Name: YouKnow Social
+Url: https://testflight.apple.com/join/3t8GmeKJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/3f/07/313f0727-0b4c-ec69-1147-185bc47e56ba/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.440Z
+Categories:
+
+
+Name: MyYBS
+Url: https://testflight.apple.com/join/VKUZazR9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/85/d1/84/85d18478-e917-59aa-0dc3-b8c606af1068/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T07:53:10.475Z
+Categories:
+
+
