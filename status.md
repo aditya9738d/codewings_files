@@ -21618,3 +21618,120 @@ Last Checked: 2024-06-07T15:38:13.656Z
 Categories:
 
 
+Name: Planny • Daily Planner
+Url: https://testflight.apple.com/join/FhbZxvhv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/75/60/7775606d-6a8e-24b1-416e-94ce96bf64d4/PlannyNew-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-07T15:39:10.695Z
+Categories:
+
+
+Name: Blixt Wallet
+Url: https://testflight.apple.com/join/EXvGhRzS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/22/d3/6f/22d36f5e-3047-c716-52c4-0b49473bf438/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-07T15:39:10.731Z
+Categories:
+
+
+Name: coffey community network
+Url: https://testflight.apple.com/join/8TYRTQz5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/50/0a/66500a42-db4b-0be9-68ee-c7a8207cb33e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-07T15:39:10.768Z
+Categories:
+
+
+Name: Legatrix Mobile App
+Url: https://testflight.apple.com/join/q5mdzbKH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/7a/ec/c07aec41-8046-2d84-03ea-25ce209c4553/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-07T15:39:10.804Z
+Categories:
+
+
+Name: Starr - Smart Calculator
+Url: https://testflight.apple.com/join/n2Ii3S0r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/b3/3a/16b33aec-4b82-9e03-ae80-090524187d31/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-07T15:39:10.840Z
+Categories:
+
+
+Name: Embibe Experiments Preprod
+Url: https://testflight.apple.com/join/YTAYIT3R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/75/9d/bd759d97-e563-a389-4d8b-06492003ae34/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-07T15:39:10.876Z
+Categories:
+
+
+Name: Hand Mirror
+Url: https://testflight.apple.com/join/bnUjZUkE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/b4/5c/9cb45c82-ed3a-9bdc-419f-11aba0d41f6e/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 6
+Beta Available: not accepting
+Last Checked: 2024-06-07T15:39:10.912Z
+Categories:
+
+
+Name: Treegaze Cove: Merge & Craft
+Url: https://testflight.apple.com/join/4l65h1Yz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/c2/1c/86c21cf5-d1e3-8fb5-277b-415e5457079d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:39:10.947Z
+Categories:
+
+
+Name: HISTORY Vault
+Url: https://testflight.apple.com/join/nPNYe0PY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/1a/5b/321a5b28-1f90-050e-0ccd-c3ec67d8a6bb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 134
+Beta Available: open
+Last Checked: 2024-06-07T15:39:10.983Z
+Categories:
+- Entertainment
+
+Name: FUT Sniping Bot
+Url: https://testflight.apple.com/join/t7766iRc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/eb/8d/a4/eb8da4b7-1fd4-bc3b-7183-51e1837470ee/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-07T15:39:11.018Z
+Categories:
+
+
+Name: Mage: Strength Coaching
+Url: https://testflight.apple.com/join/ELyfxQcj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/c7/3a/ecc73a95-bc43-b684-b248-6ffcd90e21f6/AppIconSingle-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T15:39:11.053Z
+Categories:
+
+
+Name: Doris by dgApps
+Url: https://testflight.apple.com/join/dTdLfvIK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/25/a2/4725a266-e9a1-3d92-c136-3a146fe96ba1/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T15:39:11.089Z
+Categories:
+
+
+Name: PSX Real Estates Classified
+Url: https://testflight.apple.com/join/qouq41dn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a9/4f/fe/a94ffeee-776d-ad8f-afc7-f7641582c04e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T15:39:11.125Z
+Categories:
+
+
