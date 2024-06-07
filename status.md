@@ -25387,3 +25387,120 @@ Last Checked: 2024-06-07T02:37:09.968Z
 Categories:
 
 
+Name: ZiiP Bus
+Url: https://testflight.apple.com/join/M9HsbMn4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/26/bf/6e26bf4f-d53b-d26e-2131-7944ed953ea6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:13.888Z
+Categories:
+
+
+Name: Neotriad app
+Url: https://testflight.apple.com/join/WoReCtbD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/f9/b5/4cf9b5d5-8c28-90a7-ae8e-d528fe533717/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:13.923Z
+Categories:
+
+
+Name: Karofi Service
+Url: https://testflight.apple.com/join/rfgyiZ1k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/6e/8d/9e6e8de3-9a51-408a-db02-9ae7fee93fc2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T02:38:13.960Z
+Categories:
+
+
+Name: Rocket.Chat
+Url: https://testflight.apple.com/join/3gcYeoMr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/33/00/593300e2-ce5b-72cb-8544-763d122ce690/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:13.996Z
+Categories:
+
+
+Name: Syai Tag
+Url: https://testflight.apple.com/join/60v32zBi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/4e/d1/7c4ed1fe-8874-95ed-ed6e-bad6674b5047/seasAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:14.032Z
+Categories:
+
+
+Name: Guardian Staging
+Url: https://testflight.apple.com/join/jz3MalPf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/81/1c/54811cf5-08b6-795e-d113-686cba2b6398/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:14.068Z
+Categories:
+
+
+Name: Cloud_Med
+Url: https://testflight.apple.com/join/fFx7Jsz9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4f/96/fd/4f96fd44-9b65-706d-2b47-c69d5c374eb9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:14.104Z
+Categories:
+
+
+Name: Marvelous
+Url: https://testflight.apple.com/join/x17Sg8bh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a5/e7/bda5e720-ae78-88a0-7654-8ad675dbdc67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:14.140Z
+Categories:
+
+
+Name: haitau.vn v2
+Url: https://testflight.apple.com/join/cbMrvEdy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f8/f4/56/f8f456c6-765f-be28-5c44-3b1562bb7f67/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:14.176Z
+Categories:
+
+
+Name: Konnect: Web3 Social
+Url: https://testflight.apple.com/join/jurjHSwo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/10/ed/1110ede9-4d88-7e48-a8e5-01d6635a1641/AppIcon-0-0-1x_U007emarketing-0-3-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:14.213Z
+Categories:
+
+
+Name: MOHRE G2E
+Url: https://testflight.apple.com/join/7VPuNExj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/53/36/295336d3-fcbb-5a23-6067-8ba3020ae6da/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:14.249Z
+Categories:
+
+
+Name: GoodGain - Campeonatos Online
+Url: https://testflight.apple.com/join/DH5AVXQ0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/65/00/8565007e-afd3-94f1-ff16-b54e7067f265/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:14.285Z
+Categories:
+
+
+Name: Sunrider Demo
+Url: https://testflight.apple.com/join/antJitui
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/99/e6/9a99e6cd-702a-bc9e-1e0b-ea6c0ac9dd11/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T02:38:14.321Z
+Categories:
+
+
