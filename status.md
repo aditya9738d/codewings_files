@@ -23749,3 +23749,120 @@ Categories:
 - Ai
 - Chat
 
+Name: FinEasy
+Url: https://testflight.apple.com/join/uXyp7xTM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/2f/e9/ca2fe9fd-468a-2d25-0346-5e599c936f81/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 13
+Beta Available: open
+Last Checked: 2024-06-07T16:05:21.602Z
+Categories:
+
+
+Name: okane – Currency Converter
+Url: https://testflight.apple.com/join/esER74k0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/f5/07/46f50750-a053-3c28-351d-7a3eaed42a52/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-07T16:05:21.630Z
+Categories:
+
+
+Name: Zincir Market
+Url: https://testflight.apple.com/join/S2QCk2zj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/df/e7/76dfe76e-370e-8ff9-c696-6b1a4401dd42/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-07T16:05:21.657Z
+Categories:
+
+
+Name: Gird
+Url: https://testflight.apple.com/join/eQLqqX9o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/32/7e/f1327e17-7579-bb85-94d0-2bd372ebc1bf/prodAppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-07T16:05:21.685Z
+Categories:
+
+
+Name: Zealer
+Url: https://testflight.apple.com/join/m0qGxEPZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/92/1f/1c921f2f-a78c-e67c-d7ee-27e01fc66480/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 57
+Beta Available: open
+Last Checked: 2024-06-07T16:05:21.712Z
+Categories:
+
+
+Name: WOW: Wars of Wanon
+Url: https://testflight.apple.com/join/UZ4tYFb6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/dc/19/77dc19eb-dfee-43e9-0168-6f77859262b0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T16:05:21.740Z
+Categories:
+
+
+Name: Chore Champ
+Url: https://testflight.apple.com/join/eMqx5DEF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/c1/9c/4ec19cf9-7cda-0bce-f573-23c99263e5f4/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: error
+Last Checked: 2024-06-07T16:05:21.767Z
+Categories:
+
+
+Name: Apple AMB
+Url: https://testflight.apple.com/join/DsJkKvf8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/1f/03/021f03be-7e8f-f102-3567-9633b514481b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 29
+Beta Available: open
+Last Checked: 2024-06-07T16:05:21.794Z
+Categories:
+
+
+Name: Cyber Key Fob
+Url: https://testflight.apple.com/join/wzaCXTpH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ad/f6/f8adf6f1-37b5-ec81-ef62-7f8daedd70d7/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 16
+Beta Available: full
+Last Checked: 2024-06-07T16:05:21.830Z
+Categories:
+
+
+Name: nospace
+Url: https://testflight.apple.com/join/8To9vUPJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/40/a8/f140a807-f685-8c24-fadc-6ed8504b062a/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 19
+Beta Available: full
+Last Checked: 2024-06-07T16:05:21.859Z
+Categories:
+
+
+Name: MOONDROP
+Url: https://testflight.apple.com/join/jih3rTIP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/80/89/6080891f-0d6d-878f-be86-2bcfe2cc91cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 30
+Beta Available: open
+Last Checked: 2024-06-07T16:05:21.886Z
+Categories:
+
+
+Name: Matrixport
+Url: https://testflight.apple.com/join/s5rARDvM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/80/1f/43801ff2-5051-9deb-681b-f917e109caf4/AppIcon-TF-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 57
+Beta Available: open
+Last Checked: 2024-06-07T16:05:21.914Z
+Categories:
+
+
+Name: Ohere Wallet - Pay & Get Paid
+Url: https://testflight.apple.com/join/jsf7ZPVr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/3d/10/b33d10e7-d1ea-787d-05ef-7a9e45aa6009/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T16:05:21.941Z
+Categories:
+
+
