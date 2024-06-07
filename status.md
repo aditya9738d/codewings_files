@@ -26325,3 +26325,120 @@ Last Checked: 2024-06-07T16:30:47.431Z
 Categories:
 
 
+Name: e-kupon | Digital Coupon
+Url: https://testflight.apple.com/join/VOxvgMHs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/f0/c0/d1f0c0f1-4f57-38ea-689a-eb6211e397f6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T16:31:10.901Z
+Categories:
+
+
+Name: HashPhotos
+Url: https://testflight.apple.com/join/NR8WA4xu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/de/7d/1dde7dcd-757a-eb4e-0833-5be04bffe45f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T16:31:10.929Z
+Categories:
+
+
+Name: Vexl 2.0
+Url: https://testflight.apple.com/join/SuPp5FF2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/6f/c8/b66fc835-7c3a-fb5c-5862-75e877a342ff/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T16:31:10.957Z
+Categories:
+
+
+Name: xcloc
+Url: https://testflight.apple.com/join/xC5Pa2KA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/47/d0/9447d0ee-1e9b-719f-321f-f3581b4baf3b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T16:31:10.985Z
+Categories:
+
+
+Name: Albums - album focused player
+Url: https://testflight.apple.com/join/8ZpnHGwr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/10/a8/f310a8ec-bbfe-17e6-4fcd-5fbd8342fc6b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T16:31:11.013Z
+Categories:
+
+
+Name: FoodShiner: Pantry Companion
+Url: https://testflight.apple.com/join/mMsAFf8q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/3f/8c/253f8cbf-09ab-a093-4d16-fc5f3d8c888b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T16:31:11.041Z
+Categories:
+
+
+Name: OPENPOINT TEST
+Url: https://testflight.apple.com/join/EOvrOpa9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/f1/6d/e3f16db4-5c3a-922b-0054-e0210bff6b7f/AppIcon_Inhouse-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T16:31:11.070Z
+Categories:
+
+
+Name: Notespaedia
+Url: https://testflight.apple.com/join/7aCjoaPV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/2f/40/2e2f408c-8af0-ee14-6aa5-37697c641e22/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T16:31:11.098Z
+Categories:
+
+
+Name: Brume Wallet
+Url: https://testflight.apple.com/join/WtNNiY98
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/22/ad/9022ad86-7fc9-99c7-cf04-501824ddb5f6/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T16:31:11.126Z
+Categories:
+
+
+Name: Cubric
+Url: https://testflight.apple.com/join/jajh7Sd6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/32/00/de32003c-a280-7a79-056d-ae64f4453bf0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T16:31:11.154Z
+Categories:
+
+
+Name: Orca - RSS x AI English Tutor
+Url: https://testflight.apple.com/join/CM9LumSO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/e7/66/bae766f7-f947-7773-df78-ddf273846358/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T16:31:11.182Z
+Categories:
+
+
+Name: Two-Eyed Seeing for Parents
+Url: https://testflight.apple.com/join/QD2sxMTD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/a4/71/7ca471ab-56b5-50cf-2d67-f64665b48050/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T16:31:11.211Z
+Categories:
+
+
+Name: Freightster
+Url: https://testflight.apple.com/join/LF9YS7kz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/b2/78/ccb2785b-6c55-b8fd-4f07-42ede551ada8/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T16:31:11.239Z
+Categories:
+
+
