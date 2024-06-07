@@ -15325,3 +15325,120 @@ Last Checked: 2024-06-07T05:15:25.019Z
 Categories:
 
 
+Name: Texecom Connect V2
+Url: https://testflight.apple.com/join/MCJuJtTv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/91/79/f49179cd-26c7-3ae6-e642-3280b8ffc7dd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T05:16:09.916Z
+Categories:
+
+
+Name: TextExpander 7
+Url: https://testflight.apple.com/join/a5Wu4mBU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/f6/3d/f8f63d9c-c324-228a-9bfd-06e96df62791/AppIcon-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-07T05:16:09.953Z
+Categories:
+
+
+Name: The Athletic Staging
+Url: https://testflight.apple.com/join/p122Lpnw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/4b/b5/a94bb5b8-9a23-9062-ca9b-6fd4a1c7f2e8/AppIconStage-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T05:16:09.989Z
+Categories:
+
+
+Name: The Bank of Princeton Mobile
+Url: https://testflight.apple.com/join/wy3A1jEn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/20/ec/92/20ec92b7-6335-e730-f248-66235f496667/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T05:16:10.024Z
+Categories:
+
+
+Name: The Greatest Catch Dev
+Url: https://testflight.apple.com/join/YpokCJ9x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0f/80/0d/0f800d90-3908-a346-61cd-d43d1dd0b6de/AppIconDev-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T05:16:10.059Z
+Categories:
+
+
+Name: The Squatch
+Url: https://testflight.apple.com/join/IDdMLWVz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/c4/ad/74c4adf7-42d5-b3a0-fbe5-022b2edd4c94/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T05:16:10.095Z
+Categories:
+
+
+Name: The Week - social calendar
+Url: https://testflight.apple.com/join/Mvkb3NXg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/c1/a1/26c1a1c0-c21c-3bda-ad03-6e72948e3fc5/AppIcon-0-1x_U007ephone-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T05:16:10.130Z
+Categories:
+
+
+Name: TheKloo Dealer
+Url: https://testflight.apple.com/join/y3mLXP9W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6a/e9/9b/6ae99b57-b1f9-9e75-dfa7-066f50f1be9c/AppIcon-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T05:16:10.166Z
+Categories:
+
+
+Name: ThermaFY Eco
+Url: https://testflight.apple.com/join/WxmxuaOo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/84/32/9184329a-5932-b503-23a3-b84fd57bb13c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T05:16:10.202Z
+Categories:
+
+
+Name: ThoHao Funny
+Url: https://testflight.apple.com/join/XJRE7Xw8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/18/d3/29/18d32952-cd52-51ec-9802-5e149ee50325/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T05:16:10.238Z
+Categories:
+
+
+Name: Thomas AI
+Url: https://testflight.apple.com/join/pg8hybO6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/f2/90/cff29039-5481-968f-5870-f9a691e53ad4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T05:16:10.273Z
+Categories:
+
+
+Name: Tick For Two
+Url: https://testflight.apple.com/join/CEdHlcp8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/11/10/99/11109906-062c-5331-50e3-037b6b02d976/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-07T05:16:10.308Z
+Categories:
+
+
+Name: Tiger Trade: Invest Globally
+Url: https://testflight.apple.com/join/uFeIGcx0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/84/6d/43846d74-e7d4-6700-67d1-ee76b143352c/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T05:16:10.343Z
+Categories:
+
+
