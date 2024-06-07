@@ -5731,3 +5731,120 @@ Last Checked: 2024-06-07T08:08:15.386Z
 Categories:
 
 
+Name: ContinuLink - Mobile Edge
+Url: https://testflight.apple.com/join/4ePdfGYS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/9e/96/ce9e9616-cd4c-bd55-f03a-91ff82196a37/continulinkAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:09:12.038Z
+Categories:
+
+
+Name: CDS UAT
+Url: https://testflight.apple.com/join/zkWqALSD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/d9/16/39d91684-f8e4-d747-c67a-61aa0098e69e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:09:12.068Z
+Categories:
+
+
+Name: Ton Sandbox Wallet
+Url: https://testflight.apple.com/join/wLSfTsyD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/56/2b/89562b4c-ea86-8c46-a68b-80794cbc8fc8/AppIconTestNet-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:09:12.097Z
+Categories:
+
+
+Name: Pepper – Okazje i Kupony
+Url: https://testflight.apple.com/join/mpP6T6MN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/31/05/48310573-67c5-ed26-bbde-585a8550584a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:09:12.126Z
+Categories:
+
+
+Name: PosPosPos
+Url: https://testflight.apple.com/join/8KMKs54Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/4b/77/4b4b77ea-e870-f997-dbd0-7cca4b135f8b/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:09:12.163Z
+Categories:
+
+
+Name: Glucose Direct
+Url: https://testflight.apple.com/join/dWDt5Wme
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/96/63/8496637e-c910-ece0-2c51-870ce9db5c0a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T08:09:12.192Z
+Categories:
+
+
+Name: Ultimate Cafe Franchise
+Url: https://testflight.apple.com/join/xYu5frI7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/82/5a/de825ad5-f708-bd7c-514d-393d14ff7e6a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-07T08:09:12.221Z
+Categories:
+
+
+Name: SmartumPay
+Url: https://testflight.apple.com/join/G26deldP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/64/3a/18/643a1893-b14c-0b3a-fb13-9d2ec569ffd3/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T08:09:12.249Z
+Categories:
+
+
+Name: PMP App Dev
+Url: https://testflight.apple.com/join/lbmpmtQ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/cd/c2/79cdc227-47ab-a78d-375a-24b2ff7e68ed/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:09:12.278Z
+Categories:
+
+
+Name: Guarding Vision
+Url: https://testflight.apple.com/join/AtU9J2Xn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/0a/51/e70a5173-8b29-1b68-f18a-a58e445f552f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:09:12.306Z
+Categories:
+
+
+Name: Breaking News
+Url: https://testflight.apple.com/join/W85f0g3L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/f6/9b/c3f69b31-652c-9673-43a9-2f1b48cee453/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:09:12.335Z
+Categories:
+
+
+Name: Pikalist
+Url: https://testflight.apple.com/join/XnUYLSHN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/89/51/b9895167-28f3-821f-3d97-bd0dfdf28443/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:09:12.364Z
+Categories:
+
+
+Name: Huawei e+
+Url: https://testflight.apple.com/join/tr1WU6iX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/cb/13/cfcb1353-451f-cbef-e3d6-99758c31930c/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:09:12.393Z
+Categories:
+
+
