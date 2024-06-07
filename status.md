@@ -934,3 +934,120 @@ Last Checked: 2024-06-07T12:02:13.731Z
 Categories:
 
 
+Name: idealo - Price Comparison
+Url: https://testflight.apple.com/join/P8TWxiFT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/b4/0d/cab40d37-2d78-bcac-5903-613400ffbea5/AppIcon-0-0-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:03:09.852Z
+Categories:
+
+
+Name: Home Health Check
+Url: https://testflight.apple.com/join/nfKbmd7J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/34/8d/ce348d1f-0e1a-c4cb-c690-4f33e3d71b02/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:03:09.888Z
+Categories:
+
+
+Name: HikLink
+Url: https://testflight.apple.com/join/k3DLVKFM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/3e/62/bf3e6252-537b-0e23-faed-8df6730fafc3/AppIcon-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T12:03:09.924Z
+Categories:
+
+
+Name: B&D  Bakery&Delicacies
+Url: https://testflight.apple.com/join/fgonb2eQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2d/09/5b/2d095b43-8069-25ec-9edf-422cf19a3b5c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:03:09.960Z
+Categories:
+
+
+Name: WM MP-Buch
+Url: https://testflight.apple.com/join/08MzJMt2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/a0/b2/55a0b2ee-37f3-182f-4724-fb60a8582a33/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:03:09.997Z
+Categories:
+
+
+Name: Pokebattler Raid Party
+Url: https://testflight.apple.com/join/jBxZkXqA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/57/17/e2571737-6edd-c3b3-a10f-2d16672bcb14/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:03:10.035Z
+Categories:
+
+
+Name: atome PH-Staging
+Url: https://testflight.apple.com/join/pitNHnF3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/37/5b/85375bc3-5913-8016-7053-cfb9b698ba14/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:03:10.071Z
+Categories:
+
+
+Name: Cell to Singularity: Evolution
+Url: https://testflight.apple.com/join/RD9jGH9S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/68/9e/bb689e66-116c-0b2d-2c8b-de2c7f0dbb19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:03:10.107Z
+Categories:
+
+
+Name: CellarTracker: Wine Tracking
+Url: https://testflight.apple.com/join/TiV6SrKG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/7d/3b/467d3bb1-1f48-8339-6e3d-9e4598bbf796/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:03:10.144Z
+Categories:
+
+
+Name: Moment87
+Url: https://testflight.apple.com/join/EU8XcEOE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/dc/87/f1dc87f7-9298-8460-abf6-cc9f7c45260d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:03:10.182Z
+Categories:
+
+
+Name: Yoosee
+Url: https://testflight.apple.com/join/AHQYkxRO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/8d/67/518d6704-a42a-0168-d589-b4a1e4e1f7d4/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T12:03:10.218Z
+Categories:
+
+
+Name: Kinima Seniors
+Url: https://testflight.apple.com/join/jxbhSrBh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/4e/a4/5c4ea4d1-a18a-e0b1-4f6d-6895a17b3760/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T12:03:10.254Z
+Categories:
+
+
+Name: DGB CAM
+Url: https://testflight.apple.com/join/qa68Mq5o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/7e/e4/8a7ee4d4-d7a8-6d74-3e35-cc4a580409de/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T12:03:10.290Z
+Categories:
+
+
