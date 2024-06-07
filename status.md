@@ -21501,3 +21501,120 @@ Last Checked: 2024-06-07T15:37:11.449Z
 Categories:
 
 
+Name: Strava: Run, Bike, Hike
+Url: https://testflight.apple.com/join/j1cjOW6Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/8e/b3/d88eb395-3211-529b-480f-5185d55aeb89/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T15:38:13.218Z
+Categories:
+
+
+Name: Sumo Shapes
+Url: https://testflight.apple.com/join/urA1vYR8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/25/d7/2625d765-9635-2fe9-3305-eb261ebcadc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.253Z
+Categories:
+
+
+Name: Pathao Talk
+Url: https://testflight.apple.com/join/gSrptqOf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/84/d9/77/84d9779e-c3de-a75e-e890-daf2dbb84060/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.291Z
+Categories:
+
+
+Name: Channel - Staging
+Url: https://testflight.apple.com/join/DDIffbcT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/56/fe/7c56feb7-0a3b-42c2-957f-9c28ea012a98/AppIcon-staging-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.327Z
+Categories:
+
+
+Name: Qobuz Club
+Url: https://testflight.apple.com/join/bufxnrS4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/cc/98/48cc984c-47f7-be87-d0c5-3b53e481740c/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.367Z
+Categories:
+
+
+Name: Nostur - Nostr client
+Url: https://testflight.apple.com/join/TyrRNCXA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/33/90/5933904d-6d4e-2932-8698-231431373404/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.403Z
+Categories:
+
+
+Name: Axm Wallet
+Url: https://testflight.apple.com/join/Bjz0XZ5v
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/91/34/d191341e-fcd3-10ac-cfa7-c7268411a585/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 16
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.439Z
+Categories:
+
+
+Name: 3x3 CubeSpeed
+Url: https://testflight.apple.com/join/mIk6RkqE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/5b/1e/dc5b1e26-508a-b8c7-68cb-7af43a18b778/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.474Z
+Categories:
+- Games
+
+Name: EIC App
+Url: https://testflight.apple.com/join/B45OhL1o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/0b/b3/a50bb388-8fd1-2589-ce2b-0ea74433a4c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.513Z
+Categories:
+
+
+Name: IntraMOB
+Url: https://testflight.apple.com/join/QH7hDuCE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/89/c5/72/89c57201-d702-1713-7b1e-069e5d511a76/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.548Z
+Categories:
+
+
+Name: ONLINE Ticket
+Url: https://testflight.apple.com/join/YNwwlTvs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/03/c6/6b03c62a-373d-76e1-78d4-9082f690f9ae/AppIcon-online-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.584Z
+Categories:
+
+
+Name: BuddyBoss App for LearnDash
+Url: https://testflight.apple.com/join/nMz29b8b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/9c/97/879c978a-44b9-c350-7b62-477c785b4b3b/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.620Z
+Categories:
+
+
+Name: ZONT
+Url: https://testflight.apple.com/join/k4dsrhQc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/66/d1/2a66d1ac-1507-fcc7-72e8-0e669f8afaaf/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-07T15:38:13.656Z
+Categories:
+
+
