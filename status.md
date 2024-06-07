@@ -21292,3 +21292,120 @@ Last Checked: 2024-06-07T10:33:40.123Z
 Categories:
 
 
+Name: Prologue
+Url: https://testflight.apple.com/join/mmH46578
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/76/ac/b576ac1b-ba3b-251f-fb01-4a03ca003de6/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T10:35:04.012Z
+Categories:
+
+
+Name: CT Connect
+Url: https://testflight.apple.com/join/CcEUxxmu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/2f/f9/392ff9ea-3126-050a-c792-e5ad30652e00/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.041Z
+Categories:
+
+
+Name: R1WURKS
+Url: https://testflight.apple.com/join/SP9WiLp6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/6c/2b/d16c2b1e-d8fa-7dd0-506a-0d8b50315682/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.070Z
+Categories:
+
+
+Name: CheggoutV2New
+Url: https://testflight.apple.com/join/I2EVMcAZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/cd/65/12cd652f-cf70-8037-3864-101c60a25e5d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.099Z
+Categories:
+
+
+Name: installer TEam
+Url: https://testflight.apple.com/join/vuuVZCUa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/61/d5/cf61d5fa-7208-7f93-315c-fcb98092ff54/AppIcon-TE-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.130Z
+Categories:
+
+
+Name: Lalaland Journal
+Url: https://testflight.apple.com/join/UycMtg9y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/e0/e7/28e0e767-c995-821e-d06e-083b08d98ec3/AppIcon-production-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.158Z
+Categories:
+
+
+Name: BitPet - AR Virtual Pets
+Url: https://testflight.apple.com/join/xurnOPBO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/12/ec/6312ecb8-b948-c4a7-dc69-6b47b8debbc2/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.186Z
+Categories:
+
+
+Name: EggRider
+Url: https://testflight.apple.com/join/XEu11F03
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/23/11/3b23113c-76c9-7868-9c67-f6dc05f0dd7c/AppIcon-EggRider-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.215Z
+Categories:
+
+
+Name: Jackery
+Url: https://testflight.apple.com/join/Be7WNaVn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/a3/18/efa318a6-5207-9593-f454-a2ab4117d638/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.245Z
+Categories:
+
+
+Name: MOlandDefense
+Url: https://testflight.apple.com/join/e4L805ov
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/b8/4d/7ab84d88-98a7-0ae4-1ba0-ee38830d9f99/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.273Z
+Categories:
+
+
+Name: Vice Nation
+Url: https://testflight.apple.com/join/iGRqk6Mf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/fb/4b/0cfb4b6f-c21d-639c-faa8-2ffa2f702394/GameIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.302Z
+Categories:
+
+
+Name: Townhall, Inc.
+Url: https://testflight.apple.com/join/z2g49gBR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/cc/aa/f0ccaaad-1372-0882-e75f-867668d8950c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.330Z
+Categories:
+
+
+Name: Cliente HOM
+Url: https://testflight.apple.com/join/c1kxJTA5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/93/29/0993293e-83f8-d3f3-7244-c7267af491fe/AppIcon-HOM-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T10:35:04.359Z
+Categories:
+
+
