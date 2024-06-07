@@ -14506,3 +14506,120 @@ Last Checked: 2024-06-07T14:12:10.683Z
 Categories:
 
 
+Name: Rhythm*IZ
+Url: https://testflight.apple.com/join/3gpsI6wD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/a3/8c/cba38c11-1397-3b4b-5e99-de139d6558f7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:13:08.232Z
+Categories:
+
+
+Name: RioPlay
+Url: https://testflight.apple.com/join/9EA54Av9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/11/70/62/11706237-c261-3186-3d29-0c43ae8ca4ad/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T14:13:08.261Z
+Categories:
+
+
+Name: Rituals - Routines and Lists
+Url: https://testflight.apple.com/join/ipCf7rIu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/00/fe/c000fe98-0ee1-6b4f-6f52-ef99fb2aef3d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:13:08.288Z
+Categories:
+
+
+Name: Roam Around.
+Url: https://testflight.apple.com/join/SbQtBzDq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/e5/e4/d2e5e47f-5419-7e13-bc42-55d06231359f/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:13:08.317Z
+Categories:
+
+
+Name: RoamX
+Url: https://testflight.apple.com/join/THQB9l4u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/04/df/3d/04df3d5f-b245-f73a-ce04-ff42dacbf138/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:13:08.344Z
+Categories:
+
+
+Name: Robotic Mower
+Url: https://testflight.apple.com/join/GNjkpuSE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/48/3c/56483c0b-7717-4c0a-181a-77eda55a97b5/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:13:08.373Z
+Categories:
+
+
+Name: Rocket Switch
+Url: https://testflight.apple.com/join/irypUbT3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bf/49/7a/bf497a30-c82f-ea5d-83fa-d9fd070ff92f/AppIcon-0-0-85-220-0-1-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:13:08.400Z
+Categories:
+
+
+Name: Rodgal
+Url: https://testflight.apple.com/join/gqJD4gXh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/86/d7/b086d734-9b65-3691-631c-f2635747aa0f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:13:08.429Z
+Categories:
+
+
+Name: Roi: Track & Grow Net Worth
+Url: https://testflight.apple.com/join/3esSlb5V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7e/11/4c/7e114cc5-43e6-37e2-e863-4fd7b42abf92/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:13:08.458Z
+Categories:
+
+
+Name: Roommate Albert
+Url: https://testflight.apple.com/join/xWsUfVIx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/07/ba/5107ba3f-afda-d11e-7340-c106c31d3e0c/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:13:08.485Z
+Categories:
+
+
+Name: Routific Driver
+Url: https://testflight.apple.com/join/6cHpVucR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/26/89/53/268953b5-5701-96ca-a22f-7945cd8dfe83/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:13:08.513Z
+Categories:
+
+
+Name: Rubber Bands Beta
+Url: https://testflight.apple.com/join/U7RgeUUT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/f3/5a/e8f35a65-b677-65e3-0bb6-c319cb1f242f/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T14:13:08.541Z
+Categories:
+
+
+Name: Ruddarr
+Url: https://testflight.apple.com/join/WbWNuoos
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/6a/88/6c6a8827-77da-269a-73ee-1bacc8b7573d/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T14:13:08.569Z
+Categories:
+
+
