@@ -24100,3 +24100,120 @@ Last Checked: 2024-06-07T20:32:13.466Z
 Categories:
 
 
+Name: AIoT Cam
+Url: https://testflight.apple.com/join/UJvtIqIg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2c/af/63/2caf6346-8039-3350-f9eb-0a4438bde696/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.615Z
+Categories:
+
+
+Name: Luma AI
+Url: https://testflight.apple.com/join/AvhTle5L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a5/73/05/a573059f-b8ae-cb36-dbc7-a498be444fa2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.643Z
+Categories:
+
+
+Name: Timelines Time Tracking
+Url: https://testflight.apple.com/join/zxFgcULE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c3/c3/a4c3c39f-451e-653e-97e8-7bc3997b4d27/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.672Z
+Categories:
+
+
+Name: Dextra: AI Business Assistant
+Url: https://testflight.apple.com/join/vhpbl19u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/ac/33/66ac33df-cbad-30c2-e9d1-908fbceadbf7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.701Z
+Categories:
+
+
+Name: CareMonitor
+Url: https://testflight.apple.com/join/Gz3y9pb6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/f9/78/9bf9785d-5ebc-f0fe-82ae-18b84fa57788/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.729Z
+Categories:
+
+
+Name: Leemify
+Url: https://testflight.apple.com/join/ydTGSovz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/d7/ca/3ad7ca60-8598-7c2c-0622-5a25097be1be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.758Z
+Categories:
+
+
+Name: Tokkeni
+Url: https://testflight.apple.com/join/A84VY0e9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/d5/e6/78d5e6e2-db13-cffc-197e-47b37ff87e68/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.786Z
+Categories:
+
+
+Name: UniFi
+Url: https://testflight.apple.com/join/Pkd9a658
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/b9/f5/50b9f5c4-a5b6-5553-2e25-6b3986fe701c/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.814Z
+Categories:
+
+
+Name: Education xr
+Url: https://testflight.apple.com/join/l1XH8sFY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/32/79/7b327994-55c5-bc62-1dd7-bf5fb6cc5127/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.843Z
+Categories:
+
+
+Name: WidgetHealth - Widget & Health
+Url: https://testflight.apple.com/join/G0Wh2Ft0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/b2/f7/50b2f740-074d-1169-d71a-17db578459ea/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.871Z
+Categories:
+
+
+Name: VCM Digitization Project
+Url: https://testflight.apple.com/join/EhBNBAmr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/cc/cd/edcccd8a-3616-b227-0231-8a9e97dd11f7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.900Z
+Categories:
+
+
+Name: L[AI]ban
+Url: https://testflight.apple.com/join/L1BcTYd6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/28/fc/d428fcc4-fe10-0a8a-9e86-3e83071bb280/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.929Z
+Categories:
+
+
+Name: MFL Platinum
+Url: https://testflight.apple.com/join/FWg4IbLd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/0c/a9/f10ca966-b81e-dc73-ff4e-88dce3e8a60b/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:33:11.957Z
+Categories:
+
+
