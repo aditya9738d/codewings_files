@@ -17197,3 +17197,120 @@ Last Checked: 2024-06-07T09:53:13.059Z
 Categories:
 
 
+Name: Arivei HR Partners
+Url: https://testflight.apple.com/join/JZLyfinp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/99/04/f9990480-b6bb-167c-fc2f-85d2c2377c2b/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.192Z
+Categories:
+
+
+Name: The Tiket
+Url: https://testflight.apple.com/join/JSIsFG26
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/01/b4/e2/01b4e25f-a153-7b69-ed67-fac4a9840bc2/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.228Z
+Categories:
+
+
+Name: Envanter Stok
+Url: https://testflight.apple.com/join/sf12aGor
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d8/59/5f/d8595f6c-be8a-5469-5bd1-61d50f2f88f4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.264Z
+Categories:
+
+
+Name: LiverCU
+Url: https://testflight.apple.com/join/icAUSdXy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a5/19/e5/a519e51e-7637-25de-0a01-373f3b055bff/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.301Z
+Categories:
+
+
+Name: Reflect Notes - Think Better
+Url: https://testflight.apple.com/join/v3yFxXaX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/56/b1/c456b1d0-62aa-4dfe-83b4-812b9ad4f99f/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.337Z
+Categories:
+
+
+Name: FChat
+Url: https://testflight.apple.com/join/fBJrehcF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/a5/91/b9a5918c-a6f7-b0ec-d12a-697a2a28504c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.374Z
+Categories:
+
+
+Name: Ubiq: spatial social world
+Url: https://testflight.apple.com/join/LS55HE8S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8c/24/53/8c2453a9-cc7e-1ed8-5a43-240bd3afff10/AppIcon-0-0-1x_U007ephone-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.410Z
+Categories:
+
+
+Name: Iron Roads
+Url: https://testflight.apple.com/join/YYkKU9tD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/12/68/e512681f-c207-407f-c400-dade092e138b/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.446Z
+Categories:
+
+
+Name: SCRM Econtract
+Url: https://testflight.apple.com/join/Xw8BoNMe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9b/d7/6c/9bd76c3a-a8ce-79f3-cd04-5d7fbcb278f7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.482Z
+Categories:
+
+
+Name: Userscripts
+Url: https://testflight.apple.com/join/2L3V6N2s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/05/b7/ad05b75f-13c0-ef15-49eb-74ca6cbbcd92/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.518Z
+Categories:
+
+
+Name: Trip Reader (NFC)
+Url: https://testflight.apple.com/join/Bl1meNOB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/2a/70/b72a701d-119a-f02e-da2a-f30c9d071282/AppIcon-ka2-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T09:54:13.553Z
+Categories:
+
+
+Name: AutoSale
+Url: https://testflight.apple.com/join/ZSYpiz2h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/69/57/5f/69575f8c-e0d6-68a6-7e50-c54ac2a9b0e9/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.589Z
+Categories:
+
+
+Name: Watch The Matrix
+Url: https://testflight.apple.com/join/a06n3gN4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/79/4b/1e794b78-187e-e405-6fe6-9b1161612828/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T09:54:13.626Z
+Categories:
+
+
