@@ -20912,3 +20912,120 @@ Last Checked: 2024-06-07T15:30:48.920Z
 Categories:
 
 
+Name: Keka
+Url: https://testflight.apple.com/join/gPYINGCJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/a5/e1/4aa5e195-81ba-4700-2c09-c7ec81859bb2/Keka-iOS-Smile-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 19
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.259Z
+Categories:
+
+
+Name: Pino - DeFi Wallet
+Url: https://testflight.apple.com/join/2UYERVD3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/00/aa/8400aa77-d102-cfbb-7be7-e65144dcc270/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.295Z
+Categories:
+
+
+Name: Wavlake
+Url: https://testflight.apple.com/join/eWnqECG4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/42/c9/f6/42c9f673-3c21-f334-48a5-1c1c733a65a9/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.330Z
+Categories:
+
+
+Name: NgajiQuran
+Url: https://testflight.apple.com/join/4ErE5nTw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/8b/b4/5a8bb4df-a6da-377e-85b5-f505001cb566/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.365Z
+Categories:
+
+
+Name: Lupiiya Books
+Url: https://testflight.apple.com/join/uCUSujtY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/5c/c6/c15cc6f9-0e59-4a5f-233c-12eac79766d8/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.400Z
+Categories:
+
+
+Name: SlidewayZ™: A Musical Journey
+Url: https://testflight.apple.com/join/iMT7hNzC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/74/0a/a6740a2c-087c-1233-8549-15470c391bca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.436Z
+Categories:
+
+
+Name: Teletable
+Url: https://testflight.apple.com/join/V8V9fqhg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/eb/cd/26ebcd03-3451-4a99-b5c8-db36b7b6543b/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.472Z
+Categories:
+
+
+Name: Ethos - Cinematic Music
+Url: https://testflight.apple.com/join/jiLbZFB7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/83/64/7283642e-4f47-6585-3ea8-1f42063574d2/EthosAppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.507Z
+Categories:
+
+
+Name: ProfilePix: Style Your Avatar
+Url: https://testflight.apple.com/join/cg1nQr43
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/dd/d1/c1ddd152-45fd-0789-a90b-03326681c936/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.542Z
+Categories:
+
+
+Name: Solstream
+Url: https://testflight.apple.com/join/eTFLYHzw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/ae/71/57ae7159-0451-f73e-b44a-33fd6bd9928c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.577Z
+Categories:
+
+
+Name: AmanaTa
+Url: https://testflight.apple.com/join/7BbyzYKv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/48/5f/a2/485fa20d-c9da-f378-1ecd-0ac403db13e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.612Z
+Categories:
+
+
+Name: GSequencer
+Url: https://testflight.apple.com/join/kIXRfXaz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/9e/3e/629e3e7d-6cdb-7f2a-deff-11f3a1d0f55c/GSequencer.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.647Z
+Categories:
+
+
+Name: Finqalab
+Url: https://testflight.apple.com/join/Drb81A3W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/f3/d8/f7f3d81f-5b1c-72cd-57d0-f63b132038fc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T15:31:13.683Z
+Categories:
+
+
