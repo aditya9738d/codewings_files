@@ -8773,3 +8773,120 @@ Last Checked: 2024-06-07T18:09:12.121Z
 Categories:
 
 
+Name: Bombay App
+Url: https://testflight.apple.com/join/wqwvP37T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/1e/a5/841ea54d-11b1-1ca7-5489-ba735be26316/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:10:26.267Z
+Categories:
+
+
+Name: Samply - Listen & Share
+Url: https://testflight.apple.com/join/ACiAGB0g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/11/7b/01117b0c-f48d-1ada-6329-7148a7c8840a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:10:26.302Z
+Categories:
+
+
+Name: Duolingo - Language Lessons
+Url: https://testflight.apple.com/join/Sq8bYSnJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/90/36/da90369d-80c0-2f72-e771-5ae9e1d75962/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T18:10:26.338Z
+Categories:
+
+
+Name: Watsons TH SIT / D1
+Url: https://testflight.apple.com/join/2MZJIAMk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/b9/46/deb946a9-a5e6-ad31-a967-f4c677cba6a3/AppIcon-TH-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:10:26.373Z
+Categories:
+
+
+Name: PinspectSKAT
+Url: https://testflight.apple.com/join/HVoQRe7y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/57/76/bd57769d-02e4-949c-5b28-b26a9bf63c70/AppIcon-0-1x_U007emarketing-0-10-0-GLES2_U002c0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:10:26.409Z
+Categories:
+
+
+Name: Vibrance - Inspire Yourself
+Url: https://testflight.apple.com/join/mhLJeEo4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0e/3d/2e/0e3d2eee-4107-2e76-89ec-202a3dbdcdbf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:10:26.444Z
+Categories:
+
+
+Name: MaaS360 Secure Editor
+Url: https://testflight.apple.com/join/f5CXDBxn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/b0/e2/b2b0e228-df99-5e7d-0319-014c3f450686/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:10:26.479Z
+Categories:
+
+
+Name: Etendo
+Url: https://testflight.apple.com/join/MWqctJS2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/49/92/1b49921a-4793-3e94-8a2a-de26d6126fd9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:10:26.514Z
+Categories:
+
+
+Name: agorum boost
+Url: https://testflight.apple.com/join/MP0bTVZU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/4a/15/8c4a15a7-0bf7-e4e6-1c2d-50ad2efad9bb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:10:26.550Z
+Categories:
+
+
+Name: Deep Dictionary
+Url: https://testflight.apple.com/join/lxzMMbZl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/11/6d/4e116df8-9b57-1be7-3a13-ce7e4119ea42/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:10:26.585Z
+Categories:
+
+
+Name: Affinity Photo 2 iPad Beta
+Url: https://testflight.apple.com/join/kMSouXpl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ff/12/31/ff12316e-9dca-81ff-f9da-9b1c83447f9a/PhotoAppIconBeta-1x_U007emarketing-5-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-07T18:10:26.622Z
+Categories:
+
+
+Name: CPayant
+Url: https://testflight.apple.com/join/3YbdkfZu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/fa/64/abfa6471-6cb3-654a-c0cb-788800a40b97/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:10:26.657Z
+Categories:
+
+
+Name: Cheatsheet — Quick Note Widget
+Url: https://testflight.apple.com/join/E7AnyPlA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/74/56/de74560f-f642-7499-06e5-0339d44aa56b/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T18:10:26.693Z
+Categories:
+
+
