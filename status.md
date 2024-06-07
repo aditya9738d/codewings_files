@@ -10411,3 +10411,120 @@ Last Checked: 2024-06-07T18:23:11.514Z
 Categories:
 
 
+Name: super metal mons
+Url: https://testflight.apple.com/join/1hO6bCMH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/c6/79/b8c6791a-9dfc-804b-ae97-9a2f8f02eeb9/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T18:24:12.573Z
+Categories:
+
+
+Name: StatusBuddy
+Url: https://testflight.apple.com/join/MK6zSKdG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/e5/c8/0ee5c859-e1b1-dd24-9958-47bd97137f9e/AppIcon-0-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.602Z
+Categories:
+
+
+Name: Shipper Japfa
+Url: https://testflight.apple.com/join/OMP57RQo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/39/e4/56/39e45611-3373-b6f0-d6d3-aac4aa6233b9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.630Z
+Categories:
+
+
+Name: Levana.ai
+Url: https://testflight.apple.com/join/hntBsPDi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/0c/45/870c451f-7bf3-74a5-390b-3e2353076f7d/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.659Z
+Categories:
+
+
+Name: SRS-MY
+Url: https://testflight.apple.com/join/5KyoOvpK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/04/6d/db/046ddbbb-0c2c-47dc-8c46-f36f72d8fddc/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.687Z
+Categories:
+
+
+Name: Pablo - AI Voice Chat
+Url: https://testflight.apple.com/join/raZGq35o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/be/c4/e0bec43b-6ae1-01d5-ad82-5f14662caf2b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.717Z
+Categories:
+
+
+Name: iDeliberate: Live Consciously
+Url: https://testflight.apple.com/join/kELs398P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/16/60/0016604c-fca6-4688-a04b-12fc2814ae55/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.745Z
+Categories:
+
+
+Name: Claire's Clarity
+Url: https://testflight.apple.com/join/8nWo9fPw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/7c/be/417cbe0d-a239-590e-01b0-9d690b75b77e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.774Z
+Categories:
+
+
+Name: Navatics
+Url: https://testflight.apple.com/join/YAY2SOPi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/b4/ab/0db4aba2-9f36-92b5-45eb-2c9e205acd34/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.803Z
+Categories:
+
+
+Name: Teslogic Dash
+Url: https://testflight.apple.com/join/YS2Nsl5q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/85/e9/39/85e93950-7526-76b8-7130-5532473fa313/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.832Z
+Categories:
+
+
+Name: TiKi
+Url: https://testflight.apple.com/join/rlHdD6qZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/fe/cf/bbfecfc9-c393-639d-7ede-1b915e3408ef/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.860Z
+Categories:
+
+
+Name: Reflect for iPad
+Url: https://testflight.apple.com/join/ERcDXcPQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/0f/9c/d60f9ce5-8e27-bede-d037-c9533f2230c6/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.889Z
+Categories:
+
+
+Name: Mobile VMS
+Url: https://testflight.apple.com/join/dTEj0p5f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/05/dd/6905ddac-f46e-ba08-2e62-b1cf6f5cefbd/AppIcon-1x_U007emarketing-2-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T18:24:12.918Z
+Categories:
+
+
