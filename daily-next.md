@@ -1,3 +1,5 @@
+- **BlockDAG X1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/7f/e0/c67fe00b-904b-288e-e3c5-3bdb59303411/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UklNDHnE)
+
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/43/4a/7f434a97-c61d-d46d-9ac2-0df3050e6c3d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
 
 - **Kiếm Ca Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/12/8f/98128f3d-a77a-82ab-8a0e-71b8b61bb007/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/O0ppOaM3)
@@ -46,5 +48,3 @@
 - **Work Lunch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/b1/f5/50b1f563-059f-b85b-7ba0-24e4d6f059be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AnTxOl6P)
 - **Payconiq by Bancontact**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/6f/a6/da6fa63e-dd41-68d5-9b94-88fc8f20a1d9/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Mpza7scj)
 - **Delta Digital**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/8b/37/8e8b37c0-c516-f804-9f61-80fb179bb462/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AQ87Xg1x)
-- **SCA UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/2e/21/842e21a6-b8a0-5b53-e9e4-64515774e1e5/AppIcon-test-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a2W8tS4N)
-- **CPM VN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/91/1b/9e911b22-8c80-5cfa-54d2-c4b901fcc1a1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Nu0VgBBq)
