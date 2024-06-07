@@ -934,3 +934,120 @@ Last Checked: 2024-06-07T03:11:09.417Z
 Categories:
 
 
+Name: [STG] Extra 10
+Url: https://testflight.apple.com/join/nWdwl75f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/e1/b1/63e1b163-44c6-607b-390d-9bab06fc7457/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.606Z
+Categories:
+
+
+Name: When We Disappear
+Url: https://testflight.apple.com/join/BkBZx6Em
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ca/2b/b1/ca2bb19a-c5d8-c11d-5d57-f608e8ab29e0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.641Z
+Categories:
+
+
+Name: Prime Gems loan & credit card
+Url: https://testflight.apple.com/join/HdaFKodA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/9f/0c/809f0cd2-19b1-726a-9515-e7c3fa94a6db/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.677Z
+Categories:
+
+
+Name: GeoGebra Scientific Calculator
+Url: https://testflight.apple.com/join/459GgRny
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/a9/7e/92a97e1f-a4b9-d6fe-42a0-6da083590d24/GeoGebraScientificCalculator-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.712Z
+Categories:
+
+
+Name: Ex-Press
+Url: https://testflight.apple.com/join/r5vANLZh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/23/df/8823dfaa-38b4-544a-e4b8-8e442b3b92c9/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.747Z
+Categories:
+
+
+Name: Clip2Comic: Comic Maker
+Url: https://testflight.apple.com/join/1CjDctG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/f3/b7/23f3b7d0-a48b-0a59-e566-ee9e7e8f563c/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.782Z
+Categories:
+
+
+Name: DropStation
+Url: https://testflight.apple.com/join/diCxI4u1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/fc/c0/0afcc0ff-baa8-634a-e703-5ac05d5f07d0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.818Z
+Categories:
+
+
+Name: Six - Share what you love
+Url: https://testflight.apple.com/join/dnsC3tUO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/99/61/0f9961dc-66ed-afaf-2fa9-4c9ff1dee9e9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.853Z
+Categories:
+
+
+Name: Omnivore: Read-it-later
+Url: https://testflight.apple.com/join/BRGk9QCF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/d0/11/c3d011a5-ac89-c534-a4f3-1c5fac6ed2d8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.888Z
+Categories:
+
+
+Name: Reewind
+Url: https://testflight.apple.com/join/L5H1wPSv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/94/a5/1994a50b-ffd0-fa92-d0b4-d52755ff4f30/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.923Z
+Categories:
+
+
+Name: Trading Charts Course FinTorro
+Url: https://testflight.apple.com/join/YPQqWyPC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/74/8d/fb748dd0-dbd7-98e3-aa8f-b50216156ce9/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.958Z
+Categories:
+
+
+Name: OVpay
+Url: https://testflight.apple.com/join/VYEzNoAW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/9c/d7/5f9cd724-8899-d063-92fa-c35fdadd9b5b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:12:11.993Z
+Categories:
+
+
+Name: Dropover - Easier Drag & Drop
+Url: https://testflight.apple.com/join/vI2iTOSj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/8a/43/0f8a4381-4857-0632-86f3-a02f41f17098/AppIcon-0-85-220-0-4-0-0-2x-sRGB-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T03:12:12.029Z
+Categories:
+
+
