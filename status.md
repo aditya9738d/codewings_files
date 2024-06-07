@@ -14506,3 +14506,120 @@ Last Checked: 2024-06-07T19:00:47.646Z
 Categories:
 
 
+Name: Bitunix : Crypto & BTC Trading
+Url: https://testflight.apple.com/join/riLL6dc0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/64/56/3b645625-5dd1-3dd7-a25f-883d8a4c598a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:01:10.694Z
+Categories:
+
+
+Name: Meditation Timer - Zenitizer
+Url: https://testflight.apple.com/join/QvKyRJ8x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/a4/d9/f8a4d968-809a-5be3-a4e3-9d708d3d4108/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:01:10.722Z
+Categories:
+
+
+Name: Xelerate Suite
+Url: https://testflight.apple.com/join/L89HPOdQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/20/57/7f/20577f6d-6f27-63c5-b169-ec2216941ed0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:01:10.751Z
+Categories:
+
+
+Name: Pace-Calc
+Url: https://testflight.apple.com/join/Ge4pa25s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/0e/0f/110e0f0d-77e5-1ff1-f7f4-32eb84cef2c1/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:01:10.780Z
+Categories:
+
+
+Name: Rondo Measure and Quote
+Url: https://testflight.apple.com/join/Hc0drHQj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/b9/0c/0bb90c48-a15b-83bc-2b47-5747df4868cb/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T19:01:10.809Z
+Categories:
+
+
+Name: Ever Play - HiFi Music Player
+Url: https://testflight.apple.com/join/MzvaziMT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/7c/2d/da7c2d3f-87b6-ee3a-2cbb-8d565ef3e799/AppIcon5-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T19:01:10.837Z
+Categories:
+
+
+Name: Alta Networks
+Url: https://testflight.apple.com/join/jbfXiKNg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/9d/35/e59d3579-0e49-523d-567f-2fbacabcf020/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T19:01:10.866Z
+Categories:
+
+
+Name: Write GT
+Url: https://testflight.apple.com/join/ZmKo5CMy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/46/cd/9846cd67-8ca5-f5f0-1ab0-550753061b83/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:01:10.894Z
+Categories:
+
+
+Name: Can of Soup
+Url: https://testflight.apple.com/join/mUGNMWLC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/91/e7/4c91e757-7cee-135e-05e8-e4214ecced3f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:01:10.922Z
+Categories:
+
+
+Name: Webful PasswordMaker
+Url: https://testflight.apple.com/join/3MnAJg3Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/14/5ad51457-15b9-f9dc-eb9a-cf1d56f33a23/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:01:10.951Z
+Categories:
+
+
+Name: cosinuss° Health
+Url: https://testflight.apple.com/join/icq0eiiq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/67/81/4467815c-c0d8-4564-7542-2735824ee894/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:01:10.979Z
+Categories:
+
+
+Name: Prowork
+Url: https://testflight.apple.com/join/x0ZYdEfu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/ea/dd/c8eaddfb-1419-e676-6bbf-d3d89f6096ce/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:01:11.008Z
+Categories:
+
+
+Name: Newsfreak Demo
+Url: https://testflight.apple.com/join/mFGxNnRM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/7c/c8/067cc882-2dd5-5c41-e3e7-fb5900359cad/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T19:01:11.046Z
+Categories:
+
+
