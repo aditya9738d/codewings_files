@@ -7603,3 +7603,120 @@ Last Checked: 2024-06-07T08:24:11.922Z
 Categories:
 
 
+Name: Status++
+Url: https://testflight.apple.com/join/F1KmUg6K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/6f/3a/ae6f3abf-e91b-08f6-df38-c0e37db5fcdc/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T08:25:20.326Z
+Categories:
+
+
+Name: Swish Sandbox
+Url: https://testflight.apple.com/join/iQTsRg5b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/31/d7/c6/31d7c60a-9682-e04c-87b1-c6d7671fd559/AppIconSandbox-0-0-1x_U007emarketing-0-5-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:25:20.362Z
+Categories:
+
+
+Name: Sky Go
+Url: https://testflight.apple.com/join/27XwW4TL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/df/f2/89/dff289f9-34a9-fb0b-2cbd-6ecc2cc7df0a/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T08:25:20.397Z
+Categories:
+
+
+Name: GoodBarber Commerce
+Url: https://testflight.apple.com/join/7Kh2Y3sP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/95/a5/ac95a544-431d-092c-f3d8-07b86eb7c13e/MyGBAppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:25:20.433Z
+Categories:
+
+
+Name: RSLog OnSite
+Url: https://testflight.apple.com/join/jEqggnlv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/bd/a8/f6bda814-8d56-fa82-37d9-5aa33e3c8bb2/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T08:25:20.469Z
+Categories:
+
+
+Name: Quatro Booking
+Url: https://testflight.apple.com/join/YG23lJxL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/a7/de/f9a7debd-a8a5-b9a3-6776-d6b8f0209131/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T08:25:20.505Z
+Categories:
+
+
+Name: BESV Smart Plus App
+Url: https://testflight.apple.com/join/FLmvkYS8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/89/8f/c2/898fc218-f7d1-0368-834b-3b75fc9e0557/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:25:20.542Z
+Categories:
+
+
+Name: Fair Plus
+Url: https://testflight.apple.com/join/Ao0G8UZD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/26/7b/8a267b50-4552-dd7c-496d-a63b787a555d/AppIcon-Plus-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:25:20.578Z
+Categories:
+
+
+Name: GO-ACT
+Url: https://testflight.apple.com/join/qxWL77Pv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/08/fc/ac08fc38-77cd-00a2-94c4-ddaba9ade0b4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:25:20.614Z
+Categories:
+
+
+Name: Air Manager
+Url: https://testflight.apple.com/join/f81FJgKN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/28/02/98/2802983f-6485-f17b-b4ed-3861480220b2/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:25:20.651Z
+Categories:
+
+
+Name: eM Client
+Url: https://testflight.apple.com/join/nzXZuIQs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ee/03/f2/ee03f234-c439-db5f-df93-1f16fe89e132/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:25:20.687Z
+Categories:
+
+
+Name: Memento: Modern Reminders
+Url: https://testflight.apple.com/join/aRvubPov
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b3/28/da/b328da28-5f6e-1abd-2b2f-dcf390cba918/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:25:20.724Z
+Categories:
+
+
+Name: monpay
+Url: https://testflight.apple.com/join/kCeARWvI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/dd/7b/4bdd7b7b-8118-a733-6cc6-377e86412d8c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T08:25:20.760Z
+Categories:
+
+
