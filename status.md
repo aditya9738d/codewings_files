@@ -16261,3 +16261,120 @@ Last Checked: 2024-06-07T01:11:10.618Z
 Categories:
 
 
+Name: foobar2000
+Url: https://testflight.apple.com/join/fM6L331c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/66/50/88665091-c68d-f5fd-e232-40fa20b5459e/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:12:09.611Z
+Categories:
+
+
+Name: CarbingRepairApp
+Url: https://testflight.apple.com/join/GA7GuCNQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/08/bb/fa08bbc7-b664-72e0-7d11-6b8dd8e0ea56/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:12:09.639Z
+Categories:
+
+
+Name: UniFi Connect EA
+Url: https://testflight.apple.com/join/EU2GB4D2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/82/45/29824565-4bff-5b12-5b78-f83f6cf2cdf7/AppIconEA-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:12:09.669Z
+Categories:
+
+
+Name: BASD
+Url: https://testflight.apple.com/join/SVvmtHeR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/6b/06/906b068d-053e-7deb-5b9a-57ade499a7eb/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:12:09.696Z
+Categories:
+
+
+Name: Lady & gentleman CITY
+Url: https://testflight.apple.com/join/keUChAvk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4a/56/954a5678-9082-8108-ee2c-de2a26c682e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:12:09.724Z
+Categories:
+
+
+Name: Assistant
+Url: https://testflight.apple.com/join/e9U5Mfz4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/77/3f/b5773f06-e95a-972a-2b0e-6991835374c3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:12:09.752Z
+Categories:
+
+
+Name: Zepp (formerly Amazfit)
+Url: https://testflight.apple.com/join/kBbaIpT3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/9f/f7/aa9ff750-3617-16db-3346-ab7a3780a0a3/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:12:09.780Z
+Categories:
+
+
+Name: auth. - 2FA Smart Sync
+Url: https://testflight.apple.com/join/8XDBCC4Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/db/7a/b6db7a6d-bdbc-a4ce-e1f7-520c019c0fd7/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T01:12:09.807Z
+Categories:
+
+
+Name: UDisc Disc Golf
+Url: https://testflight.apple.com/join/vRPkDDy1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/4b/65/884b6511-c2bc-aaa3-b8a2-45cae8f350b9/AppIconfree-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:12:09.835Z
+Categories:
+
+
+Name: Mate - Live Video Chat & Meet
+Url: https://testflight.apple.com/join/V2L1PH8N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/98/84/80/9884804f-1247-9eee-1dc3-32f5846146d6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:12:09.863Z
+Categories:
+
+
+Name: Queued Up
+Url: https://testflight.apple.com/join/HL0fmJAX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/f4/68/12f4689e-07eb-8cab-3374-5564d1342620/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-07T01:12:09.891Z
+Categories:
+
+
+Name: BETA_SoundBar
+Url: https://testflight.apple.com/join/ihUDCKgt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/38/46/6b384654-199a-380d-5c17-fe02a16f74aa/SoundBar2021-AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:12:09.919Z
+Categories:
+
+
+Name: Vesputio
+Url: https://testflight.apple.com/join/nb7I51Fm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/aa/80/77aa806c-5f91-0e20-de67-b33f345f4ecd/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T01:12:09.946Z
+Categories:
+
+
