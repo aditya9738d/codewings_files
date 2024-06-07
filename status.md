@@ -21994,3 +21994,120 @@ Last Checked: 2024-06-07T10:39:23.929Z
 Categories:
 
 
+Name: Frich
+Url: https://testflight.apple.com/join/TEMBMEy2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/76/11/41/76114149-1640-100b-d5d9-d89d726f83a5/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:40:57.803Z
+Categories:
+
+
+Name: Weather Champs
+Url: https://testflight.apple.com/join/xjuEeHhl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5f/da/70/5fda7037-dea2-3ad7-16e0-4951bf777b68/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T10:40:57.839Z
+Categories:
+
+
+Name: BR Installer
+Url: https://testflight.apple.com/join/92xnXQdZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cf/cf/4a/cfcf4ad5-51c5-22e3-c6f8-ade78fb1916a/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-07T10:40:57.875Z
+Categories:
+
+
+Name: foodora: Food Delivery
+Url: https://testflight.apple.com/join/bvN8GUcQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/a6/7a/59a67af5-59ea-4688-f2b4-c64045850c95/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:40:57.910Z
+Categories:
+
+
+Name: PatternMA
+Url: https://testflight.apple.com/join/5TImYsjh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/1e/bc/571ebccf-ae0d-a927-03bb-7c3c89f10f54/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:40:57.947Z
+Categories:
+
+
+Name: SupaPro-UAT
+Url: https://testflight.apple.com/join/dfXZhhm9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/87/4f/08874f7b-4eba-26f0-75f1-dc9d371a780e/AppIcon-1x_U007emarketing-0-7-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:40:57.983Z
+Categories:
+
+
+Name: Castamatic Podcast Player
+Url: https://testflight.apple.com/join/Uc63akXE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/16/91/3e169153-cb4d-136a-ebbc-9f805d6b9e5a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:40:58.020Z
+Categories:
+
+
+Name: CosmicAI
+Url: https://testflight.apple.com/join/5MA2baD8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/32/a2/f632a256-ad27-d4fc-035e-3cefcc5f7cd0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T10:40:58.056Z
+Categories:
+
+
+Name: Mobile Agent Dev
+Url: https://testflight.apple.com/join/gM9CGhpn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/85/12/d2/8512d203-995d-f4ec-bb30-37ccb7629ec0/AppIcon-dev-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T10:40:58.092Z
+Categories:
+
+
+Name: Euro Cup 2024 Score Predictor
+Url: https://testflight.apple.com/join/H1XDE4V9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/68/24/c968241d-b025-10e7-7cfb-d415ba3af675/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T10:40:58.127Z
+Categories:
+
+
+Name: Mobius Template
+Url: https://testflight.apple.com/join/cISp06fo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/9d/cc/fa9dcc14-b72d-477e-97ea-8fa408a1312b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T10:40:58.162Z
+Categories:
+
+
+Name: iHerb: Vitamins & Supplements
+Url: https://testflight.apple.com/join/ra5oPV8S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/0c/d5/750cd52b-0659-c219-4229-dc55fa72fefb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T10:40:58.198Z
+Categories:
+
+
+Name: GWM ORA
+Url: https://testflight.apple.com/join/GQIZJoBn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/e7/96/e2e79607-dfdf-f38b-171d-cfd5d2521a5f/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-07T10:40:58.235Z
+Categories:
+
+
