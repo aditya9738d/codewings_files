@@ -25036,3 +25036,120 @@ Last Checked: 2024-06-07T20:40:28.071Z
 Categories:
 
 
+Name: PriBank mBanking Test
+Url: https://testflight.apple.com/join/GujYmbdr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/e6/d6/9ce6d616-d4fc-a80a-9ddb-393c8ba09881/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T20:41:10.422Z
+Categories:
+
+
+Name: Fun Toast
+Url: https://testflight.apple.com/join/9FffIbCS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/fa/cb/33facb19-fd81-5bb3-f1e1-3c4843850564/FuntoastIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:41:10.450Z
+Categories:
+
+
+Name: Duel Revolution Beta
+Url: https://testflight.apple.com/join/F8yXrZdF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/22/01/4c/22014c08-6bbe-37b2-2113-42c324fff419/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T20:41:10.478Z
+Categories:
+
+
+Name: SoulRealm - NEMO
+Url: https://testflight.apple.com/join/kCfcJBw3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/12/4e/a8/124ea85f-11d9-952a-c31b-09aa2705609b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:41:10.507Z
+Categories:
+
+
+Name: BBX SIT
+Url: https://testflight.apple.com/join/tO7C4u9n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/bb/53/1fbb535c-0867-f9fd-264b-b9c7cbadff3a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:41:10.535Z
+Categories:
+
+
+Name: Nextdoor: Neighborhood Network
+Url: https://testflight.apple.com/join/hWa4fUQe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/77/1f/36771f27-d3e5-ac55-0504-0c427fb21c01/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:41:10.564Z
+Categories:
+
+
+Name: Microsoft Edge: AI Browser
+Url: https://testflight.apple.com/join/JkU2rh21
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/15/a9/a615a912-2cdd-ecdd-d444-0bd563ab5f53/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T20:41:10.593Z
+Categories:
+
+
+Name: Richy Esale
+Url: https://testflight.apple.com/join/qrwEg2SO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/33/ee/9f33ee7c-1897-05f9-0f04-c0e6fa01f1fc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:41:10.622Z
+Categories:
+
+
+Name: Volt Wallet
+Url: https://testflight.apple.com/join/etYtq5k5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/cd/42/c0cd424d-1009-0298-9393-6dda01f2d7ff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:41:10.651Z
+Categories:
+
+
+Name: Castaway: Spatial HDMI Monitor
+Url: https://testflight.apple.com/join/H0ow9JUP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/cf/59/48cf5940-de2b-0292-32e9-40b838c94770/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:41:10.679Z
+Categories:
+
+
+Name: Nautica Opencart
+Url: https://testflight.apple.com/join/iqj9I1FQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/40/72/3540727a-d779-d622-152b-ba0532cb2549/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:41:10.710Z
+Categories:
+
+
+Name: AYA PAY Wallet
+Url: https://testflight.apple.com/join/YxX8VRsr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d5/7d/16/d57d1648-0238-5bc2-89bf-a2e793b0a216/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:41:10.737Z
+Categories:
+
+
+Name: Luxury Card Lifestyle - STG
+Url: https://testflight.apple.com/join/O0TFGuAA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/8c/44/168c44e8-46d0-75a7-493b-cba37a59a0e6/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T20:41:10.766Z
+Categories:
+
+
