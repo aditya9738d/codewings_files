@@ -3274,3 +3274,120 @@ Last Checked: 2024-06-07T17:19:13.798Z
 Categories:
 
 
+Name: DingDing - Make It Happen
+Url: https://testflight.apple.com/join/nGQtRTxB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/31/bc/e131bcb1-1099-4d93-c452-d3bbe5c3258f/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T17:20:28.400Z
+Categories:
+
+
+Name: myVineland
+Url: https://testflight.apple.com/join/kbNFHzkd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/56/4e/c5564e04-e8ef-0d49-2550-38abef1c1380/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:20:28.435Z
+Categories:
+
+
+Name: iToolsBTV4
+Url: https://testflight.apple.com/join/GIvxKVR5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/13/29/611329c8-c43e-48fd-5aeb-259b51a5ae4a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:20:28.472Z
+Categories:
+
+
+Name: Hemibit Writer
+Url: https://testflight.apple.com/join/lYgSmFYL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/bf/a8/fbbfa8d0-28fd-2130-3467-220ae0eac4d3/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:20:28.507Z
+Categories:
+
+
+Name: Pill Push ER Game
+Url: https://testflight.apple.com/join/uEPfTiqB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/ac/c8/06acc832-2684-0da7-f083-148bd2d06799/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:20:28.544Z
+Categories:
+
+
+Name: CS342 2024 PICS
+Url: https://testflight.apple.com/join/oHPpBoKG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/f9/64/a2f9643a-2232-11b3-3e1d-3aa92d0dc02c/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:20:28.580Z
+Categories:
+
+
+Name: Booksnake
+Url: https://testflight.apple.com/join/YocgyZwN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/71/30/ac71304d-da7f-9a80-171c-4c7a3739707d/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:20:28.615Z
+Categories:
+
+
+Name: Rippple for Trakt
+Url: https://testflight.apple.com/join/arGwzIYn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/f1/ba/96f1badd-0953-5db9-b051-e2c161145f9c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T17:20:28.652Z
+Categories:
+
+
+Name: put.io
+Url: https://testflight.apple.com/join/Sj8gx21t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5f/f1/06/5ff10683-f26e-7ad8-cd03-834e7aee1182/AppIconRetro-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:20:28.688Z
+Categories:
+
+
+Name: ADAMANT Messenger
+Url: https://testflight.apple.com/join/OQnZIOT8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/eb/0f/83eb0f87-9cf4-51c3-94e7-1380c30513d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:20:28.724Z
+Categories:
+
+
+Name: Staging Vibes Only
+Url: https://testflight.apple.com/join/rFswGkqJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/a0/1d/d5a01d93-7161-1b6e-2dc4-d04263b57b3f/AppIcon-staging-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:20:28.760Z
+Categories:
+
+
+Name: iPartnerHandling
+Url: https://testflight.apple.com/join/NeOEHzQO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/fb/4c/cafb4cea-69e6-d888-124a-6efdf3af05aa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:20:28.796Z
+Categories:
+
+
+Name: Work Plus QAS
+Url: https://testflight.apple.com/join/SVbn1MmA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/ce/49/0bce49b3-c0ff-5bf6-eaeb-a0bfd37699ce/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T17:20:28.832Z
+Categories:
+
+
