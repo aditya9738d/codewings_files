@@ -4678,3 +4678,120 @@ Last Checked: 2024-06-07T03:44:10.972Z
 Categories:
 
 
+Name: CS342 2024 Prisma
+Url: https://testflight.apple.com/join/bPu7kUoM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/14/fd/da/14fddac7-b2eb-cdb8-8477-45cbaa1c43ab/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:45:23.681Z
+Categories:
+
+
+Name: CTS Mobile UAEU
+Url: https://testflight.apple.com/join/QkIUaxfp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/20/83/852083ca-0363-c9da-ac97-024713923a0f/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:45:23.710Z
+Categories:
+
+
+Name: CUZINBEATS
+Url: https://testflight.apple.com/join/Aq9EdS4I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/fe/b8/44feb84a-dbdb-c8c9-12f7-9ce6f15668b3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T03:45:23.738Z
+Categories:
+
+
+Name: CX One App - UAT
+Url: https://testflight.apple.com/join/JsSSjSEL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/90/c1/c590c196-32c6-2c11-f1df-8c7bec2578a2/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:45:23.769Z
+Categories:
+
+
+Name: Cabme Customer
+Url: https://testflight.apple.com/join/xgO4dIna
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/e0/31/a3e031ba-c0c1-0a90-447b-68a1e2a22a80/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:45:23.798Z
+Categories:
+
+
+Name: Caesars Sportsbook
+Url: https://testflight.apple.com/join/yMTSVesS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7e/f0/66/7ef06651-3530-010d-ca03-2eddf550f51b/AppIcon-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T03:45:23.826Z
+Categories:
+
+
+Name: CamDigiKeyExternalDev
+Url: https://testflight.apple.com/join/Rmiw8D8h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ee/3f/d3/ee3fd388-b750-dcad-75ae-804818789d5e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T03:45:23.855Z
+Categories:
+
+
+Name: Campus - POC Gent
+Url: https://testflight.apple.com/join/ERuYPDKA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/6f/b3/3a6fb32a-819d-9b32-ff8a-0d8b7e663b61/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:45:23.883Z
+Categories:
+
+
+Name: CanZE
+Url: https://testflight.apple.com/join/gypjWAtk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/50/41/f750411b-fc6d-5d4a-c085-246ca2e6a515/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-07T03:45:23.912Z
+Categories:
+
+
+Name: Candle: Automate Your Finances
+Url: https://testflight.apple.com/join/6RGagpwc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c1/4c/ed/c14cedfe-a04c-0775-f602-171c9bc967a6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:45:23.940Z
+Categories:
+
+
+Name: Canoo Fleet-stage
+Url: https://testflight.apple.com/join/vSDwEAPQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/4b/f3/3b4bf3e5-7bcc-181c-3e6c-1f215f38a3f6/AppIcon_Stage-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T03:45:23.969Z
+Categories:
+
+
+Name: Canopy - Creator Community App
+Url: https://testflight.apple.com/join/9Hi7Edky
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5b/0e/dc/5b0edc4e-e716-ab20-2805-0215f61d0ae7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T03:45:24.000Z
+Categories:
+
+
+Name: Capshort: Relax, Learn & Earn
+Url: https://testflight.apple.com/join/mLd5IPlo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a1/1d/1b/a11d1b94-0d80-4e35-9e56-47f6a9557403/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-07T03:45:24.031Z
+Categories:
+
+
