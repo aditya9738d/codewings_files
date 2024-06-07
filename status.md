@@ -8422,3 +8422,120 @@ Last Checked: 2024-06-07T00:00:54.098Z
 Categories:
 
 
+Name: Shrimoney Hybrid
+Url: https://testflight.apple.com/join/d3wuMKFK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/b3/67/b6b36784-e0f9-9cc7-0134-4d8da080c545/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.186Z
+Categories:
+
+
+Name: HomeService Dev
+Url: https://testflight.apple.com/join/7uaqsLKw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/b4/62/d8b462b8-64ab-0fbc-03d7-5e0615ad94ff/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.214Z
+Categories:
+
+
+Name: La Positiva Dev
+Url: https://testflight.apple.com/join/R4EiypuH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/e1/ba/cfe1baa8-6234-c4ee-750b-c3dba79eb02b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.243Z
+Categories:
+
+
+Name: Intershop IMS
+Url: https://testflight.apple.com/join/inGQxXgH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/41/c2/6241c23e-cb40-a343-726a-8b98ef7e94c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.271Z
+Categories:
+
+
+Name: ArgoFX
+Url: https://testflight.apple.com/join/qZEwvILg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/1a/2b/a71a2bd4-9bb7-5291-ceef-85149bc2063f/AppIcon_Lite-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.300Z
+Categories:
+
+
+Name: TrainAsONE- AI Running Plans
+Url: https://testflight.apple.com/join/lJ1z2chB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/b2/a3/e3b2a3fa-c50d-04c2-06d4-9c4e1cd2d2fc/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.329Z
+Categories:
+
+
+Name: AJC News
+Url: https://testflight.apple.com/join/42iYI2ir
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/58/40/405840e8-b724-e5e9-8d38-1fd745d5636c/AppIcon-0-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.358Z
+Categories:
+
+
+Name: Docutain SDK ShowCase
+Url: https://testflight.apple.com/join/EJy6I3ZE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/d4/63/1bd46321-424f-a339-ac02-3297bf0cd348/AppIcon-0-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.386Z
+Categories:
+
+
+Name: Sales Plus
+Url: https://testflight.apple.com/join/s3hBNGSM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d2/98/a6/d298a61f-2810-158e-b90a-ec6bbfea238d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.415Z
+Categories:
+
+
+Name: LightSum
+Url: https://testflight.apple.com/join/8AdtGd1b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/40/d8/bd40d8ff-9c9c-d0e3-8676-c201d554a846/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.444Z
+Categories:
+
+
+Name: Smart Vaults
+Url: https://testflight.apple.com/join/1CFTiTXh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/36/8c/ad/368cad5e-9629-ed28-c5e6-0cdf5b0d8725/AppTestnetIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.475Z
+Categories:
+
+
+Name: Translucent – Spatial Web Apps
+Url: https://testflight.apple.com/join/64xgwI8e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/d9/bf/bad9bf28-d64e-f944-67ba-e15c2e2ad1a4/AppIcon-white.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-07T00:01:09.506Z
+Categories:
+
+
+Name: Sunrise TV
+Url: https://testflight.apple.com/join/OQYErdTj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/9d/8f/3d9d8fac-1530-c0bf-3aa7-b3fe5848efd0/AppIcon-upc_ch-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-07T00:01:09.534Z
+Categories:
+
+
