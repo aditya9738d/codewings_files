@@ -15910,3 +15910,120 @@ Last Checked: 2024-06-08T12:12:11.066Z
 Categories:
 
 
+Name: MyDigicel - Beta
+Url: https://testflight.apple.com/join/bne5GoPr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/10/43/1210431e-b5c4-b4d8-bd94-52ee5e7779f3/AppIcon-staging-0-1x_U007emarketing-0-7-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.425Z
+Categories:
+
+
+Name: Air Native
+Url: https://testflight.apple.com/join/nOAx89vp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e5/e1/1b/e5e11b96-664e-f110-1eb8-50c991bf181a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.454Z
+Categories:
+
+
+Name: Food Village
+Url: https://testflight.apple.com/join/LbSsFS4E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/df/a7/8ddfa7d2-298c-e8b0-fec3-039d03b130e7/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.484Z
+Categories:
+
+
+Name: MySecuritas Beta
+Url: https://testflight.apple.com/join/oseJu254
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/a7/0c/71a70cf5-70b4-0fb0-674b-2cf258d5c118/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.515Z
+Categories:
+
+
+Name: ALZ Fundraising Test
+Url: https://testflight.apple.com/join/SwegOW6G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/a5/64/8ca564b7-f313-be81-7688-10b1ebb02ac7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.544Z
+Categories:
+
+
+Name: Solus Library App
+Url: https://testflight.apple.com/join/6bfvTRRM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/62/08/17620867-84dc-b701-12c1-910bab7699a7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.573Z
+Categories:
+
+
+Name: Eyemove
+Url: https://testflight.apple.com/join/Td13UUmw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/c5/fc/88c5fcab-18f8-8128-c9df-c4859fa371b3/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.603Z
+Categories:
+
+
+Name: Elfie • Health & Rewards
+Url: https://testflight.apple.com/join/JdRKcT3U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/26/d1/fa26d16b-2ad4-81a0-701c-ae4424a47ba4/AppIcon-prod-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.632Z
+Categories:
+
+
+Name: Spot – Electricity prices
+Url: https://testflight.apple.com/join/wS5TVGF4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/6b/46/256b4692-3132-0001-b3b4-7b1a366b27c3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.661Z
+Categories:
+
+
+Name: Qomunal
+Url: https://testflight.apple.com/join/GhGj5Bl0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/02/7f/db/027fdbde-5e0c-a845-799d-919bd2118e96/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.690Z
+Categories:
+
+
+Name: Roka: Dating & Matchmaking App
+Url: https://testflight.apple.com/join/gG9P3Q3v
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/40/af/e440af03-45f5-ab9b-cdad-90cd7bdbc3b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.719Z
+Categories:
+
+
+Name: Cleo: Up to \$250 Cash Advance
+Url: https://testflight.apple.com/join/fDG9hWng
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/5b/44/a35b4438-bc25-ab9d-5131-9d2c21c5966f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.749Z
+Categories:
+
+
+Name: Japfa Feed - Sales
+Url: https://testflight.apple.com/join/Zh2fP7OG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/6c/aa/e76caa63-d76f-c48d-9c2e-52c50f690f78/AppIcon-production-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:13:10.779Z
+Categories:
+
+
