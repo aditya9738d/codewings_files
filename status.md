@@ -7486,3 +7486,120 @@ Last Checked: 2024-06-08T15:08:10.458Z
 Categories:
 
 
+Name: Airveep
+Url: https://testflight.apple.com/join/t4bgGEWe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/2a/19/3e2a1948-d607-cec8-c6a7-89c5888d65c6/AppIcon-1x_U007emarketing-0-5-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:09:08.719Z
+Categories:
+
+
+Name: Deliverect(Staging)
+Url: https://testflight.apple.com/join/4dCmSumR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/4f/27/1e4f2723-4975-2d53-bbeb-f5b38087e6c3/AppIcon-Staging-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:09:08.755Z
+Categories:
+
+
+Name: RamseyTrusted for Pros
+Url: https://testflight.apple.com/join/tpo0ijJT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/f5/8e/29f58e24-431d-56b7-155d-9a92ad28ee4b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:09:08.790Z
+Categories:
+
+
+Name: NUMINE
+Url: https://testflight.apple.com/join/DtNgKC5A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/15/aa/6c/15aa6c70-e475-5f1a-4fc3-efa56c6b582a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:09:08.826Z
+Categories:
+
+
+Name: Dead Dating PD
+Url: https://testflight.apple.com/join/FBI2SLzL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/92/fd/6992fdb7-d90e-42f0-5db2-3dc2a39288a0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T15:09:08.862Z
+Categories:
+
+
+Name: Unilever Pureit
+Url: https://testflight.apple.com/join/1eg6JQ3Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/88/e0/6888e079-81ed-50f1-d0c6-cd4e56964d0c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:09:08.898Z
+Categories:
+
+
+Name: GreatEnergy
+Url: https://testflight.apple.com/join/YfRWlrF8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/e4/87/b3e48704-2905-5127-f579-92345d654335/AppIcon-Development-1x_U007emarketing-0-0-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:09:08.934Z
+Categories:
+
+
+Name: WiFi Your Way
+Url: https://testflight.apple.com/join/qK1DjGAi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/8a/13/a38a133f-7156-80cd-4369-336b0f3459b8/BreezelineAppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:09:08.970Z
+Categories:
+
+
+Name: My Misa
+Url: https://testflight.apple.com/join/hnN4lMob
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/69/09/d3690948-70f0-fb61-27f5-d4d73355eb21/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:09:09.006Z
+Categories:
+
+
+Name: MusMe
+Url: https://testflight.apple.com/join/DYllJddG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/4f/fc/834ffc6e-11c3-c026-f172-151bd40000dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:09:09.042Z
+Categories:
+
+
+Name: Banco de Loja
+Url: https://testflight.apple.com/join/XVx8Np7u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/aa/46/a6aa46f8-c96c-171d-556c-f5835d7eea07/qaAppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:09:09.078Z
+Categories:
+
+
+Name: FiDi: Crypto Portfolio
+Url: https://testflight.apple.com/join/xf7VJ1Ui
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/a1/da/b1a1da00-705f-11c8-5857-ec1201cd4c91/AppIcon-0-1x_U007ephone-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:09:09.114Z
+Categories:
+
+
+Name: WordBox - Strands Wordsearch
+Url: https://testflight.apple.com/join/svZQhz1A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/a5/29/c5a52930-dbb0-27c4-5a24-c06af1dca6b4/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:09:09.150Z
+Categories:
+
+
