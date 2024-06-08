@@ -349,3 +349,120 @@ Last Checked: 2024-06-08T05:53:12.087Z
 Categories:
 
 
+Name: RURadar
+Url: https://testflight.apple.com/join/FUGWkWWA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/88/52/66885212-42b3-d76b-213e-497e998be0d6/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:54:12.742Z
+Categories:
+
+
+Name: Petra Wallet
+Url: https://testflight.apple.com/join/T6NagMlJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/47/c8/bb47c895-be11-022c-e421-029edc041d14/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:54:12.771Z
+Categories:
+
+
+Name: Singlife Plan & Protect (SIT)
+Url: https://testflight.apple.com/join/tJeoOyrb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/1a/47/141a470c-8cec-9893-bca0-13f66ff35c65/SIT-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:54:12.801Z
+Categories:
+
+
+Name: JERNAS
+Url: https://testflight.apple.com/join/NAu2FIjx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/fa/bf/9cfabf56-19fc-3792-d71e-906539b4d0e7/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:54:12.831Z
+Categories:
+
+
+Name: Hoopt Beta
+Url: https://testflight.apple.com/join/Ho3VRDxT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/64/79/fd/6479fd62-2d75-3f22-a3ba-1e4a2fceb6a1/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:54:12.860Z
+Categories:
+
+
+Name: JX1 Mobile 2023
+Url: https://testflight.apple.com/join/hf7xI4q6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/cd/da/2ecdda57-c89b-58bf-7b32-389287717af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T05:54:12.889Z
+Categories:
+
+
+Name: SEP Staging
+Url: https://testflight.apple.com/join/kYwvNwW5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/16/76/ba167644-7f72-efab-2254-b3db9489ead2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T05:54:12.920Z
+Categories:
+
+
+Name: RingConn
+Url: https://testflight.apple.com/join/vk26Ph2f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/02/b1/3d02b13c-0caa-fd54-1b7a-3ff6de4bfcee/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T05:54:12.949Z
+Categories:
+
+
+Name: Seasn Stage
+Url: https://testflight.apple.com/join/hhlHG6Tc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/ea/6f/3bea6f4e-410a-d5fa-caae-0446da2fb22a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:54:12.978Z
+Categories:
+
+
+Name: VTNB C&T
+Url: https://testflight.apple.com/join/jUoU7QLo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/6a/3b/7a6a3bc2-74a3-f2e1-f464-a8b576b1ae12/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T05:54:13.007Z
+Categories:
+
+
+Name: Onewheel Community Edition
+Url: https://testflight.apple.com/join/erN13tuH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/d2/8e/16d28ea0-28e1-12d8-f194-74bf5c9ec29a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T05:54:13.036Z
+Categories:
+
+
+Name: Discover Dairy
+Url: https://testflight.apple.com/join/PQMxZgB6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/00/41/080041ac-5639-03a8-e82b-82c931db0c97/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:54:13.066Z
+Categories:
+
+
+Name: FRITZ!App Fon
+Url: https://testflight.apple.com/join/SGGCxyRp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/ef/37/08ef3781-daee-3167-aa8f-1bd5258c24d4/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:54:13.096Z
+Categories:
+
+
