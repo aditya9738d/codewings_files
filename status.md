@@ -24646,3 +24646,120 @@ Last Checked: 2024-06-08T18:37:08.615Z
 Categories:
 
 
+Name: In Stock Scanner
+Url: https://testflight.apple.com/join/faSXXGzT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/f8/c9/c0f8c9ff-876b-eb5d-d9f6-15ec89711c70/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:38:11.696Z
+Categories:
+
+
+Name: Ordway
+Url: https://testflight.apple.com/join/TdgH2IhC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/11/7b/5c117b4f-03c2-90f3-e879-5a7f7d1f6ba8/app-icon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:38:11.731Z
+Categories:
+
+
+Name: Ready4Sea: safe boating!
+Url: https://testflight.apple.com/join/cklHSFXd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/24/15/cb/2415cb6f-5fc9-38a1-30a8-d545f20de01e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:38:11.767Z
+Categories:
+
+
+Name: LoFi Cam: Film Digital Camera
+Url: https://testflight.apple.com/join/hUIJ8aAa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/f1/57/82f15787-7bc0-2b92-9d7e-955a72dda60e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T18:38:11.803Z
+Categories:
+
+
+Name: Hami Video
+Url: https://testflight.apple.com/join/1wenTU1f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c7/68/24c76880-8b95-d966-84b5-cc426fcfce30/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:38:11.838Z
+Categories:
+
+
+Name: EVnSteven
+Url: https://testflight.apple.com/join/3HurFoSb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a9/32/ce/a932ce34-99fa-6c23-f35e-a94393d324ee/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T18:38:11.875Z
+Categories:
+
+
+Name: Affinity iOS Beta
+Url: https://testflight.apple.com/join/DdFJxPLX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/19/17/dc1917b7-4bfb-8a71-ff0f-b0138a3353e2/AppIcon-0-1x_U007epad-0-0-85-220-0.jpeg/200x200bb-80.png
+Click Count: 33
+Beta Available: open
+Last Checked: 2024-06-08T18:38:11.910Z
+Categories:
+
+
+Name: Dharamik Signal
+Url: https://testflight.apple.com/join/BuwazBeq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b8/74/3e/b8743e07-8130-f015-8989-5bc094012dde/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-08T18:38:11.945Z
+Categories:
+
+
+Name: Joplin
+Url: https://testflight.apple.com/join/p5iLVzrG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/39/40/5b394075-28a9-31c7-29ed-8a3552d0a721/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T18:38:11.981Z
+Categories:
+
+
+Name: DiaBLE
+Url: https://testflight.apple.com/join/H48doU3l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/df/61/8ddf617d-a57e-6d68-f058-ad835ed371ad/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T18:38:12.017Z
+Categories:
+
+
+Name: BROKOL
+Url: https://testflight.apple.com/join/YzZEAcjg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/06/a7/0e06a717-c498-7f3e-9af4-7f441d945081/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:38:12.053Z
+Categories:
+
+
+Name: Dev6 Greenworks Tools
+Url: https://testflight.apple.com/join/alnsHiKu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/45/41/3c454135-bf57-7c95-adac-39615c399afe/AppIconsGW-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:38:12.088Z
+Categories:
+
+
+Name: Quadeye
+Url: https://testflight.apple.com/join/hzAFZjci
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/22/c4/bb22c413-ba6e-ccfd-e4f1-f3550463ea58/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:38:12.124Z
+Categories:
+
+
