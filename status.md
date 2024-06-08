@@ -23281,3 +23281,120 @@ Last Checked: 2024-06-08T18:10:25.054Z
 Categories:
 
 
+Name: nro rise
+Url: https://testflight.apple.com/join/qsB5i2ey
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/8c/bf/ec8cbff7-b6ab-397f-49e3-1248c850bb59/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-08T18:11:08.417Z
+Categories:
+
+
+Name: oneSafe 6
+Url: https://testflight.apple.com/join/uvdLNeE0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/81/b0/7b/81b07b2a-eb4a-fedf-d572-4191c7f66a77/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T18:11:08.453Z
+Categories:
+
+
+Name: ownCloud - File Sync and Share
+Url: https://testflight.apple.com/join/Oktj0iKv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/e5/a1/4ae5a121-4fba-2c4b-dcaa-e3b2923a3e91/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T18:11:08.490Z
+Categories:
+
+
+Name: paent - AR graffiti
+Url: https://testflight.apple.com/join/UMd3u2IA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/bb/c7/a1bbc75f-185e-47b4-497a-7c1a5528ba14/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T18:11:08.527Z
+Categories:
+
+
+Name: plus Auth
+Url: https://testflight.apple.com/join/M6oYf8wm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/65/16/97/651697b3-f4da-48e9-8964-e5fe2df56198/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T18:11:08.563Z
+Categories:
+
+
+Name: popper social
+Url: https://testflight.apple.com/join/Wpa0PAOP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0b/4a/170b4a1b-0e0b-6c39-31ce-2655f90df8ae/AppIcon-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:11:08.600Z
+Categories:
+
+
+Name: privacyIDEA Authenticator
+Url: https://testflight.apple.com/join/hcpxWPt0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0e/d0/da/0ed0da81-24e2-3555-7f8b-b902e6dc1d09/AppIcon-netknights-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T18:11:08.636Z
+Categories:
+
+
+Name: rejsekort
+Url: https://testflight.apple.com/join/eeJMlIFY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/51/29/22512997-d8cd-7116-1020-6b47989fcec0/AppIcon-Rejsekort-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-08T18:11:08.673Z
+Categories:
+
+
+Name: sauceclip_dev
+Url: https://testflight.apple.com/join/ZbN3ZAZW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/df/20/23/df2023e2-7ac9-60ca-394f-62aa15731d66/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T18:11:08.709Z
+Categories:
+
+
+Name: scan my T3SLA
+Url: https://testflight.apple.com/join/Xra3qrlo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/98/86/65988679-56bb-bc2d-3d20-9b96c56043d8/AppIcons-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T18:11:08.745Z
+Categories:
+
+
+Name: spectwhirl
+Url: https://testflight.apple.com/join/tSjoUpc1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/e3/31/7ae3314f-6f1e-efa0-0ae0-9bae779eb92c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T18:11:08.782Z
+Categories:
+
+
+Name: status.log
+Url: https://testflight.apple.com/join/cDOrKBw5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/d6/ea/e0d6ea8b-e7d5-48c8-e557-355303b58d62/Prami-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T18:11:08.818Z
+Categories:
+
+
+Name: stone for iPad
+Url: https://testflight.apple.com/join/2gO6yFa9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/9a/ac/769aac90-645c-cc33-80d7-1d4bb1542a7a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T18:11:08.854Z
+Categories:
+
+
