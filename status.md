@@ -25270,3 +25270,120 @@ Last Checked: 2024-06-08T05:07:11.827Z
 Categories:
 
 
+Name: Supercopy for Safari
+Url: https://testflight.apple.com/join/NnJV6ZTU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/6b/b6/676bb637-e50d-d8bc-0b4d-c81cb460a7f7/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:10:21.683Z
+Categories:
+
+
+Name: Manga x Manga VHS
+Url: https://testflight.apple.com/join/kgpmIC7f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/57/8c/26578c41-53a9-f360-9943-4d24ff333457/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 5
+Beta Available: full
+Last Checked: 2024-06-08T05:10:21.720Z
+Categories:
+
+
+Name: AI Partner PLUS
+Url: https://testflight.apple.com/join/cBIec0Ml
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b6/a9/29/b6a9290c-4f86-e6b7-a520-7b0132b90597/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:10:21.757Z
+Categories:
+
+
+Name: Axolotl Reader
+Url: https://testflight.apple.com/join/6NURI03h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/84/e5/fc/84e5fc29-62fa-c10e-1088-37e7f9e42c0f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:10:21.793Z
+Categories:
+
+
+Name: Symbolsaurus
+Url: https://testflight.apple.com/join/37LGuo07
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/63/e3/ac/63e3acf2-06f8-74a8-6945-dc23489668a1/AppPink-0-1x_U007epad-0-0-0-0-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T05:10:21.830Z
+Categories:
+
+
+Name: Krono Timeline History Trivia
+Url: https://testflight.apple.com/join/Q8uh1VUt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/bf/b9/0fbfb9d6-6bf2-407f-fece-958848b8ccba/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:10:21.867Z
+Categories:
+
+
+Name: TOPTAXI Driver
+Url: https://testflight.apple.com/join/2yiFM7xT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/c0/7d/95c07d5b-d498-f059-b2b1-0de7b941b2f4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:10:21.903Z
+Categories:
+
+
+Name: Asana: Work in one place
+Url: https://testflight.apple.com/join/ts6Q3gjw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f4/ed/b5f4eddb-0fac-463c-7747-b26273f75095/AppIcon_testflight-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:10:21.940Z
+Categories:
+
+
+Name: Y Combinator
+Url: https://testflight.apple.com/join/TrHIcvNN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/3f/f9/913ff91e-6b2a-c034-119d-8ada7a92cd66/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:10:21.977Z
+Categories:
+
+
+Name: Moon FM - The Podcasts App
+Url: https://testflight.apple.com/join/c6NtF2xP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/af/b3/48/afb348d0-9e08-45e7-6610-c963cc9a7ed7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:10:22.013Z
+Categories:
+
+
+Name: Sejladsudsigt
+Url: https://testflight.apple.com/join/hHvhYQdR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/8a/2b/0f8a2b5e-f12a-0e85-c0eb-23a52bded452/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:10:22.050Z
+Categories:
+
+
+Name: Go Map!!
+Url: https://testflight.apple.com/join/T96F9wYq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/12/55/5412552e-35a5-9f2e-7f4f-7e11af064c42/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:10:22.088Z
+Categories:
+
+
+Name: Screen Mirror and Control
+Url: https://testflight.apple.com/join/zlnbGVKx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/22/db/bb22db41-962f-ba48-27e5-a33943b9b599/AppIcon-0-0-85-220-0-2-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:10:22.125Z
+Categories:
+
+
