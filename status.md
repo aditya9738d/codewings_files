@@ -7603,3 +7603,120 @@ Last Checked: 2024-06-08T06:57:07.784Z
 Categories:
 
 
+Name: CineVision 3D
+Url: https://testflight.apple.com/join/b6aAY4Y8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/69/83/a969831c-773b-2baf-23a0-fe3e3c5b0be1/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T06:58:09.476Z
+Categories:
+
+
+Name: Cinemagickh
+Url: https://testflight.apple.com/join/KeXQGtCR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d0/e5/84d0e5b5-12bf-1d1a-d7e7-e0393fa6ec02/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-08T06:58:09.521Z
+Categories:
+
+
+Name: Circle iConnect
+Url: https://testflight.apple.com/join/NhO98aWx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/93/62/6d/93626d9d-85ac-c049-8882-6294ca0f3241/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T06:58:09.566Z
+Categories:
+
+
+Name: Citations
+Url: https://testflight.apple.com/join/vxobmPVp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/27/f9/db27f9f1-bba9-e66c-25d9-c7ae21091c78/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T06:58:09.594Z
+Categories:
+
+
+Name: Citrix Secure Web
+Url: https://testflight.apple.com/join/DQ71ZZMK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/a8/68/17a86828-911f-c5d4-f8ea-b47a0d357068/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T06:58:09.624Z
+Categories:
+
+
+Name: Clarii
+Url: https://testflight.apple.com/join/4mUWjnx4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/92/13/379213b0-5b6b-89b3-d436-489fb8e2e2ce/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T06:58:09.653Z
+Categories:
+
+
+Name: Classifier: Collection Tracker
+Url: https://testflight.apple.com/join/HeIftx1S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/7a/b0/a57ab075-eeef-2309-a543-b033bd951c05/AppIcon-1x_U007emarketing-0-7-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T06:58:09.682Z
+Categories:
+
+
+Name: CleanPay Mobile
+Url: https://testflight.apple.com/join/ErKYR493
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/8e/68/9d8e6850-276a-d4bc-62c0-f1f29b37c77d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T06:58:09.711Z
+Categories:
+
+
+Name: Clear-Com Agent-IC
+Url: https://testflight.apple.com/join/USfpPQTt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/70/81/e770815d-fd27-9346-7316-b42e285c9ebe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T06:58:09.740Z
+Categories:
+
+
+Name: ClearWatt
+Url: https://testflight.apple.com/join/fvBbiwLc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/31/2e/65312e75-354c-52c3-bbf1-096c7ce16d49/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T06:58:09.769Z
+Categories:
+
+
+Name: CleoCleaner
+Url: https://testflight.apple.com/join/2rV85hKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/88/04/2588046f-e87e-a0d7-9b4d-10bbedf11c5c/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-08T06:58:09.797Z
+Categories:
+
+
+Name: ClienWidget
+Url: https://testflight.apple.com/join/TEBsNPe9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/7d/3c/257d3c35-d070-e1a8-742b-c3cdd6c055c0/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T06:58:09.826Z
+Categories:
+
+
+Name: Client APP staging
+Url: https://testflight.apple.com/join/2FkXPCyY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ba/81/b8/ba81b849-b737-4dc0-c45f-f414c4bd05bc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T06:58:09.855Z
+Categories:
+
+
