@@ -13687,3 +13687,120 @@ Last Checked: 2024-06-08T03:23:09.870Z
 Categories:
 
 
+Name: WiniERP
+Url: https://testflight.apple.com/join/be10JajG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/8f/87/a58f8700-75f8-3334-36c5-f8f727329a77/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:24:10.911Z
+Categories:
+
+
+Name: JellyBook
+Url: https://testflight.apple.com/join/lEXKY4Dl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/f8/fa/4bf8fabb-626f-58b9-2e29-d1675b3f7d89/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:24:10.947Z
+Categories:
+
+
+Name: Pomo UP:Focus timer&Productive
+Url: https://testflight.apple.com/join/x5AsbPvL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/54/10/d75410d5-6915-3d28-39a7-99b019e6f5a9/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T03:24:10.982Z
+Categories:
+
+
+Name: ElmonX
+Url: https://testflight.apple.com/join/5AFcwtPA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/ed/8f/58ed8fb9-8d80-303a-fdf8-a2f70f217575/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T03:24:11.016Z
+Categories:
+
+
+Name: moldcell money uat
+Url: https://testflight.apple.com/join/rgL38qI6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/43/5d/e2435d65-fe43-abc6-ac59-4853610ff29a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:24:11.051Z
+Categories:
+
+
+Name: Hatcher - Match 3 Bubble Blitz
+Url: https://testflight.apple.com/join/pD8iHutN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/38/4f/45384f60-0028-d068-33e8-734c2dcbd8c0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:24:11.086Z
+Categories:
+
+
+Name: Winamp
+Url: https://testflight.apple.com/join/wZcYMPaN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/e4/3b/f9e43b3e-3fec-431e-c837-a3db9496f0b9/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T03:24:11.121Z
+Categories:
+
+
+Name: Honor Health
+Url: https://testflight.apple.com/join/DYuCLcQh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/76/02/b9760237-f178-7daa-6ef7-ef87355c82fe/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T03:24:11.156Z
+Categories:
+
+
+Name: KSBank UAT
+Url: https://testflight.apple.com/join/q9iyx0PY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/43/e0/7543e0b2-bb9e-85cb-1aab-82dc365fc2aa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:24:11.190Z
+Categories:
+
+
+Name: OSE Banfi STAGE
+Url: https://testflight.apple.com/join/6eY2iqjt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/bb/e5/e6bbe5e8-7a7a-4d75-cd66-353ac010e838/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:24:11.225Z
+Categories:
+
+
+Name: MTS Xpress
+Url: https://testflight.apple.com/join/oiqFKcb7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/59/9e/e4/599ee4ba-807e-b2bf-7893-3076f0585f86/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:24:11.260Z
+Categories:
+
+
+Name: iHRP QA
+Url: https://testflight.apple.com/join/FY2xNTcv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/35/2a/88352a69-74c7-3fcd-71ef-b56dd3f3a9a7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:24:11.296Z
+Categories:
+
+
+Name: AEON Rohas UAT
+Url: https://testflight.apple.com/join/xyKrvf9m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/94/33/ff943309-fc1e-7c30-6360-bff0ef4c8981/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:24:11.330Z
+Categories:
+
+
