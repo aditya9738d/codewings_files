@@ -23967,3 +23967,121 @@ Last Checked: 2024-06-08T09:18:10.333Z
 Categories:
 
 
+Name: Flightman Flight Crew
+Url: https://testflight.apple.com/join/JAkLLOPT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/e1/fb/c0e1fbba-ce19-1c4e-f274-2d45900f2cb8/AppIcon-Demo-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 27
+Beta Available: open
+Last Checked: 2024-06-08T09:19:12.766Z
+Categories:
+
+
+Name: Nanoleaf
+Url: https://testflight.apple.com/join/e6YpifHl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/de/34/69de34d5-71d7-010e-da01-449b454fc03b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-08T09:19:12.795Z
+Categories:
+
+
+Name: JEFIT Workout Planner Gym Log
+Url: https://testflight.apple.com/join/xQf8YqKR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bb/f9/40/bbf9403b-021d-4e38-8741-68dc0fa1f696/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T09:19:12.825Z
+Categories:
+
+
+Name: FileTunnel
+Url: https://testflight.apple.com/join/lod3LiB6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d1/e6/71d1e6b7-ff79-c6a4-bfc0-6c56f9357d2d/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 31
+Beta Available: open
+Last Checked: 2024-06-08T09:19:12.854Z
+Categories:
+
+
+Name: Wink - Video AI Enhancement
+Url: https://testflight.apple.com/join/ZviH3WzG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/6c/82/f26c8250-3492-3b0c-493a-676cb4eefc91/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: full
+Last Checked: 2024-06-08T09:19:12.883Z
+Categories:
+- Video
+
+Name: SolarEdge Go
+Url: https://testflight.apple.com/join/KzfUUDAC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/47/ee/d9/47eed99e-1439-86b2-3b6a-d8a4b556817c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 19
+Beta Available: open
+Last Checked: 2024-06-08T09:19:12.912Z
+Categories:
+
+
+Name: Map Alarm: Maps & Open Streets
+Url: https://testflight.apple.com/join/LF2SNq7J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/1a/06/271a065b-b2c9-6e3c-b04d-62517123e375/AppIcon_Color1-0-0-2x_U007euniversal-0-4-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T09:19:12.941Z
+Categories:
+
+
+Name: V-Guardian EVO
+Url: https://testflight.apple.com/join/n7ZP4qBe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/07/e5/0007e502-2c7e-bcb3-8003-95822a9d7f7a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T09:19:12.970Z
+Categories:
+
+
+Name: Fast Vpn Demo
+Url: https://testflight.apple.com/join/v6hQPX5p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a1/79/27a17902-9c75-a371-227a-fea9e287fb32/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 65
+Beta Available: open
+Last Checked: 2024-06-08T09:19:12.999Z
+Categories:
+
+
+Name: Avare - Journal Map
+Url: https://testflight.apple.com/join/kQF1GrAT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/28/b2/e228b283-8ab9-49da-b099-120cd3537ab9/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T09:19:13.028Z
+Categories:
+
+
+Name: AliExpress Shopping App
+Url: https://testflight.apple.com/join/TFhYeUyJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bb/81/52/bb8152f5-a7dd-ec25-e6c9-55f0d3a30292/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 36
+Beta Available: full
+Last Checked: 2024-06-08T09:19:13.057Z
+Categories:
+- Business
+- Shopping
+
+Name: Hyalocare
+Url: https://testflight.apple.com/join/UAy33SuS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/5e/43/655e43e4-3aeb-3bce-078c-2b1c16add00c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-08T09:19:13.085Z
+Categories:
+
+
+Name: Texts.com: Unified Messenger
+Url: https://testflight.apple.com/join/j15QDhZq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/89/55/478955a7-cb6f-86ff-db2b-fe560f6eff05/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-08T09:19:13.114Z
+Categories:
+
+
