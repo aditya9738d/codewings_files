@@ -11581,3 +11581,120 @@ Last Checked: 2024-06-08T07:31:10.304Z
 Categories:
 
 
+Name: Krono Trivia 2024
+Url: https://testflight.apple.com/join/Q8uh1VUt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/35/07/8a35075c-aea5-522c-dd36-a50a54ed8957/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:32:11.180Z
+Categories:
+
+
+Name: Kumome
+Url: https://testflight.apple.com/join/5Lk9ItLa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/49/6d/04496d85-5bbe-a994-07e1-63d181fd49b8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T07:32:11.215Z
+Categories:
+
+
+Name: Kuringo
+Url: https://testflight.apple.com/join/dPfl3Wyd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/86/ed/d686ed78-bef1-40a6-605c-a5f8c750a054/AppIcon-0-0-1x_U007epad-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:32:11.250Z
+Categories:
+
+
+Name: L&T ART
+Url: https://testflight.apple.com/join/AY3H97Lg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/73/dc/0573dc2c-8780-f9ef-351b-a95e5c11bd61/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:32:11.286Z
+Categories:
+
+
+Name: LAsk Client
+Url: https://testflight.apple.com/join/jRdr9cw2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/23/56/2b/23562b05-3a87-e2cc-26eb-004314e9afab/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:32:11.322Z
+Categories:
+
+
+Name: LBank - Buy Bitcoin & Crypto
+Url: https://testflight.apple.com/join/WfoRNyTJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/3f/61/283f61f8-dedc-c761-66e3-3c1a8ecb5fff/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-08T07:32:11.357Z
+Categories:
+
+
+Name: LD-HeartMath
+Url: https://testflight.apple.com/join/bKJtb7d8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/67/51/a3/6751a34e-afc8-bf00-0e2b-88b2306b1a9e/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:32:11.393Z
+Categories:
+
+
+Name: LR One
+Url: https://testflight.apple.com/join/Egd4djyh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/e4/9c/6ee49c11-2a6a-c914-abab-bdb83480f20a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:32:11.429Z
+Categories:
+
+
+Name: LSOA
+Url: https://testflight.apple.com/join/0hhq4Wgq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5a/77/41/5a7741df-f652-ddd4-c7fd-6b97729c71fb/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:32:11.486Z
+Categories:
+
+
+Name: LUKA partying
+Url: https://testflight.apple.com/join/35kSgIMt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/6b/b1/1e6bb12e-8819-abae-b2fe-68c1eeaecaba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:32:11.522Z
+Categories:
+
+
+Name: Languages with Michel Thomas
+Url: https://testflight.apple.com/join/fQLm65W9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/a0/5c/eaa05c36-72d1-08a0-3911-31988e748a3c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:32:11.558Z
+Categories:
+
+
+Name: LeanDock
+Url: https://testflight.apple.com/join/7wEeZLjt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/60/03/5a600310-767e-3992-d1b7-3d0b85656b9f/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:32:11.593Z
+Categories:
+
+
+Name: Learnmer
+Url: https://testflight.apple.com/join/bKuIvyl8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/2c/5e/1c2c5e4b-f708-2939-4dcc-480fc322809a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:32:11.629Z
+Categories:
+
+
