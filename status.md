@@ -22111,3 +22111,120 @@ Last Checked: 2024-06-08T04:35:19.044Z
 Categories:
 
 
+Name: Speechable - Text to Voice
+Url: https://testflight.apple.com/join/8OYs1O2V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/cc/68/0acc681f-392f-2aa2-bb7f-ebd92f6ca906/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T04:36:12.344Z
+Categories:
+
+
+Name: Sunshine KSBank
+Url: https://testflight.apple.com/join/QrotjYdi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/e2/69/7de269aa-ebea-1808-dffb-5ac355db605f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:36:12.372Z
+Categories:
+
+
+Name: Ayoba
+Url: https://testflight.apple.com/join/7VmdxH4C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/34/01/863401e6-0a32-581c-2086-e8d2956cb693/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:36:12.401Z
+Categories:
+
+
+Name: FitnessSyncer
+Url: https://testflight.apple.com/join/WFPPizK6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/df/5c/5b/df5c5bb0-0b41-1258-15fd-9b0d769c48db/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:36:12.430Z
+Categories:
+
+
+Name: IRL Link
+Url: https://testflight.apple.com/join/6WSPZxUQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/72/dd/b0/72ddb0cf-a4b2-0e40-66c4-2d3dad47649b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:36:12.458Z
+Categories:
+
+
+Name: Fast Habit Tracker - FastBot
+Url: https://testflight.apple.com/join/9gMlhI2k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/aa/09/5caa092f-6823-ff9d-7326-27b526f27119/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T04:36:12.486Z
+Categories:
+
+
+Name: Applaydu family games
+Url: https://testflight.apple.com/join/NCm69MHn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/4f/b2/254fb2d9-7380-f30c-a07a-39db80c69b1f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:36:12.514Z
+Categories:
+
+
+Name: Suunto
+Url: https://testflight.apple.com/join/DJyDC5SU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/ac/90/a3ac9064-0901-cd3e-ebac-7865e109c6ae/SuuntoAppIcon-1x_U007emarketing-0-7-0-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:36:12.542Z
+Categories:
+
+
+Name: Shots - Events & Parties
+Url: https://testflight.apple.com/join/TsE0NySE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/94/8f/e8/948fe8ba-b440-b98a-428a-d4a422e6e2ec/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:36:12.570Z
+Categories:
+
+
+Name: iAppStore
+Url: https://testflight.apple.com/join/XXEQdVKN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1b/f3/96/1bf3965c-ae40-5c92-9ceb-98a410ea6782/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-08T04:36:12.599Z
+Categories:
+
+
+Name: ChatroomUIKit
+Url: https://testflight.apple.com/join/kc0vtbgH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/e0/0a/26e00af0-913c-6aa4-51c5-2ce780106d1a/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:36:12.627Z
+Categories:
+
+
+Name: FinancialWell
+Url: https://testflight.apple.com/join/Z4CekvDa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/c4/2c/eec42c93-240f-8fe2-4def-396f5e5077b8/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:36:12.655Z
+Categories:
+
+
+Name: RitMeter
+Url: https://testflight.apple.com/join/1x1EROoV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/04/de/3304de23-c710-b72a-acc7-697648b557a1/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:36:12.684Z
+Categories:
+
+
