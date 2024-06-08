@@ -24918,3 +24918,120 @@ Last Checked: 2024-06-08T09:26:13.536Z
 Categories:
 
 
+Name: 2024 Eclipse Live
+Url: https://testflight.apple.com/join/95C7IOEx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/b1/94/69b194da-28e2-ad00-266b-cde00063b3e0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-08T09:27:10.528Z
+Categories:
+
+
+Name: IITC-Mobile
+Url: https://testflight.apple.com/join/UOHpFy01
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/5b/37/525b37ba-0feb-3569-e8c3-3cb0b7dac3ac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T09:27:10.565Z
+Categories:
+
+
+Name: Untitled Podcast App
+Url: https://testflight.apple.com/join/a4bmx5rA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/d3/1f/6ad31fad-67ac-73cb-6b90-506a155d067c/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-08T09:27:10.601Z
+Categories:
+
+
+Name: SafeExamBrowser
+Url: https://testflight.apple.com/join/egxLmc4j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/1d/77/dd1d77fb-9820-3cad-63c7-aa732dba3b9c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 13
+Beta Available: open
+Last Checked: 2024-06-08T09:27:10.639Z
+Categories:
+
+
+Name: Darkroom: Photo & Video Editor
+Url: https://testflight.apple.com/join/mzR3XvHe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/5c/e8/165ce892-3107-c087-ff76-9647a60a0615/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-08T09:27:10.675Z
+Categories:
+
+
+Name: Daypage
+Url: https://testflight.apple.com/join/pSAEAqGk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1f/e3/36/1fe336e5-3f1c-cacb-dc96-7ad16ef3d687/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 22
+Beta Available: not accepting
+Last Checked: 2024-06-08T09:27:10.712Z
+Categories:
+
+
+Name: Vivaldi Snapshot
+Url: https://testflight.apple.com/join/RHz7zTUB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/9d/84/969d8425-b70b-fd4a-e1fc-b65ea290c36f/AppIcon-Snapshot-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 59
+Beta Available: open
+Last Checked: 2024-06-08T09:27:10.749Z
+Categories:
+
+
+Name: Easy Unarchiver - ZIP, RAR
+Url: https://testflight.apple.com/join/jXX0Wyfy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/36/f5/2e36f5b2-ce37-9019-2314-e53f10b92b44/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T09:27:10.786Z
+Categories:
+
+
+Name: KFC
+Url: https://testflight.apple.com/join/vWsEPv3U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/ca/20/68ca2036-a4ba-b43d-07a1-eb7d4a5fc0bd/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-08T09:27:10.823Z
+Categories:
+
+
+Name: Readwise Reader
+Url: https://testflight.apple.com/join/NSeQo22d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/b2/c9/77b2c916-a1be-cdc5-96c9-b2ad404f4235/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 31
+Beta Available: open
+Last Checked: 2024-06-08T09:27:10.859Z
+Categories:
+
+
+Name: enhanceAl
+Url: https://testflight.apple.com/join/P7nvmE22
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/d5/fe/8ed5fea8-a859-eda5-0599-c73007420bf1/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 24
+Beta Available: open
+Last Checked: 2024-06-08T09:27:10.896Z
+Categories:
+
+
+Name: Adobe Acrobat Reader: Edit PDF
+Url: https://testflight.apple.com/join/8XhFnQlp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/7c/78/a67c78a2-ce8a-adf1-1f88-e035d7c94826/ReleaseAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 41
+Beta Available: open
+Last Checked: 2024-06-08T09:27:10.933Z
+Categories:
+
+
+Name: Messenger
+Url: https://testflight.apple.com/join/njVWbUm0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/0b/ca/090bca5b-e8c4-473c-5bad-5b36347d363c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 103
+Beta Available: open
+Last Checked: 2024-06-08T09:27:10.969Z
+Categories:
+- Chat
+
