@@ -15208,3 +15208,120 @@ Last Checked: 2024-06-08T08:02:11.364Z
 Categories:
 
 
+Name: Quick Quizzes
+Url: https://testflight.apple.com/join/NMJeepvx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/09/3e/73/093e7345-8bf9-10e2-630e-954da1f79222/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-08T08:03:08.060Z
+Categories:
+
+
+Name: QuickStream for Vision Pro
+Url: https://testflight.apple.com/join/DxssEKzw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d7/50/76/d75076f2-b78c-b7b6-8af3-c6c683e2252a/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:03:08.087Z
+Categories:
+
+
+Name: QuicklAI -  AI Chatbot
+Url: https://testflight.apple.com/join/lBgAC6jd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/33/81/8733815e-a75c-1f8f-aa69-cbb992d19d86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:03:08.115Z
+Categories:
+
+
+Name: QuitMate
+Url: https://testflight.apple.com/join/16noNg2J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/bd/4b/a1bd4b60-b1f1-7a30-8b42-fed0421c80da/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:03:08.143Z
+Categories:
+
+
+Name: Quiz Online - WRTeam
+Url: https://testflight.apple.com/join/KvjntP8H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/78/c1/5078c1dc-2da9-aee9-a512-16af71e0c9fb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:03:08.170Z
+Categories:
+
+
+Name: QvaPay (OLD)
+Url: https://testflight.apple.com/join/s4AQQMpB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/d4/2d/b5d42d16-9a2d-1ac2-6a5e-ddfb3a8de53a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:03:08.199Z
+Categories:
+
+
+Name: R Plus Health - Pro Edition
+Url: https://testflight.apple.com/join/hO6bDEAc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f2/72/a3/f272a394-c70d-50df-c7ac-ca4c1b807ce1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:03:08.226Z
+Categories:
+
+
+Name: R Wings
+Url: https://testflight.apple.com/join/n2HqT1AC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c9/6d/7d/c96d7d6f-de9a-40d2-39e3-b2708cc112d8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:03:08.254Z
+Categories:
+
+
+Name: RAM Rally Tracker
+Url: https://testflight.apple.com/join/Q8mmK3JV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/68/65/806865e8-15a9-9e73-31b4-395bc991e367/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:03:08.281Z
+Categories:
+
+
+Name: RB Link
+Url: https://testflight.apple.com/join/HLOIF0k2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/6d/e2/3f6de21b-cb77-7cdd-5612-f11beb90ce54/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:03:08.308Z
+Categories:
+
+
+Name: RFR
+Url: https://testflight.apple.com/join/WLxRmdZG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ca/e6/a2/cae6a2e4-36e4-ec5c-95a7-2a617297aa29/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:03:08.336Z
+Categories:
+
+
+Name: RPM -- Give Every Day A Song
+Url: https://testflight.apple.com/join/leEkooCZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/01/d9/ff01d971-2f29-57bc-0379-0017bb4a6d26/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:03:08.363Z
+Categories:
+
+
+Name: RPro
+Url: https://testflight.apple.com/join/rdsVfdjz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/15/ee/9b15eec9-e8eb-c38b-2e5d-34052d0385b0/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:03:08.390Z
+Categories:
+
+
