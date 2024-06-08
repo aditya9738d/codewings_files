@@ -25484,3 +25484,120 @@ Last Checked: 2024-06-08T18:49:12.840Z
 Categories:
 
 
+Name: ALVR
+Url: https://testflight.apple.com/join/YoK2nuX6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/02/fe/7802fedd-b195-184b-30d5-255138eeebcb/AppIcon.lsr/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.621Z
+Categories:
+
+
+Name: TerraTrek
+Url: https://testflight.apple.com/join/7jIs4sEX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/ff/ab/7bffabed-2fb9-8bbf-0fe6-c9b3cf798326/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.649Z
+Categories:
+
+
+Name: LipLok
+Url: https://testflight.apple.com/join/05UFXXqf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/d3/93/c4d393de-92ee-0828-7b1b-e1746b4f88af/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.678Z
+Categories:
+
+
+Name: 10MIN HEROES
+Url: https://testflight.apple.com/join/wjtEowth
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/7e/ef/ce7eefea-bc34-dc7e-1f80-233d67fbd04c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T18:50:27.706Z
+Categories:
+- Games
+
+Name: Fasty Tracker
+Url: https://testflight.apple.com/join/ArFEKEvI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/65/34/ea65340e-31bf-0dbc-6b91-dd5d63beaee7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.734Z
+Categories:
+
+
+Name: WillKey
+Url: https://testflight.apple.com/join/wJT1sQ37
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/44/b2/1144b2ff-0ea0-63a2-e9a4-147c61bdc90f/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.763Z
+Categories:
+
+
+Name: FormTime
+Url: https://testflight.apple.com/join/8oEvXjdL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/19/7b/bc197be8-6663-58a1-8948-d165adf7f15e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.791Z
+Categories:
+
+
+Name: Decipher AI News
+Url: https://testflight.apple.com/join/9l9ci5dq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/e0/96/8ae096f0-25df-63b1-1021-b69a357e8e4c/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.820Z
+Categories:
+
+
+Name: Lunch: Let's Grab Lunch
+Url: https://testflight.apple.com/join/TXiRrJ2e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/b8/9f/abb89f80-3d9e-9f16-6cb2-3a4849eaf8e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.847Z
+Categories:
+
+
+Name: Termius: Terminal & SSH client
+Url: https://testflight.apple.com/join/MnuClabg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/ec/cb/c7eccbbb-7b3f-8738-15e6-3e19aeabf3a5/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.876Z
+Categories:
+
+
+Name: Photos Backup Anywhere
+Url: https://testflight.apple.com/join/TcDH3ccO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/91/96/f49196be-d580-5577-2bf6-29af370bf66c/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.905Z
+Categories:
+
+
+Name: Marklog
+Url: https://testflight.apple.com/join/1OQuD2vJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b0/13/54b013e4-a76e-29a8-101c-75e723548bb0/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.933Z
+Categories:
+
+
+Name: Party Icons
+Url: https://testflight.apple.com/join/5yCOZGvM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/b0/ae/19b0ae42-5e66-d604-956d-72e3dad13ab5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:50:27.962Z
+Categories:
+
+
