@@ -6316,3 +6316,120 @@ Last Checked: 2024-06-08T10:49:10.108Z
 Categories:
 
 
+Name: PDF Owl
+Url: https://testflight.apple.com/join/5JBMctKj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/9e/8a/da9e8a0f-1f01-e267-6c9c-47fe48ef65ee/AppIcon-0-85-220-4-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.010Z
+Categories:
+
+
+Name: Repeat One
+Url: https://testflight.apple.com/join/pnP3yVv3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/a8/6f/b8a86f7f-7805-b353-8da0-d35eedabe195/AppIcon-0-0-1x_U007epad-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.045Z
+Categories:
+
+
+Name: Pixel Odyssey
+Url: https://testflight.apple.com/join/Ow7mpJUQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/8d/97/238d9737-1e6a-eb66-538f-5e3c9215f2b1/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.080Z
+Categories:
+
+
+Name: Class Chat EDU
+Url: https://testflight.apple.com/join/755Uk1kT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/60/ac/5260acd7-1cf4-b4f3-2fc8-9e5bd266573e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.116Z
+Categories:
+
+
+Name: Salon Realtor
+Url: https://testflight.apple.com/join/8w0EiIFt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/c5/24/13c52413-b8c1-9cb0-05a3-6ce3d5dfab6d/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.151Z
+Categories:
+
+
+Name: Phiano
+Url: https://testflight.apple.com/join/XCJq0vrw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/5c/f5/d75cf5dc-923e-638a-09db-fee7e1ae7b60/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.187Z
+Categories:
+
+
+Name: Native AI Actions
+Url: https://testflight.apple.com/join/LdwfSZvG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/f1/78/03f1785d-01bc-f7e7-d97b-bea3035cd2a2/iOSIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.224Z
+Categories:
+
+
+Name: IWC Innovations
+Url: https://testflight.apple.com/join/AxeHRv3Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/79/5d/6a795d85-9e25-8342-9f64-5ef9578e0f45/IWC2-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.260Z
+Categories:
+
+
+Name: replied: the new social
+Url: https://testflight.apple.com/join/Iz107cTp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/df/a0/72dfa0ad-f31d-5a5e-cdd6-7ba091f1a310/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.296Z
+Categories:
+
+
+Name: Lava Vault
+Url: https://testflight.apple.com/join/dKz7wXUO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/84/5d/3e845d90-ce6c-b691-daaf-8b693b45e24f/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.331Z
+Categories:
+
+
+Name: FullStacked
+Url: https://testflight.apple.com/join/f1gnTHVm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/df/1e/8adf1e27-2de9-2e6d-49c8-aba4093f93a4/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.367Z
+Categories:
+
+
+Name: Oscar°
+Url: https://testflight.apple.com/join/xf5iJcHh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/68/3d/83/683d831b-7622-2608-ca52-398ee9a66ff0/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.403Z
+Categories:
+
+
+Name: Exposure Events
+Url: https://testflight.apple.com/join/9dUg0Z2V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/12/07/0a/12070a06-ce31-a126-f972-046f0bf89662/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:50:23.439Z
+Categories:
+
+
