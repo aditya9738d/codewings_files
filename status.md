@@ -18718,3 +18718,120 @@ Last Checked: 2024-06-08T12:36:11.105Z
 Categories:
 
 
+Name: Newwave Solutions JSC - Portal
+Url: https://testflight.apple.com/join/73LC8QQg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/37/b5/4d37b5a4-8c1b-7b18-ffa5-bed0d04bec5f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.170Z
+Categories:
+
+
+Name: 4me App DEMO
+Url: https://testflight.apple.com/join/WMxlRNxv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/15/7e/51/157e51ae-796d-8f02-5c81-0588c10e0b77/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.209Z
+Categories:
+
+
+Name: Wizz App - chat now
+Url: https://testflight.apple.com/join/bqvqe3Js
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/10/d4/7410d405-1071-a8e0-f445-26187f6e6ce1/AppIcon_2-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.245Z
+Categories:
+
+
+Name: MyTonWallet: Anyway TON Wallet
+Url: https://testflight.apple.com/join/rFESSnmy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/4a/a8/894aa8b1-cdee-548e-2ca0-3ae3eeb152a8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.283Z
+Categories:
+
+
+Name: DuroFlex
+Url: https://testflight.apple.com/join/YHLMqGNc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/fd/9e/5cfd9ec8-b601-6927-4a11-e7703739885c/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.319Z
+Categories:
+
+
+Name: Entonal Studio
+Url: https://testflight.apple.com/join/dK8z4mxw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/c9/76/9dc97630-6265-89d3-da7b-607cbeb76d34/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.354Z
+Categories:
+
+
+Name: Oliphaunt
+Url: https://testflight.apple.com/join/QLqIRNwe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/a0/23/39a023be-03f4-1590-dacd-e235e904f17a/AppIcon-0-85-220-4-0-0-2x-sRGB-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.390Z
+Categories:
+
+
+Name: TwoNav Premium: Maps Routes
+Url: https://testflight.apple.com/join/4SFNwRfY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/b1/4d/58b14d61-e666-5423-4024-b2e4f02b97e3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T12:37:09.425Z
+Categories:
+
+
+Name: Akiflow
+Url: https://testflight.apple.com/join/EkR2moK1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/08/4d/e1084d47-0ba7-78fb-3e7d-4724da2d8cca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.461Z
+Categories:
+
+
+Name: Idle Island Builder
+Url: https://testflight.apple.com/join/mtzfb7Qu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/10/da/e810daad-bc14-9521-bff3-035b1084a237/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.496Z
+Categories:
+
+
+Name: Copia Wealth
+Url: https://testflight.apple.com/join/oUStxehv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/9d/ac/319dacb9-b00d-73cd-d76e-535f76d7ff4a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.531Z
+Categories:
+
+
+Name: Stanpro Genio
+Url: https://testflight.apple.com/join/LvtzYDAF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/20/ca/f420cac9-e767-d963-8762-00b812cc1d8e/AppIcon-Genio_Stanpro-0-0-1x_U007emarketing-0-5-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.567Z
+Categories:
+
+
+Name: Techbit
+Url: https://testflight.apple.com/join/JbudYMLz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/74/be/2074be60-3fdd-ce81-e2b3-459f29876b8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:37:09.602Z
+Categories:
+
+
