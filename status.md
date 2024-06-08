@@ -6433,3 +6433,120 @@ Last Checked: 2024-06-08T02:21:09.463Z
 Categories:
 
 
+Name: glimpse - photo dumps
+Url: https://testflight.apple.com/join/L4owCuqX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/72/46/0c/72460cc8-93f7-5d07-d71e-7c87eaf5a9c7/AppIcon-0-1x_U007ephone-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:22:09.728Z
+Categories:
+
+
+Name: VIT SelfCare
+Url: https://testflight.apple.com/join/XNCFbDIf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ef/4f/2b/ef4f2be3-1be6-0e56-8717-bfd0a93af937/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:22:09.757Z
+Categories:
+
+
+Name: DM Electric Bike
+Url: https://testflight.apple.com/join/CBCs1rMu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/41/6c/10416cb5-9fed-1bda-7142-f8a3ad86e3e8/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:22:09.785Z
+Categories:
+
+
+Name: Stick War: Saga
+Url: https://testflight.apple.com/join/eUx3WxVj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/2e/2f/da2e2fb5-2997-9655-0375-cad58dc6f0a1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T02:22:09.812Z
+Categories:
+
+
+Name: Matrix go
+Url: https://testflight.apple.com/join/BX8EObic
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/9a/6a/a79a6aa9-2a11-8be8-f36d-e60e8dbc9c56/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:22:09.841Z
+Categories:
+
+
+Name: 1Talent
+Url: https://testflight.apple.com/join/XSpgiKVk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c0/4e/93/c04e93fe-ccff-2a75-48be-8a4c8916c01c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:22:09.869Z
+Categories:
+
+
+Name: Very Ireland : Online Shopping
+Url: https://testflight.apple.com/join/cyidqZ3g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/13/c6/bc13c696-c047-247e-d287-57cfcff0ca93/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:22:09.898Z
+Categories:
+
+
+Name: Bushnell Golf Mobile Beta
+Url: https://testflight.apple.com/join/LIsefxvz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/d8/72/24d8725a-e235-1045-89a3-35f188ebc7d1/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:22:09.926Z
+Categories:
+
+
+Name: KudoCook
+Url: https://testflight.apple.com/join/DmaZFDlw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/33/5d/99/335d99d2-74b3-d014-b46d-0942182a3d38/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:22:09.954Z
+Categories:
+
+
+Name: Verdant Bank Super App
+Url: https://testflight.apple.com/join/0rFnzXio
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4a/e5/c7/4ae5c7a7-1f8a-0f9b-a442-47f2b5e16bbc/GxAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:22:09.982Z
+Categories:
+
+
+Name: MyPayble
+Url: https://testflight.apple.com/join/DMgzBcNC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/32/db/4a/32db4a87-9fa1-5d62-4153-eec84772d3bf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T02:22:10.010Z
+Categories:
+
+
+Name: BuddyBoss Communities App
+Url: https://testflight.apple.com/join/gpIZXRSB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fc/ba/f9/fcbaf9fe-d071-27a9-987c-629c69da1774/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:22:10.039Z
+Categories:
+
+
+Name: Budget Saudi Car Rental
+Url: https://testflight.apple.com/join/pnwln5Cy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/f4/c1/43f4c1bd-efa3-ea15-0e9b-4664e4d8beac/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:22:10.068Z
+Categories:
+
+
