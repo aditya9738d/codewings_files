@@ -8312,3 +8312,120 @@ Last Checked: 2024-06-08T22:12:11.834Z
 Categories:
 
 
+Name: Qudini by Verint Store Team
+Url: https://testflight.apple.com/join/Kz8v8Qyg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/8d/93/9f8d93b2-d747-e16d-4716-374ed1aa0e5e/AppIcon-1x_U007emarketing-0-10-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:13:09.760Z
+Categories:
+
+
+Name: Scanco Manufacturing 100
+Url: https://testflight.apple.com/join/QwrUI2qO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a5/40/02a540c5-cf0a-1dc3-1692-13a7b5184855/AppIcons-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T22:13:09.795Z
+Categories:
+
+
+Name: Storm: Deine Gaming-News
+Url: https://testflight.apple.com/join/cSXzy9My
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/79/82/f679825a-b68c-14ec-da24-b30bfa3f85bf/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:13:09.831Z
+Categories:
+
+
+Name: ZipperApplication
+Url: https://testflight.apple.com/join/W0uAfcw7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/1e/29/c41e2900-894f-6b25-a7dd-41d003e3cb92/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T22:13:09.870Z
+Categories:
+
+
+Name: ISTextinOlmDemo
+Url: https://testflight.apple.com/join/sRJlCA8K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/1d/0a/d81d0a46-555d-05d4-a43a-3f1c14f10976/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:13:09.906Z
+Categories:
+
+
+Name: XX-Net VPN
+Url: https://testflight.apple.com/join/vDdoaZSJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/25/45/c9/2545c986-7505-aa4d-bfb8-a5e2765589c4/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:13:09.942Z
+Categories:
+
+
+Name: Unilode E-ULD
+Url: https://testflight.apple.com/join/uU4mZjOa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/b8/59/3cb859b5-1e6d-25e0-7c70-e1733dab4fbd/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:13:09.978Z
+Categories:
+
+
+Name: Digio Hml
+Url: https://testflight.apple.com/join/ptJFDp86
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/b5/7f/adb57f51-7e29-4fc4-902b-a4cc1dfd7bb5/AppIcon-Hml-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T22:13:10.014Z
+Categories:
+
+
+Name: tahsaldar
+Url: https://testflight.apple.com/join/VQH4yQh0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/cc/53/accc53db-0db2-2ae7-e793-86798a4b4215/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:13:10.050Z
+Categories:
+
+
+Name: War Legends: RTS game
+Url: https://testflight.apple.com/join/89x4O51b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/71/eb/e771ebcc-b33c-365f-ef20-7e67e22ff1ff/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:13:10.087Z
+Categories:
+
+
+Name: OGChat
+Url: https://testflight.apple.com/join/LSBD73vg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/3c/c0/ae3cc0c7-2ad3-13fe-d93a-a2437419256a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:13:10.123Z
+Categories:
+
+
+Name: Soccersuck+
+Url: https://testflight.apple.com/join/lSWrY3p9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/5e/44/4d5e4488-d0a7-e94c-c57a-541c230e8950/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:13:10.161Z
+Categories:
+
+
+Name: Vibefy
+Url: https://testflight.apple.com/join/he8gBuuY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/8b/5d/9a8b5d51-c16d-2805-0af5-5ff48a123f56/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:13:10.197Z
+Categories:
+
+
