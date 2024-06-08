@@ -26440,3 +26440,120 @@ Last Checked: 2024-06-08T13:44:11.599Z
 Categories:
 
 
+Name: Shared Grocery Shopping List
+Url: https://testflight.apple.com/join/3Htu8ruM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/6a/e7/376ae792-e6b6-3719-8357-f1daf70f90f5/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:46:12.694Z
+Categories:
+
+
+Name: IBIT Pro
+Url: https://testflight.apple.com/join/weLede8L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/32/47/fc324722-9c25-9c48-5b79-5eb4e9f1c531/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:46:12.729Z
+Categories:
+
+
+Name: Pictographs - Beta
+Url: https://testflight.apple.com/join/rvfhXXd3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/05/cd/b205cd38-9839-7e97-8edf-511d03012208/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T13:46:12.765Z
+Categories:
+
+
+Name: Watsons TH
+Url: https://testflight.apple.com/join/F1V91NOb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e5/a9/4d/e5a94d3a-4dc4-d3ef-7de2-d0cf14b8a135/AppIcon-TH-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T13:46:12.802Z
+Categories:
+
+
+Name: DistrigoBoost
+Url: https://testflight.apple.com/join/tPYNbOKC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/42/38/72/423872a7-94e3-f197-281f-0fe5d3511480/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:46:12.838Z
+Categories:
+
+
+Name: Fawry Sudan
+Url: https://testflight.apple.com/join/PhzYIUKp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/f3/10/d9f310ee-3927-98a7-2174-4e01527f2860/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T13:46:12.874Z
+Categories:
+
+
+Name: Incognito — Private Browser
+Url: https://testflight.apple.com/join/O08pq9aJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/3b/8b/e33b8b15-fb6c-67aa-0942-53e3f54cb250/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T13:46:12.910Z
+Categories:
+
+
+Name: MemeTrade
+Url: https://testflight.apple.com/join/wknfh88W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/1f/33/f61f33d2-3b33-c469-4915-b7b2361406b2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:46:12.945Z
+Categories:
+
+
+Name: Webull: Trade & Invest Stocks
+Url: https://testflight.apple.com/join/cUXyfxRK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/9c/3f/c99c3f7a-235d-05c7-bc0d-fbbe016edda1/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:46:12.981Z
+Categories:
+
+
+Name: Celechron
+Url: https://testflight.apple.com/join/9Yitx2yG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/87/5a/7d875a2a-da2d-9f4f-f4a1-d65d749a4f76/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:46:13.017Z
+Categories:
+
+
+Name: ITock
+Url: https://testflight.apple.com/join/qYhOqNRw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/c4/91/62c491cf-5b0a-d4fa-08c5-d392250c77dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:46:13.054Z
+Categories:
+
+
+Name: Elytra
+Url: https://testflight.apple.com/join/PQtYgSOo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/98/4f/d6984fe7-b7eb-badd-fb70-a60a22963434/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:46:13.090Z
+Categories:
+
+
+Name: Lenovo Smart Storage
+Url: https://testflight.apple.com/join/yjgUleaX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/4f/39/664f3939-c179-ab22-1a21-f02079558532/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:46:13.126Z
+Categories:
+
+
