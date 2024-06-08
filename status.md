@@ -21526,3 +21526,120 @@ Last Checked: 2024-06-08T04:30:45.886Z
 Categories:
 
 
+Name: Mapletree FMS STG
+Url: https://testflight.apple.com/join/Wz0eptdq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/5d/a5/495da533-04e3-522f-e751-eaa4697775b5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.302Z
+Categories:
+
+
+Name: Easy Menu
+Url: https://testflight.apple.com/join/5J1NkbiB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/de/a2/79/dea279b2-62b7-fe17-89d6-4b77c641763e/AppIcon-0-0-1x_U007emarketing-0-0-0-2-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.330Z
+Categories:
+
+
+Name: UAT Jenbunjerd
+Url: https://testflight.apple.com/join/HgCSDTd9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8a/d1/218ad131-ca82-10a3-9089-4258affbeb61/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.359Z
+Categories:
+
+
+Name: IDentitySDK2 Ionic
+Url: https://testflight.apple.com/join/VEiBfP8E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/73/13/b173137f-f749-dec3-e74c-02e1c464bf63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.388Z
+Categories:
+
+
+Name: FocalPaint
+Url: https://testflight.apple.com/join/1adnuUHv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/bf/73/3cbf7340-4805-2b1f-43a5-e8fb190d981b/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.416Z
+Categories:
+
+
+Name: Mastodon
+Url: https://testflight.apple.com/join/ebSjPU84
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/e5/d6/bfe5d6ad-087c-c4df-c91a-5b779d2edc9d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.444Z
+Categories:
+
+
+Name: Akuvox SmartPlus
+Url: https://testflight.apple.com/join/wr0awr7k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/57/2c/12572c17-5da0-0912-0de5-b11e2a7e6b5a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.473Z
+Categories:
+
+
+Name: Elestrals TCG
+Url: https://testflight.apple.com/join/c3eNuA4G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/77/19/3a7719bb-1add-c16b-bfb0-f9bf843783a6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.502Z
+Categories:
+
+
+Name: MomianDr.
+Url: https://testflight.apple.com/join/OpUeLJSQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/fb/93/50fb93ea-d4a6-2469-1c58-c23defed7a15/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.530Z
+Categories:
+
+
+Name: WhaleCloud Miniapp POC
+Url: https://testflight.apple.com/join/xHe9rfdn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/08/d6/c308d6fa-9738-1188-879b-db8c2cb1c1fc/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.559Z
+Categories:
+
+
+Name: Learn languages with LENGO
+Url: https://testflight.apple.com/join/YBkLS3cd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/bc/89/1bbc896a-803f-1dbf-567f-dc8f93ce7fcc/AppIcon_Uni-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T04:31:09.588Z
+Categories:
+
+
+Name: TriiiX: SocialFi Trading
+Url: https://testflight.apple.com/join/at0hPFTk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e9/6a/51/e96a51ac-9707-417b-5e84-d336771f430c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.617Z
+Categories:
+
+
+Name: FairMoney Business
+Url: https://testflight.apple.com/join/q5qn8tnh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c2/6c/c3/c26cc354-a1c9-233a-e759-123f07dcc2a8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:31:09.645Z
+Categories:
+
+
