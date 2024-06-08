@@ -27493,3 +27493,120 @@ Last Checked: 2024-06-08T13:54:11.632Z
 Categories:
 
 
+Name: HD Logistics
+Url: https://testflight.apple.com/join/YrjYiArZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/75/c1/8d/75c18d4f-8fc2-9fdd-b96c-b6dad0723dd9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:55:19.796Z
+Categories:
+
+
+Name: Lead Connector
+Url: https://testflight.apple.com/join/u00jRPj2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/d4/6d/88d46d2f-4e42-3d6a-352c-aaf5307e68c2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:55:19.832Z
+Categories:
+
+
+Name: PENNY Italia
+Url: https://testflight.apple.com/join/8AGKiP53
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/b9/8c/44b98c0a-f9aa-5bf4-c44b-0ac3f4a950b3/PennyItaly_appicon_release-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T13:55:19.869Z
+Categories:
+
+
+Name: Larix Broadcaster
+Url: https://testflight.apple.com/join/mdxzNOxZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/39/e9/d839e92c-1856-6a32-b689-76f451ce4fe1/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:55:19.904Z
+Categories:
+
+
+Name: Midana
+Url: https://testflight.apple.com/join/gQ6UN4fO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8c/cf/96/8ccf966c-6f63-3180-a0f8-fe5935e98c6d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:55:19.940Z
+Categories:
+
+
+Name: Force Board
+Url: https://testflight.apple.com/join/XnGU0vyK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/d1/fd/60d1fd39-de62-884c-4e77-6326feade19a/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:55:19.977Z
+Categories:
+
+
+Name: VideoCallDemo
+Url: https://testflight.apple.com/join/MGwX87rb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/ac/75/8aac7577-5d02-871e-a42e-fb9418834319/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:55:20.013Z
+Categories:
+
+
+Name: Mango Baby Newborn Tracker Log
+Url: https://testflight.apple.com/join/td8w79RD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/6d/a2/536da285-10c9-f0e4-32c6-7da6c494bb47/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T13:55:20.048Z
+Categories:
+
+
+Name: WavePay
+Url: https://testflight.apple.com/join/DziqXhFD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/29/44/6629448b-5f27-8b67-ff3e-f2a23c0607e3/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-08T13:55:20.084Z
+Categories:
+
+
+Name: 6Q+
+Url: https://testflight.apple.com/join/VVRbNwHC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/e8/00/f9e8007f-71d9-c5f6-e5df-745ee43aab37/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:55:20.120Z
+Categories:
+
+
+Name: ToroVPartner
+Url: https://testflight.apple.com/join/gNej4apu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/9b/18/ca9b181e-0a96-de70-11ea-e04f20834ce6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T13:55:20.155Z
+Categories:
+
+
+Name: Battle Network
+Url: https://testflight.apple.com/join/37weKY6h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/2c/40/bd2c40ec-1dd8-2ed5-fe20-802c16974c1c/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:55:20.191Z
+Categories:
+
+
+Name: FE ONLINE 2.0
+Url: https://testflight.apple.com/join/P09yAdJj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/ef/16/fbef16dc-aa65-dd4d-bf03-50863124ee06/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:55:20.227Z
+Categories:
+
+
