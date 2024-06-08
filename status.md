@@ -14747,3 +14747,120 @@ Last Checked: 2024-06-08T23:56:11.605Z
 Categories:
 
 
+Name: Cheatsheet — Quick Note Widget
+Url: https://testflight.apple.com/join/E7AnyPlA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/74/56/de74560f-f642-7499-06e5-0339d44aa56b/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T23:57:08.647Z
+Categories:
+
+
+Name: Mood - Make One&Only Day
+Url: https://testflight.apple.com/join/gGV7TgVC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/86/58/2a865827-dc23-b72d-ecc3-0d8afdb5ed4e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:57:08.682Z
+Categories:
+
+
+Name: Pocket 48
+Url: https://testflight.apple.com/join/I6CR0Kl8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/d7/d9/9bd7d96f-d683-b9e7-c105-f5442a8125e9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:57:08.719Z
+Categories:
+
+
+Name: Combo Koala - Battle Hero
+Url: https://testflight.apple.com/join/kdqq3qAN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/16/e7/9816e7be-f40c-138c-70e3-5227b5596732/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:57:08.755Z
+Categories:
+
+
+Name: Niantic Wayfarer
+Url: https://testflight.apple.com/join/VXu1F2jf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/84/b9/26/84b9268a-f1e1-7fa2-f00d-0a96390ba747/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:57:08.791Z
+Categories:
+
+
+Name: Eagle Eye Demo
+Url: https://testflight.apple.com/join/wP2BDFsk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/59/3d/e5593d98-b613-a1b5-4110-dc2333c9ce29/AppIcon-1x_U007emarketing-0-4-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:57:08.827Z
+Categories:
+
+
+Name: Ungdungsinhvien.com
+Url: https://testflight.apple.com/join/qdUjhQP7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/8c/9b/a88c9bd1-5390-b26e-9104-3fbbd39f302e/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:57:08.862Z
+Categories:
+
+
+Name: Notilify
+Url: https://testflight.apple.com/join/900xOXOk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/d4/f3/c8d4f32a-1444-1535-b1a7-2e71aa04257e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:57:08.899Z
+Categories:
+
+
+Name: CareAR Scan
+Url: https://testflight.apple.com/join/HTQEJaTk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/34/c0/a234c017-e189-8e0b-2382-9fe74efbe04c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:57:08.934Z
+Categories:
+
+
+Name: Hytech Gizmo
+Url: https://testflight.apple.com/join/XqAOyZXH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/ee/1d/2bee1d0e-3a23-0f93-54ed-6874371fde92/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:57:08.969Z
+Categories:
+
+
+Name: The New York Times
+Url: https://testflight.apple.com/join/gfiSREAr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/c3/aa/83c3aa44-db43-6ed7-3144-1b83272b1f95/release-app-icon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T23:57:09.005Z
+Categories:
+
+
+Name: TRViS
+Url: https://testflight.apple.com/join/yYBaAdqX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0d/38/5e/0d385e3b-1d4e-314a-c3cf-e8bd42ed1cdc/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T23:57:09.041Z
+Categories:
+
+
+Name: Microsoft PowerPoint
+Url: https://testflight.apple.com/join/a9Ef0N3g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/9e/e7/819ee73c-0a60-d490-d15a-1f322a604389/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T23:57:09.076Z
+Categories:
+
+
