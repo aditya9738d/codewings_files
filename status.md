@@ -1636,3 +1636,120 @@ Last Checked: 2024-06-08T10:09:08.442Z
 Categories:
 
 
+Name: FVCrew
+Url: https://testflight.apple.com/join/uPBEIbPJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/43/de/8143de5b-c61a-e2e6-3306-d0cc79d56919/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:10:22.601Z
+Categories:
+
+
+Name: Dustland Runner
+Url: https://testflight.apple.com/join/j3aaHsHj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/aa/13/30aa1396-4fc2-4a3c-67c4-a0a5904e23c0/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:10:22.637Z
+Categories:
+
+
+Name: Plum Music Player
+Url: https://testflight.apple.com/join/NTNN2SHE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/8d/eb/5e8debb0-f9dc-9351-240c-8d55e34be424/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:10:22.673Z
+Categories:
+
+
+Name: Napkinmatic
+Url: https://testflight.apple.com/join/FvQUhvHT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/9b/c7/e49bc736-1570-0e8a-7bbb-1893bb8a4178/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T10:10:22.709Z
+Categories:
+
+
+Name: Nahpu
+Url: https://testflight.apple.com/join/b18Rs4ju
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/70/ac/e670ac33-ec2e-4a81-54f6-c7107430823b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:10:22.745Z
+Categories:
+
+
+Name: Spiral Productivity
+Url: https://testflight.apple.com/join/0sAkgmv7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/14/c4/aa14c4dc-22c6-14b5-00cd-eb6cc698dbe5/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:10:22.781Z
+Categories:
+
+
+Name: SalesCRM-2.0
+Url: https://testflight.apple.com/join/wDAor02r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/7b/8f/257b8f55-911d-56e5-9d33-41cc20258a43/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T10:10:22.817Z
+Categories:
+
+
+Name: N01ZET
+Url: https://testflight.apple.com/join/qnPblFSD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/7b/b9/1f7bb96b-44b7-1f49-0300-e4514dfa6c8a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:10:22.853Z
+Categories:
+
+
+Name: ArB Mobile
+Url: https://testflight.apple.com/join/vLXuTaDH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/04/44/b70444c3-34ba-7437-62a8-78116641e950/ArB_Mobile-1x_U007emarketing-0-7-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:10:22.889Z
+Categories:
+
+
+Name: Jarvis World
+Url: https://testflight.apple.com/join/nPy0c7Yi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/83/1b/f6831b8e-2298-a0b0-ec68-8d192346d22c/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:10:22.926Z
+Categories:
+
+
+Name: Participant for Zoom
+Url: https://testflight.apple.com/join/iwZesoSE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/9c/51/fc9c5154-a280-f22b-6913-ca443e52b1c1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T10:10:22.961Z
+Categories:
+
+
+Name: Relx SG
+Url: https://testflight.apple.com/join/n5xzwIH0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f8/5d/87/f85d877d-aef6-4023-9c85-e61048c735d5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T10:10:22.997Z
+Categories:
+
+
+Name: EdgeLife
+Url: https://testflight.apple.com/join/RlnQBUsd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d8/0e/5ad80e49-3944-0be1-5b11-587d4f644405/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T10:10:23.033Z
+Categories:
+
+
