@@ -21994,3 +21994,120 @@ Last Checked: 2024-06-08T17:48:11.424Z
 Categories:
 
 
+Name: Water Taxis AUS - Skippers
+Url: https://testflight.apple.com/join/uncAa91l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/01/3d/ab/013dabc4-2d9f-3bb6-d223-2981f3d33d3e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:12.702Z
+Categories:
+
+
+Name: Watsons eDr UAT
+Url: https://testflight.apple.com/join/vAES6efH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/5c/42/da5c4276-1a74-e0d2-6a79-a9588f0b4998/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:12.730Z
+Categories:
+
+
+Name: WeHear OX
+Url: https://testflight.apple.com/join/Wk3hRTbK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/cc/50/44cc50b6-912b-7be1-0414-95761b5fe3e4/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:12.757Z
+Categories:
+
+
+Name: WeShre-Private
+Url: https://testflight.apple.com/join/MFAluwhp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5e/3c/8b/5e3c8bbd-358a-775f-c944-9b96934594be/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:12.785Z
+Categories:
+
+
+Name: WeTeach: منصة تعليمية
+Url: https://testflight.apple.com/join/o5bFrCvl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/be/6b/bcbe6b73-3a1b-29cd-31c1-21f53732ff77/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:12.812Z
+Categories:
+
+
+Name: Web3bank - Wallet
+Url: https://testflight.apple.com/join/0lAGJz5e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/c7/89/64c789c3-61f8-e3a3-ddc7-1fcdee6d331b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:12.839Z
+Categories:
+
+
+Name: WeechatRemote
+Url: https://testflight.apple.com/join/0jFsQpot
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7e/0b/ad/7e0bad67-e397-77cf-a035-45aca4fd15a7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T17:55:12.867Z
+Categories:
+
+
+Name: WellTra.AI
+Url: https://testflight.apple.com/join/LVOBuFfv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/2b/5f/4d2b5f8d-06fc-0df0-2534-78fc1c2d99ce/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:12.894Z
+Categories:
+
+
+Name: Wemates
+Url: https://testflight.apple.com/join/fuBJEElq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/a5/f1/1aa5f1f9-c669-c955-9d6c-855c8d125e76/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:12.922Z
+Categories:
+
+
+Name: Westside
+Url: https://testflight.apple.com/join/pfvhMuad
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/88/96/df8896b8-d3a1-868a-1885-774d51f29cda/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:12.950Z
+Categories:
+
+
+Name: What Are Those!? App
+Url: https://testflight.apple.com/join/5sQrm9MF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/c7/80/50c780b8-5850-9ce3-e35d-abd58fe9714c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:12.977Z
+Categories:
+
+
+Name: Whatever - Dates for Couples
+Url: https://testflight.apple.com/join/6uvfdowB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/74/ba/ff74ba69-12d2-68be-8e13-cb1cafaa0b04/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:13.005Z
+Categories:
+
+
+Name: Widgetsmith
+Url: https://testflight.apple.com/join/U1xowuoZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/76/be/aa76bed0-fa8e-2011-4a79-47559f1870f5/AppIcon.lsr/200x200bb-8.png
+Click Count: 7
+Beta Available: not accepting
+Last Checked: 2024-06-08T17:55:13.032Z
+Categories:
+
+
