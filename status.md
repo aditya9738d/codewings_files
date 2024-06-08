@@ -10177,3 +10177,120 @@ Last Checked: 2024-06-08T11:22:10.920Z
 Categories:
 
 
+Name: DoorDash - Dasher
+Url: https://testflight.apple.com/join/8lknDp4C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/57/d4/5e57d4b3-d271-f0d6-1f42-d0a90e7e9070/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:23:08.703Z
+Categories:
+
+
+Name: AdGuard for Safari
+Url: https://testflight.apple.com/join/c31mEr6q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/0a/61/c40a61d3-3a10-59c0-953f-ee59f6a6ec5d/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: full
+Last Checked: 2024-06-08T11:23:08.732Z
+Categories:
+
+
+Name: Top Sticker Maker - WaSticker
+Url: https://testflight.apple.com/join/VYSzYtOq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/ed/9e/eaed9e78-cd97-12a4-ab5b-9f2bb24448e8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:23:08.761Z
+Categories:
+
+
+Name: Pizzahut Japan UAT
+Url: https://testflight.apple.com/join/dJaAwjPv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/13/be/7a13be8e-7930-2fce-86fc-15f70b4be826/AppIcon-UAT-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:23:08.790Z
+Categories:
+
+
+Name: eMango Wallet
+Url: https://testflight.apple.com/join/9I8CjcOb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/23/f5/1a23f5c9-8116-deca-4446-49d909192668/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:23:08.818Z
+Categories:
+
+
+Name: Euphony - Beta
+Url: https://testflight.apple.com/join/kGzSP7g7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/be/49/a3be491d-ee99-35fd-45a8-5fb577129eec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:23:08.847Z
+Categories:
+
+
+Name: Yanosik
+Url: https://testflight.apple.com/join/Oim5943l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/0a/b8/9f0ab86a-e8c9-b4b2-2bad-4d9704a96e48/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:23:08.876Z
+Categories:
+
+
+Name: ClienKit
+Url: https://testflight.apple.com/join/IUssNRpy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/f8/44/8af84415-151f-37fe-5b8a-d6d284e7f255/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T11:23:08.904Z
+Categories:
+
+
+Name: Geovelo : bike GPS
+Url: https://testflight.apple.com/join/3tGq4Vsv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/8f/53/be8f53d5-47fc-530c-3c55-b5d1c6557df9/AppIcon-Geovelo-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:23:08.932Z
+Categories:
+
+
+Name: iGPSPORT
+Url: https://testflight.apple.com/join/ioPjgrRi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/14/fc/1614fc7d-5c04-1845-17a8-8bdf34a87d1f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T11:23:08.960Z
+Categories:
+
+
+Name: The 1: UAT
+Url: https://testflight.apple.com/join/M2ysLVcN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/cc/c9/28ccc925-1620-97b3-aafe-b7416dcff5fd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:23:08.989Z
+Categories:
+
+
+Name: Dikalo
+Url: https://testflight.apple.com/join/pZWRkOXn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/00/a7/a7/00a7a720-d58e-951a-533e-1d1e8df61311/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-08T11:23:09.018Z
+Categories:
+
+
+Name: Sale App
+Url: https://testflight.apple.com/join/W9vjfPwT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/a8/3f/eea83f88-adf3-b561-191b-494b14d201ed/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:23:09.047Z
+Categories:
+
+
