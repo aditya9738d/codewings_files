@@ -10769,3 +10769,120 @@ Last Checked: 2024-06-08T23:03:09.859Z
 Categories:
 
 
+Name: Royale Town
+Url: https://testflight.apple.com/join/d7TDODwA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/0a/d8/b30ad800-9234-4a91-2eb3-76a8a7222462/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:04:09.060Z
+Categories:
+
+
+Name: GoRide Drivers
+Url: https://testflight.apple.com/join/yph352IB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/10/4f/fd104fbd-35b9-5d8c-e7a9-9545e6ca93a5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:04:09.089Z
+Categories:
+
+
+Name: CopyPad
+Url: https://testflight.apple.com/join/MD3Ossnz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/d3/65/bbd365bd-25f1-b193-6287-90fcddfacef4/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:04:09.117Z
+Categories:
+
+
+Name: TRADEFOOX
+Url: https://testflight.apple.com/join/PiKfy0IT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/7a/73/d27a7379-dfae-beb3-2cf7-fd8d6f4b4b69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:04:09.145Z
+Categories:
+
+
+Name: XHalo
+Url: https://testflight.apple.com/join/BHvi2YkW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/3a/98/793a981c-3491-6d0b-916e-41274c7afbdb/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:04:09.173Z
+Categories:
+
+
+Name: Shiba Rush
+Url: https://testflight.apple.com/join/LXeDLhIB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/c8/6a/a6c86aa7-7eea-9d3b-0143-32d6ed8e104f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T23:04:09.201Z
+Categories:
+
+
+Name: Vida by PADERNO
+Url: https://testflight.apple.com/join/YhPO0BFc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d0/1e/e2/d01ee2b5-1906-f97c-14b5-e2606ef35475/AppIcon-Vida-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:04:09.229Z
+Categories:
+
+
+Name: Void Note
+Url: https://testflight.apple.com/join/mrt0rnPw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/99/f7/c7/99f7c7cf-a5a4-b4a6-e793-7d5b56465c7b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:04:09.257Z
+Categories:
+
+
+Name: KTC EConsent
+Url: https://testflight.apple.com/join/HcVX6Q35
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/39/87/51/398751d4-3a0f-0aed-12dc-d11931a66e84/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:04:09.286Z
+Categories:
+
+
+Name: L2+
+Url: https://testflight.apple.com/join/hxLvaOh5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0f/a2/ca/0fa2ca2e-5394-88bc-9a18-0dd43e21a0b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:04:09.314Z
+Categories:
+
+
+Name: eGrocer Customer
+Url: https://testflight.apple.com/join/fcRe3J9F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/70/99/647099a1-6315-7993-afc6-a1907f75967a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:04:09.343Z
+Categories:
+
+
+Name: Bike Master Challenge
+Url: https://testflight.apple.com/join/nkLCjtCX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/6c/7b/346c7b0d-eb2b-e7a4-3fb3-eecd9e2177b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-08T23:04:09.373Z
+Categories:
+
+
+Name: Bring! Grocery Shopping List
+Url: https://testflight.apple.com/join/EUHdZJwQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/89/f2/6489f218-ef8c-426d-178d-fd015dfff673/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T23:04:09.401Z
+Categories:
+
+
