@@ -5731,3 +5731,120 @@ Last Checked: 2024-06-08T02:15:26.465Z
 Categories:
 
 
+Name: csl.
+Url: https://testflight.apple.com/join/JhvirvMs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/1f/86/5b1f86ff-ac07-6847-95e4-c1b6f2a3efbe/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.008Z
+Categories:
+
+
+Name: SuperNews: custom news app
+Url: https://testflight.apple.com/join/SKj6fn5k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/be/65/0b/be650b23-ec1e-1f87-840a-eb29397f2f64/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.038Z
+Categories:
+
+
+Name: iBoot - StartupDisk shortcut
+Url: https://testflight.apple.com/join/yjWEwvq1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/93/68/4d9368e9-eba7-0933-02b4-9a550388bbd8/AppIcon-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.066Z
+Categories:
+
+
+Name: Whalestream Flow
+Url: https://testflight.apple.com/join/muxvoB7l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/88/8c/29888c9a-4c12-e4a4-fe54-e1824b317617/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.094Z
+Categories:
+
+
+Name: TILT Mobile BETA
+Url: https://testflight.apple.com/join/SporEXST
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/85/ce/8c/85ce8cc0-b615-c039-8af0-74e2ff80e278/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.123Z
+Categories:
+
+
+Name: ObjectDetection2
+Url: https://testflight.apple.com/join/Hv7T2Ozg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/ee/25/bcee25db-f679-be2e-b9bb-0fd83835f159/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.151Z
+Categories:
+
+
+Name: Scrcpy Remote
+Url: https://testflight.apple.com/join/9ZE6xhRt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/81/83/f7818363-5c03-2eef-5992-fc8e27cdedc7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.179Z
+Categories:
+
+
+Name: KiwiCamera
+Url: https://testflight.apple.com/join/z7jwuTms
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/42/90/65429066-d555-5b5d-fdc3-3c25a2f25fe1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.207Z
+Categories:
+
+
+Name: MyMCash
+Url: https://testflight.apple.com/join/zD8SpM0H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/ed/b6/36edb6ce-c793-e225-03f0-b86a69d09d36/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.235Z
+Categories:
+
+
+Name: SVIBES
+Url: https://testflight.apple.com/join/rVjGsgdt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a5/0e/ea/a50eea1e-a124-a8ea-e940-bb96363636f9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.263Z
+Categories:
+
+
+Name: Swop - Connecting The World
+Url: https://testflight.apple.com/join/JFvrk5Qs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/d7/91/5ed791e9-d2e4-987c-fd38-2667c6fba89c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.292Z
+Categories:
+
+
+Name: lipa wallet
+Url: https://testflight.apple.com/join/J4SmDW5N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/77/33/7e773368-cfa8-f42e-83db-5504df97eab7/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.321Z
+Categories:
+
+
+Name: PaySika
+Url: https://testflight.apple.com/join/Y9WgJwBG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/71/14/e17114d1-b680-4b22-b3c4-bc24c862a770/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:16:12.348Z
+Categories:
+
+
