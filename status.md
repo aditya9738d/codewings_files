@@ -17899,3 +17899,120 @@ Last Checked: 2024-06-08T03:59:09.675Z
 Categories:
 
 
+Name: FleetHD Mobile
+Url: https://testflight.apple.com/join/IXMqs3E1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/f2/0f/79f20f23-831e-97bf-8bbf-ef1add7aaa70/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:53.983Z
+Categories:
+
+
+Name: BETA Sierra Sacramento EMS
+Url: https://testflight.apple.com/join/GeBheHIM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/67/29/02/67290289-fb41-c2e4-6c16-63ce7774c714/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:54.012Z
+Categories:
+
+
+Name: Mein dm
+Url: https://testflight.apple.com/join/a51ByRrP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f7/b4/14f7b4ee-b0d5-0b23-2d22-b86669dda7f9/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:54.041Z
+Categories:
+
+
+Name: HKT Flexi Test
+Url: https://testflight.apple.com/join/XLmQBpBP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/04/aa/5304aaa0-bc57-7349-a627-38f9ba52deca/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:54.070Z
+Categories:
+
+
+Name: PodClips
+Url: https://testflight.apple.com/join/04pXDRjo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/b8/a4/8cb8a461-5b94-22de-7496-677818e9f98b/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:54.099Z
+Categories:
+
+
+Name: Goride Customer
+Url: https://testflight.apple.com/join/9VQcJ61b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/12/41/4b/12414b47-ff08-7d65-ae90-5681be6f60d3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:54.127Z
+Categories:
+
+
+Name: KBZPayCustomer_UAT
+Url: https://testflight.apple.com/join/n7qTwGi5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/e6/16/52e6168e-9d33-8af2-ac86-b9307e6da928/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:54.157Z
+Categories:
+
+
+Name: Alesayi Motors
+Url: https://testflight.apple.com/join/zCC12PZ1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/54/dc/62/54dc6264-c5c6-4f58-8fee-5d147cdd1ced/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:54.186Z
+Categories:
+
+
+Name: dispolive
+Url: https://testflight.apple.com/join/6HUIz8op
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/9c/4a/4d9c4a2f-b59b-8401-87ab-6df3a573d3e0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:54.215Z
+Categories:
+
+
+Name: onWheel STG
+Url: https://testflight.apple.com/join/NGiU0A6m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/63/4f/b6634f90-1b70-803b-6964-8c6f886b7b43/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:54.243Z
+Categories:
+
+
+Name: World Instrument
+Url: https://testflight.apple.com/join/hYqWFgxj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fc/40/6e/fc406e56-628d-c416-7044-722f98c1ae7d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T04:00:54.273Z
+Categories:
+
+
+Name: Landa: Invest in Real Estate
+Url: https://testflight.apple.com/join/aTO20D3p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fe/e0/1d/fee01dab-ed85-a6d6-5d38-3392a53a1d52/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:54.301Z
+Categories:
+
+
+Name: Our Wallet App
+Url: https://testflight.apple.com/join/B57cCdXi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/11/c0/4511c05e-5f9e-9a7e-f080-5a4c7a553c3c/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T04:00:54.329Z
+Categories:
+
+
