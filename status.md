@@ -8890,3 +8890,120 @@ Last Checked: 2024-06-08T11:11:10.163Z
 Categories:
 
 
+Name: Kase₄
+Url: https://testflight.apple.com/join/1rKm0849
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/22/7a/91227ad0-f25a-74eb-957e-65919553964d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.189Z
+Categories:
+
+
+Name: Anytype: Secure Notes
+Url: https://testflight.apple.com/join/BPMIR4Fk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/a2/e9/a1a2e945-4216-345d-c42c-15fae2a321a7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.216Z
+Categories:
+
+
+Name: Eazy Life Staging
+Url: https://testflight.apple.com/join/Z5zlu0Q3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/62/87/2d62876d-5892-7f2d-f8d2-c58c8049eaf2/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.245Z
+Categories:
+
+
+Name: Vivalemuc Autobuyer
+Url: https://testflight.apple.com/join/zFgZBjDN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/01/c9/fa01c93f-0a7b-092d-9ee4-8aebfb8dc797/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.272Z
+Categories:
+
+
+Name: ALRAMZ CAPITAL
+Url: https://testflight.apple.com/join/6qKCAjpU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/33/cd/0633cd59-7efc-e858-d9a8-bacd8d4f2ada/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.299Z
+Categories:
+
+
+Name: yeslive
+Url: https://testflight.apple.com/join/lTyYNvOJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9e/b8/f19eb8f0-fef1-3ac9-c67d-18210224c441/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.327Z
+Categories:
+
+
+Name: atome SG-Staging
+Url: https://testflight.apple.com/join/sWZnRQxH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/6f/3c/6d6f3c1b-f834-ea68-965e-c98f5724aac8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.355Z
+Categories:
+
+
+Name: Wehealth Notify
+Url: https://testflight.apple.com/join/Ed3IIqyP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/7a/42/087a42db-9f96-3b3b-e8c1-54f687414890/AppIcon-Arizona-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.384Z
+Categories:
+
+
+Name: Dynastar
+Url: https://testflight.apple.com/join/b4Dy5q97
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/f5/02/40f502b9-38b2-9c5a-4aac-994ef8a2f24b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.412Z
+Categories:
+
+
+Name: Moj STCable - DEV
+Url: https://testflight.apple.com/join/pq3fmJG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/bd/ec/2ebdec9b-2c06-9c38-bdc5-bfd3dfd7bc25/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.440Z
+Categories:
+
+
+Name: SHUM
+Url: https://testflight.apple.com/join/Co5dY1N7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2e/9b/962e9bd4-d36f-2f51-edb4-39137c4fe36d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.468Z
+Categories:
+
+
+Name: Trickster's Table
+Url: https://testflight.apple.com/join/uuFXY9mw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e5/7c/f8/e57cf8cc-454f-3521-77cb-74d35b01b507/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:12:10.496Z
+Categories:
+
+
+Name: ByteFM
+Url: https://testflight.apple.com/join/8byWHA4T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/78/1b/7d781b64-13a4-65e0-706b-71bd126a3e38/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T11:12:10.524Z
+Categories:
+
+
