@@ -11230,3 +11230,120 @@ Last Checked: 2024-06-08T15:41:11.221Z
 Categories:
 
 
+Name: DPMS
+Url: https://testflight.apple.com/join/KfOgZckD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/e7/fc/dce7fcd7-0474-cd40-0b20-4d44e362f39b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:42:11.999Z
+Categories:
+
+
+Name: DPN Client
+Url: https://testflight.apple.com/join/zTvCn1Qe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/42/6b/46426bda-cb69-55e5-7c86-cce2ceb34419/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:42:12.034Z
+Categories:
+
+
+Name: DRC Test
+Url: https://testflight.apple.com/join/Vh3GXp2g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/45/1c/6a/451c6a92-7275-4b7d-11bb-3418e948ff2f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:42:12.069Z
+Categories:
+
+
+Name: DTLearning
+Url: https://testflight.apple.com/join/z8yTvWWt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/28/31/3f2831f5-2711-f8c0-96c7-5e7bc67f86b7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:42:12.105Z
+Categories:
+
+
+Name: DTNewsApp
+Url: https://testflight.apple.com/join/9LOKWQMn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b3/88/f7/b388f7f5-bfe1-6ca5-5253-67dd8915eb86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:42:12.140Z
+Categories:
+
+
+Name: DTWeb
+Url: https://testflight.apple.com/join/XtQzoc7P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/30/25/72/302572cd-3ea3-fd71-43e1-8aa534cb6b0a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:42:12.175Z
+Categories:
+
+
+Name: DTect Parcel
+Url: https://testflight.apple.com/join/sSN52W3D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/34/28/4f34284f-9ab8-036c-863d-f9ea43c08845/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:42:12.211Z
+Categories:
+
+
+Name: Dabbsson
+Url: https://testflight.apple.com/join/VGm2QxEK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/41/f7/d6/41f7d68b-4b2f-1c67-0bc2-f2d527c79613/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:42:12.246Z
+Categories:
+
+
+Name: Daily Planner Calendar - Myday
+Url: https://testflight.apple.com/join/WtpRtuGC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/2c/04/962c0448-0018-4850-2e63-121747f7f349/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:42:12.282Z
+Categories:
+
+
+Name: Daily TODOs
+Url: https://testflight.apple.com/join/yI66XvVd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/e9/69/b5e96960-0c1f-1602-4f95-20c0fbb383c3/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:42:12.316Z
+Categories:
+
+
+Name: DanceDuel : Dance Game
+Url: https://testflight.apple.com/join/bXdvlprE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/06/71/000671f7-8a48-06a9-187d-f36dede90754/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:42:12.352Z
+Categories:
+
+
+Name: Dancing Line Community Edition
+Url: https://testflight.apple.com/join/XnV3J5fu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/b7/90/81b7909c-2720-0a48-3deb-3bded481cf22/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: error
+Last Checked: 2024-06-08T15:42:12.388Z
+Categories:
+
+
+Name: ElevateDarts
+Url: https://testflight.apple.com/join/3jcns7lc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/d3/af/6bd3aff7-4758-f856-cd41-92431b61f584/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:42:12.422Z
+Categories:
+
+
