@@ -25988,3 +25988,120 @@ Last Checked: 2024-06-08T09:35:17.843Z
 Categories:
 
 
+Name: Ohere Wallet - Pay & Get Paid
+Url: https://testflight.apple.com/join/jsf7ZPVr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/3d/10/b33d10e7-d1ea-787d-05ef-7a9e45aa6009/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.604Z
+Categories:
+
+
+Name: Cali - Your new calendar
+Url: https://testflight.apple.com/join/yKXoESUD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/bc/64/bfbc644f-5221-c5c9-98bc-5a7e6e04b66b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.633Z
+Categories:
+
+
+Name: Sila for Twitch
+Url: https://testflight.apple.com/join/tvPhZZ8w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/01/e1/c901e16d-664b-2f7a-fee0-46748b84654f/AppIcon.lsr/200x200bb-80.png
+Click Count: 16
+Beta Available: not accepting
+Last Checked: 2024-06-08T09:36:09.661Z
+Categories:
+
+
+Name: Carbon Browser
+Url: https://testflight.apple.com/join/Nd0sc84V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/aa/ce/19aaceac-277c-f1e6-b5d3-baf57b1bad7b/AppIcon_Carbon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 61
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.689Z
+Categories:
+
+
+Name: Circle Finance
+Url: https://testflight.apple.com/join/t9LweeB5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/88/ff/c288ffad-447f-008d-e51d-8973c20d0f08/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.718Z
+Categories:
+
+
+Name: TiTi App
+Url: https://testflight.apple.com/join/NeXUqMRv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/64/67/60/6467601b-2a38-d3ce-1fec-70f29326445b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 157
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.745Z
+Categories:
+
+
+Name: NFTDuel Game
+Url: https://testflight.apple.com/join/xEyjKgoy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/5d/88/3a5d882d-25b3-6de0-ac8e-76ce42801eff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 44
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.772Z
+Categories:
+
+
+Name: Ask GPT Jesus
+Url: https://testflight.apple.com/join/qX0RYRDT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/e9/c5/f3e9c581-464e-2d02-9bd3-5aa5e81b924f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 56
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.801Z
+Categories:
+
+
+Name: AppMySite - My Web-to-App
+Url: https://testflight.apple.com/join/1cvKgAXc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/58/52/30/585230db-208a-d99b-eb9f-d60931f54435/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 13
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.828Z
+Categories:
+
+
+Name: Flakey
+Url: https://testflight.apple.com/join/TGOVnAxT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/8c/9a/4c8c9ae2-859e-68f3-d462-f5354ff14191/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.856Z
+Categories:
+
+
+Name: Get Hello World
+Url: https://testflight.apple.com/join/oRFmpWfV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/8c/ff/3b8cff4a-65e7-ad30-cb71-ddcae3b27c05/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 25
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.884Z
+Categories:
+
+
+Name: Any Recipe Keeper
+Url: https://testflight.apple.com/join/eedsEgLh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/83/c7/5683c795-3d68-3988-27e7-e24d60d9e563/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.912Z
+Categories:
+
+
+Name: Monetum
+Url: https://testflight.apple.com/join/Av9ileb2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/27/89/fe2789d1-a761-07ed-d04b-80381d074c50/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 15
+Beta Available: open
+Last Checked: 2024-06-08T09:36:09.940Z
+Categories:
+
+
