@@ -6082,3 +6082,120 @@ Last Checked: 2024-06-08T02:18:10.092Z
 Categories:
 
 
+Name: Marker - YouTube Chapters
+Url: https://testflight.apple.com/join/L0Mh507n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/58/eb/a858eb5f-bf89-f718-a36d-31b0f55a7831/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:19:07.763Z
+Categories:
+
+
+Name: Trucker Path: Truck GPS & Fuel
+Url: https://testflight.apple.com/join/FDRtw5Ic
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d4/df/a5d4dfce-0e16-376b-99ca-239df36a3a63/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:19:07.791Z
+Categories:
+
+
+Name: WorkPass Beta
+Url: https://testflight.apple.com/join/eLWDy9oc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ca/19/36/ca193620-bfcf-926f-050e-6ba0cd187a0c/AppIcon-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:19:07.819Z
+Categories:
+
+
+Name: Floor  - (app)
+Url: https://testflight.apple.com/join/luTKB5xB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/e6/c6/bbe6c6a2-7c89-5674-c279-50fc8f082fe6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:19:07.848Z
+Categories:
+
+
+Name: Teo App
+Url: https://testflight.apple.com/join/dtyDtJzZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/c4/12/8bc412ed-d8ff-3be3-7d93-25e7ab138fc3/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:19:07.875Z
+Categories:
+
+
+Name: MirageXR
+Url: https://testflight.apple.com/join/NjFirLwB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2f/03/222f03df-f3cb-4b76-fd30-c008be6bb3ce/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:19:07.903Z
+Categories:
+
+
+Name: YouKon
+Url: https://testflight.apple.com/join/aKAd0AwD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/70/66/eb706698-a1ed-207c-d01f-c57353832cd3/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:19:07.931Z
+Categories:
+
+
+Name: SHADE
+Url: https://testflight.apple.com/join/alUDkx8l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/82/7e/48827e67-939d-e3b0-6f02-9718e8689529/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:19:07.959Z
+Categories:
+
+
+Name: Shovely World
+Url: https://testflight.apple.com/join/DusoJrtk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/46/c9/e6/46c9e6bc-2764-9b09-1590-5a51c4a92a23/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T02:19:07.987Z
+Categories:
+
+
+Name: SPISearch
+Url: https://testflight.apple.com/join/DaVCrzZp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/1f/65/ec1f65d7-2e44-bfb2-f1ef-5955c88dfc73/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:19:08.015Z
+Categories:
+
+
+Name: ICSCM
+Url: https://testflight.apple.com/join/fbBlDmFU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/38/c0/ca/38c0ca2e-db7b-fdab-fd9b-ec2bb7371410/appicon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T02:19:08.043Z
+Categories:
+
+
+Name: Silica AI
+Url: https://testflight.apple.com/join/w1lCVUj5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/43/6a/46436a0d-eeb5-51c1-25e1-e8cff7544077/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:19:08.072Z
+Categories:
+
+
+Name: Mobile SDK Showcase
+Url: https://testflight.apple.com/join/JqNS0HTc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/ca/58/36ca5882-d79e-73e1-e961-6cf96291ca6e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T02:19:08.101Z
+Categories:
+
+
