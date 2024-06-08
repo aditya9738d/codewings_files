@@ -10294,3 +10294,120 @@ Last Checked: 2024-06-08T11:23:09.047Z
 Categories:
 
 
+Name: HomeTeamNS UAT
+Url: https://testflight.apple.com/join/vh8u2dMQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/45/a5/e545a53a-6a31-9b37-27af-89ed8f588d19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:24:11.323Z
+Categories:
+
+
+Name: Code App
+Url: https://testflight.apple.com/join/EgZ8sE2P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/3f/b5/b33fb5b3-b77c-3417-e0c9-51ac503e4164/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T11:24:11.352Z
+Categories:
+
+
+Name: MAE Support
+Url: https://testflight.apple.com/join/BAdfo8Cf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/db/70/51db70d4-9af4-f539-3925-2bb8310efc98/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T11:24:11.380Z
+Categories:
+
+
+Name: Flat: Music Score & Tab Editor
+Url: https://testflight.apple.com/join/40tsZiyi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/d1/2b/9cd12b12-5e1d-0d0c-cb96-9f45e5a83700/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:24:11.409Z
+Categories:
+
+
+Name: Williams Racing
+Url: https://testflight.apple.com/join/vFuOGkFK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/91/39/b8913978-f0b5-c5c9-3d55-0452f90996b7/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T11:24:11.438Z
+Categories:
+
+
+Name: OpConnect
+Url: https://testflight.apple.com/join/3YO0GqpV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/6e/06/ea6e0689-5913-e4d6-203d-0ff07e8500c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:24:11.467Z
+Categories:
+
+
+Name: PickCard
+Url: https://testflight.apple.com/join/SNZQmonf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/18/c9/8218c9bb-7808-394c-9e5b-658964fd3c6b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:24:11.495Z
+Categories:
+
+
+Name: Orange Money JO Dev
+Url: https://testflight.apple.com/join/qvp4mFcA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/89/16/66/8916663d-4bc8-e89f-bba3-469380b27841/OrangeMoneyAppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T11:24:11.524Z
+Categories:
+
+
+Name: Dato
+Url: https://testflight.apple.com/join/4CLefx8W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5d/75/a8/5d75a8ff-9a26-d182-b7c9-323455ee9331/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T11:24:11.556Z
+Categories:
+
+
+Name: Get A Drip
+Url: https://testflight.apple.com/join/ohtf1T5d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/2d/d1/e32dd114-d206-10f0-5ac8-03a90013b3e3/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T11:24:11.585Z
+Categories:
+
+
+Name: Roborock
+Url: https://testflight.apple.com/join/hNr1Pz2Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/18/88/601888fd-84f6-d5ed-085d-005c5c53f0f3/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T11:24:11.614Z
+Categories:
+
+
+Name: Josplay
+Url: https://testflight.apple.com/join/EpoaguEa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/34/a1/3634a1b2-2f0f-4f96-728f-7b898975ad92/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-08T11:24:11.642Z
+Categories:
+
+
+Name: Exult Engine
+Url: https://testflight.apple.com/join/D1qeCZAB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/52/3a/e8523a26-03a1-5b02-9898-a64c59f1c3e7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:24:11.672Z
+Categories:
+
+
