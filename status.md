@@ -4210,3 +4210,120 @@ Last Checked: 2024-06-08T14:39:11.345Z
 Categories:
 
 
+Name: Thrive Multiple Myeloma
+Url: https://testflight.apple.com/join/MMD2x9s1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/e8/5a/f9e85a1b-4362-ff6a-b84f-7c0a0216b7d9/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:40:24.814Z
+Categories:
+
+
+Name: CastleDemo
+Url: https://testflight.apple.com/join/g9RYyYHJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/0f/36/170f3648-cdbc-43b3-c4d1-2d78616e5e89/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T14:40:24.843Z
+Categories:
+
+
+Name: Bing: Chat with AI & GPT-4
+Url: https://testflight.apple.com/join/YAKT5ew9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/51/f2/dd51f2ba-2138-aa4f-3d0b-1139c14aad9c/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 12
+Beta Available: full
+Last Checked: 2024-06-08T14:40:24.871Z
+Categories:
+
+
+Name: TCP ePOD
+Url: https://testflight.apple.com/join/o92LEanf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/c3/b1/c8c3b1e7-1b52-9d73-cea5-939dda2880de/AppIcon-TCP-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:40:24.901Z
+Categories:
+
+
+Name: Eaglemask
+Url: https://testflight.apple.com/join/A7aWxjrH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/4d/96/834d9687-d356-2185-6795-506e28339c83/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:40:24.932Z
+Categories:
+
+
+Name: Protokol - MIDI/OSC Monitor
+Url: https://testflight.apple.com/join/05TDzR4s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/c1/e5/fbc1e516-402f-222b-d94d-3f15c916e9d7/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:40:24.960Z
+Categories:
+
+
+Name: GigmeHQ
+Url: https://testflight.apple.com/join/jNd6Nw6A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/ed/ef/33edeff1-7b0a-24c9-8fc0-246ebd8d2ab8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T14:40:24.989Z
+Categories:
+
+
+Name: Rease
+Url: https://testflight.apple.com/join/7W7K3pij
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/3a/61/f43a61fc-66d0-98f9-ccdb-9050a5aaf11c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:40:25.018Z
+Categories:
+
+
+Name: YMCA Strong90
+Url: https://testflight.apple.com/join/LO3rZ9m4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/f5/4f/7ef54f55-a1c1-0260-9a01-a463f76562d2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:40:25.046Z
+Categories:
+
+
+Name: Janus TZ
+Url: https://testflight.apple.com/join/YEVj8g6b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/5e/7d/835e7d97-d186-24f4-cf84-23fc8c17b003/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:40:25.075Z
+Categories:
+
+
+Name: Panels - Comic Reader
+Url: https://testflight.apple.com/join/uQHhfVl2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c5/2f/96/c52f965d-6996-fce5-b7c4-5112049a1f8a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:40:25.104Z
+Categories:
+
+
+Name: VinFast EU UAT
+Url: https://testflight.apple.com/join/y4WvJkvl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/76/f9/b8/76f9b8d0-d391-b635-fc3c-45124696d64b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T14:40:25.133Z
+Categories:
+
+
+Name: Hotspotfin
+Url: https://testflight.apple.com/join/gFveOdmn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/e6/53/fee653cf-d0ed-234a-21d8-2cd25dd69bd4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:40:25.251Z
+Categories:
+
+
