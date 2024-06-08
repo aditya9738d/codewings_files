@@ -27844,3 +27844,120 @@ Last Checked: 2024-06-08T05:31:09.762Z
 Categories:
 
 
+Name: Scanco Warehouse 100
+Url: https://testflight.apple.com/join/gzSsGbr0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0d/bd/eb/0dbdebb9-8ea6-d1e2-978c-a0ca2e944924/AppIcons-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.196Z
+Categories:
+
+
+Name: HelloTalk - Language Learning
+Url: https://testflight.apple.com/join/bmZaTXwo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/b0/9a/9bb09a25-8860-f992-c88f-7150599f0b72/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.231Z
+Categories:
+
+
+Name: Bitwarden Password Manager
+Url: https://testflight.apple.com/join/595lFH7U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/3f/e3/023fe379-53af-fd68-9e7d-0da09bba4b0d/AppIcons-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.267Z
+Categories:
+
+
+Name: X-Poker - Holdem,Omaha,OFC
+Url: https://testflight.apple.com/join/piY9ouNr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f2/ba/e6/f2bae6f4-c972-b207-8a9c-2b24b32e0604/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.303Z
+Categories:
+
+
+Name: MySeniorCenter
+Url: https://testflight.apple.com/join/gJMg99Km
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/21/36/9a2136e4-a097-8bb7-7c00-9145a3ff1d27/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.338Z
+Categories:
+
+
+Name: Dr. Muscle AI Personal Trainer
+Url: https://testflight.apple.com/join/qkjapYet
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/54/d2/1b54d26a-f806-c461-f430-08da32cdd766/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.374Z
+Categories:
+
+
+Name: PRINCE Flexi
+Url: https://testflight.apple.com/join/KdX32Jdu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/4a/ec/834aec25-85c0-7ea4-5f40-11f8c2d50856/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.409Z
+Categories:
+
+
+Name: CamStar-Video Chat
+Url: https://testflight.apple.com/join/M22pJcve
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/cd/dd/a2cdddcc-5a28-d232-2206-2d0bf02d1c31/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.446Z
+Categories:
+
+
+Name: Okta Personal
+Url: https://testflight.apple.com/join/QssLtyiM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/32/39/e43239a1-4075-8308-aa27-fa47a920d6ec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.481Z
+Categories:
+
+
+Name: Bookmarks - URL Manager
+Url: https://testflight.apple.com/join/g8JjoIT6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/97/ae/1e97ae88-8548-e639-fa62-0e091998e9c5/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.517Z
+Categories:
+
+
+Name: iGOT Karmayogi
+Url: https://testflight.apple.com/join/gA442u3K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/af/5b/d8af5b4a-3f0a-4a03-7ba8-355896694740/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.553Z
+Categories:
+
+
+Name: NRK Radio Beta
+Url: https://testflight.apple.com/join/i6l4IBtZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/10/22/e4102273-ea4a-d4b2-1929-daf4627e62bb/AppIcon_beta-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.592Z
+Categories:
+
+
+Name: Blink (Bitcoin Beach Wallet)
+Url: https://testflight.apple.com/join/n2pRlXon
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/3c/a3/bb3ca39a-770a-252d-beac-adb02401c285/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:32:11.632Z
+Categories:
+
+
