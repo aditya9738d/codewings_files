@@ -9709,3 +9709,120 @@ Last Checked: 2024-06-08T02:49:10.685Z
 Categories:
 
 
+Name: SierraBooks Invoices
+Url: https://testflight.apple.com/join/KZx6AD22
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/af/c4/54afc4e5-8b09-19b9-0579-6cf8b88711fb/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T02:50:22.799Z
+Categories:
+
+
+Name: Gibber - Communicate, Easily
+Url: https://testflight.apple.com/join/JbcYsfUF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/b6/e8/d7b6e87d-9500-7bd3-e2e4-d81408bef5de/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:50:22.828Z
+Categories:
+
+
+Name: My Friendly Eyes
+Url: https://testflight.apple.com/join/6dtvM8cp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/21/96/7f2196fc-7394-ebfe-fb96-03e804a79f24/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:50:22.856Z
+Categories:
+
+
+Name: Elloro – Mindshift & Wellness
+Url: https://testflight.apple.com/join/46vnnSnh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/c7/6a/6fc76a20-3dc9-a736-7967-2c292ac4bb12/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T02:50:22.885Z
+Categories:
+
+
+Name: Drivometer
+Url: https://testflight.apple.com/join/LKnK7eup
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/2a/fd/e22afdf5-5758-9e6b-4675-8f329cb22ef2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T02:50:22.913Z
+Categories:
+
+
+Name: MaaS360 Browser
+Url: https://testflight.apple.com/join/NBp8ZCtV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/39/06/c8390602-3c0e-345f-46e5-a4e21edb76a7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:50:22.941Z
+Categories:
+
+
+Name: Reaslo
+Url: https://testflight.apple.com/join/90I3yOHf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/9e/87/699e87d7-029b-0da7-0cc1-4b57f5d7cdf6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-08T02:50:22.970Z
+Categories:
+
+
+Name: Homey — A better smart home
+Url: https://testflight.apple.com/join/tA2e9vby
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a2/b3/aca2b3e3-6909-da8d-7e6a-e27050356853/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:50:22.998Z
+Categories:
+
+
+Name: Reeder 5.
+Url: https://testflight.apple.com/join/2w63KOGS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/82/4c/05824c90-43c7-935a-228e-edfb0282484f/AppIcon-macOS-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T02:50:23.026Z
+Categories:
+
+
+Name: Pixelfed
+Url: https://testflight.apple.com/join/dNcLnb1n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/61/01/d56101d0-d124-8202-d71c-31e76155418c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:50:23.054Z
+Categories:
+
+
+Name: Veritas Market
+Url: https://testflight.apple.com/join/8kksZ7jU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/ac/50/4fac5095-56e4-8be0-2a3e-aa0da8d00282/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:50:23.083Z
+Categories:
+
+
+Name: ABC Self Order Plus
+Url: https://testflight.apple.com/join/xtxVUgmp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/73/de/fa73de10-00d8-f415-38f6-aaada254debd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:50:23.111Z
+Categories:
+
+
+Name: ISAI Cloud
+Url: https://testflight.apple.com/join/nylJX8pq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/77/17/8f771759-ce1f-efd7-81bd-95ea393edf2b/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:50:23.139Z
+Categories:
+
+
