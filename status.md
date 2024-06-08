@@ -934,3 +934,120 @@ Last Checked: 2024-06-08T01:34:12.067Z
 Categories:
 
 
+Name: In Spirit and Truth
+Url: https://testflight.apple.com/join/VVulCkvp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3f/68/4c/3f684cfd-7a41-e67c-688e-b173e162bcb0/AppIcon-beta-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.022Z
+Categories:
+
+
+Name: Weewx Weather
+Url: https://testflight.apple.com/join/6cDf6InF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/dc/ad/60dcad93-fa0d-8728-96a5-2ff86215a9a7/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.050Z
+Categories:
+
+
+Name: FeatsClub
+Url: https://testflight.apple.com/join/z9hBqVML
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/13/e2/8e13e29b-c2a6-91da-1133-ff04b753e3af/AppIcon-1x_U007emarketing-0-6-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.077Z
+Categories:
+
+
+Name: Payt
+Url: https://testflight.apple.com/join/RA4jRA8J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/13/10/0b1310fa-5e6d-0bf8-4dca-2c974618f0ec/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.105Z
+Categories:
+
+
+Name: Binance: Buy Bitcoin & Crypto
+Url: https://testflight.apple.com/join/vUT5Rdfz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/1f/95/991f954e-3d4d-e675-6a46-7086dba45f9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.132Z
+Categories:
+
+
+Name: Next Drop: Sneaker Releases
+Url: https://testflight.apple.com/join/Xa8STRkN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/48/21/624821a0-4d93-a6a8-7056-3ffec14f1494/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.161Z
+Categories:
+
+
+Name: Campus App
+Url: https://testflight.apple.com/join/ERuYPDKA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/93/ec/5693ec95-97a1-651d-b218-1c1c81c9c68f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.188Z
+Categories:
+
+
+Name: JXSJ Classic Mobile
+Url: https://testflight.apple.com/join/99lTreVr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/9d/5d/849d5d77-6583-7ef6-8eac-efe791b18e28/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-08T01:35:20.216Z
+Categories:
+
+
+Name: Dr. Panda Town Tales: New Life
+Url: https://testflight.apple.com/join/Ekoa1DSk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/f0/09/8ef00952-576a-df04-775f-646037fa3543/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.243Z
+Categories:
+
+
+Name: pikkc {pixie}
+Url: https://testflight.apple.com/join/ocK8gGwt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/0a/ef/bf0aeff7-f819-cf98-0651-6ce87fffe53e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.270Z
+Categories:
+
+
+Name: JEB Antonyms
+Url: https://testflight.apple.com/join/8lY4dZtN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/be/fc/a3befcc2-697a-b530-e8ca-9ae2bda73711/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.298Z
+Categories:
+
+
+Name: WiSelco
+Url: https://testflight.apple.com/join/DAmo6bqc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/98/3a/57/983a57a2-b132-bae7-dc04-c89467a21bf3/AppIcon-1x_U007emarketing-0-3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.327Z
+Categories:
+
+
+Name: TV Show Tracker - CouchTimes
+Url: https://testflight.apple.com/join/XQRqxqmK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/85/4c/95854c57-dfd5-18bc-0e6f-5b67d12adb36/AppIcon-0-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:35:20.355Z
+Categories:
+
+
