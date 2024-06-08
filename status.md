@@ -7837,3 +7837,120 @@ Last Checked: 2024-06-08T11:02:10.398Z
 Categories:
 
 
+Name: PSX Multi-Purpose Classified
+Url: https://testflight.apple.com/join/Q7aJ6tnK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/99/39/4d/99394d24-4c6f-6bd9-9bc6-42f9123c554e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.535Z
+Categories:
+
+
+Name: Skedulo Plus
+Url: https://testflight.apple.com/join/NcMZL2e3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/a3/98/3ea39801-10c8-f53c-bc3f-f7cb31be750c/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.571Z
+Categories:
+
+
+Name: My Vodafone Ukraine
+Url: https://testflight.apple.com/join/Lg9WYrsn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/8f/ab/7a8fab0a-cd6f-e96a-969e-5b91b0509f44/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.607Z
+Categories:
+
+
+Name: FS8
+Url: https://testflight.apple.com/join/tQOHoB8x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/fb/95/35fb9535-2515-8c3a-cf39-1a9f15ca4b36/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.642Z
+Categories:
+
+
+Name: Habit Tracker
+Url: https://testflight.apple.com/join/VwXGrgLq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/51/fa/4351fafe-0e04-9717-8710-e5c91f228270/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.677Z
+Categories:
+
+
+Name: Teste Notify
+Url: https://testflight.apple.com/join/ZwRf86x3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/81/73/fe817318-0767-773e-a0c9-384955679e47/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.713Z
+Categories:
+
+
+Name: The Five
+Url: https://testflight.apple.com/join/fGdS4O6y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/eb/d0/d3ebd0df-ba58-248e-9472-797616baab80/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.749Z
+Categories:
+
+
+Name: FlipMe Demo App
+Url: https://testflight.apple.com/join/rzlfFfWF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/30/ab/7230ab4d-a6f8-2fb7-a6a1-1a89a53511d0/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T11:03:08.784Z
+Categories:
+
+
+Name: Lemio: Dopamine Phone Detox
+Url: https://testflight.apple.com/join/aOhPP9qo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/7b/99/b47b9937-ca46-fe32-a625-5c117a47fec1/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.820Z
+Categories:
+
+
+Name: Oxzo
+Url: https://testflight.apple.com/join/dqOthlXx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/00/51/a900512a-602f-1c63-1e08-6399da900b72/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.856Z
+Categories:
+
+
+Name: Black Star - A better way.
+Url: https://testflight.apple.com/join/wyj4keKZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/88/e5/9f88e5db-6e76-e7f2-9faa-b12737ea21be/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.892Z
+Categories:
+
+
+Name: ZeroPuttPlus-Dev
+Url: https://testflight.apple.com/join/F0lttrj5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/f1/61/2af1610f-c58f-a421-f31d-997ff9327d82/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.929Z
+Categories:
+
+
+Name: RPA
+Url: https://testflight.apple.com/join/RlR36eh0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/9f/e9/6c9fe96e-df55-39f6-9bcd-da305db8adae/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:03:08.964Z
+Categories:
+
+
