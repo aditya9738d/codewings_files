@@ -24334,3 +24334,120 @@ Last Checked: 2024-06-08T13:26:12.572Z
 Categories:
 
 
+Name: FRITZ!App TV
+Url: https://testflight.apple.com/join/Zl2czQO2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/2d/30/2d2d3052-2741-3240-138b-ffa8037dde78/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.369Z
+Categories:
+
+
+Name: Polity - Online Role Playing
+Url: https://testflight.apple.com/join/pSvtiAVL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/9e/63/de9e63b9-2bbe-a692-2cf7-6075cfae8833/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.406Z
+Categories:
+
+
+Name: Celestia - Space Simulator
+Url: https://testflight.apple.com/join/VPp0g68O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/85/83/a78583ae-c4b4-d2f1-a550-4cdf7171b575/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.442Z
+Categories:
+
+
+Name: Personal Diary (Journal) App
+Url: https://testflight.apple.com/join/vGSyL9K7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/ae/52/9aae5279-1499-a56c-8dce-c09206e19947/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.477Z
+Categories:
+
+
+Name: jkfkjfkdfjkdf
+Url: https://testflight.apple.com/join/Wtb2KRp8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/64/42/aa6442db-9477-d7d2-6018-0576ec6c5d0b/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.514Z
+Categories:
+
+
+Name: SAP Concur
+Url: https://testflight.apple.com/join/XHz0uxsp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/58/0d/4e580d3e-f85b-613f-2bd7-840719e4f219/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.550Z
+Categories:
+
+
+Name: AIBA
+Url: https://testflight.apple.com/join/Xd1gMyzy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/56/df/56/56df56e6-8e03-ca07-a281-755f54d58d86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.586Z
+Categories:
+
+
+Name: MOMI - Meet You
+Url: https://testflight.apple.com/join/Yb2rAMDO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/02/dd/d802dd5e-ddea-8346-4877-9d6c677d69b1/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.622Z
+Categories:
+
+
+Name: Tapatalk - 200,000+ Forums
+Url: https://testflight.apple.com/join/oGFXVgl6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/18/ce/6618ce3a-283a-de12-1d66-65d28fb4a4e0/FreeAppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.658Z
+Categories:
+
+
+Name: Uzmart
+Url: https://testflight.apple.com/join/qlRpaL76
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/b2/e8/14b2e82b-204a-09ac-7230-1b28e66c7fb6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.694Z
+Categories:
+
+
+Name: JGZQuant
+Url: https://testflight.apple.com/join/jZ5L0OQt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b5/fe/a8/b5fea8c5-b1ca-a7c6-4da8-e6f7be1722f7/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.731Z
+Categories:
+
+
+Name: Loop E-Wallet
+Url: https://testflight.apple.com/join/vaPWrMZC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/fd/4e/5cfd4e94-7e28-7831-83ae-2400eff4f91a/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.766Z
+Categories:
+
+
+Name: ParkXL Parking
+Url: https://testflight.apple.com/join/rvTTit9I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/e4/59/74e459d2-9b15-af6c-f338-f5cda8f66b61/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:27:09.802Z
+Categories:
+
+
