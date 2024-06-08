@@ -6199,3 +6199,120 @@ Last Checked: 2024-06-08T14:57:10.178Z
 Categories:
 
 
+Name: Particulars
+Url: https://testflight.apple.com/join/2BMtQfmR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/66/d0/e466d0c2-ff04-ef61-b349-5beb2a57d9c4/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T14:58:11.612Z
+Categories:
+
+
+Name: Sigmon
+Url: https://testflight.apple.com/join/aWi2B3On
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/8a/31/b08a3116-14b8-7351-33a2-1b5e0deb42c3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T14:58:11.642Z
+Categories:
+
+
+Name: DNRcast
+Url: https://testflight.apple.com/join/ig94ae9a
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c7/25/39/c725391f-86b3-325e-8666-2b17fc2abb5a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:58:11.671Z
+Categories:
+
+
+Name: Famlicious
+Url: https://testflight.apple.com/join/0pjYRace
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/be/5b/64be5bdb-b2c7-1773-986e-525255b36280/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:58:11.699Z
+Categories:
+
+
+Name: Intuit Credit Karma
+Url: https://testflight.apple.com/join/JrqR9vkv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/53/2c/b5532cfa-90a6-685d-fbb8-fd1b0a7d6c90/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T14:58:11.727Z
+Categories:
+
+
+Name: A1 Toolbox
+Url: https://testflight.apple.com/join/5M3DB0US
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/57/47/c457475a-226a-25fc-a5ee-3b18a47bf593/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T14:58:11.756Z
+Categories:
+
+
+Name: Dnero prod
+Url: https://testflight.apple.com/join/2r6UND5q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/71/a0/3b71a027-a325-8894-172a-10f34c19db25/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:58:11.785Z
+Categories:
+
+
+Name: Bears Looking: Gay Dating Chat
+Url: https://testflight.apple.com/join/pf43FeRA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/37/21/ae372146-c1aa-7bd4-1ac4-59995cfb7411/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T14:58:11.814Z
+Categories:
+
+
+Name: Informant 5 Calendar
+Url: https://testflight.apple.com/join/h1WB27ar
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/d5/31/56d5316d-d859-72f2-659f-427b6679770e/iOSAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:58:11.842Z
+Categories:
+
+
+Name: SelfElite
+Url: https://testflight.apple.com/join/QyZyy850
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/39/15/e739156e-f6d3-8e99-30d0-f4d2e989af00/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:58:11.870Z
+Categories:
+
+
+Name: TrueCoverage UAT
+Url: https://testflight.apple.com/join/5MjcX8m7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/20/f3/6020f321-6c73-95b2-4ca7-48e607d939b5/AppIcon-tc-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:58:11.900Z
+Categories:
+
+
+Name: Proto Mapper
+Url: https://testflight.apple.com/join/RkTMujwy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/9b/6b/ec9b6bac-619a-0697-c6bc-4532d3135d08/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T14:58:11.928Z
+Categories:
+
+
+Name: Meta Kart Racer
+Url: https://testflight.apple.com/join/ix9pImux
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/fe/de/4ffede17-4d6c-718c-5e73-50d0b78b1871/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:58:11.957Z
+Categories:
+
+
