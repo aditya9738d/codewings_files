@@ -12634,3 +12634,120 @@ Last Checked: 2024-06-08T03:14:13.521Z
 Categories:
 
 
+Name: iNFC
+Url: https://testflight.apple.com/join/rb51qZ8N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/b6/42/c7b64211-c94e-0c14-ef69-16c1c6975986/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T03:15:22.716Z
+Categories:
+
+
+Name: Visionboard: Your Status Bar
+Url: https://testflight.apple.com/join/Gg0Pk5MM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/57/23/ba5723a3-7038-f183-0a2f-2ba32bed22ba/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T03:15:22.744Z
+Categories:
+
+
+Name: Jeedom App
+Url: https://testflight.apple.com/join/jB60tOol
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/32/6f/28326f88-1f53-66d4-fb54-4dbf1d2a392a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:15:22.773Z
+Categories:
+
+
+Name: ProjectWave
+Url: https://testflight.apple.com/join/ajJKBb9j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/b8/dc/c7b8dc1f-dfeb-a6c3-16b0-64dcc930e755/AppIcon-1x_U007ephone-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:15:22.800Z
+Categories:
+
+
+Name: PCORI FOCUS
+Url: https://testflight.apple.com/join/RC4eyxvt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/eb/89/8c/eb898cf8-9ca6-ce50-2007-197ee9c39089/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:15:22.829Z
+Categories:
+
+
+Name: ABCDE_Legacy
+Url: https://testflight.apple.com/join/0akBrvvG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1d/ae/d5/1daed560-d074-d379-a3a4-a6169258d56b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:15:22.857Z
+Categories:
+
+
+Name: FotMob - Soccer Live Scores
+Url: https://testflight.apple.com/join/zEAwGlrV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/3f/53/a23f530c-5b39-e5bd-4e37-754190c20a27/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:15:22.885Z
+Categories:
+
+
+Name: Centible
+Url: https://testflight.apple.com/join/RhmL9mjQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/2b/05/a02b0547-c13d-9999-b9ec-c57279e43225/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:15:22.914Z
+Categories:
+
+
+Name: Cheetah - Virtual Machines
+Url: https://testflight.apple.com/join/WE6pZRen
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/08/5d/79085d3d-e2f7-3798-8d0b-5612575346dd/AppIcon-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:15:22.943Z
+Categories:
+
+
+Name: Watch app for Tesla
+Url: https://testflight.apple.com/join/FdzFOLZv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/81/a2/3a/81a23a6e-1d5e-8973-9583-235c6c49cfd2/AppIcon-0-1x_U007epad-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:15:22.971Z
+Categories:
+
+
+Name: DTCConnect-Test
+Url: https://testflight.apple.com/join/JDXnvmO5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/2f/30/1f2f306b-ea08-b1aa-ca99-61cf9422e6d2/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:15:23.002Z
+Categories:
+
+
+Name: KSL+
+Url: https://testflight.apple.com/join/BJH5yaM0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/0c/7b/9c0c7b71-9f4b-4658-c8e5-97d7be234a36/AppIcon-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:15:23.031Z
+Categories:
+
+
+Name: OTP Bank UA
+Url: https://testflight.apple.com/join/4RqvVlmo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/04/d7/4e/04d74ee1-8783-811b-c24a-5a51cd32ba8a/AppIcon-store-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T03:15:23.059Z
+Categories:
+
+
