@@ -27511,3 +27511,120 @@ Last Checked: 2024-06-08T01:19:10.683Z
 Categories:
 
 
+Name: openHAB
+Url: https://testflight.apple.com/join/563WBakc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/43/59/99/435999f5-4cba-66ed-66cb-e5c001563077/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:20:25.096Z
+Categories:
+
+
+Name: Clean El Paso
+Url: https://testflight.apple.com/join/pAI7meoP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/82/d4/aa82d401-bbe8-1536-b584-2d2e8e0b9127/AppIcon-1x_U007emarketing-0-4-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:20:25.123Z
+Categories:
+
+
+Name: KeyStage 2.2
+Url: https://testflight.apple.com/join/GdaGgxU3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/15/82/8b15824e-696a-b1b6-76c0-869d862912d9/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:20:25.151Z
+Categories:
+
+
+Name: Kyocera Printer Setup Tool
+Url: https://testflight.apple.com/join/BUybTnU0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/86/cf/d0/86cfd0ac-b0e8-6d54-b7a1-312da34b2782/AppIcon-km-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:20:25.179Z
+Categories:
+
+
+Name: ASUS Health Promotion
+Url: https://testflight.apple.com/join/shZQWBSr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/7d/ad/417dadd4-b4e9-b27b-4d72-2a86fdde999d/AppIcon-0-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:20:25.206Z
+Categories:
+
+
+Name: Onsight Field Service
+Url: https://testflight.apple.com/join/4zl8Z87S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/72/1f/4b721f44-2eb2-4779-e1fc-94ca304442f8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T01:20:25.234Z
+Categories:
+
+
+Name: CFMOTO RIDE
+Url: https://testflight.apple.com/join/gMVlHLCY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/88/52/7c88524b-1353-6701-ddee-c9345c517b0c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:20:25.262Z
+Categories:
+
+
+Name: Clix
+Url: https://testflight.apple.com/join/dn3sNrts
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/3e/f6/b93ef60a-f432-b40d-8917-479d86ac797b/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T01:20:25.290Z
+Categories:
+
+
+Name: Malice Mobile
+Url: https://testflight.apple.com/join/EGftPQfZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/15/88/ff/1588ff74-3833-9583-d0e9-341a65e40e69/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:20:25.318Z
+Categories:
+
+
+Name: Shokz
+Url: https://testflight.apple.com/join/hkK6ANDy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/59/3b/d0593bc9-046b-1ae3-eda2-13cbd5b2be2b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:20:25.345Z
+Categories:
+
+
+Name: Fixi BETA
+Url: https://testflight.apple.com/join/Ukxk4mhg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/e8/54/58e8544e-9f03-1841-b925-709cabd8f3d0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:20:25.373Z
+Categories:
+
+
+Name: KioPay Mobile
+Url: https://testflight.apple.com/join/Aitx3oOS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d4/16/9a/d4169a30-382f-89a4-748c-013277ae3f05/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:20:25.402Z
+Categories:
+
+
+Name: OpenInYT
+Url: https://testflight.apple.com/join/k604MXnM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/eb/73/70eb7315-00c4-11b5-ccba-414f2935787a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: full
+Last Checked: 2024-06-08T01:20:25.429Z
+Categories:
+
+
