@@ -20590,3 +20590,120 @@ Last Checked: 2024-06-08T12:52:12.871Z
 Categories:
 
 
+Name: When.fm
+Url: https://testflight.apple.com/join/4Hi4M1G9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/38/53/b83853f0-1140-2e20-c093-96a76a7e047e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.399Z
+Categories:
+
+
+Name: Maxen Dev
+Url: https://testflight.apple.com/join/VhET2wtO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/6b/d5/7b6bd54d-0046-cc04-5f89-ab98f436b118/AppIconDev-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.435Z
+Categories:
+
+
+Name: TestTokenFlex
+Url: https://testflight.apple.com/join/eRU8YI0G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/d1/eb/f3d1eb38-5d50-91cd-81c8-a29ac120dcc5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.471Z
+Categories:
+
+
+Name: Master Tour Mobile
+Url: https://testflight.apple.com/join/KonAvtmc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/3e/fe/d93efeb3-0373-8074-2125-c2c70428b7ac/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.505Z
+Categories:
+
+
+Name: ApexTool
+Url: https://testflight.apple.com/join/eoceEVdR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/e5/03/6be50377-3f3f-eaf7-44d7-cfea83872dc5/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.540Z
+Categories:
+
+
+Name: Lotes
+Url: https://testflight.apple.com/join/92K4nHPd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/c7/56/25c756e2-9d21-ad42-23df-56d631ec31c4/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.577Z
+Categories:
+
+
+Name: USST Payment Code
+Url: https://testflight.apple.com/join/D2EzTjkP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/81/98/60819895-8959-4b78-5a2b-03fb34ced61f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.612Z
+Categories:
+
+
+Name: IntraoralScan
+Url: https://testflight.apple.com/join/OG5QCCyP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/06/8b/8d068b4d-87cd-30a7-951d-0795c63861cf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.648Z
+Categories:
+
+
+Name: Pal Chat - AI Chat Client
+Url: https://testflight.apple.com/join/Vmd7XZa7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/1b/be/aa1bbe44-c5bc-6ff4-d453-647f6a0fe308/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.683Z
+Categories:
+
+
+Name: Moniepoint Business BETA2
+Url: https://testflight.apple.com/join/Zamt761t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/14/d7/96/14d796a0-eb2d-7fa7-0c59-66aafb51f6f1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.719Z
+Categories:
+
+
+Name: BIKA Global Pro
+Url: https://testflight.apple.com/join/NoMIn8b7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/13/bf/2513bf84-a74c-f621-b49d-c71feaabea9a/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.754Z
+Categories:
+
+
+Name: ThrivePal
+Url: https://testflight.apple.com/join/TsVZk2EP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/ca/b6/a6cab6b1-cf5d-30d3-cd80-62fa21413634/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T12:53:09.789Z
+Categories:
+
+
+Name: MICO: Make Friends, Live Chat
+Url: https://testflight.apple.com/join/6Yu1OJAy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/c1/e4/e3c1e481-4ac5-b6e6-e5ab-fda9ae69af0b/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T12:53:09.826Z
+Categories:
+
+
