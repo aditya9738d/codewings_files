@@ -232,3 +232,120 @@ Last Checked: 2024-06-08T14:05:16.861Z
 Categories:
 
 
+Name: SVT Nyheter
+Url: https://testflight.apple.com/join/KWWcSkTi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/0b/4b/2e0b4b5c-2e0b-a065-fcc8-3158960e8bae/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:06:09.357Z
+Categories:
+
+
+Name: PriBank mBanking Test
+Url: https://testflight.apple.com/join/GujYmbdr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/e6/d6/9ce6d616-d4fc-a80a-9ddb-393c8ba09881/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T14:06:09.385Z
+Categories:
+
+
+Name: Fun Toast
+Url: https://testflight.apple.com/join/9FffIbCS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/fa/cb/33facb19-fd81-5bb3-f1e1-3c4843850564/FuntoastIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:06:09.413Z
+Categories:
+
+
+Name: Duel Revolution Beta
+Url: https://testflight.apple.com/join/F8yXrZdF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/22/01/4c/22014c08-6bbe-37b2-2113-42c324fff419/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T14:06:09.443Z
+Categories:
+
+
+Name: SoulRealm - NEMO
+Url: https://testflight.apple.com/join/kCfcJBw3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/12/4e/a8/124ea85f-11d9-952a-c31b-09aa2705609b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:06:09.470Z
+Categories:
+
+
+Name: BBX SIT
+Url: https://testflight.apple.com/join/tO7C4u9n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/bb/53/1fbb535c-0867-f9fd-264b-b9c7cbadff3a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:06:09.498Z
+Categories:
+
+
+Name: Nextdoor: Neighborhood Network
+Url: https://testflight.apple.com/join/hWa4fUQe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/77/1f/36771f27-d3e5-ac55-0504-0c427fb21c01/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:06:09.527Z
+Categories:
+
+
+Name: Microsoft Edge: AI Browser
+Url: https://testflight.apple.com/join/JkU2rh21
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/15/a9/a615a912-2cdd-ecdd-d444-0bd563ab5f53/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T14:06:09.555Z
+Categories:
+
+
+Name: Richy Esale
+Url: https://testflight.apple.com/join/qrwEg2SO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/33/ee/9f33ee7c-1897-05f9-0f04-c0e6fa01f1fc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:06:09.583Z
+Categories:
+
+
+Name: Volt Wallet
+Url: https://testflight.apple.com/join/etYtq5k5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/cd/42/c0cd424d-1009-0298-9393-6dda01f2d7ff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:06:09.611Z
+Categories:
+
+
+Name: Castaway: Spatial HDMI Monitor
+Url: https://testflight.apple.com/join/H0ow9JUP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/cf/59/48cf5940-de2b-0292-32e9-40b838c94770/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:06:09.638Z
+Categories:
+
+
+Name: Nautica Opencart
+Url: https://testflight.apple.com/join/iqj9I1FQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/40/72/3540727a-d779-d622-152b-ba0532cb2549/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:06:09.667Z
+Categories:
+
+
+Name: AYA PAY Wallet
+Url: https://testflight.apple.com/join/YxX8VRsr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d5/7d/16/d57d1648-0238-5bc2-89bf-a2e793b0a216/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:06:09.695Z
+Categories:
+
+
