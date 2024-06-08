@@ -8539,3 +8539,120 @@ Last Checked: 2024-06-08T02:39:12.447Z
 Categories:
 
 
+Name: iTravel Check-In
+Url: https://testflight.apple.com/join/zDGpXjRC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/d2/18/54d218d9-998a-292d-cec5-bad12fbd204a/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:40:24.173Z
+Categories:
+
+
+Name: Reading List: Book Tracker
+Url: https://testflight.apple.com/join/pceGkOgP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/11/e2/5c11e25c-401e-c850-1057-76942ee6ccef/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T02:40:24.208Z
+Categories:
+
+
+Name: Glance for Plausible
+Url: https://testflight.apple.com/join/hG0MV7FC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/01/06/fe0106e2-890f-8400-fe9b-20bf053d04d9/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:40:24.244Z
+Categories:
+
+
+Name: Merlion
+Url: https://testflight.apple.com/join/FHqco8og
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/41/47/3e414751-0846-2575-a379-c78b12f3c474/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:40:24.459Z
+Categories:
+
+
+Name: Iframe App
+Url: https://testflight.apple.com/join/hH8qBRVA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5f/f1/c7/5ff1c700-dd90-c023-30e1-d5240d66d167/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T02:40:24.516Z
+Categories:
+
+
+Name: Drafts
+Url: https://testflight.apple.com/join/Req1Hfo7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/b8/7d/c6b87d7d-cad8-df60-fb54-be27b4995f89/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:40:24.552Z
+Categories:
+
+
+Name: My MobiFone
+Url: https://testflight.apple.com/join/sJerfO8I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/d6/6e/11d66e4c-0945-7065-c303-e2a7091ef6a5/AppIcon2-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-08T02:40:24.588Z
+Categories:
+
+
+Name: DTLive
+Url: https://testflight.apple.com/join/NrPgK6wi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e5/66/86/e56686e0-d621-0d36-7f66-384b1db2ce1d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-08T02:40:24.623Z
+Categories:
+
+
+Name: Calibrex - Trainer
+Url: https://testflight.apple.com/join/rhFSDH0E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/2b/d5/ff2bd52b-b93e-e687-b7d8-207c79acdf26/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:40:24.659Z
+Categories:
+
+
+Name: mobileraker
+Url: https://testflight.apple.com/join/h9JwuyR0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/d7/d6/3cd7d6a4-295d-6db4-58fb-ce6015afc5b5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:40:24.694Z
+Categories:
+
+
+Name: MLC Chat
+Url: https://testflight.apple.com/join/57zd7oxa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/c6/8f/89c68f54-3d31-48c5-042a-4321d0a1be3c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-08T02:40:24.730Z
+Categories:
+
+
+Name: VeridiumID
+Url: https://testflight.apple.com/join/9DyqaGC3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/64/c2/73/64c273b2-aef4-480a-43fe-e2738c1e507a/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:40:24.765Z
+Categories:
+
+
+Name: momo live
+Url: https://testflight.apple.com/join/9MTjuGwl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/cd/d3/25cdd303-bf3e-c2c8-0aee-c1d86f31bd57/AppIcon-0-1x_U007emarketing-0-4-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T02:40:24.801Z
+Categories:
+
+
