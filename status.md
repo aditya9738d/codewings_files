@@ -21292,3 +21292,120 @@ Last Checked: 2024-06-08T12:58:11.226Z
 Categories:
 
 
+Name: Fairwood Internal UAT
+Url: https://testflight.apple.com/join/YYPMx1pu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/4d/e5/054de537-3e49-2cd7-4db0-c5c0324903cd/AppIcon-0-0-1x_U007ephone-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:59:09.917Z
+Categories:
+
+
+Name: foobar2000
+Url: https://testflight.apple.com/join/fM6L331c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/66/50/88665091-c68d-f5fd-e232-40fa20b5459e/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:59:09.946Z
+Categories:
+
+
+Name: CarbingRepairApp
+Url: https://testflight.apple.com/join/GA7GuCNQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/08/bb/fa08bbc7-b664-72e0-7d11-6b8dd8e0ea56/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:59:09.974Z
+Categories:
+
+
+Name: UniFi Connect EA
+Url: https://testflight.apple.com/join/EU2GB4D2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/82/45/29824565-4bff-5b12-5b78-f83f6cf2cdf7/AppIconEA-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:59:10.002Z
+Categories:
+
+
+Name: BASD
+Url: https://testflight.apple.com/join/SVvmtHeR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/6b/06/906b068d-053e-7deb-5b9a-57ade499a7eb/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T12:59:10.031Z
+Categories:
+
+
+Name: Lady & gentleman CITY
+Url: https://testflight.apple.com/join/keUChAvk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4a/56/954a5678-9082-8108-ee2c-de2a26c682e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:59:10.059Z
+Categories:
+
+
+Name: Assistant
+Url: https://testflight.apple.com/join/e9U5Mfz4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/77/3f/b5773f06-e95a-972a-2b0e-6991835374c3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:59:10.087Z
+Categories:
+
+
+Name: Zepp (formerly Amazfit)
+Url: https://testflight.apple.com/join/kBbaIpT3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/9f/f7/aa9ff750-3617-16db-3346-ab7a3780a0a3/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:59:10.116Z
+Categories:
+
+
+Name: auth. - 2FA Smart Sync
+Url: https://testflight.apple.com/join/8XDBCC4Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/db/7a/b6db7a6d-bdbc-a4ce-e1f7-520c019c0fd7/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T12:59:10.149Z
+Categories:
+
+
+Name: UDisc Disc Golf
+Url: https://testflight.apple.com/join/vRPkDDy1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/4b/65/884b6511-c2bc-aaa3-b8a2-45cae8f350b9/AppIconfree-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:59:10.179Z
+Categories:
+
+
+Name: Mate - Live Video Chat & Meet
+Url: https://testflight.apple.com/join/V2L1PH8N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/98/84/80/9884804f-1247-9eee-1dc3-32f5846146d6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:59:10.208Z
+Categories:
+
+
+Name: Queued Up
+Url: https://testflight.apple.com/join/HL0fmJAX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/f4/68/12f4689e-07eb-8cab-3374-5564d1342620/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-08T12:59:10.237Z
+Categories:
+
+
+Name: BETA_SoundBar
+Url: https://testflight.apple.com/join/ihUDCKgt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/38/46/6b384654-199a-380d-5c17-fe02a16f74aa/SoundBar2021-AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:59:10.267Z
+Categories:
+
+
