@@ -22930,3 +22930,120 @@ Last Checked: 2024-06-08T13:12:10.694Z
 Categories:
 
 
+Name: Topo Maps+
+Url: https://testflight.apple.com/join/pSEBpvB3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/1f/11/011f11fa-d52e-eefa-a57b-92b86bec6a4b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:13:08.489Z
+Categories:
+
+
+Name: Dario Lightning Tester
+Url: https://testflight.apple.com/join/nAAVKc1A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/ef/79/8fef799b-6680-92b0-9c03-f9a6898108cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:13:08.525Z
+Categories:
+
+
+Name: ArcGIS QuickCapture
+Url: https://testflight.apple.com/join/uORl3GWS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c3/97/79c39774-d253-bb22-2978-d2f4223e30df/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:13:08.562Z
+Categories:
+
+
+Name: Aspen iSAVE
+Url: https://testflight.apple.com/join/kKA2LoEh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/dc/4b/2ddc4b08-3709-0e9d-9af3-b9a43cc6576d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T13:13:08.598Z
+Categories:
+
+
+Name: Net Worth Tracker – Sumio
+Url: https://testflight.apple.com/join/9908Qo7c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/f0/55/6af055c6-5fb3-684c-4469-68805287c5c4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T13:13:08.634Z
+Categories:
+
+
+Name: SaruMoney
+Url: https://testflight.apple.com/join/4rBv12aW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/89/14/e98914a3-f85a-22dd-e222-a688fa7c43fe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T13:13:08.678Z
+Categories:
+
+
+Name: Log-In Homolog
+Url: https://testflight.apple.com/join/IwWjz5bM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/02/0a/f1020a8e-9093-7731-3538-5702bea7aeb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T13:13:08.715Z
+Categories:
+
+
+Name: AppWizard Business App
+Url: https://testflight.apple.com/join/VZf1aegQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2a/ff/f0/2afff068-726b-63ea-e223-c1e6a1d7e71b/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T13:13:08.751Z
+Categories:
+
+
+Name: Touch&
+Url: https://testflight.apple.com/join/g7Edi10N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/0d/77/ac0d7742-45cc-fed0-ad6a-15451d0c0e44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T13:13:08.788Z
+Categories:
+
+
+Name: Nature's Playbook
+Url: https://testflight.apple.com/join/dJKPtyJO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/98/7e/66987e9b-4fdf-aafe-0906-2f119023e95e/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:13:08.824Z
+Categories:
+
+
+Name: GIG Survey
+Url: https://testflight.apple.com/join/wfotTGRq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/16/53/79165322-720c-2433-b4f9-02d382fe18b7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:13:08.861Z
+Categories:
+
+
+Name: Upwork for Clients
+Url: https://testflight.apple.com/join/SDedUCua
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/93/d7/f793d7f6-f372-42fe-6203-9fc2c9cf798d/ClientAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:13:08.897Z
+Categories:
+
+
+Name: Engfull
+Url: https://testflight.apple.com/join/K13UeFpI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/36/e5/5d36e539-3af8-32cc-b960-ffd585048824/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T13:13:08.936Z
+Categories:
+
+
