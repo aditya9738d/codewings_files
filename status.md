@@ -1636,3 +1636,120 @@ Last Checked: 2024-06-08T14:17:10.521Z
 Categories:
 
 
+Name: BitMaps: Bite-Size Map Widgets
+Url: https://testflight.apple.com/join/7tjic8Hz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4f/f8/c0/4ff8c0a7-bd3b-65e6-92a0-365505a67d68/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.196Z
+Categories:
+
+
+Name: Uber Conta Hml
+Url: https://testflight.apple.com/join/GZHoMcHA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f3/31/97f3319d-f763-67b2-ecc6-8047a462f510/AppIcon-Hml-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.233Z
+Categories:
+
+
+Name: Consolinno Energy HEMS
+Url: https://testflight.apple.com/join/WsGtsHsP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/a1/99/0da1998f-d4f7-3f17-3aac-f6a307947242/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.269Z
+Categories:
+
+
+Name: J-Wallet
+Url: https://testflight.apple.com/join/ie76LZCG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/99/27/55992778-19c7-f4d1-4c31-463915379b1e/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.306Z
+Categories:
+
+
+Name: Microsoft Planner
+Url: https://testflight.apple.com/join/moiTpIqb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/78/99/0a789905-63ac-1634-a664-31ff455fde50/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.342Z
+Categories:
+
+
+Name: Al Mayadeen
+Url: https://testflight.apple.com/join/jReQ1L8Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/50/67/47506789-162b-df11-3dd3-408b20434c99/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.378Z
+Categories:
+
+
+Name: Capital 28
+Url: https://testflight.apple.com/join/sWvydMQn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fb/e6/89/fbe68979-599c-d088-3f41-7ad9794edadd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.414Z
+Categories:
+
+
+Name: WeCopyTrade
+Url: https://testflight.apple.com/join/kBZXJVd4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/63/05/14630565-0ff8-b60d-15a2-cf36207e79ef/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.450Z
+Categories:
+
+
+Name: Gate of Abyss: GPS-Based RPG
+Url: https://testflight.apple.com/join/t7VtpoRD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/62/45/f162456b-237c-b1bb-6d0f-90742a859daf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.486Z
+Categories:
+
+
+Name: UniFi Access
+Url: https://testflight.apple.com/join/CCG4Os70
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/85/5a/a8855adc-1555-5d44-4240-185a3f90dcb8/AppIcon_Access-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.523Z
+Categories:
+
+
+Name: RecipeChef: Recipe Manager
+Url: https://testflight.apple.com/join/j5urtlwj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/da/8f/8fda8f31-7162-02c0-a8f2-0c08158de54a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.559Z
+Categories:
+
+
+Name: HiWater: Powerful Water Logger
+Url: https://testflight.apple.com/join/JamzElgi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/48/bb/6348bbe5-8c38-8c60-ccb7-fe30a54c3372/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T14:18:12.595Z
+Categories:
+
+
+Name: Lexic
+Url: https://testflight.apple.com/join/9pJ8x81Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/52/1e/51521e92-88de-3309-aa71-f383b77a1c7f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:18:12.631Z
+Categories:
+
+
