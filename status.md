@@ -15325,3 +15325,120 @@ Last Checked: 2024-06-08T12:07:08.326Z
 Categories:
 
 
+Name: RoseStation
+Url: https://testflight.apple.com/join/J0cvhgqw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/87/ba/5187ba03-c4b6-276c-61ab-882eda668a86/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:08:10.621Z
+Categories:
+
+
+Name: Square Kitchen Display System
+Url: https://testflight.apple.com/join/3pkewqyV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/ec/17/f6ec177d-14c2-f80e-4aba-541df6328464/AppIconAppStore-1x_U007emarketing-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:08:10.649Z
+Categories:
+
+
+Name: Fastastic
+Url: https://testflight.apple.com/join/MmhnoVae
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/f6/e1/d9f6e113-585b-aa22-764c-2af94fd8a3e3/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T12:08:10.678Z
+Categories:
+
+
+Name: Geo Gods
+Url: https://testflight.apple.com/join/zTAdypfH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/2f/d8/022fd84e-8636-298b-64ac-ce4cba8ac617/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:08:10.706Z
+Categories:
+
+
+Name: Vult DEV
+Url: https://testflight.apple.com/join/DCXRcJAD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/07/ae/4c07ae9a-f39c-9ada-6f68-d50ee76b530f/AppIcon-dev-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T12:08:10.735Z
+Categories:
+
+
+Name: Notion - notes, docs, tasks
+Url: https://testflight.apple.com/join/YSo8aVCS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/51/e4/1251e451-6fe2-4679-90f1-37896e885e1c/AppIconProd-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T12:08:10.764Z
+Categories:
+
+
+Name: Jeep®
+Url: https://testflight.apple.com/join/YGQinHIa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/07/80/5107804e-f491-34f6-6060-305a3fd2ae31/AppIcon.nafta.prod-1x_U007emarketing-0-5-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:08:10.796Z
+Categories:
+
+
+Name: StarEx - Buy Bitcoin
+Url: https://testflight.apple.com/join/XsgTpGZF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/70/eb/7470eb30-4387-9326-1f24-8cfe5af9fdbe/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:08:10.829Z
+Categories:
+
+
+Name: MadPay
+Url: https://testflight.apple.com/join/1959Lqzn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/19/6a/cc196a61-3eb3-8884-95b2-a9b85175a7ba/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:08:10.861Z
+Categories:
+
+
+Name: Planetary Social
+Url: https://testflight.apple.com/join/M9hPo1gA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/bf/70/06bf700a-2624-40f5-dec3-8d16509dc528/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:08:10.891Z
+Categories:
+
+
+Name: MusicSync for Home Assistant
+Url: https://testflight.apple.com/join/4nCUW4lI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/48/0c/51/480c5113-3473-ec81-68ed-2a16eaf56ac6/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:08:10.920Z
+Categories:
+
+
+Name: Filmlog
+Url: https://testflight.apple.com/join/ywiozhph
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/39/94/01/39940172-880d-e881-0d43-4658a39688c1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:08:10.948Z
+Categories:
+
+
+Name: Metacast: Podcast Player
+Url: https://testflight.apple.com/join/5ubyRzbg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/13/ae/5913aea9-1623-3bad-b64f-88803813d4ed/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:08:10.977Z
+Categories:
+
+
