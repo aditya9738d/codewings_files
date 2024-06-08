@@ -10762,3 +10762,120 @@ Last Checked: 2024-06-08T15:37:10.344Z
 Categories:
 
 
+Name: Coffee Notes
+Url: https://testflight.apple.com/join/p51EEPOE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/20/26/e520267e-f473-93b4-6637-2d1ab7f45f79/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:38:10.465Z
+Categories:
+
+
+Name: Cogia Messenger
+Url: https://testflight.apple.com/join/7iubJ1Eq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/cb/8d/0ccb8dc3-c188-230c-92fb-a044ae02fc55/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:38:10.501Z
+Categories:
+
+
+Name: CoinW
+Url: https://testflight.apple.com/join/EnVxDqYN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/80/30/2c8030ab-cb8e-b8af-7070-c750c2778057/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:38:10.536Z
+Categories:
+
+
+Name: Colorfol : Vente de Musique
+Url: https://testflight.apple.com/join/njLMVbVO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5b/a0/98/5ba0989b-d173-5af1-2df6-e6468aee502f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:38:10.573Z
+Categories:
+
+
+Name: Colorma
+Url: https://testflight.apple.com/join/AMXpiSv3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a3/d3/02a3d394-a135-1b05-cc97-8474d59b5ee9/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:38:10.609Z
+Categories:
+
+
+Name: Combo Koala - Battle Checkers
+Url: https://testflight.apple.com/join/kdqq3qAN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/20/d7/bd20d708-7e23-da5c-9d8a-99f4920c469d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T15:38:10.644Z
+Categories:
+
+
+Name: Comind: Real-World Notetaker
+Url: https://testflight.apple.com/join/pGnHVNPC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/05/79/fe057953-2ea8-9fc5-affb-1bf7c14a7ac9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:38:10.679Z
+Categories:
+
+
+Name: CommuniSki
+Url: https://testflight.apple.com/join/4vgUfbZ7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/27/f6/1c27f660-98f5-37b8-92c3-4ec91ce9a0ba/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:38:10.715Z
+Categories:
+
+
+Name: Conciel
+Url: https://testflight.apple.com/join/WpHQWU2d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/bb/e2/05bbe2a0-9f0d-e888-6155-06549cc03b02/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:38:10.754Z
+Categories:
+
+
+Name: Concordium - Testnet Wallet
+Url: https://testflight.apple.com/join/YaKKqYMA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/89/4b/d9894b85-1726-670e-c355-3fc05eec321b/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:38:10.789Z
+Categories:
+
+
+Name: Condlink
+Url: https://testflight.apple.com/join/JmY48wSQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/58/fd/b058fd8d-d7fe-4467-6a5b-ceeb92b4cc4e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:38:10.825Z
+Categories:
+
+
+Name: Coniecto
+Url: https://testflight.apple.com/join/ckdQofbU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/b1/4c/a4b14ccc-7f5d-46c4-d7ae-16e36e8b0c88/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:38:10.861Z
+Categories:
+
+
+Name: Connect with Social Bite
+Url: https://testflight.apple.com/join/NfSODWnw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/fb/7f/65fb7fe6-9331-3cb9-95c6-2769372e8056/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T15:38:10.897Z
+Categories:
+
+
