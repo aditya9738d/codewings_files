@@ -19888,3 +19888,120 @@ Last Checked: 2024-06-08T08:42:10.265Z
 Categories:
 
 
+Name: doForms Mobile Data Platform
+Url: https://testflight.apple.com/join/sb5vHqk1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/51/3b/c9513b7b-dcca-a57a-b42a-935d32c99e65/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:43:08.701Z
+Categories:
+
+
+Name: dumbbe: add fun text to photos
+Url: https://testflight.apple.com/join/BlTCbUNR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2f/31/d5/2f31d5e4-825d-e007-813f-7e84109313cb/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:43:08.737Z
+Categories:
+
+
+Name: e-Gro Portable
+Url: https://testflight.apple.com/join/LGmI6uff
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/66/e7/7c/66e77c9f-331c-a2ab-c3b8-74bcd585ade0/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:43:08.773Z
+Categories:
+
+
+Name: e-Port Viaggi Autotrasporto
+Url: https://testflight.apple.com/join/jGRTzW0x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/51/f3/2e51f3b2-e8f0-bc46-6bbe-d36adadd01e1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:43:08.810Z
+Categories:
+
+
+Name: eBroker Flutter App
+Url: https://testflight.apple.com/join/nrmIds1a
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/77/39/e4/7739e4f0-2732-2cb8-c92a-0e694b026aaf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:43:08.846Z
+Categories:
+
+
+Name: eCommerce-SwiftUI
+Url: https://testflight.apple.com/join/xnB0ols9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/93/97/889397bc-db9c-437e-2dec-13116dde43ad/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-08T08:43:08.882Z
+Categories:
+
+
+Name: eDemand
+Url: https://testflight.apple.com/join/KdqqsTnH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f2/1f/6d/f21f6db3-0007-5638-26e2-ee5e3fd8736a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:43:08.918Z
+Categories:
+
+
+Name: eGov mobile
+Url: https://testflight.apple.com/join/ml5B60m8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/d0/e2/f2d0e27e-b8a8-0614-b2c4-e0023898ab34/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:43:08.954Z
+Categories:
+
+
+Name: eNuts
+Url: https://testflight.apple.com/join/n1Z2pt2O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/35/0e/1e/350e1e41-366a-1b5e-32e1-572faa8b5ecb/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T08:43:08.990Z
+Categories:
+
+
+Name: eNutz
+Url: https://testflight.apple.com/join/PqzxEhGS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/25/c7/5925c74f-4584-621a-71b8-2db43a2ba2e5/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:43:09.026Z
+Categories:
+
+
+Name: eSales SFA NBTVN
+Url: https://testflight.apple.com/join/gfp93Eih
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f5/d7/1c/f5d71c64-d36e-8e1a-f8f3-3efca9bd9215/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:43:09.062Z
+Categories:
+
+
+Name: eShop SingleVendor Customer
+Url: https://testflight.apple.com/join/khkhXaNh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/e2/3f/5ee23f71-c389-972e-1253-66249fee9847/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:43:09.097Z
+Categories:
+
+
+Name: eStratis
+Url: https://testflight.apple.com/join/YBze06CF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/f8/7c/5df87ce6-8985-73e4-848c-25780b629ee8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:43:09.134Z
+Categories:
+
+
