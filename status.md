@@ -10301,3 +10301,120 @@ Last Checked: 2024-06-08T22:50:25.303Z
 Categories:
 
 
+Name: Meine DLRG
+Url: https://testflight.apple.com/join/slKRYjpI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ea/57/8c/ea578c2e-ab19-b00a-4dd3-ab870b0e0274/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:58:08.974Z
+Categories:
+
+
+Name: Dolby Personalization Beta
+Url: https://testflight.apple.com/join/7lxusSow
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/63/8b/1d638bd3-4ec0-8e56-f9e6-a649af26d3b8/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T22:58:09.010Z
+Categories:
+
+
+Name: GlobalTA Cloud
+Url: https://testflight.apple.com/join/7jdsjM2V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/93/87/74938709-ff4a-f199-8d27-97f6430a1335/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-08T22:58:09.046Z
+Categories:
+
+
+Name: NEO for Installers
+Url: https://testflight.apple.com/join/rTiUh9eI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/43/73/694373c8-b441-3faa-f43f-7cf0d5868a8f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:58:09.081Z
+Categories:
+
+
+Name: Tapped Ai
+Url: https://testflight.apple.com/join/TbVZMGhA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/c8/40/4ec84014-9093-325c-a585-7a58a67e1e05/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:58:09.116Z
+Categories:
+
+
+Name: Kagi for Safari
+Url: https://testflight.apple.com/join/nx6Gvf4h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/6a/0e/5a6a0e3a-6a78-0651-82d9-fee5e9fe1417/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:58:09.152Z
+Categories:
+
+
+Name: Swords!
+Url: https://testflight.apple.com/join/7jREn7Ry
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/14/08/eb1408a4-8f37-0d38-819a-6c419c6d215a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:58:09.187Z
+Categories:
+
+
+Name: LazyBoard - Phrase Keyboard
+Url: https://testflight.apple.com/join/yus6zCQ0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/5c/d0/f55cd046-543f-5e3c-1f90-5c001e4e9ada/AppIconBeta-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:58:09.223Z
+Categories:
+
+
+Name: Encointer Wallet
+Url: https://testflight.apple.com/join/LFuSsdwT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/e8/12/f6e81272-b864-ec9e-b83c-6264a419b740/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:58:09.258Z
+Categories:
+
+
+Name: ECOVACS HOME
+Url: https://testflight.apple.com/join/gVXPtPlb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/1c/13/631c1355-b8e8-f3c3-eb52-fedc816a0f60/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T22:58:09.294Z
+Categories:
+
+
+Name: Microsoft Lists
+Url: https://testflight.apple.com/join/FL3caOg6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/c0/7e/03c07e6a-da82-8415-8b61-585fa6084596/ListsAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T22:58:09.330Z
+Categories:
+
+
+Name: Temu: Shop Like a Billionaire
+Url: https://testflight.apple.com/join/x6U6zcbR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/fd/a5/51fda561-7350-ab9c-4fbb-fade819ab5b2/AppIcon-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T22:58:09.365Z
+Categories:
+
+
+Name: Wagon
+Url: https://testflight.apple.com/join/M2xoL0bC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/e8/d7/d5e8d778-1ac2-f86e-3af5-4d10bc5ba95c/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T22:58:09.401Z
+Categories:
+
+
