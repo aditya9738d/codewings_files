@@ -1987,3 +1987,120 @@ Last Checked: 2024-06-08T14:20:26.886Z
 Categories:
 
 
+Name: Loungebird
+Url: https://testflight.apple.com/join/86myR6st
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/51/cb/df51cb37-2d66-effb-3f06-89cc3a13bb92/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-08T14:21:08.398Z
+Categories:
+
+
+Name: Microsoft Word
+Url: https://testflight.apple.com/join/hw76phYi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/b6/64/10b66473-b693-9753-aa9c-60b4e557ae04/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T14:21:08.426Z
+Categories:
+
+
+Name: Fraction Steps: Learn Visually
+Url: https://testflight.apple.com/join/VhzZ7q96
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/0d/9c/820d9cbb-1966-cf3a-f37d-2257528086d8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:21:08.454Z
+Categories:
+
+
+Name: Kacam
+Url: https://testflight.apple.com/join/FlJ1GV2u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/b4/b1/59b4b1f8-8c1e-477e-5ebb-9a2cf720fee2/AppIcon-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:21:08.481Z
+Categories:
+
+
+Name: LocaMos
+Url: https://testflight.apple.com/join/KjufVyuE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/67/0d/3e670d92-0c86-9abf-6ef9-1f9efe3c3f2b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T14:21:08.509Z
+Categories:
+
+
+Name: Verbs German Dictionary
+Url: https://testflight.apple.com/join/w2VyNpay
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/54/f9/9554f92f-4577-5184-614a-c3812dd8d5ec/VerbsIcon-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:21:08.536Z
+Categories:
+
+
+Name: Healome
+Url: https://testflight.apple.com/join/aAOprPZs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cb/19/a9/cb19a92c-f7c3-b123-b6aa-60df5faa8acd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T14:21:08.563Z
+Categories:
+
+
+Name: Diabetes Food Tracker SugarBot
+Url: https://testflight.apple.com/join/DALmJA8b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/cf/35/3ecf3518-5f1d-71cd-30b3-7b373e7ac3f5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T14:21:08.591Z
+Categories:
+
+
+Name: Guardian Vietnam
+Url: https://testflight.apple.com/join/leNrAtEw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/b7/45/96b74564-6fe5-3572-dba1-39fb54fa21c8/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:21:08.619Z
+Categories:
+
+
+Name: GMG Prime App
+Url: https://testflight.apple.com/join/fe0Wzx77
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/0d/03/0f0d0308-7910-b169-7d78-8b7d38183847/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:21:08.647Z
+Categories:
+
+
+Name: Equel Multilingual Communities
+Url: https://testflight.apple.com/join/ITlbxYYG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/9c/32/539c322a-cf1c-146c-9d43-76e836b37a19/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:21:08.676Z
+Categories:
+
+
+Name: SuperCycle Bike Computer
+Url: https://testflight.apple.com/join/zFer65Bt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/69/86/846986de-6827-a197-d7a8-b5dde3895466/AppIcon-free-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:21:08.704Z
+Categories:
+
+
+Name: MyTherapy: Medication Reminder
+Url: https://testflight.apple.com/join/fm9mu1wl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/66/91/69669155-8381-f79a-dbef-4a785cc2dcd1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:21:08.732Z
+Categories:
+
+
