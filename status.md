@@ -23027,3 +23027,123 @@ Last Checked: 2024-06-08T09:10:22.975Z
 Categories:
 - Art & Design
 
+Name: Bike Hills
+Url: https://testflight.apple.com/join/rV7NDoNp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/16/aa/3616aaba-cc88-50fd-1742-8d36ecbcb5aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-08T09:11:09.982Z
+Categories:
+- Games
+
+Name: Zapit Food Delivery
+Url: https://testflight.apple.com/join/dsR5F5FV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/87/1d/c2871d2e-1d01-363b-d72a-aa56531a7adb/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T09:11:10.018Z
+Categories:
+- Food
+- Shopping
+- Utility
+
+Name: Gumtree: local classified ads
+Url: https://testflight.apple.com/join/bXLgmUlj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/b1/37/80b1376e-ac76-33e5-58ed-1b3e8a19d9af/BetaAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T09:11:10.053Z
+Categories:
+
+
+Name: Blast Royale
+Url: https://testflight.apple.com/join/oumKXOTP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/8a/b7/af8ab7b2-7765-b553-81cf-07ec14855222/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 22
+Beta Available: not accepting
+Last Checked: 2024-06-08T09:11:10.089Z
+Categories:
+- Games
+
+Name: Olya Teste
+Url: https://testflight.apple.com/join/QLmmgWOR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/0b/79/fb0b795f-0340-c3a6-bca6-b20c50809758/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T09:11:10.124Z
+Categories:
+
+
+Name: Mobile2
+Url: https://testflight.apple.com/join/3JRkdcDB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/fa/36/68fa365b-0f9b-d51d-9818-f892a056c0ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 14
+Beta Available: open
+Last Checked: 2024-06-08T09:11:10.160Z
+Categories:
+
+
+Name: EHW+
+Url: https://testflight.apple.com/join/JAOTh0ap
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/4b/36/2c4b36c7-2f91-8feb-0c27-2fb453342f38/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T09:11:10.196Z
+Categories:
+
+
+Name: GRATIS GERADOR
+Url: https://testflight.apple.com/join/G33cUkPM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ea/d6/75ead6eb-ab03-055d-d37f-9b87fdec3361/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-08T09:11:10.232Z
+Categories:
+
+
+Name: DigiFT
+Url: https://testflight.apple.com/join/KKGOWQed
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/44/54/7544546c-520e-d314-3907-22fd7b04d07d/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-08T09:11:10.268Z
+Categories:
+
+
+Name: OSIM Staging
+Url: https://testflight.apple.com/join/opxes352
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/fb/03/90fb03bf-402d-2d99-e7ed-0acbb94af9e5/AppIcon.staging-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 21
+Beta Available: open
+Last Checked: 2024-06-08T09:11:10.304Z
+Categories:
+
+
+Name: NRO by ixxc 05
+Url: https://testflight.apple.com/join/Yqvol7gV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/a8/80/c1a88087-6650-6db5-eb1b-9456bd174481/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 14
+Beta Available: not accepting
+Last Checked: 2024-06-08T09:11:10.340Z
+Categories:
+
+
+Name: Stethophone
+Url: https://testflight.apple.com/join/psEDgC3w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/64/14/176414e6-6913-d783-32a6-098950bcbf21/UAAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-08T09:11:10.375Z
+Categories:
+
+
+Name: eRestro Singlevendor Rider
+Url: https://testflight.apple.com/join/wqMcr5at
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/8d/cc/c98dcca6-98b4-44a0-1a51-97226381ad3b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T09:11:10.410Z
+Categories:
+- Food
+- Shopping
+
