@@ -8773,3 +8773,120 @@ Last Checked: 2024-06-08T07:07:09.010Z
 Categories:
 
 
+Name: Drago Wallet
+Url: https://testflight.apple.com/join/0W4ELGHr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/47/ce/7947ce89-6ca3-977e-267c-ecf633fd76a3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:08:08.622Z
+Categories:
+
+
+Name: DragonBank
+Url: https://testflight.apple.com/join/o71urBwF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/4e/e0/bf4ee001-6e30-dc93-e01e-76692fea2913/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:08:08.650Z
+Categories:
+
+
+Name: Dramaly
+Url: https://testflight.apple.com/join/AyaTZ1zJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/16/e3/5816e32d-7818-2b5e-41b2-2aa4e13b1185/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:08:08.679Z
+Categories:
+
+
+Name: Dreampal - Interpret Dreams
+Url: https://testflight.apple.com/join/V0jWQRXQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/b3/7d/07b37de2-f594-5c7e-95b7-feeb0cd8c719/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:08:08.706Z
+Categories:
+
+
+Name: Drive GPS
+Url: https://testflight.apple.com/join/ioBQ3vQq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/84/6d/4f846de7-923d-26c7-0f49-9fbc4bd2c603/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:08:08.735Z
+Categories:
+
+
+Name: Dubai Parks Stg
+Url: https://testflight.apple.com/join/kdUD3voB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/f8/88/0cf88876-4aed-efd3-34c6-e25cde4dbe9d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:08:08.763Z
+Categories:
+
+
+Name: DubaiVerseCup
+Url: https://testflight.apple.com/join/69rwpgjn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/eb/b5/89ebb53f-20e8-bd9b-f979-a224bb7b6a45/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:08:08.790Z
+Categories:
+
+
+Name: Duck It
+Url: https://testflight.apple.com/join/DtFH2W3S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/ca/85/5dca85ec-594e-fec6-5b49-c90b7f7603ea/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:08:08.818Z
+Categories:
+
+
+Name: Dugmates
+Url: https://testflight.apple.com/join/ZQVaye4f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f0/fa/30/f0fa3024-a65d-6b5e-98bc-245435c3a5b6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:08:08.847Z
+Categories:
+
+
+Name: E-Bill 2.0
+Url: https://testflight.apple.com/join/z1ZDxkKq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/17/5f/af175fcf-1122-5412-1713-5ad10e662d10/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:08:08.875Z
+Categories:
+
+
+Name: E-Learning HPDQ
+Url: https://testflight.apple.com/join/qThKSZJM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/69/1d/55691d99-d1d4-ce9a-8281-9420e9a35c2d/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:08:08.904Z
+Categories:
+
+
+Name: EBM Suite
+Url: https://testflight.apple.com/join/J1VeYDSS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d8/28/1c/d8281c14-9658-eb2b-357a-1f610d078db3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:08:08.933Z
+Categories:
+
+
+Name: EFG Laos
+Url: https://testflight.apple.com/join/w1Y28vh4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a0/12/78/a0127882-9bb0-aeea-3724-aa546c1951fd/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:08:08.961Z
+Categories:
+
+
