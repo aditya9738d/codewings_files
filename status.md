@@ -583,3 +583,120 @@ Last Checked: 2024-06-08T05:56:10.647Z
 Categories:
 
 
+Name: ASN Bank
+Url: https://testflight.apple.com/join/sGPfrD4t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/41/c7/3e41c723-4647-7d80-7bad-f7b45399bfba/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:57:10.334Z
+Categories:
+
+
+Name: Portfolio Tracker Finance Bay
+Url: https://testflight.apple.com/join/y4etT8Ht
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a5/50/f3a550f7-07b6-9483-0559-91c8b1d85324/icon_boat_dark-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T05:57:10.362Z
+Categories:
+
+
+Name: Service Point Pro
+Url: https://testflight.apple.com/join/m9scoLMH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/09/e1/2909e148-9ecd-d721-f082-e9be566113b9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:57:10.392Z
+Categories:
+
+
+Name: KDB
+Url: https://testflight.apple.com/join/5NYuoa0E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/4d/86/fc4d8608-5532-38c2-1283-9e8a3f3bda8c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:57:10.420Z
+Categories:
+
+
+Name: Headspace Care (Ginger)
+Url: https://testflight.apple.com/join/sTpCZcWG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/29/18/f4291871-53a9-d6d2-6890-b15a681b4f71/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:57:10.449Z
+Categories:
+
+
+Name: Mercedes me
+Url: https://testflight.apple.com/join/sy7wTTt7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0f/cc/03/0fcc03b1-25a6-8e2a-f015-39c7c8183519/MyStarAppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T05:57:10.477Z
+Categories:
+
+
+Name: TimeDeposit: Task timer report
+Url: https://testflight.apple.com/join/2WGIkfbJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/f8/f1/3ff8f1d1-787b-f7aa-dc20-e938e9c3ff73/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T05:57:10.505Z
+Categories:
+
+
+Name: Treeport
+Url: https://testflight.apple.com/join/TUvKkEE9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0d/90/a8/0d90a8c0-bbb9-1c0a-264c-d2766fe0fe78/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:57:10.533Z
+Categories:
+
+
+Name: PDR
+Url: https://testflight.apple.com/join/tBeWVDMU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/c1/c5/c8c1c5ad-3635-6f59-bab2-cdb4895359ab/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:57:10.562Z
+Categories:
+
+
+Name: Scrypted
+Url: https://testflight.apple.com/join/mpXXwLk7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/4e/e7/9e4ee76b-7625-0b9f-205a-c03ff1508362/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T05:57:10.591Z
+Categories:
+
+
+Name: Tsurukame - For WaniKani
+Url: https://testflight.apple.com/join/Fijye2AA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/c2/64/cfc26492-597d-a24b-3342-7ce6e25e7a02/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:57:10.619Z
+Categories:
+
+
+Name: Contadino
+Url: https://testflight.apple.com/join/vwhQ6dzJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/6c/10/606c1053-cd5d-4d6c-61ec-32e02e651cc3/AppIcon-0-1x_U007epad-0-8-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:57:10.647Z
+Categories:
+
+
+Name: SANUKI ROCK Dev
+Url: https://testflight.apple.com/join/No2FxlDe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/18/37/f9/1837f9cc-5402-1041-f7cf-7b2e31914a72/AppIconDev-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:57:10.675Z
+Categories:
+
+
