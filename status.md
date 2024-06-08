@@ -26674,3 +26674,120 @@ Last Checked: 2024-06-08T05:21:09.401Z
 Categories:
 
 
+Name: PowerScribe Radiologist
+Url: https://testflight.apple.com/join/8ydAvntY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/28/d6/3b/28d63bdc-aee7-9a08-274e-a82537019f91/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:22:09.888Z
+Categories:
+
+
+Name: Nebula.
+Url: https://testflight.apple.com/join/p2hAgouU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/a1/a3/68a1a302-b8b6-d21d-320d-3c7fc14edb00/LightModeAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T05:22:09.924Z
+Categories:
+
+
+Name: GTP
+Url: https://testflight.apple.com/join/arCCdBmm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/00/0d/1e000d49-f4de-cd92-cf4f-11ed8c2967f1/AppIconGtp-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T05:22:09.961Z
+Categories:
+
+
+Name: Tap Tap Reloaded
+Url: https://testflight.apple.com/join/SpvyEydY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/2d/bb/8b2dbb86-cebb-0cb7-6036-9877f8e9407a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:22:09.997Z
+Categories:
+
+
+Name: Fleety Drivers App
+Url: https://testflight.apple.com/join/3OtaNKio
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/3e/a4/133ea435-836b-e510-827a-ce6112b94ee7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:22:10.034Z
+Categories:
+
+
+Name: Employee App
+Url: https://testflight.apple.com/join/talFHKiq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/fc/a3/f9fca359-daa3-acbd-22d9-efc197ad3f1a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-08T05:22:10.072Z
+Categories:
+
+
+Name: Wonga Bingo 3.0
+Url: https://testflight.apple.com/join/YaPqaaHi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/53/f8/d453f8eb-3079-59d5-0990-a2a1fa7cb299/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:22:10.108Z
+Categories:
+
+
+Name: MeMoSA
+Url: https://testflight.apple.com/join/e1goFaf1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/4d/9e/864d9eb2-205e-7f6e-c5bb-afd36c897d8e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:22:10.145Z
+Categories:
+
+
+Name: SCE TMS Mobile UAT
+Url: https://testflight.apple.com/join/b6glIoul
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/5d/ef/ce5def1c-a8aa-7531-bfeb-0e2188e0d22a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:22:10.187Z
+Categories:
+
+
+Name: Weather & Radar - Storm alerts
+Url: https://testflight.apple.com/join/siqFNUje
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/dd/45/8bdd45e2-0c89-d6b4-9b6b-5f151fb7cbb3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:22:10.228Z
+Categories:
+
+
+Name: SBI HRMS
+Url: https://testflight.apple.com/join/yyoOVpK6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/84/0d/bc840d03-04c6-0088-0b79-a20278a336f6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:22:10.264Z
+Categories:
+
+
+Name: Super POS
+Url: https://testflight.apple.com/join/kLxvgUIw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/6b/55/d66b5533-ceeb-a6aa-2e98-6c1ee1bb6d53/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:22:10.301Z
+Categories:
+
+
+Name: Jahwa Mobile
+Url: https://testflight.apple.com/join/vY97rK1z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/b5/2e/9eb52eb4-e03d-5d1a-c5e1-aca8b15e4c4c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T05:22:10.338Z
+Categories:
+
+
