@@ -12751,3 +12751,120 @@ Last Checked: 2024-06-08T11:44:10.311Z
 Categories:
 
 
+Name: Snbd
+Url: https://testflight.apple.com/join/j2xr5lnj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/28/9d/85/289d8513-afcf-26c0-8781-93a4540921a5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.049Z
+Categories:
+
+
+Name: Kooth Serenity Demo
+Url: https://testflight.apple.com/join/YXIevTTB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/77/24/bd7724f9-dc0d-70dc-b0fb-e972b1614878/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.078Z
+Categories:
+
+
+Name: TuneWave - FM
+Url: https://testflight.apple.com/join/xqor0W6K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/77/b5/e177b5e4-ec6a-6167-6c97-a01f5c414dfa/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.124Z
+Categories:
+
+
+Name: OrgChartX - Organization Chart
+Url: https://testflight.apple.com/join/anU2DsMi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/89/f8/6a89f819-0a77-d1ca-c9b1-213ab2af1ea6/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.164Z
+Categories:
+
+
+Name: Dwindle: Reusable Checklists
+Url: https://testflight.apple.com/join/lMvf92rT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/95/78/8e9578c8-16ef-ff37-86f3-13c2de36f8be/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.192Z
+Categories:
+
+
+Name: Singlife Plan & Protect (UAT)
+Url: https://testflight.apple.com/join/hcPy8m6o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/dc/ec/7cdcec02-bee0-094a-a640-e27d7b77dcc7/UAT-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.221Z
+Categories:
+
+
+Name: MLG OFFICE
+Url: https://testflight.apple.com/join/E6tNgtat
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/64/40/ad64405f-12b6-ee4b-3f63-a207fa315bb7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.251Z
+Categories:
+
+
+Name: KSD-OTA
+Url: https://testflight.apple.com/join/c8q46JrN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e9/e8/5b/e9e85bb0-f5b4-9da3-a31c-755bdf360a7d/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.279Z
+Categories:
+
+
+Name: Giftit - Social Wishlists
+Url: https://testflight.apple.com/join/NqXVgmCC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/3b/33/1b3b33df-a1f0-b6cb-82df-590b3aeb2a4c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.307Z
+Categories:
+
+
+Name: hyperPad Visual Coding on iPad
+Url: https://testflight.apple.com/join/2tOMSM6Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/7e/92/e67e921c-1942-6cd8-1641-59bd09a94631/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.336Z
+Categories:
+
+
+Name: Liftin' - Gym Workout Tracker
+Url: https://testflight.apple.com/join/WTXiGTTA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/70/38/b97038cd-47e9-bb6e-5c29-575ff65e3a8f/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.365Z
+Categories:
+
+
+Name: Zoho Classes
+Url: https://testflight.apple.com/join/bp0D5VW8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/28/64/772864a9-186a-15c9-39de-6c42ef22a1d7/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.395Z
+Categories:
+
+
+Name: Lux Mundi Center
+Url: https://testflight.apple.com/join/Xv2cnazz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/7f/ae/437fae8e-662b-1c16-e148-cbe1037a7ba2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:45:26.424Z
+Categories:
+
+
