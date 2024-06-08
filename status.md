@@ -24412,3 +24412,120 @@ Last Checked: 2024-06-08T18:35:18.830Z
 Categories:
 
 
+Name: Payconiq by Bancontact
+Url: https://testflight.apple.com/join/Mpza7scj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/6f/a6/da6fa63e-dd41-68d5-9b94-88fc8f20a1d9/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T18:36:09.702Z
+Categories:
+
+
+Name: Delta Digital
+Url: https://testflight.apple.com/join/AQ87Xg1x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/8b/37/8e8b37c0-c516-f804-9f61-80fb179bb462/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-08T18:36:09.738Z
+Categories:
+
+
+Name: SCA UAT
+Url: https://testflight.apple.com/join/a2W8tS4N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/2e/21/842e21a6-b8a0-5b53-e9e4-64515774e1e5/AppIcon-test-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:36:09.774Z
+Categories:
+
+
+Name: CPM VN
+Url: https://testflight.apple.com/join/Nu0VgBBq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/91/1b/9e911b22-8c80-5cfa-54d2-c4b901fcc1a1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:36:09.809Z
+Categories:
+
+
+Name: Cartender
+Url: https://testflight.apple.com/join/cTm5n7yt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/63/81/a16381bd-9ecc-44ea-fbfc-40c9eeed23ba/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:36:09.845Z
+Categories:
+
+
+Name: phyphox
+Url: https://testflight.apple.com/join/r05iODWL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/d9/dc/07d9dc99-02ea-617e-2474-d2f3e2e58043/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:36:09.880Z
+Categories:
+
+
+Name: Spark GPS
+Url: https://testflight.apple.com/join/EXLdmikh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/9b/67/c69b673c-c501-bece-d177-8fed92edbd8f/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-08T18:36:09.916Z
+Categories:
+
+
+Name: JXMB
+Url: https://testflight.apple.com/join/Ew3CJN8P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/e7/36/3fe73601-c39f-ead7-e53c-653935b57ca8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:36:09.951Z
+Categories:
+
+
+Name: Hunky City
+Url: https://testflight.apple.com/join/FYQR89fn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/1c/29/681c2952-6111-b6bb-c335-36a0a93c17e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T18:36:09.987Z
+Categories:
+
+
+Name: DropZap World
+Url: https://testflight.apple.com/join/CdEXgjst
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/7b/56/317b564e-a2b5-f033-1297-b42ea2db0c61/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:36:10.022Z
+Categories:
+
+
+Name: Aventon: MyRide
+Url: https://testflight.apple.com/join/R285EnR0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/65/76/386576db-f48f-2d36-48e2-553799f1bfcd/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:36:10.058Z
+Categories:
+
+
+Name: mSale++
+Url: https://testflight.apple.com/join/NfK9P5L4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/08/04/330804f9-21b4-77e0-636e-c32d273653e2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T18:36:10.094Z
+Categories:
+
+
+Name: Microsoft Authenticator
+Url: https://testflight.apple.com/join/Coqmmppd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/a8/ed/35a8ed2d-3a24-a6a0-f90c-2ea85e568833/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T18:36:10.129Z
+Categories:
+
+
