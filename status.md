@@ -8656,3 +8656,120 @@ Last Checked: 2024-06-08T07:06:10.393Z
 Categories:
 
 
+Name: DiscountExpress
+Url: https://testflight.apple.com/join/sQwWXn71
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/d6/ba/38d6ba10-1cd0-98a0-4f5b-d75e70c65d56/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:07:08.671Z
+Categories:
+
+
+Name: Discover Culture AC
+Url: https://testflight.apple.com/join/HzUeAOlz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/30/d7/b130d7e3-ccab-5e82-3571-414818a439a6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:07:08.699Z
+Categories:
+
+
+Name: Distance Track
+Url: https://testflight.apple.com/join/yA1N8Ykd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/5d/e9/cb5de9ac-37f5-368d-c174-eb69987d3875/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:07:08.728Z
+Categories:
+
+
+Name: DitSitRit-beta
+Url: https://testflight.apple.com/join/TsUNwLK1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/66/b4/37/66b4377d-48f8-c1de-4b01-3afc96196c83/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:07:08.756Z
+Categories:
+
+
+Name: Do it! — Kids habit tracker
+Url: https://testflight.apple.com/join/aPYRstIj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/e8/8a/c2e88a56-d567-5743-6ccd-ee53aae3f84a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:07:08.784Z
+Categories:
+
+
+Name: Docnet
+Url: https://testflight.apple.com/join/NRizWqBU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/ec/03/f9ec0343-a90d-3638-77c6-6b28a13abfb6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:07:08.812Z
+Categories:
+
+
+Name: Doctor App Template
+Url: https://testflight.apple.com/join/pCbu3RLT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f0/84/f5/f084f52a-8919-a83b-0e3b-1a8fa69f2efc/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:07:08.840Z
+Categories:
+
+
+Name: Doctor Peter
+Url: https://testflight.apple.com/join/awhA9cF3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/0e/84/ab0e84e3-11ad-7257-b196-e752db12f85f/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:07:08.868Z
+Categories:
+
+
+Name: Dongled
+Url: https://testflight.apple.com/join/ZH4r0PZ5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/fe/e0/34fee075-2dcd-cc25-0096-e4d8d1d033a3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:07:08.896Z
+Categories:
+
+
+Name: Doppi 5
+Url: https://testflight.apple.com/join/eMHoOSsL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/a3/95/61a395d0-5e4f-81f7-16ed-390c6d10981b/AppIcon-0-1x_U007emarketing-0-4-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:07:08.925Z
+Categories:
+
+
+Name: Doro - Focus Timer
+Url: https://testflight.apple.com/join/eC2yCjkh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2e/4a/ad/2e4aad00-ff63-4930-c654-3f4c806780de/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T07:07:08.953Z
+Categories:
+
+
+Name: Downpour — make a game
+Url: https://testflight.apple.com/join/FiogE1Qm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/2e/c2/1e2ec2f2-9224-8ee6-9a80-faef61358bcd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:07:08.982Z
+Categories:
+
+
+Name: Dr Bienestar+
+Url: https://testflight.apple.com/join/5DPA4orJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/57/d8/a457d8f1-3bfb-bee8-1b2e-4cd4ef99f229/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T07:07:09.010Z
+Categories:
+
+
