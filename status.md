@@ -21364,3 +21364,123 @@ Last Checked: 2024-06-08T08:56:09.845Z
 Categories:
 
 
+Name: SotaApp
+Url: https://testflight.apple.com/join/71IxEXG5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/c5/7a/0dc57a7b-cdb1-5fd0-ce48-02d29f843109/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T08:57:07.847Z
+Categories:
+
+
+Name: Truther
+Url: https://testflight.apple.com/join/kdW8XFwc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0c/e0/05/0ce00568-b117-61fd-2362-dbebd86cd7da/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:57:07.875Z
+Categories:
+
+
+Name: RADii Viewer
+Url: https://testflight.apple.com/join/XU57P5PD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/5e/d5/5d5ed59a-03e3-c202-35be-9368458a881c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:57:07.902Z
+Categories:
+
+
+Name: 100ms Live
+Url: https://testflight.apple.com/join/Uhzebmut
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/3d/f8/543df866-6fdc-76e6-cdc3-848bcc8e43c0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:57:07.931Z
+Categories:
+
+
+Name: WhatsApp Messenger
+Url: https://testflight.apple.com/join/8sLvv90R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/18/c3/2f18c3e8-103d-dd67-7cf9-c81307459370/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1134
+Beta Available: full
+Last Checked: 2024-06-08T08:57:07.958Z
+Categories:
+- Business
+- Chat
+- Education
+- Social Networking
+
+Name: Mini Militia Classic
+Url: https://testflight.apple.com/join/mTdIgovd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/d4/0a/f5d40a00-fbc1-7578-79da-9172bafadead/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 313
+Beta Available: full
+Last Checked: 2024-06-08T08:57:07.986Z
+Categories:
+- Games
+
+Name: McDonald's: Cupons e Delivery
+Url: https://testflight.apple.com/join/yBDER0Mf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/bf/36/f2bf3612-6535-698c-e807-31987e67d2ad/AppIcon-0-0-1x_U007emarketing-0-4-0-512MB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:57:08.013Z
+Categories:
+
+
+Name: Volleyball Warmup 9000
+Url: https://testflight.apple.com/join/APgB1wXX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/8c/63/db8c6321-8066-c4f2-9546-2803de95b8e0/AppIcon-0-1x_U007epad-0-0-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-08T08:57:08.042Z
+Categories:
+
+
+Name: AT Mobile
+Url: https://testflight.apple.com/join/5MA0Pixb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/3e/7f/ab3e7f31-2fc1-832d-fcf4-f1ecf116036f/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 14
+Beta Available: open
+Last Checked: 2024-06-08T08:57:08.069Z
+Categories:
+
+
+Name: Taxi Muscat
+Url: https://testflight.apple.com/join/tY141EEj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/06/3d/da063d56-cb34-cfca-f457-459bb70c441c/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-08T08:57:08.104Z
+Categories:
+
+
+Name: Starmed
+Url: https://testflight.apple.com/join/RSb459B8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/d9/24/6cd924a0-d57b-cbf8-f2ae-0eaf6dd7c93a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:57:08.132Z
+Categories:
+
+
+Name: Survey Valuation Test
+Url: https://testflight.apple.com/join/rRvD2jkL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/8d/f3/8b8df3fd-ca04-531a-a793-ffed7ee3e1e3/AppIcon-test-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:57:08.160Z
+Categories:
+
+
+Name: Hatchy Rampage
+Url: https://testflight.apple.com/join/FPHPdI0s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/fb/1d/31fb1d6a-fad6-0e5a-e8f2-080d204f5528/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 13
+Beta Available: open
+Last Checked: 2024-06-08T08:57:08.188Z
+Categories:
+
+
