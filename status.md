@@ -27043,3 +27043,120 @@ Last Checked: 2024-06-08T01:15:26.646Z
 Categories:
 
 
+Name: Tari Aurora
+Url: https://testflight.apple.com/join/8ccFp84C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/46/ff/d646ffac-f27a-55ad-66ad-a2f0bffe1a9e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:16:13.709Z
+Categories:
+
+
+Name: ZipGrade
+Url: https://testflight.apple.com/join/pjs0PkU2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/45/07/d8450723-e5a1-4541-0278-135783b00a85/AppIcon-1-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T01:16:13.737Z
+Categories:
+
+
+Name: EMMA by AXA (UAT)
+Url: https://testflight.apple.com/join/ZxMAa3Nk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/af/27/0daf27aa-3a1f-7859-7593-07d8267becbe/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:16:13.765Z
+Categories:
+
+
+Name: Posts by Read.cv
+Url: https://testflight.apple.com/join/OTiyTXl2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/df/0f/66/df0f66b6-3e7d-29d8-6020-47735003cdeb/AppIconDefault-0-0-1x_U007ephone-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:16:13.792Z
+Categories:
+
+
+Name: kpiee
+Url: https://testflight.apple.com/join/jr29oeen
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/cc/2a/f9cc2a45-60f2-ae34-9f95-fe3d26052d94/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:16:13.821Z
+Categories:
+
+
+Name: Oppen
+Url: https://testflight.apple.com/join/IQdovXjj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/6a/59/f46a59a1-295c-6436-a17d-88b84a05fda4/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T01:16:13.849Z
+Categories:
+
+
+Name: FITSMILES
+Url: https://testflight.apple.com/join/QNwqkZKn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/8e/76/e98e7616-3a81-1057-ba79-27563966d5e8/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:16:13.876Z
+Categories:
+
+
+Name: Unified by hg
+Url: https://testflight.apple.com/join/SXNi1cb8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/1d/f6/9b1df6a3-9360-cdad-a8b5-f9c20d4ec03e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:16:13.903Z
+Categories:
+
+
+Name: Orange Flutter
+Url: https://testflight.apple.com/join/yh05lfbH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/90/26/0e/90260e5a-8dd3-e27a-b8fa-ec161db1a8b6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T01:16:13.930Z
+Categories:
+
+
+Name: Uzmart Driver
+Url: https://testflight.apple.com/join/yRkN7RZE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/19/0f/6b190fc0-e189-b9e8-3bc2-e5c230872871/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:16:13.958Z
+Categories:
+
+
+Name: iSH-AOK
+Url: https://testflight.apple.com/join/X1flyiqE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/a5/df/fea5dfbe-29d9-cdd5-3dcb-795bb66e6d14/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:16:13.986Z
+Categories:
+
+
+Name: Zallo
+Url: https://testflight.apple.com/join/UXbPvjSf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/69/12/12691233-c5dd-5f9b-4ecc-2b395f46be07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:16:14.013Z
+Categories:
+
+
+Name: iTEM
+Url: https://testflight.apple.com/join/gzgHvDWg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/67/08/bb670865-a7b7-0e2e-b494-a02fb00f9f94/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T01:16:14.040Z
+Categories:
+
+
