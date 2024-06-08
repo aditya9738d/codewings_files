@@ -27376,3 +27376,120 @@ Last Checked: 2024-06-08T05:27:11.580Z
 Categories:
 
 
+Name: Luxury Card Lifestyle - STG
+Url: https://testflight.apple.com/join/O0TFGuAA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/8c/44/168c44e8-46d0-75a7-493b-cba37a59a0e6/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.554Z
+Categories:
+
+
+Name: ZCore Wallet
+Url: https://testflight.apple.com/join/FIzCicGV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/e7/3e/65e73e65-325e-a457-dfcf-be71de94e280/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.590Z
+Categories:
+
+
+Name: Visionbrew - Motion Capture
+Url: https://testflight.apple.com/join/IfiL2NPu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/bc/10/1cbc10df-0b32-0561-1069-8257fd17ec6b/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.625Z
+Categories:
+
+
+Name: IWS 2020
+Url: https://testflight.apple.com/join/bfyIC77k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/0d/c7/960dc7b1-5395-c605-fc0a-371ff5871518/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.660Z
+Categories:
+
+
+Name: Meraki Go
+Url: https://testflight.apple.com/join/LdobmsN9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/c0/a0/dec0a0e0-4817-88f8-25d7-799b5ea6e1c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.696Z
+Categories:
+
+
+Name: Fandelo Preview
+Url: https://testflight.apple.com/join/f7L4NBen
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/50/b2/a650b287-85f0-8224-03e9-0e29ae89ac25/AppIconPreview-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.732Z
+Categories:
+
+
+Name: QNB Pay Wallet
+Url: https://testflight.apple.com/join/Sqcc8hLp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/01/fc/4d01fc00-fe16-75e4-e980-e13a50750b56/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.768Z
+Categories:
+
+
+Name: kuroneko
+Url: https://testflight.apple.com/join/9QdTc7Co
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/ef/37/93ef37d5-641e-6d9f-c14a-3b40720870f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.803Z
+Categories:
+
+
+Name: Fabric – Internet OS
+Url: https://testflight.apple.com/join/yd1SEh8B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/38/5f/68385fb0-c9cc-51cd-ae99-83b72b83c8f2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.839Z
+Categories:
+
+
+Name: MIC Test
+Url: https://testflight.apple.com/join/7SfF0vGt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/b6/0c/09b60c31-5d67-17cb-6de6-e27895afbadd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.875Z
+Categories:
+
+
+Name: Odaring Dev
+Url: https://testflight.apple.com/join/bMgZgPqF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/43/ad/9743ad7d-bbec-61c5-817e-16c6eb0bb319/AppIcon-dev-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.911Z
+Categories:
+
+
+Name: InZone.me
+Url: https://testflight.apple.com/join/hX9dtClm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/9c/d4/659cd4d7-8276-5d74-c439-e59a89f79588/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.947Z
+Categories:
+
+
+Name: Symptom Snap
+Url: https://testflight.apple.com/join/YJ2D8kKA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/de/6e/d1/de6ed146-d19b-84f1-4a29-698af089bc06/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T05:28:12.982Z
+Categories:
+
+
