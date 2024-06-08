@@ -4795,3 +4795,120 @@ Last Checked: 2024-06-08T02:07:10.434Z
 Categories:
 
 
+Name: LightTwist
+Url: https://testflight.apple.com/join/3NhJIIHU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/4b/90/8f4b9076-5cea-0dbf-773b-aa5cdf197a70/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.231Z
+Categories:
+
+
+Name: SWFT Blockchain Pro
+Url: https://testflight.apple.com/join/gptqL2NT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/f0/a4/7af0a4af-3cfb-c3d6-1881-e758fc6ad940/AppIcon-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.266Z
+Categories:
+
+
+Name: CardBeat – Plot Your Story
+Url: https://testflight.apple.com/join/iu3QlyJ8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/49/bb/b9/49bbb9d2-641e-3da0-e554-af05948ea8d1/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T02:08:14.301Z
+Categories:
+
+
+Name: Model Colors
+Url: https://testflight.apple.com/join/jJmnVnB5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/9f/24/409f24ad-ff18-54fd-5cd1-7a8f0cbf0a7f/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.336Z
+Categories:
+
+
+Name: SurvMaster
+Url: https://testflight.apple.com/join/y4DmdfRI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/7a/1f/de7a1fd2-45f9-47e5-094b-0aabcdcc11cf/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.371Z
+Categories:
+
+
+Name: ZealiD Q dev
+Url: https://testflight.apple.com/join/Z0SkGyS2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/76/50/9b7650ef-7729-5bca-2e60-9a3075003c9f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.406Z
+Categories:
+
+
+Name: FIBUscan Mobile Receipt Scan
+Url: https://testflight.apple.com/join/7ZY59gpn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7e/cc/b6/7eccb69b-a9f3-f602-466e-d962f745ee03/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.441Z
+Categories:
+
+
+Name: YWallet
+Url: https://testflight.apple.com/join/ff2E7h7o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/88/d9/1a88d978-b09b-270b-2185-a1e86a4236c4/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.476Z
+Categories:
+
+
+Name: SmartPay DSA Assist
+Url: https://testflight.apple.com/join/L1ufNxRS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/68/c5/cb68c5f3-8d67-86f6-231a-b035fedae7cb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.511Z
+Categories:
+
+
+Name: iO
+Url: https://testflight.apple.com/join/Iu2Ak4pj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/46/e8/d346e81a-453a-a010-c8f5-0fb25b0d55a6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.546Z
+Categories:
+
+
+Name: Dreame Design
+Url: https://testflight.apple.com/join/y3e9Wpe5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/31/fd/8131fd44-f245-8c18-ff6b-52e5047438a3/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.581Z
+Categories:
+
+
+Name: Dynamite Dyfused
+Url: https://testflight.apple.com/join/czgeVK7D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/22/13/f1221349-acb6-37c6-c86c-33a87ef268f2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.616Z
+Categories:
+
+
+Name: Sol
+Url: https://testflight.apple.com/join/Tb7eoqs8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/7e/4a/807e4a28-81df-8961-12b9-f43729b02d66/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T02:08:14.652Z
+Categories:
+
+
