@@ -9475,3 +9475,120 @@ Last Checked: 2024-06-08T11:16:11.101Z
 Categories:
 
 
+Name: Brave Beta
+Url: https://testflight.apple.com/join/Trcbh1o3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/be/2b/28be2be9-a910-e295-f330-a029cec55f04/AppIcon_Beta-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-08T11:17:10.888Z
+Categories:
+
+
+Name: M-Sub Movie NextGen
+Url: https://testflight.apple.com/join/1hvzbyWX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/12/16/1112167a-2352-dacd-1330-bd3cf808af85/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:17:10.916Z
+Categories:
+
+
+Name: Awful - SA Forums browser
+Url: https://testflight.apple.com/join/530cS7a7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/29/ad/a029adbc-5c61-e895-4bcf-1d9b70e9c47a/rated_five_appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:17:10.944Z
+Categories:
+
+
+Name: uTrading-AI
+Url: https://testflight.apple.com/join/zFuCHIbI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/08/67/91086754-6c6f-2119-983e-f139ce03b95a/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:17:10.975Z
+Categories:
+
+
+Name: BKG Speed
+Url: https://testflight.apple.com/join/XQ1gCGyX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/50/a8/c6/50a8c68a-a7db-eabb-7eff-21c5cf62e6ce/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T11:17:11.004Z
+Categories:
+
+
+Name: Play Together LITE Party Games
+Url: https://testflight.apple.com/join/mckojJxN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/68/64/8d686455-00dc-870b-b9d8-5691f82851eb/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:17:11.032Z
+Categories:
+
+
+Name: 7 Brew
+Url: https://testflight.apple.com/join/u0aCrJFD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/29/4f/2e/294f2e98-49b6-ccd5-40af-e32550ea0ab3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:17:11.060Z
+Categories:
+
+
+Name: Gymyg Workout
+Url: https://testflight.apple.com/join/nir1lAMK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/51/2c/c3512c7d-9c2f-3b11-441d-113ed84e4f61/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T11:17:11.087Z
+Categories:
+
+
+Name: LOOKING CAM
+Url: https://testflight.apple.com/join/eNDsvFyn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/4a/1b/b14a1b93-7905-2109-6b7c-025f555eddb4/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:17:11.115Z
+Categories:
+
+
+Name: DAILY MATTER
+Url: https://testflight.apple.com/join/AJ9gS1mj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/a0/08/38a00869-0640-9dfd-a4e6-2ab518b6cb30/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:17:11.143Z
+Categories:
+
+
+Name: Legion Workforce (UAT)
+Url: https://testflight.apple.com/join/zc2brH51
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/f2/56/40f256a5-9f61-e0a0-6468-67c6112d52c4/AppIcon_UAT-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:17:11.171Z
+Categories:
+
+
+Name: Meraki
+Url: https://testflight.apple.com/join/56ZYICJZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/18/e6/8918e6d2-7e51-a539-4491-7243ee9a234a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:17:11.199Z
+Categories:
+
+
+Name: NESTracker
+Url: https://testflight.apple.com/join/wwep90dI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/37/bd/3c37bd45-c5b7-3d42-6641-380a34c6706d/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T11:17:11.226Z
+Categories:
+
+
