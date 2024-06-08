@@ -3047,3 +3047,120 @@ Last Checked: 2024-06-08T20:37:09.700Z
 Categories:
 
 
+Name: Panda Pizzeria
+Url: https://testflight.apple.com/join/jgmIXkIg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/16/3c/1f163cd1-9167-8cea-ccba-b8adb6b237c5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:38:11.145Z
+Categories:
+
+
+Name: Budget App - Spending Tracker
+Url: https://testflight.apple.com/join/RlzjB4hV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/fb/f5/9efbf557-335f-cd75-b0b5-30931546109e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:38:11.173Z
+Categories:
+
+
+Name: Mary Kay® Interactive Catalog
+Url: https://testflight.apple.com/join/2X7PZGUL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3e/62/91/3e629126-c9db-efb8-3329-47f1a1d77c2d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-08T20:38:11.201Z
+Categories:
+
+
+Name: 1409
+Url: https://testflight.apple.com/join/B5CCTVv9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/9e/b6/0b9eb623-c297-3398-4868-fde3a9deef4c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T20:38:11.230Z
+Categories:
+
+
+Name: EufyLife
+Url: https://testflight.apple.com/join/s2VwsIVW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/77/64/477764ec-b594-9c42-2aca-12754525b91d/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:38:11.257Z
+Categories:
+
+
+Name: Burger King® Baltics
+Url: https://testflight.apple.com/join/K7wGJrAN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/6b/f7/716bf728-deb2-455d-6a97-6c4429df5742/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:38:11.286Z
+Categories:
+
+
+Name: GTMR
+Url: https://testflight.apple.com/join/aNYdAP3Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/65/aa/9e/65aa9ec1-2979-0e15-2eec-1aaa2ec6eea3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:38:11.313Z
+Categories:
+
+
+Name: Fleetwork
+Url: https://testflight.apple.com/join/xQdTfUGY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/3b/d9/aa3bd92e-8831-3fe9-e743-69a889387ef9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T20:38:11.340Z
+Categories:
+
+
+Name: with Mountain Smiling
+Url: https://testflight.apple.com/join/E5S9WqvB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/87/cb/3087cb1c-ff29-7601-df87-f6ef8efffba9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:38:11.371Z
+Categories:
+
+
+Name: PI.FYI by Perfectly Imperfect
+Url: https://testflight.apple.com/join/TYTltngj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/ab/a8/7baba846-01de-1cd1-425b-ee9f0a57815a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:38:11.399Z
+Categories:
+
+
+Name: ASAKI SOUND+
+Url: https://testflight.apple.com/join/3EHi1VDt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/90/db/0a/90db0a3e-182d-6f5d-3178-3894131128b9/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:38:11.426Z
+Categories:
+
+
+Name: HUAWEI CLOUD WeLink
+Url: https://testflight.apple.com/join/ve6MJxxW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/e0/65/40e06564-8e22-9323-cfa6-040bc94791de/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T20:38:11.454Z
+Categories:
+
+
+Name: Gorlov Space
+Url: https://testflight.apple.com/join/E0MADv3W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/94/e8/0e94e886-3e41-6549-3c8d-f4ee44d0bbc6/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:38:11.482Z
+Categories:
+
+
