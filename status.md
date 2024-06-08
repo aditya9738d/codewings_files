@@ -24684,3 +24684,120 @@ Last Checked: 2024-06-08T09:24:12.577Z
 Categories:
 
 
+Name: iReal Pro
+Url: https://testflight.apple.com/join/pNgXdvK7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/19/9a/b7/199ab7da-6d69-0cb4-d787-7a70bfb584f1/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T09:25:20.379Z
+Categories:
+
+
+Name: Palphone
+Url: https://testflight.apple.com/join/jVw2duqr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/ba/5f/f8ba5f90-b93e-4c3f-a7ee-23abfd61ee78/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 15
+Beta Available: open
+Last Checked: 2024-06-08T09:25:20.416Z
+Categories:
+
+
+Name: WEB.DE Mail & Cloud
+Url: https://testflight.apple.com/join/Do48rouk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/c8/62/c6c86262-bf48-6d29-364d-c9147754f4cf/WEBDE_MAIL_AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T09:25:20.453Z
+Categories:
+
+
+Name: Mira Fertility & Cycle Tracker
+Url: https://testflight.apple.com/join/jVUPS68D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/97/f5/6897f538-e7f5-0e9f-15b7-d556800c5ea5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T09:25:20.489Z
+Categories:
+
+
+Name: beboConnect
+Url: https://testflight.apple.com/join/wdeQmls3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9c/3a/cf9c3af7-4321-e458-1264-d3a8cdb7dfb5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-08T09:25:20.526Z
+Categories:
+
+
+Name: MyFRITZ!App
+Url: https://testflight.apple.com/join/U0v1rBE5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/60/d5/8d60d538-1404-ef1b-a1b0-d10be490be89/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-08T09:25:20.563Z
+Categories:
+
+
+Name: itsme
+Url: https://testflight.apple.com/join/ntZD6f9a
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1b/fb/5f/1bfb5f18-931a-2eae-afd6-9de955a7a92d/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-08T09:25:20.599Z
+Categories:
+
+
+Name: Voyager for Lemmy
+Url: https://testflight.apple.com/join/nWLw1MBM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/db/31/addb31a2-9b1c-2d67-2003-1ef679b5a0a7/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-08T09:25:20.635Z
+Categories:
+
+
+Name: VNPAY-CA
+Url: https://testflight.apple.com/join/o6j4lZii
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/06/91/3d069129-a1a0-3c40-b6e3-533c17d2654c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T09:25:20.671Z
+Categories:
+
+
+Name: PDF Viewer - Annotation Expert
+Url: https://testflight.apple.com/join/6IMUtZ8n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/78/cd/ee78cd0d-ed08-e28b-3b6a-ad094a2d481c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-08T09:25:20.708Z
+Categories:
+
+
+Name: Voxel Max - 3D Modeling
+Url: https://testflight.apple.com/join/TdNA6XSC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/79/07/a17907dc-d204-d6d5-0978-b64069adf484/AppIcon-0-1x_U007epad-0-0-0-10-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-08T09:25:20.745Z
+Categories:
+
+
+Name: Riveo | Video Effects Enhancer
+Url: https://testflight.apple.com/join/v6ceOm4r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/70/52/ae7052af-d83f-9b21-6629-de973ec35e4c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-08T09:25:20.781Z
+Categories:
+
+
+Name: Project Pentjet
+Url: https://testflight.apple.com/join/YOm3zrcG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/15/0b/58150b1a-677d-2a68-9063-7bd106480d7f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 11
+Beta Available: open
+Last Checked: 2024-06-08T09:25:20.818Z
+Categories:
+
+
