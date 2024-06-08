@@ -3281,3 +3281,120 @@ Last Checked: 2024-06-08T20:39:09.229Z
 Categories:
 
 
+Name: Sandbox Fresh KDS
+Url: https://testflight.apple.com/join/yWR1751L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/3b/02/4c3b0258-a855-151f-f38e-d0fcb1e00e09/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.069Z
+Categories:
+
+
+Name: MinuPlus
+Url: https://testflight.apple.com/join/Q1zPYbSZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/3f/94/503f94bd-10cc-32f3-457d-f2498fac0544/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.096Z
+Categories:
+
+
+Name: SMEConnect
+Url: https://testflight.apple.com/join/RoiHSYUr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/be/f4/94bef4bb-998b-b834-0938-9578c3eb2413/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.124Z
+Categories:
+
+
+Name: Endpt
+Url: https://testflight.apple.com/join/emE0d6Mf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/43/6f/e4/436fe4cb-c000-94f8-f7c4-87556123af25/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.151Z
+Categories:
+
+
+Name: FarmMe Fantasy
+Url: https://testflight.apple.com/join/Jij73Mst
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/51/cb/2551cb9e-718c-2e80-f35f-5050e6953334/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.180Z
+Categories:
+
+
+Name: Forex Lab
+Url: https://testflight.apple.com/join/jcRdzLRR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/07/04/9207044b-be71-5138-2dcb-71a793697c1c/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.208Z
+Categories:
+
+
+Name: PeerEquip
+Url: https://testflight.apple.com/join/ZCSe5Ypc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/4c/73/7b4c7327-2cb7-e6ab-9676-2f2950aa164e/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.236Z
+Categories:
+
+
+Name: EHC STMobile
+Url: https://testflight.apple.com/join/bbDNgXCb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/b6/d1/d7b6d19e-26ff-1708-3b3d-ccdb5d99c2e2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.264Z
+Categories:
+
+
+Name: Office Cafe
+Url: https://testflight.apple.com/join/lYvGnnZK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a9/94/a7/a994a7d8-adaf-f20a-0168-4fa7536e7be8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.292Z
+Categories:
+
+
+Name: walkie-talkie-iphone
+Url: https://testflight.apple.com/join/vEEwtoF1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/46/58/c2465885-f55f-9309-3eea-1076c2fa1e9d/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.320Z
+Categories:
+
+
+Name: LING Club Beta
+Url: https://testflight.apple.com/join/9s2YL9jr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f8/3c/e7/f83ce7f2-bf41-f507-331f-df07b5fcca93/AppIcon-Beta2-0-0-1x_U007ephone-0-10-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.348Z
+Categories:
+
+
+Name: Zabb World
+Url: https://testflight.apple.com/join/SU8pjhQa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/e9/94/3be99435-9e49-c09f-1b32-0d20878a6c29/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.376Z
+Categories:
+
+
+Name: Canton Smart
+Url: https://testflight.apple.com/join/EuujoCDc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/74/7f/13747f92-8345-0c35-7d47-666c59966202/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T20:40:25.404Z
+Categories:
+
+
