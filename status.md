@@ -16144,3 +16144,120 @@ Last Checked: 2024-06-08T08:10:22.782Z
 Categories:
 
 
+Name: ScooterLui
+Url: https://testflight.apple.com/join/xV4bLOSD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/2d/ce/b12dce12-7d88-6cc6-e4ea-94a1c674f39e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:11:07.451Z
+Categories:
+
+
+Name: Scopi - VR Camera
+Url: https://testflight.apple.com/join/KhjqHJuI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/60/ec/fa60ec32-077e-8db4-9583-d6b943f827aa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:11:07.479Z
+Categories:
+
+
+Name: Scoreboard Reader
+Url: https://testflight.apple.com/join/OCPyEeJq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/05/04/c5050464-a7af-3fe1-f9e5-6cb2129071fd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:11:07.507Z
+Categories:
+
+
+Name: ScreenVision 3D
+Url: https://testflight.apple.com/join/ZBeNSKJX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/31/36/e6313667-96bf-7b55-bb0f-f0583b27c0f1/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:11:07.535Z
+Categories:
+
+
+Name: Scribe - Charting Made Easy
+Url: https://testflight.apple.com/join/b4fFcI7v
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b8/f8/f4/b8f8f423-9311-a824-b2d2-776e4e832e68/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:11:07.563Z
+Categories:
+
+
+Name: Scripture.LY
+Url: https://testflight.apple.com/join/thZtAcMd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/bc/cb/24bccb3e-df09-1289-78df-958efb16ad2f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:11:07.590Z
+Categories:
+
+
+Name: Searchitron
+Url: https://testflight.apple.com/join/FklZj33m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ed/0b/f5/ed0bf50e-60df-a301-5bb6-78dffe85c351/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:11:07.618Z
+Categories:
+
+
+Name: Sense — AI Chat
+Url: https://testflight.apple.com/join/R72eJyIm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/7a/48/f97a48f1-b4bf-612f-26b0-723a4c92f51a/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:11:07.646Z
+Categories:
+
+
+Name: SenseAR Effects
+Url: https://testflight.apple.com/join/psgZybKI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/13/0c/78130c76-f38e-a560-7738-471928b72004/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:11:07.674Z
+Categories:
+
+
+Name: Sensoria SKB
+Url: https://testflight.apple.com/join/htdxxQS8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/89/bc/f789bcfc-036e-0716-8932-595def28ee9d/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:11:07.702Z
+Categories:
+
+
+Name: Sentz Staging
+Url: https://testflight.apple.com/join/nfjbcrcE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/45/9a/bb459a7e-c705-3c93-3d35-26c3c21c9f82/AppIcon-beta-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:11:07.730Z
+Categories:
+
+
+Name: Senzei 1.1
+Url: https://testflight.apple.com/join/4QmxqYCB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/85/c5/9585c5a3-2282-d741-0561-208f29397d41/AppIcon-1x_U007ephone-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T08:11:07.758Z
+Categories:
+
+
+Name: Septourian
+Url: https://testflight.apple.com/join/d9tV98g1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/bc/e2/59bce292-108a-127a-053d-01ae153b1ac9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T08:11:07.786Z
+Categories:
+
+
