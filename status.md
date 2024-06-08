@@ -4912,3 +4912,120 @@ Last Checked: 2024-06-08T14:45:25.486Z
 Categories:
 
 
+Name: Doomlings Companion
+Url: https://testflight.apple.com/join/MYMtSAFD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/03/81/d6038109-ff3c-64f1-8601-976729afc410/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:46:09.359Z
+Categories:
+
+
+Name: BETANDYOU - Best bets for you
+Url: https://testflight.apple.com/join/x6aMHlck
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/95/71/8e9571e4-ffef-0ceb-269d-507d1bc65fd6/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:46:09.389Z
+Categories:
+
+
+Name: RZChatMobile
+Url: https://testflight.apple.com/join/dZ7sTdyY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bf/e6/a7/bfe6a701-cac1-f803-7e3b-a5043d2cdae9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 19
+Beta Available: open
+Last Checked: 2024-06-08T14:46:09.418Z
+Categories:
+
+
+Name: Arctic For Lemmy
+Url: https://testflight.apple.com/join/ddFR6MQo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/83/68/e08368c0-2706-2873-d036-221514561855/AppIcon-0-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:46:09.446Z
+Categories:
+
+
+Name: My Genie: Personality AI
+Url: https://testflight.apple.com/join/Hl5wgodr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/20/ed/8a/20ed8a46-7a9d-cfe5-e8a7-456955e06ed7/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:46:09.475Z
+Categories:
+
+
+Name: Printer Setup Tool
+Url: https://testflight.apple.com/join/drvGMmgX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/32/c6/41/32c64141-292f-ceff-e1fb-c202ad7927d1/AppIcon-utax-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:46:09.503Z
+Categories:
+
+
+Name: PRINCE Merchant QA
+Url: https://testflight.apple.com/join/Yzi70jTM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/85/04/3d850411-f9fc-673f-eaa4-d176ebfe1602/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T14:46:09.531Z
+Categories:
+
+
+Name: Flying Lap F1
+Url: https://testflight.apple.com/join/2ubEielm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/25/06/71/250671db-f499-38c9-3cdc-43c70c03ef8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T14:46:09.560Z
+Categories:
+
+
+Name: NT IPTV
+Url: https://testflight.apple.com/join/ShJAiPMD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/01/a9/2e01a998-0691-4d66-35f5-61418bdce77d/AppIcon-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-08T14:46:09.587Z
+Categories:
+
+
+Name: Matter Verifier
+Url: https://testflight.apple.com/join/6BYFuCrW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7d/97/27/7d9727b7-8ce3-5bbe-a265-973b8cb1504f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T14:46:09.617Z
+Categories:
+
+
+Name: Elite Quiz
+Url: https://testflight.apple.com/join/sRD6VDm1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/70/bd/4170bd0c-e0c5-c3b4-80cc-3f29ec728fc1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T14:46:09.646Z
+Categories:
+
+
+Name: Accor ALL - sandbox
+Url: https://testflight.apple.com/join/DroAuuwu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/c0/9d/b9c09d66-76f4-1207-ba2d-5416c19a7a9b/AppIcon.sandbox-development-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T14:46:09.674Z
+Categories:
+
+
+Name: EasyVFR 4
+Url: https://testflight.apple.com/join/Zxbi0Hof
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/1b/21/0e1b2178-f5fc-764a-e5d9-9eefe63c5e1d/Brand_Assets-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T14:46:09.702Z
+Categories:
+
+
