@@ -3625,3 +3625,120 @@ Last Checked: 2024-06-08T01:57:10.759Z
 Categories:
 
 
+Name: KendalFloralCostcoInventory
+Url: https://testflight.apple.com/join/HqexobWQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/2c/48/dc2c48bc-0be1-8753-39bb-b6f98bdac6a1/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.343Z
+Categories:
+
+
+Name: MAGIC SHOES - WEB3 FITNESS
+Url: https://testflight.apple.com/join/588ursID
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/67/b3/cb/67b3cbe0-96f2-ffba-dbd4-868b885cf4a6/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.372Z
+Categories:
+
+
+Name: iNook
+Url: https://testflight.apple.com/join/gJEnxk0e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/9f/83/6e9f833a-133e-4af9-f748-e1edabbec827/launcher_default-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.400Z
+Categories:
+
+
+Name: Mighty Fitness
+Url: https://testflight.apple.com/join/AOQfq8vx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/2f/0c/2e2f0c76-818d-da1d-c49a-e6c5833cbb0b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T01:58:10.429Z
+Categories:
+
+
+Name: CAPSULE SENSE
+Url: https://testflight.apple.com/join/QQcc877m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/28/f0/7028f0a6-21ec-9301-05a4-70c7bf489cbf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.459Z
+Categories:
+
+
+Name: Text With History
+Url: https://testflight.apple.com/join/yb47rJki
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/be/c2/3dbec2fc-8917-ee65-01a5-b31b3345a07e/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.487Z
+Categories:
+
+
+Name: Nexar Classic
+Url: https://testflight.apple.com/join/f8tSQ2q0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/e6/55/32e6554a-cae7-16c7-f3c7-0c8fbd515bf9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.515Z
+Categories:
+
+
+Name: Muvonda Access
+Url: https://testflight.apple.com/join/kChXTPEC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/fd/d7/27fdd7de-1c73-2363-0272-bead4109eebf/app_icon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.544Z
+Categories:
+
+
+Name: Gaming for Peace - GAP
+Url: https://testflight.apple.com/join/tJu81Sch
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/67/0a/0f/670a0f38-d766-d54b-90a0-c599fcafa981/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.572Z
+Categories:
+
+
+Name: HoneyPlayBox
+Url: https://testflight.apple.com/join/0YKBKSX6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/fa/f1/eafaf1aa-0f3a-d87a-5d74-7a4e07749587/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.600Z
+Categories:
+
+
+Name: NKF Nutrition
+Url: https://testflight.apple.com/join/4Wg0GG7G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/d3/80/52d3803d-ebb6-54a3-9d10-0a7167a29b8e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.629Z
+Categories:
+
+
+Name: External Persona Testing
+Url: https://testflight.apple.com/join/msXJrOc6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/1c/47/341c47b3-9db6-7bd7-261d-8c5b1a1549d3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.657Z
+Categories:
+
+
+Name: safesteps-bostonu
+Url: https://testflight.apple.com/join/eE68sUfl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/bc/69/46bc6985-f052-2777-c9f8-fd8b08048dbf/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T01:58:10.686Z
+Categories:
+
+
