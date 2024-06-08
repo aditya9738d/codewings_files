@@ -16612,3 +16612,120 @@ Last Checked: 2024-06-08T12:18:11.913Z
 Categories:
 
 
+Name: NPRA
+Url: https://testflight.apple.com/join/2Ew7lAMn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/9e/98/ba9e98db-9395-e84e-0429-246968a827f9/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.457Z
+Categories:
+
+
+Name: Komodo Mobile Crypto Wallet
+Url: https://testflight.apple.com/join/c2mOLEoC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/e3/d9/0fe3d91a-89a0-ba49-fa73-d12547c7731f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.493Z
+Categories:
+
+
+Name: Owaves: My Body Clock
+Url: https://testflight.apple.com/join/ashWLQMS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/c1/fb/a1c1fbd3-6ce3-8a85-0551-8c8e413326e9/AppIcon-3-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.528Z
+Categories:
+
+
+Name: Castmagic Companion
+Url: https://testflight.apple.com/join/s47OVZOS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ed/d0/0fedd064-5889-bcea-9b0c-6cdc5639f4d8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.564Z
+Categories:
+
+
+Name: VRBT
+Url: https://testflight.apple.com/join/g9motzTy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/1b/dd/841bdda1-4ce1-336a-370b-10e0f3575128/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.600Z
+Categories:
+
+
+Name: BioMobile Staging
+Url: https://testflight.apple.com/join/4LOSpEHi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/3c/08/c13c0877-081e-f504-3f94-80990f4572c2/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.636Z
+Categories:
+
+
+Name: Travereel
+Url: https://testflight.apple.com/join/TtvTURQD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/44/2c/73/442c73a1-21f1-6a04-d3fa-92d30db607d5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-08T12:19:10.671Z
+Categories:
+
+
+Name: Anytime Podcast Player
+Url: https://testflight.apple.com/join/C9D6ODqx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/0f/8d/770f8dfc-e371-749c-b747-ca5160d776e4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.707Z
+Categories:
+
+
+Name: XIM NEXUS Manager
+Url: https://testflight.apple.com/join/n8ss80Zs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/90/0e/44/900e4484-7177-f192-ab31-509895626d1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.742Z
+Categories:
+
+
+Name: Fair Plus 2
+Url: https://testflight.apple.com/join/sdBZzV82
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/be/58/33be588c-5c08-2012-05b9-b73c9d7f7b2c/AppIcon-Plus-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.778Z
+Categories:
+
+
+Name: Wordler – Game Assistant
+Url: https://testflight.apple.com/join/Ct6gSdHk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/59/f8/ad59f84a-0f19-04e8-9bc5-73ccf121ad4e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.814Z
+Categories:
+
+
+Name: SalesPro App
+Url: https://testflight.apple.com/join/IoBtbHF2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/fd/50/51fd5024-141c-14ca-ba8e-ae1364ccc5d8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.850Z
+Categories:
+
+
+Name: Payoo Staging
+Url: https://testflight.apple.com/join/RmSi5XOX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/40/21/c1/4021c138-c770-03a9-187d-bb2afbb3c364/AppIcon.staging-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-08T12:19:10.885Z
+Categories:
+
+
