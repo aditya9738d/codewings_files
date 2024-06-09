@@ -20473,3 +20473,120 @@ Last Checked: 2024-06-09T10:42:09.828Z
 Categories:
 
 
+Name: Publizz
+Url: https://testflight.apple.com/join/f1AN6OjL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/dc/22/c4/dc22c490-79db-18f5-650e-fd6be1670b55/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:43:09.767Z
+Categories:
+
+
+Name: Pulse Wallet
+Url: https://testflight.apple.com/join/oYpvN0fR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/a4/51/d2a45147-dc2e-5a3c-d495-eb91cdc32249/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:43:09.795Z
+Categories:
+
+
+Name: PulseQ AC Home App
+Url: https://testflight.apple.com/join/jT43MRwJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0f/3c/d4/0f3cd494-086d-67a5-b49d-179df155ebb8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:43:09.824Z
+Categories:
+
+
+Name: Pune Metro Trivia
+Url: https://testflight.apple.com/join/tV9xRB7h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0c/4f/fb/0c4ffb00-06ea-1c88-8c6a-ecccc464e669/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:43:09.852Z
+Categories:
+
+
+Name: PunkDB
+Url: https://testflight.apple.com/join/OTFrLA5j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/2d/b7/5e2db7ed-0cd1-02c0-8e4d-68e44be5ce2c/AppIcon-0-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T10:43:09.880Z
+Categories:
+
+
+Name: PupperPost
+Url: https://testflight.apple.com/join/sokq0t6N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/5b/30/b95b3090-635f-9b81-3a8b-fe23cfd8a470/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:43:09.908Z
+Categories:
+
+
+Name: Purple Playlist Player
+Url: https://testflight.apple.com/join/dplgSS56
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7e/6e/26/7e6e2625-954f-10c3-8a97-8501d454deb6/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:43:09.936Z
+Categories:
+
+
+Name: Pygmy: จดรายจ่ายแบบไม่จด
+Url: https://testflight.apple.com/join/ftcXzUj4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/af/4b/f3/af4bf3fc-e8a0-c3f6-d393-0b0ce89b6734/AppIcon-1x_U007ephone-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:43:09.964Z
+Categories:
+
+
+Name: QR Code Chasers
+Url: https://testflight.apple.com/join/rr18q4vd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/ad/e4/d5ade44f-3f65-be5c-852a-3ea6f6a15458/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:43:09.994Z
+Categories:
+
+
+Name: QTALK 6
+Url: https://testflight.apple.com/join/gpxQpTio
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/8f/d8/e88fd8e4-a035-cd69-640b-ed59d17c2fe7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T10:43:10.022Z
+Categories:
+
+
+Name: QTU Club
+Url: https://testflight.apple.com/join/X80OpU6V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/bf/30/babf30a3-b9d1-9913-add4-faaccfa9ccef/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:43:10.049Z
+Categories:
+
+
+Name: Qfile Pro
+Url: https://testflight.apple.com/join/MBaauJO8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/45/0b/94/450b94ce-2b97-7ba3-67e7-4fc1618c2bb9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: error
+Last Checked: 2024-06-09T10:43:10.078Z
+Categories:
+
+
+Name: Qithesizer
+Url: https://testflight.apple.com/join/uI4K65op
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/3c/10/e03c104b-2dd1-41cd-9179-6798bc06681c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:43:10.106Z
+Categories:
+
+
