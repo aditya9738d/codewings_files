@@ -5263,3 +5263,120 @@ Last Checked: 2024-06-09T06:25:20.895Z
 Categories:
 
 
+Name: GoodGain - Campeonatos Online
+Url: https://testflight.apple.com/join/DH5AVXQ0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/65/00/8565007e-afd3-94f1-ff16-b54e7067f265/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.354Z
+Categories:
+
+
+Name: Sunrider Demo
+Url: https://testflight.apple.com/join/antJitui
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/99/e6/9a99e6cd-702a-bc9e-1e0b-ea6c0ac9dd11/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.389Z
+Categories:
+
+
+Name: Pitel Connect
+Url: https://testflight.apple.com/join/0iU7OKQX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/64/f6/cf64f660-646c-2fce-21cc-2b4fc8c5e7da/prodAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.425Z
+Categories:
+
+
+Name: xDrip Bubble
+Url: https://testflight.apple.com/join/SsUhF4ub
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/e9/ed/e1e9edfb-4674-99b7-6cd4-ea5fd2ca2357/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.461Z
+Categories:
+
+
+Name: Grafana OnCall
+Url: https://testflight.apple.com/join/mGMAjYml
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/9f/0b/f69f0b22-9094-e0a6-eb49-cfe8319d6495/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.496Z
+Categories:
+
+
+Name: amblelog
+Url: https://testflight.apple.com/join/QNFW8iVT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/68/62/6a/68626a0a-891e-2627-23cc-bfbe935b21a5/AppIcon-1x_U007emarketing-0-7-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.532Z
+Categories:
+
+
+Name: Pouchii
+Url: https://testflight.apple.com/join/66oJM3yD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/11/5e/10115efd-83fa-5747-0c63-fbcdd83f3aad/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.568Z
+Categories:
+
+
+Name: Solar Wallet
+Url: https://testflight.apple.com/join/bwSpe2P9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d9/24/96/d9249676-6b06-4915-b65c-6e5f03697017/ApplicationIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.603Z
+Categories:
+
+
+Name: CC App
+Url: https://testflight.apple.com/join/Ap7kRs7W
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/10/04/a7/1004a702-7f64-d3e0-1458-211734723518/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.639Z
+Categories:
+
+
+Name: VinHMS Staff
+Url: https://testflight.apple.com/join/VPHTX6OH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/3e/22/693e2252-31df-b1ea-9c7a-ce76bd6f97c7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.674Z
+Categories:
+
+
+Name: Fyreplace
+Url: https://testflight.apple.com/join/uWP3m9q7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/16/55/2b16557c-5112-ff9c-1e7b-b5344b1ce9bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.710Z
+Categories:
+
+
+Name: Trustee Plus | Wallet & Card
+Url: https://testflight.apple.com/join/VMvbSSX3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/22/5f/ca225fbf-4f89-e961-7a60-51dba2bd5d42/AppIcon-1x_U007emarketing-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:26:13.746Z
+Categories:
+
+
+Name: 4STREAM
+Url: https://testflight.apple.com/join/uIk56ID1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/e0/c7/9be0c73a-9d57-5ed0-9c31-9c767898da49/AllStream-AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T06:26:13.782Z
+Categories:
+
+
