@@ -22968,3 +22968,120 @@ Last Checked: 2024-06-09T15:31:10.174Z
 Categories:
 
 
+Name: Prowork
+Url: https://testflight.apple.com/join/x0ZYdEfu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/ea/dd/c8eaddfb-1419-e676-6bbf-d3d89f6096ce/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.673Z
+Categories:
+
+
+Name: Newsfreak Demo
+Url: https://testflight.apple.com/join/mFGxNnRM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/7c/c8/067cc882-2dd5-5c41-e3e7-fb5900359cad/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.700Z
+Categories:
+
+
+Name: Filwallet
+Url: https://testflight.apple.com/join/wG5UVUbI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/75/95/8575958b-7f23-4d50-b75b-4085dd8e299e/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.728Z
+Categories:
+
+
+Name: Tailor - A.I. for news
+Url: https://testflight.apple.com/join/jlQPI7I8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/b2/6f/d7b26f32-6953-1585-965d-a86c442f7a03/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.754Z
+Categories:
+
+
+Name: AutoTempest - Car Search
+Url: https://testflight.apple.com/join/TkiavMax
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/d9/ec/abd9ece0-32a1-65a6-14cf-ccae74ab9cb3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.782Z
+Categories:
+
+
+Name: a-Shell mini
+Url: https://testflight.apple.com/join/REdHww5C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/68/5b/74/685b7479-0933-aef4-8002-8a8285fc8c3b/AppIcon-mini-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.810Z
+Categories:
+
+
+Name: KareKimlik-PiLoT
+Url: https://testflight.apple.com/join/nLFmTF3Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ed/42/74/ed4274ab-ea64-1f3d-81f6-d2230f2c1bab/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.837Z
+Categories:
+
+
+Name: ETHOS.PLUS
+Url: https://testflight.apple.com/join/O8aJHZhE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/70/ba/3f/70ba3fcf-4353-d807-13b1-3fcd28798cf9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.865Z
+Categories:
+
+
+Name: Movavi: Photo & Video Editor
+Url: https://testflight.apple.com/join/Fbqgk7Fv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/5b/49/825b49a6-a950-3348-17ea-58fc75d5bc5f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.893Z
+Categories:
+
+
+Name: HondaTouch
+Url: https://testflight.apple.com/join/SlTAvT7i
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/25/4b/37254bf9-2837-77d4-19da-16c31ebc3224/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.920Z
+Categories:
+
+
+Name: JSTCC
+Url: https://testflight.apple.com/join/wHWkBbHw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/9b/b3/3a9bb342-0aa8-9530-e94f-872a183924d1/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.947Z
+Categories:
+
+
+Name: phizlive
+Url: https://testflight.apple.com/join/uBmt7vKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/98/e1/8e98e16e-4ae9-4900-f670-e0bbd9960572/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T15:32:12.974Z
+Categories:
+
+
+Name: AdGuard  — adblock&privacy
+Url: https://testflight.apple.com/join/PMfu4nmW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/dc/4b/eedc4b4e-4c5f-cb70-5d72-e8737d751c6c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T15:32:13.001Z
+Categories:
+
+
