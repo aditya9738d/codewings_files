@@ -23787,3 +23787,120 @@ Last Checked: 2024-06-09T15:38:12.303Z
 Categories:
 
 
+Name: Deezer: Music Player, Podcast
+Url: https://testflight.apple.com/join/e7mCOEeg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/a9/93/8ea9931a-2dab-0330-2333-446bb8d40f16/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.449Z
+Categories:
+
+
+Name: DTPocketFM
+Url: https://testflight.apple.com/join/1FP0EBMN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/37/c6/46/37c6469f-e1ca-0dd3-8337-20b0f4aef0c8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.478Z
+Categories:
+
+
+Name: Nick Pinwheel
+Url: https://testflight.apple.com/join/JX4td6PX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/4d/88/814d887f-07bd-5220-abf5-f47784e5daf2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.506Z
+Categories:
+
+
+Name: InfiniTime - Widget Reminders
+Url: https://testflight.apple.com/join/VYgsR7d8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/6f/7f/a46f7fef-39b5-99c4-830b-1c16fb5c0546/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.535Z
+Categories:
+
+
+Name: DFM - Dubai Financial Market
+Url: https://testflight.apple.com/join/aCoL0El2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/64/cf/ec64cfbf-57cc-56f9-a4ad-5dde53fc31b7/AppIcon-NEW-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.564Z
+Categories:
+
+
+Name: Sitefotos
+Url: https://testflight.apple.com/join/mUfUXNwb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/fe/d2/bffed239-7819-bcb8-128a-4dc24cfc6caa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.592Z
+Categories:
+
+
+Name: Shopify - Your Ecommerce Store
+Url: https://testflight.apple.com/join/XuMIYekt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f1/c0/89/f1c08902-7b92-bec5-169c-c781d7781963/AppIcon-com.jadedpixel.shopify-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.621Z
+Categories:
+
+
+Name: Mamalift-UAT New
+Url: https://testflight.apple.com/join/bqvRMoKO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ff/39/ecff3905-a3e3-4d37-437b-96495715da41/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.649Z
+Categories:
+
+
+Name: CryptoGeeks
+Url: https://testflight.apple.com/join/6K1acH32
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/4e/fe/594efe65-6925-57aa-cda8-d4580c7f9f13/AppIcon-0-0-1x_U007ephone-0-0-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.678Z
+Categories:
+
+
+Name: Queens of Fortune
+Url: https://testflight.apple.com/join/5Fsv22M5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/a7/7a/cea77a09-6da6-519d-39c6-657bee902b57/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.707Z
+Categories:
+
+
+Name: RISYR
+Url: https://testflight.apple.com/join/JFO5eJ07
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/6d/e6/836de68c-f028-c121-8949-9c554be8edcf/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.735Z
+Categories:
+
+
+Name: Lampa MX
+Url: https://testflight.apple.com/join/4xqg1q15
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/b6/47/95b64781-8def-1433-87bc-9873fa7d3b44/App_Icon_-_Small-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.763Z
+Categories:
+
+
+Name: Brick-Tracker
+Url: https://testflight.apple.com/join/OkRFIGEq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/63/59/39635918-72d4-89ec-be11-ee4bffc30e21/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:39:09.791Z
+Categories:
+
+
