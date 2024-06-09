@@ -1168,3 +1168,120 @@ Last Checked: 2024-06-09T04:55:21.082Z
 Categories:
 
 
+Name: On Pro
+Url: https://testflight.apple.com/join/HVyKinMd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/40/5f/e3405f9c-e17e-213a-e6ea-082e7a16e279/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T04:56:10.506Z
+Categories:
+
+
+Name: Obzervr Capture
+Url: https://testflight.apple.com/join/75kkKXrm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/78/de/3f78de6b-c623-7c8f-cf17-a4a2404e1eef/AppIcons-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T04:56:10.535Z
+Categories:
+
+
+Name: VideoJet
+Url: https://testflight.apple.com/join/K6Ikagh8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/41/ab/1c41ab73-b72f-e83a-4e21-4516b9e70738/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T04:56:10.563Z
+Categories:
+
+
+Name: Mooncake
+Url: https://testflight.apple.com/join/kJrjwmGr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/c8/9f/fec89f00-17c2-eba4-208c-ca3795e1ff2c/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T04:56:10.592Z
+Categories:
+
+
+Name: Sygic GPS Navigation & Maps
+Url: https://testflight.apple.com/join/nCaOJH8P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/a1/d4/5aa1d492-1d1d-1921-b23b-6de23cfdc6e1/AllRegion-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T04:56:10.621Z
+Categories:
+
+
+Name: KA Power Boss
+Url: https://testflight.apple.com/join/WRXz6hFA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/1a/f4/2e1af41e-65bd-b172-355d-3a50fc309ec9/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T04:56:10.649Z
+Categories:
+
+
+Name: Demo 3 - enCappture
+Url: https://testflight.apple.com/join/8V7poWDO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/b1/35/9cb135ad-9345-6a63-dc7d-c14d50e52b6d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T04:56:10.678Z
+Categories:
+
+
+Name: InfoWear
+Url: https://testflight.apple.com/join/n0uOZqYR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/fc/ee/e5fcee04-6b9c-714a-5b21-a977fa32fc1b/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-09T04:56:10.706Z
+Categories:
+
+
+Name: Jainam Space
+Url: https://testflight.apple.com/join/9P6KyOdE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/0e/55/730e5554-1883-5561-e5c0-44b80dde6815/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T04:56:10.734Z
+Categories:
+
+
+Name: Melpot
+Url: https://testflight.apple.com/join/K4x3PKQN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/3e/90/cb3e90c4-4465-8471-7c2d-1391c5f2c09d/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T04:56:10.763Z
+Categories:
+
+
+Name: MamaMia Hemma
+Url: https://testflight.apple.com/join/pRhpmdv8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/71/9a/de719af1-81ed-9fe7-b68a-015bace8afa4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T04:56:10.791Z
+Categories:
+
+
+Name: QuettaScan
+Url: https://testflight.apple.com/join/qwPBKOq9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/76/0a/41760a4b-5499-b1d7-0ec5-8b6eea7c8481/AppIcon-1x_U007emarketing-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T04:56:10.820Z
+Categories:
+
+
+Name: AmneziaVPN
+Url: https://testflight.apple.com/join/cQ1ndT9p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b7/0c/27/b70c2749-af22-cb48-8983-289b51b23e14/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T04:56:10.848Z
+Categories:
+
+
