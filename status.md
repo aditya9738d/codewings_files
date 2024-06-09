@@ -10215,3 +10215,120 @@ Last Checked: 2024-06-09T13:30:48.125Z
 Categories:
 
 
+Name: safesteps-bostonu
+Url: https://testflight.apple.com/join/eE68sUfl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/bc/69/46bc6985-f052-2777-c9f8-fd8b08048dbf/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:31:08.766Z
+Categories:
+
+
+Name: JTL-Wawi
+Url: https://testflight.apple.com/join/2WKPiip5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/26/8c/9c268cfe-0ea1-3dd9-9dd5-5623038b8197/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:31:08.929Z
+Categories:
+
+
+Name: My Life: The Game
+Url: https://testflight.apple.com/join/a1uztACh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/9c/07/5e9c07fb-4343-4aac-da98-498a07ea5726/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:31:08.956Z
+Categories:
+
+
+Name: Simple Live
+Url: https://testflight.apple.com/join/2oZuwSHJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/22/5b/d3225bf3-4eca-d20a-404c-b3faa3556766/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-09T13:31:08.985Z
+Categories:
+
+
+Name: Lagrange Gemini Browser
+Url: https://testflight.apple.com/join/UjdtSEhu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ca/e7/84/cae7842e-cb04-3690-a99f-2acc68f35194/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:31:09.013Z
+Categories:
+
+
+Name: Bunpro Japanese SRS
+Url: https://testflight.apple.com/join/qWyvzy0e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/6b/45/0c6b455a-c960-ad4c-3310-d7100ce10e71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T13:31:09.041Z
+Categories:
+
+
+Name: feeeed: rss reader and more
+Url: https://testflight.apple.com/join/ixRrWfQL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/bd/b5/36bdb5a1-0ad3-8dd2-0838-f4705a6acebb/AppIcon-0-0-1x_U007emarketing-0-4-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:31:09.070Z
+Categories:
+
+
+Name: Thought Path
+Url: https://testflight.apple.com/join/mnhXOl91
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/4e/06/bc4e063e-491a-1def-b492-550c5efb8cc6/ThoughtCapture-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T13:31:09.098Z
+Categories:
+
+
+Name: WalterChat: Meet New Personas
+Url: https://testflight.apple.com/join/NjydjCrm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/44/25/66442540-28a6-fc65-6751-a89fa63422ef/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:31:09.126Z
+Categories:
+
+
+Name: Peercoin Wallet
+Url: https://testflight.apple.com/join/iilc4SvQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/d2/0b/a9d20b5c-6fd1-1cf0-10a9-37febff5ee08/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T13:31:09.156Z
+Categories:
+
+
+Name: Nemo App
+Url: https://testflight.apple.com/join/87mvDHEa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/fd/fd/e1fdfd2a-c59e-5d5a-7057-993f9db9c347/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:31:09.184Z
+Categories:
+
+
+Name: Spare
+Url: https://testflight.apple.com/join/TljIYgC7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/c7/85/2bc785cb-f33a-19e7-c7c5-49ccdf2d40ea/AppIconRelease-0-0-1x_U007epad-0-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:31:09.212Z
+Categories:
+
+
+Name: Chatwoot
+Url: https://testflight.apple.com/join/yQ4yoSx4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/4d/46/ac4d464a-527a-aa73-a645-bf80ab1f7b91/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-09T13:31:09.239Z
+Categories:
+
+
