@@ -7720,3 +7720,120 @@ Last Checked: 2024-06-09T17:29:09.656Z
 Categories:
 
 
+Name: QReate - QR code editor
+Url: https://testflight.apple.com/join/B5D8pm9C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/7e/5d/7f7e5d5b-8fd1-21a9-e35e-f7d91e408424/AppIcon-85-220-0-4-0-0-2x-P3-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:31:10.455Z
+Categories:
+
+
+Name: Connectix VPN
+Url: https://testflight.apple.com/join/ATDvld9Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/66/cc/f0/66ccf0c1-7145-8609-ed8e-4c4b40dd2df1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T17:31:10.490Z
+Categories:
+
+
+Name: BBX UAT
+Url: https://testflight.apple.com/join/GiI5AG4r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/8a/d2/c78ad2d8-edee-e788-173c-52431de66818/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:31:10.525Z
+Categories:
+
+
+Name: Campfire - Cozy AI Villagers
+Url: https://testflight.apple.com/join/6Tzr0UYy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/a6/48/99a648b2-2c1c-4acf-e064-de93d09b5339/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:31:10.561Z
+Categories:
+
+
+Name: EasyChem: химия просто
+Url: https://testflight.apple.com/join/tcl2Hz3C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/62/48/556248f2-9c7e-4050-d6d2-99fb559bf225/AppIcon-Fresh-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T17:31:10.596Z
+Categories:
+
+
+Name: APTV-Mac
+Url: https://testflight.apple.com/join/QN934ULR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/14/dd/ad14ddfa-897d-a85f-7690-a8bbfe7f583d/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T17:31:10.633Z
+Categories:
+
+
+Name: Speedometer GPS And Compass
+Url: https://testflight.apple.com/join/y2nXKYRu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/f7/92/60f792d4-50c9-deac-5ab6-c508f7695d0a/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:31:10.668Z
+Categories:
+
+
+Name: Bondee
+Url: https://testflight.apple.com/join/NoSsyQFv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/7b/62/717b624e-673e-f751-8958-1392035f1010/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:31:10.703Z
+Categories:
+
+
+Name: Moreno Valley Inspector App
+Url: https://testflight.apple.com/join/Z0lTbApM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/b0/b5/94b0b57d-ee27-dc1d-b84d-6d69bbb12ac3/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T17:31:10.739Z
+Categories:
+
+
+Name: Quote Me Happy
+Url: https://testflight.apple.com/join/fK1FJYmG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/c2/28/f4c22836-d6a5-6646-c99e-20c5a56c7ce9/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:31:10.776Z
+Categories:
+
+
+Name: Widgets 212
+Url: https://testflight.apple.com/join/xu9Qi15z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/7e/29/957e29d2-a543-4741-6bf8-5f63ba1ef3b2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-09T17:31:10.812Z
+Categories:
+
+
+Name: Record Workout
+Url: https://testflight.apple.com/join/GFvd3tM1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/58/b5/ad58b502-b26d-e3c3-be2b-1bcaaa9a0c6f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:31:10.849Z
+Categories:
+
+
+Name: Towner
+Url: https://testflight.apple.com/join/CZUkvDbh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/14/3c/f7143cf5-15e4-0a7d-981b-2ca856ccdb8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:31:10.887Z
+Categories:
+
+
