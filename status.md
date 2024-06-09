@@ -10762,3 +10762,120 @@ Last Checked: 2024-06-09T17:56:14.134Z
 Categories:
 
 
+Name: TEPRA Lite+
+Url: https://testflight.apple.com/join/v0x9PWyG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/8b/25/e98b2524-0bc8-b532-297d-48af202e8ca4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:57:09.672Z
+Categories:
+
+
+Name: FreeChat
+Url: https://testflight.apple.com/join/0l9vfBxX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/38/d6/8f38d6e4-d09c-7663-5e46-8c59e2711afe/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T17:57:09.701Z
+Categories:
+
+
+Name: Ekhon Charge
+Url: https://testflight.apple.com/join/P6eRb7AQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/f0/50/68f05099-20a9-91a5-e984-322fb835e905/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:57:09.729Z
+Categories:
+
+
+Name: SAGA Plus
+Url: https://testflight.apple.com/join/omiTVLEZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/55/13/bf55138e-05fd-fb34-459c-5069336e688c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:57:09.759Z
+Categories:
+
+
+Name: BSO E-Account
+Url: https://testflight.apple.com/join/d5GG9TFx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f0/08/07f008dd-724b-4ece-81a9-01f4eeffd650/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:57:09.787Z
+Categories:
+
+
+Name: AutoresetApp
+Url: https://testflight.apple.com/join/nuvbfzot
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/86/98/3d/86983d79-7304-6ea4-e22d-0eca53e263f5/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:57:09.815Z
+Categories:
+
+
+Name: SoCatch
+Url: https://testflight.apple.com/join/vRHeAY5a
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/16/02/d416027b-75c4-2bcd-286e-775dea3f9bea/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T17:57:09.844Z
+Categories:
+
+
+Name: Aerofly FS Global
+Url: https://testflight.apple.com/join/O2K1t3YG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/85/18/4d8518c6-a703-b2c6-85da-419d17d47357/AppIconiOS-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T17:57:09.871Z
+Categories:
+
+
+Name: Autooth
+Url: https://testflight.apple.com/join/da8mRQpG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/24/54/372454c1-5084-e3f4-5465-2b6f7d489436/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:57:09.899Z
+Categories:
+
+
+Name: Keeper for Safari
+Url: https://testflight.apple.com/join/OlJmNYgR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/ee/86/f3ee8677-9e5a-09a1-4258-1b057e843a7f/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:57:09.928Z
+Categories:
+
+
+Name: Jollibee Vietnam
+Url: https://testflight.apple.com/join/1UIcKV1S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/74/b7/f9/74b7f9b6-d47f-ab69-b314-d2fc6a7eb7e3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T17:57:09.957Z
+Categories:
+
+
+Name: Isoping
+Url: https://testflight.apple.com/join/uuAp0qkj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/07/cd/a907cd6c-340d-39bb-c7f6-1f52c4509024/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:57:09.984Z
+Categories:
+
+
+Name: FPT.AI eKYC
+Url: https://testflight.apple.com/join/k76YlAcP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/ee/87/8dee87d4-414a-c75f-c32f-ef8d44a5555b/AppIcon-0-0-1x_U007epad-0-5-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:57:10.013Z
+Categories:
+
+
