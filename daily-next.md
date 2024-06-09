@@ -1,3 +1,5 @@
+- **魔塔之传说**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/b3/7e/0eb37e41-506a-c5f8-5b2e-e70b43e46890/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WJt74TB3)
+
 - **BlockDAG X1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/7f/e0/c67fe00b-904b-288e-e3c5-3bdb59303411/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UklNDHnE)
 
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/43/4a/7f434a97-c61d-d46d-9ac2-0df3050e6c3d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
@@ -46,5 +48,3 @@
 - **hdrpano 3D**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/90/17/5b9017f0-c2d8-79c7-c779-5c5541738946/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mAvRbBTz)
 - **Training plans by Run Roster**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/07/c9/5907c9e9-4ed3-79af-8129-f232f7ae9b8a/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RypszNGx)
 - **Work Lunch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/b1/f5/50b1f563-059f-b85b-7ba0-24e4d6f059be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AnTxOl6P)
-- **Payconiq by Bancontact**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/6f/a6/da6fa63e-dd41-68d5-9b94-88fc8f20a1d9/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Mpza7scj)
-- **Delta Digital**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/8b/37/8e8b37c0-c516-f804-9f61-80fb179bb462/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AQ87Xg1x)
