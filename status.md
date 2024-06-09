@@ -2123,3 +2123,123 @@ Last Checked: 2024-06-09T12:16:12.690Z
 Categories:
 
 
+Name: Messenger
+Url: https://testflight.apple.com/join/njVWbUm0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/0b/ca/090bca5b-e8c4-473c-5bad-5b36347d363c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 103
+Beta Available: open
+Last Checked: 2024-06-09T12:17:08.636Z
+Categories:
+- Chat
+
+Name: CapCut - Video Editor
+Url: https://testflight.apple.com/join/F35EKwCs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/36/60/ce3660de-67fb-75f6-4f0a-96b6fd9f5fac/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 66
+Beta Available: full
+Last Checked: 2024-06-09T12:17:08.672Z
+Categories:
+- Utility
+- Video
+
+Name: TikTok
+Url: https://testflight.apple.com/join/pLmKZJKw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/1a/47/491a47e2-e0c9-87d8-f232-bb80289da6b7/AppIcon_TestFlight-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 219
+Beta Available: full
+Last Checked: 2024-06-09T12:17:08.708Z
+Categories:
+- Entertainment
+- Social Networking
+- Video
+
+Name: 1Blocker - Ad Blocker
+Url: https://testflight.apple.com/join/KjmVWFnT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/4d/aa/1e4daa09-f4db-ec2a-5010-4f997e72d455/AppIcon-TestFlight-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-09T12:17:08.744Z
+Categories:
+
+
+Name: ListenNow Air
+Url: https://testflight.apple.com/join/WFQmpxgp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/92/10/f59210ba-fa0d-8d57-ed36-f5a7dc4aae3d/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 117
+Beta Available: full
+Last Checked: 2024-06-09T12:17:08.780Z
+Categories:
+- Music
+
+Name: Pencil Paper Notebook: Penbook
+Url: https://testflight.apple.com/join/km3LkqB1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b0/1b/97b01b41-3e4f-7c06-9259-5f2674df3aa0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: full
+Last Checked: 2024-06-09T12:17:08.816Z
+Categories:
+
+
+Name: Spotify - Music and Podcasts
+Url: https://testflight.apple.com/join/1SyedSId
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/bb/72/80bb723e-1cbe-80e1-b75a-1dfb30719ea8/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 72
+Beta Available: full
+Last Checked: 2024-06-09T12:17:08.852Z
+Categories:
+- Music
+
+Name: Stick War
+Url: https://testflight.apple.com/join/eUx3WxVj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/5a/10/dc5a10c6-636a-73dc-7fe0-83dc294de362/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 10
+Beta Available: full
+Last Checked: 2024-06-09T12:17:08.889Z
+Categories:
+
+
+Name: Envision AI
+Url: https://testflight.apple.com/join/QzPGfNeH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/63/69/a6636935-1b28-be41-24a3-9f49663ac684/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 22
+Beta Available: full
+Last Checked: 2024-06-09T12:17:08.925Z
+Categories:
+- Ai
+
+Name: Xbox Game Pass
+Url: https://testflight.apple.com/join/wytcNylk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/5f/6f/885f6fa1-c973-a862-e52c-c2689ec39615/AppIconBeta-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 145
+Beta Available: full
+Last Checked: 2024-06-09T12:17:08.961Z
+Categories:
+- Games
+
+Name: Solar Eclipse 2024 Mobile
+Url: https://testflight.apple.com/join/eCrIcC6x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/8c/6d/d08c6dbb-e1d6-3086-5e54-e45c6329028c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T12:17:08.997Z
+Categories:
+
+
+Name: Google Chrome
+Url: https://testflight.apple.com/join/LPQmtkUs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/e1/61/59e16152-31e8-f685-1a94-ee1a69fbf4d0/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 191
+Beta Available: open
+Last Checked: 2024-06-09T12:17:09.033Z
+Categories:
+- Browser
+
+Name: winston for Reddit
+Url: https://testflight.apple.com/join/3UF8bAUN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/26/72/272672c7-0c9f-13aa-e0a5-117d305d18f4/iconStandard-0-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 6
+Beta Available: full
+Last Checked: 2024-06-09T12:17:09.069Z
+Categories:
+
+
