@@ -7837,3 +7837,120 @@ Last Checked: 2024-06-09T07:19:09.290Z
 Categories:
 
 
+Name: Kinima Seniors
+Url: https://testflight.apple.com/join/jxbhSrBh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5c/4e/a4/5c4ea4d1-a18a-e0b1-4f6d-6895a17b3760/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:28:07.755Z
+Categories:
+
+
+Name: DGB CAM
+Url: https://testflight.apple.com/join/qa68Mq5o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/7e/e4/8a7ee4d4-d7a8-6d74-3e35-cc4a580409de/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T07:28:07.783Z
+Categories:
+
+
+Name: Untis Mobile
+Url: https://testflight.apple.com/join/yg48UjK9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/e9/ae/07e9ae76-8d8c-bb4c-79e0-a038d1f399e2/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:28:07.811Z
+Categories:
+
+
+Name: JPX68
+Url: https://testflight.apple.com/join/afauo4mE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/9c/93/e09c934e-cc7f-00a7-9b44-b24cb765a8af/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:28:07.839Z
+Categories:
+
+
+Name: WiDAR Demo
+Url: https://testflight.apple.com/join/KpxQ5kw9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/66/8b/97668bad-f1e1-1459-3e6b-71e914ba78ec/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:28:07.868Z
+Categories:
+
+
+Name: Drag To Speak
+Url: https://testflight.apple.com/join/vtF6OUoo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/ff/c1/bfffc133-8924-ec30-9776-e4505afd10f7/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:28:07.899Z
+Categories:
+
+
+Name: VinylViz
+Url: https://testflight.apple.com/join/PGYXxQIK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/f0/14/b2f0145d-05af-d845-f8d3-ba89aff5e4dd/AppIcon.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:28:07.927Z
+Categories:
+
+
+Name: ATest Mobile
+Url: https://testflight.apple.com/join/HDommVPY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/ab/73/27ab73c3-5248-cf76-4d97-b1ca3fef1aac/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:28:07.955Z
+Categories:
+
+
+Name: WalletAppV2
+Url: https://testflight.apple.com/join/09bTAryp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/57/f2/8257f25a-c70f-6dd7-39d5-bb5c563f1b26/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-09T07:28:07.983Z
+Categories:
+
+
+Name: Yacht Cabin: Shared boat trips
+Url: https://testflight.apple.com/join/XL0bBfHe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/07/46/0b0746fb-54d2-4306-5b9c-5f76d9161a33/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:28:08.011Z
+Categories:
+
+
+Name: Tata Neu - Shop, Travel, Pay
+Url: https://testflight.apple.com/join/nxwnETuo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/72/25/cb722533-e20a-d8f9-2908-efe2c5767714/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:28:08.040Z
+Categories:
+
+
+Name: CardioBot: Heart Rate Monitor
+Url: https://testflight.apple.com/join/H82FVVt6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/cb/76/7fcb763f-309a-e362-4169-bf5d1c39fbc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T07:28:08.069Z
+Categories:
+
+
+Name: TickTick:To-Do List & Calendar
+Url: https://testflight.apple.com/join/tY60du3s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/ac/62/2aac62b9-e462-d846-9b6b-8ff04eff036e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T07:28:08.097Z
+Categories:
+
+
