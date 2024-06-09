@@ -7720,3 +7720,120 @@ Last Checked: 2024-06-09T07:17:11.417Z
 Categories:
 
 
+Name: EasyVFR 4
+Url: https://testflight.apple.com/join/Zxbi0Hof
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/1b/21/0e1b2178-f5fc-764a-e5d9-9eefe63c5e1d/Brand_Assets-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T07:19:08.954Z
+Categories:
+
+
+Name: SoProp UAT
+Url: https://testflight.apple.com/join/VbnXX6cD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/df/00/9fdf00d3-76d5-3610-5123-d5e73ece1916/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:19:08.981Z
+Categories:
+
+
+Name: idealo - Price Comparison
+Url: https://testflight.apple.com/join/P8TWxiFT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/b4/0d/cab40d37-2d78-bcac-5903-613400ffbea5/AppIcon-0-0-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:19:09.010Z
+Categories:
+
+
+Name: Home Health Check
+Url: https://testflight.apple.com/join/nfKbmd7J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/34/8d/ce348d1f-0e1a-c4cb-c690-4f33e3d71b02/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:19:09.038Z
+Categories:
+
+
+Name: HikLink
+Url: https://testflight.apple.com/join/k3DLVKFM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/3e/62/bf3e6252-537b-0e23-faed-8df6730fafc3/AppIcon-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T07:19:09.066Z
+Categories:
+
+
+Name: B&D  Bakery&Delicacies
+Url: https://testflight.apple.com/join/fgonb2eQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2d/09/5b/2d095b43-8069-25ec-9edf-422cf19a3b5c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:19:09.095Z
+Categories:
+
+
+Name: WM MP-Buch
+Url: https://testflight.apple.com/join/08MzJMt2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/55/a0/b2/55a0b2ee-37f3-182f-4724-fb60a8582a33/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:19:09.123Z
+Categories:
+
+
+Name: Pokebattler Raid Party
+Url: https://testflight.apple.com/join/jBxZkXqA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/57/17/e2571737-6edd-c3b3-a10f-2d16672bcb14/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:19:09.151Z
+Categories:
+
+
+Name: atome PH-Staging
+Url: https://testflight.apple.com/join/pitNHnF3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/37/5b/85375bc3-5913-8016-7053-cfb9b698ba14/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:19:09.179Z
+Categories:
+
+
+Name: Cell to Singularity: Evolution
+Url: https://testflight.apple.com/join/RD9jGH9S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/68/9e/bb689e66-116c-0b2d-2c8b-de2c7f0dbb19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:19:09.207Z
+Categories:
+
+
+Name: CellarTracker: Wine Tracking
+Url: https://testflight.apple.com/join/TiV6SrKG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/7d/3b/467d3bb1-1f48-8339-6e3d-9e4598bbf796/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:19:09.234Z
+Categories:
+
+
+Name: Moment87
+Url: https://testflight.apple.com/join/EU8XcEOE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/dc/87/f1dc87f7-9298-8460-abf6-cc9f7c45260d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:19:09.263Z
+Categories:
+
+
+Name: Yoosee
+Url: https://testflight.apple.com/join/AHQYkxRO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/8d/67/518d6704-a42a-0168-d589-b4a1e4e1f7d4/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T07:19:09.290Z
+Categories:
+
+
