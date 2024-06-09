@@ -5965,3 +5965,120 @@ Last Checked: 2024-06-09T06:31:11.253Z
 Categories:
 
 
+Name: DNE Ecosystem
+Url: https://testflight.apple.com/join/noFcnPvI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d5/df/00d5dfbd-cb81-be56-194e-426c375763b1/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:36:08.044Z
+Categories:
+
+
+Name: Fuel. Calorie Counter
+Url: https://testflight.apple.com/join/IQzpJKqh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/eb/c1/63ebc199-f0b5-7721-ea0c-eabcb3310d4d/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:36:08.080Z
+Categories:
+
+
+Name: Dangcindog
+Url: https://testflight.apple.com/join/hKHGpfgw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/b6/20/36b6202e-29d3-b255-866e-1e5141c9166d/AppIcon-0-1x_U007ephone-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T06:36:08.116Z
+Categories:
+
+
+Name: BankingZV
+Url: https://testflight.apple.com/join/x5sOCqY1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/44/d8/5b/44d85b30-d0af-b159-04c8-3cc91d011e2f/AppIcon-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T06:36:08.152Z
+Categories:
+
+
+Name: Govee Tool
+Url: https://testflight.apple.com/join/ZiUofZJw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/b8/65/c5b865f7-c811-78ad-d72b-962e89820663/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:36:08.188Z
+Categories:
+
+
+Name: Matchful
+Url: https://testflight.apple.com/join/MRqGblKF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/5c/f3/c45cf314-ae34-e043-6abe-cb5f65467444/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:36:08.224Z
+Categories:
+
+
+Name: MathGPTPro
+Url: https://testflight.apple.com/join/Q4ISuSqQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/21/bc/1c21bc5b-1fec-42cc-cca6-c06740a6e826/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-09T06:36:08.261Z
+Categories:
+
+
+Name: My WEY-The Wey. A Way Forward.
+Url: https://testflight.apple.com/join/GAJvHmek
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/11/fb/b211fb48-7d0f-4cb8-c1a3-11b797e5f177/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:36:08.297Z
+Categories:
+
+
+Name: Television Time
+Url: https://testflight.apple.com/join/eP0BTwVi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/3b/65/483b654e-a637-07aa-75ab-f7e236de00ff/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:36:08.333Z
+Categories:
+
+
+Name: Personary/PLR 2021
+Url: https://testflight.apple.com/join/PxpiebQA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/32/2b/56322ba6-4c5e-a977-cb22-cb0d1c02aec6/AppIcon-personary-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:36:08.370Z
+Categories:
+
+
+Name: iFlame PRO
+Url: https://testflight.apple.com/join/1cQr8PE7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/2a/7c/a32a7c01-75d3-5d4b-8d4d-53308d7ca7cf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T06:36:08.406Z
+Categories:
+
+
+Name: SlayTheWak2
+Url: https://testflight.apple.com/join/eYTVgwHj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/04/a8/da04a82e-674b-e731-81eb-906c3728e059/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T06:36:08.443Z
+Categories:
+
+
+Name: Inventory - Asset Management
+Url: https://testflight.apple.com/join/aXKHypal
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a1/d4/ca/a1d4ca36-1a84-b1e1-2c2f-9909330f90f0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:36:08.479Z
+Categories:
+
+
