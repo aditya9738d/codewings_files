@@ -10081,3 +10081,120 @@ Last Checked: 2024-06-09T22:23:10.176Z
 Categories:
 
 
+Name: Personal AI
+Url: https://testflight.apple.com/join/R53wIn4X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/8f/e1/008fe11c-e386-387b-181d-21fe75fea457/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:24:11.996Z
+Categories:
+
+
+Name: Showcase - Track Movies/Shows
+Url: https://testflight.apple.com/join/7ajqVnNd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/85/02/9e8502ce-355c-693f-9a06-209992dd7b55/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:24:12.031Z
+Categories:
+
+
+Name: MY HAVAL
+Url: https://testflight.apple.com/join/759vMV0p
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/cf/c3/00cfc3d2-68dc-aa63-2e98-2f915766e85d/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T22:24:12.067Z
+Categories:
+
+
+Name: Wyze - Make Your Home Smarter
+Url: https://testflight.apple.com/join/4QnbPoKn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/30/8a/b3308a06-9750-e247-70d5-f9dbd68d370c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:24:12.103Z
+Categories:
+
+
+Name: WPT Global: Play Poker Online
+Url: https://testflight.apple.com/join/E8MUn83b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/1e/95/5d1e953c-534f-d923-391b-4e47cb18cb4d/wptg-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:24:12.139Z
+Categories:
+
+
+Name: Phum Teacher Portal
+Url: https://testflight.apple.com/join/BU9cN0lH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/ad/c9/65adc9f6-6a1f-ce43-7766-85bc71377d90/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:24:12.175Z
+Categories:
+
+
+Name: BS Magic tricks
+Url: https://testflight.apple.com/join/lSfg23eV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/df/2b/80/df2b8051-894b-77fb-8abc-83e5d28594db/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:24:12.211Z
+Categories:
+
+
+Name: MWA WLMA Pro
+Url: https://testflight.apple.com/join/2WEx6Kwv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5f/f8/46/5ff84642-c34d-f99d-805d-057f1f69da21/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:24:12.247Z
+Categories:
+
+
+Name: Go Program Way2Go Card
+Url: https://testflight.apple.com/join/saUtmWFv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/c6/ae/34c6ae12-198e-fd9d-af25-8a5a690b2ade/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-09T22:24:12.282Z
+Categories:
+
+
+Name: FlightAware Flight Tracker
+Url: https://testflight.apple.com/join/YDNhKtAe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/4e/5c/ca4e5c75-c2e4-788d-3527-de9d0c2c83b2/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:24:12.318Z
+Categories:
+
+
+Name: Diabetes Cockpit
+Url: https://testflight.apple.com/join/y2VVZQ3Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/a1/f1/2ca1f1b8-307b-078d-d09d-9e0f20ffb65e/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:24:12.354Z
+Categories:
+
+
+Name: BBC Weather
+Url: https://testflight.apple.com/join/WLTdwbcK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/51/88/26/518826f1-6bb1-49ef-44cd-724034300273/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T22:24:12.391Z
+Categories:
+
+
+Name: Moon Portal: Frame, Widget, AI
+Url: https://testflight.apple.com/join/e5tVF4Q2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/e0/12/65e012be-9cb7-3b92-e7f8-6e830ac9dccc/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T22:24:12.426Z
+Categories:
+
+
