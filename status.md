@@ -1265,3 +1265,123 @@ Last Checked: 2024-06-09T21:05:15.665Z
 Categories:
 
 
+Name: Satsuma Wallet
+Url: https://testflight.apple.com/join/QfWYprVO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/b5/a1/94b5a18b-6373-fbbb-55e5-a26079d20f8b/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.374Z
+Categories:
+- Finance
+- Utility
+
+Name: Changelog Publisher
+Url: https://testflight.apple.com/join/4YdmtpbZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/89/8e/cc898e15-eecd-74e0-ec92-a3027240f874/AppIcon-0-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.403Z
+Categories:
+- Developer
+- Utility
+
+Name: push – workout counter
+Url: https://testflight.apple.com/join/pyNg1Nhc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/24/d6/2024d6e4-ac2d-3295-dce8-2e83eeee260f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.432Z
+Categories:
+- Fitness
+
+Name: BOG X
+Url: https://testflight.apple.com/join/r7gWXcHK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/3f/14/853f1479-2d53-793a-a8c9-3b6297406867/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 36
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.462Z
+Categories:
+
+
+Name: KI Competitor
+Url: https://testflight.apple.com/join/Bj4wQBC8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/f1/cb/a9f1cb85-3f12-232a-ed21-c41ffe053a66/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.491Z
+Categories:
+
+
+Name: 9HOLES - Golf Scorecard Editor
+Url: https://testflight.apple.com/join/huBwl3If
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/39/66/db39661b-e0f6-1279-5fc4-a3d7c429a8b7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T21:07:11.520Z
+Categories:
+- Games
+
+Name: ToneBarrier
+Url: https://testflight.apple.com/join/LqGKPwdG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/78/ef/7d78ef21-5134-af55-a8ad-c158b67c6090/ToneBarrierAppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 74
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.550Z
+Categories:
+- Music
+- Utility
+
+Name: Vultisig
+Url: https://testflight.apple.com/join/CHHICwnO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/72/9a/79729a24-0257-2e7e-0b05-85192360525a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.578Z
+Categories:
+
+
+Name: VibeStir
+Url: https://testflight.apple.com/join/JUr8BK4D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/70/c1/4f70c1af-e77e-ebac-729a-113bcaac3e40/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.607Z
+Categories:
+
+
+Name: Lazy Soccer
+Url: https://testflight.apple.com/join/4YpidcKp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/8f/5a/b68f5a85-d258-9795-8271-ea973523143a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.636Z
+Categories:
+
+
+Name: PCM Wallet
+Url: https://testflight.apple.com/join/H83L59j0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/ec/56/6dec561b-3c7b-4fc7-81ea-c68f392644f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.665Z
+Categories:
+
+
+Name: Chatter Social
+Url: https://testflight.apple.com/join/5OnpZ3vt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/33/19/90331937-5cf8-2631-cdc1-cf6d0f23df85/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.693Z
+Categories:
+
+
+Name: Satpile - BTC Balance Tracker
+Url: https://testflight.apple.com/join/t64ljQX9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/cb/e9/d9cbe9ee-bca9-f0c6-ad26-ea74c9df19ff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T21:07:11.723Z
+Categories:
+
+
