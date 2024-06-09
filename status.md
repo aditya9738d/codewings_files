@@ -18952,3 +18952,120 @@ Last Checked: 2024-06-09T10:29:09.423Z
 Categories:
 
 
+Name: NotePlan - Daily Notes
+Url: https://testflight.apple.com/join/fm9q4OjE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/c6/ce9ec6ad-25b8-57b6-6103-5e82662e4fbe/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:30:47.115Z
+Categories:
+
+
+Name: Notespaces - Chat Your Notes
+Url: https://testflight.apple.com/join/SehoTtiS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/59/2c/64/592c64b8-d403-de34-65cd-d3be4aec565e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:30:47.143Z
+Categories:
+
+
+Name: Notessimo
+Url: https://testflight.apple.com/join/e9rpQsKx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/96/b8/5d/96b85ddc-2863-b566-e19c-e2470a6146e3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:30:47.171Z
+Categories:
+
+
+Name: NovaPay: перекази та платежі
+Url: https://testflight.apple.com/join/Fz3Xt343
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f5/37/83/f537831b-a04d-fc1d-2448-dba4ccfd26e1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:30:47.198Z
+Categories:
+
+
+Name: NovaX
+Url: https://testflight.apple.com/join/S595MBpx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/cf/4e/47cf4e54-113c-10cc-c44d-4c91dce8014a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:30:47.226Z
+Categories:
+
+
+Name: Nozbe Personal
+Url: https://testflight.apple.com/join/UE4ho1Z0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a8/7e/7f/a87e7f62-38a7-a461-794b-cf835b6656ad/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:30:47.254Z
+Categories:
+
+
+Name: Nro Blue .
+Url: https://testflight.apple.com/join/qsnV2ifw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/ec/6b/87ec6bdc-edfe-9436-b23c-deb318478458/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T10:30:47.282Z
+Categories:
+
+
+Name: Nro Helios
+Url: https://testflight.apple.com/join/UQPXFpj0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/9b/ed/019bed39-03e1-6c4e-6b40-c8e7c446cf19/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-09T10:30:47.310Z
+Categories:
+
+
+Name: Nro O
+Url: https://testflight.apple.com/join/B4KxzFpu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/87/5f/a6/875fa635-165a-c97c-663a-81e2ed02764d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T10:30:47.337Z
+Categories:
+
+
+Name: Nro Saga.
+Url: https://testflight.apple.com/join/Rtlb7qQe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c8/4b/c5/c84bc5a4-fa85-8946-5965-58ddc1c7d2b9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:30:47.366Z
+Categories:
+
+
+Name: Nro9sao
+Url: https://testflight.apple.com/join/XP3pyfYc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/cf/11/76cf11fd-5941-b9ea-d916-797821341ef9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:30:47.394Z
+Categories:
+
+
+Name: NroMarvel_V1
+Url: https://testflight.apple.com/join/JY5fl9cf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fc/ed/0f/fced0f55-19d3-22a7-94b9-ae4d81476615/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:30:47.423Z
+Categories:
+
+
+Name: NsoAri
+Url: https://testflight.apple.com/join/125zMdVk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/28/6f/dc286f59-6f83-bd85-eed5-1cb2d9c9ee1c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:30:47.451Z
+Categories:
+
+
