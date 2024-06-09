@@ -19544,3 +19544,120 @@ Last Checked: 2024-06-09T01:42:10.753Z
 Categories:
 
 
+Name: Soli: Music Practice Journal
+Url: https://testflight.apple.com/join/zOKDvImR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/6a/69/1c6a692f-60a7-dfd0-b94a-ca24a4e95a14/AppIconColor-0-0-1x_U007ephone-0-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:09.941Z
+Categories:
+
+
+Name: Crew Relay Chat
+Url: https://testflight.apple.com/join/qdV6ViVi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/42/ae/03/42ae0364-8376-e2c0-be31-f5813eefd5ef/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:09.978Z
+Categories:
+
+
+Name: Terncy
+Url: https://testflight.apple.com/join/CE5vg472
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6f/ff/7e/6fff7e78-b826-ffa2-d22c-03053fe61b6d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:10.013Z
+Categories:
+
+
+Name: Unimed Cooperado
+Url: https://testflight.apple.com/join/e08yaqvH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/13/5b/5b135bed-48c2-0eaa-2959-fe162a63d855/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:10.049Z
+Categories:
+
+
+Name: Smartoffice VN
+Url: https://testflight.apple.com/join/lfztPro1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/86/cf/8586cfd2-0fbc-c803-680c-975507de771b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:10.085Z
+Categories:
+
+
+Name: MAZAICA Lines & Numbers Game
+Url: https://testflight.apple.com/join/SHQWmTRq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/2a/1a/ff2a1a22-06be-1e64-3591-98dd42567121/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:10.120Z
+Categories:
+
+
+Name: Kurita AR Pilot
+Url: https://testflight.apple.com/join/0HD4k52r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/78/40/537840c2-5228-cb48-2fbe-ab830b7388c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:10.155Z
+Categories:
+
+
+Name: Penedex
+Url: https://testflight.apple.com/join/iQxlIZAu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/26/48/15/264815db-9311-72dd-95c9-48e7cf5e2249/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:10.191Z
+Categories:
+
+
+Name: VTC QR Event
+Url: https://testflight.apple.com/join/H0MG2s2n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/f1/05/27f105d0-a2a9-6273-50ac-bb3166d5125f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:10.226Z
+Categories:
+
+
+Name: Proton Pass - Password Manager
+Url: https://testflight.apple.com/join/GiTMzX3I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/3a/e3/f53ae373-91e7-7bf8-4439-d3c752a4203c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:10.262Z
+Categories:
+
+
+Name: Walmart: Shopping & Savings
+Url: https://testflight.apple.com/join/hDDYNJ6Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/25/99/3a2599d7-137c-9c61-4458-b2080cdc1ecb/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:10.298Z
+Categories:
+
+
+Name: Ver
+Url: https://testflight.apple.com/join/7U76Onsb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/97/b7/fd/97b7fdf9-10c8-313c-6268-0f5139bb0f10/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T01:43:10.333Z
+Categories:
+
+
+Name: qplayer2demo
+Url: https://testflight.apple.com/join/YocXmZ2j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/4a/b8/484ab8ae-9f4e-eba5-fb9e-9643c338afcd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:43:10.369Z
+Categories:
+
+
