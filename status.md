@@ -12070,3 +12070,120 @@ Last Checked: 2024-06-09T22:40:24.659Z
 Categories:
 
 
+Name: Keenetic
+Url: https://testflight.apple.com/join/dZEvORpb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/9d/26/c59d264c-b9f9-b099-7368-c220b35cebe9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.402Z
+Categories:
+
+
+Name: Vision employees
+Url: https://testflight.apple.com/join/oCwQvo6u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/88/c5/3c88c5f1-942f-65c1-40db-7cfa0c9cbf78/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.439Z
+Categories:
+
+
+Name: My bpost - UAT
+Url: https://testflight.apple.com/join/HHXgX2nZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/ac/75/9eac758a-511d-9bfc-8522-3144d9af1391/AppIcon-UAT-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.475Z
+Categories:
+
+
+Name: Wisenet mobile
+Url: https://testflight.apple.com/join/jI7mowH7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/fc/af/dafcafaf-fd0c-9185-19d4-af95bb2e9e52/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.510Z
+Categories:
+
+
+Name: Greenside AI
+Url: https://testflight.apple.com/join/F59Kqq5f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/db/22/c9/db22c9de-011e-3fd6-e5f9-7e2bdce927e2/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.545Z
+Categories:
+
+
+Name: Suka Pass
+Url: https://testflight.apple.com/join/TAHEsrwi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/36/a8/e136a8d3-21d1-8999-a076-32dad285e6a5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.580Z
+Categories:
+
+
+Name: Cove - your money haven
+Url: https://testflight.apple.com/join/OyfX2FgU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/7c/0c/1e7c0c9e-70bf-6fa9-f49e-b47ffc0d5cdd/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.616Z
+Categories:
+
+
+Name: Mobile Banking - Preprod
+Url: https://testflight.apple.com/join/nBbLgYON
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/86/ae/e586ae14-6a53-613b-71b0-2a786491ec3d/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.653Z
+Categories:
+
+
+Name: Stanford Study App
+Url: https://testflight.apple.com/join/wlseiMRR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/5f/e8/735fe8df-5ac5-53e3-25bd-3bef6359c2eb/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.688Z
+Categories:
+
+
+Name: My GWM
+Url: https://testflight.apple.com/join/M6iKIo9e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/21/e0/d621e099-d903-9bb8-5226-b34ea9f1e07d/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.724Z
+Categories:
+
+
+Name: Stagecon
+Url: https://testflight.apple.com/join/JMuubh3f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c7/93/c8/c793c81d-bd0e-f808-ab10-ac63fb9699d5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.759Z
+Categories:
+
+
+Name: Brick Blaster Champions
+Url: https://testflight.apple.com/join/uJxLQpht
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/7d/76/a57d766a-5440-e0e3-7e71-6b6bb900001b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.795Z
+Categories:
+
+
+Name: Homza Cart
+Url: https://testflight.apple.com/join/nRfgxGaj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/a6/5d/83a65d63-3ca1-6f1f-f8b5-118f0610e344/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:41:09.831Z
+Categories:
+
+
