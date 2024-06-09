@@ -27180,3 +27180,120 @@ Last Checked: 2024-06-09T16:10:26.762Z
 Categories:
 
 
+Name: ScanDoc
+Url: https://testflight.apple.com/join/w5AukfoU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fb/0a/35/fb0a35c5-1f60-e204-77a4-a235ede54d59/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T16:11:10.110Z
+Categories:
+
+
+Name: Tokata Custom
+Url: https://testflight.apple.com/join/nZe6WOkG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/5c/74/a75c7452-6df2-3a42-0748-57ff9fb1604c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:11:10.145Z
+Categories:
+
+
+Name: MusicMate: Music, Map, Friends
+Url: https://testflight.apple.com/join/kipoUqTn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/59/95/d45995c5-3984-6a2b-db9e-7d793c7639d0/AppIcon-0-1x_U007emarketing-0-3-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T16:11:10.182Z
+Categories:
+
+
+Name: VNeTraffic
+Url: https://testflight.apple.com/join/NW7uU3Jm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/19/54/df1954dc-ccff-10a0-61fc-f00c2504fb89/AppIcon-0-0-1x_U007epad-0-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T16:11:10.217Z
+Categories:
+
+
+Name: BlueManage
+Url: https://testflight.apple.com/join/VCBeAhNA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/25/2e/b2252e6b-7630-3264-0121-6214efcc313b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T16:11:10.254Z
+Categories:
+
+
+Name: Paper-Better Productivity
+Url: https://testflight.apple.com/join/JNRBs6OJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/96/42/a7964245-c98f-7f22-dec9-03e468006cc8/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T16:11:10.289Z
+Categories:
+
+
+Name: DevBase Mobility
+Url: https://testflight.apple.com/join/Bl2KKiKe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/b0/3b/e8b03b6c-696f-1416-33ec-b7f902c52e76/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:11:10.324Z
+Categories:
+
+
+Name: Citadel Work Order
+Url: https://testflight.apple.com/join/AHT7siPr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/43/93/a243931d-5a07-5c37-a605-d5b2b09cff28/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:11:10.359Z
+Categories:
+
+
+Name: Anthem Remote
+Url: https://testflight.apple.com/join/AY1eBcKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b5/6a/30b56a8e-51cd-8af5-61db-9337edfe27f2/AppIcon-Anthem-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:11:10.393Z
+Categories:
+
+
+Name: xREL
+Url: https://testflight.apple.com/join/hnmpjwbR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cb/dd/78/cbdd784d-fb5c-3ae4-acbc-9a0dc934842c/AppIconBETA-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:11:10.431Z
+Categories:
+
+
+Name: BH Mobile System
+Url: https://testflight.apple.com/join/LI1VGv9F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/a0/f3/1ba0f38f-ee55-8fb0-f957-b117d1bad4ca/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T16:11:10.466Z
+Categories:
+
+
+Name: Club Tweed
+Url: https://testflight.apple.com/join/YDOEdSKV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0f/25/340f25df-9b63-2742-00d4-7d2007cd4beb/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:11:10.501Z
+Categories:
+
+
+Name: Resti
+Url: https://testflight.apple.com/join/g6EUcjx6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/35/18/273518ea-4d1e-416f-3435-4b215b172be7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:11:10.537Z
+Categories:
+
+
