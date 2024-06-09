@@ -8794,3 +8794,120 @@ Last Checked: 2024-06-09T22:12:11.870Z
 Categories:
 
 
+Name: EdgeLife
+Url: https://testflight.apple.com/join/RlnQBUsd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d8/0e/5ad80e49-3944-0be1-5b11-587d4f644405/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.659Z
+Categories:
+
+
+Name: Smartware-Staging
+Url: https://testflight.apple.com/join/XjCjDAeU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/86/c5/90/86c5904c-d737-5996-4c7f-caef70d7dfe1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.689Z
+Categories:
+
+
+Name: QuikWallet - UPI & Payments
+Url: https://testflight.apple.com/join/ZDGrkiPX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/c8/56/b1c856ba-e5dc-60f6-e3c4-f1d763090a7d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.717Z
+Categories:
+
+
+Name: BILD News - Live Nachrichten
+Url: https://testflight.apple.com/join/dFd5Ep1N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/fb/6e/19fb6e6a-abf5-cbe3-0485-0f23b682e425/AppIcon-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.746Z
+Categories:
+
+
+Name: KingDomRaids
+Url: https://testflight.apple.com/join/8JFrpEQR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/6b/13/646b13c8-6292-a6ad-c97d-aebc6dc494df/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.774Z
+Categories:
+
+
+Name: Device Jockey
+Url: https://testflight.apple.com/join/qRq26T4M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/37/28/a0/3728a080-fcce-d3b1-1c0d-cc4a97bbdb21/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.802Z
+Categories:
+
+
+Name: Text Workflow: Text Converter
+Url: https://testflight.apple.com/join/ERvvaKA8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/81/d6/8d81d692-5052-dd48-fa9d-d4bd90b816e0/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.830Z
+Categories:
+
+
+Name: EMSD DWSS
+Url: https://testflight.apple.com/join/XF37MDj6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/30/52/063052ec-663c-7b79-a543-5818d3e2ba6e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.858Z
+Categories:
+
+
+Name: realme Link
+Url: https://testflight.apple.com/join/3R9OIbOM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/eb/b5/17ebb580-75e3-94fb-add1-87f0479bbfaf/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.886Z
+Categories:
+
+
+Name: O'Reilly
+Url: https://testflight.apple.com/join/NgZcGJdY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/8c/f7/a18cf7c1-c351-33b0-b13a-96edf03e913c/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.916Z
+Categories:
+
+
+Name: WhiteboardCam
+Url: https://testflight.apple.com/join/6AY81LWx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c2/6d/f9/c26df9ee-7f4d-c63b-1f62-a9b9b25585c6/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.943Z
+Categories:
+
+
+Name: The BEATS, Resonate Your Soul
+Url: https://testflight.apple.com/join/OmsCSVSZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/dc/46/3adc46aa-e95a-89c9-68ce-5142d87a2ae3/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:13:11.972Z
+Categories:
+
+
+Name: Garimpoo
+Url: https://testflight.apple.com/join/ChVFS6lf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/77/1c/c0/771cc047-7659-b977-9508-b58a8d25e1c4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:13:12.001Z
+Categories:
+
+
