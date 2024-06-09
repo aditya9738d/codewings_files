@@ -13825,3 +13825,120 @@ Last Checked: 2024-06-09T22:55:20.182Z
 Categories:
 
 
+Name: Salesforce Field Service
+Url: https://testflight.apple.com/join/QOzwmzqj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/f5/af/e1f5afe6-1d5e-e3fa-dd61-d987b839f8f0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:56:13.761Z
+Categories:
+
+
+Name: ToDooMa
+Url: https://testflight.apple.com/join/gU8FB4IR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/d5/fb/e0d5fbcc-5072-4da8-8067-d08794589542/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:56:13.797Z
+Categories:
+
+
+Name: KKTV
+Url: https://testflight.apple.com/join/ZgiGUP3i
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/88/5d/6e885d66-0f97-c9f3-1f2a-e78c6efce669/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:56:13.833Z
+Categories:
+
+
+Name: Mitigate BETA
+Url: https://testflight.apple.com/join/SqwTf14Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/77/5b/e0775b8e-a7c6-e5c7-8e80-332cb7cc1591/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:56:13.869Z
+Categories:
+
+
+Name: Monzo Bank - Mobile Banking
+Url: https://testflight.apple.com/join/2NZLBFyb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/27/af/8327affc-f624-fbc6-5306-405d0bc60702/AppIconProd-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:56:13.906Z
+Categories:
+
+
+Name: Code Blue Leader
+Url: https://testflight.apple.com/join/FKoOFez8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/96/10/199610e6-6803-c1d8-447e-766b49892288/AppIcon-1x_U007emarketing-0-5-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T22:56:13.942Z
+Categories:
+
+
+Name: mytimelogger
+Url: https://testflight.apple.com/join/jnUKVlAH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d9/9a/1a/d99a1ab0-189f-fa9f-30b9-9ba50889645e/AppIcons-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:56:13.978Z
+Categories:
+
+
+Name: SimpleManga
+Url: https://testflight.apple.com/join/7COCzj1V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/27/75/6c2775e6-1c9d-159d-e494-715b9c2994dc/AppIcon-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T22:56:14.014Z
+Categories:
+
+
+Name: Litewallet: Buy Litecoin
+Url: https://testflight.apple.com/join/zNmFTm37
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/97/94/589794a6-3db4-be65-24cb-ed8420b47fab/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:56:14.049Z
+Categories:
+
+
+Name: Toggl Track: Hours & Time Log
+Url: https://testflight.apple.com/join/dONNQfWl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/98/59/51/98595186-6c83-7b4e-1e8f-4eb12c4205e4/AppIcon-85-220-4-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:56:14.085Z
+Categories:
+
+
+Name: Strings Messenger
+Url: https://testflight.apple.com/join/B8X26MxM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/a9/69/08a96933-f35a-e5ad-34a1-006869cc1b07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:56:14.121Z
+Categories:
+
+
+Name: Kress Commercial
+Url: https://testflight.apple.com/join/nUEGQnQt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/b7/67/59b76728-f498-d08e-22e9-0dea12d56ace/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:56:14.157Z
+Categories:
+
+
+Name: The Wardrobe
+Url: https://testflight.apple.com/join/Yctx5DtW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/31/df/d331df1f-e0fc-ca5f-9ec7-0cc067d8efdc/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T22:56:14.193Z
+Categories:
+
+
