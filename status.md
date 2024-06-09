@@ -16729,3 +16729,120 @@ Last Checked: 2024-06-09T10:07:08.356Z
 Categories:
 
 
+Name: Jagat - Friendship Map
+Url: https://testflight.apple.com/join/T5gVGSu7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/8a/96/c58a96b1-7ad2-2297-ef4e-91eedbddeadc/AppIcon-1-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-09T10:08:10.133Z
+Categories:
+
+
+Name: Jazz World - Manage My Number
+Url: https://testflight.apple.com/join/522ZboUu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/78/f5/4778f54f-372e-4cd0-8dac-5c49607e9e83/AppIcon-0-1x_U007emarketing-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:08:10.161Z
+Categories:
+
+
+Name: Jeedom v2
+Url: https://testflight.apple.com/join/jB60tOol
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/7d/f0/b27df062-95e1-9a00-4b3d-912a788e06ec/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:08:10.190Z
+Categories:
+
+
+Name: JioFinance (beta)
+Url: https://testflight.apple.com/join/ZiVWeCXG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/1b/52/881b52c9-66a5-188a-b23e-b7b0b6ff78e8/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:08:10.217Z
+Categories:
+
+
+Name: JobGraze
+Url: https://testflight.apple.com/join/4JDSpyw1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/ff/41/acff4155-c9b9-652d-61b9-1bd2628422d7/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:08:10.245Z
+Categories:
+
+
+Name: Jodel: Hyperlocal Community
+Url: https://testflight.apple.com/join/ViHonhOD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/9a/6a/4d9a6af8-c752-503c-5ffb-3087edffe6da/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: error
+Last Checked: 2024-06-09T10:08:10.273Z
+Categories:
+
+
+Name: Jotaro adventures
+Url: https://testflight.apple.com/join/YlNUgF5z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1f/17/2a/1f172a42-cd6c-e924-fc0c-512444c7b4bb/AppIcon-1x_U007epad-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T10:08:10.301Z
+Categories:
+
+
+Name: Journey ®
+Url: https://testflight.apple.com/join/wNxsLEfN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/48/e1/f848e1f3-3e87-d701-fd7d-a0607c766211/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:08:10.330Z
+Categories:
+
+
+Name: Jovem Nerd - Oficial
+Url: https://testflight.apple.com/join/ThqDAmug
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/41/f3/ae41f3ac-92a4-11c1-9a8d-9f9c9c2c4cf4/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:08:10.358Z
+Categories:
+
+
+Name: Jugnoo Taxi
+Url: https://testflight.apple.com/join/fRyDsYj1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/29/f8/a2/29f8a276-777e-e546-ef24-8887f9f48e22/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:08:10.386Z
+Categories:
+
+
+Name: Jumbl - Post Together
+Url: https://testflight.apple.com/join/UoUiHXqg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/de/82/46/de824662-50e3-8139-74fd-c6c477339f08/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:08:10.414Z
+Categories:
+
+
+Name: Jump Jerboa
+Url: https://testflight.apple.com/join/3KPCfC6D
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/f7/79/aef779a6-a7b5-1ed3-4f7c-8b1d2fa8c671/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:08:10.442Z
+Categories:
+
+
+Name: Just for Instagram
+Url: https://testflight.apple.com/join/3AEfj7cf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d2/4c/9d/d24c9d7f-aea2-fc63-a1c1-d81546e987a0/AppIcon.lsr/200x200bb-8.png
+Click Count: 43
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:08:10.471Z
+Categories:
+
+
