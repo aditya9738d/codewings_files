@@ -11815,3 +11815,120 @@ Last Checked: 2024-06-09T08:38:14.370Z
 Categories:
 
 
+Name: Authenticator 2FA | Sentinel
+Url: https://testflight.apple.com/join/TqRZOFqa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8d/50/68/8d5068e4-268c-4751-4438-4c7b50fd0b32/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T08:39:10.355Z
+Categories:
+
+
+Name: AutoGrip GFS-100
+Url: https://testflight.apple.com/join/D30zGnUE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/87/b1/ae/87b1aebf-3ae5-d562-c4bf-2ed6c2d3cc05/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T08:39:10.391Z
+Categories:
+
+
+Name: AutoZoomFlutter
+Url: https://testflight.apple.com/join/sYyHEn8m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/96/f5/d796f535-fddf-3349-00ae-cbc6d09d4d27/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T08:39:10.427Z
+Categories:
+
+
+Name: Autofy App
+Url: https://testflight.apple.com/join/x4CJwNFp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/9b/7e/ea9b7e1d-3568-6a3d-08fc-94e5839167a5/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-09T08:39:10.463Z
+Categories:
+
+
+Name: Automanual for YNAB
+Url: https://testflight.apple.com/join/9gH57dyB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/48/38/79483808-71dc-853b-618f-cbbc07ac9916/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T08:39:10.500Z
+Categories:
+
+
+Name: Automatic Timetracking
+Url: https://testflight.apple.com/join/3wWIxvJj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/fd/10/c6fd1049-c47e-2ada-9841-ab052740b45f/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T08:39:10.537Z
+Categories:
+
+
+Name: Avatar Land
+Url: https://testflight.apple.com/join/6lyeXvj5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fa/91/c5/fa91c5b6-8e2e-8c15-ed35-d755b43c5f83/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-09T08:39:10.574Z
+Categories:
+
+
+Name: Avatour: Khám phá chất bản địa
+Url: https://testflight.apple.com/join/zCTMbACx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/79/37/06/79370603-05b5-d855-4720-75f70bf8df83/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T08:39:10.610Z
+Categories:
+
+
+Name: Aventon
+Url: https://testflight.apple.com/join/R285EnR0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/50/86/79/50867916-3910-0c8a-3636-201045e38a6e/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T08:39:10.646Z
+Categories:
+
+
+Name: Avery Dennison
+Url: https://testflight.apple.com/join/VSqKSAWS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/1b/48/aa1b4849-99fc-e88c-4c3e-763e882dbf9b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T08:39:10.683Z
+Categories:
+
+
+Name: Avgeek - Log Flights
+Url: https://testflight.apple.com/join/GUZ8oaj9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ab/58/89/ab588983-d92b-5d2c-7899-127ff9197efa/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-09T08:39:10.719Z
+Categories:
+
+
+Name: Avive: Token Gated Community
+Url: https://testflight.apple.com/join/ydS1vH43
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/c8/f1/5bc8f104-a802-e3e7-c773-6db3450bae3f/AppIcon-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T08:39:10.755Z
+Categories:
+
+
+Name: Awaken Portfolio
+Url: https://testflight.apple.com/join/RxFrqbfX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/93/88/45/938845e9-e530-c70f-847f-b5e8adf4590d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T08:39:10.794Z
+Categories:
+
+
