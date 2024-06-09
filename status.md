@@ -5869,3 +5869,120 @@ Last Checked: 2024-06-09T21:45:25.701Z
 Categories:
 
 
+Name: KKClicker
+Url: https://testflight.apple.com/join/y2bNjrkT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/27/40/ba2740be-b5d9-004c-b84a-e59ba296efce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 13
+Beta Available: open
+Last Checked: 2024-06-09T21:46:12.871Z
+Categories:
+
+
+Name: Quizlet: AI-powered Flashcards
+Url: https://testflight.apple.com/join/mwhcPqxJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/b9/c3/d6b9c3c1-9b4a-60f9-8274-eb7d853c25b9/AppIcon-production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-09T21:46:12.900Z
+Categories:
+
+
+Name: Ensemble Cast
+Url: https://testflight.apple.com/join/Pq1HzHqe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/76/b4/cf76b468-a9fe-7c54-7d74-1e601bbacaa4/AppIcon.lsr/200x200bb-8.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-09T21:46:12.929Z
+Categories:
+
+
+Name: A Fish Chat
+Url: https://testflight.apple.com/join/jzPv1lac
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/49/af/a049af06-65a7-b292-e769-4e065b7b3f51/AppIcon.lsr/200x200bb-80.png
+Click Count: 8
+Beta Available: not accepting
+Last Checked: 2024-06-09T21:46:12.958Z
+Categories:
+
+
+Name: Pocket Space!
+Url: https://testflight.apple.com/join/DHipLt9w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/ea/92/e7ea9215-9f11-16b9-0be7-7dd94b08b83a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T21:46:12.987Z
+Categories:
+
+
+Name: KMON: World of Kogaea
+Url: https://testflight.apple.com/join/Nx5zl25z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/8f/f7/b18ff7ee-9836-519f-006a-31003d1a6153/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T21:46:13.016Z
+Categories:
+
+
+Name: Asurascans - Hot Manga Reader
+Url: https://testflight.apple.com/join/VdR4sNPA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/1b/f3/591bf359-4553-eb9a-8966-89ef30255ce9/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T21:46:13.044Z
+Categories:
+
+
+Name: The Weekendest: NYC Subway Map
+Url: https://testflight.apple.com/join/QMF8mCtV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/0d/af/270daf07-4942-1936-d272-7e4ffbab02f0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T21:46:13.073Z
+Categories:
+
+
+Name: GP Calendar - F1
+Url: https://testflight.apple.com/join/aKCOxRQU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/b8/e4/a9b8e40e-157c-93d1-3d53-503771278f3c/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T21:46:13.102Z
+Categories:
+
+
+Name: wthr.cloud
+Url: https://testflight.apple.com/join/xQvgZlZ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/2b/32/7a2b32be-e2c5-0c09-689e-451835627e5e/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T21:46:13.131Z
+Categories:
+
+
+Name: Salmonia3+
+Url: https://testflight.apple.com/join/JO6VICoZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/5b/f3/5b5bf377-5f58-64da-ef63-b754202e13c4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T21:46:13.160Z
+Categories:
+
+
+Name: LemonSqueezy - Unofficial
+Url: https://testflight.apple.com/join/yRCtKeaR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/51/da/3a51daf8-3623-906d-338e-9b1f9713fa6b/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T21:46:13.190Z
+Categories:
+
+
+Name: Pupgame
+Url: https://testflight.apple.com/join/IM3kTRUY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/fb/64/0afb64dc-0826-d0b6-31a3-5ee1596f3342/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 17
+Beta Available: open
+Last Checked: 2024-06-09T21:46:13.219Z
+Categories:
+
+
