@@ -4561,3 +4561,120 @@ Last Checked: 2024-06-09T17:00:57.038Z
 Categories:
 
 
+Name: L[AI]ban
+Url: https://testflight.apple.com/join/L1BcTYd6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/28/fc/d428fcc4-fe10-0a8a-9e86-3e83071bb280/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:01:10.385Z
+Categories:
+
+
+Name: MFL Platinum
+Url: https://testflight.apple.com/join/FWg4IbLd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/0c/a9/f10ca966-b81e-dc73-ff4e-88dce3e8a60b/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:01:10.419Z
+Categories:
+
+
+Name: POS Dealer STG
+Url: https://testflight.apple.com/join/Rro2QfYU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/96/ed/b796edef-63db-52fa-e242-368743cb1e0b/stgAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:01:10.453Z
+Categories:
+
+
+Name: Metabox AR
+Url: https://testflight.apple.com/join/IFUB7cVT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/14/56/1f145604-89d7-b6a7-0b92-d1a273d93441/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T17:01:10.488Z
+Categories:
+
+
+Name: SSM Sales Force Automation UAT
+Url: https://testflight.apple.com/join/f460coYa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e1/9d/5ce19dd8-6b3c-1843-ac7d-c03eec238aa6/AppIcon-unzaGtSfa-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T17:01:10.523Z
+Categories:
+
+
+Name: Wam! Staging
+Url: https://testflight.apple.com/join/Qjr8ORdC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/7b/2d/ee7b2d44-92fb-d3f4-7844-8641258c43bd/AppIcon-Production-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T17:01:10.558Z
+Categories:
+
+
+Name: Smart Timetable - Schedule
+Url: https://testflight.apple.com/join/cNK5nhb3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bf/65/ba/bf65ba70-ea10-b6e2-6215-680dc6fe8077/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:01:10.592Z
+Categories:
+
+
+Name: Buienradar - weer
+Url: https://testflight.apple.com/join/TP0DtCQh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/11/7b/c5/117bc5a7-e47f-e2a3-69a2-4c0e080da91b/AppIcon_NL_Release-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:01:10.628Z
+Categories:
+
+
+Name: Tippgeber24
+Url: https://testflight.apple.com/join/4yF4dWDq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/21/bb/7321bb75-2c47-8a22-e2a5-70bfb0a8e425/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:01:10.663Z
+Categories:
+
+
+Name: MT Recorder
+Url: https://testflight.apple.com/join/bG01NzO0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/be/c4/b1bec4e7-fd91-04d9-bcc0-3bdbb289332a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T17:01:10.697Z
+Categories:
+
+
+Name: Believeu
+Url: https://testflight.apple.com/join/pWlGeXxV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/ad/c8/7badc8dc-6a94-3521-96ca-6119ffc5a5f2/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:01:10.732Z
+Categories:
+
+
+Name: RecipeRealm
+Url: https://testflight.apple.com/join/0ox0x9Rq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f8/67/9e/f8679ee3-b91e-31d5-d1ed-2c8f02aeb7d7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T17:01:10.766Z
+Categories:
+
+
+Name: 9292 reisplanner OV + e-ticket
+Url: https://testflight.apple.com/join/OSuZumHa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/df/8f/84df8fdf-5f91-cd84-fac9-f8092ce401d1/AppIconBeta-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:01:10.802Z
+Categories:
+
+
