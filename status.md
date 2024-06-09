@@ -3157,3 +3157,120 @@ Last Checked: 2024-06-09T05:46:10.854Z
 Categories:
 
 
+Name: Symptom Snap
+Url: https://testflight.apple.com/join/YJ2D8kKA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/de/6e/d1/de6ed146-d19b-84f1-4a29-698af089bc06/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T05:48:09.034Z
+Categories:
+
+
+Name: ecnu.im
+Url: https://testflight.apple.com/join/Re8gz1Cz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/b2/da/ebb2da7b-eb63-a862-3df2-40bada2f2fff/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T05:48:09.070Z
+Categories:
+
+
+Name: Diagnostic
+Url: https://testflight.apple.com/join/wp51p2jl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/0b/0e/a10b0eae-99ce-9cab-fb9a-a225c7a5b030/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T05:48:09.106Z
+Categories:
+
+
+Name: LearnBattle
+Url: https://testflight.apple.com/join/zxzIw9a5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/d9/c4/6ed9c4fb-be6c-a7ff-0401-bb3d5547a013/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T05:48:09.143Z
+Categories:
+
+
+Name: Jira Cloud by Atlassian
+Url: https://testflight.apple.com/join/2lm7vHBS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/57/ee/d257ee3d-cfc9-9f0d-e285-5c2d477030cf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T05:48:09.178Z
+Categories:
+
+
+Name: Kennen Asset Management
+Url: https://testflight.apple.com/join/yfhyscAR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/10/95/a4/1095a498-af5f-fd57-e959-f082e69f85ae/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T05:48:09.215Z
+Categories:
+
+
+Name: Logos: Deep Bible Study
+Url: https://testflight.apple.com/join/ftLCn5d6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/73/75/6f7375f4-6151-89cb-481e-7c1a8b5b9deb/AppIcon-0-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T05:48:09.251Z
+Categories:
+
+
+Name: A Better Ride
+Url: https://testflight.apple.com/join/8udVF6fj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fc/87/91/fc879103-5687-0c73-ee6a-d18ed4635c11/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T05:48:09.287Z
+Categories:
+
+
+Name: Simpla
+Url: https://testflight.apple.com/join/n1nMbaqk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/45/d7/0445d7df-63a2-f78f-1765-66f80a3e34c2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T05:48:09.323Z
+Categories:
+
+
+Name: NINJA GAME
+Url: https://testflight.apple.com/join/HVLT4aBq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/50/b3/1b50b347-d552-7294-7de1-96ce84fdbee1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T05:48:09.359Z
+Categories:
+
+
+Name: Prosper Savings
+Url: https://testflight.apple.com/join/YDkQeCbu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/b1/b8/b7b1b8eb-c3e6-e214-c4fc-d48b40dc77b9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T05:48:09.396Z
+Categories:
+
+
+Name: tripmind
+Url: https://testflight.apple.com/join/u4DHLMj1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7f/0d/8a/7f0d8a3a-5b5a-56e0-579d-061e5d71b850/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T05:48:09.433Z
+Categories:
+
+
+Name: App Solution Demo
+Url: https://testflight.apple.com/join/532BWvp7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/0c/15/e90c15a6-832a-8882-d318-cd0cd94da7da/AppSolutionDemo_appicon_beta-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T05:48:09.469Z
+Categories:
+
+
