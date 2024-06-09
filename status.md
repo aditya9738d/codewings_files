@@ -17782,3 +17782,120 @@ Last Checked: 2024-06-09T19:08:11.659Z
 Categories:
 
 
+Name: Foodyman delivery app
+Url: https://testflight.apple.com/join/okzxOoWf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/42/47/91/42479183-9fd5-f0f7-83a2-b8b2780bbe71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T19:11:08.580Z
+Categories:
+
+
+Name: ForPDA
+Url: https://testflight.apple.com/join/CuI3nlN2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2a/35/d6/2a35d616-27bb-2446-3ddb-fc244f5c3808/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T19:11:08.616Z
+Categories:
+
+
+Name: Ford India Service App
+Url: https://testflight.apple.com/join/taQrnjky
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/63/78/02/63780263-8162-7de6-9f43-0925f2a8c70b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T19:11:08.650Z
+Categories:
+
+
+Name: Formula Countdown
+Url: https://testflight.apple.com/join/1m7CChtW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/af/c6/b1/afc6b175-cf88-80fa-3870-bcff945e79b5/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-09T19:11:08.685Z
+Categories:
+
+
+Name: Forwheel
+Url: https://testflight.apple.com/join/DYsHOI5M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/7d/af/7b7daf01-7e89-00de-2af4-bdd8d230c50b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T19:11:08.720Z
+Categories:
+
+
+Name: Frameo
+Url: https://testflight.apple.com/join/uxO0AWDJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/a9/c1/a6a9c1a7-ac20-6e41-df47-53e21844708a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T19:11:08.754Z
+Categories:
+
+
+Name: FreeWiFi.MO.UAT
+Url: https://testflight.apple.com/join/oDfAq24k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/34/75/b8/3475b8eb-0dfb-aa06-c504-3aa2a6eea0ac/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T19:11:08.787Z
+Categories:
+
+
+Name: Freedom SuperApp
+Url: https://testflight.apple.com/join/OpcdP7Sk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/48/01/5a4801ae-5cb0-ba89-f7e2-81f5faea2458/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-09T19:11:08.821Z
+Categories:
+
+
+Name: Frive
+Url: https://testflight.apple.com/join/qpAi1CMP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/ad/85/d6ad8597-19a6-c275-4421-7d6069447073/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T19:11:08.856Z
+Categories:
+
+
+Name: Frog - The social network fr.
+Url: https://testflight.apple.com/join/4sfxgE7i
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/7f/82/a67f8228-9456-ffb7-bc3e-ede6e51f3a70/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T19:11:08.890Z
+Categories:
+
+
+Name: Fryd
+Url: https://testflight.apple.com/join/V1VuMGdz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c2/c4/bc/c2c4bce6-b058-7b74-57b6-a6fd2887c9af/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T19:11:08.925Z
+Categories:
+
+
+Name: Fuel & Recovery Zone
+Url: https://testflight.apple.com/join/WPpZjzC8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a8/dd/ac/a8ddacc2-680c-dd44-d284-f81d80977435/app-icons-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T19:11:08.959Z
+Categories:
+
+
+Name: FulGaz
+Url: https://testflight.apple.com/join/Ji1V82RN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/79/c5/1b79c549-8c99-cd2c-d3aa-99e74bcaa4dc/AppIcons-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T19:11:08.993Z
+Categories:
+
+
