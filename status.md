@@ -6120,3 +6120,120 @@ Last Checked: 2024-06-09T12:51:10.651Z
 Categories:
 
 
+Name: Two-Eyed Seeing for Parents
+Url: https://testflight.apple.com/join/QD2sxMTD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/a4/71/7ca471ab-56b5-50cf-2d67-f64665b48050/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T12:52:13.222Z
+Categories:
+
+
+Name: Freightster
+Url: https://testflight.apple.com/join/LF9YS7kz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/b2/78/ccb2785b-6c55-b8fd-4f07-42ede551ada8/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:52:13.249Z
+Categories:
+
+
+Name: Vi Movies & TV - 13 OTTs in 1
+Url: https://testflight.apple.com/join/AHUDbuH0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/82/35/4482351d-0ce2-5cde-b3c3-12fd8fbe4565/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:52:13.276Z
+Categories:
+
+
+Name: Apostagram App
+Url: https://testflight.apple.com/join/XQmKYN1t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/77/99/7f7799a3-36bf-17e9-c9c7-0bfb82f834ad/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:52:13.305Z
+Categories:
+
+
+Name: DI-Manage
+Url: https://testflight.apple.com/join/jZy4ayXa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/39/89/8a398965-9dfd-587f-8163-4a91003b70f1/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:52:13.332Z
+Categories:
+
+
+Name: Mobox Pro
+Url: https://testflight.apple.com/join/zusuXNhi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/5c/5c/365c5c3c-2c6e-390c-7e70-587e6cc7faff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:52:13.360Z
+Categories:
+
+
+Name: NOSTRA LOGISTICS ePOD
+Url: https://testflight.apple.com/join/E729A3lz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/e5/a8/f0e5a874-359e-2839-f36e-4ed84be610c4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:52:13.387Z
+Categories:
+
+
+Name: Awesome Habits: Habit Tracker
+Url: https://testflight.apple.com/join/4ptd8XuD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/37/02/de/3702de6f-9b00-e320-bcea-b23b428e2a17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:52:13.414Z
+Categories:
+
+
+Name: Brain in Hand Mobile
+Url: https://testflight.apple.com/join/h0joowGW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/a2/dc/01a2dceb-83ed-3442-0951-863bf516ba71/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:52:13.442Z
+Categories:
+
+
+Name: Solplanet
+Url: https://testflight.apple.com/join/fDnLKHJT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/72/b5/30/72b53040-0a38-135c-ecfd-496823cdbfc1/AppIcon_Dev-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:52:13.469Z
+Categories:
+
+
+Name: HomefarmShip
+Url: https://testflight.apple.com/join/V5WM5A3M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/65/c8/20/65c8201a-6dae-67a2-9df9-a9f2f2a2438f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:52:13.496Z
+Categories:
+
+
+Name: Openvy
+Url: https://testflight.apple.com/join/o1Sq2K1h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/53/97/1a53977f-62e4-560c-4804-7c1ce08ab733/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T12:52:13.526Z
+Categories:
+
+
+Name: Streaks
+Url: https://testflight.apple.com/join/xYB3TvdT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/b2/8c/e2b28ca0-d911-95c3-a2f0-7e02c05c3141/AppIcon-Unfilled-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-09T12:52:13.554Z
+Categories:
+
+
