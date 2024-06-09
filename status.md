@@ -15559,3 +15559,120 @@ Last Checked: 2024-06-09T09:48:08.015Z
 Categories:
 
 
+Name: Galaxy Auction
+Url: https://testflight.apple.com/join/DVZoPDoG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/82/b7/8e82b71f-9902-2748-98c3-52a241090cfe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T09:51:09.072Z
+Categories:
+
+
+Name: Garenta Servis
+Url: https://testflight.apple.com/join/DiTpUAgt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/89/a3/7f89a31e-0a97-356b-4dbc-7e48422517f2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T09:51:09.107Z
+Categories:
+
+
+Name: Gate.io - Buy Bitcoin & Crypto
+Url: https://testflight.apple.com/join/SGq28113
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/2f/1c/e12f1c45-e399-7fa7-e759-00f9d631bde2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T09:51:09.143Z
+Categories:
+
+
+Name: Gen MWE
+Url: https://testflight.apple.com/join/hotoG1fN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/c5/0f/dac50f71-6c37-f30b-ec1c-a4962d0dab8e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T09:51:09.178Z
+Categories:
+
+
+Name: Genial investimentos - Beta
+Url: https://testflight.apple.com/join/5FtDtZks
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/47/be/9647be71-781d-3df5-c50e-4dd805db1407/preprodAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T09:51:09.213Z
+Categories:
+
+
+Name: Genie Camera Test
+Url: https://testflight.apple.com/join/BtnUDn7I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/17/92/b8/1792b8ed-9d1a-74a3-0b28-c38d0fc02a75/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T09:51:09.248Z
+Categories:
+
+
+Name: Gentmo - clienti e giro visite
+Url: https://testflight.apple.com/join/JZJYkjxs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/f2/e4/28f2e49b-d0ba-6eec-44bd-7ee8a3d494a9/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T09:51:09.284Z
+Categories:
+
+
+Name: GeoGuideMe
+Url: https://testflight.apple.com/join/sQoOQSJt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/1a/b9/941ab948-aef4-f8f1-ec9b-5e1ae554314a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T09:51:09.319Z
+Categories:
+
+
+Name: GeometricWeather
+Url: https://testflight.apple.com/join/sipVnAZC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/25/23/f8/2523f886-99b5-b3e7-85af-26139efe5400/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T09:51:09.355Z
+Categories:
+
+
+Name: Get Primed
+Url: https://testflight.apple.com/join/906aQCgQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/18/74/ce187400-e745-523e-6526-49139b58c249/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T09:51:09.390Z
+Categories:
+
+
+Name: Giant Mobil
+Url: https://testflight.apple.com/join/YMXhtMB5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/97/22/85/972285eb-b0fa-8db7-dd0a-fa23dd90430e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T09:51:09.426Z
+Categories:
+
+
+Name: Gigawrks
+Url: https://testflight.apple.com/join/A8eL6LCw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/47/dc/fa/47dcfa99-ede2-ac8f-63d6-35a2e621ad6f/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T09:51:09.461Z
+Categories:
+
+
+Name: Ginst - Horror Music Game
+Url: https://testflight.apple.com/join/Kxb7ZPTA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/49/6c/15/496c15b7-ef6e-4bd8-1522-222c4103c99a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T09:51:09.497Z
+Categories:
+
+
