@@ -4210,3 +4210,120 @@ Last Checked: 2024-06-09T06:09:13.467Z
 Categories:
 
 
+Name: Lichess beta
+Url: https://testflight.apple.com/join/WEurB7MT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/98/56/0598562e-82da-1747-9e18-b246dcb4dd1e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T06:12:08.833Z
+Categories:
+
+
+Name: Pick Up My Meds
+Url: https://testflight.apple.com/join/IHnTq0bA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/2d/cf/382dcf80-62e9-cedf-8137-eea42313891d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T06:12:08.862Z
+Categories:
+
+
+Name: Exify
+Url: https://testflight.apple.com/join/EpGlutqv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c2/76/23/c2762343-1459-485d-4330-d51ccea4695f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:12:08.889Z
+Categories:
+
+
+Name: SuperOffice Mobile CRM
+Url: https://testflight.apple.com/join/VaSLz5VC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/39/0a/46/390a4644-5379-83bb-f85d-d0e0738e3174/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:12:08.917Z
+Categories:
+
+
+Name: Cash App
+Url: https://testflight.apple.com/join/An0RiOFF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/fe/e1/7efee179-f4d5-ceb9-f2f6-367c500e3b06/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-09T06:12:08.946Z
+Categories:
+
+
+Name: Scarlett: Skincare Assistant
+Url: https://testflight.apple.com/join/MFwjG3FV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/59/83/df598342-b40a-864a-92ce-c50370c17ebd/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T06:12:08.974Z
+Categories:
+
+
+Name: Swisscom myCloud
+Url: https://testflight.apple.com/join/Y5pOcWGk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/1c/29/821c29ab-a687-9b67-e568-f6508b4f76a9/AppIcon-PROD-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T06:12:09.002Z
+Categories:
+
+
+Name: Mindbug
+Url: https://testflight.apple.com/join/GNUBgAQu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/40/dd/5f40dd73-d697-3fa6-a106-93621d575340/AppIcon-1x_U007emarketing-0-5-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:12:09.030Z
+Categories:
+
+
+Name: BopSyncNetPOC
+Url: https://testflight.apple.com/join/LFS1H99Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/7f/12/4b7f12f7-2c98-2513-6d2f-effd08316e77/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:12:09.058Z
+Categories:
+
+
+Name: Judo: Design and Build Apps
+Url: https://testflight.apple.com/join/cgXp6iN9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/db/12/f6db12b1-84f6-0690-4d7d-5c6e20757767/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T06:12:09.086Z
+Categories:
+
+
+Name: HRMS Lite
+Url: https://testflight.apple.com/join/YDovsfMJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/74/d1/be74d121-29d7-9dfa-00e3-b55ff66ed351/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:12:09.115Z
+Categories:
+
+
+Name: Beaver Pocket
+Url: https://testflight.apple.com/join/dSsmsGLY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d4/72/d7/d472d7ef-d17b-9b44-ebfc-677cf4d28a11/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:12:09.144Z
+Categories:
+
+
+Name: Target
+Url: https://testflight.apple.com/join/qcx8yK1s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/7c/cd/f07ccde9-1c52-7c2f-3a34-6a1a554baf42/AppIconShiny-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T06:12:09.171Z
+Categories:
+
+
