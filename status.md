@@ -23398,3 +23398,120 @@ Last Checked: 2024-06-09T19:59:10.469Z
 Categories:
 
 
+Name: Reflect Notes
+Url: https://testflight.apple.com/join/v3yFxXaX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/4b/fc/374bfc4a-9c42-7c65-977d-28e7201cd7aa/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T20:03:10.959Z
+Categories:
+
+
+Name: Regula Document Reader
+Url: https://testflight.apple.com/join/3iOVYpeB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/96/71/9f96713b-1254-9fc6-f3bd-cb1660e2d83c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T20:03:10.988Z
+Categories:
+
+
+Name: Rekwest: Song requests
+Url: https://testflight.apple.com/join/83BQyS5G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/09/47/df/0947dfc8-63c5-cd71-9dab-76847ff39092/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:03:11.016Z
+Categories:
+
+
+Name: Relocity (DEV)
+Url: https://testflight.apple.com/join/0KrzAGZV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/45/c7/4d45c7da-502f-27d7-c120-f4055b568da9/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:03:11.044Z
+Categories:
+
+
+Name: Reltime
+Url: https://testflight.apple.com/join/iG0Az2I3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/7f/15/6b7f156a-8577-d690-4d14-68bb0733f8cf/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:03:11.072Z
+Categories:
+
+
+Name: Renaissance Kingdoms
+Url: https://testflight.apple.com/join/KkFL0EvO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/12/5c/42125ce9-34cf-424f-5f5f-d94dcba8da82/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T20:03:11.101Z
+Categories:
+
+
+Name: Renogy Diagnosis
+Url: https://testflight.apple.com/join/vmZcpfaL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/8a/83/ae8a8382-4340-a744-7642-8eb4958c32c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:03:11.130Z
+Categories:
+
+
+Name: RentalBuddy
+Url: https://testflight.apple.com/join/E6dkYz1A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/0d/3d/620d3dc9-1ca3-8bc2-9a71-6eef556a69b6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:03:11.158Z
+Categories:
+
+
+Name: Reolink
+Url: https://testflight.apple.com/join/vrJKodta
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/a7/84/dda78450-4a59-d687-cfcc-f964086f3da9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T20:03:11.186Z
+Categories:
+
+
+Name: Repay Digital Banking
+Url: https://testflight.apple.com/join/haJu53wJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/bd/5f/62bd5f7d-7935-4297-9152-834df247a9b4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-09T20:03:11.214Z
+Categories:
+
+
+Name: Resecurity
+Url: https://testflight.apple.com/join/cE8fyxdw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/d3/a1/6ad3a123-d358-6fad-6306-590fea0e162c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:03:11.242Z
+Categories:
+
+
+Name: ResidentScreen
+Url: https://testflight.apple.com/join/1j2zTwc5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c9/c5/e2/c9c5e211-e46e-23e8-365e-5c2a5fdaa293/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:03:11.271Z
+Categories:
+
+
+Name: Retro Wallet
+Url: https://testflight.apple.com/join/n71vOGwl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/c8/1f/10c81f28-2001-706b-902b-bd96e00f2c20/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:03:11.299Z
+Categories:
+
+
