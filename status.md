@@ -13240,3 +13240,120 @@ Last Checked: 2024-06-09T22:50:26.058Z
 Categories:
 
 
+Name: iPartnerHandling
+Url: https://testflight.apple.com/join/NeOEHzQO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/fb/4c/cafb4cea-69e6-d888-124a-6efdf3af05aa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.078Z
+Categories:
+
+
+Name: Work Plus QAS
+Url: https://testflight.apple.com/join/SVbn1MmA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/ce/49/0bce49b3-c0ff-5bf6-eaeb-a0bfd37699ce/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.114Z
+Categories:
+
+
+Name: DarknessBot
+Url: https://testflight.apple.com/join/B6r39HPw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/59/65/2d596537-118c-afe7-466a-8abcc1c68dc1/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.150Z
+Categories:
+
+
+Name: Beeminder
+Url: https://testflight.apple.com/join/U26BrdwB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/44/95/c0/4495c0cb-5e7a-5a9e-4af9-1e0beb2e4044/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.185Z
+Categories:
+
+
+Name: Yalla - Group Voice Chat Rooms
+Url: https://testflight.apple.com/join/LUV13Im7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/82/63/fd8263e9-fcfe-12fb-d798-14c7185e7b45/AppIcon-Yalla-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.222Z
+Categories:
+
+
+Name: Mammotion
+Url: https://testflight.apple.com/join/GsYEMjIk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/63/b0/5a63b035-ef6a-161d-e24c-1ec43afaedaa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.257Z
+Categories:
+
+
+Name: FunFinances
+Url: https://testflight.apple.com/join/pqWTpKCY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/20/08/d32008b5-043b-09b5-f20c-7d75c73277e6/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.293Z
+Categories:
+
+
+Name: Worklog - AI Time Tracking
+Url: https://testflight.apple.com/join/TeHjOP3I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/69/cb/79/69cb799e-07d2-4a59-cd50-092c95f5c8e8/AppIcon-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T22:51:09.329Z
+Categories:
+
+
+Name: Playbite - Mobile Arcade
+Url: https://testflight.apple.com/join/5EaZwS36
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/2f/13/f32f1362-d990-6104-063b-65a29cfc6612/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.365Z
+Categories:
+
+
+Name: Aloha Browser - Private VPN
+Url: https://testflight.apple.com/join/Xh9VNQoA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ca/10/beca102c-560f-3436-1d3b-6c8f13ebdfe4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.401Z
+Categories:
+
+
+Name: SOLD
+Url: https://testflight.apple.com/join/S8htmnA6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/ff/b7/f9ffb7dd-5354-47a8-6f12-3819b2975591/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.437Z
+Categories:
+
+
+Name: Tiny-Fins
+Url: https://testflight.apple.com/join/AKKsWpCM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/f2/07/f5f207a1-28b7-94ae-f312-158425e176a3/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.473Z
+Categories:
+
+
+Name: OzRunways EFB
+Url: https://testflight.apple.com/join/CAr9bOXm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/1a/fd/3d1afd79-2d80-f2c7-125f-032a406abba0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T22:51:09.508Z
+Categories:
+
+
