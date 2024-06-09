@@ -25542,3 +25542,120 @@ Last Checked: 2024-06-09T15:54:11.425Z
 Categories:
 
 
+Name: AutoSale
+Url: https://testflight.apple.com/join/ZSYpiz2h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/69/57/5f/69575f8c-e0d6-68a6-7e50-c54ac2a9b0e9/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T15:55:18.729Z
+Categories:
+
+
+Name: Watch The Matrix
+Url: https://testflight.apple.com/join/a06n3gN4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/79/4b/1e794b78-187e-e405-6fe6-9b1161612828/MessagesApplicationStub60x60@2x.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T15:55:18.758Z
+Categories:
+
+
+Name: BMBX
+Url: https://testflight.apple.com/join/vLWkddGc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/18/d1/18/18d1185d-07cc-b245-cb1d-29ee3d18d8dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:55:18.786Z
+Categories:
+
+
+Name: World Table Tennis App
+Url: https://testflight.apple.com/join/VPxvjQeo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/d6/8f/23d68f3a-00ce-ee73-6c0f-d1dae54c68a5/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:55:18.814Z
+Categories:
+
+
+Name: SN Lift Driver
+Url: https://testflight.apple.com/join/kWnasGgr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/f9/33/69f93348-2cfd-9dc1-f703-76c6e449f650/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:55:18.842Z
+Categories:
+
+
+Name: Kase₄ CE
+Url: https://testflight.apple.com/join/skOBzgK1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/6d/db/086ddbd8-a4ec-f75f-b553-5acd6c3b4e33/AppIcon-CE-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:55:18.871Z
+Categories:
+
+
+Name: Degrii OS
+Url: https://testflight.apple.com/join/Ssjy3v1U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/18/f2/f6/18f2f60f-1493-b59b-1c9d-faac97a718d1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:55:18.899Z
+Categories:
+
+
+Name: icash Pay
+Url: https://testflight.apple.com/join/MZOWNxwg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/6d/9c/8b6d9c3d-3699-63dd-4bbe-9872b684a09f/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:55:18.928Z
+Categories:
+
+
+Name: Anito Legends
+Url: https://testflight.apple.com/join/BE3BYa6B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/72/5f/1c725f0e-d203-504f-1858-c9285df1cc7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:55:18.956Z
+Categories:
+
+
+Name: UPTM Attendance
+Url: https://testflight.apple.com/join/h0owcGXH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/e2/5c/cde25cf9-08e8-97f2-3d5d-3d7c67fd4e98/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T15:55:18.985Z
+Categories:
+
+
+Name: Holler - talk and text
+Url: https://testflight.apple.com/join/WYwS7eX5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/69/9c/9a699c0d-9bde-e6ab-f6f6-55d3856da6b3/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:55:19.013Z
+Categories:
+
+
+Name: Jam Family Calendar
+Url: https://testflight.apple.com/join/9kchKRLL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/69/71/da69717b-1897-52e4-ce18-a3037265df65/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:55:19.041Z
+Categories:
+
+
+Name: Sugarverse: Sugar Match PvP
+Url: https://testflight.apple.com/join/OxozkTj0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/00/7d/49/007d49c4-bc2c-8255-94cc-1ab867171b63/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:55:19.070Z
+Categories:
+
+
