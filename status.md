@@ -9124,3 +9124,120 @@ Last Checked: 2024-06-09T17:42:11.321Z
 Categories:
 
 
+Name: Pimsleur: Language Learning
+Url: https://testflight.apple.com/join/PAc9Zrpb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/a0/19/e3a019ea-6be8-d238-dfaa-75a9f0787162/AppIcon-1x_U007epad-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T17:43:10.535Z
+Categories:
+
+
+Name: Wanaka Farm
+Url: https://testflight.apple.com/join/jUdIq7tn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c8/c7/0c/c8c70c46-d819-4cc8-c16d-174e0948bc4d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T17:43:10.570Z
+Categories:
+
+
+Name: Mengly J. Quach Education
+Url: https://testflight.apple.com/join/gIEH5SP4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/73/cc/d173cc12-c699-fa12-f012-51517059ae29/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:43:10.605Z
+Categories:
+
+
+Name: MyPwr
+Url: https://testflight.apple.com/join/G8r6S2XQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/b2/eb/efb2ebf9-2668-c9c3-db35-1927f5b160f5/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:43:10.641Z
+Categories:
+
+
+Name: Hertz Staging
+Url: https://testflight.apple.com/join/kD6BpH5U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/91/ac/5d/91ac5d90-26c0-f078-a4d8-bb9fd7dd2002/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:43:10.690Z
+Categories:
+
+
+Name: Velox Nxt
+Url: https://testflight.apple.com/join/S5anQZDI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/5d/81/425d819b-2771-35ec-5b5f-d0ef013bf1ef/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:43:10.726Z
+Categories:
+
+
+Name: Die Losungen als Widget
+Url: https://testflight.apple.com/join/CAP2uULs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/83/a4/60/83a46083-4def-1520-ea1d-68d02c22b094/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T17:43:10.761Z
+Categories:
+
+
+Name: RadisysNavigationTest
+Url: https://testflight.apple.com/join/3O4T7WRe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/fd/d0/07fdd00a-ceba-2a68-cfa0-4836a507f4f0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:43:10.796Z
+Categories:
+
+
+Name: MSIG Connecting Employees
+Url: https://testflight.apple.com/join/k0ds687H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/fd/8f/4bfd8f0c-60c0-4f08-115f-61432b446b54/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:43:10.831Z
+Categories:
+
+
+Name: Note-Today
+Url: https://testflight.apple.com/join/IadnSLbP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/63/38/40633811-8028-dfcf-ad59-5a4b936b24db/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:43:10.866Z
+Categories:
+
+
+Name: Check ID By DigitalOne
+Url: https://testflight.apple.com/join/QSE5aVNI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/8b/27/ca8b27a1-5a60-8e66-e77a-6493c6a26fa0/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:43:10.901Z
+Categories:
+
+
+Name: Bodylura: Fitness & Nutrition
+Url: https://testflight.apple.com/join/yiArzPR6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/70/cc/4570ccdc-3be4-10b6-2aaf-c005bd93ef90/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T17:43:10.936Z
+Categories:
+
+
+Name: RedSafe
+Url: https://testflight.apple.com/join/EPPj8Xs9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/c9/b3/dac9b350-c9b2-1c38-edde-ab17cfc89711/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T17:43:10.971Z
+Categories:
+
+
