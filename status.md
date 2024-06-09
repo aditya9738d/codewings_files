@@ -2721,3 +2721,122 @@ Last Checked: 2024-06-09T12:21:08.966Z
 Categories:
 
 
+Name: Giftr - GIF Maker
+Url: https://testflight.apple.com/join/eyZbAhlV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/df/41/acdf415f-99a9-c35b-4b37-8d115647dd89/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-512MB-85-220-0.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-09T12:22:13.120Z
+Categories:
+
+
+Name: DR Expense Tracker
+Url: https://testflight.apple.com/join/pqWTpKCY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/63/e4/b063e404-5ab9-5f7f-b01a-34b760bb98aa/AppIcon-0-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-09T12:22:13.156Z
+Categories:
+
+
+Name: Gamery - Game Tracker
+Url: https://testflight.apple.com/join/va16ipuj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/f5/5c/aaf55cef-6c5d-e073-e8fd-0c152172bc1f/AppIcon-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 30
+Beta Available: open
+Last Checked: 2024-06-09T12:22:13.192Z
+Categories:
+- Games
+
+Name: Disney DLP Preview
+Url: https://testflight.apple.com/join/b6bWpoHB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/76/f3/25/76f325a7-1259-72f4-b46a-880e0aa855ca/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 42
+Beta Available: open
+Last Checked: 2024-06-09T12:22:13.228Z
+Categories:
+
+
+Name: Hookymia
+Url: https://testflight.apple.com/join/Myp9NrwZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/95/90/c6959005-ed86-5fce-7200-790d648ba4f5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-09T12:22:13.264Z
+Categories:
+
+
+Name: Life360: Find Friends & Family
+Url: https://testflight.apple.com/join/syX6IOJF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/cc/26/a0cc2664-d06a-6292-ce67-258d1bd9a937/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-09T12:22:13.300Z
+Categories:
+
+
+Name: Slack
+Url: https://testflight.apple.com/join/QE3kgqJ2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/bb/0e/7bbb0e8a-e861-9ee0-63df-31a8ada20932/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 14
+Beta Available: open
+Last Checked: 2024-06-09T12:22:13.336Z
+Categories:
+
+
+Name: Minecraft Preview
+Url: https://testflight.apple.com/join/qC1ZnReJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/d5/a1/c5d5a1b7-0be2-4c8f-b804-069d36f89a9f/AppIcon-beta-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 2033
+Beta Available: full
+Last Checked: 2024-06-09T12:22:13.372Z
+Categories:
+- Education
+- Entertainment
+- Games
+
+Name: Leplace World
+Url: https://testflight.apple.com/join/WXZlJtL0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5b/fd/ca/5bfdcae6-6545-b7e5-d2b4-4d51d021c19a/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-09T12:22:13.408Z
+Categories:
+
+
+Name: CCS Mobile
+Url: https://testflight.apple.com/join/IAFHUVdV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/51/21/105121ab-47ef-384d-74c3-57f3c9276aa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 23
+Beta Available: open
+Last Checked: 2024-06-09T12:22:13.444Z
+Categories:
+
+
+Name: Nostrmo
+Url: https://testflight.apple.com/join/kvGz47De
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/12/70/921270f6-7a10-9cf1-a369-6947581a991d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-09T12:22:13.480Z
+Categories:
+
+
+Name: HomeHabit
+Url: https://testflight.apple.com/join/KbpFHzx0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/a6/8a/8fa68a5c-ae68-6283-b387-2a882ef494db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 22
+Beta Available: not accepting
+Last Checked: 2024-06-09T12:22:13.516Z
+Categories:
+
+
+Name: ClipBorad
+Url: https://testflight.apple.com/join/zgd15gEU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/16/09/88160915-cd66-d72c-47e9-538b3b7f9cdc/DefaultAppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 13
+Beta Available: full
+Last Checked: 2024-06-09T12:22:13.551Z
+Categories:
+
+
