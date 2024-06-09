@@ -3040,3 +3040,120 @@ Last Checked: 2024-06-09T16:47:09.041Z
 Categories:
 
 
+Name: iTAK
+Url: https://testflight.apple.com/join/tSqpq4EI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/80/17/aa8017d6-301c-f555-34e7-9e255bd83764/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T16:48:09.730Z
+Categories:
+
+
+Name: FluxStore manager
+Url: https://testflight.apple.com/join/7a7i6Hst
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/e8/86/83e886c2-a10b-d5af-99a1-d55252db5243/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:48:09.766Z
+Categories:
+
+
+Name: Zendure
+Url: https://testflight.apple.com/join/b1s01DSx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7f/97/c2/7f97c2fa-381e-e81c-4ecb-d470269d520c/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:48:09.801Z
+Categories:
+
+
+Name: J&T Driver.Vietnam
+Url: https://testflight.apple.com/join/ngwb0Mpe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/b6/81/36b68116-14e5-649d-c8af-f48fc4a3b291/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:48:09.837Z
+Categories:
+
+
+Name: STJK
+Url: https://testflight.apple.com/join/4jJ5SvMg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/24/44/65244417-5eee-643b-caae-47e304ef7a0c/AppIcon-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:48:09.873Z
+Categories:
+
+
+Name: Textastic Code Editor
+Url: https://testflight.apple.com/join/QdnuMySm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/5b/24/8f5b2471-de30-0f32-db2b-108325ea43b4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T16:48:09.908Z
+Categories:
+
+
+Name: Newslaundry
+Url: https://testflight.apple.com/join/pQpstpDK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/d6/8c/d5d68c43-f842-233b-f2fb-0e2e14e55cbf/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:48:09.944Z
+Categories:
+
+
+Name: Phira
+Url: https://testflight.apple.com/join/Y4lVszTN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/10/64/be106414-6732-1527-8b1e-d961e04fb1cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-09T16:48:09.979Z
+Categories:
+
+
+Name: Prana.io
+Url: https://testflight.apple.com/join/JDZDY79Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/05/39/e405394c-477f-e576-0efb-98fd59d96468/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:48:10.014Z
+Categories:
+
+
+Name: Anime boxes
+Url: https://testflight.apple.com/join/8U7wjAiP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/7d/b8/c37db82f-90dc-5a26-985c-08d666eb4a2e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 15
+Beta Available: open
+Last Checked: 2024-06-09T16:48:10.049Z
+Categories:
+
+
+Name: Snowpack VIPN
+Url: https://testflight.apple.com/join/oFvpDxPL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/4d/61/4d4d614a-9587-6aa3-8270-5abf5b74f917/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:48:10.085Z
+Categories:
+
+
+Name: Microsoft Translator
+Url: https://testflight.apple.com/join/xOWLmqjv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f0/4d/aa/f04daaef-14ba-5f12-e548-13139c2db702/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:48:10.120Z
+Categories:
+
+
+Name: KastlePresence
+Url: https://testflight.apple.com/join/meWAMyDv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/64/15/a66415ff-e99d-a6f1-d77f-0e90c9460850/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:48:10.155Z
+Categories:
+
+
