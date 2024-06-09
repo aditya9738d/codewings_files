@@ -4365,3 +4365,120 @@ Last Checked: 2024-06-09T12:35:19.399Z
 Categories:
 
 
+Name: GSG Hub
+Url: https://testflight.apple.com/join/ZLJiCmn8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/ef/b4/1eefb447-06b7-0d14-cfa3-c6e9ee3aa052/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:10.796Z
+Categories:
+
+
+Name: ConstCash: Budget Manager
+Url: https://testflight.apple.com/join/J8ZGt0bI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/4e/1f/ab4e1f4e-9c53-578a-9399-3e864c427b81/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:10.825Z
+Categories:
+
+
+Name: Airbuds Widget
+Url: https://testflight.apple.com/join/0nEOUD24
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/9f/44/169f447e-c832-fec6-bcb3-4373e6c19e3e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:10.853Z
+Categories:
+
+
+Name: ImmersiShare
+Url: https://testflight.apple.com/join/U3hiGLkV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/ef/f9/f0eff9e5-9e98-bf0b-01a9-0ee3998053c8/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:10.880Z
+Categories:
+
+
+Name: ms24
+Url: https://testflight.apple.com/join/uRwF4TEx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/2f/17/462f170f-5129-c1f3-b924-5f250e159040/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:10.908Z
+Categories:
+
+
+Name: Vasion Automate Pro
+Url: https://testflight.apple.com/join/V6crlrbN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/34/5d/ea345dcf-75a8-adca-f275-93ee92461dc6/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:10.936Z
+Categories:
+
+
+Name: Jupiter WCS
+Url: https://testflight.apple.com/join/YE1S7oxZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/78/7c/a2787c33-6d4c-3e96-c062-48d44bfc55de/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:10.963Z
+Categories:
+
+
+Name: iSpeechRecorder Live
+Url: https://testflight.apple.com/join/q17NZ1RO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/47/fd/9547fd4a-ad7b-188b-2a2b-0b1f5faa1e62/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:10.992Z
+Categories:
+
+
+Name: Jitsi Meet
+Url: https://testflight.apple.com/join/isy6ja7S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/3d/fc/fe3dfc47-e5f5-4933-5d4a-60e8f4157925/AppIconRelease-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:11.020Z
+Categories:
+
+
+Name: Coinoverse
+Url: https://testflight.apple.com/join/kh4CD9t2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/18/fb/8018fb46-2031-42f9-305b-a7d8c91e8551/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:11.048Z
+Categories:
+
+
+Name: Sleep Cycle - Tracker & Sounds
+Url: https://testflight.apple.com/join/tCeANbZi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/42/f0/6142f0f3-6cbc-55c6-ec38-4d55f166c3a6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:11.076Z
+Categories:
+
+
+Name: Virgin TV Anywhere Ireland
+Url: https://testflight.apple.com/join/JTLqhtdP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/07/87/cf07873e-7e7b-a10f-d584-dc89ae221b12/AppIcon-virgin_ie-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T12:36:11.104Z
+Categories:
+
+
+Name: Apptile Admin
+Url: https://testflight.apple.com/join/RjifTcpD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/74/7d/f6747d3b-4093-731d-4de6-3c9da19ac1b7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:36:11.135Z
+Categories:
+
+
