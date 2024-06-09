@@ -15714,3 +15714,120 @@ Last Checked: 2024-06-09T14:22:12.166Z
 Categories:
 
 
+Name: Exult Engine
+Url: https://testflight.apple.com/join/D1qeCZAB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/52/3a/e8523a26-03a1-5b02-9898-a64c59f1c3e7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.113Z
+Categories:
+
+
+Name: Diligent: Minimal Daily Habits
+Url: https://testflight.apple.com/join/N9P4sCtz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/64/e3/0f64e37f-6d12-c34a-4b6c-c2ab30fee8ea/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.142Z
+Categories:
+
+
+Name: Room 4™
+Url: https://testflight.apple.com/join/P7q8o1bb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/ec/24/ecec24c9-4339-1256-300b-ba8c5f034aff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.170Z
+Categories:
+
+
+Name: CharMap — Unicode Characters
+Url: https://testflight.apple.com/join/jhiYnxfr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/db/bb/55dbbb7c-0516-f63a-2958-789c84cc8c24/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.199Z
+Categories:
+
+
+Name: MedPal-AI
+Url: https://testflight.apple.com/join/MQIM3fFZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/d1/8d/b5d18def-6edb-fa0f-3763-8a029a9dab3e/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.227Z
+Categories:
+
+
+Name: WW.Rocket.Chat
+Url: https://testflight.apple.com/join/tgoNx3rx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/28/25/e32825af-5c64-2095-57d0-d0eec55d14b6/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.255Z
+Categories:
+
+
+Name: KeePassium (KeePass passwords)
+Url: https://testflight.apple.com/join/y8R6iLlK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/27/2d/83272d39-7b4e-a3be-4b96-3a74bdac03b6/app-icon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.284Z
+Categories:
+
+
+Name: EMobile7
+Url: https://testflight.apple.com/join/zzkHHQtj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/71/68/d67168be-b4c3-5904-8a85-73b03223e386/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.313Z
+Categories:
+
+
+Name: ConnectEBT(UAT)
+Url: https://testflight.apple.com/join/qolQIhD4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/1c/52/1c1c5297-05eb-d382-6b64-8c57edb0e797/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.342Z
+Categories:
+
+
+Name: TCL Connect
+Url: https://testflight.apple.com/join/aAJoEr9z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/fe/8c/5bfe8c7d-155d-5637-5cb1-5214200048b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.370Z
+Categories:
+
+
+Name: Goverland - All DAOs, One App
+Url: https://testflight.apple.com/join/RXPCZXIg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/83/96/e983965a-e6f4-eeb9-508f-7e8232e81139/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.398Z
+Categories:
+
+
+Name: Unnus
+Url: https://testflight.apple.com/join/52wdtrc9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/d6/9c/a5d69c0c-c048-dfcf-beb8-0b3a7dcc29af/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:23:09.427Z
+Categories:
+
+
+Name: ProgTV
+Url: https://testflight.apple.com/join/RKN8upW7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/0a/b7/ba0ab77c-da1a-11a6-1b2f-4b67695c3196/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-09T14:23:09.459Z
+Categories:
+
+
