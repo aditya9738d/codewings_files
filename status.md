@@ -7486,3 +7486,120 @@ Last Checked: 2024-06-09T07:10:30.407Z
 Categories:
 
 
+Name: Wicked Pay
+Url: https://testflight.apple.com/join/xzu2aLo1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/f2/53/83f2539c-df35-9bda-8534-d7bfc01012e4/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T07:14:10.872Z
+Categories:
+
+
+Name: Yr beta
+Url: https://testflight.apple.com/join/Me9nxl5B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/e2/ef/92e2ef27-71f9-f784-497a-c1ff6b35f6b9/AppIconBeta-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T07:14:10.901Z
+Categories:
+
+
+Name: Culture Drive
+Url: https://testflight.apple.com/join/68m4jiFo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/fc/b6/11fcb646-6407-251a-96e1-11d6323cc87f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:14:10.931Z
+Categories:
+
+
+Name: Picme - Get the Real Picture.
+Url: https://testflight.apple.com/join/MmJ4tvUr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/b5/ab/85b5ab85-ce50-5b7b-89d5-b7fd6ad5401a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:14:10.959Z
+Categories:
+
+
+Name: BeUs
+Url: https://testflight.apple.com/join/dRdvY8tY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3b/4b/31/3b4b317d-baa1-3095-6511-647ec375f33a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T07:14:10.988Z
+Categories:
+
+
+Name: DiscoCat: Discography Catalog
+Url: https://testflight.apple.com/join/Ej6BjCOX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/83/c7/1b/83c71bc9-4993-cdb1-1e5b-d93241e07d58/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:14:11.016Z
+Categories:
+
+
+Name: Emerging Wealth
+Url: https://testflight.apple.com/join/d8gZfHIF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/ab/42/5fab427f-1013-044e-b906-88f9c7780628/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:14:11.045Z
+Categories:
+
+
+Name: Galaxy Mix - Planet Watermelon
+Url: https://testflight.apple.com/join/jiUTaOLn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ed/89/fa/ed89fae1-1ec0-d247-b71b-0f8dcc4759c0/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:14:11.074Z
+Categories:
+
+
+Name: Qubix Octopus
+Url: https://testflight.apple.com/join/vDSTnxYq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/57/dd/ec57dd78-56ee-51db-6637-7e68489989d7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 75
+Beta Available: not accepting
+Last Checked: 2024-06-09T07:14:11.102Z
+Categories:
+
+
+Name: Forza Football - Live Scores
+Url: https://testflight.apple.com/join/5PNxaBZ1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/52/90/b25290da-0bb6-e62b-5bd5-2da435015aee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:14:11.130Z
+Categories:
+
+
+Name: Omantel
+Url: https://testflight.apple.com/join/Z4EpotC2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/44/8f/d4448fff-9928-a7ad-3d99-852251077271/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:14:11.158Z
+Categories:
+
+
+Name: KyPass - KeePass in Sync
+Url: https://testflight.apple.com/join/wlZmOo9t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/b2/08/fbb20883-680e-04bf-48f4-99ac7867809f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:14:11.187Z
+Categories:
+
+
+Name: Zeus by Kayyo
+Url: https://testflight.apple.com/join/3YG9GdcS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/04/0c/af040c34-bc77-f32f-5035-fe92a5f964f2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T07:14:11.216Z
+Categories:
+
+
