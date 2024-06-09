@@ -26829,3 +26829,120 @@ Last Checked: 2024-06-09T16:07:11.299Z
 Categories:
 
 
+Name: Sparkle!
+Url: https://testflight.apple.com/join/G1UlOO1U
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/d2/8d/0fd28dad-a85c-d2bc-0dfc-0d249a342f17/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:08:12.180Z
+Categories:
+
+
+Name: Bo
+Url: https://testflight.apple.com/join/HSp56cGC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/50/99/e5509932-d2d1-8a72-bad5-f3327dcbe5d4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T16:08:12.216Z
+Categories:
+
+
+Name: ThumbTracks
+Url: https://testflight.apple.com/join/oyHhSFEo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/e1/f6/cde1f63f-59e5-7139-199a-94742ae500d3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:08:12.250Z
+Categories:
+
+
+Name: ResortCleaning-Offline
+Url: https://testflight.apple.com/join/exluBlmy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/aa/b1/d7aab142-f23a-a4a6-c7f5-7392404edd3f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:08:12.284Z
+Categories:
+
+
+Name: Intel Stack
+Url: https://testflight.apple.com/join/p7c1zkJ0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/79/00/0b790044-7faf-6a56-9bf8-f235a0e378f8/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:08:12.319Z
+Categories:
+
+
+Name: BingX: Crypto Social Trading
+Url: https://testflight.apple.com/join/6JO3n2CQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/a2/c3/2fa2c3b2-4a82-1800-6070-8874852a0f2d/AppIcon_bingbon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:08:12.354Z
+Categories:
+
+
+Name: ECNL
+Url: https://testflight.apple.com/join/XNQh08h8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/8f/5b/338f5b6b-4af5-204f-4a44-839ebe7d2250/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:08:12.388Z
+Categories:
+
+
+Name: NSDA
+Url: https://testflight.apple.com/join/DA4TkNoI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/a0/e2/b9a0e229-32bf-83c5-a9a4-8569c508580e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:08:12.423Z
+Categories:
+
+
+Name: Demo - Estabelecimento
+Url: https://testflight.apple.com/join/GZftrrmc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/16/7b/16167b73-b066-2ab8-97d6-853c63677efa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:08:12.458Z
+Categories:
+
+
+Name: Abridge for Clinicians
+Url: https://testflight.apple.com/join/epSYmLhJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/78/c0/69/78c06977-6b03-d393-7279-45c761510ae0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:08:12.492Z
+Categories:
+
+
+Name: Lyd - Watch Remote for Sonos
+Url: https://testflight.apple.com/join/aNMuMdq9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/20/e5/42/20e542a1-05c8-b154-af10-a2e734cbe1b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:08:12.527Z
+Categories:
+
+
+Name: Healthway Medical Doctor
+Url: https://testflight.apple.com/join/jtHExqEw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/7a/50/697a50a0-3cc2-1e4c-927d-215394614e04/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:08:12.562Z
+Categories:
+
+
+Name: MccRemitOne
+Url: https://testflight.apple.com/join/wsHijQvZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/1f/bc/111fbcda-c97f-7959-ba17-03a25b83792e/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T16:08:12.597Z
+Categories:
+
+
