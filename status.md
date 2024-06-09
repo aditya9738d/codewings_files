@@ -17937,3 +17937,120 @@ Last Checked: 2024-06-09T14:41:11.195Z
 Categories:
 
 
+Name: OfficeSuite Sheets
+Url: https://testflight.apple.com/join/i5vRfqkD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/57/5d/58575d13-5ffb-bca1-529d-93f68e88fd5c/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T14:42:11.844Z
+Categories:
+
+
+Name: KryptoPoker
+Url: https://testflight.apple.com/join/Mv3vEy0C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/09/98/3e09982d-8b3d-5b80-b67f-e1dff9a2e320/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T14:42:11.880Z
+Categories:
+
+
+Name: LNDU+
+Url: https://testflight.apple.com/join/TBR0bOOL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/18/08/6a180857-ceba-2d52-57c5-e76858ca3d9b/AppIcon-0-0-1x_U007ephone-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:42:11.917Z
+Categories:
+
+
+Name: Samsung Shop
+Url: https://testflight.apple.com/join/FVoXfI5R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/80/4a/ad804ac4-bba1-52e5-56f1-96578f39fd6c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-09T14:42:11.953Z
+Categories:
+
+
+Name: Castle Empire
+Url: https://testflight.apple.com/join/p6Vl1pLP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/80/c0/b180c0fe-bd1c-b81e-a371-49df1c09e5ec/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T14:42:11.988Z
+Categories:
+
+
+Name: SushiDebtOff
+Url: https://testflight.apple.com/join/TWfxi97k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/08/0e/3f080e5e-9bea-655e-80c6-c0a0cb815ee9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:42:12.023Z
+Categories:
+
+
+Name: Welco - Relais particuliers
+Url: https://testflight.apple.com/join/DvCGTiws
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/92/7a/a9927a6f-f4aa-0d1f-0d51-6abc86466aa2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:42:12.059Z
+Categories:
+
+
+Name: Wipi
+Url: https://testflight.apple.com/join/uABDyoSk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/66/d2/7d66d22f-26bd-32d0-276d-6a9a0dededd1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T14:42:12.094Z
+Categories:
+
+
+Name: Nro O...
+Url: https://testflight.apple.com/join/B4KxzFpu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/c8/5b/12c85b19-59a9-9b21-f3ff-6f839b36f6ec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:42:12.129Z
+Categories:
+
+
+Name: Hello smart (SIT)
+Url: https://testflight.apple.com/join/6KxvN9lz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c9/f1/7ec9f128-0e9a-adce-37c2-18707212c218/AppIconSIT-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:42:12.165Z
+Categories:
+
+
+Name: Bitkub Metaverse
+Url: https://testflight.apple.com/join/hrwqekVZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/03/ad/df03ad5b-2be5-b7f0-6776-43e1484e4bf6/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:42:12.201Z
+Categories:
+
+
+Name: Penguin Run: Escape from Ice
+Url: https://testflight.apple.com/join/wqstETKZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/2c/07/e62c0777-85d8-0100-2008-f87bd4f195cb/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:42:12.236Z
+Categories:
+
+
+Name: mindlife
+Url: https://testflight.apple.com/join/kdt9LWvX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/e6/fa/a7e6faab-104d-1d28-463f-1055d27ea2e9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:42:12.273Z
+Categories:
+
+
