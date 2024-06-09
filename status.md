@@ -18725,3 +18725,120 @@ Last Checked: 2024-06-09T01:15:23.940Z
 Categories:
 
 
+Name: zDrip
+Url: https://testflight.apple.com/join/ckUeZYVm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/be/2f/6dbe2ffb-d6e7-c9c3-8c58-e1ce4074efac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T01:18:08.781Z
+Categories:
+
+
+Name: Tata CLiQ Palette: Shop Beauty
+Url: https://testflight.apple.com/join/SPetKI7I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/4e/d3/4b4ed358-0b68-70fa-db4b-fbcee97b9750/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:18:08.817Z
+Categories:
+
+
+Name: Nautica WooCommerce
+Url: https://testflight.apple.com/join/mrvIRLfw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/d5/00/bdd50052-a38d-7947-91ce-772e444bb814/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:18:08.855Z
+Categories:
+
+
+Name: HerVenture
+Url: https://testflight.apple.com/join/8nPxfqGS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/d6/c1/88d6c1cf-f4f9-d5c7-c113-17b25d343caa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T01:18:08.892Z
+Categories:
+
+
+Name: A1Metal
+Url: https://testflight.apple.com/join/zAwmxkh5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/1d/e2/ba1de242-ab56-75f0-a199-d15079e3871d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:18:08.929Z
+Categories:
+
+
+Name: I Remember When
+Url: https://testflight.apple.com/join/hEh8SXPI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/7f/97/267f9717-54fd-3ece-28d5-1fba484ebd12/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:18:08.964Z
+Categories:
+
+
+Name: Twilar
+Url: https://testflight.apple.com/join/dKYsGQ2n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/ba/3c/40ba3cbd-f288-5328-b381-c58cad49867e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T01:18:09.000Z
+Categories:
+
+
+Name: Wire • Secure Messenger
+Url: https://testflight.apple.com/join/TiFZsCXi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/88/8e/11888ea4-f916-70ea-6868-db54a90213a8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:18:09.036Z
+Categories:
+
+
+Name: PaperWorks - your business app
+Url: https://testflight.apple.com/join/7InzeakC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2a/c7/49/2ac749bf-0da1-5df3-4169-f136cdc44f5a/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T01:18:09.074Z
+Categories:
+
+
+Name: Hisense Hi-Mit II
+Url: https://testflight.apple.com/join/1wO01ljO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a3/34/e6a33428-343c-b468-ca9f-3e42c1b84324/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:18:09.110Z
+Categories:
+
+
+Name: MAX2GO
+Url: https://testflight.apple.com/join/x0MOgcSq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7e/1a/d8/7e1ad818-176a-298a-d226-2769263f9298/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:18:09.145Z
+Categories:
+
+
+Name: Pulse4Fitness
+Url: https://testflight.apple.com/join/UgC1vFwz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f1/f3/7b/f1f37b1d-b851-066c-f524-55816cfff3c4/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:18:09.182Z
+Categories:
+
+
+Name: Passare Beta
+Url: https://testflight.apple.com/join/4EShbzzF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/11/10/17111009-77c1-9b6b-2575-abb56726e478/AppIconBeta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T01:18:09.218Z
+Categories:
+
+
