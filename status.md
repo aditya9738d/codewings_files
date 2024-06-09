@@ -26946,3 +26946,120 @@ Last Checked: 2024-06-09T16:08:12.597Z
 Categories:
 
 
+Name: Stampede V7
+Url: https://testflight.apple.com/join/a1q1PpDx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/af/13/2baf13be-8031-5158-437f-2d9052bcd552/AppIconLive-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:09:11.619Z
+Categories:
+
+
+Name: mentalport Mental Health Coach
+Url: https://testflight.apple.com/join/95pdvCKt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/25/ec/3b25ecf8-eff4-50ad-70f6-0089cc3dcf45/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:09:11.654Z
+Categories:
+
+
+Name: TEC Canada Staging
+Url: https://testflight.apple.com/join/CqNckDJ3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/ca/43/bdca434f-9055-316b-1121-f09a01bd720d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:09:11.689Z
+Categories:
+
+
+Name: ChaoPatient
+Url: https://testflight.apple.com/join/gAxlW0Kd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/08/4c/79/084c795f-9117-d0e7-74bd-470d80b974c8/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:09:11.724Z
+Categories:
+
+
+Name: IncisionS
+Url: https://testflight.apple.com/join/zguy84Rc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/53/d9/36/53d936e3-9c7d-8dd3-ae11-ce09f4612145/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:09:11.760Z
+Categories:
+
+
+Name: Aung Bar Lay
+Url: https://testflight.apple.com/join/lyJ4vghJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/2a/9e/fc2a9e3b-c26b-4810-9820-aebe119b0e4c/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:09:11.794Z
+Categories:
+
+
+Name: Twitch Beta
+Url: https://testflight.apple.com/join/8vRKFAiY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/53/35/f55335d0-7241-5df3-2ee9-f3fef308796d/XarthAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 122
+Beta Available: open
+Last Checked: 2024-06-09T16:09:11.830Z
+Categories:
+
+
+Name: Tamweel
+Url: https://testflight.apple.com/join/5Xw0cTFz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/b2/43/2fb24363-e610-ae9d-170f-32191f885ff5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:09:11.865Z
+Categories:
+
+
+Name: Nexus - Mobile Wallet
+Url: https://testflight.apple.com/join/dJLBiKzt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/26/8e/46268e1c-bd06-8e42-5b83-f6f451dc78c3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:09:11.899Z
+Categories:
+
+
+Name: Wonga Swiss 2.0
+Url: https://testflight.apple.com/join/4qzEY0Xg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/64/9d/fe649df9-038e-611d-1f81-e70a210b8e5c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:09:11.935Z
+Categories:
+
+
+Name: 24 Hour Wallpaper
+Url: https://testflight.apple.com/join/OW9iNMED
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/98/8d/bf988ddc-7421-0e0d-c19a-86336a6c8a7d/AppIcon-0-0-85-220-0-0-4-0-2x-0-0-0.png/200x200bb-80.png
+Click Count: 13
+Beta Available: open
+Last Checked: 2024-06-09T16:09:11.970Z
+Categories:
+
+
+Name: Taska for GitHub/GitLab Issues
+Url: https://testflight.apple.com/join/C1wZmUlK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/b6/86/1bb686cb-9364-08bc-23a0-7f6d79927759/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:09:12.005Z
+Categories:
+
+
+Name: Zenze
+Url: https://testflight.apple.com/join/E03ZubTj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/2c/64/892c64b9-7560-74b4-6f83-bb059ab46739/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T16:09:12.040Z
+Categories:
+
+
