@@ -18374,3 +18374,120 @@ Last Checked: 2024-06-09T00:59:09.935Z
 Categories:
 
 
+Name: Castaways Mobile
+Url: https://testflight.apple.com/join/g4wsHwa6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/71/e5/bc71e51a-bda6-f76d-1766-fa13583892e0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:09:07.666Z
+Categories:
+
+
+Name: Dreamehome
+Url: https://testflight.apple.com/join/IWeuSs78
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/df/24/d3df2462-df21-d9f4-e64f-b232361fe84d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:09:07.701Z
+Categories:
+
+
+Name: EinsatzTablet
+Url: https://testflight.apple.com/join/8WAnCt2K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/98/48/af98487e-8076-5895-d8cc-d9d3c8c89238/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 27
+Beta Available: open
+Last Checked: 2024-06-09T01:09:07.736Z
+Categories:
+
+
+Name: Par Groups
+Url: https://testflight.apple.com/join/9GgIvLpB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/9c/5c/8d9c5c76-b722-c0d6-b500-e4a873c1b7ff/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:09:07.772Z
+Categories:
+
+
+Name: Alipay+ Linker Wallet
+Url: https://testflight.apple.com/join/eFAxdeIz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/be/f3/d2bef341-0799-262d-ea72-5982f91f809a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:09:07.807Z
+Categories:
+
+
+Name: Fantasy Jigsaw - HD Puzzle
+Url: https://testflight.apple.com/join/BOzhOTi3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/09/6d/73096dca-6039-9074-d013-84c6626c75dd/AppIcon-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:09:07.842Z
+Categories:
+
+
+Name: Suunto ZH
+Url: https://testflight.apple.com/join/0mD9QyKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/f5/65/d9f5653f-fdee-fca5-3995-77b5486ed7d6/SuuntoAppIcon-1x_U007emarketing-0-7-0-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T01:09:07.877Z
+Categories:
+
+
+Name: Limbo APP
+Url: https://testflight.apple.com/join/cXMvdFpd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/f1/42/1ef14203-ec9d-dcdd-67ba-fd7f97fd2334/limbo_prodAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:09:07.912Z
+Categories:
+
+
+Name: WisPro Business
+Url: https://testflight.apple.com/join/MJch86Qt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/80/08/af800831-311e-df47-20a8-7156a831f751/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:09:07.947Z
+Categories:
+
+
+Name: Wyrr
+Url: https://testflight.apple.com/join/2TyQkLz8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/09/da/1a/09da1a99-363a-74e2-4ae0-773f1780fa9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:09:07.982Z
+Categories:
+
+
+Name: Relax_AN
+Url: https://testflight.apple.com/join/F9iQi6PG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/ba/3c/63ba3c6f-d7b0-b325-6bf9-f460d18cdd76/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:09:08.018Z
+Categories:
+
+
+Name: HIPHOP SMART
+Url: https://testflight.apple.com/join/fC4nrQfl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/a1/cd/4ba1cd3d-f63b-974a-6630-d77a80a46c70/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T01:09:08.053Z
+Categories:
+
+
+Name: champion Beta
+Url: https://testflight.apple.com/join/ObKaA1Uz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/ac/da/aeacdaa3-3636-f395-e437-f9fb14d4fb35/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:09:08.090Z
+Categories:
+
+
