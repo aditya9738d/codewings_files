@@ -20628,3 +20628,120 @@ Last Checked: 2024-06-09T15:10:29.917Z
 Categories:
 
 
+Name: Metacast: Podcast Player
+Url: https://testflight.apple.com/join/5ubyRzbg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/13/ae/5913aea9-1623-3bad-b64f-88803813d4ed/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:11:10.601Z
+Categories:
+
+
+Name: MySecretCase
+Url: https://testflight.apple.com/join/oqovz2xl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c2/45/99/c24599d5-a24e-0155-8861-602263547daf/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T15:11:10.636Z
+Categories:
+
+
+Name: C4CG Staff
+Url: https://testflight.apple.com/join/x0ni7LH8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/d6/6e/b0d66e03-6808-ca5e-688c-3793b9022415/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:11:10.671Z
+Categories:
+
+
+Name: WeFTTR
+Url: https://testflight.apple.com/join/ah0Uqrw5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0e/22/c7/0e22c7d8-46e0-7e76-b09d-b9b7a38b6401/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:11:10.707Z
+Categories:
+
+
+Name: LILIN Pro
+Url: https://testflight.apple.com/join/9XwvKbjH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/23/33/f3233325-06be-ce3b-7f64-ec9cd73cdecf/LILINHomeAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:11:10.742Z
+Categories:
+
+
+Name: KlipC:FX Copytrading Community
+Url: https://testflight.apple.com/join/sb8EbOpI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/98/ab/3098ab30-d3f4-b754-020c-b40927e829bc/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:11:10.777Z
+Categories:
+
+
+Name: Textico
+Url: https://testflight.apple.com/join/2FByd1sj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/af/d7/4fafd7e7-02ca-bede-7609-f6f7ab2924b4/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T15:11:10.812Z
+Categories:
+
+
+Name: Argyle Beta
+Url: https://testflight.apple.com/join/8lkKGriz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/87/30/3387307a-205d-dcfb-b1a1-2effcbea919d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:11:10.847Z
+Categories:
+
+
+Name: solider-pro
+Url: https://testflight.apple.com/join/Imex7ySX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/39/cc/5639cc43-ec2d-d18b-ad62-4839ffd21aec/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:11:10.883Z
+Categories:
+
+
+Name: UDTalk
+Url: https://testflight.apple.com/join/EoNrvbEy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/d7/2f/b9d72f2f-d52d-c673-7b02-da3596b8bd90/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T15:11:11.521Z
+Categories:
+
+
+Name: DevExpress .NET MAUI UI
+Url: https://testflight.apple.com/join/NYyTTjvB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/5c/7b/215c7b54-4c64-cbee-a1c2-921b8adf291e/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:11:11.559Z
+Categories:
+
+
+Name: Atomic Finance: Bitcoin DeFi
+Url: https://testflight.apple.com/join/AjYeBiZl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/bb/e7/28bbe7c2-eca9-f82a-39b9-dd302ca20904/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:11:11.594Z
+Categories:
+
+
+Name: DTRadio
+Url: https://testflight.apple.com/join/KbyWMTAa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ea/00/13ea009c-e9da-0403-11ca-18cf5dd5d45a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:11:11.629Z
+Categories:
+
+
