@@ -20597,3 +20597,120 @@ Last Checked: 2024-06-09T01:54:11.432Z
 Categories:
 
 
+Name: Helios Scanning
+Url: https://testflight.apple.com/join/xDtRI9Mw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/8b/87/088b8712-4e16-3937-c5ee-41f1d0806370/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:56:14.923Z
+Categories:
+
+
+Name: Matriks Mobil IQ: Borsa Döviz
+Url: https://testflight.apple.com/join/xCv2GqHV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2f/00/01/2f0001ab-f412-8a2b-8e40-229487545a55/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:56:14.961Z
+Categories:
+
+
+Name: ChainUp Custody Pro
+Url: https://testflight.apple.com/join/xWXcCMXS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/83/44/d9834467-4f1a-1bfd-a79a-d3fc16bb627c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:56:14.997Z
+Categories:
+
+
+Name: Realm Rivals
+Url: https://testflight.apple.com/join/HNBq62FJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/15/47/2b154731-59e8-144b-5e13-0552ae49160f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:56:15.034Z
+Categories:
+
+
+Name: Land Steiermark
+Url: https://testflight.apple.com/join/KKgjisJl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/b8/a0/a1b8a022-1646-ff14-cd8c-e7c9421c0d9c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:56:15.070Z
+Categories:
+
+
+Name: Microsoft OneDrive
+Url: https://testflight.apple.com/join/LtgPLzrQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/4c/7d/f44c7d52-e71c-0eea-7dbc-6affa396e264/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-09T01:56:15.106Z
+Categories:
+
+
+Name: Azkar
+Url: https://testflight.apple.com/join/A1d1W5Ch
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/52/40/4b524009-b52f-b299-1a6f-05b779526e91/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:56:15.143Z
+Categories:
+
+
+Name: Tokybook Membership New
+Url: https://testflight.apple.com/join/LQDHdZE5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/20/9b/38209b73-b3d2-69c8-a2e8-b165cff191e6/AppIcon-1x_U007epad-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:56:15.181Z
+Categories:
+
+
+Name: Front Row Live Concerts
+Url: https://testflight.apple.com/join/gwL3pT5t
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/ec/97/64ec9765-b08e-ee21-078b-0b15b06caab9/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T01:56:15.218Z
+Categories:
+
+
+Name: CollaNote: Handwritting & PDF
+Url: https://testflight.apple.com/join/AUPFQ7nd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/83/36/ac83365b-466a-0380-8dd5-82d4d492f776/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-GLES2_U002c0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:56:15.255Z
+Categories:
+
+
+Name: nft folder
+Url: https://testflight.apple.com/join/LR1Ye7sA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/90/44/639044b6-a01c-dca0-efba-d89f60269e91/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:56:15.292Z
+Categories:
+
+
+Name: S.Mario
+Url: https://testflight.apple.com/join/HLKh7Jx9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/41/bc/a6/41bca66a-42cb-9170-f517-6ac4858a823d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:56:15.329Z
+Categories:
+
+
+Name: Baseline - How to get fit
+Url: https://testflight.apple.com/join/3XpiHAwS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7e/ca/84/7eca8457-b158-0605-4ffc-335c23518ad0/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T01:56:15.365Z
+Categories:
+
+
