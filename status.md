@@ -938,3 +938,120 @@ Last Checked: 2024-06-09T12:06:11.962Z
 Categories:
 
 
+Name: Windows App Mobile Preview
+Url: https://testflight.apple.com/join/q4ha2nsh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/42/33/44/4233446f-780d-36a8-1e6c-4c4a22cccf3e/AppIconBeta-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 206
+Beta Available: full
+Last Checked: 2024-06-09T12:07:10.308Z
+Categories:
+- Utility
+
+Name: SiYuan
+Url: https://testflight.apple.com/join/BBLHMJ4g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/3f/45/4a3f4501-1b1a-b9db-81d8-e30735a9e9d9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T12:07:10.345Z
+Categories:
+
+
+Name: Telenet TV
+Url: https://testflight.apple.com/join/nYWzw0px
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/90/a5/3f90a50b-f1fb-b74e-0bd5-ed96a7b13243/AppIcon-telenet-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 31
+Beta Available: full
+Last Checked: 2024-06-09T12:07:10.383Z
+Categories:
+
+
+Name: iPlayTV AIO
+Url: https://testflight.apple.com/join/irMsXGg0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/29/b5/b929b53b-aae9-1a06-317a-99a9ce32ee31/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 30
+Beta Available: open
+Last Checked: 2024-06-09T12:07:10.420Z
+Categories:
+
+
+Name: Deskmodder
+Url: https://testflight.apple.com/join/m0B6XJbE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/68/dd/ab68dddd-2742-6009-aa24-379d29a99b96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-09T12:07:10.458Z
+Categories:
+
+
+Name: Knight
+Url: https://testflight.apple.com/join/bOzxqdei
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/68/7e/d8687eda-71ae-fb1d-323f-16fdc8c55862/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png
+Click Count: 15
+Beta Available: open
+Last Checked: 2024-06-09T12:07:10.494Z
+Categories:
+- Games
+
+Name: MyOrderApp Demo
+Url: https://testflight.apple.com/join/YzHlJoxQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d3/88/bf/d388bfc0-5fc1-0d71-7f45-f202be893710/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 18
+Beta Available: not accepting
+Last Checked: 2024-06-09T12:07:10.530Z
+Categories:
+
+
+Name: NotePlan - Planning with Notes
+Url: https://testflight.apple.com/join/fm9q4OjE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/dc/d9/83dcd9a4-6461-f8a2-77e6-8d22d67f967c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:07:10.566Z
+Categories:
+
+
+Name: Ninja School
+Url: https://testflight.apple.com/join/O1jTSJWE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/6e/ef/e66eefd9-f38c-7e97-c628-17a8c3a1f059/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 39
+Beta Available: open
+Last Checked: 2024-06-09T12:07:10.601Z
+Categories:
+- Games
+
+Name: Spezi Template Application
+Url: https://testflight.apple.com/join/ipEezBY1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/01/2e/39/012e397d-4da0-4e85-9438-4285e10fa13b/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T12:07:10.637Z
+Categories:
+
+
+Name: AMT Mobile V3
+Url: https://testflight.apple.com/join/PwQllkbR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/7d/f0/a77df0ad-38e7-4216-8b17-bcf8dc372695/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-09T12:07:10.674Z
+Categories:
+
+
+Name: Walbi: AI Crypto Assistant
+Url: https://testflight.apple.com/join/QRbXi8u3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/18/4e/6d184e66-81e3-bc9a-ae89-0af3e84d2942/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:07:10.710Z
+Categories:
+
+
+Name: Syncfusion MAUI UI Controls
+Url: https://testflight.apple.com/join/EEOtwVNN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/cf/8c/facf8c85-e9ac-06cf-d8e8-4ffb95479e14/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T12:07:10.747Z
+Categories:
+
+
