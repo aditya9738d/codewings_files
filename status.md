@@ -27142,3 +27142,120 @@ Last Checked: 2024-06-09T20:38:11.947Z
 Categories:
 
 
+Name: WorkoutGPT
+Url: https://testflight.apple.com/join/Gnj7iziU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/c8/3d/d2c83dc5-3ea6-286c-0ca2-69f3bd415bfe/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:39:10.462Z
+Categories:
+
+
+Name: Workspot
+Url: https://testflight.apple.com/join/gKTd3iFb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2e/b3/9a2eb396-92d4-21f3-b63a-0ea8ff9a3674/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T20:39:10.490Z
+Categories:
+
+
+Name: World Reborn
+Url: https://testflight.apple.com/join/nxPJzyDe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/b3/8a/65b38ace-c961-0273-3780-91f8c6b6219b/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:39:10.519Z
+Categories:
+
+
+Name: Wugo: discover local events
+Url: https://testflight.apple.com/join/bkCQOX3i
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/2e/85/992e851b-deae-c173-74d6-8aced74a05f6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:39:10.546Z
+Categories:
+
+
+Name: WunderLINQ GoPro Remote
+Url: https://testflight.apple.com/join/lIl1Uamg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/bd/08/febd087d-d550-ced8-f593-938a8cbe86e7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:39:10.574Z
+Categories:
+
+
+Name: X-CITE IMMO
+Url: https://testflight.apple.com/join/YViZdegX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/cf/f1/6bcff19e-cfc0-9077-b29f-87a85bf15cfa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:39:10.602Z
+Categories:
+
+
+Name: XC Partner
+Url: https://testflight.apple.com/join/yOL1ULQF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/b7/bd/55b7bdcf-a6ae-96c7-6159-2fbdd0168c3f/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:39:10.630Z
+Categories:
+
+
+Name: XCSweepRobot
+Url: https://testflight.apple.com/join/IwHX5NxP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/09/bf/c609bfa0-baeb-f6f2-5eed-0b473209a275/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T20:39:10.658Z
+Categories:
+
+
+Name: XGPT: AI Crypto Assistant
+Url: https://testflight.apple.com/join/4ORn5SiB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/78/37/a6783715-abf7-5f64-99a9-540a8abf7394/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:39:10.686Z
+Categories:
+
+
+Name: XIM MATRIX Manager
+Url: https://testflight.apple.com/join/wpojexto
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/34/a4/d934a437-e258-4ac3-ed60-d19baeb98f29/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T20:39:10.714Z
+Categories:
+
+
+Name: XVIII Convegno UNISVET
+Url: https://testflight.apple.com/join/KEpHSj7X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/17/37/851737a5-290b-15ce-6751-6b2ab1ebaea7/AppIcon-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:39:10.742Z
+Categories:
+
+
+Name: XXLPoker
+Url: https://testflight.apple.com/join/5PXHiuLi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/84/80/95/84809524-45fc-5570-67de-dc595c9c0b4f/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:39:10.771Z
+Categories:
+
+
+Name: Xam Shoes Pro App
+Url: https://testflight.apple.com/join/l7vKmUe5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/dd/51/e5/dd51e513-fcff-4db4-8fb0-8659032fb6c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:39:10.799Z
+Categories:
+
+
