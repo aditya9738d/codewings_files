@@ -21409,3 +21409,120 @@ Last Checked: 2024-06-09T10:50:23.931Z
 Categories:
 
 
+Name: Saas waiter
+Url: https://testflight.apple.com/join/1FOEhWfz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/29/28/4d/29284d7d-e0e8-7f96-9188-1cc8bc0ce29a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:51:08.146Z
+Categories:
+
+
+Name: Safe Dev
+Url: https://testflight.apple.com/join/Bu0OVZJd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d7/65/7e/d7657e51-043c-b68e-9648-04bee71af1c1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:51:08.174Z
+Categories:
+
+
+Name: Sake Discovery - OneSip
+Url: https://testflight.apple.com/join/W5Z3eLUF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/61/41/2d6141c2-d4b5-e3b4-3662-768dbb71834e/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:51:08.202Z
+Categories:
+
+
+Name: Sammy Cash
+Url: https://testflight.apple.com/join/3abHwWlN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/8f/ec/8f8fecef-7997-e60a-66e2-6a41ffbe4900/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:51:08.231Z
+Categories:
+
+
+Name: Samplr
+Url: https://testflight.apple.com/join/VkpeP9uI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/2c/01/6f2c0139-c8c2-1904-427c-d6365d66c4d2/AppIcon-1x_U007emarketing-0-2-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:51:08.259Z
+Categories:
+
+
+Name: Samurai Fight
+Url: https://testflight.apple.com/join/4a8K6ltZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/90/10/f69010b2-a7c3-9185-3c05-9c323de125d7/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:51:08.286Z
+Categories:
+
+
+Name: SaoRong
+Url: https://testflight.apple.com/join/0fcvJObP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ab/05/76/ab057688-aa0a-9e1a-b07d-9b9f3c14795a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:51:08.314Z
+Categories:
+
+
+Name: Sari
+Url: https://testflight.apple.com/join/nkfcGmjE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/6c/a4/076ca4b0-3dd6-541d-248f-c2f1fcc3e68d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:51:08.343Z
+Categories:
+
+
+Name: Satodime
+Url: https://testflight.apple.com/join/1nQlvjgn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c0/a3/27/c0a32719-987b-adb0-f5f9-b56da0c15dbb/AppIcon-0-1x_U007ephone-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:51:08.372Z
+Categories:
+
+
+Name: Save Mart Supermarkets
+Url: https://testflight.apple.com/join/lC1SEIkz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/ab/24/24ab2488-4f23-f91c-8df5-46a1c84c1863/SaveMartAppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:51:08.401Z
+Categories:
+
+
+Name: SaveDay - Your Knowledge Buddy
+Url: https://testflight.apple.com/join/g7rqSkKQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/18/7c/fa/187cfaa3-fc2c-d734-24c9-d7c46a56a66b/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T10:51:08.429Z
+Categories:
+
+
+Name: Scanner App: Genius Scan
+Url: https://testflight.apple.com/join/v2xNVdTt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a3/1d/4c/a31d4cea-de9f-8c09-0f15-c5de9c1056d0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:51:08.458Z
+Categories:
+
+
+Name: SceneShot
+Url: https://testflight.apple.com/join/H7iMSV4u
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/ae/eb/7daeeb68-349a-8e4b-909a-fae097528fc3/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T10:51:08.488Z
+Categories:
+
+
