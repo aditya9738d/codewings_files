@@ -20948,3 +20948,120 @@ Last Checked: 2024-06-09T02:00:52.239Z
 Categories:
 
 
+Name: APDL - Airline Pilot Logbook
+Url: https://testflight.apple.com/join/2qTQVjuG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/dc/e2/efdce217-60bb-a473-d9a7-2071b78e35a7/AppIcons-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T02:02:06.497Z
+Categories:
+
+
+Name: MPay_UAT
+Url: https://testflight.apple.com/join/ifH1rqPF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/35/75/89/357589a9-a228-8abf-b978-9860a5c3b512/AppIconUAT-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T02:02:06.525Z
+Categories:
+
+
+Name: PDC MOBILE
+Url: https://testflight.apple.com/join/NwmhAhfi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/ae/69/d4ae6983-7f06-8d26-b6cf-d8d6068a554f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T02:02:06.553Z
+Categories:
+
+
+Name: Project Celena
+Url: https://testflight.apple.com/join/7QpAlff1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/66/7f/c8667fdc-aae3-b68a-5e3d-099c88271b90/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T02:02:06.585Z
+Categories:
+
+
+Name: CubePlus by Tradejini
+Url: https://testflight.apple.com/join/MOBeDJ4G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/89/41/328941dc-1037-9143-19aa-14fbf05f999e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T02:02:06.613Z
+Categories:
+
+
+Name: SendCrypto - Pay & Send Crypto
+Url: https://testflight.apple.com/join/3atImRmo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/23/4a/ec234a8a-638d-41e7-d4da-bf553d088dda/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T02:02:06.641Z
+Categories:
+
+
+Name: TalkTime
+Url: https://testflight.apple.com/join/s1bkFX7L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/e5/fe/93e5fe27-b0c3-a8dc-d6ca-6504d62bd1a8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T02:02:06.669Z
+Categories:
+
+
+Name: Pastel iOS
+Url: https://testflight.apple.com/join/GK3zuCAQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0b/4b/cb/0b4bcbbf-5bdb-f57f-c7f6-f63bc474fa12/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T02:02:06.696Z
+Categories:
+
+
+Name: BellaLift UAT
+Url: https://testflight.apple.com/join/2y4dHkD8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f2/30/c4/f230c4eb-783c-a40c-a616-ea5d2b673355/AppIcon-BellaLift-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T02:02:06.724Z
+Categories:
+
+
+Name: Utkarsh UPI UAT
+Url: https://testflight.apple.com/join/C4IJHRMy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/13/72/f113728f-fe9d-e6e4-0088-f32bfdd8624c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T02:02:06.753Z
+Categories:
+
+
+Name: Nico Flap
+Url: https://testflight.apple.com/join/GeGzh9pB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/e0/e7/9ee0e777-cd2c-f49a-3587-dac0a1058421/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T02:02:06.781Z
+Categories:
+
+
+Name: KerznerPHO-Demo
+Url: https://testflight.apple.com/join/pPtUtx04
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d3/96/c6/d396c671-4ee3-a54c-f38c-a5db58f4738c/AppIcon-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T02:02:06.810Z
+Categories:
+
+
+Name: Wild Forest
+Url: https://testflight.apple.com/join/nh7RQmKw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/c0/50/76c050de-0874-4bd7-07ac-428fdfd6ff02/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 15
+Beta Available: full
+Last Checked: 2024-06-09T02:02:06.839Z
+Categories:
+
+
