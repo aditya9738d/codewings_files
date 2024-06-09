@@ -4716,3 +4716,120 @@ Last Checked: 2024-06-09T12:38:10.276Z
 Categories:
 
 
+Name: PLN Mobile
+Url: https://testflight.apple.com/join/DGO1D2kT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/63/39/ea633995-4e00-be84-5d9e-de4d8844a4e8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:39:11.208Z
+Categories:
+
+
+Name: AppWage
+Url: https://testflight.apple.com/join/HLMemeqy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/34/42/01344203-dba7-8832-e205-361d34783dc5/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:39:11.244Z
+Categories:
+
+
+Name: Nearby AI - GPT 4 Prompts Omni
+Url: https://testflight.apple.com/join/xHGrkViR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f7/1e/42f71ec2-bfb5-9e9b-83c6-8b3572a73dcd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T12:39:11.280Z
+Categories:
+
+
+Name: iPulse
+Url: https://testflight.apple.com/join/ZgvsV8jn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/d8/16/4bd8164f-a90e-d102-bbb9-7976cf299334/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:39:11.315Z
+Categories:
+
+
+Name: FLY OYA
+Url: https://testflight.apple.com/join/wcScfBmr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/33/5c/87335c78-15be-ce8f-0c22-278d1c5ac104/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:39:11.351Z
+Categories:
+
+
+Name: OpenEarable
+Url: https://testflight.apple.com/join/Kht3e1Cb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/52/38/b05238a2-a708-5f80-48d4-0d7eaa38cce5/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:39:11.386Z
+Categories:
+
+
+Name: Diane
+Url: https://testflight.apple.com/join/zSpWn6S0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/37/db/3b37db70-8ffe-a54e-fcc6-c4f13fd8082c/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T12:39:11.421Z
+Categories:
+
+
+Name: LK8386
+Url: https://testflight.apple.com/join/UxJHV2an
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/07/2d/df072d3a-d879-0266-675d-8028b82d65f9/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T12:39:11.456Z
+Categories:
+
+
+Name: InterPals
+Url: https://testflight.apple.com/join/yZMcGPCc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/c2/b0/14c2b09d-6673-4203-8f3c-3ff83fef2bdb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:39:11.494Z
+Categories:
+
+
+Name: Malwarebytes - Mobile Security
+Url: https://testflight.apple.com/join/3jvaSuyE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/6d/0d/fb6d0d80-026f-5273-b210-7d30e6e03485/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T12:39:11.529Z
+Categories:
+
+
+Name: MY ASSET - MIRAE ASSET(VN)
+Url: https://testflight.apple.com/join/1cImTeaT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/03/6f/e8036fa6-ad1b-6950-5b46-d83bc0120f1c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:39:11.564Z
+Categories:
+
+
+Name: Dubbing AI Voice Changer
+Url: https://testflight.apple.com/join/LX9ho2sb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/d8/67/8ad86711-efb6-570a-ef7a-d2ead3965684/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T12:39:11.600Z
+Categories:
+
+
+Name: LeesSimpel
+Url: https://testflight.apple.com/join/Y4wmUcGd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/f5/01/def5010f-b2da-3471-e74d-04d49e3083f8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:39:11.635Z
+Categories:
+
+
