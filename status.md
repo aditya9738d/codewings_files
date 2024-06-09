@@ -5614,3 +5614,120 @@ Last Checked: 2024-06-09T06:28:13.023Z
 Categories:
 
 
+Name: Bang & Olufsen
+Url: https://testflight.apple.com/join/Zre8WT18
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/d1/0a/e8d10ad4-eb53-7292-babe-ad1582507438/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:29:08.892Z
+Categories:
+
+
+Name: Want 2 Remember
+Url: https://testflight.apple.com/join/Gtv7YJlC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/5c/1c/2d5c1cbe-de2f-cd85-f4d7-3d2c59db517a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:29:08.927Z
+Categories:
+
+
+Name: Bull Trades
+Url: https://testflight.apple.com/join/Un88fY3G
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/2d/99/802d99fc-f280-6900-9d35-b216d9e765ff/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:29:08.963Z
+Categories:
+
+
+Name: OptimoRoute Driver
+Url: https://testflight.apple.com/join/ab6UHjP1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/cd/a6/bccda6c0-c2bc-2c32-5054-f52df44e049b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:29:09.000Z
+Categories:
+
+
+Name: WEST
+Url: https://testflight.apple.com/join/bzEMdtCY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/81/1f/82811ff8-5f80-81d7-45be-8849130cc7aa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:29:09.035Z
+Categories:
+
+
+Name: eCarePlus Staging
+Url: https://testflight.apple.com/join/7kdGUCuv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/0d/a5/7b0da534-7de6-8a4a-d3af-1cdb100ce4a8/AppIcon-0-0-1x_U007ephone-0-9-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:29:09.070Z
+Categories:
+
+
+Name: Lefant
+Url: https://testflight.apple.com/join/8TCe5b03
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/30/54/9f305401-f105-8f59-77bc-e98fc90bc6a0/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:29:09.105Z
+Categories:
+
+
+Name: Speech Talking Newspaper
+Url: https://testflight.apple.com/join/dZGYHqX3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/66/5f/f2/665ff2ce-154c-d6a9-c9f1-27e2cd6ae521/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T06:29:09.140Z
+Categories:
+
+
+Name: 0xPPL
+Url: https://testflight.apple.com/join/JTVnB9JS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/db/95/c7db9527-9099-f5fa-631e-15837df5c7de/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T06:29:09.176Z
+Categories:
+
+
+Name: BTCC-Trade Bitcoin & Crypto
+Url: https://testflight.apple.com/join/avIqvmrR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/93/24/719324db-bc16-a0fd-707f-02abde45b71e/AppIcon-cf-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:29:09.211Z
+Categories:
+
+
+Name: Sandbox POS
+Url: https://testflight.apple.com/join/EAf8FbJu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/5d/49/ea5d4955-6c86-c615-5f48-446f65c2d432/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:29:09.246Z
+Categories:
+
+
+Name: Shred Vault
+Url: https://testflight.apple.com/join/7ewY7V1e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/d7/d2/cbd7d2d9-22c2-2573-60e5-28ba043efdc0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:29:09.282Z
+Categories:
+
+
+Name: Let's Lynx Communications
+Url: https://testflight.apple.com/join/SLy0XhLC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d8/7e/07/d87e07ee-545e-3442-7a70-f835357b166e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T06:29:09.317Z
+Categories:
+
+
