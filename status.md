@@ -26478,3 +26478,120 @@ Last Checked: 2024-06-09T16:04:10.232Z
 Categories:
 
 
+Name: BETA_SoundBar
+Url: https://testflight.apple.com/join/ihUDCKgt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/38/46/6b384654-199a-380d-5c17-fe02a16f74aa/SoundBar2021-AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:19.601Z
+Categories:
+
+
+Name: Vesputio
+Url: https://testflight.apple.com/join/nb7I51Fm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/aa/80/77aa806c-5f91-0e20-de67-b33f345f4ecd/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:19.638Z
+Categories:
+
+
+Name: FunimBeta
+Url: https://testflight.apple.com/join/qZ5ZHVy8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/38/ef/2f38ef95-ddbd-5706-cb5f-22c48fd98803/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T16:05:19.672Z
+Categories:
+
+
+Name: SAl Maryah Bank
+Url: https://testflight.apple.com/join/7qMnjhjs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/cf/a2/88cfa23e-4cee-ad22-4718-7047dc31d650/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:19.707Z
+Categories:
+
+
+Name: NaviExpert - Nawigacja i Mapy
+Url: https://testflight.apple.com/join/TceKlU8h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/48/e6/7248e6eb-6207-8bef-bbe9-27dae6d4e0e3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:19.791Z
+Categories:
+
+
+Name: Blume CarrierGo UAT
+Url: https://testflight.apple.com/join/dzsCoM5k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9d/88/cf/9d88cfe0-fae6-21ea-3f70-753dbe822905/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:19.826Z
+Categories:
+
+
+Name: Bitkit Wallet Beta
+Url: https://testflight.apple.com/join/lGXhnwcC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/b0/93/6bb093e1-9b60-8b47-b4b8-a4a243c83854/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:19.861Z
+Categories:
+
+
+Name: performify
+Url: https://testflight.apple.com/join/hPe3jZ6C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/5a/42/485a424a-7467-f55a-2d4a-096bf0da254c/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:19.895Z
+Categories:
+
+
+Name: The Neighborhood Squatch
+Url: https://testflight.apple.com/join/IDdMLWVz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/cd/e0/e3cde080-f2bc-b2a8-1074-bae2ca45f22b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:19.930Z
+Categories:
+
+
+Name: Solis Finance App
+Url: https://testflight.apple.com/join/hSZPPY3X
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/8f/69/258f6998-83bf-1008-2877-ef74f9a6ceb0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:19.965Z
+Categories:
+
+
+Name: Nozbe
+Url: https://testflight.apple.com/join/P4TnAn85
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ef/7f/a7ef7fde-f35f-7ea9-d2ed-cabf411bcc58/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:20.000Z
+Categories:
+
+
+Name: Aburra
+Url: https://testflight.apple.com/join/uLiAhdUA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/75/66/3b/75663b7b-4cb5-e4a1-8e52-5fc22ccfe4eb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:20.035Z
+Categories:
+
+
+Name: AtaOnline
+Url: https://testflight.apple.com/join/dARiQ3uL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/1f/c2/d41fc291-32a6-270c-0000-27b6355492a9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T16:05:20.070Z
+Categories:
+
+
