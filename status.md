@@ -4833,3 +4833,120 @@ Last Checked: 2024-06-09T12:39:11.635Z
 Categories:
 
 
+Name: WordFlower
+Url: https://testflight.apple.com/join/eF9Rl4sc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/7c/85/e77c85ee-1965-bb12-a9c2-f72f71453089/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.244Z
+Categories:
+
+
+Name: CalcMate - notes calculator
+Url: https://testflight.apple.com/join/0TqHQ8Kj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a4/b5/37/a4b537e4-5d4a-0d3c-9afe-50ac042146bd/AppIconBeta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.280Z
+Categories:
+
+
+Name: LinkTrade Pro
+Url: https://testflight.apple.com/join/43hD6Qlc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b6/0f/b0b60f9c-032c-289b-29af-b4f795a4f9d9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.315Z
+Categories:
+
+
+Name: Sveriges Radio Play
+Url: https://testflight.apple.com/join/JdU1hU1C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/7f/af/ca7faf5e-d910-9e4e-ac6e-0a1ac3df0123/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.350Z
+Categories:
+
+
+Name: Salesforce
+Url: https://testflight.apple.com/join/PdNDqlHt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/df/f4/0cdff4e4-46de-258a-bdb5-d328c97a3963/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.384Z
+Categories:
+
+
+Name: Chronomizer: Custom Watchfaces
+Url: https://testflight.apple.com/join/m5xuQxCN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/ec/68/a5ec68c4-6ccd-9d02-8e6f-db45b1b4ac39/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.420Z
+Categories:
+
+
+Name: BBVA Spain | Online banking
+Url: https://testflight.apple.com/join/Fjj4M9xp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d1/79/15/d1791563-abe6-a7fc-6f0f-3c931dfb3aeb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.455Z
+Categories:
+
+
+Name: School Assistant – Planner
+Url: https://testflight.apple.com/join/KWohJ5aL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/12/d6/df12d62a-897c-6e9f-237d-5a45959924f4/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.490Z
+Categories:
+
+
+Name: deadsound
+Url: https://testflight.apple.com/join/7KNeR1zy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/8a/21/988a2127-fdde-50b6-a6fd-43a890e2484f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.526Z
+Categories:
+
+
+Name: Parcel - Delivery Tracking
+Url: https://testflight.apple.com/join/fMeg6C4A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/2c/45/8c2c45c8-9d13-2c67-4f68-7d58a72e4670/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T12:40:27.562Z
+Categories:
+
+
+Name: CoreLogic Smart Survey Test
+Url: https://testflight.apple.com/join/mauENzvi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/c0/80/96c080a6-0977-8c48-7a5b-9cedc91469e7/AppIcon-Test-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.597Z
+Categories:
+
+
+Name: Boop - Instant Networking
+Url: https://testflight.apple.com/join/lhiEluu4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/de/cb/3cdecb05-07ea-68f7-50d7-3c0d851c1fe2/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.632Z
+Categories:
+
+
+Name: PuffGo
+Url: https://testflight.apple.com/join/8gX0EHpR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/a5/28/2da52804-1d72-067b-6e1c-6f79908abc70/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T12:40:27.667Z
+Categories:
+
+
