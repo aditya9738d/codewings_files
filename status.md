@@ -19692,3 +19692,120 @@ Last Checked: 2024-06-09T14:57:09.818Z
 Categories:
 
 
+Name: Long Ago
+Url: https://testflight.apple.com/join/lSUBOcUu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/c9/87/15c98733-26cf-339e-9545-f8c0b4c977a6/AppIcon-TriceraRed-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:58:10.606Z
+Categories:
+
+
+Name: Mountain Mike's Pizza
+Url: https://testflight.apple.com/join/5pSMjqMz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/34/3d/6c/343d6c33-66a9-32c5-9651-ca5ece381d7d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:58:10.636Z
+Categories:
+
+
+Name: UD Mobile
+Url: https://testflight.apple.com/join/xHtzI5R3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ca/d9/85cad9ff-d4fb-7de2-145c-04891d33894d/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:58:10.664Z
+Categories:
+
+
+Name: Mastery by Sir Brad
+Url: https://testflight.apple.com/join/WbpwRW3Q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/54/39/d45439cf-c8b3-d6d1-3ba8-721192531c47/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-09T14:58:10.692Z
+Categories:
+
+
+Name: all 4 hue   (for Philips Hue)
+Url: https://testflight.apple.com/join/4Jc5hX2s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/8d/95/6b8d95bf-90aa-74c0-b9f3-383bea810e95/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-85-220.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T14:58:10.727Z
+Categories:
+
+
+Name: iV2EX
+Url: https://testflight.apple.com/join/LvKIxl69
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/6f/51/126f5177-2ecd-f427-77cf-0321cc1249e7/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T14:58:10.755Z
+Categories:
+
+
+Name: Everand: Ebooks and audiobooks
+Url: https://testflight.apple.com/join/hJZY2QeX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/1a/b9/d21ab996-a849-894c-966e-e243fd576046/Everand-beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T14:58:10.783Z
+Categories:
+
+
+Name: Secolink Pro
+Url: https://testflight.apple.com/join/5rvPhg4s
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/ad/8c/a2ad8c07-5cf0-cbad-bc1d-6a0385152a1f/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T14:58:10.812Z
+Categories:
+
+
+Name: My MTG Collection
+Url: https://testflight.apple.com/join/QzRFLcGW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/92/96/2d/92962d39-4326-eb12-1c67-89231f8e9481/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:58:10.841Z
+Categories:
+
+
+Name: SuperFan
+Url: https://testflight.apple.com/join/4K5j8EXQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/4d/32/554d3259-2f32-69fd-c4f9-9f283f6b159d/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:58:10.869Z
+Categories:
+
+
+Name: Givamaze (Dev)
+Url: https://testflight.apple.com/join/yXsSCmuy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/8e/de/b98edefa-1da6-367a-3918-4ae8885adaf2/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:58:10.898Z
+Categories:
+
+
+Name: ntv Nachrichten
+Url: https://testflight.apple.com/join/n65TDvGb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/da/ec/97daec47-44f5-6c4e-1539-80f21f003edd/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:58:10.926Z
+Categories:
+
+
+Name: MP CRM
+Url: https://testflight.apple.com/join/NqTN0JgK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/16/d8/35/16d8356a-298c-27c8-772d-5b2219f3a05f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:58:10.954Z
+Categories:
+
+
