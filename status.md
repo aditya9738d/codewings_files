@@ -27617,3 +27617,120 @@ Last Checked: 2024-06-09T03:58:10.655Z
 Categories:
 
 
+Name: Ride Wait Times: Know The Wait
+Url: https://testflight.apple.com/join/yQNmMRwB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/55/c4/f155c4b7-c4bf-6e7f-641c-c8a956483f3c/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.120Z
+Categories:
+
+
+Name: ePort
+Url: https://testflight.apple.com/join/NYyIumsx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/5a/92/775a9228-25a6-5add-72aa-375510234e4e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.155Z
+Categories:
+
+
+Name: TSB-Partner App
+Url: https://testflight.apple.com/join/3WhHQ3P2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/c7/9c/cfc79c7e-89e7-d52e-ea00-35ecc100ec2b/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.192Z
+Categories:
+
+
+Name: Bitsa
+Url: https://testflight.apple.com/join/gwGgnylX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/f3/6a/cff36aac-5b1e-7ff6-3529-de0f99adfff6/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.228Z
+Categories:
+
+
+Name: TTL123
+Url: https://testflight.apple.com/join/AjhtDfuw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/f1/da/70f1daae-1eb8-93bf-7da0-9770cba88cf9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.264Z
+Categories:
+
+
+Name: Ring - Always Home
+Url: https://testflight.apple.com/join/dIqD2m9I
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/d7/c6/cfd7c626-9c0d-b6f7-5921-6938ec64e4f9/AppIcon-NH-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.300Z
+Categories:
+
+
+Name: EveryWord - AI Flashcards
+Url: https://testflight.apple.com/join/DbJylR2k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/09/de/b209de64-2d20-0cce-1bc8-bb7b8e2c812a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T03:59:09.335Z
+Categories:
+
+
+Name: Lee's Famous Recipe Chicken
+Url: https://testflight.apple.com/join/GrbuoDdv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/a2/0b/e1a20b81-9b29-9c82-d47c-dfe718490576/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.371Z
+Categories:
+
+
+Name: Meerabel
+Url: https://testflight.apple.com/join/mvIVmpcR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/18/fc/9f/18fc9fe9-4cea-3557-02ec-3f7005099b55/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.408Z
+Categories:
+
+
+Name: Orbot
+Url: https://testflight.apple.com/join/adSqbCeM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/67/32/8567320e-4198-b8eb-2a98-c9acbbc960ac/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.443Z
+Categories:
+
+
+Name: Zest - Longevity
+Url: https://testflight.apple.com/join/lAqDDbp5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/f0/b8/2ff0b866-2eff-b732-bf1a-5332d6d10c83/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.479Z
+Categories:
+
+
+Name: studypilot
+Url: https://testflight.apple.com/join/7sa47mrv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bf/f3/31/bff331e4-2702-684e-897d-35cd7c962571/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.515Z
+Categories:
+
+
+Name: Arrow+
+Url: https://testflight.apple.com/join/f4Dl2qw7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/74/87/4d748761-f85b-1078-1a9b-2d4a132d31f3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T03:59:09.550Z
+Categories:
+
+
