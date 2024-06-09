@@ -22032,3 +22032,120 @@ Last Checked: 2024-06-09T15:23:08.356Z
 Categories:
 
 
+Name: ottrade
+Url: https://testflight.apple.com/join/gHgPyqaC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6a/56/216a560f-0528-209d-a387-a4c1c8c1a320/AppIconOttrading-0-0-1x_U007ephone-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T15:24:10.464Z
+Categories:
+
+
+Name: Shift
+Url: https://testflight.apple.com/join/Dq4zhRbr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/a6/18/1aa618b0-88a1-13a1-694a-5d95b8548ca6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:24:10.493Z
+Categories:
+
+
+Name: The Guardian Editions
+Url: https://testflight.apple.com/join/O2EojUEl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/8b/ed/7b8bed16-fd8f-c594-848f-ecf05f388c64/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:24:10.521Z
+Categories:
+
+
+Name: WTB Market
+Url: https://testflight.apple.com/join/Cb9SBDz0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/67/17/4a67171f-0c3b-8f7d-c96d-603c5d99dc72/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:24:10.550Z
+Categories:
+
+
+Name: OuttaWRLD
+Url: https://testflight.apple.com/join/sVSZ34kL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/28/79/c8287949-c7ed-aa29-9f85-c6741f1e442a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:24:10.580Z
+Categories:
+
+
+Name: Relatica
+Url: https://testflight.apple.com/join/GvzYnAwn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4d/c7/ff/4dc7ffcd-75ee-3e19-3f38-420295a0156c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:24:10.608Z
+Categories:
+
+
+Name: Gametime Beta
+Url: https://testflight.apple.com/join/LCwyti6r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/6b/69/696b6985-f4b2-6f47-0718-5acf02fbb8b8/AppIconBeta-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:24:10.639Z
+Categories:
+
+
+Name: T-Home for HomeKit & Matter
+Url: https://testflight.apple.com/join/ddd4lr07
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/33/1c/27331c2b-298f-8c97-63c7-553470839884/App_Icon-marketing.lsr/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:24:10.667Z
+Categories:
+
+
+Name: Ninja World War: Global Force
+Url: https://testflight.apple.com/join/2maWknqu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/c6/36/ddc63653-2a9e-28b1-be66-fffb6a841035/AppIcon-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:24:10.696Z
+Categories:
+
+
+Name: Brang
+Url: https://testflight.apple.com/join/JddbRrMz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/e1/2b/f3e12ba5-9e5e-243e-54b2-5d5f23b4810e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:24:10.724Z
+Categories:
+
+
+Name: DKB
+Url: https://testflight.apple.com/join/NwCXWAEI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/b2/c2/e1b2c2ca-bb96-c1df-edb4-be3897c18446/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:24:10.752Z
+Categories:
+
+
+Name: NewsBlur
+Url: https://testflight.apple.com/join/hYk9WU3f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/a5/16/41a5161e-a109-9ee3-14bc-480c6043e695/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T15:24:10.780Z
+Categories:
+
+
+Name: Regimen Fitness
+Url: https://testflight.apple.com/join/q1QWLF7f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/48/da/8a/48da8a0e-5aea-9c1e-6c1d-3ed87e07633e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T15:24:10.809Z
+Categories:
+
+
