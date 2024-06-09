@@ -7486,3 +7486,120 @@ Last Checked: 2024-06-09T17:27:10.638Z
 Categories:
 
 
+Name: Mercaso UAT
+Url: https://testflight.apple.com/join/PR1IENkc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c2/28/e0/c228e0a1-e39c-b018-11cb-e0ce4ea9115d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.367Z
+Categories:
+
+
+Name: aiwa wear
+Url: https://testflight.apple.com/join/8TOVMlwm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/84/20/348420c3-1dcb-3588-d435-57195b4da43e/AIWAIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.402Z
+Categories:
+
+
+Name: Hermannpost
+Url: https://testflight.apple.com/join/XpbGU0R8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/58/30/7a583048-96bf-4ba9-6241-55021d33b4e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.437Z
+Categories:
+
+
+Name: Zerodha Kite - Trade & Invest
+Url: https://testflight.apple.com/join/Z8a3CqcZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/98/a4/99/98a49943-0b47-5b7e-a036-0d4af8b6fd20/KiteAppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.474Z
+Categories:
+
+
+Name: CoScribes
+Url: https://testflight.apple.com/join/bCGrPgLb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/cd/41/72cd415d-631a-2918-8636-66d4b9a52f3b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.509Z
+Categories:
+
+
+Name: Grazie for Safari
+Url: https://testflight.apple.com/join/XjmWmmHB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/77/77/bf777745-e86d-aec8-73e1-be6e6224eb7c/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.544Z
+Categories:
+
+
+Name: BAL Connect Alpha (Staging)
+Url: https://testflight.apple.com/join/l4hVapAJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/5c/8a/5e5c8aa8-04a3-cebc-686e-0f06a4c8f6ac/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.579Z
+Categories:
+
+
+Name: Galxe
+Url: https://testflight.apple.com/join/bF15toL9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/6c/9f/636c9f3a-e7ae-8508-34cd-eb39ef3eb4d9/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-09T17:28:11.615Z
+Categories:
+
+
+Name: Sky X
+Url: https://testflight.apple.com/join/emExEMm6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f6/bb/9df6bba5-090e-e080-c5c3-cb9f84138c46/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.650Z
+Categories:
+
+
+Name: Mayo Clinic (STAGE)
+Url: https://testflight.apple.com/join/xBeWbWiv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/d5/28/a3d528d2-7995-d415-f681-39fe21ab1a28/AppIcon-TESTRELEASE-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.690Z
+Categories:
+
+
+Name: 1st for Women - SIT
+Url: https://testflight.apple.com/join/1zvvw6kh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/98/94/47989469-fd5b-3283-675f-c6c3ba675389/AppIcons-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.725Z
+Categories:
+
+
+Name: WeatherDate
+Url: https://testflight.apple.com/join/fLKrfyWT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/d9/e3/6ad9e3fe-57b8-46d3-ebc2-8faa13657c00/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.762Z
+Categories:
+
+
+Name: React Native Pro
+Url: https://testflight.apple.com/join/OPhFWnmu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/b5/8e/07b58ea3-280f-601f-5694-584e6bba1fd3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:28:11.798Z
+Categories:
+
+
