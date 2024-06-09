@@ -17118,3 +17118,120 @@ Last Checked: 2024-06-09T14:34:13.723Z
 Categories:
 
 
+Name: Mochi Pets - Cute Pet Widget
+Url: https://testflight.apple.com/join/XhrDhcFH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/91/5e/11915e56-ad5b-3baa-0aa8-465a169320c3/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T14:35:22.016Z
+Categories:
+
+
+Name: Tunna
+Url: https://testflight.apple.com/join/dqMoJObA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/17/ed/eb17edd4-a3b7-3f42-0b16-03064a1d6443/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T14:35:22.044Z
+Categories:
+
+
+Name: Bombay App
+Url: https://testflight.apple.com/join/wqwvP37T
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/1e/a5/841ea54d-11b1-1ca7-5489-ba735be26316/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:35:22.073Z
+Categories:
+
+
+Name: Samply - Listen & Share
+Url: https://testflight.apple.com/join/ACiAGB0g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/11/7b/01117b0c-f48d-1ada-6329-7148a7c8840a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:35:22.101Z
+Categories:
+
+
+Name: Duolingo - Language Lessons
+Url: https://testflight.apple.com/join/Sq8bYSnJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/90/36/da90369d-80c0-2f72-e771-5ae9e1d75962/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T14:35:22.128Z
+Categories:
+
+
+Name: Watsons TH SIT / D1
+Url: https://testflight.apple.com/join/2MZJIAMk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/b9/46/deb946a9-a5e6-ad31-a967-f4c677cba6a3/AppIcon-TH-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:35:22.157Z
+Categories:
+
+
+Name: PinspectSKAT
+Url: https://testflight.apple.com/join/HVoQRe7y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/57/76/bd57769d-02e4-949c-5b28-b26a9bf63c70/AppIcon-0-1x_U007emarketing-0-10-0-GLES2_U002c0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:35:22.184Z
+Categories:
+
+
+Name: Vibrance - Inspire Yourself
+Url: https://testflight.apple.com/join/mhLJeEo4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0e/3d/2e/0e3d2eee-4107-2e76-89ec-202a3dbdcdbf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:35:22.213Z
+Categories:
+
+
+Name: MaaS360 Secure Editor
+Url: https://testflight.apple.com/join/f5CXDBxn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/b0/e2/b2b0e228-df99-5e7d-0319-014c3f450686/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:35:22.241Z
+Categories:
+
+
+Name: Etendo
+Url: https://testflight.apple.com/join/MWqctJS2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/49/92/1b49921a-4793-3e94-8a2a-de26d6126fd9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:35:22.270Z
+Categories:
+
+
+Name: agorum boost
+Url: https://testflight.apple.com/join/MP0bTVZU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/4a/15/8c4a15a7-0bf7-e4e6-1c2d-50ad2efad9bb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:35:22.298Z
+Categories:
+
+
+Name: Deep Dictionary
+Url: https://testflight.apple.com/join/lxzMMbZl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/11/6d/4e116df8-9b57-1be7-3a13-ce7e4119ea42/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:35:22.326Z
+Categories:
+
+
+Name: Affinity Photo 2 iPad Beta
+Url: https://testflight.apple.com/join/kMSouXpl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ff/12/31/ff12316e-9dca-81ff-f9da-9b1c83447f9a/PhotoAppIconBeta-1x_U007emarketing-5-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T14:35:22.356Z
+Categories:
+
+
