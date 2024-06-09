@@ -234,3 +234,122 @@ Last Checked: 2024-06-09T11:56:11.050Z
 Categories:
 
 
+Name: eRestro Singlevendor Rider
+Url: https://testflight.apple.com/join/wqMcr5at
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/8d/cc/c98dcca6-98b4-44a0-1a51-97226381ad3b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-09T11:57:08.734Z
+Categories:
+- Food
+- Shopping
+
+Name: CBRO
+Url: https://testflight.apple.com/join/UDDdSKNn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2a/58/8e2a5884-8da6-bfd5-3a58-5fb92817d594/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T11:57:08.763Z
+Categories:
+- Games
+
+Name: Watermelon__Game
+Url: https://testflight.apple.com/join/zEkLhX0L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/2c/66/892c66db-bdf7-605d-815a-cb80ed39f051/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 12
+Beta Available: not accepting
+Last Checked: 2024-06-09T11:57:08.792Z
+Categories:
+- Games
+
+Name: BuddyBoss Branding App
+Url: https://testflight.apple.com/join/RyFaWoIr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/9f/06/569f06b1-7f88-cd5c-f692-29b34b8859f8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-09T11:57:08.821Z
+Categories:
+- Art & Design
+- Education
+
+Name: NHTDSGAME
+Url: https://testflight.apple.com/join/gsF1MZGp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/f2/9b/59f29b4b-cf22-077e-b933-c3529845bc14/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 16
+Beta Available: open
+Last Checked: 2024-06-09T11:57:08.849Z
+Categories:
+
+
+Name: Fraggy Road
+Url: https://testflight.apple.com/join/0LeFdx5d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/fd/34/9afd349a-dfd7-1598-92fb-be1c86971cd7/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T11:57:08.878Z
+Categories:
+
+
+Name: RTI Dashboard
+Url: https://testflight.apple.com/join/T1YKKlZ0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/e1/9b/51e19bd3-ac99-2407-7e4f-977e6192ca21/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-09T11:57:08.907Z
+Categories:
+
+
+Name: Swapple - Letter Logic Puzzles
+Url: https://testflight.apple.com/join/XU84IqaM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/3c/0f/e43c0feb-7a5e-ede7-baad-98d13ab994c1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T11:57:08.936Z
+Categories:
+- Games
+
+Name: FYI.AI (Focus Your Ideas)
+Url: https://testflight.apple.com/join/MQ9xz3Qb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/02/06/500206bb-bdb0-0158-faa3-b1cca210a97c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T11:57:08.964Z
+Categories:
+
+
+Name: Applaydu & Friends games
+Url: https://testflight.apple.com/join/qwxFohAR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/5f/19/9a5f19da-ba24-6236-7ab1-e678085a74e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T11:57:08.993Z
+Categories:
+- Games
+
+Name: True Compliance Go
+Url: https://testflight.apple.com/join/etFoJxFn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/3a/91/503a9112-c31c-4d59-e74c-b521ba202727/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T11:57:09.022Z
+Categories:
+
+
+Name: Chipotle UAT
+Url: https://testflight.apple.com/join/QmohviU2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/61/63/73616364-8279-12a7-1b5f-3e89e4eabd20/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-09T11:57:09.051Z
+Categories:
+
+
+Name: TOZO Wear
+Url: https://testflight.apple.com/join/z0fAkLp4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fc/8c/0d/fc8c0d61-93fc-10bc-4ecf-94fd7026b627/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-09T11:57:09.081Z
+Categories:
+
+
