@@ -15831,3 +15831,120 @@ Last Checked: 2024-06-09T14:23:09.459Z
 Categories:
 
 
+Name: S3XY Watch
+Url: https://testflight.apple.com/join/194LkkmW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/b3/57/8fb35734-98eb-3ee8-0672-94561e41f23c/AppIcon-0-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-09T14:24:12.193Z
+Categories:
+
+
+Name: OceanEx-Test
+Url: https://testflight.apple.com/join/PkPRNIIp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/71/78/e47178c2-6905-58df-7700-2e78cf4ce3e9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:24:12.221Z
+Categories:
+
+
+Name: Status++
+Url: https://testflight.apple.com/join/F1KmUg6K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/6f/3a/ae6f3abf-e91b-08f6-df38-c0e37db5fcdc/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T14:24:12.249Z
+Categories:
+
+
+Name: Swish Sandbox
+Url: https://testflight.apple.com/join/iQTsRg5b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/31/d7/c6/31d7c60a-9682-e04c-87b1-c6d7671fd559/AppIconSandbox-0-0-1x_U007emarketing-0-5-0-P3-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-09T14:24:12.278Z
+Categories:
+
+
+Name: Sky Go
+Url: https://testflight.apple.com/join/27XwW4TL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/df/f2/89/dff289f9-34a9-fb0b-2cbd-6ecc2cc7df0a/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T14:24:12.306Z
+Categories:
+
+
+Name: GoodBarber Commerce
+Url: https://testflight.apple.com/join/7Kh2Y3sP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/95/a5/ac95a544-431d-092c-f3d8-07b86eb7c13e/MyGBAppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:24:12.335Z
+Categories:
+
+
+Name: RSLog OnSite
+Url: https://testflight.apple.com/join/jEqggnlv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/bd/a8/f6bda814-8d56-fa82-37d9-5aa33e3c8bb2/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T14:24:12.364Z
+Categories:
+
+
+Name: Quatro Booking
+Url: https://testflight.apple.com/join/YG23lJxL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f9/a7/de/f9a7debd-a8a5-b9a3-6776-d6b8f0209131/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T14:24:12.392Z
+Categories:
+
+
+Name: BESV Smart Plus App
+Url: https://testflight.apple.com/join/FLmvkYS8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/89/8f/c2/898fc218-f7d1-0368-834b-3b75fc9e0557/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:24:12.420Z
+Categories:
+
+
+Name: Fair Plus
+Url: https://testflight.apple.com/join/Ao0G8UZD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/26/7b/8a267b50-4552-dd7c-496d-a63b787a555d/AppIcon-Plus-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T14:24:12.448Z
+Categories:
+
+
+Name: GO-ACT
+Url: https://testflight.apple.com/join/qxWL77Pv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/08/fc/ac08fc38-77cd-00a2-94c4-ddaba9ade0b4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:24:12.476Z
+Categories:
+
+
+Name: Air Manager
+Url: https://testflight.apple.com/join/f81FJgKN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/28/02/98/2802983f-6485-f17b-b4ed-3861480220b2/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:24:12.505Z
+Categories:
+
+
+Name: eM Client
+Url: https://testflight.apple.com/join/nzXZuIQs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ee/03/f2/ee03f234-c439-db5f-df93-1f16fe89e132/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T14:24:12.533Z
+Categories:
+
+
