@@ -3268,3 +3268,126 @@ Last Checked: 2024-06-09T21:23:11.567Z
 Categories:
 
 
+Name: MAFC CRM
+Url: https://testflight.apple.com/join/V0RkG8PS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/9a/8a/859a8af5-9314-e43f-7cce-987b9a1c5cff/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T21:24:12.982Z
+Categories:
+
+
+Name: eDispatches
+Url: https://testflight.apple.com/join/ah3T3o1b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/a3/85/80a3855a-35ef-c6e1-018f-0daf73c44904/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-09T21:24:13.017Z
+Categories:
+
+
+Name: Mela 5 – AUv3: Synth, FX, MIDI
+Url: https://testflight.apple.com/join/4zbCXvXw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/98/35/f198359e-ec42-2c9a-70f2-fc31c5ae3780/AppIcon-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T21:24:13.052Z
+Categories:
+
+
+Name: The Kings Wants To Laugh
+Url: https://testflight.apple.com/join/hTqcj6u2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/98/3f/08983f93-ec13-b025-e24b-687c0ffc6390/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: not accepting
+Last Checked: 2024-06-09T21:24:13.088Z
+Categories:
+
+
+Name: Facebook
+Url: https://testflight.apple.com/join/C1a3MRG4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/69/9b/23699bca-3331-b7cf-7b01-65f7e93c1716/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 385
+Beta Available: full
+Last Checked: 2024-06-09T21:24:13.124Z
+Categories:
+- Business
+- Chat
+- Entertainment
+- Social Networking
+- Video
+
+Name: NroChat
+Url: https://testflight.apple.com/join/PPfQVoNB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/e6/ce/d2e6ce54-b5a3-4be4-b86a-b7d31fb45f21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 13
+Beta Available: not accepting
+Last Checked: 2024-06-09T21:24:13.158Z
+Categories:
+
+
+Name: La Terminal - SSH Client
+Url: https://testflight.apple.com/join/cpPS8YnX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c6/1f/9ec61f5f-1890-f8b7-4f89-e4f076aee2f0/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 5
+Beta Available: not accepting
+Last Checked: 2024-06-09T21:24:13.192Z
+Categories:
+
+
+Name: GCash Mobile
+Url: https://testflight.apple.com/join/gPda0z4L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/b6/d0/1cb6d06d-52b6-5ed8-27f2-4c18916032d4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-09T21:24:13.228Z
+Categories:
+
+
+Name: Trello: organize anything!
+Url: https://testflight.apple.com/join/cRWMcQsr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/d0/ee/3fd0ee68-40c5-0cf1-d42d-4b7fd449161c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T21:24:13.263Z
+Categories:
+
+
+Name: Locket Widget
+Url: https://testflight.apple.com/join/IGjs9EMj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/59/95/33599516-4382-1149-651d-69de8531fa89/app_icon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 1008
+Beta Available: full
+Last Checked: 2024-06-09T21:24:13.298Z
+Categories:
+- Widgets
+
+Name: Photoroom: AI Photo Editor
+Url: https://testflight.apple.com/join/guZ2IygR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/bd/90/8abd90d0-9dcf-84e9-f502-5b56c59a76b8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: full
+Last Checked: 2024-06-09T21:24:13.333Z
+Categories:
+- Ai
+- Photography
+- Utility
+
+Name: SchoolMate – Ace the Day
+Url: https://testflight.apple.com/join/WZcoUcHQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/85/97/49/85974991-bda4-15aa-33a3-af41947799cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T21:24:13.368Z
+Categories:
+
+
+Name: Screeps Observer
+Url: https://testflight.apple.com/join/u4GlOWaL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/42/c6/ea42c6dd-4335-936c-ab57-22f31c02dbfe/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-09T21:24:13.402Z
+Categories:
+
+
