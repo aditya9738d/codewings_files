@@ -8928,3 +8928,120 @@ Last Checked: 2024-06-09T13:19:09.633Z
 Categories:
 
 
+Name: SmartValue
+Url: https://testflight.apple.com/join/59TmMSNX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/8c/9b/548c9b4d-255a-0555-16bb-854366a4c546/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:20:25.023Z
+Categories:
+
+
+Name: TP-Link Tether Beta
+Url: https://testflight.apple.com/join/pULHhLSn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/31/c7/9c/31c79cf5-143b-7abf-ce73-f574164cb190/AppIconBeta-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T13:20:25.059Z
+Categories:
+
+
+Name: EXO UAT
+Url: https://testflight.apple.com/join/2tBjOY6b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/2d/ac/272dac89-9f3f-94c9-ff9a-f3ae80c7fa76/AppIcon-stg-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:20:25.094Z
+Categories:
+
+
+Name: eDOT
+Url: https://testflight.apple.com/join/SZb9xc3H
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/26/93/31/26933191-59d5-ffd9-508f-6eed45a4c942/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:20:25.129Z
+Categories:
+
+
+Name: KoMoto
+Url: https://testflight.apple.com/join/IJYIPhCI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5c/34/b8/5c34b82b-929a-e333-296c-f2d0228ce303/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:20:25.164Z
+Categories:
+
+
+Name: GNC LiveWell
+Url: https://testflight.apple.com/join/PlJqoLRc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/a8/33/a5a83393-7419-9724-a732-c2a2f19b6202/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: error
+Last Checked: 2024-06-09T13:20:25.198Z
+Categories:
+
+
+Name: STACKAAR
+Url: https://testflight.apple.com/join/o0eSwBIs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/14/7b/e8147bd5-fac0-df1c-1e3f-634e58277a36/AppIcon-1x_U007emarketing-0-4-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:20:25.234Z
+Categories:
+
+
+Name: bob World Digital Rupee
+Url: https://testflight.apple.com/join/FYc6DAdE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/6d/ea/266dea0a-4a07-c61d-9d00-0e1f5b739f25/AppIconBOB-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:20:25.268Z
+Categories:
+
+
+Name: Sundaymart
+Url: https://testflight.apple.com/join/n3vjyJCx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/bd/7f/91bd7f96-f31a-8c67-5aaa-b025c5c10fc7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:20:25.304Z
+Categories:
+
+
+Name: Cash App Pay Sandbox
+Url: https://testflight.apple.com/join/TZY8IaM9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/dc/93/fedc93b8-698f-5029-a073-e6a35f0252d1/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-09T13:20:25.338Z
+Categories:
+
+
+Name: VirtuaSWAP
+Url: https://testflight.apple.com/join/62K9dz4Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/ac/b2/16acb2d4-25dd-24f0-45ac-8e03bd6e2269/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:20:25.373Z
+Categories:
+
+
+Name: wiggler
+Url: https://testflight.apple.com/join/O6FzQSu2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b5/8a/c5/b58ac515-7b68-e400-fb4f-aef30187b25c/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T13:20:25.408Z
+Categories:
+
+
+Name: NOVABOT-TEST
+Url: https://testflight.apple.com/join/ParKxA0P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/be/93/c4be93ec-797e-0f17-4686-fe4af45df6ec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T13:20:25.443Z
+Categories:
+
+
