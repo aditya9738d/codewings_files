@@ -3661,3 +3661,120 @@ Last Checked: 2024-06-09T12:29:08.243Z
 Categories:
 
 
+Name: Mindful bites
+Url: https://testflight.apple.com/join/zqAioNcm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/2e/98/c12e98aa-9e8b-8584-df13-d5cdba514a0c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 27
+Beta Available: open
+Last Checked: 2024-06-09T12:30:47.465Z
+Categories:
+
+
+Name: 3DNA Link
+Url: https://testflight.apple.com/join/7TYuK6VV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/3d/73/423d738c-e345-54fd-1388-3a235bccea88/AppIconInv-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-09T12:30:47.500Z
+Categories:
+
+
+Name: GitHub
+Url: https://testflight.apple.com/join/NLskzwi5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/ed/32/4bed3292-213d-7394-4b70-8e80632e1231/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 69
+Beta Available: full
+Last Checked: 2024-06-09T12:30:47.535Z
+Categories:
+- Developer
+
+Name: Super Fren: Super App for NFTs
+Url: https://testflight.apple.com/join/2IU6MlDR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/68/f4/d268f4fa-f11b-b85c-f9ff-80460db48269/AppIcon-0-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-09T12:30:47.569Z
+Categories:
+
+
+Name: Family - Ethereum Wallet
+Url: https://testflight.apple.com/join/oUKAfJbr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/4e/3a/444e3aa5-adf1-dff0-ac8e-8585feafdd64/AppIcon-Teal-0-1x_U007ephone-0-10-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T12:30:47.606Z
+Categories:
+
+
+Name: Games - Manage your collection
+Url: https://testflight.apple.com/join/GbPsDyg4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/16/3f/1f/163f1f52-837b-af18-8194-c314d9887089/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 22
+Beta Available: open
+Last Checked: 2024-06-09T12:30:47.641Z
+Categories:
+
+
+Name: Simple Focus
+Url: https://testflight.apple.com/join/Gs80E65C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e9/35/01e93587-016c-8985-575f-763fd99fdf6b/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T12:30:47.678Z
+Categories:
+
+
+Name: Music Discovery with Fusion
+Url: https://testflight.apple.com/join/mgKIQ9hU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/b4/4d/c7b44d23-e0c2-5413-3e7f-0b311b701564/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 45
+Beta Available: open
+Last Checked: 2024-06-09T12:30:47.713Z
+Categories:
+- Music
+
+Name: BetaMonkeyEmpire
+Url: https://testflight.apple.com/join/VhdGSRMd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d1/f6/05d1f699-aaf6-1081-56f9-6bfce6502c93/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 44
+Beta Available: open
+Last Checked: 2024-06-09T12:30:47.748Z
+Categories:
+
+
+Name: Axon 3
+Url: https://testflight.apple.com/join/MI1za2wg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fc/00/91/fc009165-56bd-775d-d993-e798681faeb7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 34
+Beta Available: open
+Last Checked: 2024-06-09T12:30:47.784Z
+Categories:
+
+
+Name: 3D Scan Pro
+Url: https://testflight.apple.com/join/29NljUzy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/f4/e7/0ef4e746-d9ff-9cae-8219-733c7db81dd5/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 13
+Beta Available: full
+Last Checked: 2024-06-09T12:30:47.818Z
+Categories:
+
+
+Name: AppDab
+Url: https://testflight.apple.com/join/tMhEgIVI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/6e/f2/b36ef213-0fc8-febc-3693-f0a13cf4a4fd/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 55
+Beta Available: open
+Last Checked: 2024-06-09T12:30:47.854Z
+Categories:
+
+
+Name: Supercut for Netflix
+Url: https://testflight.apple.com/join/FINyZ9Lh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/2f/0c/072f0c05-6dbf-8a99-84db-02b969cb162a/AppIcon.lsr/200x200bb-80.png
+Click Count: 164
+Beta Available: not accepting
+Last Checked: 2024-06-09T12:30:47.889Z
+Categories:
+- Video
+
