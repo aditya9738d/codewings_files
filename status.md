@@ -24138,3 +24138,120 @@ Last Checked: 2024-06-09T15:41:10.784Z
 Categories:
 
 
+Name: Bit TodoTemplate
+Url: https://testflight.apple.com/join/2qhcabSl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/a1/06/29a106ad-1939-3bcc-c028-3ad28179677d/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:42:10.301Z
+Categories:
+
+
+Name: Seek by iNaturalist
+Url: https://testflight.apple.com/join/LM5oO3P7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/34/f3/d934f3e7-b182-4bb3-c492-f1f80f8c52c4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:42:11.567Z
+Categories:
+
+
+Name: ELOQUII
+Url: https://testflight.apple.com/join/OJk4Uenf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/31/4d/12314dc5-dc62-bf1f-0f82-2880b8c92f18/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:42:11.595Z
+Categories:
+
+
+Name: Drive 2 Survive
+Url: https://testflight.apple.com/join/NSP76djg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/7c/10/9a7c1049-39a0-4f6b-5047-67c7900f497b/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:42:11.633Z
+Categories:
+
+
+Name: What's On TV
+Url: https://testflight.apple.com/join/L3GA3TR8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/b2/93/b7b29381-ad6b-971b-fb42-c1c2d2f49aa6/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:42:11.668Z
+Categories:
+
+
+Name: Everycards: Flashcards Quizzes
+Url: https://testflight.apple.com/join/vPjeZ0Kq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/90/63/1b906327-1da6-6079-c27a-a2f76b6765df/AppIconStudent-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:42:11.697Z
+Categories:
+
+
+Name: Free Your Kitchen
+Url: https://testflight.apple.com/join/bDqCbq2k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/36/41/f8/3641f845-e265-e304-3cbc-3747ddeaa96a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T15:42:11.726Z
+Categories:
+
+
+Name: Yalla Ludo - Ludo&Domino
+Url: https://testflight.apple.com/join/MVaIYlGT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/cc/d1/cbccd161-169a-93ab-62a2-3354bca1b477/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T15:42:11.755Z
+Categories:
+
+
+Name: RailCube Mobile
+Url: https://testflight.apple.com/join/hI9YK266
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/bc/d7/87bcd7d7-ba99-ec9d-3df0-4df0196fe2e3/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:42:11.784Z
+Categories:
+
+
+Name: MobiSign
+Url: https://testflight.apple.com/join/3VDw6koW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/93/6d/78936da1-b25b-a149-c62e-12d3c4ecc5d7/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:42:11.814Z
+Categories:
+
+
+Name: Shapr3D Beta
+Url: https://testflight.apple.com/join/Dm6lqUW7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/61/96/d161960f-605a-6a81-7459-a5f6a588d013/AppIcon-Beta-0-0-1x_U007epad-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:42:11.844Z
+Categories:
+
+
+Name: Synappx Go
+Url: https://testflight.apple.com/join/do0mqh9y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/44/3e/02443e8d-69a5-9481-973b-96a89ea5f670/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T15:42:11.871Z
+Categories:
+
+
+Name: Navigraph Charts
+Url: https://testflight.apple.com/join/nHCIhOwX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/f6/a5/8af6a59d-a924-9e7f-16bf-497e38cc6085/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T15:42:11.901Z
+Categories:
+
+
