@@ -6316,3 +6316,120 @@ Last Checked: 2024-06-09T17:17:11.139Z
 Categories:
 
 
+Name: smallcase: Stock Investments
+Url: https://testflight.apple.com/join/XSkiZoQf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/3e/47/e83e47ca-3fc9-016d-9a1b-ca44f40d83df/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:18:12.655Z
+Categories:
+
+
+Name: iContentPro
+Url: https://testflight.apple.com/join/m0rBXZzt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/69/e4/ff/69e4ffd1-52fd-3d1a-cc48-2c32d3d3d696/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-09T17:18:12.691Z
+Categories:
+
+
+Name: Steps - Activity Tracker
+Url: https://testflight.apple.com/join/YWU5fJLj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/08/d8/a308d82a-dba2-d617-387b-9e635e5e92f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T17:18:12.726Z
+Categories:
+
+
+Name: Vimcal: Calendar and Schedule
+Url: https://testflight.apple.com/join/W7evUHfZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6d/73/26/6d732682-d809-15d2-37b3-ddea5677560f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:18:12.762Z
+Categories:
+
+
+Name: iCanMall
+Url: https://testflight.apple.com/join/r6ZHVEFA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/68/28/036828d9-850b-1485-1a89-09e8eb26c721/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:18:12.797Z
+Categories:
+
+
+Name: MzFit: Fitness & Workouts
+Url: https://testflight.apple.com/join/nfAeYMTd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/3b/7f/893b7f56-3d43-9c47-2191-74cc93be6e37/AppIcon-0-1x_U007epad-0-0-85-220-0.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:18:12.833Z
+Categories:
+
+
+Name: Incrowd
+Url: https://testflight.apple.com/join/4h32bQgd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/45/07/e9450789-c740-2237-4b55-51fd01aeb0a8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-09T17:18:12.868Z
+Categories:
+
+
+Name: FITIV Pulse Heart Rate Monitor
+Url: https://testflight.apple.com/join/JIKK58Sp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/12/13/91121339-e80b-d3c2-2fe3-f85dfd819ab2/motiFITIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:18:12.904Z
+Categories:
+
+
+Name: Mellors
+Url: https://testflight.apple.com/join/w9WF8yTV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/67/80/46/6780465c-30c3-e7a9-3a33-63753bb0c864/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:18:12.939Z
+Categories:
+
+
+Name: CRM sales tracker by Pipedrive
+Url: https://testflight.apple.com/join/n6E7WO4k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a3/46/02a346c7-14d2-57ce-1b2c-df587d4ce365/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:18:12.975Z
+Categories:
+
+
+Name: Kaspersky Passwords & Docs
+Url: https://testflight.apple.com/join/jIkedoTJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/ae/bc/feaebc32-2ab3-cde0-9329-76dacf9890d2/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T17:18:13.011Z
+Categories:
+
+
+Name: HEYTEA
+Url: https://testflight.apple.com/join/vKwE3Lrs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/5e/55/105e55e4-4de4-d6a6-03fc-5413e7e6bfae/AppIcon-1x_U007ephone-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T17:18:13.047Z
+Categories:
+
+
+Name: Xi Calculator
+Url: https://testflight.apple.com/join/AZSypkSa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/b8/df/a5b8dfb1-617f-198d-2183-18f8ce519145/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-09T17:18:13.082Z
+Categories:
+
+
