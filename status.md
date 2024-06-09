@@ -26791,3 +26791,120 @@ Last Checked: 2024-06-09T20:35:20.773Z
 Categories:
 
 
+Name: WA Toolbox
+Url: https://testflight.apple.com/join/5fegbMlR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/92/32/61923212-2eaa-939a-2387-c6b49d235dab/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:36:11.487Z
+Categories:
+
+
+Name: WATAFACT - Fun Facts Daily
+Url: https://testflight.apple.com/join/i5vvGb0O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/00/1d/a0001d4c-9577-be69-4175-1ef39ce59330/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:36:11.518Z
+Categories:
+
+
+Name: WDIC
+Url: https://testflight.apple.com/join/8svpgmwk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/38/01/f8/3801f8fb-afb3-fa3c-8c20-0e36107ccba2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:36:11.547Z
+Categories:
+
+
+Name: WIN2RICH
+Url: https://testflight.apple.com/join/MHdioefr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/1f/a7/f81fa74a-0608-7447-2bde-7a7978664dcb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-09T20:36:11.576Z
+Categories:
+
+
+Name: WOW EARN: BTC & Crypto Wallet
+Url: https://testflight.apple.com/join/GPkKntJo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/07/d0/a207d02d-cd24-3fd8-e7b9-0f3b9fd78a35/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:36:11.606Z
+Categories:
+
+
+Name: WOWNOW -Food Delivery Shopping
+Url: https://testflight.apple.com/join/J7eBRagg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/d6/a0/a0d6a0e7-ad33-7637-652c-8336f0a35642/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-09T20:36:11.635Z
+Categories:
+
+
+Name: WTPay-VCard
+Url: https://testflight.apple.com/join/KhagbfCX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/5c/c0/6e5cc045-645b-5262-fe51-2e1f64adf7a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:36:11.665Z
+Categories:
+
+
+Name: WaiterOne
+Url: https://testflight.apple.com/join/RzByKIma
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/0b/14/760b14d6-c08a-c5ea-7a9b-9a77d2dd4afc/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-09T20:36:11.695Z
+Categories:
+
+
+Name: WaiterOne Remote
+Url: https://testflight.apple.com/join/yVrON1h7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/6f/0a/2f6f0a63-0b9f-65fb-0999-93578a8f15e6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-09T20:36:11.725Z
+Categories:
+
+
+Name: WalkingDoggo
+Url: https://testflight.apple.com/join/xiPCiYPS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/35/36/ff3536e2-ecde-eeeb-3a83-1d1fc3024548/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:36:11.754Z
+Categories:
+
+
+Name: Walleri
+Url: https://testflight.apple.com/join/kex6mnjV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/95/da/0795dafc-e2ad-15bc-f97b-054998a451c3/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:36:11.783Z
+Categories:
+
+
+Name: Walletry
+Url: https://testflight.apple.com/join/zXT4XA9V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/3a/f4/673af4b4-352d-6548-acd5-67e928873ae5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:36:11.811Z
+Categories:
+
+
+Name: WarehouseX
+Url: https://testflight.apple.com/join/9AzkMRFQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5f/e7/ab/5fe7aba8-1e88-a205-75ff-bb13135edd1a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-09T20:36:11.840Z
+Categories:
+
+
