@@ -3151,3 +3151,120 @@ Last Checked: 2024-06-09T21:22:11.543Z
 Categories:
 
 
+Name: Feditext
+Url: https://testflight.apple.com/join/3Ik3KBjj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/db/cd/c6dbcd99-3ece-344d-bbf2-a721072f673b/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 10
+Beta Available: open
+Last Checked: 2024-06-09T21:23:11.230Z
+Categories:
+
+
+Name: Steps+
+Url: https://testflight.apple.com/join/jNEMGh4b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/e0/83/79e0838e-f910-3227-1dde-68ebcb3b8132/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-09T21:23:11.258Z
+Categories:
+
+
+Name: Zello Walkie Talkie
+Url: https://testflight.apple.com/join/2Tux4moG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/82/fe/e982fed4-b29e-1d64-dc99-4a45c0a274c7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 12
+Beta Available: open
+Last Checked: 2024-06-09T21:23:11.286Z
+Categories:
+
+
+Name: Camera Companion
+Url: https://testflight.apple.com/join/z18Ngj0N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/f1/17/09f117f4-21a5-f8c7-5d4e-35818b024ea9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 31
+Beta Available: open
+Last Checked: 2024-06-09T21:23:11.314Z
+Categories:
+
+
+Name: Innov8tifIDV
+Url: https://testflight.apple.com/join/ViWOvrlu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/4e/ce/8b4eceeb-342e-728d-eabb-b50d4375175b/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T21:23:11.342Z
+Categories:
+
+
+Name: Rumble Beans
+Url: https://testflight.apple.com/join/L8E6pwG8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/c4/15/e4c415b5-ddc7-7758-a917-803a820bca57/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 23
+Beta Available: open
+Last Checked: 2024-06-09T21:23:11.370Z
+Categories:
+
+
+Name: Revolut: Send, spend and save
+Url: https://testflight.apple.com/join/oqrinjQB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/7a/a3/c27aa380-f53a-0cd9-194d-c69a36976bc0/AppIcon-Production-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-09T21:23:11.398Z
+Categories:
+
+
+Name: YakiHonne
+Url: https://testflight.apple.com/join/tcXozZIu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/43/47/60434750-d2ca-1743-2175-567b067cd81b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-09T21:23:11.426Z
+Categories:
+
+
+Name: Balance: Meditation & Sleep
+Url: https://testflight.apple.com/join/5V7gW8Zc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/20/7f/9e207fa8-3272-54cd-71f4-65c534bbd224/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-09T21:23:11.455Z
+Categories:
+
+
+Name: GameScent
+Url: https://testflight.apple.com/join/QMLqUfts
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ce/fb/5b/cefb5ba8-42fb-78bf-b4c2-8e21dc260297/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 8
+Beta Available: open
+Last Checked: 2024-06-09T21:23:11.483Z
+Categories:
+
+
+Name: MPL: Rummy, Poker, Patti Games
+Url: https://testflight.apple.com/join/j6Pz6p3E
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/b1/80/afb180e4-2db8-140a-4804-3e62f3995a18/AppIcon-1x_U007ephone-0-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-09T21:23:11.510Z
+Categories:
+
+
+Name: Lovewick: Relationship App
+Url: https://testflight.apple.com/join/W8EmsRMa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/c7/63/70c76376-0a1b-591d-5d09-f6b5506c89a2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-09T21:23:11.540Z
+Categories:
+
+
+Name: Dupay Pro
+Url: https://testflight.apple.com/join/LpdH6PGp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/50/2b/ab502b61-90f4-f37e-3569-6aefa8d6718b/AppIcon_pro-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-09T21:23:11.567Z
+Categories:
+
+
