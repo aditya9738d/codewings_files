@@ -7872,3 +7872,123 @@ Last Checked: 2024-06-10T19:04:12.177Z
 Categories:
 
 
+Name: Readwise Reader
+Url: https://testflight.apple.com/join/NSeQo22d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/b2/c9/77b2c916-a1be-cdc5-96c9-b2ad404f4235/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 31
+Beta Available: open
+Last Checked: 2024-06-10T19:05:17.913Z
+Categories:
+
+
+Name: enhanceAl
+Url: https://testflight.apple.com/join/P7nvmE22
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/d5/fe/8ed5fea8-a859-eda5-0599-c73007420bf1/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 24
+Beta Available: open
+Last Checked: 2024-06-10T19:05:17.950Z
+Categories:
+
+
+Name: Adobe Acrobat Reader: Edit PDF
+Url: https://testflight.apple.com/join/8XhFnQlp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/7c/78/a67c78a2-ce8a-adf1-1f88-e035d7c94826/ReleaseAppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 41
+Beta Available: open
+Last Checked: 2024-06-10T19:05:17.985Z
+Categories:
+
+
+Name: Messenger
+Url: https://testflight.apple.com/join/njVWbUm0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/0b/ca/090bca5b-e8c4-473c-5bad-5b36347d363c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 103
+Beta Available: open
+Last Checked: 2024-06-10T19:05:18.021Z
+Categories:
+- Chat
+
+Name: CapCut - Video Editor
+Url: https://testflight.apple.com/join/F35EKwCs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/36/60/ce3660de-67fb-75f6-4f0a-96b6fd9f5fac/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 67
+Beta Available: full
+Last Checked: 2024-06-10T19:05:18.058Z
+Categories:
+- Utility
+- Video
+
+Name: TikTok
+Url: https://testflight.apple.com/join/pLmKZJKw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/1a/47/491a47e2-e0c9-87d8-f232-bb80289da6b7/AppIcon_TestFlight-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 220
+Beta Available: full
+Last Checked: 2024-06-10T19:05:18.094Z
+Categories:
+- Entertainment
+- Social Networking
+- Video
+
+Name: 1Blocker - Ad Blocker
+Url: https://testflight.apple.com/join/KjmVWFnT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/4d/aa/1e4daa09-f4db-ec2a-5010-4f997e72d455/AppIcon-TestFlight-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-10T19:05:18.130Z
+Categories:
+
+
+Name: ListenNow Air
+Url: https://testflight.apple.com/join/WFQmpxgp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/92/10/f59210ba-fa0d-8d57-ed36-f5a7dc4aae3d/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 123
+Beta Available: full
+Last Checked: 2024-06-10T19:05:18.167Z
+Categories:
+- Music
+
+Name: Pencil Paper Notebook: Penbook
+Url: https://testflight.apple.com/join/km3LkqB1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/b0/1b/97b01b41-3e4f-7c06-9259-5f2674df3aa0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-10T19:05:18.204Z
+Categories:
+
+
+Name: Spotify - Music and Podcasts
+Url: https://testflight.apple.com/join/1SyedSId
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/bb/72/80bb723e-1cbe-80e1-b75a-1dfb30719ea8/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 76
+Beta Available: full
+Last Checked: 2024-06-10T19:05:18.240Z
+Categories:
+- Music
+
+Name: Stick War
+Url: https://testflight.apple.com/join/eUx3WxVj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/5a/10/dc5a10c6-636a-73dc-7fe0-83dc294de362/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 10
+Beta Available: full
+Last Checked: 2024-06-10T19:05:18.276Z
+Categories:
+
+
+Name: Envision AI
+Url: https://testflight.apple.com/join/QzPGfNeH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/63/69/a6636935-1b28-be41-24a3-9f49663ac684/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 22
+Beta Available: full
+Last Checked: 2024-06-10T19:05:18.312Z
+Categories:
+- Ai
+
+Name: Xbox Game Pass
+Url: https://testflight.apple.com/join/wytcNylk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/5f/6f/885f6fa1-c973-a862-e52c-c2689ec39615/AppIconBeta-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 146
+Beta Available: full
+Last Checked: 2024-06-10T19:05:18.348Z
+Categories:
+- Games
+
