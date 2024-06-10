@@ -14389,3 +14389,120 @@ Last Checked: 2024-06-10T14:44:09.941Z
 Categories:
 
 
+Name: BIC Chat
+Url: https://testflight.apple.com/join/QT4Lepbi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/a2/41/d3a241f1-f344-6f2a-496b-eb24f943ae1e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.612Z
+Categories:
+
+
+Name: Channels DVR Beta
+Url: https://testflight.apple.com/join/kxU7lcEN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/71/a0/0d71a065-a69c-272a-e0fe-22b404024a6c/AppIcon-DVR-SKU-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.640Z
+Categories:
+
+
+Name: Gifty - Give Better Together
+Url: https://testflight.apple.com/join/UnI1KrQb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/00/5f/b2005fb0-7f5c-a862-d428-b6770afb9cec/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.669Z
+Categories:
+
+
+Name: Girl
+Url: https://testflight.apple.com/join/8hvuR07w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/90/99/1e9099e1-8769-e16f-0968-23fbb9ae1469/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.697Z
+Categories:
+
+
+Name: MGAILogger
+Url: https://testflight.apple.com/join/qc5ZZQBT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/23/2b/73/232b7361-be88-3c84-ca1d-d15abef78bc0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.725Z
+Categories:
+
+
+Name: Kitsun
+Url: https://testflight.apple.com/join/hMskPYYU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/22/3b/b2223b6e-bbf2-001d-d37c-cc233eea7656/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.753Z
+Categories:
+
+
+Name: TAK Tracker
+Url: https://testflight.apple.com/join/N8I2JHyj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/ee/f9/30eef9f4-8495-fe80-22c7-fdab032d5ded/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.782Z
+Categories:
+
+
+Name: Freerse
+Url: https://testflight.apple.com/join/IbJTYBAa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/28/ee/da28eebe-bcea-c95f-16b2-bb8a6b3379c9/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.809Z
+Categories:
+
+
+Name: Buriedbornes2
+Url: https://testflight.apple.com/join/0WaJj6rE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/90/ca/6a90caba-db6a-611b-6b79-1f59e1fe033e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.837Z
+Categories:
+
+
+Name: Pulsar for Salesforce
+Url: https://testflight.apple.com/join/6nz4I3Ct
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/69/81/97698184-5487-296e-e179-2015e00f2b93/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.865Z
+Categories:
+
+
+Name: Uchumi
+Url: https://testflight.apple.com/join/GhgnJplX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/5a/7b/935a7be1-9670-47f7-4e6e-acc5d7d0e3f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.894Z
+Categories:
+
+
+Name: TickerChart Live for iPhone
+Url: https://testflight.apple.com/join/DF4uIvFW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/93/72/2e937293-e9eb-941a-fe51-ba327fcceed1/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.922Z
+Categories:
+
+
+Name: OffBlock Beta
+Url: https://testflight.apple.com/join/BH8JRzif
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/01/57/c001577f-5487-1714-5c68-f0cb6fafbcb3/AppIcon-TestBlock4-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T14:45:25.950Z
+Categories:
+
+
