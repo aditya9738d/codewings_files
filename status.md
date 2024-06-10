@@ -8071,3 +8071,120 @@ Last Checked: 2024-06-10T12:55:17.582Z
 Categories:
 
 
+Name: ToroVPartner
+Url: https://testflight.apple.com/join/gNej4apu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/9b/18/ca9b181e-0a96-de70-11ea-e04f20834ce6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.046Z
+Categories:
+
+
+Name: Battle Network
+Url: https://testflight.apple.com/join/37weKY6h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/2c/40/bd2c40ec-1dd8-2ed5-fe20-802c16974c1c/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.076Z
+Categories:
+
+
+Name: FE ONLINE 2.0
+Url: https://testflight.apple.com/join/P09yAdJj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/ef/16/fbef16dc-aa65-dd4d-bf03-50863124ee06/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.104Z
+Categories:
+
+
+Name: Rochat-AI Powered Chatbot
+Url: https://testflight.apple.com/join/8l6qJ1eH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/9b/1a/f19b1af7-90da-a097-3c20-76e022b01600/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.133Z
+Categories:
+
+
+Name: Unio by Atria Wealth
+Url: https://testflight.apple.com/join/UweIzws1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/9b/a8/359ba875-4faf-bf39-47a9-b4ab0532b1c9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.161Z
+Categories:
+
+
+Name: ChocLite
+Url: https://testflight.apple.com/join/cLy4Ub5C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/16/53/52/1653529b-aaed-ab7c-b5cb-ce8126d56b6e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.194Z
+Categories:
+
+
+Name: Log Tool
+Url: https://testflight.apple.com/join/U5cR2DBB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/d5/db/09d5dbe7-b004-15e7-0a0a-1e03e8972696/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.222Z
+Categories:
+
+
+Name: Tangs Demo
+Url: https://testflight.apple.com/join/447rzZoj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/d1/8f/37d18f91-27d4-336b-5eb8-a1249f7a68c4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.250Z
+Categories:
+
+
+Name: Demo - Dono do App
+Url: https://testflight.apple.com/join/L4dyKgln
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/e6/0c/77e60cfe-46bf-10fb-637d-b7f81495759d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.279Z
+Categories:
+
+
+Name: Metal Sketch Dojo
+Url: https://testflight.apple.com/join/neaw91ke
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/50/63/42506363-df61-60aa-cbd5-c4312e16e71d/AppIcon-0-0-1x_U007epad-0-0-GLES2_U002c0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T12:56:10.307Z
+Categories:
+
+
+Name: My VBI
+Url: https://testflight.apple.com/join/ODSse3Yi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/a4/f5/44a4f5d2-354c-d74c-e7cb-6e1c739a6468/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.336Z
+Categories:
+
+
+Name: SOUNDBOKS Beta
+Url: https://testflight.apple.com/join/iiwDiw7b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/e3/f0/89e3f016-42f4-f1db-d262-ab62a6aa6441/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.364Z
+Categories:
+
+
+Name: OVO Demo
+Url: https://testflight.apple.com/join/VhrbHMYc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/8c/57/138c57a6-8e08-e28f-f150-90b7f5cf45eb/AppIcon.demo-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:56:10.393Z
+Categories:
+
+
