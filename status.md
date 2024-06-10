@@ -28078,3 +28078,120 @@ Last Checked: 2024-06-10T17:52:14.686Z
 Categories:
 
 
+Name: Spatial Sprinkles
+Url: https://testflight.apple.com/join/M5yEvJyg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/99/7b/36997b2c-0ebb-f88a-3b36-e6bce7a94614/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:10.683Z
+Categories:
+
+
+Name: SpatialGPT
+Url: https://testflight.apple.com/join/9y1Cn11J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e9/fb/6a/e9fb6aee-4082-9469-0a86-c1c64fa6abac/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:10.719Z
+Categories:
+
+
+Name: Spatialty Coffee
+Url: https://testflight.apple.com/join/oLgodUeL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/bd/4a/78bd4a61-533f-111c-5bc9-50b2c69daab2/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:10.755Z
+Categories:
+
+
+Name: SpeakApp
+Url: https://testflight.apple.com/join/bzEmsLUM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3c/5d/9e/3c5d9ee9-6683-c1da-a88f-ca660cf0d809/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:10.790Z
+Categories:
+
+
+Name: SpeciesID
+Url: https://testflight.apple.com/join/Kv6BkAbS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/00/1c/37001c90-68b6-8cee-b820-9be8dc4d171d/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:10.827Z
+Categories:
+
+
+Name: Specter by stats.fm
+Url: https://testflight.apple.com/join/1xVyzRwt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6c/f3/87/6cf387d0-ffb1-cf80-d3ca-8d6cacadc33d/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T17:53:10.862Z
+Categories:
+
+
+Name: Spectro by Spectro B.V.
+Url: https://testflight.apple.com/join/sVecCTfP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/82/5c/1e825c70-b168-8a48-4eb0-b35fb8251f3d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:10.898Z
+Categories:
+
+
+Name: Speechless: audios to texts
+Url: https://testflight.apple.com/join/LDy50x1A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/82/13/d6/8213d6f4-b22b-c610-bc59-1acf649bbc5e/AppIconBeta-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:10.933Z
+Categories:
+
+
+Name: Spher Internal Test
+Url: https://testflight.apple.com/join/p36uhXJv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d1/39/70/d139708a-e487-8ca5-5a02-35ffa36cbe7e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:10.969Z
+Categories:
+
+
+Name: Spillt: Recipe & Meal Plan App
+Url: https://testflight.apple.com/join/MtWYWuiL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/18/6b/ab/186bab2f-47ab-8af1-815e-eefd578dd877/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:11.005Z
+Categories:
+
+
+Name: Spin Cricket
+Url: https://testflight.apple.com/join/evSNfx6v
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/9a/a2/d39aa293-1a87-d84e-3bee-fcae279f21e2/AppIcon-0-0-1x_U007emarketing-0-2-85-220.png/200x200bb-80.png
+Click Count: 17
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:11.040Z
+Categories:
+
+
+Name: Spindown - Life Tracker
+Url: https://testflight.apple.com/join/y0uPEhmH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/72/23/b8/7223b80a-f821-8632-5826-a12d78289827/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:11.075Z
+Categories:
+
+
+Name: Spirits of the Realms
+Url: https://testflight.apple.com/join/lo1xJreb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/bf/43/62bf4326-eacb-a872-8c42-d21ac5b728b6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T17:53:11.110Z
+Categories:
+
+
