@@ -17251,3 +17251,120 @@ Last Checked: 2024-06-10T20:37:12.439Z
 Categories:
 
 
+Name: Booze Buddy
+Url: https://testflight.apple.com/join/IdSp2EJa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/61/46/99/61469905-2a93-27a8-9029-0c0a5c9d7580/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:38:11.954Z
+Categories:
+
+
+Name: Fitbod Workout & Gym Planner
+Url: https://testflight.apple.com/join/hbPkNe8P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/12/07/da120708-5aa9-2f92-f574-f3a1717fec68/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:38:11.990Z
+Categories:
+
+
+Name: Hydrawise
+Url: https://testflight.apple.com/join/H0v5dYkq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/3f/36/ab3f369d-6fb7-5476-1afc-c336f3ee2ff9/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:38:12.024Z
+Categories:
+
+
+Name: Chance - Imageboard Browser
+Url: https://testflight.apple.com/join/gdHJSbzI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2c/04/2e/2c042e6d-f671-6fe5-ba47-b55766b3618d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:38:12.059Z
+Categories:
+
+
+Name: Nifty Smashers
+Url: https://testflight.apple.com/join/3A5LcqyO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/f7/1f/9af71f44-7b6e-f974-36d8-f5a01eca0503/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:38:12.094Z
+Categories:
+
+
+Name: Ooredoo Super App
+Url: https://testflight.apple.com/join/72GZlKsl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6a/e3/93/6ae39368-1fae-222f-9e97-795a8b60bc9e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:38:12.132Z
+Categories:
+
+
+Name: Thunder for Lemmy
+Url: https://testflight.apple.com/join/9n8xrqvH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/ff/00/e8ff0037-b047-f14e-86a9-e221d4a09c3f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:38:12.167Z
+Categories:
+
+
+Name: Groceries Tracker app
+Url: https://testflight.apple.com/join/KdQntzKz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/45/e4/71/45e471f8-f320-fbd1-981e-bc7eabdd1b71/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T20:38:12.202Z
+Categories:
+
+
+Name: Lotus Pioneer Token
+Url: https://testflight.apple.com/join/90A0xr4F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/87/6d/cb876d7b-9684-767a-60a4-ff732d765e56/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:38:12.238Z
+Categories:
+
+
+Name: BarTab EPOS
+Url: https://testflight.apple.com/join/nO0e2wIJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/e7/a6/08e7a6f8-3fd0-e1e4-196b-9dec11440516/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:38:12.273Z
+Categories:
+
+
+Name: DEV - Headphone Control
+Url: https://testflight.apple.com/join/ymUbCuD5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/d8/54/d8d8547f-9f8a-819d-8057-3b039e89c667/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:38:12.308Z
+Categories:
+
+
+Name: eDeelz
+Url: https://testflight.apple.com/join/KDpPztaM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/25/d9/5525d95d-cc2a-9b58-5d96-4e9bb74d16dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:38:12.343Z
+Categories:
+
+
+Name: Virgin TV Go
+Url: https://testflight.apple.com/join/Et9sfGw3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/e4/e3/e1e4e3df-3ed1-459b-9c07-f9fc799d1109/AppIcon-virgin_uk-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T20:38:12.379Z
+Categories:
+
+
