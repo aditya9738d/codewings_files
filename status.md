@@ -23335,3 +23335,120 @@ Last Checked: 2024-06-10T21:32:10.366Z
 Categories:
 
 
+Name: Giftit - Social Wishlists
+Url: https://testflight.apple.com/join/NqXVgmCC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/3b/33/1b3b33df-a1f0-b6cb-82df-590b3aeb2a4c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:33:10.712Z
+Categories:
+
+
+Name: hyperPad Visual Coding on iPad
+Url: https://testflight.apple.com/join/2tOMSM6Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/7e/92/e67e921c-1942-6cd8-1641-59bd09a94631/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:33:10.739Z
+Categories:
+
+
+Name: Liftin' - Gym Workout Tracker
+Url: https://testflight.apple.com/join/WTXiGTTA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/70/38/b97038cd-47e9-bb6e-5c29-575ff65e3a8f/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:33:10.767Z
+Categories:
+
+
+Name: Zoho Classes
+Url: https://testflight.apple.com/join/bp0D5VW8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/28/64/772864a9-186a-15c9-39de-6c42ef22a1d7/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-10T21:33:10.795Z
+Categories:
+
+
+Name: Lux Mundi Center
+Url: https://testflight.apple.com/join/Xv2cnazz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/7f/ae/437fae8e-662b-1c16-e148-cbe1037a7ba2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:33:10.822Z
+Categories:
+
+
+Name: Critical Ops: Online PvP FPS
+Url: https://testflight.apple.com/join/MxOubzDi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/73/e8/fc73e8e4-59c5-b007-6be3-61ed2ef6ac40/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T21:33:10.850Z
+Categories:
+
+
+Name: NIMS School Diary
+Url: https://testflight.apple.com/join/lGnENnry
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/4d/ee/bc4deed5-51b2-74f3-1e11-d110b618a36a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T21:33:10.879Z
+Categories:
+
+
+Name: GR-55 Editor
+Url: https://testflight.apple.com/join/qCaUIoiQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/0a/a5/dc0aa5f1-063c-f826-e916-f4cfdadfb278/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:33:10.906Z
+Categories:
+
+
+Name: Chessity
+Url: https://testflight.apple.com/join/CpO1jrpj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/fa/ff/04faff3b-abc2-e809-0344-e6ffbff98be9/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T21:33:10.934Z
+Categories:
+
+
+Name: VFAccess
+Url: https://testflight.apple.com/join/lXLtnl83
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/bb/29/ffbb2992-2793-e979-2892-3b996a13a34b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:33:10.962Z
+Categories:
+
+
+Name: Ghalya
+Url: https://testflight.apple.com/join/6LBvW5CY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/74/50/f6745038-de88-cc22-d4cf-9efe54f88324/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:33:10.989Z
+Categories:
+
+
+Name: Peerwalk
+Url: https://testflight.apple.com/join/GNmJa89O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/36/12/03361223-3001-3927-8a86-e9b7723d8cae/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:33:11.018Z
+Categories:
+
+
+Name: Showing Up Organize your life
+Url: https://testflight.apple.com/join/iVFFyNAT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/c3/54/27c35409-ca99-5c2b-1ad0-2e81a1b3f6dc/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:33:11.047Z
+Categories:
+
+
