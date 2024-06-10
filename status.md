@@ -10528,3 +10528,120 @@ Last Checked: 2024-06-10T13:37:08.558Z
 Categories:
 
 
+Name: RecipeChef: Recipe Manager
+Url: https://testflight.apple.com/join/j5urtlwj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/da/8f/8fda8f31-7162-02c0-a8f2-0c08158de54a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:39:08.282Z
+Categories:
+
+
+Name: HiWater: Powerful Water Logger
+Url: https://testflight.apple.com/join/JamzElgi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/48/bb/6348bbe5-8c38-8c60-ccb7-fe30a54c3372/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-10T13:39:08.317Z
+Categories:
+
+
+Name: Lexic
+Url: https://testflight.apple.com/join/9pJ8x81Y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/52/1e/51521e92-88de-3309-aa71-f383b77a1c7f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:39:08.353Z
+Categories:
+
+
+Name: eschool Saas
+Url: https://testflight.apple.com/join/HxZcnKO6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/fb/4d/aefb4d4d-6ca4-aa62-5b72-b58ae82d2b44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:39:08.389Z
+Categories:
+
+
+Name: Trap.nz
+Url: https://testflight.apple.com/join/SIZltsEm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/d9/2a/0cd92a67-1ceb-09bb-bd38-5d4831a7e684/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:39:08.423Z
+Categories:
+
+
+Name: Aliviado
+Url: https://testflight.apple.com/join/yxMciJ1R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/cb/67/5acb67c3-3596-a12a-4974-4b4c3697e8a4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:39:08.459Z
+Categories:
+
+
+Name: MSTravel Hub
+Url: https://testflight.apple.com/join/eKSC0pYL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/6a/5b/946a5b67-442b-d5f3-1910-9082de33c2c7/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-10T13:39:08.495Z
+Categories:
+
+
+Name: Exponent Energy
+Url: https://testflight.apple.com/join/5q9vsQMn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/25/a6/ce/25a6cef6-e5b5-2c83-1d98-7f8c4e06d979/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:39:08.529Z
+Categories:
+
+
+Name: iMobile Pay: Banking, UPI
+Url: https://testflight.apple.com/join/vvSTVqxu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6a/2c/186a2ce7-b935-be1c-e2a9-5cf8d6f53c05/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:39:08.564Z
+Categories:
+
+
+Name: FP - Card Reader
+Url: https://testflight.apple.com/join/Hd1vt8p1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c5/52/f2/c552f2ac-d558-f9ff-d4cf-85ace41bc555/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:39:08.599Z
+Categories:
+
+
+Name: RAS UAT
+Url: https://testflight.apple.com/join/6uZNkFTd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/2b/5a/a62b5a82-2e02-42f3-c0b7-e63e49b35687/AppIcon-uat-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:39:08.634Z
+Categories:
+
+
+Name: time2u-eNoah
+Url: https://testflight.apple.com/join/ae0ayk56
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/a3/32/9ea33217-386e-ec26-d9c9-79fe239ebdf4/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:39:08.669Z
+Categories:
+
+
+Name: Profoto Control Desktop
+Url: https://testflight.apple.com/join/XAMYj1Hr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/c2/d1/9fc2d1c3-575a-9eea-e1a5-2c64cb62ce2d/AppIcon-0-85-220-0-4-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:39:08.704Z
+Categories:
+
+
