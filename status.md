@@ -9943,3 +9943,120 @@ Last Checked: 2024-06-10T23:56:12.125Z
 Categories:
 
 
+Name: SCE TMS Mobile UAT
+Url: https://testflight.apple.com/join/b6glIoul
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/5d/ef/ce5def1c-a8aa-7531-bfeb-0e2188e0d22a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.398Z
+Categories:
+
+
+Name: Weather & Radar - Storm alerts
+Url: https://testflight.apple.com/join/siqFNUje
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/dd/45/8bdd45e2-0c89-d6b4-9b6b-5f151fb7cbb3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.426Z
+Categories:
+
+
+Name: SBI HRMS
+Url: https://testflight.apple.com/join/yyoOVpK6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/84/0d/bc840d03-04c6-0088-0b79-a20278a336f6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.454Z
+Categories:
+
+
+Name: Super POS
+Url: https://testflight.apple.com/join/kLxvgUIw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/6b/55/d66b5533-ceeb-a6aa-2e98-6c1ee1bb6d53/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.481Z
+Categories:
+
+
+Name: Jahwa Mobile
+Url: https://testflight.apple.com/join/vY97rK1z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/b5/2e/9eb52eb4-e03d-5d1a-c5e1-aca8b15e4c4c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.509Z
+Categories:
+
+
+Name: MedXperts
+Url: https://testflight.apple.com/join/cB8NiF2e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9f/27/d0/9f27d07b-f8b9-9574-1698-9fbf77b2fa1b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.536Z
+Categories:
+
+
+Name: Soroosh
+Url: https://testflight.apple.com/join/HY45M7Cy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/b5/d5/f7b5d5a3-2d87-1b72-5a75-655d4c045393/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: full
+Last Checked: 2024-06-10T23:57:09.564Z
+Categories:
+
+
+Name: Imgur: Funny Memes & GIF Maker
+Url: https://testflight.apple.com/join/Qd42y5Pw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/d7/48/5dd74870-cd15-bbe8-d253-d590a8d651bf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.593Z
+Categories:
+
+
+Name: KIRI Engine:3D Scanner & LiDAR
+Url: https://testflight.apple.com/join/2wkYW1KC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/5d/9e/105d9e8b-5641-df04-d5df-a053b67a8efe/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.621Z
+Categories:
+
+
+Name: Ion Comms Tester
+Url: https://testflight.apple.com/join/bkYe9XBh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/66/af/3166af84-e9de-667a-8de8-c2aa8af1131e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.649Z
+Categories:
+
+
+Name: VivaHut
+Url: https://testflight.apple.com/join/Tza9mQtS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/be/3f/febe3f57-02fa-e934-872c-c39625ee3b3e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.676Z
+Categories:
+
+
+Name: Gesuido
+Url: https://testflight.apple.com/join/3tcSPCbC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/65/2f/9e652fe4-e634-3c1a-8d02-9daeb70cdc84/AppIcon-0-1x_U007emarketing-0-2-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.704Z
+Categories:
+
+
+Name: FlyGaruda
+Url: https://testflight.apple.com/join/f08i11gf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/62/d4/6b62d45b-51f8-26eb-36b6-5a75950f13fe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T23:57:09.732Z
+Categories:
+
+
