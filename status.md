@@ -10645,3 +10645,120 @@ Last Checked: 2024-06-10T13:39:08.704Z
 Categories:
 
 
+Name: CrewWorks
+Url: https://testflight.apple.com/join/R0ZE1tt6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/b3/fe/feb3fe80-78d8-0071-7d08-bdac141a9b21/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: not accepting
+Last Checked: 2024-06-10T13:41:10.318Z
+Categories:
+
+
+Name: Journal365ai
+Url: https://testflight.apple.com/join/crr4Eu99
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/0e/50/660e50ce-3a44-cbc9-f7eb-18d12e408e1e/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T13:41:10.347Z
+Categories:
+
+
+Name: FluvalSmart
+Url: https://testflight.apple.com/join/74j34HG2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/43/c5/e843c5b9-b0e5-8752-9123-d50b8e87e70f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T13:41:10.375Z
+Categories:
+
+
+Name: Subscriptions - Track Expenses
+Url: https://testflight.apple.com/join/6jbgrn7l
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/37/e0/9c37e014-9526-09c6-9259-8c4d67f418ea/AppIcon-0-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:41:10.403Z
+Categories:
+
+
+Name: VSE BIKER GN
+Url: https://testflight.apple.com/join/UY2EfyLO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d0/c5/11/d0c51186-4fa8-767a-aae6-3dd91d0ba806/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:41:10.431Z
+Categories:
+
+
+Name: Stelyum
+Url: https://testflight.apple.com/join/uPyl9y6m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/59/9e/19599e16-01d6-5dd2-4799-35740058475b/AppIcon-0-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:41:10.460Z
+Categories:
+
+
+Name: AAB New Apps Dev
+Url: https://testflight.apple.com/join/Hkiz5yar
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/20/e4/1c20e45c-827b-741d-7f3f-b4089a3b4bfd/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:41:10.488Z
+Categories:
+
+
+Name: Recipe Keeper — Any Recipe
+Url: https://testflight.apple.com/join/eedsEgLh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/35/92/db359212-c253-bbb8-a788-5f4b516ecdd7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:41:10.516Z
+Categories:
+
+
+Name: AstrofamilyDVR
+Url: https://testflight.apple.com/join/9XDPxUpF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5c/7f/89/5c7f89d7-770d-7761-2603-7c8db26d9757/AppIcon-Camera-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:41:10.544Z
+Categories:
+
+
+Name: Instatruck (Driver)
+Url: https://testflight.apple.com/join/bF1BUqpB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b2/e5/a2b2e5f6-cc22-1ee4-0a4f-cc5a8a5e68da/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:41:10.571Z
+Categories:
+
+
+Name: Cobo Crypto Wallet: BTC & DASH
+Url: https://testflight.apple.com/join/AjCO87zA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/87/c4/d7/87c4d7be-f846-bf9a-ba2d-50b8aca6bd08/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T13:41:10.599Z
+Categories:
+
+
+Name: SIFU Dev
+Url: https://testflight.apple.com/join/vbNwMlKz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/8b/77/a78b7794-329a-cd55-1429-89fea8d11cc5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:41:10.630Z
+Categories:
+
+
+Name: Audit App
+Url: https://testflight.apple.com/join/g2fS8AHA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3b/f9/9d/3bf99d7a-b523-c400-54b8-9d3b8ad64c15/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:41:10.658Z
+Categories:
+
+
