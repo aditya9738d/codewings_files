@@ -23308,3 +23308,120 @@ Last Checked: 2024-06-10T10:00:58.789Z
 Categories:
 
 
+Name: Tourific: Audio and AR Tours
+Url: https://testflight.apple.com/join/wpYebzTb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/73/12/8d73126e-5766-fec9-accc-d9730af00bc5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T10:03:07.663Z
+Categories:
+
+
+Name: DDV-PMS
+Url: https://testflight.apple.com/join/PNw4Pt5z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5e/fe/7c/5efe7cdd-a303-4811-2ee4-acf5040972d3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T10:03:07.699Z
+Categories:
+
+
+Name: SALUS Premium Lite
+Url: https://testflight.apple.com/join/Tl5jlo4L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/87/45/8b874517-d4f1-f650-9b75-f5453b8b6403/salus_eu_prod_app_icon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T10:03:07.734Z
+Categories:
+
+
+Name: iTools Drive V2
+Url: https://testflight.apple.com/join/FP9sY5Nu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/e0/25/a2e0253f-a17d-54a6-e157-44a1456c1c2b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T10:03:07.769Z
+Categories:
+
+
+Name: ParkMe-Pro
+Url: https://testflight.apple.com/join/ktomusgp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/14/3d/fd/143dfddf-3bc8-d094-e959-a554300e746b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T10:03:07.804Z
+Categories:
+
+
+Name: My Golf: Practice, Play & Plan
+Url: https://testflight.apple.com/join/QSo08yul
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/77/39/94773920-e046-c1c7-46f3-3d3bb0585a9a/AppIconBeta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T10:03:07.840Z
+Categories:
+
+
+Name: PlanningSC
+Url: https://testflight.apple.com/join/YN4r1lqt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/26/e6/a6/26e6a6e5-8cf5-274f-e787-9ae63374e77c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T10:03:07.875Z
+Categories:
+
+
+Name: eTicket Famille
+Url: https://testflight.apple.com/join/1ZDAyKFI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/9f/4b/b99f4b92-09ed-6bfe-a7f6-fce921fce5c5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T10:03:07.911Z
+Categories:
+
+
+Name: [S]VitaDairy
+Url: https://testflight.apple.com/join/96Fj74GD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/48/cb/e1/48cbe173-938e-a4fd-7cd9-8683ff749489/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T10:03:07.946Z
+Categories:
+
+
+Name: odinMusicPlayer
+Url: https://testflight.apple.com/join/S43IfU6b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/82/69/1a/82691a52-5275-fdd8-2bd8-04b975f5b9dc/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T10:03:07.984Z
+Categories:
+
+
+Name: MocPOGO
+Url: https://testflight.apple.com/join/0HdQYsQF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/64/42/f7644270-0608-b297-5516-b3a658ce45a0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-10T10:03:08.020Z
+Categories:
+
+
+Name: DLIS Traning
+Url: https://testflight.apple.com/join/RGmurNCT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/fe/45/d6fe45fc-430d-a2cd-43a5-1b2c4973f98c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T10:03:08.055Z
+Categories:
+
+
+Name: Workout Sessions
+Url: https://testflight.apple.com/join/dDSurLeT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/c7/72/74c7724b-03dc-f6b3-dcfc-1528cc20e8c7/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T10:03:08.091Z
+Categories:
+
+
