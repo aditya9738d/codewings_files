@@ -9059,3 +9059,120 @@ Last Checked: 2024-06-10T19:15:26.410Z
 Categories:
 
 
+Name: Mindful Ocean Metaverse
+Url: https://testflight.apple.com/join/ypNDxHmZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/e5/64/2de56450-84c5-f54d-cdc1-109e9474f38c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-10T19:16:12.810Z
+Categories:
+
+
+Name: GAT(Give And Take)
+Url: https://testflight.apple.com/join/M0h8vQLr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/47/01/d947011e-0471-2183-437d-f1818de70f8c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-10T19:16:12.846Z
+Categories:
+
+
+Name: ROOMS_
+Url: https://testflight.apple.com/join/Z9Elx1Aj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/b9/86/5eb986c9-7d14-b8b6-3aca-772e3c6b3613/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 26
+Beta Available: open
+Last Checked: 2024-06-10T19:16:12.882Z
+Categories:
+
+
+Name: Rekord
+Url: https://testflight.apple.com/join/9pln2cnJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/24/52/6d24522d-e23f-272c-b13a-32a9bd1f3ed3/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 6
+Beta Available: open
+Last Checked: 2024-06-10T19:16:12.919Z
+Categories:
+
+
+Name: IsItGOLD?
+Url: https://testflight.apple.com/join/MicsSOHR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/4f/9a/394f9a56-4c7c-ec48-08e3-acbab551d5fc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T19:16:12.955Z
+Categories:
+
+
+Name: Bracket Buddy - Esports Events
+Url: https://testflight.apple.com/join/5yab6pxu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/2d/ca/a72dca95-1b66-32a9-afb1-1cf53d1dceea/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:16:12.990Z
+Categories:
+
+
+Name: Mikuture
+Url: https://testflight.apple.com/join/jRN2sLGz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/56/47/d2564798-ecae-ade4-5911-c3aee228fb65/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 51
+Beta Available: not accepting
+Last Checked: 2024-06-10T19:16:13.026Z
+Categories:
+
+
+Name: Sentinel: Decentralized VPN
+Url: https://testflight.apple.com/join/CHRhpwKQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/fe/c8/b5fec832-b5d9-979a-cccb-7a12e15869f7/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-10T19:16:13.061Z
+Categories:
+
+
+Name: HEAT APP Mining
+Url: https://testflight.apple.com/join/5VrmUlmj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9b/c6/fc/9bc6fcd8-23b6-abf9-dd4a-f51717cf4fd1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 30
+Beta Available: open
+Last Checked: 2024-06-10T19:16:13.097Z
+Categories:
+
+
+Name: SimpleX Chat: secure messenger
+Url: https://testflight.apple.com/join/DWuT2LQu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/93/3b/9c933b3c-ca56-0a76-371b-0ca5860e0224/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-10T19:16:13.133Z
+Categories:
+
+
+Name: Science of Reading
+Url: https://testflight.apple.com/join/sKBQlu0w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ca/bb/d9cabbc9-a9e6-0d2b-2ad4-e353030f51b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 55
+Beta Available: open
+Last Checked: 2024-06-10T19:16:13.168Z
+Categories:
+
+
+Name: VisionCode
+Url: https://testflight.apple.com/join/W7N1Vk9q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/d1/93/65d193c3-1760-b24f-2440-baf99dafe9bf/AppIcon.lsr/200x200bb-8.png
+Click Count: 73
+Beta Available: open
+Last Checked: 2024-06-10T19:16:13.204Z
+Categories:
+
+
+Name: Reach Infinity
+Url: https://testflight.apple.com/join/4rdyJbDf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/15/8a/00158ac0-6591-6dd1-74fc-663685284386/AppIcon.lsr/200x200bb-80.png
+Click Count: 119
+Beta Available: open
+Last Checked: 2024-06-10T19:16:13.239Z
+Categories:
+
+
