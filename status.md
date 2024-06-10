@@ -20005,3 +20005,120 @@ Last Checked: 2024-06-10T16:07:07.996Z
 Categories:
 
 
+Name: Doppi 5
+Url: https://testflight.apple.com/join/eMHoOSsL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/a3/95/61a395d0-5e4f-81f7-16ed-390c6d10981b/AppIcon-0-1x_U007emarketing-0-4-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T16:11:07.165Z
+Categories:
+
+
+Name: Doro - Focus Timer
+Url: https://testflight.apple.com/join/eC2yCjkh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2e/4a/ad/2e4aad00-ff63-4930-c654-3f4c806780de/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:11:07.193Z
+Categories:
+
+
+Name: Downpour — make a game
+Url: https://testflight.apple.com/join/FiogE1Qm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/2e/c2/1e2ec2f2-9224-8ee6-9a80-faef61358bcd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T16:11:07.222Z
+Categories:
+
+
+Name: Dr Bienestar+
+Url: https://testflight.apple.com/join/5DPA4orJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/57/d8/a457d8f1-3bfb-bee8-1b2e-4cd4ef99f229/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T16:11:07.249Z
+Categories:
+
+
+Name: Drago Wallet
+Url: https://testflight.apple.com/join/0W4ELGHr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/47/ce/7947ce89-6ca3-977e-267c-ecf633fd76a3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:11:07.277Z
+Categories:
+
+
+Name: DragonBank
+Url: https://testflight.apple.com/join/o71urBwF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/4e/e0/bf4ee001-6e30-dc93-e01e-76692fea2913/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:11:07.306Z
+Categories:
+
+
+Name: Dramaly
+Url: https://testflight.apple.com/join/AyaTZ1zJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/16/e3/5816e32d-7818-2b5e-41b2-2aa4e13b1185/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:11:07.337Z
+Categories:
+
+
+Name: Dreampal - Interpret Dreams
+Url: https://testflight.apple.com/join/V0jWQRXQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/b3/7d/07b37de2-f594-5c7e-95b7-feeb0cd8c719/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:11:07.364Z
+Categories:
+
+
+Name: Drive GPS
+Url: https://testflight.apple.com/join/ioBQ3vQq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/84/6d/4f846de7-923d-26c7-0f49-9fbc4bd2c603/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:11:07.392Z
+Categories:
+
+
+Name: Dubai Parks Stg
+Url: https://testflight.apple.com/join/kdUD3voB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/f8/88/0cf88876-4aed-efd3-34c6-e25cde4dbe9d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T16:11:07.421Z
+Categories:
+
+
+Name: DubaiVerseCup
+Url: https://testflight.apple.com/join/69rwpgjn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/eb/b5/89ebb53f-20e8-bd9b-f979-a224bb7b6a45/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T16:11:07.450Z
+Categories:
+
+
+Name: Duck It
+Url: https://testflight.apple.com/join/DtFH2W3S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/ca/85/5dca85ec-594e-fec6-5b49-c90b7f7603ea/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:11:07.478Z
+Categories:
+
+
+Name: Dugmates
+Url: https://testflight.apple.com/join/ZQVaye4f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f0/fa/30/f0fa3024-a65d-6b5e-98bc-245435c3a5b6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:11:07.506Z
+Categories:
+
+
