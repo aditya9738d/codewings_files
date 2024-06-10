@@ -1987,3 +1987,120 @@ Last Checked: 2024-06-10T18:11:10.772Z
 Categories:
 
 
+Name: Westside
+Url: https://testflight.apple.com/join/pfvhMuad
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/88/96/df8896b8-d3a1-868a-1885-774d51f29cda/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:12:13.404Z
+Categories:
+
+
+Name: What Are Those!? App
+Url: https://testflight.apple.com/join/5sQrm9MF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/c7/80/50c780b8-5850-9ce3-e35d-abd58fe9714c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:12:13.432Z
+Categories:
+
+
+Name: Whatever - Dates for Couples
+Url: https://testflight.apple.com/join/6uvfdowB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/74/ba/ff74ba69-12d2-68be-8e13-cb1cafaa0b04/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:12:13.461Z
+Categories:
+
+
+Name: Widgetsmith
+Url: https://testflight.apple.com/join/U1xowuoZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/76/be/aa76bed0-fa8e-2011-4a79-47559f1870f5/AppIcon.lsr/200x200bb-8.png
+Click Count: 7
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:12:13.489Z
+Categories:
+
+
+Name: Winee3 Beta
+Url: https://testflight.apple.com/join/IFjwtnsG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/92/17/079217ff-e133-c828-b0ed-44c813f5b795/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T18:12:13.517Z
+Categories:
+
+
+Name: Wingman
+Url: https://testflight.apple.com/join/I63dW4bi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/8b/b3/538bb306-2e3b-0cf0-4f0a-4be88bc53005/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T18:12:13.546Z
+Categories:
+
+
+Name: Winners List
+Url: https://testflight.apple.com/join/SnIvJgRg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ed/ee/f8/edeef849-48da-5b05-85e2-1bb9ad65bd49/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:12:13.574Z
+Categories:
+
+
+Name: Wisej.NET Hybrid
+Url: https://testflight.apple.com/join/WcgU4Oil
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/c4/39/bac439de-e964-8660-95b2-eb6a4346dbb7/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:12:13.602Z
+Categories:
+
+
+Name: WoWs Info Future
+Url: https://testflight.apple.com/join/685rpJS8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/11/1d/bc111dba-d448-2e81-f064-a0017a8b2f07/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:12:13.630Z
+Categories:
+
+
+Name: Women'secret
+Url: https://testflight.apple.com/join/eZR4aiJY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/43/c0/8043c0fa-e740-9f72-19fd-9d500b30c102/AppIcon-1x_U007ephone-0-9-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:12:13.658Z
+Categories:
+
+
+Name: Wonderwake: Gentle Alarm Clock
+Url: https://testflight.apple.com/join/5yUkUQRe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0b/db/a9/0bdba9e5-2ed4-cd43-f289-55022ade3099/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:12:13.686Z
+Categories:
+
+
+Name: Woopdo
+Url: https://testflight.apple.com/join/eqcSqwuI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9d/db/509ddb1b-8523-c2c2-6735-5919fbefc38d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T18:12:13.714Z
+Categories:
+
+
+Name: Wordy Word Picker
+Url: https://testflight.apple.com/join/dUfJ3mdV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/f0/74/fef074b0-7a1a-576c-535a-442e7827a00f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:12:13.744Z
+Categories:
+
+
