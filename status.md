@@ -11752,3 +11752,120 @@ Last Checked: 2024-06-10T19:42:09.939Z
 Categories:
 
 
+Name: HomefarmShip
+Url: https://testflight.apple.com/join/V5WM5A3M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/65/c8/20/65c8201a-6dae-67a2-9df9-a9f2f2a2438f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:43:12.817Z
+Categories:
+
+
+Name: Openvy
+Url: https://testflight.apple.com/join/o1Sq2K1h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/53/97/1a53977f-62e4-560c-4804-7c1ce08ab733/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T19:43:12.846Z
+Categories:
+
+
+Name: Streaks
+Url: https://testflight.apple.com/join/xYB3TvdT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e2/b2/8c/e2b28ca0-d911-95c3-a2f0-7e02c05c3141/AppIcon-Unfilled-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: not accepting
+Last Checked: 2024-06-10T19:43:12.874Z
+Categories:
+
+
+Name: Element X - Secure messenger
+Url: https://testflight.apple.com/join/uZbeZCOi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/43/6f/85436f85-31e9-4db2-1385-9760842e7e6a/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:43:12.903Z
+Categories:
+
+
+Name: PlantNet
+Url: https://testflight.apple.com/join/XYdwSHKM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6e/26/7a6e26d9-336f-d2b4-debf-9a79cbe792ca/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:43:12.932Z
+Categories:
+
+
+Name: Retro 2
+Url: https://testflight.apple.com/join/IjV5V0zL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/29/1d/4b291d51-32f9-cf75-defc-3397b09ed817/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: full
+Last Checked: 2024-06-10T19:43:12.961Z
+Categories:
+
+
+Name: HTTT Scanner
+Url: https://testflight.apple.com/join/acZZ0ruD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/7e/90/257e9036-f48b-702b-9da8-3c368032edf0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:43:12.990Z
+Categories:
+
+
+Name: NZSB Customer
+Url: https://testflight.apple.com/join/6QH0KiQC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/0d/46/600d46d7-404e-b8dd-86d8-869964523650/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:43:13.019Z
+Categories:
+
+
+Name: OutDesi
+Url: https://testflight.apple.com/join/gvGkVFHI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0f/e5/ad/0fe5ad73-9832-154f-4b91-d2ee2f08e92c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:43:13.047Z
+Categories:
+
+
+Name: MTSMT5 UAT
+Url: https://testflight.apple.com/join/IFxAXIJT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/06/4d/36064da2-34af-969a-0175-539e8d9ffbcb/MTS-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:43:13.075Z
+Categories:
+
+
+Name: SkyGlass
+Url: https://testflight.apple.com/join/rFGcCkaq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/78/30/8c78301d-a1e4-aa92-4d75-d3d1d8d0f334/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:43:13.104Z
+Categories:
+
+
+Name: REACH Explorer
+Url: https://testflight.apple.com/join/A12tOOLf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/41/64/f0/4164f0dc-1b13-37de-1017-fa0909591b48/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T19:43:13.133Z
+Categories:
+
+
+Name: DFX BTC Taproot Asset Wallet
+Url: https://testflight.apple.com/join/ud0KIuvt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/e2/be/abe2bec8-64e0-36ea-b0fa-b24f89cf2a9d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:43:13.163Z
+Categories:
+
+
