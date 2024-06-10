@@ -7018,3 +7018,120 @@ Last Checked: 2024-06-10T12:46:12.092Z
 Categories:
 
 
+Name: ITock
+Url: https://testflight.apple.com/join/qYhOqNRw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/c4/91/62c491cf-5b0a-d4fa-08c5-d392250c77dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:47:10.140Z
+Categories:
+
+
+Name: Elytra
+Url: https://testflight.apple.com/join/PQtYgSOo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/98/4f/d6984fe7-b7eb-badd-fb70-a60a22963434/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:47:10.168Z
+Categories:
+
+
+Name: Lenovo Smart Storage
+Url: https://testflight.apple.com/join/yjgUleaX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/4f/39/664f3939-c179-ab22-1a21-f02079558532/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T12:47:10.196Z
+Categories:
+
+
+Name: Oilbrush: Oil Painting Editor
+Url: https://testflight.apple.com/join/M8nRADRo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/12/3c/b7123c3c-1cf5-2f71-4a10-97aab42f02b3/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-10T12:47:10.224Z
+Categories:
+
+
+Name: Mhaya Test
+Url: https://testflight.apple.com/join/6FIIvKlJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/d8/b1/c4d8b170-f072-45bb-b5f0-5b435396bb26/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: open
+Last Checked: 2024-06-10T12:47:10.252Z
+Categories:
+
+
+Name: App for WooCommerce
+Url: https://testflight.apple.com/join/LBoLdW0r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/d8/0f/49d80f3c-8ec6-131d-75bd-f4f03d707135/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-10T12:47:10.280Z
+Categories:
+
+
+Name: Astara
+Url: https://testflight.apple.com/join/ZWokb4hI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/ce/b3/c1ceb39b-4759-c7da-dae3-b773651bec6b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:47:10.309Z
+Categories:
+
+
+Name: bitXin
+Url: https://testflight.apple.com/join/AAqEldbE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/73/f2/3073f2e7-9d08-9f9e-bd0a-7abcd342bec0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:47:10.337Z
+Categories:
+
+
+Name: EC App Dev
+Url: https://testflight.apple.com/join/wdJjqbX5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/54/50/d2545006-97a8-ec82-9e30-f4d372ecae4e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:47:10.369Z
+Categories:
+
+
+Name: KidZoo - Playdates Made Easy
+Url: https://testflight.apple.com/join/sIDpnb8C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/35/f8/db35f8ac-017b-233e-5d1a-1d9365838cfc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:47:10.397Z
+Categories:
+
+
+Name: Triodos
+Url: https://testflight.apple.com/join/NTTi3y2g
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/69/16/586916b3-0afd-4fe9-8eed-e82b28459d9c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:47:10.426Z
+Categories:
+
+
+Name: Remain in The Game Mobile App
+Url: https://testflight.apple.com/join/qgNfalhe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/18/64/f61864ae-a86c-c2f3-94f9-1c0ad90e3342/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:47:10.454Z
+Categories:
+
+
+Name: Indigo Education
+Url: https://testflight.apple.com/join/tTCxbyGo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d5/76/20/d57620a7-2091-ad74-b65e-e45d954283fe/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:47:10.482Z
+Categories:
+
+
