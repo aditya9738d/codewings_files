@@ -8773,3 +8773,120 @@ Last Checked: 2024-06-10T13:06:12.157Z
 Categories:
 
 
+Name: Guncho
+Url: https://testflight.apple.com/join/d1nny6zi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/7b/56/537b5659-e045-dbd6-8e7e-dba107c7be79/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.078Z
+Categories:
+
+
+Name: Infinite Drive
+Url: https://testflight.apple.com/join/fDLLZeSk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cd/58/6e/cd586e4b-f4c7-8183-94c7-7cdcec47d427/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.113Z
+Categories:
+
+
+Name: GoEnjoyOversea
+Url: https://testflight.apple.com/join/xDk4MHna
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/6f/3e/5e6f3ec1-341b-2fcf-8f7e-d1782ed3c7c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.148Z
+Categories:
+
+
+Name: Poker Royal
+Url: https://testflight.apple.com/join/L785HuU4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/ce/fc/e6cefc13-d4ea-16ec-fdff-da62513105dc/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.185Z
+Categories:
+
+
+Name: Brew Meister: Measure & Manage
+Url: https://testflight.apple.com/join/LBlwlHNg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/96/04/38960464-d4d6-dc1b-576a-470ca2a07890/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.220Z
+Categories:
+
+
+Name: [UAT] McDonald’s Japan
+Url: https://testflight.apple.com/join/PbVDlHka
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/23/11/83231123-dc82-89a0-2f10-66289fadd9d7/AppIcon-UAT-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.256Z
+Categories:
+
+
+Name: Chelsea FC - The 5th Stand
+Url: https://testflight.apple.com/join/qtkzWwi8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/af/78/9caf7805-0f16-98da-6b9c-6fbdb32e0bd6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T13:13:08.291Z
+Categories:
+
+
+Name: Fountain: Podcast Player
+Url: https://testflight.apple.com/join/42UIoIzi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/8c/2e/f88c2ec9-9125-5a1b-3932-a234c956a155/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.326Z
+Categories:
+
+
+Name: Law Companion Express
+Url: https://testflight.apple.com/join/NdBpFoOT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/49/93/2b4993ec-24cf-65db-047f-77f657c42a12/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.361Z
+Categories:
+
+
+Name: Police Scanner Radio & Fire
+Url: https://testflight.apple.com/join/uKCjxQNM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/54/9d/79549dcb-b870-e80f-0223-41e11e379221/AppIcon-2-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.397Z
+Categories:
+
+
+Name: Connect-It 365 Inspectie app
+Url: https://testflight.apple.com/join/xpVS2BSb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/7f/a8/567fa8ed-83e2-3a38-4ce4-94ac6929b42a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.432Z
+Categories:
+
+
+Name: Happy Treasure
+Url: https://testflight.apple.com/join/eKNJoc6b
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/d1/6c/3fd16cdf-60b1-28be-d555-d30539fd6f2f/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.469Z
+Categories:
+
+
+Name: ProjectCura
+Url: https://testflight.apple.com/join/S6RYM0gg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/88/84/b8888406-d89c-0c8c-181d-16f4a22ed626/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:13:08.504Z
+Categories:
+
+
