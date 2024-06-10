@@ -24154,3 +24154,120 @@ Last Checked: 2024-06-10T21:39:10.445Z
 Categories:
 
 
+Name: Open Trickler
+Url: https://testflight.apple.com/join/1XSoUPL3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/63/6d/3c636de1-d418-7ac2-1184-7afcf91b9b2e/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.180Z
+Categories:
+
+
+Name: O-KAM Pro
+Url: https://testflight.apple.com/join/3wVU0q2A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ef/20/4aef2092-9d48-0346-c61b-404503613443/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.209Z
+Categories:
+
+
+Name: AeonMallCsDev
+Url: https://testflight.apple.com/join/y0mUVG2r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/f7/22/98f7227d-2e8e-5f4e-ccab-8abbe4e8972e/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.237Z
+Categories:
+
+
+Name: FACEIT - Challenge your Game
+Url: https://testflight.apple.com/join/TZY7YS9K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/fc/56/17fc5654-529f-0c35-b7fa-a8af8dc90fc7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.265Z
+Categories:
+
+
+Name: Tourific: Audio and AR Tours
+Url: https://testflight.apple.com/join/wpYebzTb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/73/12/8d73126e-5766-fec9-accc-d9730af00bc5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.293Z
+Categories:
+
+
+Name: DDV-PMS
+Url: https://testflight.apple.com/join/PNw4Pt5z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5e/fe/7c/5efe7cdd-a303-4811-2ee4-acf5040972d3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.321Z
+Categories:
+
+
+Name: SALUS Premium Lite
+Url: https://testflight.apple.com/join/Tl5jlo4L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/87/45/8b874517-d4f1-f650-9b75-f5453b8b6403/salus_eu_prod_app_icon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.349Z
+Categories:
+
+
+Name: iTools Drive V2
+Url: https://testflight.apple.com/join/FP9sY5Nu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/e0/25/a2e0253f-a17d-54a6-e157-44a1456c1c2b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.378Z
+Categories:
+
+
+Name: ParkMe-Pro
+Url: https://testflight.apple.com/join/ktomusgp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/14/3d/fd/143dfddf-3bc8-d094-e959-a554300e746b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.406Z
+Categories:
+
+
+Name: My Golf: Practice, Play & Plan
+Url: https://testflight.apple.com/join/QSo08yul
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/77/39/94773920-e046-c1c7-46f3-3d3bb0585a9a/AppIconBeta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.433Z
+Categories:
+
+
+Name: PlanningSC
+Url: https://testflight.apple.com/join/YN4r1lqt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/26/e6/a6/26e6a6e5-8cf5-274f-e787-9ae63374e77c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.461Z
+Categories:
+
+
+Name: eTicket Famille
+Url: https://testflight.apple.com/join/1ZDAyKFI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/9f/4b/b99f4b92-09ed-6bfe-a7f6-fce921fce5c5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.489Z
+Categories:
+
+
+Name: [S]VitaDairy
+Url: https://testflight.apple.com/join/96Fj74GD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/48/cb/e1/48cbe173-938e-a4fd-7cd9-8683ff749489/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T21:40:28.517Z
+Categories:
+
+
