@@ -15676,3 +15676,120 @@ Last Checked: 2024-06-10T15:02:11.425Z
 Categories:
 
 
+Name: PromoDescuentos: ofertas
+Url: https://testflight.apple.com/join/64cKelOa
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/a5/7a/c4a57a8d-2a6b-f129-6240-b717813a76f7/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T15:03:09.381Z
+Categories:
+
+
+Name: Anglo Checklist App PREPROD
+Url: https://testflight.apple.com/join/JdRWlvky
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/48/d2/3a48d2c4-2f98-8543-7e21-6cd015199163/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T15:03:09.417Z
+Categories:
+
+
+Name: Surge Network Tester
+Url: https://testflight.apple.com/join/ABWQfJsU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/b5/e7/fcb5e7e8-0930-19b0-0434-18bd916c0f6b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T15:03:09.452Z
+Categories:
+
+
+Name: My Vodacom X
+Url: https://testflight.apple.com/join/6VTYMpIz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/32/f0/ab/32f0ab97-d7f5-bb01-0c52-9970e9d2e549/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T15:03:09.488Z
+Categories:
+
+
+Name: eDarkstore Shipping Transfers
+Url: https://testflight.apple.com/join/HxEFOrQp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/3b/23/323b2301-5fb3-829f-992e-e0266b076b86/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T15:03:09.523Z
+Categories:
+
+
+Name: Around Capture
+Url: https://testflight.apple.com/join/Fpox5bGg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9b/53/fd/9b53fd34-30cc-5257-ff8c-ad977df8f1f2/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T15:03:09.561Z
+Categories:
+
+
+Name: Enceladus
+Url: https://testflight.apple.com/join/FZzHTdPi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/9f/1d/059f1d3b-9818-580d-62c1-d18b0b6476f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T15:03:09.597Z
+Categories:
+
+
+Name: ViSymulation
+Url: https://testflight.apple.com/join/y8gAh6Lf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/cd/79/bccd79af-c370-6510-40eb-29acf0f4bc19/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T15:03:09.633Z
+Categories:
+
+
+Name: Outside: Shared Calendar App
+Url: https://testflight.apple.com/join/omBUOPhx
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/26/32/a726328c-7de2-c15b-fd7e-d39f294cc247/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T15:03:09.668Z
+Categories:
+
+
+Name: Furrend
+Url: https://testflight.apple.com/join/NvxEzkTb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/1d/bc/811dbcf3-d321-e64d-8a75-4736b98cab3f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-10T15:03:09.705Z
+Categories:
+
+
+Name: CACHATTO MailClient
+Url: https://testflight.apple.com/join/PFk2r3e9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/ec/55/adec557c-91c7-78ab-af22-4d8e5d8fc4b1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T15:03:09.740Z
+Categories:
+
+
+Name: Column
+Url: https://testflight.apple.com/join/NhFYL7QH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/b9/08/51b90835-3ce4-42a2-1852-79df9130a2a9/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T15:03:09.776Z
+Categories:
+
+
+Name: Maqsaf
+Url: https://testflight.apple.com/join/RsP1ztRb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8c/bb/90/8cbb90b4-3a71-72e8-ff6c-08d295ae93dc/AppIcon-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:03:09.812Z
+Categories:
+
+
