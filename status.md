@@ -18655,3 +18655,120 @@ Last Checked: 2024-06-10T20:50:27.319Z
 Categories:
 
 
+Name: KTC EConsent
+Url: https://testflight.apple.com/join/HcVX6Q35
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/39/87/51/398751d4-3a0f-0aed-12dc-d11931a66e84/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:51:12.508Z
+Categories:
+
+
+Name: L2+
+Url: https://testflight.apple.com/join/hxLvaOh5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0f/a2/ca/0fa2ca2e-5394-88bc-9a18-0dd43e21a0b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:51:12.538Z
+Categories:
+
+
+Name: eGrocer Customer
+Url: https://testflight.apple.com/join/fcRe3J9F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/70/99/647099a1-6315-7993-afc6-a1907f75967a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:51:12.566Z
+Categories:
+
+
+Name: Bike Master Challenge
+Url: https://testflight.apple.com/join/nkLCjtCX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/6c/7b/346c7b0d-eb2b-e7a4-3fb3-eecd9e2177b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-10T20:51:12.593Z
+Categories:
+
+
+Name: Bring! Grocery Shopping List
+Url: https://testflight.apple.com/join/EUHdZJwQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/89/f2/6489f218-ef8c-426d-178d-fd015dfff673/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:51:12.620Z
+Categories:
+
+
+Name: Pulse – Network Logger
+Url: https://testflight.apple.com/join/1jcanE3q
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7f/06/fb/7f06fb0e-bd5e-1985-d285-5d21fde926e8/AppIcon-0-85-220-4-2x.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:51:12.649Z
+Categories:
+
+
+Name: jamme3na
+Url: https://testflight.apple.com/join/11n9OP7K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/ff/6a/7eff6ace-48e7-fb79-d83e-c90cee8b1e11/AppIcon-0-1x_U007ephone-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:51:12.677Z
+Categories:
+
+
+Name: HI-DNTU
+Url: https://testflight.apple.com/join/uhnDhMcF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/af/cd/ce/afcdce2c-0561-3021-3b87-80edea1f307f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:51:12.710Z
+Categories:
+
+
+Name: Radiant for Mastodon
+Url: https://testflight.apple.com/join/ZIPbEz2e
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/a6/9c/3ea69cb6-8890-92a2-d17c-b12a48e4b24c/AppIcon-0-1x_U007ephone-0-0-0-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:51:12.750Z
+Categories:
+
+
+Name: Affinity Designer 2 iPad Beta
+Url: https://testflight.apple.com/join/g1ygf6P7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/a1/4d/fba14d88-9054-27bd-83e9-5a1b0c550322/DesignerAppIconBeta-1x_U007emarketing-5-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T20:51:12.779Z
+Categories:
+
+
+Name: Streamie
+Url: https://testflight.apple.com/join/qcOTQQaL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/3b/ad/ad3bad9f-5d73-7621-529b-f727538a52d4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:51:12.806Z
+Categories:
+
+
+Name: Thunderobot Keyboard
+Url: https://testflight.apple.com/join/VHgA0BhI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/73/cc/98/73cc987e-51f9-2b50-5878-40889b967a90/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T20:51:12.835Z
+Categories:
+
+
+Name: TLV PTM Staging
+Url: https://testflight.apple.com/join/LhKljmhA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/01/c3/4501c356-4d8e-af81-6696-f9c57e7abd24/AppIcon-stg-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T20:51:12.862Z
+Categories:
+
+
