@@ -10699,3 +10699,120 @@ Last Checked: 2024-06-10T19:31:12.800Z
 Categories:
 
 
+Name: Wacky Genes
+Url: https://testflight.apple.com/join/1OTnKDDd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/24/3d/b7243d6c-2d92-9dc5-6514-c27d247de9eb/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.399Z
+Categories:
+
+
+Name: Sydbanks Mobilbank Privat
+Url: https://testflight.apple.com/join/Yh7ENG71
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/58/6c/ea586c5d-d5d2-b7e7-c8ad-cf51f2c6f29c/AppIcon-1x_U007emarketing-0-8-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.427Z
+Categories:
+
+
+Name: HIV Testing App
+Url: https://testflight.apple.com/join/NRNtAI3J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/bb/ae/8abbae7f-a2b2-67da-23bd-f7b7a4b70069/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.454Z
+Categories:
+
+
+Name: SSBeauty: Beauty Shopping App
+Url: https://testflight.apple.com/join/clWVMqlG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/ad/28/1ead281c-a23c-2322-3000-cb92e257adb2/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.482Z
+Categories:
+
+
+Name: SkipperLog
+Url: https://testflight.apple.com/join/NiiVIwqu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/a3/8a/b3a38add-386c-bfe4-732e-17c4851341bb/AppIcon-0-1x_U007ephone-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T19:32:13.510Z
+Categories:
+
+
+Name: Anonymous Chat / AnonChat
+Url: https://testflight.apple.com/join/GFiki70y
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/6f/03/596f0324-89ee-b629-29e1-84d37ef8511f/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.543Z
+Categories:
+
+
+Name: Rabbani Portal
+Url: https://testflight.apple.com/join/M2Dr6Hgi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dd/b4/6b/ddb46bd6-f498-5bb3-d991-6f5a23daee4e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.571Z
+Categories:
+
+
+Name: AsDeporte Dev
+Url: https://testflight.apple.com/join/E6kcmgC7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/f8/a8/ebf8a876-60c3-b1ac-5e13-b2c1c2c45439/AppIcon-Dev-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.600Z
+Categories:
+
+
+Name: Art Of War 3:RTS Strategy Game
+Url: https://testflight.apple.com/join/YVxtZcBV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/5f/b9/8a5fb9ef-c7ec-17ab-1171-80563a40c4ec/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.627Z
+Categories:
+
+
+Name: CoinEasy
+Url: https://testflight.apple.com/join/u8CSCSCl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/cb/72/ddcb723a-651a-541e-625e-d3d438cde664/AppIcon-1x_U007ephone-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.655Z
+Categories:
+
+
+Name: App Movil CCB STG
+Url: https://testflight.apple.com/join/gN9zFxoX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/96/b1/4496b1cb-9964-35a4-eeb3-55f66a03186f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.682Z
+Categories:
+
+
+Name: Wasserflug
+Url: https://testflight.apple.com/join/aYwKPFNF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/a9/6e/73a96e1d-4450-3c7b-8c04-4f99325b6f9c/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.710Z
+Categories:
+
+
+Name: Allcooks - Food Community
+Url: https://testflight.apple.com/join/1GSLtzuj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/23/c5/1d23c55c-8eb8-f0b7-968d-50d546769c3c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:32:13.738Z
+Categories:
+
+
