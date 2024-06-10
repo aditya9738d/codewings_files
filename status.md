@@ -11284,3 +11284,120 @@ Last Checked: 2024-06-10T19:36:15.422Z
 Categories:
 
 
+Name: Infltr - Infinite Filters
+Url: https://testflight.apple.com/join/In6e3GcJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a5/fe/64a5fe46-12ba-c215-d2e3-41f8d1fb45d6/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.jpeg/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-10T19:37:11.914Z
+Categories:
+
+
+Name: Everlog Journal
+Url: https://testflight.apple.com/join/oARXO251
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/c5/53/94c55379-2649-1614-181d-3e29907c34a2/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:37:11.942Z
+Categories:
+
+
+Name: Liv X Mobile Banking App
+Url: https://testflight.apple.com/join/8jRd2W9x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/1c/0d/da1c0db5-be20-b702-d663-879ed7c996e6/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:37:11.972Z
+Categories:
+
+
+Name: KKB
+Url: https://testflight.apple.com/join/AR9RqX3w
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/ca/20/f5ca2095-3c65-62ef-fd1c-92457fe508a2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:37:12.001Z
+Categories:
+
+
+Name: Panda Pizzeria
+Url: https://testflight.apple.com/join/jgmIXkIg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/16/3c/1f163cd1-9167-8cea-ccba-b8adb6b237c5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:37:12.029Z
+Categories:
+
+
+Name: Budget App - Spending Tracker
+Url: https://testflight.apple.com/join/RlzjB4hV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/fb/f5/9efbf557-335f-cd75-b0b5-30931546109e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:37:12.059Z
+Categories:
+
+
+Name: Mary Kay® Interactive Catalog
+Url: https://testflight.apple.com/join/2X7PZGUL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3e/62/91/3e629126-c9db-efb8-3329-47f1a1d77c2d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-10T19:37:12.089Z
+Categories:
+
+
+Name: 1409
+Url: https://testflight.apple.com/join/B5CCTVv9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/9e/b6/0b9eb623-c297-3398-4868-fde3a9deef4c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T19:37:12.118Z
+Categories:
+
+
+Name: EufyLife
+Url: https://testflight.apple.com/join/s2VwsIVW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/77/64/477764ec-b594-9c42-2aca-12754525b91d/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:37:12.147Z
+Categories:
+
+
+Name: Burger King® Baltics
+Url: https://testflight.apple.com/join/K7wGJrAN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/6b/f7/716bf728-deb2-455d-6a97-6c4429df5742/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:37:12.176Z
+Categories:
+
+
+Name: GTMR
+Url: https://testflight.apple.com/join/aNYdAP3Z
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/65/aa/9e/65aa9ec1-2979-0e15-2eec-1aaa2ec6eea3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T19:37:12.207Z
+Categories:
+
+
+Name: Fleetwork
+Url: https://testflight.apple.com/join/xQdTfUGY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/3b/d9/aa3bd92e-8831-3fe9-e743-69a889387ef9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T19:37:12.238Z
+Categories:
+
+
+Name: with Mountain Smiling
+Url: https://testflight.apple.com/join/E5S9WqvB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/87/cb/3087cb1c-ff29-7601-df87-f6ef8efffba9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T19:37:12.267Z
+Categories:
+
+
