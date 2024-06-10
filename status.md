@@ -10879,3 +10879,120 @@ Last Checked: 2024-06-10T13:43:12.124Z
 Categories:
 
 
+Name: Equel Multilingual Communities
+Url: https://testflight.apple.com/join/ITlbxYYG
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/9c/32/539c322a-cf1c-146c-9d43-76e836b37a19/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.503Z
+Categories:
+
+
+Name: SuperCycle Bike Computer
+Url: https://testflight.apple.com/join/zFer65Bt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/69/86/846986de-6827-a197-d7a8-b5dde3895466/AppIcon-free-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.540Z
+Categories:
+
+
+Name: MyTherapy: Medication Reminder
+Url: https://testflight.apple.com/join/fm9mu1wl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/66/91/69669155-8381-f79a-dbef-4a785cc2dcd1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.575Z
+Categories:
+
+
+Name: Pluto TV (Debug)
+Url: https://testflight.apple.com/join/Jdg2lENi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/ff/86/2dff86f8-14b9-4e67-242c-8d03057c2f57/AppIcon-debug-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.612Z
+Categories:
+
+
+Name: Moon Chai Story
+Url: https://testflight.apple.com/join/NBawcyz6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/43/31/8a/43318af3-cc4a-110e-16e4-73eaa1bc36fd/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.649Z
+Categories:
+
+
+Name: radiko staging
+Url: https://testflight.apple.com/join/xGZID8vo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/10/5e/ff105ef4-5646-ebfe-5fc6-cf687e1c0777/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.684Z
+Categories:
+
+
+Name: Agora Chat
+Url: https://testflight.apple.com/join/MO0UuYJH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/36/7d/58367dee-44a1-fdc4-d240-a0126014b394/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.720Z
+Categories:
+
+
+Name: World Clock Time Zone Widgets
+Url: https://testflight.apple.com/join/W4icDq8K
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/8d/4f/358d4fb3-8afb-1ae4-cad5-75bea6b9daf5/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.757Z
+Categories:
+
+
+Name: imag!n
+Url: https://testflight.apple.com/join/iMSqWMNV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/43/e4/4943e421-75c4-df7c-a187-fa1a8187f519/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.792Z
+Categories:
+
+
+Name: HaloBites Dashboard
+Url: https://testflight.apple.com/join/D3gBmaPk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/c1/6d/2ec16df5-e53b-279c-afae-75c59844a2af/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.829Z
+Categories:
+
+
+Name: DiapStash
+Url: https://testflight.apple.com/join/sDXYZAda
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/93/e1/6393e1b4-823d-354a-e6e9-1bb350195f76/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.865Z
+Categories:
+
+
+Name: 0xchat
+Url: https://testflight.apple.com/join/AjdJFBmU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/44/40/6e4440a0-491e-6962-1c2c-e0090bded94c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.902Z
+Categories:
+
+
+Name: TS200
+Url: https://testflight.apple.com/join/vxgpgCbd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/52/52/4f5252ff-8fdf-446d-b98b-33d8c0a760ff/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:45:25.939Z
+Categories:
+
+
