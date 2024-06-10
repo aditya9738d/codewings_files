@@ -5731,3 +5731,120 @@ Last Checked: 2024-06-10T12:20:29.653Z
 Categories:
 
 
+Name: Euro Cup 2024 Score Predictor
+Url: https://testflight.apple.com/join/H1XDE4V9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/68/24/c968241d-b025-10e7-7cfb-d415ba3af675/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-10T12:21:10.116Z
+Categories:
+
+
+Name: Mobius Template
+Url: https://testflight.apple.com/join/cISp06fo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/9d/cc/fa9dcc14-b72d-477e-97ea-8fa408a1312b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T12:21:10.145Z
+Categories:
+
+
+Name: iHerb: Vitamins & Supplements
+Url: https://testflight.apple.com/join/ra5oPV8S
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/0c/d5/750cd52b-0659-c219-4229-dc55fa72fefb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:21:10.173Z
+Categories:
+
+
+Name: GWM ORA
+Url: https://testflight.apple.com/join/GQIZJoBn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/e7/96/e2e79607-dfdf-f38b-171d-cfd5d2521a5f/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-10T12:21:10.202Z
+Categories:
+
+
+Name: Cult‎
+Url: https://testflight.apple.com/join/xFRfXTAC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/14/aa/9614aa9e-ec23-5cc2-efe5-a7da7de175fc/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:21:10.230Z
+Categories:
+
+
+Name: sensat.com
+Url: https://testflight.apple.com/join/hKRBMAFA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/8c/6e/3a8c6e41-b9c3-5b6c-b355-9fbfb1360cc2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:21:10.258Z
+Categories:
+
+
+Name: iAnyGo-1
+Url: https://testflight.apple.com/join/cuVcvkxl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/7e/99/217e999b-7e91-42bf-9de0-4596b342db6c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-10T12:21:10.286Z
+Categories:
+
+
+Name: Bitpie Two
+Url: https://testflight.apple.com/join/4ybWwoPN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/9c/7d/c69c7d90-7905-d77d-95d2-0342fa578209/BitpieTwoAppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:21:10.315Z
+Categories:
+
+
+Name: Herbalife VNHUB Staging
+Url: https://testflight.apple.com/join/rYr22T4c
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/16/a6/8d16a6c0-1188-d1bd-d215-376108a08442/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:21:10.344Z
+Categories:
+
+
+Name: iLand.BRVT
+Url: https://testflight.apple.com/join/PanKodoM
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0c/7f/12/0c7f12f0-6e4b-5f4b-7a3a-a5d12b7cffc8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T12:21:10.375Z
+Categories:
+
+
+Name: HeapsGo
+Url: https://testflight.apple.com/join/Xgk71v9A
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/83/71/b483719e-2365-1682-e056-badd25b9e8a0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:21:10.403Z
+Categories:
+
+
+Name: BiliTV
+Url: https://testflight.apple.com/join/swQEmTp2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/af/12/4f/af124ffc-898c-cff3-6ae0-1a9f53e78f45/App_Icon-marketing.lsr/200x200bb-80.png
+Click Count: 8
+Beta Available: full
+Last Checked: 2024-06-10T12:21:10.431Z
+Categories:
+
+
+Name: Me@Walmart
+Url: https://testflight.apple.com/join/bqo4smK7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/01/37/58013793-a104-15a6-c327-af7d81cadba2/AppIcon-Prod-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:21:10.460Z
+Categories:
+
+
