@@ -934,3 +934,120 @@ Last Checked: 2024-06-10T11:12:10.188Z
 Categories:
 
 
+Name: XRAI Glass
+Url: https://testflight.apple.com/join/oS3CLajQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/a6/29/3ba629ed-1f44-0b29-9c2c-c8870a381626/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.189Z
+Categories:
+
+
+Name: Poker Master - Texas Hold’em
+Url: https://testflight.apple.com/join/3aPlJZGg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e7/5b/f8/e75bf8ef-5acd-e5ea-40c8-696d32bab15a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.225Z
+Categories:
+
+
+Name: Umay
+Url: https://testflight.apple.com/join/AIqnaiRD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/5b/53/ee5b53c9-8e5c-6b76-61f3-f64487734168/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T11:13:09.261Z
+Categories:
+
+
+Name: SSP UAT
+Url: https://testflight.apple.com/join/fDTIhPK5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5c/26/c1/5c26c1f9-ec5d-4e81-b735-0a8ac82aba48/SSPAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.296Z
+Categories:
+
+
+Name: Uniwhale Care
+Url: https://testflight.apple.com/join/e7gQg6qR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/9d/ed/d69ded8c-c5aa-0f08-3fbd-c5c27e6c8722/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.333Z
+Categories:
+
+
+Name: ChanExpress
+Url: https://testflight.apple.com/join/YrrAMjcu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/18/0c/ec180c2f-befa-d4f1-1a4e-1621e3c69dbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.371Z
+Categories:
+
+
+Name: BsAgentes
+Url: https://testflight.apple.com/join/L4oPaQvR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dc/31/b4/dc31b4f6-78a4-ecae-daef-6b6bdb3e5d61/AppIcon-2-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.407Z
+Categories:
+
+
+Name: Tata Motors iRA 2.0
+Url: https://testflight.apple.com/join/JsSSjSEL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/ba/05/abba0531-9ed9-339d-0d00-3174b693ce12/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.443Z
+Categories:
+
+
+Name: Teja - journal & selfcare
+Url: https://testflight.apple.com/join/w2vMOLFB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/89/5d/62895d88-92bc-8cd6-9246-89a1e5274531/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.478Z
+Categories:
+
+
+Name: Peaks: Circadian Rhythm
+Url: https://testflight.apple.com/join/Z0KOoZht
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/15/e3/a015e305-d4fe-83b2-941c-74e68e30af60/AppIcon-0-1x_U007ephone-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.514Z
+Categories:
+
+
+Name: Tread®
+Url: https://testflight.apple.com/join/Y5jn4pt5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/e9/cb/fbe9cb22-3b05-c050-2a94-c51a00464b4a/TreadAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.550Z
+Categories:
+
+
+Name: Beeper Cloud
+Url: https://testflight.apple.com/join/AmLtgT00
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/b8/f3/94b8f341-ab28-49c5-a7b6-3676b3eec372/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.585Z
+Categories:
+
+
+Name: HomePass Beta
+Url: https://testflight.apple.com/join/wFP7VBcd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/e4/9a/1ae49a8f-341c-f17a-f232-efee780b6eb3/AppIcon-0-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T11:13:09.621Z
+Categories:
+
+
