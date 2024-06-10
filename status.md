@@ -19420,3 +19420,120 @@ Last Checked: 2024-06-10T15:55:21.513Z
 Categories:
 
 
+Name: Coppice Growth Journal
+Url: https://testflight.apple.com/join/yXKr57lt
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/b3/d3/7eb3d3e5-2a04-56a5-94cb-18b1d0c7708c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:58:12.916Z
+Categories:
+
+
+Name: Coptic Sunday School
+Url: https://testflight.apple.com/join/VrilDgy1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0b/f0/b0/0bf0b094-1dc6-caf0-762f-cddc78caae4b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T15:58:12.954Z
+Categories:
+
+
+Name: Corner: curate & share places
+Url: https://testflight.apple.com/join/Nb7Meg0r
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/01/a8/ae01a85c-e9d1-b4a7-d5f1-d631a8301874/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:58:12.996Z
+Categories:
+
+
+Name: Corona Fit
+Url: https://testflight.apple.com/join/bQuYvtEI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/49/e7/8f49e731-d2a4-0155-d448-6452b223d92d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:58:13.031Z
+Categories:
+
+
+Name: CosyBuilding
+Url: https://testflight.apple.com/join/qk32DtdB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7d/65/12/7d651226-35e0-ccfc-45b4-2a9828011f6b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:58:13.066Z
+Categories:
+
+
+Name: CouchStream
+Url: https://testflight.apple.com/join/HjTmjkv7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/88/9b/be/889bbeae-396e-e6ed-0ce5-fa607815c016/App_Icon-marketing.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:58:13.102Z
+Categories:
+
+
+Name: Coumo: Couples & Relationships
+Url: https://testflight.apple.com/join/QqqIgnuX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/31/10/4a3110d3-483c-3409-707b-a31eb7fc1b54/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:58:13.138Z
+Categories:
+
+
+Name: Count Time: The countdown app
+Url: https://testflight.apple.com/join/YuCWqziW
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/5c/86/095c8608-bd39-5ad2-41f7-056fad165e92/CountTimeIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:58:13.173Z
+Categories:
+
+
+Name: Countdown Widget & Counter
+Url: https://testflight.apple.com/join/gpGbsVi4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7f/38/55/7f38559d-5423-41b6-18a6-469a054fe34a/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:58:13.208Z
+Categories:
+
+
+Name: Coverage Map
+Url: https://testflight.apple.com/join/DHA9P8sN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4c/50/63/4c5063fe-cf33-89a5-c741-ee31469e28ff/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:58:13.244Z
+Categories:
+
+
+Name: CraftOS-PC
+Url: https://testflight.apple.com/join/SiuXlijR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c1/74/98/c174980a-0da3-dcd6-e9c5-94c40c0bfe86/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:58:13.280Z
+Categories:
+
+
+Name: Crane App
+Url: https://testflight.apple.com/join/NPjncnJp
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/71/a7/f771a7c5-4e9d-0280-928d-dbce51ed2397/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: error
+Last Checked: 2024-06-10T15:58:13.315Z
+Categories:
+
+
+Name: Crazy Brag
+Url: https://testflight.apple.com/join/nKx0pyEc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/a8/d8/00a8d885-1322-362d-711c-0188ad3374fa/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T15:58:13.350Z
+Categories:
+
+
