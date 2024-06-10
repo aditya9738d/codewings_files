@@ -19771,3 +19771,120 @@ Last Checked: 2024-06-10T16:03:14.123Z
 Categories:
 
 
+Name: DemoShop
+Url: https://testflight.apple.com/join/Bwyi9fvv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a3/b3/7e/a3b37ed1-3a30-5964-6fb8-8d3daa5d4b52/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T16:05:18.947Z
+Categories:
+
+
+Name: Depesha
+Url: https://testflight.apple.com/join/7eK6bPOY
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2b/6b/26/2b6b264b-7826-0265-7fd2-2871005d484d/AppIcon-Depesha-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:05:18.975Z
+Categories:
+
+
+Name: Depict
+Url: https://testflight.apple.com/join/SE17ZkK7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/2f/90/2f2f90bd-5657-a041-305e-48b0b1f6a611/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:05:19.002Z
+Categories:
+
+
+Name: Desk
+Url: https://testflight.apple.com/join/vMm2P3Lg
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/f2/3c/7bf23cc5-7c92-fe5b-235b-1b9273833629/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:05:19.030Z
+Categories:
+
+
+Name: Destinations and more
+Url: https://testflight.apple.com/join/4KH29jSs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/07/02/a6/0702a6f1-2195-9e1f-4c7c-9befece43489/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:05:19.061Z
+Categories:
+
+
+Name: DevShares
+Url: https://testflight.apple.com/join/VilFjxLF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/03/22/980322e6-99ff-720b-e963-b3cd41eb9c12/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-10T16:05:19.088Z
+Categories:
+
+
+Name: Dialogy
+Url: https://testflight.apple.com/join/1Flw2nrl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/64/c4/7464c480-7538-1ea7-e1e1-92fb0d838e96/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:05:19.116Z
+Categories:
+
+
+Name: Diat
+Url: https://testflight.apple.com/join/h1QA5xQP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/04/e1/8504e12c-8cd8-2d46-11b9-7de2e67502ab/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T16:05:19.143Z
+Categories:
+
+
+Name: Dice by PCalc
+Url: https://testflight.apple.com/join/Cpvyld9O
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0a/d4/0d/0ad40de9-abac-bb31-5125-4c95c331d090/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T16:05:19.172Z
+Categories:
+
+
+Name: Dien Dan Xo So
+Url: https://testflight.apple.com/join/DUxrGP0m
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/c1/65/19c16563-fc7c-90ff-2fce-7ac3788fffb8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:05:19.199Z
+Categories:
+
+
+Name: Digital Clock for Vision Pro
+Url: https://testflight.apple.com/join/fXuVnze7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/15/e7/7115e778-e40a-25ef-513b-73897dbb27fa/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:05:19.227Z
+Categories:
+
+
+Name: Digits: Sports News & Stats
+Url: https://testflight.apple.com/join/Yjr6CyCu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a7/c5/11/a7c511da-7193-e6bd-5396-9b8c9aded937/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T16:05:19.255Z
+Categories:
+
+
+Name: Diligent Daily Habits
+Url: https://testflight.apple.com/join/N9P4sCtz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/1d/1f/191d1fc6-e525-55fc-8158-c6b49ac8d86c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T16:05:19.283Z
+Categories:
+
+
