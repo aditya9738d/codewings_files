@@ -7603,3 +7603,120 @@ Last Checked: 2024-06-10T12:51:09.444Z
 Categories:
 
 
+Name: RAR Partner
+Url: https://testflight.apple.com/join/U2CVy8Z8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/26/14/8e/26148e8d-2727-eb19-5749-df5a59b8da39/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.645Z
+Categories:
+
+
+Name: Cosmo Pic
+Url: https://testflight.apple.com/join/gXpYuS4R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/e8/85/abe8852c-24a2-1576-2282-260fb47672b5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.674Z
+Categories:
+
+
+Name: Pionex - Crypto Trading Bots
+Url: https://testflight.apple.com/join/61qN730h
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/d4/12/7ed41202-b63e-25ba-14c2-e60928fc7c26/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.703Z
+Categories:
+
+
+Name: Test - Service Ape
+Url: https://testflight.apple.com/join/v4iAsIiH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/4c/a0/704ca095-56bc-5502-4103-7bdb3620a8df/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.731Z
+Categories:
+
+
+Name: Roze Messenger
+Url: https://testflight.apple.com/join/6HCft1JH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/ce/c0/d0cec063-6d16-b0b2-117c-b839a1b344bd/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.760Z
+Categories:
+
+
+Name: Singora
+Url: https://testflight.apple.com/join/ZauDAUft
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/bd/ff/acbdff8e-b0e3-0b06-d333-66fc4dfd2853/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.788Z
+Categories:
+
+
+Name: FIDS CSI
+Url: https://testflight.apple.com/join/nUbq3agO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/6a/b4/376ab479-48e5-4e5e-a65c-efd41a25ad1d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.817Z
+Categories:
+
+
+Name: Makerspace Zone
+Url: https://testflight.apple.com/join/dlxCMblc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/bf/0c/bbbf0c25-bf68-fb83-3f17-d3aac4b67d10/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.846Z
+Categories:
+
+
+Name: FoXray
+Url: https://testflight.apple.com/join/CcuVfzon
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/fc/e5/fcfce543-dd3c-77fa-d706-14160bcf1426/IconBlue-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.874Z
+Categories:
+
+
+Name: PrioBike
+Url: https://testflight.apple.com/join/GXdqWpdn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0f/6d/e10f6dbc-6cf1-56b9-6bee-afa668346ca0/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.902Z
+Categories:
+
+
+Name: HERE Crypto Wallet
+Url: https://testflight.apple.com/join/osMqBAZ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/c6/bf/40c6bf38-9c35-13f6-301a-95fb811c4deb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.930Z
+Categories:
+
+
+Name: Unio
+Url: https://testflight.apple.com/join/sfhDqyz9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/23/d5/f3/23d5f30e-26d1-6cd6-4536-95610d44febe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.958Z
+Categories:
+
+
+Name: DFC DCP
+Url: https://testflight.apple.com/join/C7ZN9Fxc
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/44/22/c644229e-4138-a157-740f-5e198922fc02/AppIcon-0-0-1x_U007emarketing-0-5-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T12:52:12.988Z
+Categories:
+
+
