@@ -3391,3 +3391,120 @@ Last Checked: 2024-06-10T18:24:13.400Z
 Categories:
 
 
+Name: scan my T3SLA
+Url: https://testflight.apple.com/join/Xra3qrlo
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/65/98/86/65988679-56bb-bc2d-3d20-9b96c56043d8/AppIcons-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:25:21.348Z
+Categories:
+
+
+Name: spectwhirl
+Url: https://testflight.apple.com/join/tSjoUpc1
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/e3/31/7ae3314f-6f1e-efa0-0ae0-9bae779eb92c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:25:21.378Z
+Categories:
+
+
+Name: status.log
+Url: https://testflight.apple.com/join/cDOrKBw5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/d6/ea/e0d6ea8b-e7d5-48c8-e557-355303b58d62/Prami-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-10T18:25:21.406Z
+Categories:
+
+
+Name: stone for iPad
+Url: https://testflight.apple.com/join/2gO6yFa9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/9a/ac/769aac90-645c-cc33-80d7-1d4bb1542a7a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:25:21.434Z
+Categories:
+
+
+Name: tagline Messenger
+Url: https://testflight.apple.com/join/QfY5kE7V
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e1/f4/f7/e1f4f7c1-1c24-57f3-6e1a-382e916dca82/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:25:21.463Z
+Categories:
+
+
+Name: tappr.tv
+Url: https://testflight.apple.com/join/pFtqblqX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/f5/0c/b7f50c8d-d6dd-0e83-7d89-dff1246a73e6/AppIcon.lsr/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:25:21.492Z
+Categories:
+
+
+Name: telam
+Url: https://testflight.apple.com/join/WSUouY36
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/6d/cb/826dcbd8-9e1c-b14c-d096-a39acdf059a1/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T18:25:21.522Z
+Categories:
+
+
+Name: tomoropomodoro
+Url: https://testflight.apple.com/join/kINXqKh0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/f7/ec/37f7ecc4-f739-36d8-ab1e-36109fd8cbdd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:25:21.550Z
+Categories:
+
+
+Name: ttcSpeedtest
+Url: https://testflight.apple.com/join/FVAVeaIf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/00/17/7b/00177b9a-4893-a1cb-38c5-6972fc2f6fb1/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:25:21.580Z
+Categories:
+
+
+Name: uhomes pro
+Url: https://testflight.apple.com/join/SOoRFdjH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/d0/14/60d01494-d071-ec61-32e4-3191bad56fcf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:25:21.609Z
+Categories:
+
+
+Name: uhomes.com: Home for students
+Url: https://testflight.apple.com/join/z2aTijve
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/8b/8b/9a8b8b7c-5194-29c8-5637-494e8c379c60/AppIcon-Discovery-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:25:21.638Z
+Categories:
+
+
+Name: vltkjx1
+Url: https://testflight.apple.com/join/EaoAPJJl
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/92/df/0d92df4a-e866-ce10-2bab-2b590278fa5b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T18:25:21.667Z
+Categories:
+
+
+Name: voicetoland
+Url: https://testflight.apple.com/join/CQhEUQaN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/0b/76/020b76f9-0e6d-db1f-0663-3e56e41de947/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T18:25:21.696Z
+Categories:
+
+
