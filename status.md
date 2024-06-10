@@ -9124,3 +9124,120 @@ Last Checked: 2024-06-10T13:17:11.480Z
 Categories:
 
 
+Name: NCB OTP TEST
+Url: https://testflight.apple.com/join/eteBAdfs
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/7e/1d/ec7e1dce-4700-b82a-f21e-9f85bda4ee8f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:18:11.762Z
+Categories:
+
+
+Name: Tops-UAT
+Url: https://testflight.apple.com/join/jNcbqrm3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/34/b6/5a34b6c8-a119-bc5a-2b46-576a96df763e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:18:11.790Z
+Categories:
+
+
+Name: Pyware 3D Mobile Editor
+Url: https://testflight.apple.com/join/3qhjlHaZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/6d/16/476d16fb-7839-f89d-ff93-03b921bbc584/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:18:11.818Z
+Categories:
+
+
+Name: SVT Nyheter
+Url: https://testflight.apple.com/join/KWWcSkTi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/0b/4b/2e0b4b5c-2e0b-a065-fcc8-3158960e8bae/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T13:18:11.846Z
+Categories:
+
+
+Name: PriBank mBanking Test
+Url: https://testflight.apple.com/join/GujYmbdr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/e6/d6/9ce6d616-d4fc-a80a-9ddb-393c8ba09881/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-10T13:18:11.873Z
+Categories:
+
+
+Name: Fun Toast
+Url: https://testflight.apple.com/join/9FffIbCS
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/fa/cb/33facb19-fd81-5bb3-f1e1-3c4843850564/FuntoastIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:18:11.902Z
+Categories:
+
+
+Name: Duel Revolution Beta
+Url: https://testflight.apple.com/join/F8yXrZdF
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/22/01/4c/22014c08-6bbe-37b2-2113-42c324fff419/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-10T13:18:11.930Z
+Categories:
+
+
+Name: SoulRealm - NEMO
+Url: https://testflight.apple.com/join/kCfcJBw3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/12/4e/a8/124ea85f-11d9-952a-c31b-09aa2705609b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:18:11.958Z
+Categories:
+
+
+Name: BBX SIT
+Url: https://testflight.apple.com/join/tO7C4u9n
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/bb/53/1fbb535c-0867-f9fd-264b-b9c7cbadff3a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:18:11.987Z
+Categories:
+
+
+Name: Nextdoor: Neighborhood Network
+Url: https://testflight.apple.com/join/hWa4fUQe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/77/1f/36771f27-d3e5-ac55-0504-0c427fb21c01/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:18:12.014Z
+Categories:
+
+
+Name: Microsoft Edge: AI Browser
+Url: https://testflight.apple.com/join/JkU2rh21
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/15/a9/a615a912-2cdd-ecdd-d444-0bd563ab5f53/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-10T13:18:12.042Z
+Categories:
+
+
+Name: Richy Esale
+Url: https://testflight.apple.com/join/qrwEg2SO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/33/ee/9f33ee7c-1897-05f9-0f04-c0e6fa01f1fc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:18:12.070Z
+Categories:
+
+
+Name: Volt Wallet
+Url: https://testflight.apple.com/join/etYtq5k5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/cd/42/c0cd424d-1009-0298-9393-6dda01f2d7ff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-10T13:18:12.098Z
+Categories:
+
+
