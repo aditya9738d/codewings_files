@@ -10117,3 +10117,121 @@ Last Checked: 2024-06-11T04:26:13.319Z
 Categories:
 
 
+Name: CCS Mobile
+Url: https://testflight.apple.com/join/IAFHUVdV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/51/21/105121ab-47ef-384d-74c3-57f3c9276aa1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 23
+Beta Available: open
+Last Checked: 2024-06-11T04:28:10.918Z
+Categories:
+
+
+Name: Nostrmo
+Url: https://testflight.apple.com/join/kvGz47De
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/12/70/921270f6-7a10-9cf1-a369-6947581a991d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-11T04:28:10.947Z
+Categories:
+
+
+Name: HomeHabit
+Url: https://testflight.apple.com/join/KbpFHzx0
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/a6/8a/8fa68a5c-ae68-6283-b387-2a882ef494db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 22
+Beta Available: not accepting
+Last Checked: 2024-06-11T04:28:10.976Z
+Categories:
+
+
+Name: ClipBorad
+Url: https://testflight.apple.com/join/zgd15gEU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/16/09/88160915-cd66-d72c-47e9-538b3b7f9cdc/DefaultAppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 13
+Beta Available: full
+Last Checked: 2024-06-11T04:28:11.005Z
+Categories:
+
+
+Name: TV Time: Track Shows & Movies
+Url: https://testflight.apple.com/join/hjKkDsc4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/64/38/79643818-915f-278e-0e59-7755084b7156/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 5
+Beta Available: open
+Last Checked: 2024-06-11T04:28:11.034Z
+Categories:
+
+
+Name: Call of Duty Mobile
+Url: https://testflight.apple.com/join/p2C7aFDw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/cc/5c/74cc5ca0-daeb-088b-64af-56d12a6ff9c9/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png
+Click Count: 635
+Beta Available: not accepting
+Last Checked: 2024-06-11T04:28:11.063Z
+Categories:
+- Games
+
+Name: OctaVPN
+Url: https://testflight.apple.com/join/BhLLjqAX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/bf/f0/74bff03d-e5c2-272c-8d6c-99045e23ad4f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 95
+Beta Available: error
+Last Checked: 2024-06-11T04:28:11.091Z
+Categories:
+
+
+Name: GolfClubInfoTracker
+Url: https://testflight.apple.com/join/9ZKdwgYZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/57/92/71/579271b6-0431-33b8-71c4-4136bd6a949f/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 9
+Beta Available: not accepting
+Last Checked: 2024-06-11T04:28:11.119Z
+Categories:
+
+
+Name: dot.dot.dot.
+Url: https://testflight.apple.com/join/Fc48B6AB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/13/55/781355d0-a5b0-97c6-2ed8-4e4977131c36/AppIcon.lsr/200x200bb-8.png
+Click Count: 34
+Beta Available: open
+Last Checked: 2024-06-11T04:28:11.148Z
+Categories:
+
+
+Name: Groq
+Url: https://testflight.apple.com/join/Y9X0wGsi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/9a/66/c49a6692-318a-aff6-14e0-a84bc26a61bb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 18
+Beta Available: full
+Last Checked: 2024-06-11T04:28:11.177Z
+Categories:
+
+
+Name: musicat.ai
+Url: https://testflight.apple.com/join/9KdDFgbw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/58/b1/ee/58b1eef1-4dfc-47d9-059b-bba86adaca2d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 23
+Beta Available: full
+Last Checked: 2024-06-11T04:28:11.205Z
+Categories:
+- Ai
+- Music
+
+Name: Empty Fasting
+Url: https://testflight.apple.com/join/1Ex8uyu7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/b6/b3/f6b6b36f-bff3-a72e-3463-d1c46b3f9b11/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png
+Click Count: 54
+Beta Available: error
+Last Checked: 2024-06-11T04:28:11.234Z
+Categories:
+
+
+Name: Fugl
+Url: https://testflight.apple.com/join/bZIZeB4N
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/61/9b/3b619b15-4e0b-e2f4-c6f4-e702a63f8e87/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 71
+Beta Available: full
+Last Checked: 2024-06-11T04:28:11.262Z
+Categories:
+
+
