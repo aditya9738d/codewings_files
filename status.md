@@ -12634,3 +12634,120 @@ Last Checked: 2024-06-11T00:21:10.470Z
 Categories:
 
 
+Name: Mayo Clinic (STAGE)
+Url: https://testflight.apple.com/join/xBeWbWiv
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/d5/28/a3d528d2-7995-d415-f681-39fe21ab1a28/AppIcon-TESTRELEASE-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.012Z
+Categories:
+
+
+Name: 1st for Women - SIT
+Url: https://testflight.apple.com/join/1zvvw6kh
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/47/98/94/47989469-fd5b-3283-675f-c6c3ba675389/AppIcons-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.049Z
+Categories:
+
+
+Name: WeatherDate
+Url: https://testflight.apple.com/join/fLKrfyWT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/d9/e3/6ad9e3fe-57b8-46d3-ebc2-8faa13657c00/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.087Z
+Categories:
+
+
+Name: React Native Pro
+Url: https://testflight.apple.com/join/OPhFWnmu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/b5/8e/07b58ea3-280f-601f-5694-584e6bba1fd3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.124Z
+Categories:
+
+
+Name: Tazte - UAT
+Url: https://testflight.apple.com/join/H3sdfdJb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/63/4b/a8634b44-b0c1-ecad-44db-006d385129e0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.160Z
+Categories:
+
+
+Name: Bitmax
+Url: https://testflight.apple.com/join/RPeMymBd
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/81/c2/c6/81c2c6a9-16bc-1b7b-5a18-55acdaa8ec53/AppIconLLC-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.196Z
+Categories:
+
+
+Name: ZiiP Bus
+Url: https://testflight.apple.com/join/M9HsbMn4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/26/bf/6e26bf4f-d53b-d26e-2131-7944ed953ea6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.231Z
+Categories:
+
+
+Name: Neotriad app
+Url: https://testflight.apple.com/join/WoReCtbD
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/f9/b5/4cf9b5d5-8c28-90a7-ae8e-d528fe533717/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.267Z
+Categories:
+
+
+Name: Karofi Service
+Url: https://testflight.apple.com/join/rfgyiZ1k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/6e/8d/9e6e8de3-9a51-408a-db02-9ae7fee93fc2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-11T00:22:11.304Z
+Categories:
+
+
+Name: Rocket.Chat
+Url: https://testflight.apple.com/join/3gcYeoMr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/33/00/593300e2-ce5b-72cb-8544-763d122ce690/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.340Z
+Categories:
+
+
+Name: Syai Tag
+Url: https://testflight.apple.com/join/60v32zBi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/4e/d1/7c4ed1fe-8874-95ed-ed6e-bad6674b5047/seasAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.376Z
+Categories:
+
+
+Name: Guardian Staging
+Url: https://testflight.apple.com/join/jz3MalPf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/81/1c/54811cf5-08b6-795e-d113-686cba2b6398/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.412Z
+Categories:
+
+
+Name: Cloud_Med
+Url: https://testflight.apple.com/join/fFx7Jsz9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4f/96/fd/4f96fd44-9b65-706d-2b47-c69d5c374eb9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T00:22:11.449Z
+Categories:
+
+
