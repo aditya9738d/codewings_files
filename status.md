@@ -12578,3 +12578,120 @@ Last Checked: 2024-06-11T04:48:11.557Z
 Categories:
 
 
+Name: Microsoft Loop
+Url: https://testflight.apple.com/join/KNyadcIZ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4e/f7/af/4ef7afce-c70b-1bc0-48fd-722d3063cbcf/AppIcon-0-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: full
+Last Checked: 2024-06-11T04:49:10.544Z
+Categories:
+
+
+Name: BisonBlock Auth - Sandbox
+Url: https://testflight.apple.com/join/IsqtiRVB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/30/e8/08/30e80824-fe2f-9f84-5888-cad58dd60da9/AppIconSandbox-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T04:49:10.579Z
+Categories:
+
+
+Name: Hokotashi Car Race
+Url: https://testflight.apple.com/join/u2txqKAk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/ae/ef/f8aeefdf-f25d-a365-eff5-e002463ded5d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-11T04:49:10.614Z
+Categories:
+
+
+Name: Bird ID
+Url: https://testflight.apple.com/join/bTo6QzTV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e6/d4/2ce6d4e1-3a50-0ea2-878b-f4b852ce0007/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T04:49:10.649Z
+Categories:
+
+
+Name: Haylou Fun
+Url: https://testflight.apple.com/join/BNZKCK8J
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/64/bf/cb64bf0a-fb42-f315-5f61-8310746a8013/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T04:49:10.684Z
+Categories:
+
+
+Name: Tari Aurora
+Url: https://testflight.apple.com/join/8ccFp84C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/46/ff/d646ffac-f27a-55ad-66ad-a2f0bffe1a9e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T04:49:10.719Z
+Categories:
+
+
+Name: ZipGrade
+Url: https://testflight.apple.com/join/pjs0PkU2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/45/07/d8450723-e5a1-4541-0278-135783b00a85/AppIcon-1-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-11T04:49:10.755Z
+Categories:
+
+
+Name: EMMA by AXA (UAT)
+Url: https://testflight.apple.com/join/ZxMAa3Nk
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/af/27/0daf27aa-3a1f-7859-7593-07d8267becbe/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T04:49:10.790Z
+Categories:
+
+
+Name: Posts by Read.cv
+Url: https://testflight.apple.com/join/OTiyTXl2
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/df/0f/66/df0f66b6-3e7d-29d8-6020-47735003cdeb/AppIconDefault-0-0-1x_U007ephone-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T04:49:10.824Z
+Categories:
+
+
+Name: kpiee
+Url: https://testflight.apple.com/join/jr29oeen
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/cc/2a/f9cc2a45-60f2-ae34-9f95-fe3d26052d94/AppIcon-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T04:49:10.859Z
+Categories:
+
+
+Name: Oppen
+Url: https://testflight.apple.com/join/IQdovXjj
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/6a/59/f46a59a1-295c-6436-a17d-88b84a05fda4/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-11T04:49:10.893Z
+Categories:
+
+
+Name: FITSMILES
+Url: https://testflight.apple.com/join/QNwqkZKn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/8e/76/e98e7616-3a81-1057-ba79-27563966d5e8/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T04:49:10.928Z
+Categories:
+
+
+Name: Unified by hg
+Url: https://testflight.apple.com/join/SXNi1cb8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/1d/f6/9b1df6a3-9360-cdad-a8b5-f9c20d4ec03e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T04:49:10.963Z
+Categories:
+
+
