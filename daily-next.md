@@ -1,3 +1,5 @@
+- **Bezel • Phone Mirror**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/9f/ad/7f9fad15-b127-0b2e-a6c2-f8f07280dc5f/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ai2zeoM4)
+
 - **MOMO陌陌**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/5e/39/3e5e39f4-f494-b4fc-e200-e7ace1cd22a8/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SSBILyY3)
 
 - **Drakula – Trade Video Creators**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/cf/06/6ecf0698-ad3d-5f06-7b33-d0f99faa2d12/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OISKmFQX)
@@ -46,5 +48,3 @@
 - **stats.fm for Spotify Music App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d9/41/3ad941f0-893d-6da9-4e65-f341c8fc0ca4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ATXJemn4)
 - **Mythic Mischief**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/35/3a/0e353aba-1886-deec-730c-93771ee0bb7e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm34KszI)
 - **Rachana Ranade Regional**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/32/4c/f7324c92-3bac-65a3-7f8c-2ce660c2bbc0/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sp79yAyj)
-- **Godox Light**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/fa/10ddfa71-4ce1-ec04-6a65-5935d5836079/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LfIj3unB)
-- **ParkmePro Watchman**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/c5/31/12c53192-625d-8271-d115-fcc9efd2e0dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fgPnIIvA)
