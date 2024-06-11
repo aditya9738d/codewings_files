@@ -21119,3 +21119,120 @@ Last Checked: 2024-06-11T06:15:24.831Z
 Categories:
 
 
+Name: SmartumPay
+Url: https://testflight.apple.com/join/G26deldP
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/64/3a/18/643a1893-b14c-0b3a-fb13-9d2ec569ffd3/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-11T06:17:08.486Z
+Categories:
+
+
+Name: PMP App Dev
+Url: https://testflight.apple.com/join/lbmpmtQ9
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/cd/c2/79cdc227-47ab-a78d-375a-24b2ff7e68ed/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T06:17:08.521Z
+Categories:
+
+
+Name: Guarding Vision
+Url: https://testflight.apple.com/join/AtU9J2Xn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/0a/51/e70a5173-8b29-1b68-f18a-a58e445f552f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T06:17:08.558Z
+Categories:
+
+
+Name: Breaking News
+Url: https://testflight.apple.com/join/W85f0g3L
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/f6/9b/c3f69b31-652c-9673-43a9-2f1b48cee453/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T06:17:08.594Z
+Categories:
+
+
+Name: Pikalist
+Url: https://testflight.apple.com/join/XnUYLSHN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/89/51/b9895167-28f3-821f-3d97-bd0dfdf28443/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T06:17:08.629Z
+Categories:
+
+
+Name: Huawei e+
+Url: https://testflight.apple.com/join/tr1WU6iX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/cb/13/cfcb1353-451f-cbef-e3d6-99758c31930c/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T06:17:08.665Z
+Categories:
+
+
+Name: Blu - Financial Tracker
+Url: https://testflight.apple.com/join/JInmTNff
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/fb/1f/72fb1f38-bd4e-bdea-531f-fa37db8bd830/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T06:17:08.701Z
+Categories:
+
+
+Name: Auchan
+Url: https://testflight.apple.com/join/ZN5yKVN7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/dc/88/aadc8801-e782-df50-5552-cf2a7264c0e4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-11T06:17:08.737Z
+Categories:
+
+
+Name: Safewave
+Url: https://testflight.apple.com/join/hPs6FGvq
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/97/6a/d0976a58-38ac-c6b0-873d-bc89b5355641/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-11T06:17:08.773Z
+Categories:
+
+
+Name: GhostMove
+Url: https://testflight.apple.com/join/DR5VLHcn
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/70/76/d5/7076d54c-e32f-1d6d-1eff-0834d9206ab5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T06:17:08.809Z
+Categories:
+
+
+Name: Filamingo Beta
+Url: https://testflight.apple.com/join/DIkvSViL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/21/d9/3b/21d93bbf-8d9d-350b-9be0-917ba96712de/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 3
+Beta Available: open
+Last Checked: 2024-06-11T06:17:08.845Z
+Categories:
+
+
+Name: CashBud
+Url: https://testflight.apple.com/join/U3ZKm77o
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ed/9c/17/ed9c173f-101a-bf5f-4b66-09c582d3cd43/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-11T06:17:08.882Z
+Categories:
+
+
+Name: ESS 45 Zebra
+Url: https://testflight.apple.com/join/eb2VgXeu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/7d/12/9f7d129f-57b8-a1dd-328d-f19c0db30185/Product-AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-11T06:17:08.918Z
+Categories:
+
+
