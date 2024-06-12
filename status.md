@@ -16682,3 +16682,120 @@ Last Checked: 2024-06-12T19:39:10.065Z
 Categories:
 
 
+Name: What's going on? Social Diary
+Url: https://testflight.apple.com/join/nZqhMgc3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f0/42/e5/f042e541-b7ae-dbb8-9e96-fb95a84994a6/AppIcon-1x_U007ephone-0-0-0-0-0-0-85-220-0.jpeg/200x200bb-80.png
+Click Count: 4
+Beta Available: full
+Last Checked: 2024-06-12T19:40:28.377Z
+Categories:
+
+
+Name: CyberKeyFob
+Url: https://testflight.apple.com/join/wzaCXTpH
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/fb/38/5cfb380c-c3b9-e9ee-7501-f46d6d282d9f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 10
+Beta Available: full
+Last Checked: 2024-06-12T19:40:28.406Z
+Categories:
+
+
+Name: BlinkMap
+Url: https://testflight.apple.com/join/9tOXoMnf
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/46/b9/3546b900-e0cb-a93d-e70a-b8f80d14369b/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 20
+Beta Available: open
+Last Checked: 2024-06-12T19:40:28.434Z
+Categories:
+
+
+Name: Rebet
+Url: https://testflight.apple.com/join/B5hjZPI7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/55/92/40/55924008-80a3-ccee-e133-a34ab3af6362/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 14
+Beta Available: not accepting
+Last Checked: 2024-06-12T19:40:28.462Z
+Categories:
+
+
+Name: Open Space Game
+Url: https://testflight.apple.com/join/6MMGHF2j
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e0/f5/eb/e0f5eb41-1431-578a-6257-4b086da19fa6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 142
+Beta Available: open
+Last Checked: 2024-06-12T19:40:28.489Z
+Categories:
+
+
+Name: Mindful bites
+Url: https://testflight.apple.com/join/zqAioNcm
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/2e/98/c12e98aa-9e8b-8584-df13-d5cdba514a0c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 27
+Beta Available: open
+Last Checked: 2024-06-12T19:40:28.517Z
+Categories:
+
+
+Name: 3DNA Link
+Url: https://testflight.apple.com/join/7TYuK6VV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/3d/73/423d738c-e345-54fd-1388-3a235bccea88/AppIconInv-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 7
+Beta Available: open
+Last Checked: 2024-06-12T19:40:28.545Z
+Categories:
+
+
+Name: GitHub
+Url: https://testflight.apple.com/join/NLskzwi5
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/ed/32/4bed3292-213d-7394-4b70-8e80632e1231/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 99
+Beta Available: full
+Last Checked: 2024-06-12T19:40:28.573Z
+Categories:
+- Developer
+
+Name: Super Fren: Super App for NFTs
+Url: https://testflight.apple.com/join/2IU6MlDR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/68/f4/d268f4fa-f11b-b85c-f9ff-80460db48269/AppIcon-0-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 3
+Beta Available: not accepting
+Last Checked: 2024-06-12T19:40:28.601Z
+Categories:
+
+
+Name: Family - Ethereum Wallet
+Url: https://testflight.apple.com/join/oUKAfJbr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/4e/3a/444e3aa5-adf1-dff0-ac8e-8585feafdd64/AppIcon-Teal-0-1x_U007ephone-0-10-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-12T19:40:28.629Z
+Categories:
+
+
+Name: Games - Manage your collection
+Url: https://testflight.apple.com/join/GbPsDyg4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/16/3f/1f/163f1f52-837b-af18-8194-c314d9887089/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 22
+Beta Available: open
+Last Checked: 2024-06-12T19:40:28.658Z
+Categories:
+
+
+Name: Simple Focus
+Url: https://testflight.apple.com/join/Gs80E65C
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e9/35/01e93587-016c-8985-575f-763fd99fdf6b/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-12T19:40:28.685Z
+Categories:
+
+
+Name: Music Discovery with Fusion
+Url: https://testflight.apple.com/join/mgKIQ9hU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/b4/4d/c7b44d23-e0c2-5413-3e7f-0b311b701564/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 45
+Beta Available: open
+Last Checked: 2024-06-12T19:40:28.713Z
+Categories:
+- Music
+
