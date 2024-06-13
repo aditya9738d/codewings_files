@@ -1,3 +1,6 @@
+- **Redes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/8c/11/5a8c115c-378a-b637-6522-e730218ed073/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/doHUb55P)
+- **鸡儿大战僵尸**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/ac/cc/37accc4e-edf3-f6d3-e92c-6634a6c89985/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/488cF6Xu)
+
 - **Bezel • Phone Mirror**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/9f/ad/7f9fad15-b127-0b2e-a6c2-f8f07280dc5f/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ai2zeoM4)
 
 - **MOMO陌陌**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/5e/39/3e5e39f4-f494-b4fc-e200-e7ace1cd22a8/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SSBILyY3)
@@ -45,6 +48,3 @@
 - **phaze**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/29/29/9529292f-e6ba-1dbd-f97d-1cfd19a7fac9/AppIcon-1x_U007ephone-0-0-0-0-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/fkQWk37B)
 - **monteStory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/d6/d0/73d6d067-9be0-9009-054a-5e1cfb86e3b5/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/EkfsDlme)
 - **Stork**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/4c/4a/194c4a59-9dc4-adf6-c00e-49fe69f14309/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pOk0I70t)
-- **stats.fm for Spotify Music App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d9/41/3ad941f0-893d-6da9-4e65-f341c8fc0ca4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ATXJemn4)
-- **Mythic Mischief**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0e/35/3a/0e353aba-1886-deec-730c-93771ee0bb7e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm34KszI)
-- **Rachana Ranade Regional**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/32/4c/f7324c92-3bac-65a3-7f8c-2ce660c2bbc0/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sp79yAyj)
