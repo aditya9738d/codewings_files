@@ -2572,3 +2572,120 @@ Last Checked: 2024-06-13T21:51:09.049Z
 Categories:
 
 
+Name: Combo Koala - Battle Checkers
+Url: https://testflight.apple.com/join/kdqq3qAN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/20/d7/bd20d708-7e23-da5c-9d8a-99f4920c469d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-13T21:52:11.192Z
+Categories:
+
+
+Name: Comind: Real-World Notetaker
+Url: https://testflight.apple.com/join/pGnHVNPC
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fe/05/79/fe057953-2ea8-9fc5-affb-1bf7c14a7ac9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-13T21:52:11.228Z
+Categories:
+
+
+Name: CommuniSki
+Url: https://testflight.apple.com/join/4vgUfbZ7
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/27/f6/1c27f660-98f5-37b8-92c3-4ec91ce9a0ba/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-13T21:52:11.264Z
+Categories:
+
+
+Name: Conciel
+Url: https://testflight.apple.com/join/WpHQWU2d
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/bb/e2/05bbe2a0-9f0d-e888-6155-06549cc03b02/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-13T21:52:11.299Z
+Categories:
+
+
+Name: Concordium - Testnet Wallet
+Url: https://testflight.apple.com/join/YaKKqYMA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/89/4b/d9894b85-1726-670e-c355-3fc05eec321b/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-13T21:52:11.335Z
+Categories:
+
+
+Name: Condlink
+Url: https://testflight.apple.com/join/JmY48wSQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/58/fd/b058fd8d-d7fe-4467-6a5b-ceeb92b4cc4e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: not accepting
+Last Checked: 2024-06-13T21:52:11.370Z
+Categories:
+
+
+Name: Coniecto
+Url: https://testflight.apple.com/join/ckdQofbU
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/b1/4c/a4b14ccc-7f5d-46c4-d7ae-16e36e8b0c88/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-8.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-13T21:52:11.406Z
+Categories:
+
+
+Name: Connect with Social Bite
+Url: https://testflight.apple.com/join/NfSODWnw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/fb/7f/65fb7fe6-9331-3cb9-95c6-2769372e8056/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-13T21:52:11.442Z
+Categories:
+
+
+Name: ConnectLifeTest
+Url: https://testflight.apple.com/join/EMqBjN7B
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/6e/e9/7d6ee96f-8735-a5d5-c2d1-3e195cb6bf8d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-13T21:52:11.477Z
+Categories:
+
+
+Name: ConnectUI - Apps Sales Reports
+Url: https://testflight.apple.com/join/SL1E10Ar
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/ac/56/56ac561c-564b-d561-3c1f-90a41a261664/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-13T21:52:11.513Z
+Categories:
+
+
+Name: ConstCash
+Url: https://testflight.apple.com/join/J8ZGt0bI
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/cf/14/90cf14ff-dbb9-5d83-fb12-bfb91daad579/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 9
+Beta Available: open
+Last Checked: 2024-06-13T21:52:11.550Z
+Categories:
+
+
+Name: Contacts - Reinvented
+Url: https://testflight.apple.com/join/JlHJj8mN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/10/08/aa/1008aa3d-36e0-a440-8eed-4345c46f53f7/AppIcon-1x_U007epad-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-13T21:52:11.584Z
+Categories:
+
+
+Name: Controlled—ControlD Client
+Url: https://testflight.apple.com/join/DsiP91S8
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/55/f0/4b55f0cd-eb39-f674-6ee0-087203960648/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-13T21:52:11.619Z
+Categories:
+
+
