@@ -18133,3 +18133,120 @@ Last Checked: 2024-06-14T23:26:12.226Z
 Categories:
 
 
+Name: BlueManage
+Url: https://testflight.apple.com/join/VCBeAhNA
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/25/2e/b2252e6b-7630-3264-0121-6214efcc313b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-14T23:27:09.321Z
+Categories:
+
+
+Name: Paper-Better Productivity
+Url: https://testflight.apple.com/join/JNRBs6OJ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/96/42/a7964245-c98f-7f22-dec9-03e468006cc8/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-14T23:27:09.357Z
+Categories:
+
+
+Name: DevBase Mobility
+Url: https://testflight.apple.com/join/Bl2KKiKe
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/b0/3b/e8b03b6c-696f-1416-33ec-b7f902c52e76/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-14T23:27:09.393Z
+Categories:
+
+
+Name: Citadel Work Order
+Url: https://testflight.apple.com/join/AHT7siPr
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/43/93/a243931d-5a07-5c37-a605-d5b2b09cff28/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-14T23:27:09.429Z
+Categories:
+
+
+Name: Anthem Remote
+Url: https://testflight.apple.com/join/AY1eBcKb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/b5/6a/30b56a8e-51cd-8af5-61db-9337edfe27f2/AppIcon-Anthem-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-14T23:27:09.465Z
+Categories:
+
+
+Name: xREL
+Url: https://testflight.apple.com/join/hnmpjwbR
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cb/dd/78/cbdd784d-fb5c-3ae4-acbc-9a0dc934842c/AppIconBETA-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-14T23:27:09.502Z
+Categories:
+
+
+Name: BH Mobile System
+Url: https://testflight.apple.com/join/LI1VGv9F
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/a0/f3/1ba0f38f-ee55-8fb0-f957-b117d1bad4ca/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-14T23:27:09.537Z
+Categories:
+
+
+Name: Club Tweed
+Url: https://testflight.apple.com/join/YDOEdSKV
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0f/25/340f25df-9b63-2742-00d4-7d2007cd4beb/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-14T23:27:09.573Z
+Categories:
+
+
+Name: Resti
+Url: https://testflight.apple.com/join/g6EUcjx6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/35/18/273518ea-4d1e-416f-3435-4b215b172be7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-14T23:27:09.609Z
+Categories:
+
+
+Name: MessengerM
+Url: https://testflight.apple.com/join/aXJD0EBB
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/e5/c4/cde5c4ca-d2e4-8a9c-af5f-87c0d00ac9e3/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-14T23:27:09.648Z
+Categories:
+
+
+Name: Insight box
+Url: https://testflight.apple.com/join/MiJDXIts
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/8a/a2/c38aa244-38a5-e6a8-260e-4bcdcd8f73c8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-14T23:27:09.684Z
+Categories:
+
+
+Name: Pally - Research Anyone
+Url: https://testflight.apple.com/join/XD3Qzdsb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/f0/0a/3cf00ac8-4ffb-239b-bd5c-77e3034b4d88/AppIcon-production-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-14T23:27:09.720Z
+Categories:
+
+
+Name: Smartec Dashboard
+Url: https://testflight.apple.com/join/9g1E2liN
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/1f/05/8b1f058c-10f0-b3c8-0628-0a27d16d0cb7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-14T23:27:09.756Z
+Categories:
+
+
