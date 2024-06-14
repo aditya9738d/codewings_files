@@ -1,3 +1,5 @@
+- **JXM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/b8/4784b8a8-c8d8-0373-94a3-1e48281842b4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RqyjZk28)
+
 - **컨설텝스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/26/f274260a-b9e9-2931-5218-163e22202e6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1YiOYdID)
 
 - **Redes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/8c/11/5a8c115c-378a-b637-6522-e730218ed073/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/doHUb55P)
