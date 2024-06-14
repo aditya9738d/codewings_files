@@ -1,5 +1,7 @@
 - **컨설텝스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/26/f274260a-b9e9-2931-5218-163e22202e6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1YiOYdID)
 
+- **컨설텝스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/26/f274260a-b9e9-2931-5218-163e22202e6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1YiOYdID)
+
 - **Redes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/8c/11/5a8c115c-378a-b637-6522-e730218ed073/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/doHUb55P)
 - **鸡儿大战僵尸**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/ac/cc/37accc4e-edf3-f6d3-e92c-6634a6c89985/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/488cF6Xu)
 
@@ -46,5 +48,3 @@
 - **FoxCloud2.0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/51/11/a5511186-0c9c-2d7b-fcfc-a8c2cf8d7dba/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MxSFUO60)
 - **NS Travel Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/a2/12/15a21232-5468-1c50-a6a4-eb68f8fa4c66/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ldBwapIg)
 - **Grindr - Gay Dating & Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/dd/43/01dd436f-3fcd-cdd6-e8e1-fb1e3eeb8c0d/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eO265vw7)
-- **Traini -Dog Training & AI Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/cb/4c/43cb4cb6-b07b-7f2e-13d4-503063eb9991/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dA6l0fWU)
-- **phaze**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/29/29/9529292f-e6ba-1dbd-f97d-1cfd19a7fac9/AppIcon-1x_U007ephone-0-0-0-0-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/fkQWk37B)
