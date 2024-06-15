@@ -1,3 +1,5 @@
+- **NRO by ixxc 06**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/f7/75/5bf77551-ea8b-7211-d562-685bdf4d8da2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HX6IhOxO)
+
 - **JXM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/b8/4784b8a8-c8d8-0373-94a3-1e48281842b4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RqyjZk28)
 
 - **컨설텝스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/26/f274260a-b9e9-2931-5218-163e22202e6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1YiOYdID)
@@ -46,5 +48,3 @@
 - **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/b2/1b/d7b21b50-ab59-4703-bc93-d95e67105cb6/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdsubPZs)
 - **SyenApp: Private Search & Shop**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/ce/b8/b4ceb845-3758-8641-9d8f-1576f1edb16c/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GxsamE35)
 - **Charge HQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/f6/82/05f6826d-e571-d397-0d58-ccb752709e55/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yJr5Y0O9)
-- **Truck Maps Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/54/0c/db540cc1-3d1f-cd9d-d0a8-dec681987646/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vpYkazUc)
-- **FoxCloud2.0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/51/11/a5511186-0c9c-2d7b-fcfc-a8c2cf8d7dba/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MxSFUO60)
