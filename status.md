@@ -7135,3 +7135,120 @@ Last Checked: 2024-06-15T14:49:10.378Z
 Categories:
 
 
+Name: ntv Nachrichten
+Url: https://testflight.apple.com/join/n65TDvGb
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/da/ec/97daec47-44f5-6c4e-1539-80f21f003edd/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.268Z
+Categories:
+
+
+Name: MP CRM
+Url: https://testflight.apple.com/join/NqTN0JgK
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/16/d8/35/16d8356a-298c-27c8-772d-5b2219f3a05f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.304Z
+Categories:
+
+
+Name: HelloFresh: Meal Kit Delivery
+Url: https://testflight.apple.com/join/zwhJ2o6f
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/ab/12/e2ab124a-d2e9-cc7a-5d5d-b8907babefe5/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.340Z
+Categories:
+
+
+Name: Doppi: the nicest music player
+Url: https://testflight.apple.com/join/eMHoOSsL
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/aa/31/23aa313a-e09e-6abf-8c9b-976d7d684667/AppIcon-0-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.376Z
+Categories:
+
+
+Name: Unicorn Pro:Privacy & Adblock
+Url: https://testflight.apple.com/join/Lr1vIu8x
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/ae/2d/9eae2d24-6680-6e16-ee20-069d4687fc18/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.412Z
+Categories:
+
+
+Name: Crisp
+Url: https://testflight.apple.com/join/EiqYmhki
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/c9/44/7ac9444c-be6f-bfe8-56f4-8f640af13ca5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.448Z
+Categories:
+
+
+Name: UB UAT
+Url: https://testflight.apple.com/join/qVpMqG8k
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/cb/53/b7cb532b-30a1-960e-1334-2fdcf5e6eed4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.484Z
+Categories:
+
+
+Name: NOS TV
+Url: https://testflight.apple.com/join/UgIz3p0R
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/c9/7e/a1c97e6e-4d86-5b9c-5d12-e6a0208fe575/AppIconStore-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.521Z
+Categories:
+
+
+Name: Safa Wallet
+Url: https://testflight.apple.com/join/BCfKR1m6
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a3/3e/d7/a33ed7b7-9d7f-5430-727f-5763962c6ba8/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.556Z
+Categories:
+
+
+Name: Digiteam
+Url: https://testflight.apple.com/join/Ra10vu6M
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1f/4b/3e/1f4b3ea0-4ca4-9739-2bc2-35f1156840a9/DigiAppIcon-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png
+Click Count: 0
+Beta Available: not accepting
+Last Checked: 2024-06-15T14:50:22.592Z
+Categories:
+
+
+Name: GoLingo!
+Url: https://testflight.apple.com/join/LwM7iOqi
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/86/0d/07/860d07a9-e460-bcbf-f30d-858936a07d99/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.627Z
+Categories:
+
+
+Name: TP-Link Deco
+Url: https://testflight.apple.com/join/U5p3ccdw
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/92/d9/5792d9b9-c2ae-249b-ca85-0abc95cd3f30/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.664Z
+Categories:
+
+
+Name: Info HR App
+Url: https://testflight.apple.com/join/vF1UKGOT
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/49/88/2b/49882bf8-22cc-e1a7-df56-65673ca25725/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-15T14:50:22.699Z
+Categories:
+
+
