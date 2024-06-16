@@ -19007,3 +19007,120 @@ Last Checked: 2024-06-16T05:33:10.744Z
 Categories:
 
 
+Name: Finalist: Daily To Do List
+Url: https://testflight.apple.com/join/f2kW7gUy
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/f4/5d/1ff45d22-8d58-29ec-084d-fa5840b3971b/AppIconMacOS-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-16T05:34:06.973Z
+Categories:
+
+
+Name: 银魂集结
+Url: https://testflight.apple.com/join/BsxGxEsz
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/df/80/b6df8002-34d0-3dfd-5998-58352d718b75/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.010Z
+Categories:
+
+
+Name: TinyTakeoff
+Url: https://testflight.apple.com/join/2iDfiVyQ
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/cc/46/90cc46e8-2a24-55a7-8b6d-ff74660dbc8d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.046Z
+Categories:
+
+
+Name: FunnyPainting - gogogo
+Url: https://testflight.apple.com/join/zgh1TNur
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/f8/20/47f820cb-2f66-6201-3188-9d5a31a8ecf7/AppIcon-vd007-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.081Z
+Categories:
+
+
+Name: Instagram
+Url: https://testflight.apple.com/join/72eyUWVE
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/16/06/d6160656-6ce1-3e82-d95b-51380354148b/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 149
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.116Z
+Categories:
+
+
+Name: NRO by ixxc 06
+Url: https://testflight.apple.com/join/HX6IhOxO
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/f7/75/5bf77551-ea8b-7211-d562-685bdf4d8da2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.152Z
+Categories:
+
+
+Name: JXM
+Url: https://testflight.apple.com/join/RqyjZk28
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/b8/4784b8a8-c8d8-0373-94a3-1e48281842b4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.188Z
+Categories:
+
+
+Name: 컨설텝스
+Url: https://testflight.apple.com/join/1YiOYdID
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/26/f274260a-b9e9-2931-5218-163e22202e6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png
+Click Count: 4
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.224Z
+Categories:
+
+
+Name: Redes
+Url: https://testflight.apple.com/join/doHUb55P
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/8c/11/5a8c115c-378a-b637-6522-e730218ed073/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 0
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.260Z
+Categories:
+
+
+Name: 鸡儿大战僵尸
+Url: https://testflight.apple.com/join/488cF6Xu
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/ac/cc/37accc4e-edf3-f6d3-e92c-6634a6c89985/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png
+Click Count: 20
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.296Z
+Categories:
+
+
+Name: Bezel • Phone Mirror
+Url: https://testflight.apple.com/join/ai2zeoM4
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/9f/ad/7f9fad15-b127-0b2e-a6c2-f8f07280dc5f/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.332Z
+Categories:
+
+
+Name: MOMO陌陌
+Url: https://testflight.apple.com/join/SSBILyY3
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/5e/39/3e5e39f4-f494-b4fc-e200-e7ace1cd22a8/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/200x200bb-80.png
+Click Count: 2
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.368Z
+Categories:
+
+
+Name: Drakula – Trade Video Creators
+Url: https://testflight.apple.com/join/OISKmFQX
+Logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/cf/06/6ecf0698-ad3d-5f06-7b33-d0f99faa2d12/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png
+Click Count: 1
+Beta Available: open
+Last Checked: 2024-06-16T05:34:07.404Z
+Categories:
+
+
