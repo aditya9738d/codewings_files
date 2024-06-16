@@ -1,3 +1,5 @@
+- **Flickplay: Collect 3D Avatars**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/1b/68/0d1b6800-4e30-deaa-a51e-4338c50baa9e/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xr5o788R)
+
 - **Finalist: Daily To Do List**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/f4/5d/1ff45d22-8d58-29ec-084d-fa5840b3971b/AppIconMacOS-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png)](https://testflight.apple.com/join/f2kW7gUy)
 
 - **银魂集结**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/df/80/b6df8002-34d0-3dfd-5998-58352d718b75/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BsxGxEsz)
