@@ -1,3 +1,5 @@
+- **Finalist: Daily To Do List**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/f4/5d/1ff45d22-8d58-29ec-084d-fa5840b3971b/AppIconMacOS-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png)](https://testflight.apple.com/join/f2kW7gUy)
+
 - **银魂集结**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/df/80/b6df8002-34d0-3dfd-5998-58352d718b75/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BsxGxEsz)
 
 - **TinyTakeoff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/cc/46/90cc46e8-2a24-55a7-8b6d-ff74660dbc8d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2iDfiVyQ)
