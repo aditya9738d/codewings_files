@@ -1,3 +1,5 @@
+- **蓝月亮SFA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d6/fd/63d6fd97-befc-2f44-fb08-6db9ba39507f/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xAIHzkfB)
+
 - **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
 
 - **shockwallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/dc/ca/45dcca46-c71f-2b56-cc68-ecf181d7cdeb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/soZAKZWj)
@@ -46,5 +48,3 @@
 - **魔塔之传说**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/b3/7e/0eb37e41-506a-c5f8-5b2e-e70b43e46890/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WJt74TB3)
 
 - **BlockDAG X1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/7f/e0/c67fe00b-904b-288e-e3c5-3bdb59303411/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UklNDHnE)
-
-- **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/43/4a/7f434a97-c61d-d46d-9ac2-0df3050e6c3d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
