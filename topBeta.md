@@ -1,3 +1,5 @@
+- **shockwallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/dc/ca/45dcca46-c71f-2b56-cc68-ecf181d7cdeb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/soZAKZWj)
+
 - **飞马救援-司机端**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/2c/9a/122c9a88-fe9f-f0d5-e110-d4fb3ca011a3/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p7KvNX3q)
 
 - **Control IRL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/ea/88/cdea88a2-f59c-14d2-d1e7-a4987f2181c0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IjjfnYZV)
