@@ -1,6 +1,5 @@
-- **Elysium Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/66/cc/5c66cc66-2cb9-f0a6-5755-623a9a016aef/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MGBXS85H)
-- **Perspective Meetings**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/4a/07/474a0724-b6d5-2374-e27f-2e4df1fb7a2d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DqSUHTV2)
-- **Keep Going • Fitness app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/f3/bc/05f3bc92-1020-7258-f5a2-af90e5fae1cb/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J58BKLhk)
+- **熊猫吃短信2 - 垃圾短信拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f3/07/63f3073a-a29a-31a3-4c62-d9ff830ae130/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fwtX43eH)
+- **yWriter: Software for Writers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1a/bc/2c1abc9e-c57b-e98c-665e-900a1e945af2/AppIcon-85-220-4-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/B3qqTF46)
 
 - **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
 - **Haivivi Pal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/3e/e3/473ee33c-a2ac-c2bf-da2a-bfc7f043d9e5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kWje4YHH)
