@@ -48,3 +48,6 @@
 - **컨설텝스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/26/f274260a-b9e9-2931-5218-163e22202e6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1YiOYdID)
 
 - **Redes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/8c/11/5a8c115c-378a-b637-6522-e730218ed073/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/doHUb55P)
+- **鸡儿大战僵尸**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/ac/cc/37accc4e-edf3-f6d3-e92c-6634a6c89985/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/488cF6Xu)
+
+- **Bezel • Phone Mirror**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/9f/ad/7f9fad15-b127-0b2e-a6c2-f8f07280dc5f/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ai2zeoM4)
