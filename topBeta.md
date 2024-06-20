@@ -1,5 +1,3 @@
-- **XR Trick Shot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/d1/a5/ebd1a5bc-5e75-cbbb-f1da-b5d9939911fd/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/8UC9bGiY)
-
 - **Feel The Road**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/23/89/d82389b2-ab83-9cb1-078d-16ee44222766/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bWZAofAm)
 
 - **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
