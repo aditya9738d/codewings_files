@@ -1,5 +1,6 @@
-- **熊猫吃短信2 - 垃圾短信拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f3/07/63f3073a-a29a-31a3-4c62-d9ff830ae130/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fwtX43eH)
-- **yWriter: Software for Writers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1a/bc/2c1abc9e-c57b-e98c-665e-900a1e945af2/AppIcon-85-220-4-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/B3qqTF46)
+- **Elysium Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/66/cc/5c66cc66-2cb9-f0a6-5755-623a9a016aef/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MGBXS85H)
+- **Perspective Meetings**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/4a/07/474a0724-b6d5-2374-e27f-2e4df1fb7a2d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DqSUHTV2)
+- **Keep Going • Fitness app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/f3/bc/05f3bc92-1020-7258-f5a2-af90e5fae1cb/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J58BKLhk)
 
 - **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
 - **Haivivi Pal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/3e/e3/473ee33c-a2ac-c2bf-da2a-bfc7f043d9e5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kWje4YHH)
@@ -7,6 +8,10 @@
 
 - **OX.FUN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/10/2f/fd102fc9-e7af-b099-fcac-feab0a9cb51c/AppOPNXIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/I36eFQC4)
 - **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/73/99/4e739983-05c4-02d0-43a4-3575a7489467/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
+
+- **null**: [![App Logo](r/asktom/100/files/static/v258/icons/app-icon-192.png)](https://asktom.oracle.com/ords/asktom.search?tag=using-dbms-rowidrowid-row-numberrowid-in-queries)
+- **null**: [![App Logo](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)](https://stackoverflow.com/questions/68930882/is-it-possible-to-replace-blank-cells-in-a-google-query-with-text)
+- **null**: [![App Logo](https://global.discourse-cdn.com/business4/uploads/neo4jcommunity/optimized/3X/b/a/ba44bff2577bd2886e59c5b22cf9f926f315508d_2_180x180.png)](https://community.neo4j.com/t/integrating-neo4j-aura-to-aws-elasticsearch/16732/2)
 
 - **eGas-Note(標準版)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/a6/1e/d7a61e89-7994-5f3c-489a-f3fec03a436f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6CZTTT6G)
 
