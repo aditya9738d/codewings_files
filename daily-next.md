@@ -1,3 +1,6 @@
+- **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
+- **魂斗罗:归来-体验版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/77/32/6a77322a-4646-62ef-3218-e4203cce828e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9TaGN7Oy)
+
 - **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
 - **CodeStub: Idea Pad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/77/5c/06775c47-6619-d5d1-2d76-742fd769d451/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A810Cipg)
 
@@ -45,5 +48,3 @@
 - **FunnyPainting - gogogo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/f8/20/47f820cb-2f66-6201-3188-9d5a31a8ecf7/AppIcon-vd007-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zgh1TNur)
 
 - **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/16/06/d6160656-6ce1-3e82-d95b-51380354148b/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
-
-- **NRO by ixxc 06**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/f7/75/5bf77551-ea8b-7211-d562-685bdf4d8da2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HX6IhOxO)
