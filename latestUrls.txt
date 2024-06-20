@@ -1,0 +1,3 @@
+https://asktom.oracle.com/ords/asktom.search?tag=using-dbms-rowidrowid-row-numberrowid-in-queries
+https://stackoverflow.com/questions/68930882/is-it-possible-to-replace-blank-cells-in-a-google-query-with-text
+https://community.neo4j.com/t/integrating-neo4j-aura-to-aws-elasticsearch/16732/2
