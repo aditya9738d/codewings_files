@@ -1,3 +1,6 @@
+- **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
+- **CodeStub: Idea Pad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/77/5c/06775c47-6619-d5d1-2d76-742fd769d451/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A810Cipg)
+
 - **Elysium Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/66/cc/5c66cc66-2cb9-f0a6-5755-623a9a016aef/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MGBXS85H)
 - **Perspective Meetings**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/4a/07/474a0724-b6d5-2374-e27f-2e4df1fb7a2d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DqSUHTV2)
 - **Keep Going • Fitness app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/f3/bc/05f3bc92-1020-7258-f5a2-af90e5fae1cb/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J58BKLhk)
@@ -44,14 +47,3 @@
 - **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/16/06/d6160656-6ce1-3e82-d95b-51380354148b/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
 
 - **NRO by ixxc 06**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/f7/75/5bf77551-ea8b-7211-d562-685bdf4d8da2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HX6IhOxO)
-
-- **JXM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/b8/4784b8a8-c8d8-0373-94a3-1e48281842b4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RqyjZk28)
-
-- **컨설텝스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/26/f274260a-b9e9-2931-5218-163e22202e6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1YiOYdID)
-
-- **컨설텝스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/26/f274260a-b9e9-2931-5218-163e22202e6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1YiOYdID)
-
-- **Redes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/8c/11/5a8c115c-378a-b637-6522-e730218ed073/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/doHUb55P)
-- **鸡儿大战僵尸**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/ac/cc/37accc4e-edf3-f6d3-e92c-6634a6c89985/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/488cF6Xu)
-
-- **Bezel • Phone Mirror**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/9f/ad/7f9fad15-b127-0b2e-a6c2-f8f07280dc5f/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ai2zeoM4)
