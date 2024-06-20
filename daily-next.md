@@ -15,10 +15,6 @@
 - **OX.FUN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/10/2f/fd102fc9-e7af-b099-fcac-feab0a9cb51c/AppOPNXIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/I36eFQC4)
 - **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/73/99/4e739983-05c4-02d0-43a4-3575a7489467/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
 
-- **null**: [![App Logo](r/asktom/100/files/static/v258/icons/app-icon-192.png)](https://asktom.oracle.com/ords/asktom.search?tag=using-dbms-rowidrowid-row-numberrowid-in-queries)
-- **null**: [![App Logo](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a)](https://stackoverflow.com/questions/68930882/is-it-possible-to-replace-blank-cells-in-a-google-query-with-text)
-- **null**: [![App Logo](https://global.discourse-cdn.com/business4/uploads/neo4jcommunity/optimized/3X/b/a/ba44bff2577bd2886e59c5b22cf9f926f315508d_2_180x180.png)](https://community.neo4j.com/t/integrating-neo4j-aura-to-aws-elasticsearch/16732/2)
-
 - **eGas-Note(標準版)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/a6/1e/d7a61e89-7994-5f3c-489a-f3fec03a436f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6CZTTT6G)
 
 - **无尽龙族**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/df/ce/55dfce46-61fa-ca7a-0a81-4f896275774d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YjiseZCd)
