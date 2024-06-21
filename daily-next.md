@@ -1,3 +1,5 @@
+- **yWriter: Software for Writers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1a/bc/2c1abc9e-c57b-e98c-665e-900a1e945af2/AppIcon-85-220-4-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/B3qqTF46)
+
 - **DrukVKL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e5/5f/c8e55ffa-4e3a-106e-6339-5938ee953e1c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1lxwtFjc)
 
 - **NGOCRONGPRVATE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/3e/ff/8e3eff12-3b16-de92-8d8c-de36a5156dc8/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iOqARjo4)
@@ -96,5 +98,3 @@
 - **TinyTakeoff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/cc/46/90cc46e8-2a24-55a7-8b6d-ff74660dbc8d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2iDfiVyQ)
 
 - **FunnyPainting - gogogo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/f8/20/47f820cb-2f66-6201-3188-9d5a31a8ecf7/AppIcon-vd007-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zgh1TNur)
-
-- **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/16/06/d6160656-6ce1-3e82-d95b-51380354148b/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
