@@ -1,3 +1,6 @@
+- **KCC'24**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/87/09/5e870975-1bb1-b10c-b7c1-ee512be5e3cc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b8eIbxEV)
+- **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/f5/b4/56f5b4a9-f10d-cd65-4707-b4f01814afc3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
+
 - **Gifski**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/ae/c5/36aec530-368f-3246-0753-5db1dcfa47ac/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/iCyHNNIA)
 
 - **GrandTheftRadio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/67/73/b9677348-fb74-20d5-5739-c862c6b5077e/AppIcon-1x_U007emarketing-0-4-0-sRGB-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/GcO6hGad)
