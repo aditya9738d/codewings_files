@@ -1,6 +1,9 @@
 - **PicSeed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/bc/6f/61bc6fad-4e39-46d3-da17-62d9e8c477ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qTDkMnYT)
 - **MyTaxi Drivers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/29/af/6829af1d-b73b-fa01-83b2-8aa31e077e29/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/adRpPNmj)
 
+- **PicSeed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/bc/6f/61bc6fad-4e39-46d3-da17-62d9e8c477ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qTDkMnYT)
+- **MyTaxi Drivers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/29/af/6829af1d-b73b-fa01-83b2-8aa31e077e29/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/adRpPNmj)
+
 - **yWriter: Software for Writers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1a/bc/2c1abc9e-c57b-e98c-665e-900a1e945af2/AppIcon-85-220-4-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/B3qqTF46)
 
 - **DrukVKL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e5/5f/c8e55ffa-4e3a-106e-6339-5938ee953e1c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1lxwtFjc)
@@ -95,5 +98,3 @@
 - **Flickplay: Collect 3D Avatars**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/1b/68/0d1b6800-4e30-deaa-a51e-4338c50baa9e/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xr5o788R)
 
 - **Finalist: Daily To Do List**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/f4/5d/1ff45d22-8d58-29ec-084d-fa5840b3971b/AppIconMacOS-0-0-85-220-0-4-0-2x-P3.png/200x200bb-80.png)](https://testflight.apple.com/join/f2kW7gUy)
-
-- **银魂集结**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/df/80/b6df8002-34d0-3dfd-5998-58352d718b75/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BsxGxEsz)
