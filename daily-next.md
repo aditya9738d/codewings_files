@@ -1,9 +1,6 @@
 - **PicSeed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/bc/6f/61bc6fad-4e39-46d3-da17-62d9e8c477ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qTDkMnYT)
 - **MyTaxi Drivers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/29/af/6829af1d-b73b-fa01-83b2-8aa31e077e29/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/adRpPNmj)
 
-- **PicSeed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/bc/6f/61bc6fad-4e39-46d3-da17-62d9e8c477ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qTDkMnYT)
-- **MyTaxi Drivers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/29/af/6829af1d-b73b-fa01-83b2-8aa31e077e29/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/adRpPNmj)
-
 - **yWriter: Software for Writers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1a/bc/2c1abc9e-c57b-e98c-665e-900a1e945af2/AppIcon-85-220-4-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/B3qqTF46)
 
 - **DrukVKL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e5/5f/c8e55ffa-4e3a-106e-6339-5938ee953e1c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1lxwtFjc)
@@ -35,7 +32,7 @@
 - **Accessible Pong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/eb/2c/edeb2ccc-d21d-d11f-6fc2-9e8f947c3dbe/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hk3CFKmi)
 - **SwiftUI Mesh Gradients**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/fa/46/28fa4615-ba88-9784-4142-34e7f78380c5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zV2JFkCB)
 - **Anastomia: Drawing Tips**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/cc/04/62cc0403-0ea6-ca5d-0849-41fbbe798c94/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rTuAQT3E)
-- **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/37/f0/bf37f087-5237-7783-6e12-c669feaa3339/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
+
 - **FarHouse**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/39/9b/a4399b77-9eae-4d3f-330e-c9ce5aaf74d1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JxoM7iKZ)
 - **Formabble**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/9d/d9/669dd9fb-08fb-f8c0-bfe4-9ac0c7bef283/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b30EZV0n)
 - **DJDX: 弐寺専用プレーデータ管理ツール**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ae/21/99ae2156-9e21-e98d-a52f-a465dcdc361c/AppIcon-0-1x_U007epad-0-P3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f9p3rIgN)
@@ -53,11 +50,8 @@
 
 - **XR Trick Shot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/d1/a5/ebd1a5bc-5e75-cbbb-f1da-b5d9939911fd/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/8UC9bGiY)
 
-- **XR Trick Shot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/d1/a5/ebd1a5bc-5e75-cbbb-f1da-b5d9939911fd/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/8UC9bGiY)
-
 - **Feel The Road**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/23/89/d82389b2-ab83-9cb1-078d-16ee44222766/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bWZAofAm)
 
-- **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
 - **CodeStub: Idea Pad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/77/5c/06775c47-6619-d5d1-2d76-742fd769d451/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A810Cipg)
 
 - **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
