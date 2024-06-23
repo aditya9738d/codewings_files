@@ -1,3 +1,5 @@
+- **OceanFi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/1f/b2/681fb2f1-26d3-7d58-9af0-dd140d061d50/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yak9FmMu)
+
 - **DropScout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/a6/74/33a674fe-0709-5233-5c59-2bd17522439d/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/6uY4qRn9)
 
 - **Oh Wow**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1e/33/5b1e3386-05e8-cf6c-d533-f11497749bbd/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/EPqmXmG5)
@@ -96,5 +98,3 @@
 - **蓝月亮SFA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d6/fd/63d6fd97-befc-2f44-fb08-6db9ba39507f/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xAIHzkfB)
 
 - **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
-
-- **shockwallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/dc/ca/45dcca46-c71f-2b56-cc68-ecf181d7cdeb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/soZAKZWj)
