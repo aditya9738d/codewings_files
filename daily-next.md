@@ -5,9 +5,6 @@
 - **Oh Wow**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1e/33/5b1e3386-05e8-cf6c-d533-f11497749bbd/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/EPqmXmG5)
 - **My Music Bridge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/41/2e/6e412e07-2de7-6ef0-3364-c519e1502376/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/j1hJziTO)
 
-- **Oh Wow**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1e/33/5b1e3386-05e8-cf6c-d533-f11497749bbd/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/EPqmXmG5)
-- **My Music Bridge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/41/2e/6e412e07-2de7-6ef0-3364-c519e1502376/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/j1hJziTO)
-
 - **Snacka!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/3a/49/863a4975-bd43-c723-3e50-0cde0337379b/SnackaAppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tqxVWmyp)
 
 - **English Village Murders**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/27/1a/ab271a3c-e149-787c-6116-4fd9ebf36a71/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MJ5uGIZJ)
