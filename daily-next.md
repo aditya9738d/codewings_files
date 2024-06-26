@@ -1,3 +1,5 @@
+- **FastNote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/33/13/c533136c-1360-88c8-bebb-3c45c3a80b05/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tl4SH9NF)
+
 - **Ngọc Rồng Pen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2d/3e/4c2d3ec8-7c0e-dcfe-e8ca-d21a63c65e3c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWQiia4K)
 
 - **Dien dan phim**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/01/e5/1e01e554-c06f-9006-87f1-be37a4eb9e56/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/situnPl1)
@@ -95,5 +97,3 @@
 - **LLAH Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/61/ae/8261ae4c-e4f1-86b9-6204-4ca4d4e29f59/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/STqjsIyV)
 
 - **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/35/81/10358169-0fd5-4d2f-6065-ea4f074d7717/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
-
-- **XR Trick Shot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/d1/a5/ebd1a5bc-5e75-cbbb-f1da-b5d9939911fd/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/8UC9bGiY)
