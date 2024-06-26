@@ -1,5 +1,3 @@
-- **Dien dan phim**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/01/e5/1e01e554-c06f-9006-87f1-be37a4eb9e56/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/situnPl1)
-
 - **IdolGPT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6e/e4/446ee42a-f5ca-cda5-bc30-c1734ec87c78/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YLW9JkDB)
 
 - **CHÚ BÉ RỒNG 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/0f/e9/940fe9d6-449c-8d69-dd7c-f00f09f92e7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UM1OBhJ)
