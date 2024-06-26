@@ -1,3 +1,5 @@
+- **Dien dan phim**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/01/e5/1e01e554-c06f-9006-87f1-be37a4eb9e56/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/situnPl1)
+
 - **IdolGPT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6e/e4/446ee42a-f5ca-cda5-bc30-c1734ec87c78/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YLW9JkDB)
 
 - **CHÚ BÉ RỒNG 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/0f/e9/940fe9d6-449c-8d69-dd7c-f00f09f92e7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UM1OBhJ)
@@ -95,5 +97,3 @@
 - **XR Trick Shot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/d1/a5/ebd1a5bc-5e75-cbbb-f1da-b5d9939911fd/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/8UC9bGiY)
 
 - **Feel The Road**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/23/89/d82389b2-ab83-9cb1-078d-16ee44222766/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bWZAofAm)
-
-- **CodeStub: Idea Pad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/77/5c/06775c47-6619-d5d1-2d76-742fd769d451/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A810Cipg)
