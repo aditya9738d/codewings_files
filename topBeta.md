@@ -1,3 +1,5 @@
+- **空运通**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/be/6a/6fbe6a13-a794-b357-cc20-293f403157dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JCyfPbqw)
+
 - **「開発」こくみん共済**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/46/cf/d246cf72-99e0-68ee-ed3e-e7f24135a6a7/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Wndy9PZ5)
 
 - **BytoTDS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/18/e9/7818e9cf-2980-f106-226b-e4a6828d25a1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hocTWZ01)
