@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Payment Plans</title>
+  
+
+  <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-app-compat.js"></script>
+  <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-analytics-compat.js"></script>
+  <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-database-compat.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script defer src="firebase-integration.js"></script>
+  <!-- <link rel="stylesheet" href="style.css"> -->
+  <script>
+    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+  </script>
+  <script defer src="/_vercel/insights/script.js"></script>
+<script>
+window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/speed-insights/script.js"></script>
+</head>
+
+<div id="header-container"></div>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #2b2b2b;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: white;
+        }
+        .container {
+            width: 90%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 40px 0;
+            background-color: #33333300;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        p {
+            font-size: 1.2em;
+        }
+        .plans {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+        .plan {
+            background: linear-gradient(135deg, #4c4c4c, #2b2b2b);
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            width: 30%;
+            padding: 30px;
+            text-align: center;
+            margin-bottom: 20px;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .plan:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+        }
+        .plan h2 {
+            margin-top: 0;
+            font-size: 1.8em;
+            color: #FFD700;
+        }
+        .price {
+            font-size: 2em;
+            color: #FFD700;
+            margin: 15px 0;
+        }
+        .features {
+            list-style-type: none;
+            padding: 0;
+            font-size: 1.1em;
+        }
+        .features li {
+            padding: 10px 0;
+            border-bottom: 1px solid #555;
+        }
+        .features li:last-child {
+            border-bottom: none;
+        }
+        .signup-btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 30px;
+            background-color: #FFD700;
+            color: #2b2b2b;
+            text-decoration: none;
+            border-radius: 25px;
+            font-size: 1.2em;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        .signup-btn:hover {
+            background-color: #ffbf00;
+            transform: translateY(-5px);
+        }
+        @media (max-width: 768px) {
+            .plan {
+                width: 45%;
+            }
+        }
+        @media (max-width: 480px) {
+            .plan {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>Upgrade to Keep Testing New Beta Apps</h1>
+        <p>Select the plan that best suits your needs and budget.</p>
+    </header>
+
+    <div class="plans">
+        <div class="plan">
+            <h2>Basic Plan</h2>
+            <p class="price">$2.99/month</p>
+            <ul class="features">
+                <li>10 Beta daily</li>
+            </ul>
+            
+            <a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-72G33150UJ055380YMZIZAGA" class="signup-btn">Getting Started</a>
+        </div>
+        <div class="plan">
+            <h2>Standard Plan</h2>
+            <p class="price">$4.99/month</p>
+            <ul class="features">
+                <li>Unlimited beta apps</li>
+            </ul>
+            <a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4AJ94406CK663382GMZIZBBA" class="signup-btn">Getting Started</a>
+        </div>
+        <div class="plan">
+            <h2>Premium Plan</h2>
+            <p class="price">$49.99/year</p>
+            <ul class="features">
+                <li>Unlimited beta apps</li>
+                <li>Support</li>
+            </ul>
+            <a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-49721282A8653894XMZIZBXA" class="signup-btn">Getting Started</a>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    // Use fetch or other methods to load the footer content
+    fetch('footer.html')
+        .then(response => response.text())
+        .then(html => {
+            document.getElementById('footer-container').innerHTML = html;
+        });
+</script>
+</body>
+</html>

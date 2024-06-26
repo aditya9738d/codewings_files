@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Discover public links to join the beta program of the most important apps for iOS, and become a beta tester using the TestFlight app!">
+<meta property="og:title" content="CodeWings">
+<meta property="og:description" content="Discover public links to join the beta program of the most important apps for iOS, and become a beta tester using the TestFlight app!">
+<meta property="og:image" content="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png">
+<meta name="twitter:title" content="CodeWings">
+<meta name="twitter:description" content="Discover public links to join the beta program of the most important apps for iOS, and become a beta tester using the TestFlight app!">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png">
+
+
+    <link rel="icon" href="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png" type="image/x-icon">
+    <link rel="shortcut icon" href="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-app-compat.js"></script>
+    <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-analytics-compat.js"></script>
+    <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-database-compat.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script defer src="firebase-integration.js"></script>
+
+    <!-- <link rel="stylesheet" href="recent.css"> -->
+    <link rel="stylesheet" href="TopBets.css">
+    <script type="text/javascript" src="script.js"></script>
+       <link rel="stylesheet" href="styles.css">
+       <link rel="stylesheet" href="mode.css">
+
+
+    <!-- <script defer type="module" src="login/auth.js"></script> -->
+
+
+    <!-- ------------------------------------------------------------------------------------- -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900853415102033"
+     crossorigin="anonymous"></script>
+      <!-- ------------------------------------------------------------------------------------- -->
+
+    <title>Regional - Beta apps</title>
+     <script>
+        // Fetch and insert header content synchronously
+        (async () => {
+            const headerResponse = await fetch('header.html');
+            const headerHtml = await headerResponse.text();
+            const headerContainer = document.getElementById('header-container');
+            headerContainer.innerHTML = headerHtml;
+
+            // Run scripts in the dynamically loaded header
+            const headerScripts = headerContainer.querySelectorAll('script');
+            headerScripts.forEach(script => {
+                const newScript = document.createElement('script');
+                newScript.textContent = script.textContent;
+                document.body.appendChild(newScript);
+            });
+        })();
+    </script>
+
+    <script>
+        window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+      </script>
+      <script defer src="/_vercel/insights/script.js"></script>
+	<script>
+  window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/speed-insights/script.js"></script>
+</head>
+<body>
+
+    <div id="header-container"></div>
+  
+    <!-- <div class="wrapper">
+        <div class="search_box">
+            <div class="search_btn"><i class="fas fa-search"></i></div>
+            <input type="text" class="input_search" placeholder="Search for apps & games">
+        </div> -->
+
+    <div class="recent">Regional apps</div>
+
+
+
+    <div class="app-container_list">
+        <main id="chinese-list"></main>
+        <!-- <div class="sign_cover" id="signCover"></div> -->
+    </div>
+
+
+
+    <script>
+        (async function () {
+            try {
+                const container = document.getElementById('chinese-list');
+        
+                // Ensure the container exists
+                if (!container) {
+                    console.error('Container with ID "chinese-list" not found.');
+                    return;
+                }
+        
+                const languages = [
+                { name: 'Chinese', id: 'reg_btn', api: 'https://telegram-js-xi.vercel.app/api/apps/chinese' },
+                { name: 'Japanese', id: 'reg_btn', api: 'https://telegram-js-xi.vercel.app/api/apps/japanese' },
+                { name: 'Korean', id: 'reg_btn', api: 'https://telegram-js-xi.vercel.app/api/apps/korean' },
+                { name: 'Arabic', id: 'reg_btn', api: 'https://telegram-js-xi.vercel.app/api/apps/arabic' },
+                { name: 'Vietnamese', id: 'reg_btn', api: 'https://telegram-js-xi.vercel.app/api/apps/vietnamese' },
+                { name: 'Ukrainian', id: 'reg_btn', api: 'https://telegram-js-xi.vercel.app/api/apps/ukrainian' }
+            ];
+    
+            let activeButton = null;
+            let currentPage = 1;
+            const pageSize = 20; // Number of apps per page
+            let isFetching = false; // Flag to manage ongoing requests
+    
+            // Create a container for language buttons
+            const languageButtonContainer = document.createElement('div');
+            languageButtonContainer.classList.add('language-button-container');
+            container.appendChild(languageButtonContainer);
+    
+            // Function to create a button for each language
+            function createButton(language) {
+                const button = document.createElement('button');
+                button.id = language.id;
+                button.textContent = language.name;
+                button.dataset.api = language.api; // Store API endpoint in dataset
+                button.addEventListener('click', () => {
+                    if (isFetching) return; // Prevent multiple requests
+    
+                    if (activeButton) {
+                        activeButton.classList.remove('active');
+                    }
+                    button.classList.add('active');
+                    activeButton = button;
+                    currentPage = 1; // Reset current page when switching languages
+                    fetchAndDisplayApps(language.api, currentPage, pageSize);
+                });
+                return button;
+            }
+    
+            // Append language buttons to the languageButtonContainer
+            languages.forEach(language => {
+                const button = createButton(language);
+                languageButtonContainer.appendChild(button);
+            });
+
+            function sanitizeString(str) {
+                // Replace any characters that are not letters, numbers, or underscores with spaces
+                return str.replace(/[^a-zA-Z0-9_]/g, ' ');
+            }
+        
+                // Function to create a card for each app
+                function createAppCard(app) {
+                    const card = document.createElement('div');
+                    card.classList.add('app-card');
+                    card.setAttribute('data-name', app.name);
+        
+                    card.innerHTML = `
+                        <div class="logo-container">
+                            <img src="${app.logo}" alt="${app.name} Logo">
+                        </div>
+                        <h2 class="app-name">${app.name}</h2>
+                        <p class="app-counter"> <span class="click-count">0</span></p>
+                        <button class="get-button">Get</button>
+                    `;
+        
+                    // Fetch and update the click count from Firebase
+                    async function updateClickCount() {
+                        try {
+                            const appRef = database.ref(`card_clicks/${sanitizeString(app.name)}`);
+                            const snapshot = await appRef.once('value');
+                            const currentCount = snapshot.val() || 0;
+        
+                            // Update the counter text in the card
+                            const clickCountElement = card.querySelector('.click-count');
+                            if (clickCountElement) {
+                                clickCountElement.textContent = currentCount;
+                            }
+                        } catch (error) {
+                            console.error('Error updating click count:', error);
+                        }
+                    }
+        
+                    // Fetch and update the initial click count when the card is created
+                    updateClickCount();
+        
+                    // Handle card click event
+                    card.addEventListener('click', async () => {
+                        // Increment the click count and update Firebase
+                        try {
+                            const appRef = database.ref(`card_clicks/${sanitizeString(app.name)}`);
+                            const snapshot = await appRef.once('value');
+                            let currentCount = snapshot.val() || 0;
+        
+                            // Increment the click count
+                            currentCount++;
+        
+                            // Update the click count in Firebase
+                            await appRef.set(currentCount);
+        
+                            // Update the UI with the new click count
+                            const clickCountElement = card.querySelector('.click-count');
+                            if (clickCountElement) {
+                                clickCountElement.textContent = currentCount;
+                            }
+                        } catch (error) {
+                            console.error('Error updating click count:', error);
+                        }
+        
+                        // Generate URL parameters for the app details
+                        const urlParams = new URLSearchParams();
+                        urlParams.set('name', app.name);
+                        urlParams.set('logo', app.logo);
+                        urlParams.set('url', app.url);
+        
+                        const detailsPageUrl = `join.html?${urlParams.toString()}`;
+                        window.open(detailsPageUrl, '_blank');
+                    });
+        
+                    return card;
+                }
+        
+
+                // Function to fetch and display apps based on the API endpoint and page number
+                async function fetchAndDisplayApps(apiEndpoint, page, pageSize) {
+                    try {
+                        isFetching = true; // Set fetching flag
+                 
+        
+                        const response = await fetch(apiEndpoint);
+                        const data = await response.json();
+        
+                        const startIndex = (page - 1) * pageSize;
+                        const endIndex = startIndex + pageSize;
+                        const appsToDisplay = data.slice(startIndex, endIndex);
+        
+                        // Clear previous apps
+                        const existingAppContainer = container.querySelector('.app-container-box');
+                        if (existingAppContainer) {
+                            container.removeChild(existingAppContainer);
+                        }
+        
+                        const appCardsContainer = document.createElement('div');
+                        appCardsContainer.classList.add('app-container-box');
+        
+                        container.appendChild(appCardsContainer);
+        
+                        appsToDisplay.forEach((app, index) => {
+                            const card = createAppCard(app, index);
+                            appCardsContainer.appendChild(card);
+                        });
+        
+                        // Create pagination controls
+                        updatePaginationControls(data.length, page);
+        
+                    } catch (error) {
+                        console.error('Error fetching and processing app data:', error);
+                    } finally {
+              
+                        isFetching = false; // Reset fetching flag
+                    }
+                }
+        
+                // Function to update pagination controls (Prev, Next, and Page Numbers)
+                function updatePaginationControls(totalApps, currentPage) {
+                    // Calculate total number of pages
+                    const totalPages = Math.ceil(totalApps / pageSize);
+        
+                    // Clear existing pagination controls
+                    const paginationContainer = document.getElementById('pagination');
+                    if (paginationContainer) {
+                        paginationContainer.innerHTML = '';
+                    } else {
+                        const paginationContainer = document.createElement('div');
+                        paginationContainer.id = 'pagination';
+                        container.appendChild(paginationContainer);
+                    }
+        
+                    // Create Prev button
+                    const prevButton = document.createElement('button');
+                    prevButton.id = 'prevButton';
+                    prevButton.textContent = 'Prev';
+                    prevButton.disabled = currentPage === 1; // Disable if on first page
+                    prevButton.addEventListener('click', () => {
+                        if (currentPage > 1) {
+                            currentPage--;
+                            fetchAndDisplayApps(activeButton.dataset.api, currentPage, pageSize);
+                        }
+                    });
+                    paginationContainer.appendChild(prevButton);
+        
+                    // Create limited page numbers
+                    const maxVisiblePages = 3; // Adjust as needed
+                    let startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
+                    let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
+        
+                    if (endPage - startPage + 1 < maxVisiblePages) {
+                        startPage = Math.max(1, endPage - maxVisiblePages + 1);
+                    }
+        
+                    if (startPage > 1) {
+                        const firstPage = document.createElement('span');
+                        firstPage.classList.add('page-numbers');
+                        firstPage.textContent = '1';
+                        firstPage.addEventListener('click', () => {
+                            currentPage = 1;
+                            fetchAndDisplayApps(activeButton.dataset.api, currentPage, pageSize);
+                        });
+                        paginationContainer.appendChild(firstPage);
+        
+                        if (startPage > 2) {
+                            const dots = document.createElement('span');
+                            dots.textContent = '...';
+                            paginationContainer.appendChild(dots);
+                        }
+                    }
+        
+                    for (let i = startPage; i <= endPage; i++) {
+                        const pageNumber = document.createElement('span');
+                        pageNumber.classList.add('page-numbers');
+                        pageNumber.textContent = i;
+                        if (i === currentPage) {
+                            pageNumber.classList.add('active-page');
+                        }
+                        pageNumber.addEventListener('click', () => {
+                            currentPage = i;
+                            fetchAndDisplayApps(activeButton.dataset.api, currentPage, pageSize);
+                        });
+                        paginationContainer.appendChild(pageNumber);
+                    }
+        
+                    if (endPage < totalPages) {
+                        if (endPage < totalPages - 1) {
+                            const dots = document.createElement('span');
+                            dots.textContent = '...';
+                            paginationContainer.appendChild(dots);
+                        }
+                        const lastPage = document.createElement('span');
+                        lastPage.classList.add('page-numbers');
+                        lastPage.textContent = totalPages;
+                        lastPage.addEventListener('click', () => {
+                            currentPage = totalPages;
+                            fetchAndDisplayApps(activeButton.dataset.api, currentPage, pageSize);
+                        });
+                        paginationContainer.appendChild(lastPage);
+                    }
+        
+                    // Create Next button
+                    const nextButton = document.createElement('button');
+                    nextButton.id = 'nextButton';
+                    nextButton.textContent = 'Next';
+                    nextButton.disabled = currentPage === totalPages; // Disable if on last page
+                    nextButton.addEventListener('click', () => {
+                        if (currentPage < totalPages) {
+                            currentPage++;
+                            fetchAndDisplayApps(activeButton.dataset.api, currentPage, pageSize);
+                        }
+                    });
+                    paginationContainer.appendChild(nextButton);
+                }
+        
+                // Initially load Chinese apps and highlight the button
+                document.getElementById(languages[0].id).classList.add('active');
+                activeButton = document.getElementById(languages[0].id);
+                fetchAndDisplayApps(languages[0].api, currentPage, pageSize);
+        
+            } catch (error) {
+                console.error('Error initializing app:', error);
+            }
+        })();
+        
+        
+        
+    </script>
+
+
+
+<div id="pagination"></div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="TopBeta.js"></script>
+    <script src="mode.js"></script>
+   
+    <script>
+        // Use fetch or other methods to load the footer content
+        fetch('footer.html')
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById('footer-container').innerHTML = html;
+            });
+    </script>
+    <div id="footer-container"></div>
+</body>
+</html>

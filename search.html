@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="description" content="Discover public links to join the beta program of the most important apps for iOS, and become a beta tester using the TestFlight app!">
+<meta property="og:title" content="CodeWings">
+<meta property="og:description" content="Discover public links to join the beta program of the most important apps for iOS, and become a beta tester using the TestFlight app!">
+<meta property="og:image" content="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png">
+<meta name="twitter:title" content="CodeWings">
+<meta name="twitter:description" content="Discover public links to join the beta program of the most important apps for iOS, and become a beta tester using the TestFlight app!">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png">
+
+
+    <link rel="icon" href="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png" type="image/x-icon">
+    <link rel="shortcut icon" href="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="today.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-app-compat.js"></script>
+    <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-analytics-compat.js"></script>
+    <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-database-compat.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script defer src="firebase-integration.js"></script>
+    <link rel="stylesheet" href="mode.css">
+
+    <!-- ------------------------------------------------------------------------------------- -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900853415102033"
+     crossorigin="anonymous"></script>
+      <!-- ------------------------------------------------------------------------------------- -->
+
+    <title>CodeWings</title>
+     <script>
+        // Fetch and insert header content synchronously
+        (async () => {
+            const headerResponse = await fetch('header.html');
+            const headerHtml = await headerResponse.text();
+            const headerContainer = document.getElementById('header-container');
+            headerContainer.innerHTML = headerHtml;
+
+            // Run scripts in the dynamically loaded header
+            const headerScripts = headerContainer.querySelectorAll('script');
+            headerScripts.forEach(script => {
+                const newScript = document.createElement('script');
+                newScript.textContent = script.textContent;
+                document.body.appendChild(newScript);
+            });
+        })();
+    </script>
+
+    <script>
+        window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+      </script>
+      <script defer src="/_vercel/insights/script.js"></script>
+	<script>
+  window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/speed-insights/script.js"></script>
+</head>
+<body style="margin-top: 0;">
+     
+    
+    <div id="header-container"></div>
+
+<div class="search-wrapper">
+    <div class="input-holder">
+        <input type="text" id="searchInput" class="search-input" placeholder="Type to search" autofocus />
+        <button class="search-button" onclick="searchApps()">Search</button> <!-- Add the button for Enter -->
+    </div>
+</div>
+
+
+<div class="search-element">
+    <a href="/games.html">
+        <img src="https://st4.depositphotos.com/33133132/39116/v/450/depositphotos_391165526-stock-illustration-pixel-game-logo-design-vector.jpg" alt="Games">
+        games
+      </a>
+      <a href="/recent.html">
+        <img src="https://cdn.dribbble.com/userupload/6275387/file/original-3efdb4e5f8e67686f59ae29b91c04afc.png?resize=400x0" alt="Games">
+        Today's Beta
+      </a>
+      <a href="/regional_apps.html">
+        <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/regional-7013430-5845606.png" alt="Games">
+        Regional Apps
+      </a>
+      <a href="/Popular.html">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJxNaGQVRdMbBVPWYoa6lCD9K7zpj4jIEjXi02NeJXpg&s" alt="Games">
+        Popular Apps
+      </a>
+</div>
+
+<ul id="topSearchTerms"></ul>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900853415102033"
+     crossorigin="anonymous"></script>
+<!-- horizontal1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2900853415102033"
+     data-ad-slot="9642804651"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<div id="loadingScreen" class="spinner" style="display: none;"></div>
+<div id="searchResults"></div>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900853415102033"
+     crossorigin="anonymous"></script>
+<!-- square 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2900853415102033"
+     data-ad-slot="3581443707"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+<div class="ass">
+    <div id="nextList" class="placeholder"></div>
+</div>
+
+    <script src="search.js"></script>
+    <script src="mode.js"></script>
+    <script src="apps.js"></script>
+    <script src="next.js"></script>
+   
+    <script>
+        // Use fetch or other methods to load the footer content
+        fetch('footer.html')
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById('footer-container').innerHTML = html;
+            });
+    </script>
+    <div id="footer-container"></div>
+</body>
+</html>

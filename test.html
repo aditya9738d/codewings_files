@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Popular Apps</title>
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-functions.js"></script>
+</head>
+<body>
+    <div id="nextList"></div>
+    <script>
+        // Initialize Firebase
+        const firebaseConfig = {
+          apiKey: "AIzaSyB2m_caVPaa_Gg6J62LvECHPYwUG1lTLpk",
+          authDomain: "click-count-f19cd.firebaseapp.com",
+          projectId: "click-count-f19cd",
+          storageBucket: "click-count-f19cd.appspot.com",
+          messagingSenderId: "93590705011",
+          appId: "1:93590705011:web:f7d6b83f1bddc982cdab06",
+        };
+        firebase.initializeApp(firebaseConfig);
+        const db = firebase.firestore();
+
+        (async function () {
+            try {
+                const mostClickedContainer = document.getElementById('nextList');
+
+                // Ensure the container exists
+                if (!mostClickedContainer) {
+                    console.error('Container with ID "nextList" not found.');
+                    return;
+                }
+
+                const titleSection = document.createElement('div');
+                titleSection.classList.add('app-text');
+            
+                const titleWrapper = document.createElement('div');
+                titleWrapper.style.width = '100%';
+            
+                const titleLink = document.createElement('a');
+                titleLink.href = 'Popular.html';
+            
+                const titleParagraph = document.createElement('p');
+                titleParagraph.innerHTML = 'Popular apps <span class="custom-arrow">›</span>';
+
+                // Append title elements to the titleSection
+                titleLink.appendChild(titleParagraph);
+                titleWrapper.appendChild(titleLink);
+                titleSection.appendChild(titleWrapper);
+
+                // Append titleSection to the mostClickedContainer
+                mostClickedContainer.appendChild(titleSection);
+
+                // Function to sanitize a string by replacing invalid characters with spaces
+                function sanitizeString(str) {
+                    return str.replace(/[^a-zA-Z0-9_]/g, ' ');
+                }
+
+                // Function to create a card for each app
+                function createAppCard(app, index) {
+                    const sanitizedAppName = sanitizeString(app.name);
+                    const userInteractionsRef = db.collection('card_clicks').doc(sanitizedAppName);
+
+                    const card = document.createElement('div');
+                    card.classList.add('app-box');
+                    card.id = `app-box-${index + 1}`;
+
+                    const observer = new IntersectionObserver((entries, observer) => {
+                        entries.forEach(entry => {
+                            if (entry.isIntersecting) {
+                                const img = entry.target.querySelector('img');
+                                img.src = img.getAttribute('data-src');
+                                observer.unobserve(entry.target);
+                            }
+                        });
+                    });
+
+                    observer.observe(card);
+
+                    card.addEventListener('click', async (event) => {
+                        try {
+                            await userInteractionsRef.update({
+                                clickCount: firebase.firestore.FieldValue.increment(1),
+                                // Assume sessionDuration and rating are gathered from user session and feedback
+                                sessionDuration: firebase.firestore.FieldValue.increment(app.sessionDuration || 0),
+                                rating: firebase.firestore.FieldValue.increment(app.rating || 0)
+                            });
+
+                            const urlParams = new URLSearchParams();
+                            urlParams.set('name', app.name);
+                            urlParams.set('logo', app.logo);
+                            urlParams.set('url', app.link);
+
+                            const detailsPageUrl = `join.html?${urlParams.toString()}`;
+                            window.location.href = detailsPageUrl;
+                            event.preventDefault();
+                        } catch (error) {
+                            console.error('Error updating click count:', error);
+                        }
+                    });
+
+                    const logoContainer = document.createElement('div');
+                    logoContainer.classList.add('logo-container-box');
+                    const logoImg = document.createElement('img');
+                    logoImg.setAttribute('data-src', app.logo);
+                    logoImg.alt = `${app.name} Logo`;
+                    logoContainer.appendChild(logoImg);
+
+                    const appName = document.createElement('h2');
+                    appName.classList.add('app-name-box');
+                    appName.textContent = app.name;
+
+                    const clickCount = document.createElement('p');
+                    clickCount.classList.add('app-counter-box');
+                    const clickCountSpan = document.createElement('span');
+                    clickCountSpan.classList.add('click-count');
+                    clickCountSpan.textContent = app.clickCount || 0;
+                    clickCount.appendChild(clickCountSpan);
+
+                    card.appendChild(logoContainer);
+                    card.appendChild(appName);
+                    card.appendChild(clickCount);
+
+                    return card;
+                }
+
+                // Function to calculate a composite score for each app
+                function calculateCompositeScore(app) {
+                    const clickWeight = 0.4;
+                    const durationWeight = 0.3;
+                    const ratingWeight = 0.3;
+
+                    return (app.clickCount * clickWeight) + 
+                           (app.sessionDuration * durationWeight) + 
+                           (app.rating * ratingWeight);
+                }
+
+                // Fetch initial data from your API
+                const response = await fetch('https://telegram-js-xi.vercel.app/api/topBeta');
+                const apiData = await response.json();
+
+                // Update Firestore with the fetched data
+                const batch = db.batch();
+                apiData.forEach(app => {
+                    const sanitizedAppName = sanitizeString(app.name);
+                    const appRef = db.collection('apps').doc(sanitizedAppName);
+                    batch.set(appRef, {
+                        clickCount: app.clickCount || 0,
+                        sessionDuration: app.sessionDuration || 0,
+                        rating: app.rating || 0,
+                        logo: app.logo,
+                        link: app.link
+                    }, { merge: true });
+                });
+                await batch.commit();
+
+                // Fetch data from Firestore and create app cards
+                const snapshot = await db.collection('apps').get();
+                
+                const apps = snapshot.docs.map(doc => {
+                    const data = doc.data();
+                    return {
+                        name: doc.id,
+                        ...data
+                    };
+                });
+
+                // Sort apps by composite score
+                apps.sort((a, b) => calculateCompositeScore(b) - calculateCompositeScore(a));
+
+                const appCardsContainer = document.createElement('div');
+                appCardsContainer.classList.add('app-container-box');
+                mostClickedContainer.appendChild(appCardsContainer);
+
+                apps.slice(0, 50).forEach((app, index) => {  // Only process the top 50 apps
+                    const card = createAppCard(app, index);
+                    appCardsContainer.appendChild(card);
+                });
+            } catch (error) {
+                console.error('Error fetching and processing app data:', error);
+            }
+        })();
+    </script>
+</body>
+</html>

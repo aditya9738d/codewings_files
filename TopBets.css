@@ -1,0 +1,177 @@
+.app-list {
+    display: grid;
+    grid-template-columns: auto 1fr; /* First column for serial number, second column for card */
+    gap: 10px; /* Adjust the gap between cards as needed */
+}
+
+.app-card-container {
+    display: flex;
+    align-items: center; /* Center content vertically */
+}
+
+.serial-number {
+    width: 15px;
+    text-align: center;
+    font-weight: bolder;
+    margin-right: 15px;
+    margin-left: -10px;
+    opacity: 70%;
+}
+
+.app-card {
+    background-color: rgb(64 64 64 / 70%);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px 0;
+    -webkit-box-flex: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: -webkit-transform 0.3s ease-in-out;
+    transition: -webkit-transform 0.3s ease-in-out;
+    -o-transition: transform 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+    flex-direction: row;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    flex: auto;
+}
+
+.recent {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 12px;
+    padding: 20px;
+}
+
+
+
+#loading-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+.lds-ring {
+    display: inline-block;
+    position: relative;
+    width: 64px;
+    height: 64px;
+}
+.lds-ring div {
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    margin: 6px;
+    border: 6px solid #ffffff;
+    border-radius: 50%;
+    animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+    border-color: #ffffff transparent transparent transparent;
+}
+.lds-ring div:nth-child(1) {
+    animation-delay: -0.45s;
+}
+.lds-ring div:nth-child(2) {
+    animation-delay: -0.3s;
+}
+.lds-ring div:nth-child(3) {
+    animation-delay: -0.15s;
+}
+@keyframes lds-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.hidden {
+    display: none;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
+}
+
+body{
+	background: #e0dbef;
+}
+
+.wrapper{
+    min-height: 100vh;
+    margin-top: 15px;
+}
+
+.search_box{
+    background: #00000000;
+    position: relative;
+    padding: 5px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.search_box .search_btn{
+    width: 50px;
+    height: 50px;
+    border-radius: 35%;
+    background: #212121cf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin-right: 4px;
+    cursor: pointer;
+    outline: solid 1px #83838370;
+}
+
+.search_box .input_search{
+    outline: none;
+    border: 0;
+    background: #212121cf;
+    border-radius: 20px;
+    padding: 15px 20px;
+    width: 300px;
+    height: 50px;
+    color: #fff;
+    outline: solid 1px #83838370;
+}
+
+::placeholder {
+  color: #fff;
+}
+
+::-webkit-input-placeholder {
+  color: #fff;
+}
+
+:-ms-input-placeholder {
+  color: #fff;
+}
