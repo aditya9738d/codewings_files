@@ -1,3 +1,5 @@
+- **IdolGPT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6e/e4/446ee42a-f5ca-cda5-bc30-c1734ec87c78/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YLW9JkDB)
+
 - **CHÚ BÉ RỒNG 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/0f/e9/940fe9d6-449c-8d69-dd7c-f00f09f92e7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UM1OBhJ)
 
 - **Brailliance - Learn Braille**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/2e/f6/5e2ef662-fb1f-f09a-82d1-203fbc90f096/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PSwzeHVM)
@@ -95,6 +97,3 @@
 - **Feel The Road**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/23/89/d82389b2-ab83-9cb1-078d-16ee44222766/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bWZAofAm)
 
 - **CodeStub: Idea Pad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/77/5c/06775c47-6619-d5d1-2d76-742fd769d451/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A810Cipg)
-
-- **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
-- **魂斗罗:归来-体验版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/77/32/6a77322a-4646-62ef-3218-e4203cce828e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9TaGN7Oy)
