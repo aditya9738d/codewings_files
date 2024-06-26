@@ -1,0 +1,285 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Discover public links to join the beta program of the most important apps for iOS, and become a beta tester using the TestFlight app!">
+<meta property="og:title" content="CodeWings">
+<meta property="og:description" content="Discover public links to join the beta program of the most important apps for iOS, and become a beta tester using the TestFlight app!">
+<meta property="og:image" content="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png">
+<meta name="twitter:title" content="CodeWings">
+<meta name="twitter:description" content="Discover public links to join the beta program of the most important apps for iOS, and become a beta tester using the TestFlight app!">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png">
+
+
+    <link rel="icon" href="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png" type="image/x-icon">
+    <link rel="shortcut icon" href="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/LOGO%20TEST%202.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-app-compat.js"></script>
+    <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-analytics-compat.js"></script>
+    <script defer src="https://www.gstatic.com/firebasejs/9.6.0/firebase-database-compat.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script defer src="firebase-integration.js"></script>
+
+    <link rel="stylesheet" href="recent.css">
+    <script type="module" src="Today.js"></script>
+    <!-- <script defer type="module" src="login/auth.js"></script> -->
+    <script defer type="module" src="login_main.js"></script>
+    <link rel="stylesheet" href="mode.css">
+    
+
+    <!-- ------------------------------------------------------------------------------------- -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2900853415102033"
+     crossorigin="anonymous"></script>
+      <!-- ------------------------------------------------------------------------------------- -->
+
+    <title>CodeWings</title>
+     <script>
+        // Fetch and insert header content synchronously
+        (async () => {
+            const headerResponse = await fetch('header.html');
+            const headerHtml = await headerResponse.text();
+            const headerContainer = document.getElementById('header-container');
+            headerContainer.innerHTML = headerHtml;
+
+            // Run scripts in the dynamically loaded header
+            const headerScripts = headerContainer.querySelectorAll('script');
+            headerScripts.forEach(script => {
+                const newScript = document.createElement('script');
+                newScript.textContent = script.textContent;
+                document.body.appendChild(newScript);
+            });
+        })();
+    </script>
+
+    <script>
+        window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+      </script>
+      <script defer src="/_vercel/insights/script.js"></script>
+	<script>
+  window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/speed-insights/script.js"></script>
+</head>
+<body>
+     
+    <div id="header-container"></div>
+  
+
+    <div class="recent">Beta Apps</div>
+    <style>
+        .recent {
+            font-size: 25px;
+            font-weight: bold;
+            margin-top: 12px;
+            padding: 20px;
+        }
+    </style>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // ...
+        
+            const signCover = document.getElementById('signCover');
+        
+            signCover.addEventListener('click', function() {
+                window.location.href = 'login_index.html';
+            });
+    
+        });
+      </script>
+
+
+    <div class="app-container_list">
+        <main id="app-list"></main>
+        <!-- <div class="sign_cover" id="signCover"></div> -->
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+   
+    <script>
+        // Use fetch or other methods to load the footer content
+        fetch('footer.html')
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById('footer-container').innerHTML = html;
+            });
+    </script>
+    <div id="footer-container"></div>
+
+
+
+
+    <script>
+        let apps = [];
+let appListContainer = document.getElementById('app-list');
+let observer;
+
+// Function to create a card for each app
+function createAppCard(app) {
+    const card = document.createElement('div');
+    card.classList.add('app-card');
+
+    card.innerHTML = `
+        <div class="logo-container">
+            <img src="${app.logo}" alt="${app.name} Logo">
+        </div>
+        <h2 class="app-name">${app.name}</h2>
+        <p class="app-counter"> <span class="click-count">0</span></p>
+        <button class="get-button">Get</button>
+    `;
+
+    const getButton = card.querySelector('.get-button');
+
+    // Function to fetch and update the click count from Firebase
+    async function updateClickCount() {
+        try {
+            const appRef = database.ref(`card_clicks/${app.name}`);
+            const snapshot = await appRef.once('value');
+            const currentCount = snapshot.val() || 0;
+
+            // Update the counter text in the card
+            const clickCountElement = card.querySelector('.click-count');
+            if (clickCountElement) {
+                clickCountElement.textContent = currentCount;
+            }
+        } catch (error) {
+            console.error('Error updating click count:', error);
+        }
+    }
+
+    // Fetch and update the initial click count when the card is created
+    updateClickCount();
+
+    card.addEventListener('click', async () => {
+        // Increment the click count and update Firebase
+        try {
+            const appRef = database.ref(`card_clicks/${app.name}`);
+            const snapshot = await appRef.once('value');
+            let currentCount = snapshot.val() || 0;
+
+            // Increment the click count
+            currentCount++;
+
+            // Update the click count in Firebase
+            await appRef.set(currentCount);
+
+            // Update the UI with the new click count
+            const clickCountElement = card.querySelector('.click-count');
+            if (clickCountElement) {
+                clickCountElement.textContent = currentCount;
+            }
+        } catch (error) {
+            console.error('Error updating click count:', error);
+        }
+
+        // Generate URL parameters for the app details
+        const urlParams = new URLSearchParams();
+        urlParams.set('name', app.name);
+        urlParams.set('logo', app.logo);
+        urlParams.set('url', app.url);
+
+        const detailsPageUrl = `join.html?${urlParams.toString()}`;
+        window.open(detailsPageUrl, '_blank');
+    });
+
+    return card;
+}
+
+
+// Function to fetch and parse the external HTML file
+async function createAppCardsFromTableFile() {
+    try {
+        apps = [];
+
+        // Fetch and parse the HTML file
+        const response = await fetch('https://raw.githubusercontent.com/aditya9738d/codewings_files/main/output.html');
+        const html = await response.text();
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+        const rows = doc.querySelectorAll('tr');
+
+        rows.forEach(row => {
+            const appNameElement = row.querySelector('td[data-heading="Beta App"]');
+            if (appNameElement) {
+                const appName = appNameElement.textContent;
+                const appLogoElement = row.querySelector('td[data-heading="Logo"] img');
+                const appLogo = appLogoElement ? appLogoElement.src : 'default_logo_url';
+                const appUrl = row.querySelector('td[data-heading="Url"] a').href;
+
+                apps.push({ name: appName, logo: appLogo, url: appUrl });
+            } else {
+                console.warn('No appNameElement found in this row:', row);
+            }
+        });
+
+        // Initialize Intersection Observer
+        observer = new IntersectionObserver(onIntersection, { threshold: 0.5 });
+
+        // Create cards for each app and append them to the container
+        apps.slice(0, 5).forEach(app => {
+            const appCard = createAppCard(app);
+            appListContainer.appendChild(appCard);
+            observer.observe(appCard);
+        });
+    } catch (error) {
+        console.error('Error fetching or parsing table data:', error);
+    }
+}
+
+// Intersection Observer callback
+function onIntersection(entries) {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            observer.unobserve(entry.target);
+            loadMoreCards();
+        }
+    });
+}
+
+// Function to load more cards
+function loadMoreCards() {
+    const visibleCards = document.querySelectorAll('.app-card').length;
+    const nextBatch = apps.slice(visibleCards, visibleCards + 5);
+
+    nextBatch.forEach(app => {
+        const appCard = createAppCard(app);
+        appListContainer.appendChild(appCard);
+        observer.observe(appCard);
+    });
+}
+
+// Call the function to create app cards from the external HTML file
+createAppCardsFromTableFile();
+
+// Function to toggle the 'active' class on the search bar
+function toggleSearchBar() {
+    const searchBar = document.querySelector('.search-bar');
+    searchBar.classList.toggle('active');
+}
+
+// Function to generate a unique identifier for an app
+function generateAppId(app) {
+    const randomId = Math.floor(Math.random() * 1000000);
+    return `app_${randomId}`;
+}
+
+// Get the elements
+const appLoaderContainer = document.getElementById('app-loader-container-2');
+const signCover = document.querySelector('.sign_cover');
+const accessMessage = document.querySelector('.access-message');
+
+// Add an event listener to detect when the .sign_cover is completely loaded
+signCover.addEventListener('load', function() {
+    // Add the "show-message" class to make the message visible
+    appLoaderContainer.classList.add('show-message');
+});
+
+    </script>
+
+    <script src="mode.js"></script>
+</body>
+</html>
