@@ -1,3 +1,4 @@
+- **Mini Militia Classic BetaForce**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/71/95/b57195ed-d6ed-3af7-d31b-5ba5806d9b51/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d8MwKhtE)
 - **appKids**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/cd/ed/45cdedae-1d0a-f9a2-7978-e1750e2c3313/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iEDs3LjV)
 
 - **空运通**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/be/6a/6fbe6a13-a794-b357-cc20-293f403157dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JCyfPbqw)
