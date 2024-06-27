@@ -1,3 +1,5 @@
+- **XCREAM Mobile Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/b6/3a/f7b63aa2-0c2a-daee-2656-7c7203e245d6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WLIVK67s)
+
 - **Divine Healers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/96/c7/9696c7a9-62d9-ab2c-3c60-79765b38c5f8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1KoT9C6m)
 - **魏-魏牌新能源**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/12/b8/e612b8e6-1986-353a-4e92-dd4f2df21951/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wjjmv7rY)
 - **网络小帮手**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/cd/7b/a6cd7b60-d76b-4328-842f-99ec33515658/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uotcUBt0)
