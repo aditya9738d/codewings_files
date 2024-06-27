@@ -1,3 +1,5 @@
+- **appKids**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/cd/ed/45cdedae-1d0a-f9a2-7978-e1750e2c3313/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iEDs3LjV)
+
 - **空运通**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/be/6a/6fbe6a13-a794-b357-cc20-293f403157dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JCyfPbqw)
 
 - **「開発」こくみん共済**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/46/cf/d246cf72-99e0-68ee-ed3e-e7f24135a6a7/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Wndy9PZ5)
@@ -96,5 +98,3 @@
 - **熊猫吃短信2 - 垃圾短信拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f3/07/63f3073a-a29a-31a3-4c62-d9ff830ae130/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fwtX43eH)
 - **T.R.A.S.H. Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/f4/2d/8ff42d98-3500-2c30-c2b1-99956733da3b/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RhMOWi0A)
 - **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
-- **nocap dev**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/6f/b9/d56fb9e0-a31d-e2f6-5bd5-9faaf07e556a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wfkqexrx)
-- **ImHuman**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/77/90/607790b3-151c-df4d-478e-469013ba4b0f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/enOCyqYv)
