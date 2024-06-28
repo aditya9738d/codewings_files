@@ -1,3 +1,5 @@
+- **Working Copy - Git client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/04/b7/ac04b7be-24a6-27fb-cba2-2c3e6d876d42/Regular-Icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jWRvinra)
+
 - **Homepage for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/57/69/4a57695d-61aa-b15b-4521-8f8869029e74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y7e92WCb)
 
 - **XCREAM Mobile Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/b6/3a/f7b63aa2-0c2a-daee-2656-7c7203e245d6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WLIVK67s)
