@@ -1,5 +1,7 @@
 - **DiscoverEU Travel App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/44/9a/f9449aa1-acb2-1bd2-58e7-5b0ad2faf686/AppIcon-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/77dSd9sB)
 
+- **DiscoverEU Travel App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/44/9a/f9449aa1-acb2-1bd2-58e7-5b0ad2faf686/AppIcon-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/77dSd9sB)
+
 - **Working Copy - Git client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/04/b7/ac04b7be-24a6-27fb-cba2-2c3e6d876d42/Regular-Icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jWRvinra)
 
 - **Homepage for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/57/69/4a57695d-61aa-b15b-4521-8f8869029e74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y7e92WCb)
@@ -96,5 +98,3 @@
 - **bijou for Last.fm & Spotify**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/6f/e6/ea6fe6fc-3755-2fd0-f3c3-dba1e8ebd490/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Cwu9KBIF)
 - **Shadow Node Free**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/11/43/5c114357-ed55-ed75-cc14-ca643abaa11b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lOfDBfgw)
 - **Bitmama**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/64/5d/fe645dfe-899f-d530-bad1-0b409ca93eed/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Je79ts5N)
-- **Accessible Pong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/eb/2c/edeb2ccc-d21d-d11f-6fc2-9e8f947c3dbe/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hk3CFKmi)
-- **SwiftUI Mesh Gradients**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/fa/46/28fa4615-ba88-9784-4142-34e7f78380c5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zV2JFkCB)
