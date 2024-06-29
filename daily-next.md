@@ -1,3 +1,5 @@
+- **8.x.b.e.t**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/88/f8/d688f84e-ce86-7f9f-b85a-68b5dbe38561/AppIcon-vd001-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8WZIw5ow)
+
 - **Sơn Thủy Phân Tranh 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/f0/f7/6df0f781-4221-a424-51d0-1238bb01b989/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pznp1xjN)
 
 - **趣语 | 快乐的知识宝库**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/aa/c9/f5aac982-afed-99b7-a77d-b34cce2735b4/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UBq9n2PF)
@@ -96,5 +98,3 @@
 - **Drop It: Wonder Island**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/93/ee/0b93ee53-7d10-2f96-ce62-a51f4bed3682/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nzfmjmu6)
 - **Spatial Poker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/cc/05/24cc0567-4225-6f82-5be3-dacb841dd03b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/98oLRPmW)
 - **Siebly - AI Photo Picker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/48/93/1e48939a-1704-69fa-ca20-4361645a9fa1/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/goHaBhfd)
-- **Spruce Up–AR Videos & Decor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/ce/81/f5ce81f2-05fc-dd2a-5328-17157fc0efdf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/x3CVtM8R)
-- **bijou for Last.fm & Spotify**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/6f/e6/ea6fe6fc-3755-2fd0-f3c3-dba1e8ebd490/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Cwu9KBIF)
