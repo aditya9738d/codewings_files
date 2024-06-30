@@ -1,3 +1,5 @@
+- **Chronos for Jira (Beta)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/be/28/93be2835-8f6c-ee1e-cacb-2e5b65397c90/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/mB7ZA6s5)
+
 - **8.x.b.e.t**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/88/f8/d688f84e-ce86-7f9f-b85a-68b5dbe38561/AppIcon-vd001-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8WZIw5ow)
 
 
@@ -96,4 +98,3 @@
 - **Laxt Time**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/31/10/2f31101b-ce26-ba9c-d9e5-8bdb75bd1cf4/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/e4b9UDfM)
 - **LivePlayback**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/bc/51/b5bc5150-530a-b360-bc88-1f5c26c76c7c/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZyqExq0j)
 - **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/37/f0/bf37f087-5237-7783-6e12-c669feaa3339/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735?s=31)
-- **Drop It: Wonder Island**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/93/ee/0b93ee53-7d10-2f96-ce62-a51f4bed3682/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nzfmjmu6)
