@@ -1,3 +1,5 @@
+- **Almanac Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/77/33/d577337e-ff65-ffb7-1e71-80eb5d68cbdf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ekQVtizj)
+
 - **Chronos for Jira (Beta)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/be/28/93be2835-8f6c-ee1e-cacb-2e5b65397c90/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/mB7ZA6s5)
 
 - **8.x.b.e.t**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/88/f8/d688f84e-ce86-7f9f-b85a-68b5dbe38561/AppIcon-vd001-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8WZIw5ow)
