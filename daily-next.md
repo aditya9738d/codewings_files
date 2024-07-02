@@ -1,3 +1,7 @@
+- **Grupo Ocean APP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/ad/8b/7cad8b70-a9f9-fb1d-1bb4-88ee1de90fd0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tH7pddSE)
+- **Unlimited Math Problems**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/d7/62/69d76295-4b40-d4fa-1b07-8ee0dfa7991c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BWGOgHoe)
+- **Duet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/42/82/0a428213-1ce5-9af0-998c-d5ee2c99671a/AppIcon-0-0-1x_U007ephone-0-0-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ltKGGLIf)
+
 - **Fuse - Solana Smart Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/63/7b/36637b06-df44-2297-5de6-537d25ce230e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sQkNVD2s)
 - **Spatial Poker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/fb/18/54fb1887-4d79-2190-7b97-07fb900ce701/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/98oLRPmW)
 
@@ -93,7 +97,3 @@
 
 
 - **Ngọc Rồng Pen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2d/3e/4c2d3ec8-7c0e-dcfe-e8ca-d21a63c65e3c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWQiia4K)
-
-- **Dien dan phim**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/01/e5/1e01e554-c06f-9006-87f1-be37a4eb9e56/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/situnPl1)
-
-- **IdolGPT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6e/e4/446ee42a-f5ca-cda5-bc30-c1734ec87c78/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YLW9JkDB)
