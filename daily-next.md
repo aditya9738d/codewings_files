@@ -1,3 +1,5 @@
+- **sndtv2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/f0/05/8cf00571-5f15-404c-06ff-b23ab8a9558d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPT1jUkd)
+
 - **Amazon Flex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/eb/b4/dcebb40d-2495-b829-9058-f92b7063f615/AppIcon-1x_U007emarketing-0-5-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/UuNbE9lN)
 - **Magic Beans Audio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/8c/09/418c09e2-3350-10e4-148e-cb0e046bf758/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rySlGl2b)
 
@@ -95,5 +97,3 @@
 - **Moga For MangaDex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/3f/d0/393fd017-500b-7dda-ca91-bb9f88cb96dc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ILwREMUb)
 
 
-
-- **Waker App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/5e/d1/1f5ed149-c78e-88a1-92f4-4fffe24e6f65/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RMotxske)
