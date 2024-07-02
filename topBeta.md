@@ -1,3 +1,7 @@
+- **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/35/81/10358169-0fd5-4d2f-6065-ea4f074d7717/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
+- **Homepage for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/57/69/4a57695d-61aa-b15b-4521-8f8869029e74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y7e92WCb)
+- **Hotsteps Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/bb/45/7dbb45a7-8ad5-ae93-9c10-7bf9ae61a309/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/akaRQXok)
+
 - **Doomlings Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/57/b5/ec57b561-b21f-31ec-0154-8a8133cc7fe3/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/MYMtSAFD)
 - **Glvss**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/c2/25/1ac2251e-cefa-d0ea-3782-31042b193c5c/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sbFwc6MT)
 
