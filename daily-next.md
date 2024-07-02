@@ -1,3 +1,6 @@
+- **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
+- **PlanX Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/8a/54/158a5488-5cbe-e5ca-522c-9a981d3b9203/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ua5LD9o2)
+
 - **sndtv2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/f0/05/8cf00571-5f15-404c-06ff-b23ab8a9558d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPT1jUkd)
 
 - **Amazon Flex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/eb/b4/dcebb40d-2495-b829-9058-f92b7063f615/AppIcon-1x_U007emarketing-0-5-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/UuNbE9lN)
@@ -95,5 +98,3 @@
 
 - **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/2b/eb/512bebf1-5933-ddeb-705a-deb1355314c0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
 - **Moga For MangaDex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/3f/d0/393fd017-500b-7dda-ca91-bb9f88cb96dc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ILwREMUb)
-
-
