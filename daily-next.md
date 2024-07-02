@@ -1,3 +1,5 @@
+- **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
+
 - **LIMS_iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/87/26/00872680-9e3e-6c8d-0714-938f4346c47f/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VZKshDGr)
 - **NROINOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/00/76/3c0076b9-be42-4ae2-999d-284403761974/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tUPFQhCw)
 
@@ -96,5 +98,3 @@
 - **GrandTheftRadio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/67/73/b9677348-fb74-20d5-5739-c862c6b5077e/AppIcon-1x_U007emarketing-0-4-0-sRGB-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/GcO6hGad)
 - **Geschar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/13/50/ad1350a4-f6c8-09bc-1973-5292a0a65d87/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jc5SOjTs)
 - **Glvss**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/c2/25/1ac2251e-cefa-d0ea-3782-31042b193c5c/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sbFwc6MT)
-- **Speechable Docs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/30/96/ee309695-6466-304b-6a03-9fb5d2eff563/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/A4k2cdVW)
-- **Ranti.To-RemindMe**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/e4/2d/5be42d50-e776-4917-8b16-3343e259e975/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uLezz4Ig)
