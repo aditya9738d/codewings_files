@@ -1,3 +1,7 @@
+- **BaitBoat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/bc/c8/37bcc889-f054-155c-d256-c7eca9fa0c7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7cXoMzWp)
+- **CarbitLink-EasyConnection**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/87/96/fc87962b-1874-bcf0-cf22-04fffd011e0a/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XLV7UL40)
+- **BytoTDS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/18/e9/7818e9cf-2980-f106-226b-e4a6828d25a1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hocTWZ01)
+
 - **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/35/81/10358169-0fd5-4d2f-6065-ea4f074d7717/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
 - **Homepage for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/57/69/4a57695d-61aa-b15b-4521-8f8869029e74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y7e92WCb)
 - **Hotsteps Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/bb/45/7dbb45a7-8ad5-ae93-9c10-7bf9ae61a309/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/akaRQXok)
@@ -93,5 +97,3 @@
 - **English Village Murders**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/27/1a/ab271a3c-e149-787c-6116-4fd9ebf36a71/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MJ5uGIZJ)
 
 - **51Talk无忧英语-外教1对1,在线学英语**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/0e/a7/1e0ea720-e4d0-acb3-8750-6c57a5c565ec/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/DDlIDL23)
-
-- **Zario: App Block & Refocus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/19/4f/d8194fd7-abce-c4e9-f18f-a6572db6efe8/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/UxmHXkVs)
