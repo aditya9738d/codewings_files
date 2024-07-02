@@ -1,6 +1,3 @@
-- **HubbleClub by Hubble Connected**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/52/84/da528431-6354-65b0-f2dd-0c3cabcc499c/AppIconUnoApp-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/osra691i)
-- **Whisper Transcription**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/25/b8/2c25b89b-aaf8-2f12-e1fc-e4ea580e17d9/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/eIfbGHrs)
-
 - **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
 - **PlanX Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/8a/54/158a5488-5cbe-e5ca-522c-9a981d3b9203/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ua5LD9o2)
 
@@ -210,7 +207,6 @@
 - **Clinflash eIRT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/20/40/7c20409e-1178-6fbd-c523-70fc041bc8b3/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/0FVhRTsv)
 - **ArithFi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/b0/33/bdb03356-b0aa-548c-8376-6ec03e211187/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SEb1TLyN)
 - **比亚迪王朝**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/7f/a4/467fa486-a69e-dd26-2096-d807d5cfeebf/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KRAhRAMX)
-- **sndtv2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/f0/05/8cf00571-5f15-404c-06ff-b23ab8a9558d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPT1jUkd)
 - **Find Any File (FAF)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/a5/d1/fca5d145-76d4-0cfc-4a9d-dc38e0c82186/AppIcon.png/200x200bb-80.png)](https://testflight.apple.com/join/ZeAQAbnu)
 - **Vault CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/da/4a/27da4ace-e086-d5f3-bf70-250558ebcfeb/VaultCRM_AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cgdpG80V)
 - **Acing Reaction**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/db/7b/eedb7b30-861c-12c9-1b92-a0098e07d29b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/7QQDM4ho)
