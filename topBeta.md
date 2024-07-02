@@ -1,10 +1,3 @@
-- **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/35/81/10358169-0fd5-4d2f-6065-ea4f074d7717/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
-- **Homepage for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/57/69/4a57695d-61aa-b15b-4521-8f8869029e74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y7e92WCb)
-- **Hotsteps Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/bb/45/7dbb45a7-8ad5-ae93-9c10-7bf9ae61a309/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/akaRQXok)
-
-- **Doomlings Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/57/b5/ec57b561-b21f-31ec-0154-8a8133cc7fe3/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/MYMtSAFD)
-- **Glvss**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/c2/25/1ac2251e-cefa-d0ea-3782-31042b193c5c/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sbFwc6MT)
-
 - **Foursquare Swarm: Check-in App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/79/60/107960d5-0c80-64c9-0900-fa1e5da0c052/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0rRfTytM)
 - **FastNote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/fd/b1/21fdb107-9f80-e488-426e-fc905f522517/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tl4SH9NF)
 
@@ -6916,7 +6909,6 @@
 - **Wilderless**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/4d/13/5e4d13f6-40cb-d61b-2f95-f4c983f0b966/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/8zIIxsqW)
 - **Somewhere - a place**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/f9/a9/cff9a925-9d19-395a-8897-666d56b86ba5/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/bL4c0ZbG)
 - **Solana Crush**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d9/01/9b/d9019b01-fc96-06f3-c18e-65fe739dbd71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/b9gQMlQU)
-- **Foursquare Swarm: Check-in App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/be/42/fabe42dd-9a0a-5df7-0052-071d217a5f6e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0rRfTytM)
 - **Opener ‒ open links in apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/71/ed/bf71ed8e-ca0d-e462-6349-ee95f48ed2d1/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jXivVMPE)
 - **Game Of Revenge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/65/3c/94653cb6-4679-8e7a-a77c-f4cd0091f7c7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png)](https://testflight.apple.com/join/5uee2m5t)
 - **Finiliar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/89/5a/da895a30-68b7-5eec-6900-ab86ccd3eb03/AppIcon5-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/oFWpI2gy)
@@ -9036,7 +9028,6 @@
 - **Ｖirgo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/2a/63/502a6353-dbd6-836b-76f7-0cc05ff58201/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/5RoYYdyC)
 - **appKids**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/cd/ed/45cdedae-1d0a-f9a2-7978-e1750e2c3313/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iEDs3LjV)
 - **空运通**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/be/6a/6fbe6a13-a794-b357-cc20-293f403157dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JCyfPbqw)
-- **FastNote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/33/13/c533136c-1360-88c8-bebb-3c45c3a80b05/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tl4SH9NF)
 - **Ngọc Rồng Pen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2d/3e/4c2d3ec8-7c0e-dcfe-e8ca-d21a63c65e3c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWQiia4K)
 - **Dien dan phim**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/01/e5/1e01e554-c06f-9006-87f1-be37a4eb9e56/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/situnPl1)
 - **CHÚ BÉ RỒNG 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/0f/e9/940fe9d6-449c-8d69-dd7c-f00f09f92e7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UM1OBhJ)
