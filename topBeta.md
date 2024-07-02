@@ -1,3 +1,7 @@
+- **BaitBoat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/bc/c8/37bcc889-f054-155c-d256-c7eca9fa0c7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7cXoMzWp)
+- **CarbitLink-EasyConnection**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/87/96/fc87962b-1874-bcf0-cf22-04fffd011e0a/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XLV7UL40)
+- **BytoTDS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/18/e9/7818e9cf-2980-f106-226b-e4a6828d25a1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hocTWZ01)
+
 - **Foursquare Swarm: Check-in App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/79/60/107960d5-0c80-64c9-0900-fa1e5da0c052/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0rRfTytM)
 - **FastNote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/fd/b1/21fdb107-9f80-e488-426e-fc905f522517/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tl4SH9NF)
 
