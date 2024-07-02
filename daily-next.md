@@ -1,6 +1,5 @@
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
 
-- **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
 
 - **LIMS_iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/87/26/00872680-9e3e-6c8d-0714-938f4346c47f/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VZKshDGr)
 - **NROINOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/00/76/3c0076b9-be42-4ae2-999d-284403761974/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tUPFQhCw)
