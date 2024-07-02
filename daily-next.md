@@ -1,4 +1,6 @@
 - **Discover Culture AC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/9d/05/889d0501-0328-3a50-5b49-05baa55d1be2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HzUeAOlz)
+- **CLChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/83/fc/5a83fcbd-b1a3-9e65-48c7-740cd52983fc/AppIcon-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vrebG3i1)
+- **Foursquare Swarm: Check-in App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/79/60/107960d5-0c80-64c9-0900-fa1e5da0c052/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0rRfTytM)
 
 - **BeeBettor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/91/b4/f891b43c-35cc-fe1e-ca92-0579c9d1fc2c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zfcHfgK4)
 - **Zimam Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/fd/d5/5dfdd5b5-5c2c-8e36-0886-2a215e44e0c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JgT67X6A)
@@ -95,8 +97,3 @@
 - **yWriter: Software for Writers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1a/bc/2c1abc9e-c57b-e98c-665e-900a1e945af2/AppIcon-85-220-4-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/B3qqTF46)
 
 - **DrukVKL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e5/5f/c8e55ffa-4e3a-106e-6339-5938ee953e1c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1lxwtFjc)
-
-- **NGOCRONGPRVATE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/3e/ff/8e3eff12-3b16-de92-8d8c-de36a5156dc8/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iOqARjo4)
-
-- **KCC'24**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/87/09/5e870975-1bb1-b10c-b7c1-ee512be5e3cc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b8eIbxEV)
-- **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/f5/b4/56f5b4a9-f10d-cd65-4707-b4f01814afc3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
