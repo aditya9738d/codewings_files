@@ -1,3 +1,6 @@
+- **Doomlings Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/57/b5/ec57b561-b21f-31ec-0154-8a8133cc7fe3/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/MYMtSAFD)
+- **Glvss**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/c2/25/1ac2251e-cefa-d0ea-3782-31042b193c5c/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sbFwc6MT)
+
 - **Foursquare Swarm: Check-in App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/79/60/107960d5-0c80-64c9-0900-fa1e5da0c052/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0rRfTytM)
 - **FastNote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/fd/b1/21fdb107-9f80-e488-426e-fc905f522517/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tl4SH9NF)
 
@@ -95,6 +98,3 @@
 - **Photoscope - Photo Culling**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/1d/64/851d64f2-7113-f1c1-dce2-d5ce3315bae2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OgeOuRbn)
 
 - **PicSeed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/bc/6f/61bc6fad-4e39-46d3-da17-62d9e8c477ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qTDkMnYT)
-- **MyTaxi Drivers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/29/af/6829af1d-b73b-fa01-83b2-8aa31e077e29/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/adRpPNmj)
-
-- **yWriter: Software for Writers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1a/bc/2c1abc9e-c57b-e98c-665e-900a1e945af2/AppIcon-85-220-4-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/B3qqTF46)
