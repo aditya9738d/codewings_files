@@ -1,3 +1,7 @@
+- **B-Bank Debug**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/ec/13/20ec1310-6e9d-4384-5973-37a4b729dbbf/AppIcon-Debug-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lnzqqwbU)
+- **TV Timor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/90/0e/ce900ef3-48a6-8df7-9cff-3ba40a918bad/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b765ofWI)
+- **iFBAs - Arcade Emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/b8/64/bcb86423-e902-b29c-5982-63bfdab4540a/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dniZDbAF)
+
 - **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/83/2c/83832c1e-35c7-3a16-92c3-9b4df3e5d06c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
 - **Up Ahead: Countdown Widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/5e/d6/b45ed638-629a-f5f9-f268-a816d240357f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5mpPV9sf)
 
