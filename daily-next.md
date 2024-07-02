@@ -59,7 +59,6 @@
 
 - **「開発」こくみん共済**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/46/cf/d246cf72-99e0-68ee-ed3e-e7f24135a6a7/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Wndy9PZ5)
 
-- **BytoTDS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/18/e9/7818e9cf-2980-f106-226b-e4a6828d25a1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hocTWZ01)
 
 
 - **Ngọc Rồng Pen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2d/3e/4c2d3ec8-7c0e-dcfe-e8ca-d21a63c65e3c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWQiia4K)
@@ -82,11 +81,9 @@
 
 - **Metaverser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f9/f6/f1f9f60a-edb9-7b87-88c2-6c698a2343c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5ld1oWaN)
 
-- **TV Timor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/16/ee/2616ee06-0a2f-3932-f6e6-b13c1eedee29/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b765ofWI)
 
 - **Waker App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/5e/d1/1f5ed149-c78e-88a1-92f4-4fffe24e6f65/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RMotxske)
 
-- **CarbitLink-EasyConnection**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/d1/44/2ad144db-d700-e775-122e-b511ad8d490d/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XLV7UL40)
 - **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/e4/11/2de411cc-def4-3753-8b25-f042b6ce48b6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
 
 - **Làng Lá Huyền Thoại**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/77/69/45776994-fa5d-ce4a-adc5-f66f0f491032/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WOghI1yX)
