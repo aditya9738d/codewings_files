@@ -1,3 +1,5 @@
+- **兔呼聊天**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/73/8d/5c738db9-520c-fb70-6b5d-9051af21762d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IglWJfX0)
+
 - **SKYBOX Media Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/24/0e/38240e8d-a448-5020-d995-baa4eb375709/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/g0rbucSJ)
 - **Discover Culture AC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/9d/05/889d0501-0328-3a50-5b49-05baa55d1be2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HzUeAOlz)
 
@@ -95,4 +97,3 @@
 - **Chronos for Jira (Beta)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/be/28/93be2835-8f6c-ee1e-cacb-2e5b65397c90/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/mB7ZA6s5)
 
 - **8.x.b.e.t**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/88/f8/d688f84e-ce86-7f9f-b85a-68b5dbe38561/AppIcon-vd001-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8WZIw5ow)
-
