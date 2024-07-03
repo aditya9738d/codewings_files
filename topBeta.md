@@ -1,3 +1,6 @@
+- **BeeBettor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/91/b4/f891b43c-35cc-fe1e-ca92-0579c9d1fc2c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zfcHfgK4)
+- **Zimam Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/fd/d5/5dfdd5b5-5c2c-8e36-0886-2a215e44e0c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JgT67X6A)
+
 - **NRO ĐẠI CHIẾN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/eb/bf/58ebbfc9-3906-9eaf-4b11-cf23c7139ac5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/765dEa3i)
 
 - **Grupo Ocean APP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/ad/8b/7cad8b70-a9f9-fb1d-1bb4-88ee1de90fd0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tH7pddSE)
