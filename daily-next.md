@@ -58,7 +58,6 @@
 - **FastNote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/fd/b1/21fdb107-9f80-e488-426e-fc905f522517/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tl4SH9NF)
 
 - **Discover Culture AC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/9d/05/889d0501-0328-3a50-5b49-05baa55d1be2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HzUeAOlz)
-- **CLChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/83/fc/5a83fcbd-b1a3-9e65-48c7-740cd52983fc/AppIcon-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vrebG3i1)
 
 - **BeeBettor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/91/b4/f891b43c-35cc-fe1e-ca92-0579c9d1fc2c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zfcHfgK4)
 - **Zimam Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/fd/d5/5dfdd5b5-5c2c-8e36-0886-2a215e44e0c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JgT67X6A)
