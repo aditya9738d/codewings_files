@@ -1,3 +1,5 @@
+- **IdolGPT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/3c/f2/7b3cf25a-ffbb-9698-872c-6d463c60417e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YLW9JkDB)
+
 - **3NRNE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/11/02/8f1102c5-b6ae-29c5-8634-8feedf206a46/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1rnzWS1)
 - **ImHuman**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/77/90/607790b3-151c-df4d-478e-469013ba4b0f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/enOCyqYv)
 - **TouchTunes: Test the App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/ac/32/c1ac3232-5fdf-1aad-57dc-9625b730077c/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pyUfNHZE)
@@ -95,5 +97,3 @@
 
 - **LIMS_iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/87/26/00872680-9e3e-6c8d-0714-938f4346c47f/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VZKshDGr)
 - **NROINOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/00/76/3c0076b9-be42-4ae2-999d-284403761974/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tUPFQhCw)
-
-- **Almanac Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/77/33/d577337e-ff65-ffb7-1e71-80eb5d68cbdf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ekQVtizj)
