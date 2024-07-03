@@ -1,3 +1,6 @@
+- **BeeBettor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/91/b4/f891b43c-35cc-fe1e-ca92-0579c9d1fc2c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zfcHfgK4)
+- **Zimam Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/fd/d5/5dfdd5b5-5c2c-8e36-0886-2a215e44e0c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JgT67X6A)
+
 - **NRO ĐẠI CHIẾN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/eb/bf/58ebbfc9-3906-9eaf-4b11-cf23c7139ac5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/765dEa3i)
 
 - **CLChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/83/fc/5a83fcbd-b1a3-9e65-48c7-740cd52983fc/AppIcon-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vrebG3i1)
@@ -94,6 +97,3 @@
 - **appKids**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/cd/ed/45cdedae-1d0a-f9a2-7978-e1750e2c3313/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iEDs3LjV)
 
 - **空运通**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/be/6a/6fbe6a13-a794-b357-cc20-293f403157dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JCyfPbqw)
-
-- **「開発」こくみん共済**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/46/cf/d246cf72-99e0-68ee-ed3e-e7f24135a6a7/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Wndy9PZ5)
-
