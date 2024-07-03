@@ -1,3 +1,7 @@
+- **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
+- **TikTok -Global Video Community**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/e6/eb/dde6eb52-59d0-b031-c62f-38c47a6249ed/AppIcon_TestFlight-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TH2TrW13)
+- **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/cb/99/8acb9971-0c49-b2c4-b363-ca24e2d611aa/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
+
 - **DrukVKL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e5/5f/c8e55ffa-4e3a-106e-6339-5938ee953e1c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1lxwtFjc)
 - **「開発」こくみん共済**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/46/cf/d246cf72-99e0-68ee-ed3e-e7f24135a6a7/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Wndy9PZ5)
 - **Acing Reaction**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/db/7b/eedb7b30-861c-12c9-1b92-a0098e07d29b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/7QQDM4ho)
