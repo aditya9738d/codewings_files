@@ -1,3 +1,7 @@
+- **BeKa Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/ad/1c/07ad1cf4-ccb8-6ca3-c233-b3a36ab217d5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zPG0b0Po)
+- **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e2/19/3ee21937-86ea-25a7-e1eb-c6882e19e162/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
+- **Magic Eden Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/83/1d/e7831d0a-c6a8-278f-fe6b-f8aa5ad27946/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j7sCYVZO)
+
 - **DropScout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/a6/74/33a674fe-0709-5233-5c59-2bd17522439d/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/6uY4qRn9)
 - **Nro Euro 2024**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/6b/fc/b56bfc2d-34c7-96bf-593d-bd7abe5e4a13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/St087vb6)
 
@@ -94,7 +98,3 @@
 
 
 - **Working Copy - Git client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/04/b7/ac04b7be-24a6-27fb-cba2-2c3e6d876d42/Regular-Icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jWRvinra)
-
-
-
-- **Mini Militia Classic BetaForce**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/71/95/b57195ed-d6ed-3af7-d31b-5ba5806d9b51/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d8MwKhtE)
