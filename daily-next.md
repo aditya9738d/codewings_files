@@ -1,3 +1,7 @@
+- **DrukVKL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e5/5f/c8e55ffa-4e3a-106e-6339-5938ee953e1c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1lxwtFjc)
+- **「開発」こくみん共済**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/46/cf/d246cf72-99e0-68ee-ed3e-e7f24135a6a7/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Wndy9PZ5)
+- **Acing Reaction**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/db/7b/eedb7b30-861c-12c9-1b92-a0098e07d29b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/7QQDM4ho)
+
 - **IdolGPT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/3c/f2/7b3cf25a-ffbb-9698-872c-6d463c60417e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YLW9JkDB)
 
 - **3NRNE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/11/02/8f1102c5-b6ae-29c5-8634-8feedf206a46/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1rnzWS1)
@@ -93,7 +97,3 @@
 - **Ngọc Rồng Cypher**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/4c/cb/024ccb58-94fe-75ec-abca-98b45f6962f1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mfWbSqxn)
 
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
-
-
-- **LIMS_iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/87/26/00872680-9e3e-6c8d-0714-938f4346c47f/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VZKshDGr)
-- **NROINOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/00/76/3c0076b9-be42-4ae2-999d-284403761974/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tUPFQhCw)
