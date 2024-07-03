@@ -1,3 +1,7 @@
+- **3NRNE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/11/02/8f1102c5-b6ae-29c5-8634-8feedf206a46/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1rnzWS1)
+- **ImHuman**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/77/90/607790b3-151c-df4d-478e-469013ba4b0f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/enOCyqYv)
+- **TouchTunes: Test the App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/ac/32/c1ac3232-5fdf-1aad-57dc-9625b730077c/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pyUfNHZE)
+
 - **兔呼聊天**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/73/8d/5c738db9-520c-fb70-6b5d-9051af21762d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IglWJfX0)
 
 - **SKYBOX Media Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/24/0e/38240e8d-a448-5020-d995-baa4eb375709/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/g0rbucSJ)
