@@ -91,7 +91,6 @@
 
 - **Ngọc Rồng Cypher**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/4c/cb/024ccb58-94fe-75ec-abca-98b45f6962f1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mfWbSqxn)
 
-- **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
 
 - **LIMS_iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/87/26/00872680-9e3e-6c8d-0714-938f4346c47f/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VZKshDGr)
 - **NROINOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/00/76/3c0076b9-be42-4ae2-999d-284403761974/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tUPFQhCw)
@@ -4593,7 +4592,6 @@
 - **SuperFreshApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/08/a9/5308a99a-45b4-c9bf-1464-acc2c90fa863/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ixZJVnSg)
 - **UniFi Protect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3f/c3/d73fc344-7c93-0e99-e08d-43906e3a5971/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EkFJsGvX)
 - **Dr. MOOVES A&D**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/48/f1/c148f16f-dc8e-2333-ef96-cd0df3cf0ed7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jCIEAVMk)
-- **Centralimo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/f2/d3/55f2d36c-86e1-4564-ee3c-bb035ef7d0a6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4uancpdF)
 - **Livetec Biosecurity [STG]**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/6d/d3/156dd378-95cd-dac0-37ca-b9377921cc6d/AppIcon-staging-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vMUbpW6j)
 - **Safer VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/01/12/20011220-799a-9d51-2d1d-c97fc1115922/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vYK0Uvhz)
 - **OneTap Check-In**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/e4/e1/a6e4e188-bbaf-edb7-7e79-0e5e45cbc650/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/oKKFSzxX)
