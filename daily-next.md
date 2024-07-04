@@ -1,3 +1,5 @@
+- **Centralimo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/f2/d3/55f2d36c-86e1-4564-ee3c-bb035ef7d0a6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4uancpdF)
+
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
 
 - **Manet Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/af/64/a6af642b-5000-7c8c-1fcd-4dc8b1343d8d/AppIcon.Default-0-1x_U007ephone-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/qwpl4gi4)
@@ -96,4 +98,3 @@
 
 - **BaitBoat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/bc/c8/37bcc889-f054-155c-d256-c7eca9fa0c7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7cXoMzWp)
 - **CarbitLink-EasyConnection**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/87/96/fc87962b-1874-bcf0-cf22-04fffd011e0a/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XLV7UL40)
-- **BytoTDS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/18/e9/7818e9cf-2980-f106-226b-e4a6828d25a1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hocTWZ01)
