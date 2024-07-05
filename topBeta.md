@@ -132,7 +132,6 @@
 
 - **DiscoverEU Travel App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/44/9a/f9449aa1-acb2-1bd2-58e7-5b0ad2faf686/AppIcon-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/77dSd9sB)
 
-- **Working Copy - Git client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/04/b7/ac04b7be-24a6-27fb-cba2-2c3e6d876d42/Regular-Icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jWRvinra)
 
 - **Homepage for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/57/69/4a57695d-61aa-b15b-4521-8f8869029e74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y7e92WCb)
 
