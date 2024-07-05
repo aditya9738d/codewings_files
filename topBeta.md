@@ -1,3 +1,6 @@
+- **无聊Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/28/02/cb280247-e083-5188-122c-5d7006a17df7/WuLiaoAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fPeg8xFZ)
+- **Working Copy - Git client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/04/b7/ac04b7be-24a6-27fb-cba2-2c3e6d876d42/Regular-Icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jWRvinra)
+
 - **NRO by ixxc 07**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9c/df/f19cdfb4-04bc-924b-bd84-68ae635163f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UmfiVbDk)
 
 - **Haivivi Pal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/2a/de/ad2adeb9-d165-ec57-f983-7b43bdc3fc4c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kWje4YHH)
