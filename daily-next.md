@@ -1,3 +1,5 @@
+- **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/5d/5d/735d5dee-3fcc-a3d5-f095-dca3e3cf2b03/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
+
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 - **eParaksts mobile DEMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/13/77/70137768-4e40-ea07-d006-eb4715af9953/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GzmlvtUs)
 
@@ -95,6 +97,3 @@
 
 - **DropScout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/a6/74/33a674fe-0709-5233-5c59-2bd17522439d/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/6uY4qRn9)
 - **Nro Euro 2024**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/6b/fc/b56bfc2d-34c7-96bf-593d-bd7abe5e4a13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/St087vb6)
-
-- **Otter Log Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/d3/16/d6d316a1-dc34-f337-7082-b3e6be16c62e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/erT44PiT)
-- **CHÚ BÉ RỒNG 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/0f/e9/940fe9d6-449c-8d69-dd7c-f00f09f92e7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UM1OBhJ)
