@@ -1,3 +1,6 @@
+- **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
+- **eParaksts mobile DEMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/13/77/70137768-4e40-ea07-d006-eb4715af9953/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GzmlvtUs)
+
 - **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/a3/4a/63a34af0-aa61-5e5b-8f95-d249c5a0aeb8/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
 
 - **Ly Hour Insurance Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/32/27/ae3227aa-6fbb-454f-67a3-2a63fae9e900/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PFVvsfpS)
@@ -95,6 +98,3 @@
 
 - **Otter Log Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/d3/16/d6d316a1-dc34-f337-7082-b3e6be16c62e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/erT44PiT)
 - **CHÚ BÉ RỒNG 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/0f/e9/940fe9d6-449c-8d69-dd7c-f00f09f92e7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UM1OBhJ)
-
-- **BeeBettor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/91/b4/f891b43c-35cc-fe1e-ca92-0579c9d1fc2c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zfcHfgK4)
-- **Zimam Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/fd/d5/5dfdd5b5-5c2c-8e36-0886-2a215e44e0c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JgT67X6A)
