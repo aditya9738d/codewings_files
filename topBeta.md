@@ -33,7 +33,6 @@
 
 - **Ly Hour Insurance Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/32/27/ae3227aa-6fbb-454f-67a3-2a63fae9e900/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PFVvsfpS)
 
-- **MobileCPM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/27/0a/a0270a58-7bff-826c-5a66-2c39cec4cc7d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dJt5vfOZ)
 
 - **Monkey Beach Patrol**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/07/cc/ed07cc97-95cd-4707-a7ad-8c89ca7e3818/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CLWJDc1p)
 
@@ -88,7 +87,6 @@
 
 - **DrukVKL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e5/5f/c8e55ffa-4e3a-106e-6339-5938ee953e1c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1lxwtFjc)
 - **「開発」こくみん共済**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/46/cf/d246cf72-99e0-68ee-ed3e-e7f24135a6a7/AppIcon-dev-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Wndy9PZ5)
-- **Acing Reaction**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/db/7b/eedb7b30-861c-12c9-1b92-a0098e07d29b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/7QQDM4ho)
 
 - **3NRNE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/11/02/8f1102c5-b6ae-29c5-8634-8feedf206a46/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1rnzWS1)
 - **ImHuman**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/77/90/607790b3-151c-df4d-478e-469013ba4b0f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/enOCyqYv)
@@ -107,7 +105,6 @@
 - **DropScout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/a6/74/33a674fe-0709-5233-5c59-2bd17522439d/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/6uY4qRn9)
 - **Nro Euro 2024**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/6b/fc/b56bfc2d-34c7-96bf-593d-bd7abe5e4a13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/St087vb6)
 
-- **Otter Log Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/d3/16/d6d316a1-dc34-f337-7082-b3e6be16c62e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/erT44PiT)
 - **CHÚ BÉ RỒNG 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/0f/e9/940fe9d6-449c-8d69-dd7c-f00f09f92e7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UM1OBhJ)
 
 - **BeeBettor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/91/b4/f891b43c-35cc-fe1e-ca92-0579c9d1fc2c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zfcHfgK4)
@@ -119,7 +116,6 @@
 - **Unlimited Math Problems**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/d7/62/69d76295-4b40-d4fa-1b07-8ee0dfa7991c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BWGOgHoe)
 - **Duet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/42/82/0a428213-1ce5-9af0-998c-d5ee2c99671a/AppIcon-0-0-1x_U007ephone-0-0-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ltKGGLIf)
 
-- **Fuse - Solana Smart Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/63/7b/36637b06-df44-2297-5de6-537d25ce230e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sQkNVD2s)
 - **Spatial Poker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/fb/18/54fb1887-4d79-2190-7b97-07fb900ce701/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/98oLRPmW)
 
 - **XCREAM Mobile Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/b8/9a/ecb89a69-ace4-3638-2f7b-a84b2a6c36c0/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WLIVK67s)
@@ -140,7 +136,6 @@
 - **Turrit -Messenger For Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/0f/f6/640ff691-a329-2563-eba1-6a40ca8293bd/AppIconLLC-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/e1v9O7jC)
 - **Fanttik Cam**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/8c/cd/608ccd28-09a5-f1da-0d37-6e299aaddb45/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p1oFKizk)
 
-- **MatchTV HH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d2/d0/3dd2d01c-940f-b0b4-e9df-832192fd6c56/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lHsRDyGM)
 
 - **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
 
