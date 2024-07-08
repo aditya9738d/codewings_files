@@ -1,3 +1,7 @@
+- **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
+- **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/cb/99/8acb9971-0c49-b2c4-b363-ca24e2d611aa/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
+- **big days: instant cards & more**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/c0/72/0ac072c2-15fc-41bc-fade-7a5e2fde6b94/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wKY4eYV8)
+
 - **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/5d/5d/735d5dee-3fcc-a3d5-f095-dca3e3cf2b03/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
 - **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
 - **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e2/19/3ee21937-86ea-25a7-e1eb-c6882e19e162/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
@@ -94,7 +98,3 @@
 - **IdolGPT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/3c/f2/7b3cf25a-ffbb-9698-872c-6d463c60417e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YLW9JkDB)
 
 - **3NRNE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/11/02/8f1102c5-b6ae-29c5-8634-8feedf206a46/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1rnzWS1)
-- **ImHuman**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/77/90/607790b3-151c-df4d-478e-469013ba4b0f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/enOCyqYv)
-- **TouchTunes: Test the App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/ac/32/c1ac3232-5fdf-1aad-57dc-9625b730077c/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pyUfNHZE)
-
-- **兔呼聊天**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/73/8d/5c738db9-520c-fb70-6b5d-9051af21762d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IglWJfX0)
