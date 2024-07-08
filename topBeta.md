@@ -142,7 +142,6 @@
 - **Fanttik Cam**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/8c/cd/608ccd28-09a5-f1da-0d37-6e299aaddb45/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p1oFKizk)
 
 
-- **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
 
 - **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/83/2c/83832c1e-35c7-3a16-92c3-9b4df3e5d06c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
 - **Up Ahead: Countdown Widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/5e/d6/b45ed638-629a-f5f9-f268-a816d240357f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5mpPV9sf)
@@ -5772,7 +5771,6 @@
 - **GIZI — Website Builder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/7f/d2/377fd23c-f5fa-6dac-bf2c-56c52f89351f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wQFJt5gR)
 - **Vultisig**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/d4/c5/e7d4c5a8-4120-1378-ce39-b9e164598412/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kpVufItl)
 - **Local Time Machine**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/c8/0b/99c80b9e-b702-18cd-f1b2-b27329decc27/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hggKw5cN)
-- **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d8/51/84d851f4-8672-8449-9133-b729efb00277/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
 - **RustDesk Remote Desktop**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/16/ad/6a16ad0b-a562-3882-d601-e1d28085ff81/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KBG9EsZW)
 - **Split - Partager les dépenses**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/0c/3c/d80c3cf2-0ad7-5b5d-d1fc-e0f17b494d40/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RqpzU5oI)
 - **Randonautica**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/47/a8/4b47a896-60fe-d6b7-bc6b-ce69a72d9251/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pyrbvMEz)
@@ -6290,7 +6288,6 @@
 - **the BOSS game 002**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/27/81/6a278139-8ef4-23f4-7c96-8a6880383661/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9NY0ruLR)
 - **Jumbl - Post Together**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/82/52/d28252b6-aec9-1c34-a835-19fe024ee9b0/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UoUiHXqg)
 - **Living Room Lander**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/af/2c/47af2c44-7888-35a1-5e03-1e49a985d7d8/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/9ouXLAfA)
-- **FilamingoTV: for AppleTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/33/b1/c133b1e2-7309-448d-2a3f-56d6aa391128/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/nZNwbMrm)
 - **tableread**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/a4/04/f1a40483-7805-f921-c8a2-74e8e264fb33/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TWtXz2Jy)
 - **UIChat Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/33/db/dc33db96-a46f-82c9-aeae-682b7f69083c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/azxqMhD4)
 - **Facewap: AI Memes with Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/4a/66/db4a666f-9eae-847f-5e12-97b6c76ec264/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bdc62epm)
