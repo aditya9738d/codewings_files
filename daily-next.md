@@ -2,6 +2,10 @@
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 - **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
 
+- **Mit Gomobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d1/8b/46d18b91-11f8-8cf8-e9b4-f31b12641502/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YXGvJsBB)
+- **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
+- **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
+
 - **MOONDROP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/24/41/002441b6-1124-dbff-b098-b632138457d8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jih3rTIP)
 
 - **MEXC-Buy & Sell Bitcoin.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/79/cc/8c79ccb6-ad0c-c329-58bc-ec9f74096925/AppIcon-Blue-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3bAy4iek)
@@ -93,8 +97,3 @@
 
 - **SKYBOX Media Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/24/0e/38240e8d-a448-5020-d995-baa4eb375709/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/g0rbucSJ)
 - **Discover Culture AC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/9d/05/889d0501-0328-3a50-5b49-05baa55d1be2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HzUeAOlz)
-
-- **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/66/f9/db66f944-2219-ff2d-04b3-6710fceaec19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
-
-- **big days: instant cards & more**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/c0/72/0ac072c2-15fc-41bc-fade-7a5e2fde6b94/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wKY4eYV8)
-- **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/6f/26/eb6f2673-bf08-3cef-6830-25175a58e15d/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MLo7cvAp)
