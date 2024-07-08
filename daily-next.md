@@ -1,3 +1,7 @@
+- **Amazon Flex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/eb/b4/dcebb40d-2495-b829-9058-f92b7063f615/AppIcon-1x_U007emarketing-0-5-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/UuNbE9lN)
+- **Haivivi Pal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/5c/7b/485c7bc0-8ed9-a18b-3f35-caf1ed121769/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kWje4YHH)
+- **NiuNiuRocket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/37/de/3837deaa-96ad-8f5c-82f3-613d1918c714/AppIcon-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/O7xiSC2V)
+
 - **FilamingoTV: for AppleTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/33/b1/c133b1e2-7309-448d-2a3f-56d6aa391128/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/nZNwbMrm)
 - **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/66/f9/db66f944-2219-ff2d-04b3-6710fceaec19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
 - **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
@@ -93,8 +97,3 @@
 - **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qNBaEjoz)
 
 - **Auto Reception**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/e4/6b/78e46bf1-5e6e-b7fc-dd8d-86cf5c62058f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VP23baO6)
-
-- **空运通**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/be/6a/6fbe6a13-a794-b357-cc20-293f403157dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JCyfPbqw)
-- **MedAT 2go by MEDBREAKER**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/58/d8/2258d83b-fe36-e039-dc7a-2ab4bae1fb17/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7VXZBG1K)
-
-- **TikTok -Global Video Community**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/e6/eb/dde6eb52-59d0-b031-c62f-38c47a6249ed/AppIcon_TestFlight-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TH2TrW13)
