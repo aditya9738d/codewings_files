@@ -2,9 +2,6 @@
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 - **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
 
-- **Mit Gomobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d1/8b/46d18b91-11f8-8cf8-e9b4-f31b12641502/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YXGvJsBB)
-- **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
-- **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
 
 - **MOONDROP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/24/41/002441b6-1124-dbff-b098-b632138457d8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jih3rTIP)
 
@@ -12,7 +9,6 @@
 
 - **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/5d/5d/735d5dee-3fcc-a3d5-f095-dca3e3cf2b03/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
 
-- **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 - **eParaksts mobile DEMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/13/77/70137768-4e40-ea07-d006-eb4715af9953/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GzmlvtUs)
 
 - **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/a3/4a/63a34af0-aa61-5e5b-8f95-d249c5a0aeb8/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
@@ -118,7 +114,6 @@
 - **OmniFocus 4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/8f/6f/db8f6fc8-4c49-c792-8964-d8c7df169a7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TKbgc273)
 - **Game Ngọc Rồng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/6c/0f/046c0f2b-851d-ba1a-9cf6-70b5eb3b9f97/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Y7vouSCm)
 
-- **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
 - **PlanX Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/8a/54/158a5488-5cbe-e5ca-522c-9a981d3b9203/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ua5LD9o2)
 
 - **sndtv2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/f0/05/8cf00571-5f15-404c-06ff-b23ab8a9558d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPT1jUkd)
@@ -6345,7 +6340,6 @@
 - **CanWe**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/4b/0b/444b0b03-62f5-f298-8fff-2a1fae48d599/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ehPEziAW)
 - **Sourcing**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/07/a5/5b07a582-3de6-41e1-c590-1f96066244fa/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/hwu9lTrS)
 - **SprayCreate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/a9/eb/e2a9eb9e-42b4-9eac-f796-e34b32129a71/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QN9MSiBc)
-- **Mit Gomobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d1/8b/46d18b91-11f8-8cf8-e9b4-f31b12641502/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YXGvJsBB)
 - **3rd Brain | Couples Organizer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/a9/ef/dda9efd7-d3d5-e66c-4f01-bce71aca1c6a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sh57FjoE)
 - **酒小二CTMS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/df/84/eddf845b-605c-10cd-9594-364e8a1e460a/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d56jYkzn)
 - **SIFU Training**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/21/0e/11210e3e-bbd4-5c14-9479-bf7f3146eb43/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/w7fVfSn6)
