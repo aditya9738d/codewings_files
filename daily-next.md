@@ -65,7 +65,6 @@
 
 - **Neuroflexion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/41/e4/a241e45f-9bb7-efd2-878a-17e01516c760/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uZcnIVKY)
 
-- **Võ Lâm Hỏa Long**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9e/6d/d29e6d06-1a63-b404-46c6-63eccfe5fc98/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GM3ZdMKp)
 
 - **TianPlan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ea/3a/5aea3a19-2ea8-c538-64d4-ba3395c15c24/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/94lanw7B)
 
@@ -74,7 +73,6 @@
 
 - **Loopover for iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/b9/37/a3b937be-d19b-507e-341c-d93f0eb1310b/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kLgqbCBJ)
 
-- **Azure VPN Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c5/64/e6c564a2-1252-b8a7-5666-ef90af963d41/AppIcon-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cGUEoTXc)
 
 - **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
 
