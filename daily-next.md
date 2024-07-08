@@ -1,3 +1,5 @@
+- **MEXC-Buy & Sell Bitcoin.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/79/cc/8c79ccb6-ad0c-c329-58bc-ec9f74096925/AppIcon-Blue-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3bAy4iek)
+
 - **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/5d/5d/735d5dee-3fcc-a3d5-f095-dca3e3cf2b03/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
 
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
@@ -96,4 +98,3 @@
 - **Magic Eden Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/83/1d/e7831d0a-c6a8-278f-fe6b-f8aa5ad27946/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j7sCYVZO)
 
 - **DropScout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/a6/74/33a674fe-0709-5233-5c59-2bd17522439d/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/6uY4qRn9)
-- **Nro Euro 2024**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/6b/fc/b56bfc2d-34c7-96bf-593d-bd7abe5e4a13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/St087vb6)
