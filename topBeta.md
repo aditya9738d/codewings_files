@@ -132,8 +132,6 @@
 - **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/b6/7f/2db67f8a-4a56-6de9-5b5d-92cbb991a91a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
 
 - **MatchTV HH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d2/d0/3dd2d01c-940f-b0b4-e9df-832192fd6c56/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lHsRDyGM)
-- **Cascadeur**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/26/54/df26548d-7799-ba97-84a4-1dd87c6aba67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AztZWmuz)
-- **Metaverser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f9/f6/f1f9f60a-edb9-7b87-88c2-6c698a2343c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5ld1oWaN)
 
 - **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
 
@@ -5625,7 +5623,6 @@
 - **易拍全球--商户版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/96/46/90964631-cc92-060b-f19c-562a093baaed/AppIcon-1x_U007emarketing-0-0-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jpPAV7li)
 - **EVnSteven**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/45/c4/5845c42f-ba79-9ea3-e6fd-81debdd1a553/AppIcon-production-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3HurFoSb)
 - **Hami Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/56/e6/e956e60f-5ec6-ee08-3d4b-966e47788d95/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/1wenTU1f)
-- **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
 - **LoFi Cam: Film Digital Camera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/b4/1b/d6b41b09-7c59-f119-9bf6-812a9d416ab6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hUIJ8aAa)
 - **麻布記帳-自動記帳資產管理與收支理財Moneybook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/52/83/e6528349-8bfc-7a44-927f-5fb51d66eac6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jvJ2LVOg)
 - **Ready4Sea: safe boating!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/5d/ea/465deae0-534f-0ae8-0940-abb242ee9d95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cklHSFXd)
