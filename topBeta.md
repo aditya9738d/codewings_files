@@ -1,6 +1,9 @@
 - **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/cb/99/8acb9971-0c49-b2c4-b363-ca24e2d611aa/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
 - **big days: instant cards & more**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/c0/72/0ac072c2-15fc-41bc-fade-7a5e2fde6b94/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wKY4eYV8)
 
+- **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/cb/99/8acb9971-0c49-b2c4-b363-ca24e2d611aa/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
+- **big days: instant cards & more**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/c0/72/0ac072c2-15fc-41bc-fade-7a5e2fde6b94/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wKY4eYV8)
+
 - **Whisper Transcription**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/25/b8/2c25b89b-aaf8-2f12-e1fc-e4ea580e17d9/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/eIfbGHrs)
 - **Ngọc Rồng TD**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/38/56/b33856d0-9fdd-1f85-e0cc-d8c2cf8b8323/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n5WS3aEm)
 - **Tata Motors iRA 2.0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/ba/05/abba0531-9ed9-339d-0d00-3174b693ce12/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JsSSjSEL)
