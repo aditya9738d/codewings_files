@@ -91,7 +91,6 @@
 
 - **Monkey Beach Patrol**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/07/cc/ed07cc97-95cd-4707-a7ad-8c89ca7e3818/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CLWJDc1p)
 
-- **Spinfire Pro 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/32/d5/d732d522-306b-e870-0f53-d77f0d7cd28c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AvVjNsKP)
 - **Kiếm Thế Siêu Nhân Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/4d/14/7c4d149b-040b-b79c-f290-c63915ddb686/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/V6kaSX8v)
 
 - **Checker – Track Anything**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/04/71/c20471da-72e8-f811-c38c-fc34e158fe32/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
@@ -165,7 +164,6 @@
 - **XCREAM Mobile Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/b8/9a/ecb89a69-ace4-3638-2f7b-a84b2a6c36c0/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WLIVK67s)
 - **Extragram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/97/2c/6e972cea-dac4-c739-06e9-13d858930901/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SX6yOBba)
 
-- **OmniFocus 4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/8f/6f/db8f6fc8-4c49-c792-8964-d8c7df169a7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TKbgc273)
 - **Game Ngọc Rồng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/6c/0f/046c0f2b-851d-ba1a-9cf6-70b5eb3b9f97/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Y7vouSCm)
 
 - **PlanX Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/8a/54/158a5488-5cbe-e5ca-522c-9a981d3b9203/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ua5LD9o2)
