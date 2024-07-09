@@ -1,3 +1,5 @@
+- **openHAB V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/5d/90/975d9084-aecd-eca7-2b8f-a16718055d08/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0uFYONeF)
+
 - **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
 - **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/35/81/10358169-0fd5-4d2f-6065-ea4f074d7717/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
 
@@ -95,6 +97,3 @@
 - **Centralimo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/f2/d3/55f2d36c-86e1-4564-ee3c-bb035ef7d0a6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4uancpdF)
 
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
-
-- **Manet Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/af/64/a6af642b-5000-7c8c-1fcd-4dc8b1343d8d/AppIcon.Default-0-1x_U007ephone-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/qwpl4gi4)
-- **BlockDAG X1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/4e/9c/454e9cf1-ab6b-ed06-4200-1556d45d7165/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UklNDHnE)
