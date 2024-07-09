@@ -19,8 +19,6 @@
 - **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/66/f9/db66f944-2219-ff2d-04b3-6710fceaec19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
 - **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
 
-- **Mit Gomobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d1/8b/46d18b91-11f8-8cf8-e9b4-f31b12641502/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YXGvJsBB)
-- **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 - **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
 
 
