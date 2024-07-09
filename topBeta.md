@@ -207,7 +207,6 @@
 
 
 
-- **DiscoverEU Travel App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/44/9a/f9449aa1-acb2-1bd2-58e7-5b0ad2faf686/AppIcon-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/77dSd9sB)
 
 
 - **Homepage for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/57/69/4a57695d-61aa-b15b-4521-8f8869029e74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y7e92WCb)
@@ -6423,7 +6422,6 @@
 - **PMA2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/b2/e3/1db2e3d4-5af5-a909-a335-c55d784dad7a/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wkyFEMg7)
 - **Opera Alive 来戏**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/e3/9e/52e39e5b-ee73-c94a-97e6-c15ee0d202fb/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/TvQrV82s)
 - **Plan Polsl**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/36/ec/e236ec0c-1550-6b36-4558-fbe42df9c142/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Lr1mQrsP)
-- **Habilis - A Skill Marketplace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/f7/80/a4f780e8-cb48-a252-c88a-248575d00af3/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/N2hqdSX7)
 - **flowerpro1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/49/ae/0849aeb4-9112-298a-984e-ff0fa48d75b4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GlQwDCbv)
 - **Zario: App Block & Refocus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/19/4f/d8194fd7-abce-c4e9-f18f-a6572db6efe8/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/UxmHXkVs)
 - **Ramona Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/56/54/00565413-7167-6324-bf8a-3d03f70666cc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9H1feyX1)
