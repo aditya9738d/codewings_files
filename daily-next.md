@@ -8,6 +8,10 @@
 
 - **MobileCPM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/27/0a/a0270a58-7bff-826c-5a66-2c39cec4cc7d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dJt5vfOZ)
 - **Acing Reaction**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/db/7b/eedb7b30-861c-12c9-1b92-a0098e07d29b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/7QQDM4ho)
+- **Fuse - Solana Smart Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/10/39/351039d3-d6b7-83f1-6b28-d9cb8693d3c3/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sQkNVD2s)
+
+- **MobileCPM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/27/0a/a0270a58-7bff-826c-5a66-2c39cec4cc7d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dJt5vfOZ)
+- **Acing Reaction**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/db/7b/eedb7b30-861c-12c9-1b92-a0098e07d29b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/7QQDM4ho)
 - **Fuse - Solana Smart Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/66/7d/33667d6f-9c11-174e-c529-7cddf349b134/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sQkNVD2s)
 
 - **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
@@ -93,8 +97,3 @@
 - **Working Copy - Git client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/04/b7/ac04b7be-24a6-27fb-cba2-2c3e6d876d42/Regular-Icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jWRvinra)
 
 - **DiscoverEU Travel App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/a3/6e/57a36e19-9f6d-8f2a-3320-2e7dc507f494/AppIcon-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/77dSd9sB)
-
-- **NRO by ixxc 07**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9c/df/f19cdfb4-04bc-924b-bd84-68ae635163f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UmfiVbDk)
-
-
-- **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
