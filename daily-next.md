@@ -1,3 +1,7 @@
+- **Whisper Transcription**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/25/b8/2c25b89b-aaf8-2f12-e1fc-e4ea580e17d9/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/eIfbGHrs)
+- **Ngọc Rồng TD**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/38/56/b33856d0-9fdd-1f85-e0cc-d8c2cf8b8323/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n5WS3aEm)
+- **Tata Motors iRA 2.0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/ba/05/abba0531-9ed9-339d-0d00-3174b693ce12/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JsSSjSEL)
+
 - **openHAB V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/5d/90/975d9084-aecd-eca7-2b8f-a16718055d08/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0uFYONeF)
 
 - **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
@@ -94,5 +98,3 @@
 - **趣语 | 快乐的知识宝库**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/aa/c9/f5aac982-afed-99b7-a77d-b34cce2735b4/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UBq9n2PF)
 
 - **Centralimo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/f2/d3/55f2d36c-86e1-4564-ee3c-bb035ef7d0a6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4uancpdF)
-
-- **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
