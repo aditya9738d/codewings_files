@@ -1,4 +1,7 @@
 - **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/5d/5d/735d5dee-3fcc-a3d5-f095-dca3e3cf2b03/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
+- **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
+
+- **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/5d/5d/735d5dee-3fcc-a3d5-f095-dca3e3cf2b03/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
 - **Ticci Tabs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/15/36/b7153655-246a-4abf-c3e8-543f720da883/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8ZVI98w)
 - **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
 
