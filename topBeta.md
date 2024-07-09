@@ -83,7 +83,6 @@
 - **Loopover for iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/b9/37/a3b937be-d19b-507e-341c-d93f0eb1310b/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kLgqbCBJ)
 
 
-- **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
 
 - **趣语 | 快乐的知识宝库**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/aa/c9/f5aac982-afed-99b7-a77d-b34cce2735b4/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UBq9n2PF)
 
@@ -6810,7 +6809,6 @@
 - **Laxt Time**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/31/10/2f31101b-ce26-ba9c-d9e5-8bdb75bd1cf4/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/e4b9UDfM)
 - **Neboe**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/57/46/3457463c-8b8b-5218-02b2-d73c9cd4184f/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VfD0t0P7)
 - **Phantom Dodger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/0e/4b/6b0e4b50-25b4-2a62-b5f9-ec9f7e2ac6ac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rrhBbPje)
-- **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/35/81/10358169-0fd5-4d2f-6065-ea4f074d7717/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
 - **Otrading**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/df/3f/a6df3f82-0f91-4fd0-dc0e-faac3467d980/AppIconOttrading-0-0-1x_U007ephone-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/onBupwDI)
 - **Orifun**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/8c/5f/348c5ff7-d00e-aad7-bb4d-ea1fd9a0eb0c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h47JlX1p)
 - **TPL_ABT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/e5/45/9de54594-6a8c-a850-29a2-5104d8be996e/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/UOOwkKVy)
