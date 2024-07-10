@@ -1,6 +1,9 @@
 - **Otter Log Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/d3/16/d6d316a1-dc34-f337-7082-b3e6be16c62e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/erT44PiT)
 - **MatchTV HH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d2/d0/3dd2d01c-940f-b0b4-e9df-832192fd6c56/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lHsRDyGM)
 
+- **Otter Log Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/d3/16/d6d316a1-dc34-f337-7082-b3e6be16c62e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/erT44PiT)
+- **MatchTV HH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d2/d0/3dd2d01c-940f-b0b4-e9df-832192fd6c56/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lHsRDyGM)
+
 - **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
 - **Ask TomBot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/92/50/4192508e-6de0-82a2-9dbb-2ae7111d19d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MgojDEG2)
 - **Superwall**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/69/b3/0a69b333-00a4-971e-2732-e683b1c0b3e2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ubTDsAXA)
@@ -95,5 +98,3 @@
 - **iFBAs - Arcade Emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/b8/64/bcb86423-e902-b29c-5982-63bfdab4540a/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dniZDbAF)
 - **Spinfire Pro 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/32/d5/d732d522-306b-e870-0f53-d77f0d7cd28c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AvVjNsKP)
 - **OmniFocus 4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/8f/6f/db8f6fc8-4c49-c792-8964-d8c7df169a7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TKbgc273)
-
-- **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
