@@ -90,8 +90,6 @@
 - **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
 - **Amazon Flex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/eb/b4/dcebb40d-2495-b829-9058-f92b7063f615/AppIcon-1x_U007emarketing-0-5-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/UuNbE9lN)
 
-- **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
-
 - **NgọcRồngGoHan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/84/6a/13846a40-02a6-e98f-3d50-a9b8ac8f09fd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kfGbDiKe)
 
 - **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
@@ -114,7 +112,6 @@
 
 - **SKYBOX Media Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/24/0e/38240e8d-a448-5020-d995-baa4eb375709/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/g0rbucSJ)
 
-- **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/5d/5d/735d5dee-3fcc-a3d5-f095-dca3e3cf2b03/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
 - **Ticci Tabs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/15/36/b7153655-246a-4abf-c3e8-543f720da883/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8ZVI98w)
 
 - **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
@@ -133,7 +130,6 @@
 - **NiuNiuRocket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/37/de/3837deaa-96ad-8f5c-82f3-613d1918c714/AppIcon-1x_U007ephone-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/O7xiSC2V)
 
 - **Võ Lâm Hỏa Long**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9e/6d/d29e6d06-1a63-b404-46c6-63eccfe5fc98/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GM3ZdMKp)
-- **Azure VPN Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c5/64/e6c564a2-1252-b8a7-5666-ef90af963d41/AppIcon-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cGUEoTXc)
 
 - **Cascadeur**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/26/54/df26548d-7799-ba97-84a4-1dd87c6aba67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AztZWmuz)
 
