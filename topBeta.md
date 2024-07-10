@@ -4,7 +4,6 @@
 - **Otter Log Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/d3/16/d6d316a1-dc34-f337-7082-b3e6be16c62e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/erT44PiT)
 - **MatchTV HH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d2/d0/3dd2d01c-940f-b0b4-e9df-832192fd6c56/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lHsRDyGM)
 
-- **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
 - **Ask TomBot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/92/50/4192508e-6de0-82a2-9dbb-2ae7111d19d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MgojDEG2)
 - **Superwall**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/69/b3/0a69b333-00a4-971e-2732-e683b1c0b3e2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ubTDsAXA)
 - **給食もぐもぐ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/1c/95/381c95e3-3195-db14-83c6-af0032366a99/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yvWXFdSL)
@@ -529,7 +528,6 @@
 - **MCIC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/ac/25/18ac2561-a9ae-2804-8eab-d4c88cb8830e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AjsuaKi4)
 - **Billanted**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/0f/28/ba0f28e1-0b58-0d9e-852c-51eb2ba76d4e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5pOmHYwx)
 - **百度地图-路线规划,出行必备**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/00/c7/b600c7e5-1b9b-1fb4-d185-14e403ce3525/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WjgWQPVG)
-- **PSX City Guide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/0f/87/860f8773-61bb-333f-d57d-6cbe2ff16595/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/n1u9hiZJ)
 - **BeatBridge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/f4/4a/47f44a4c-0c08-a54b-365c-7345b26251b1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JSaQ32JQ)
 - **Pool Office Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/0d/ec/510dec46-4273-591f-0791-22195afeb6bd/AppIcon-1x_U007epad-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9Y5ULDg9)
 - **Tranquil Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/e7/08/9fe7081c-edb9-c84a-1daa-2a3d6d9256f4/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UhQb2QKl)
