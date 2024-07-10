@@ -103,7 +103,6 @@
 
 
 - **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
-- **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/35/81/10358169-0fd5-4d2f-6065-ea4f074d7717/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
 
 
 - **TV Timor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/90/0e/ce900ef3-48a6-8df7-9cff-3ba40a918bad/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b765ofWI)
@@ -732,7 +731,6 @@
 - **Surround - Online Go client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/75/45/03754571-4ac2-a429-f29e-a7dcb74098e0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2JHF5Zut)
 - **Phần mềm quản lý cầm đồ Morman**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/1d/b8/8d1db86f-0e36-d30f-5af9-90b0e94135fb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Qhj8cj6r)
 - **DNB Mobile Bank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/88/bc/fd88bc2b-128a-d412-935b-3166dabae5d5/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JofD99Fe)
-- **Me&Meo: Bé Mèo Của Tôi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/ee/24/8fee247f-52ac-e27f-4eab-09fa9ebdb7a6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZgHJJSo9)
 - **HamHub-你的私人云影专家**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/22/44/c12244c8-9085-98ef-1a2c-7d3e38dfb5fd/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/TpISLUBe)
 - **CGTN - China Global TV Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/87/fb/0087fbca-cb9a-f12a-7b9a-1719d8abc885/GoldIcon-0-1x_U007epad-0-10-0-sRGB-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GFnsprQf)
 - **QuickPing VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/1c/7b/3c1c7b6a-2785-2b4b-1eba-63978d8b8e76/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Dpy0Z22)
