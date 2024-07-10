@@ -57,7 +57,6 @@
 
 - **WINSTAR BGMI 171**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/2c/ad/a32cadea-6726-84db-126b-e7e63408103d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
 
-- **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/cb/99/8acb9971-0c49-b2c4-b363-ca24e2d611aa/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
 
 
 - **Sơn Thủy Phân Tranh 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/f0/f7/6df0f781-4221-a424-51d0-1238bb01b989/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pznp1xjN)
@@ -331,7 +330,6 @@
 - **Bybit: Buy & Trade Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/49/2b/c6492b76-78f3-ba5d-4423-1e968442d9bb/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/knS01Fqz)
 - **GeoQuestAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/3b/74/0b3b7425-99cc-d4df-98cd-01955e06a400/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Aqpi4Ote)
 - **伊家人-来伊份的办公工具**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/8c/11/a68c119c-2338-a295-9d9f-d52929319cbf/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hvPJRrAO)
-- **影猫**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/17/5c/5b175cd3-dc4e-2a19-4a6b-dd805ea7a3d7/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xDTUQA3q)
 - **EVNHN KD**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/2b/a1/862ba12b-9b49-062d-a53c-6e1eb5afb5bb/AppIcon-2-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U1KPF24G)
 - **MRFMultiRatingFeedback**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/49/86/934986b8-9d5c-7a79-e5a2-a4f8872c07b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IJer4l1F)
 - **Dumble: Fitness Challenge App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/f7/01/0af701d1-badf-fc66-b5a1-8ba114f5898a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0ZjZuxJw)
