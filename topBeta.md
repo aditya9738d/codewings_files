@@ -1,3 +1,6 @@
+- **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
+- **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/eb/5f/2feb5f89-d326-4544-b488-795ba2fe3229/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
+
 - **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
 
 - **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
