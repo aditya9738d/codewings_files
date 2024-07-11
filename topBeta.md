@@ -118,11 +118,8 @@
 
 - **iFBAs - Arcade Emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/b8/64/bcb86423-e902-b29c-5982-63bfdab4540a/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dniZDbAF)
 - **Spinfire Pro 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/32/d5/d732d522-306b-e870-0f53-d77f0d7cd28c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AvVjNsKP)
-- **OmniFocus 4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/8f/6f/db8f6fc8-4c49-c792-8964-d8c7df169a7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TKbgc273)
 
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
-
-- **SKYBOX Media Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/24/0e/38240e8d-a448-5020-d995-baa4eb375709/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/g0rbucSJ)
 
 - **Ticci Tabs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/15/36/b7153655-246a-4abf-c3e8-543f720da883/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8ZVI98w)
 
@@ -6653,7 +6650,6 @@
 - **MyBayshoreCare Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/f6/a6/2ef6a6bd-8d8f-0267-87bd-14d262e8b9c4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lLmQU5OO)
 - **MotoWeek**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/a3/e9/d5a3e955-3e39-122e-f80a-ee3d862d07b1/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/GqtAtfQu)
 - **SNS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/53/a0/b653a02b-7a32-e01b-4a80-fd136583dca9/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rgQBz7Fo)
-- **DMSS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/ea/85/79ea856b-d421-c921-f4f9-c9d1701e6e89/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XSkgkfNY)
 - **ARCON Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/f7/ed/4bf7ed75-469a-cee0-63f4-f2332459f5d3/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ywbUUHaq)
 - **Context by Fulcra**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/80/28/508028fd-e0a3-bde9-2d5e-abc5ec3e7b4a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cA8y26tc)
 - **Chompy Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ef/e2/75efe2d6-1cbd-6dca-ef35-e942b3936b73/AppIcon-prod-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IjBgiYaz)
