@@ -1,6 +1,3 @@
-- **Habilis - A Skill Marketplace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/f7/80/a4f780e8-cb48-a252-c88a-248575d00af3/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/N2hqdSX7)
-- **DiscoverEU Travel App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/66/88/5566885c-9da8-5859-7cfd-662615c6634d/AppIcon-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/77dSd9sB)
-
 - **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/66/f9/db66f944-2219-ff2d-04b3-6710fceaec19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
 - **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
 - **Amazon Flex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/eb/b4/dcebb40d-2495-b829-9058-f92b7063f615/AppIcon-1x_U007emarketing-0-5-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/UuNbE9lN)
@@ -98,3 +95,6 @@
 - **PandemicWarrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/84/ed/a784ed31-d5cb-55ba-3157-fd85354e466d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/HowEj7Nf)
 - **Hunters On-Chain**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/3c/f0/ae3cf0b6-82cc-da68-8cb7-6deeb7f8ac67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mnB642dv)
 - **Shadow Node Lite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/1d/7e/841d7e67-a1d3-04e6-6491-bbd0afb693b2/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lOfDBfgw)
+- **Bitmama**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/53/ac/3c53ac97-f2d8-17ca-5eb5-1bd91d936a00/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Je79ts5N)
+- **Unstoppable Crypto Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/f7/d8/d0f7d814-183d-2f08-2ab2-7bee5123069d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JaKdKPY5)
+- **GainFi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/e7/d9/31e7d9a7-31e8-9f12-9ed7-c5e7b1934aea/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UZgGeHqy)
