@@ -154,8 +154,6 @@
 
 - **eParaksts mobile DEMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/13/77/70137768-4e40-ea07-d006-eb4715af9953/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GzmlvtUs)
 
-- **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/a3/4a/63a34af0-aa61-5e5b-8f95-d249c5a0aeb8/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
-
 - **Kiếm Thế Siêu Nhân Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/4d/14/7c4d149b-040b-b79c-f290-c63915ddb686/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/V6kaSX8v)
 
 - **Checker – Track Anything**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/04/71/c20471da-72e8-f811-c38c-fc34e158fe32/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
@@ -669,7 +667,6 @@
 - **Hangout FM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/d8/30/c2d830cc-0cc3-de6a-f178-6f8fc4f4bfcc/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dYH065pO)
 - **HBL Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/f1/a6/baf1a6ab-2916-d1bd-52da-95aab680c12a/AppIcon-1x_U007emarketing-0-9-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/i27gQpa8)
 - **Keyboard Shortcuts - OneTap**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/67/4c/14674ca8-22a1-4161-c72e-83834ba0e83d/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/zEo7CayM)
-- **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/4b/24804b6c-6a1e-7418-3acf-92813d511521/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iripc95t)
 - **Mittrades**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/50/73/585073c8-48c0-6b7e-3161-3e7d32518a8d/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9BavDeze)
 - **WinZO: Solitaire & Money Games**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/72/bd/5b72bd96-65fd-9b2c-aa1b-52269514aa18/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hDiCEVhz)
 - **Jim's Calorie Counter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/52/94/325294a0-af35-b746-90de-203ff45bc5dc/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jeJhdDVC)
