@@ -1,3 +1,7 @@
+- **Haivivi Pal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/e3/ee/9de3eeaf-4d07-aed4-a086-5858d5fe5602/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kWje4YHH)
+- **NROXANH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/dc/8a/4cdc8a55-ea89-4bc1-d6ba-b652e48fc364/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/deyjeYPQ)
+- **MatchTV HH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d2/d0/3dd2d01c-940f-b0b4-e9df-832192fd6c56/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lHsRDyGM)
+
 - **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/cb/99/8acb9971-0c49-b2c4-b363-ca24e2d611aa/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
 
 - **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
@@ -93,5 +97,3 @@
 - **NgọcRồngGoHan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/84/6a/13846a40-02a6-e98f-3d50-a9b8ac8f09fd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kfGbDiKe)
 
 - **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
-
-- **WINSTAR BGMI 171**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/2c/ad/a32cadea-6726-84db-126b-e7e63408103d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
