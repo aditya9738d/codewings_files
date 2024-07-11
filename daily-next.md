@@ -57,8 +57,6 @@
 - **Sơn Thủy Phân Tranh 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/f0/f7/6df0f781-4221-a424-51d0-1238bb01b989/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pznp1xjN)
 - **Bondee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/a5/25/34a5251a-b623-837e-1b85-6661d1a0c071/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mBfhDmZQ)
 
-- **Fuse - Solana Smart Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/10/39/351039d3-d6b7-83f1-6b28-d9cb8693d3c3/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sQkNVD2s)
-
 - **Otter Log Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/d3/16/d6d316a1-dc34-f337-7082-b3e6be16c62e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/erT44PiT)
 
 - **Ask TomBot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/92/50/4192508e-6de0-82a2-9dbb-2ae7111d19d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MgojDEG2)
