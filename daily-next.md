@@ -1,3 +1,6 @@
+- **Auto Reception**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/e4/6b/78e46bf1-5e6e-b7fc-dd8d-86cf5c62058f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VP23baO6)
+- **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
+
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
 - **Auto Reception**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/e4/6b/78e46bf1-5e6e-b7fc-dd8d-86cf5c62058f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VP23baO6)
 - **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
@@ -95,6 +98,3 @@
 - **Burnt Fry**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/9f/0b/aa9f0b4f-d8af-4733-347f-288d7f0396f5/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/2qf4qvjw)
 - **Freebox Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/d3/db/f4d3db19-3db8-1528-fa3a-9ec7317d7354/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bxifCoxH)
 - **Twilight Flyer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/0a/a7/240aa761-2667-4102-c604-f85cccd96ade/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nHsUQbx1)
-- **AIHA Heat Stress**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a6/46/56a646b1-249f-7748-39a5-6d5196f33c2f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Pq0XP4Io?utm_source=twitter&utm_medium=social&utm_term=AIHA+Main)
-- **TiTi App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/b6/a4/92b6a44b-1a42-c658-8db7-64097f12bb4b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NeXUqMRv)
-- **Legend of Arcadia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/f9/7d/d8f97db6-0362-e042-9176-ed6701eacdd2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/G7O14h4N)
