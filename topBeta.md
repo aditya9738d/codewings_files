@@ -107,7 +107,6 @@
 
 - **Ly Hour Insurance Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/32/27/ae3227aa-6fbb-454f-67a3-2a63fae9e900/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PFVvsfpS)
 
-- **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
 - **MobileCPM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/27/0a/a0270a58-7bff-826c-5a66-2c39cec4cc7d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dJt5vfOZ)
 
 - **Habilis - A Skill Marketplace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/f7/80/a4f780e8-cb48-a252-c88a-248575d00af3/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/N2hqdSX7)
@@ -154,8 +153,6 @@
 - **Working Copy - Git client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/04/b7/ac04b7be-24a6-27fb-cba2-2c3e6d876d42/Regular-Icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jWRvinra)
 
 - **NRO by ixxc 07**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9c/df/f19cdfb4-04bc-924b-bd84-68ae635163f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UmfiVbDk)
-
-- **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
 
 - **Neuroflexion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/41/e4/a241e45f-9bb7-efd2-878a-17e01516c760/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uZcnIVKY)
 
