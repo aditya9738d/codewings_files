@@ -29,8 +29,6 @@
 - **Metaverser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f9/f6/f1f9f60a-edb9-7b87-88c2-6c698a2343c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5ld1oWaN)
 - **Monkey Beach Patrol**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/07/cc/ed07cc97-95cd-4707-a7ad-8c89ca7e3818/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CLWJDc1p)
 
-- **Habilis - A Skill Marketplace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/f7/80/a4f780e8-cb48-a252-c88a-248575d00af3/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/N2hqdSX7)
-- **DiscoverEU Travel App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/a3/6e/57a36e19-9f6d-8f2a-3320-2e7dc507f494/AppIcon-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/77dSd9sB)
 - **המתעדת - ישראל**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/f7/c6/cdf7c62f-bf7f-c9da-bbfd-72d0b54e9586/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/trrsdqcS)
 
 - **Yellow Click - A Click Counter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/06/00/4106001c-9711-6514-65cf-f60f8a2ff105/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/N9wigfoi)
