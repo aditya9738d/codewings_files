@@ -62,8 +62,6 @@
 - **Sơn Thủy Phân Tranh 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/f0/f7/6df0f781-4221-a424-51d0-1238bb01b989/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pznp1xjN)
 - **Bondee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/a5/25/34a5251a-b623-837e-1b85-6661d1a0c071/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mBfhDmZQ)
 
-- **Fuse - Solana Smart Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/10/39/351039d3-d6b7-83f1-6b28-d9cb8693d3c3/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sQkNVD2s)
-
 - **Otter Log Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/d3/16/d6d316a1-dc34-f337-7082-b3e6be16c62e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/erT44PiT)
 
 - **Ask TomBot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/92/50/4192508e-6de0-82a2-9dbb-2ae7111d19d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MgojDEG2)
@@ -117,9 +115,6 @@
 
 - **FilamingoTV: for AppleTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/33/b1/c133b1e2-7309-448d-2a3f-56d6aa391128/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/nZNwbMrm)
 - **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/66/f9/db66f944-2219-ff2d-04b3-6710fceaec19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
-
-- **Spatial Poker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/c5/d5/e7c5d5c9-4980-eeda-85d1-956d8f160c36/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/98oLRPmW)
-- **Mit Gomobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d1/8b/46d18b91-11f8-8cf8-e9b4-f31b12641502/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YXGvJsBB)
 
 - **openHAB V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/5d/90/975d9084-aecd-eca7-2b8f-a16718055d08/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0uFYONeF)
 
