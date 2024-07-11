@@ -1,7 +1,3 @@
-- **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
-- **DrukVKL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e5/5f/c8e55ffa-4e3a-106e-6339-5938ee953e1c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1lxwtFjc)
-- **Acing Reaction**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/db/7b/eedb7b30-861c-12c9-1b92-a0098e07d29b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/7QQDM4ho)
-
 - **Auto Reception**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/e4/6b/78e46bf1-5e6e-b7fc-dd8d-86cf5c62058f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VP23baO6)
 - **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
 
@@ -98,3 +94,5 @@
 - **cluu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/e5/59/51e55936-d95d-2b69-8d91-16bdfa637441/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2BOZkk0U)
 - **Joj: Spatial Rooms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/dc/26/5fdc26c2-54eb-c788-af35-52e78165e228/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/F57E4Yd7)
 - **Burnt Fry**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/9f/0b/aa9f0b4f-d8af-4733-347f-288d7f0396f5/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/2qf4qvjw)
+- **Freebox Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/d3/db/f4d3db19-3db8-1528-fa3a-9ec7317d7354/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bxifCoxH)
+- **Twilight Flyer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/0a/a7/240aa761-2667-4102-c604-f85cccd96ade/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nHsUQbx1)
