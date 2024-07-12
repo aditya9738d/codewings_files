@@ -24,9 +24,6 @@
 - **NRO by ixxc 07**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9c/df/f19cdfb4-04bc-924b-bd84-68ae635163f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UmfiVbDk)
 - **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
 
-- **Habilis - A Skill Marketplace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/f7/80/a4f780e8-cb48-a252-c88a-248575d00af3/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/N2hqdSX7)
-- **DiscoverEU Travel App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/66/88/5566885c-9da8-5859-7cfd-662615c6634d/AppIcon-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/77dSd9sB)
-
 - **Gooobet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/0d/11/c60d114c-9c21-c8f8-a714-bdbf1c577924/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D748X15c)
 
 - **Zimam Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/fd/d5/5dfdd5b5-5c2c-8e36-0886-2a215e44e0c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JgT67X6A)
@@ -37,7 +34,6 @@
 - **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/02/65/df026528-0963-f35d-114b-04ddc4f95847/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
 - **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/4b/24804b6c-6a1e-7418-3acf-92813d511521/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iripc95t)
 
-- **Võ Lâm Hỏa Long**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9e/6d/d29e6d06-1a63-b404-46c6-63eccfe5fc98/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GM3ZdMKp)
 - **Azure VPN Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c5/64/e6c564a2-1252-b8a7-5666-ef90af963d41/AppIcon-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cGUEoTXc)
 - **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/5d/5d/735d5dee-3fcc-a3d5-f095-dca3e3cf2b03/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
 
