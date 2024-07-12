@@ -42,9 +42,6 @@
 
 - **NRO by ixxc 08**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/94/ae/1894aec7-fda4-a6f6-d22b-a20a4d120b33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZXvpqqHP)
 
-- **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/02/65/df026528-0963-f35d-114b-04ddc4f95847/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
-- **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/4b/24804b6c-6a1e-7418-3acf-92813d511521/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iripc95t)
-
 - **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
 - **DrukVKL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/e5/5f/c8e55ffa-4e3a-106e-6339-5938ee953e1c/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1lxwtFjc)
 - **Acing Reaction**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/db/7b/eedb7b30-861c-12c9-1b92-a0098e07d29b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/7QQDM4ho)
