@@ -1,3 +1,7 @@
+- **Zimam Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/fd/d5/5dfdd5b5-5c2c-8e36-0886-2a215e44e0c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JgT67X6A)
+- **Escape Platforms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/ac/72/3bac7234-82bc-b926-b8d6-e6a24294bb4e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/WSoYepe7)
+- **DMSS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/ea/85/79ea856b-d421-c921-f4f9-c9d1701e6e89/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XSkgkfNY)
+
 - **MatchTV HH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d2/d0/3dd2d01c-940f-b0b4-e9df-832192fd6c56/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lHsRDyGM)
 
 - **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/02/65/df026528-0963-f35d-114b-04ddc4f95847/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
@@ -94,4 +98,3 @@
 - **Hoioi - Translator for Expats**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/42/f2/8542f233-2552-2c40-fb49-adc3afc7c526/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/GBxPMw2h)
 - **LeveX: Trade & Level Up Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/3e/bf/c93ebf09-277c-65d3-f275-3ca548ebac11/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qbScw4YJ)
 - **転送絶一門**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/9b/d1/929bd159-de12-152d-c12e-e9177cf8eceb/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ue13ELa4)
-- **Xstro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/84/0b/b5840bea-c232-555d-fd16-5308a226c0d8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Mzn3JLF)
