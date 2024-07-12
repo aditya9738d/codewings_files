@@ -1,3 +1,6 @@
+- **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
+- **Metaverser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f9/f6/f1f9f60a-edb9-7b87-88c2-6c698a2343c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5ld1oWaN)
+
 - **NRO by ixxc 07**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9c/df/f19cdfb4-04bc-924b-bd84-68ae635163f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UmfiVbDk)
 - **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
 - **Metaverser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f9/f6/f1f9f60a-edb9-7b87-88c2-6c698a2343c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5ld1oWaN)
@@ -95,4 +98,3 @@
 - **Microsoft 365 (Office)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/4a/51/3c4a51c0-5f37-0170-3f0d-578de7474740/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eHAKJBtM)
 - **Lunch: Let's Grab Lunch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/a9/11/c6a911a5-0165-e3c5-b21e-4b5578e0c58f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TXiRrJ2e)
 - **Glittering**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/ae/6c/b7ae6ced-aaf3-e8bb-ed17-a35247d73707/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nLJiwThp)
-- **ALVR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/c5/8f/7fc58f7d-fdfa-03c1-9af1-dc85b9ad9113/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/YoK2nuX6)
