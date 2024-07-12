@@ -1,3 +1,6 @@
+- **Gooobet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/0d/11/c60d114c-9c21-c8f8-a714-bdbf1c577924/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D748X15c)
+- **无聊Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/28/02/cb280247-e083-5188-122c-5d7006a17df7/WuLiaoAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fPeg8xFZ)
+
 - **DMSS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/ea/85/79ea856b-d421-c921-f4f9-c9d1701e6e89/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XSkgkfNY)
 
 - **Zimam Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/fd/d5/5dfdd5b5-5c2c-8e36-0886-2a215e44e0c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JgT67X6A)
