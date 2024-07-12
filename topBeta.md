@@ -23,7 +23,6 @@
 
 - **Monkey Beach Patrol**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/07/cc/ed07cc97-95cd-4707-a7ad-8c89ca7e3818/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CLWJDc1p)
 
-- **DMSS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/ea/85/79ea856b-d421-c921-f4f9-c9d1701e6e89/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XSkgkfNY)
 - **SKYBOX Media Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/8c/77/968c77bd-8f42-a262-99f6-01ebd574e927/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/g0rbucSJ)
 
 - **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/cb/99/8acb9971-0c49-b2c4-b363-ca24e2d611aa/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
@@ -208,8 +207,6 @@
 - **Nro Euro 2024**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/6b/fc/b56bfc2d-34c7-96bf-593d-bd7abe5e4a13/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/St087vb6)
 
 - **CHÚ BÉ RỒNG 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/0f/e9/940fe9d6-449c-8d69-dd7c-f00f09f92e7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UM1OBhJ)
-
-- **Zimam Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/fd/d5/5dfdd5b5-5c2c-8e36-0886-2a215e44e0c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JgT67X6A)
 
 - **NRO ĐẠI CHIẾN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/eb/bf/58ebbfc9-3906-9eaf-4b11-cf23c7139ac5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/765dEa3i)
 
@@ -551,7 +548,6 @@
 - **直达国际**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/92/ab/5192ab41-3959-e234-9d7f-7ee8a2e891d8/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2KKTsOZz)
 - **Lokaa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/0b/7e/280b7ef0-dfca-a8fc-4077-0d596acb713b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OFsRz6gy)
 - **Bull's Eye - 5 minutes game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/5e/06/4a5e06dc-210d-4223-225d-e90ae2777845/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NTlFIloZ)
-- **Escape Platforms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/ac/72/3bac7234-82bc-b926-b8d6-e6a24294bb4e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/WSoYepe7)
 - **UCCU Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/34/b2/5d34b287-de2a-2f37-a6a4-4d1fc8e8da0e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BaQ2LFhR)
 - **ASIAIR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/2b/43/9c2b431c-c977-14a0-1943-24082577f2f8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tOZzJXDE)
 - **AFSCME 387**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/5d/4d/b05d4d73-289c-4413-e441-2f6d3973a844/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/0ZPYGVAl)
