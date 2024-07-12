@@ -148,9 +148,6 @@
 
 - **MobileCPM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/27/0a/a0270a58-7bff-826c-5a66-2c39cec4cc7d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dJt5vfOZ)
 
-- **iFBAs - Arcade Emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/b8/64/bcb86423-e902-b29c-5982-63bfdab4540a/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dniZDbAF)
-- **Spinfire Pro 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/32/d5/d732d522-306b-e870-0f53-d77f0d7cd28c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AvVjNsKP)
-
 - **Ticci Tabs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/15/36/b7153655-246a-4abf-c3e8-543f720da883/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8ZVI98w)
 
 - **big days: instant cards & more**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/c0/72/0ac072c2-15fc-41bc-fade-7a5e2fde6b94/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wKY4eYV8)
@@ -6460,7 +6457,6 @@
 - **Lang La Thuc Tinh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/ff/e9/a5ffe991-301f-46d3-41b5-b37567ae4a33/AppIcon-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OWfIX2X4)
 - **FiveNotes Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/db/15/56db15de-9bfd-3562-e8f3-44256c5e3552/AppIcon_Beta-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RWV1Cq80)
 - **Kikoeru**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/6c/65/126c65de-70a4-09e0-e562-da860f617c66/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zh9mreFq)
-- **Nearest Color**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/16/27/74162755-0ca5-fe67-bd0e-0c3d3ecfb67b/icon.png/200x200bb-80.png)](https://testflight.apple.com/join/XSTycxqX)
 - **银魂集结**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/df/80/b6df8002-34d0-3dfd-5998-58352d718b75/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BsxGxEsz)
 - **Webull - US Stocks & Options**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/50/a7/bc50a754-09fe-6154-f332-02b6e201ca81/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/umWQoHu1)
 - **i小康dat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/99/0b/79990bb6-9420-54c4-63f7-84c7b5d65681/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ajFiTw2s)
