@@ -55,7 +55,6 @@
 
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
 
-- **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/eb/5f/2feb5f89-d326-4544-b488-795ba2fe3229/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
 - **Me&Meo: Bé Mèo Của Tôi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/ee/24/8fee247f-52ac-e27f-4eab-09fa9ebdb7a6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZgHJJSo9)
 
 - **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
@@ -63,8 +62,6 @@
 - **Acing Reaction**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/db/7b/eedb7b30-861c-12c9-1b92-a0098e07d29b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/7QQDM4ho)
 
 - **OmniFocus 4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/8f/6f/db8f6fc8-4c49-c792-8964-d8c7df169a7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TKbgc273)
-
-- **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
 
 - **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
 
