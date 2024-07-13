@@ -7,7 +7,6 @@
 - **FilamingoTV: for AppleTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/33/b1/c133b1e2-7309-448d-2a3f-56d6aa391128/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/nZNwbMrm)
 
 - **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
-- **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
 
 - **Nearby AI - GPT 4 Prompts Omni**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f7/1e/42f71ec2-bfb5-9e9b-83c6-8b3572a73dcd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xHGrkViR)
 - **BoldSign: Sign Docs & Request**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/64/6f/76646f35-79b5-9e5f-81b2-9b8aebc79758/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4GYeewrk)
@@ -125,7 +124,6 @@
 - **ALVR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/c5/8f/7fc58f7d-fdfa-03c1-9af1-dc85b9ad9113/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/YoK2nuX6)
 - **BeeBettor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/91/b4/f891b43c-35cc-fe1e-ca92-0579c9d1fc2c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zfcHfgK4)
 - **Daypeace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f0/9d/e7f09d61-1e9c-9868-a2ba-8e9c7153e405/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KTmUzCVo)
-- **Palremit: Send – Swap – Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/5f/42/295f42b8-17b2-e294-2228-ffcd65abf3b8/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFE2C3bZ)
 - **Status - Gateway to Ethereum**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/b9/34/a6b934ba-e2c6-4120-de73-f5f5f78a54a8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o1qPEeKA)
 - **PandemicWarrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/84/ed/a784ed31-d5cb-55ba-3157-fd85354e466d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/HowEj7Nf)
 - **Hunters On-Chain**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/3c/f0/ae3cf0b6-82cc-da68-8cb7-6deeb7f8ac67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mnB642dv)
@@ -9178,7 +9176,6 @@
 - **Ｖirgo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/50/2a/63/502a6353-dbd6-836b-76f7-0cc05ff58201/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/5RoYYdyC)
 - **appKids**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/cd/ed/45cdedae-1d0a-f9a2-7978-e1750e2c3313/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iEDs3LjV)
 - **Ngọc Rồng Pen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2d/3e/4c2d3ec8-7c0e-dcfe-e8ca-d21a63c65e3c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWQiia4K)
-- **Indus Battle Royale Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/10/e8/0e10e885-4dc4-c517-b30c-c9b3883d5a63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4cUeMguo)
 - **Deepr® 2.0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/e9/a8/68e9a8cb-be1b-61a9-6c03-83b1e99de432/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SY56DEpW)
 - **Moga For MangaDex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/3f/d0/393fd017-500b-7dda-ca91-bb9f88cb96dc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ILwREMUb)
 - **Waker App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/5e/d1/1f5ed149-c78e-88a1-92f4-4fffe24e6f65/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RMotxske)
