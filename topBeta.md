@@ -79,8 +79,6 @@
 
 - **Platform Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/8a/98/f28a98e8-7b5b-68de-71f2-03c9072fc5d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ntqwoorV)
 
-- **Metaverser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f9/f6/f1f9f60a-edb9-7b87-88c2-6c698a2343c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5ld1oWaN)
-
 - **Monkey Beach Patrol**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/07/cc/ed07cc97-95cd-4707-a7ad-8c89ca7e3818/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CLWJDc1p)
 
 - **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/cb/99/8acb9971-0c49-b2c4-b363-ca24e2d611aa/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
@@ -733,7 +731,6 @@
 - **Password Boss Password Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/17/b4/0217b425-4d1d-00c8-f58a-ec470d812ed4/AppIcon-v2-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/EgDvUg5m)
 - **Компаньон - скидки партнеров**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/f8/7a/48f87a5e-8eb3-e0ac-707f-0b1bc4ff0843/AppIcon-0-0-1x_U007epad-0-0-0-GLES2_U002c0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PxTdNAJ0)
 - **Snap2Gif**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/85/8f/1d858f72-f2e6-f29d-0d56-af455fc71d49/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ccVnxJU8)
-- **TianPlan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ea/3a/5aea3a19-2ea8-c538-64d4-ba3395c15c24/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/94lanw7B)
 - **ElvesBattle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/e2/df/09e2df83-b6e7-bae9-9e3f-44fe0b33c395/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nr0FUEpS)
 - **Shaaare**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/f6/31/b1f63160-1f86-a7fe-cfe3-9516c121833d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/c5jbfIp4)
 - **Abelian Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b9/82/97b98282-8172-2ecd-9c65-e0d45264e5de/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dyMKtZJq)
@@ -6043,7 +6040,6 @@
 - **ShelvesEDU**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/9a/3a/8f9a3ac1-a677-6660-b209-a5799de6daf3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SBoIjRaX)
 - **Võ Tiên Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/b9/68/b5b968e0-022a-7dbb-dec1-1fb76175e42e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aznBQiqb)
 - **Remember2TestApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/2f/c7/852fc793-ce90-9889-44cd-438fd3ef3a4f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NGYGFMYs)
-- **بيتي - مستشارك العقاري الرقمي**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/c5/cd/dcc5cd03-4055-93c3-7dcd-de1f0d371aab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/leHxarBO)
 - **Ola - AI Clones of your Heroes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/4e/5a/3d4e5a29-697d-9716-0d2b-267318e7a566/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jV45mZB5)
 - **EZRentOut Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/40/01/674001d3-95b8-968b-74ca-236d9a3f061b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C4E6Uenr)
 - **Attune One App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/3a/3a/a63a3ae9-b718-5667-a10a-f4f8f0924692/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UVA8ZQx)
