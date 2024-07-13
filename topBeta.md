@@ -69,7 +69,6 @@
 - **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/cb/99/8acb9971-0c49-b2c4-b363-ca24e2d611aa/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
 
 - **המתעדת - ישראל**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/f7/c6/cdf7c62f-bf7f-c9da-bbfd-72d0b54e9586/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/trrsdqcS)
-- **Azure VPN Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c5/64/e6c564a2-1252-b8a7-5666-ef90af963d41/AppIcon-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cGUEoTXc)
 
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 - **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
@@ -85,8 +84,6 @@
 - **Acing Reaction**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/db/7b/eedb7b30-861c-12c9-1b92-a0098e07d29b/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/7QQDM4ho)
 
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
-
-- **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/5d/5d/735d5dee-3fcc-a3d5-f095-dca3e3cf2b03/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
 
 - **OmniFocus 4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/8f/6f/db8f6fc8-4c49-c792-8964-d8c7df169a7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TKbgc273)
 
@@ -6844,7 +6841,6 @@
 - **雀乐**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/39/24/6f39243a-6501-090e-e644-3b0603b527cc/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cnPFNQvl)
 - **MoliStar -Exclusive Your Sound**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/32/e5/c432e524-ec12-07b3-83fc-4a4f4b0a6367/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p01cbJwq)
 - **nocap dev**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/6f/b9/d56fb9e0-a31d-e2f6-5bd5-9faaf07e556a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wfkqexrx)
-- **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
 - **T.R.A.S.H. Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/f4/2d/8ff42d98-3500-2c30-c2b1-99956733da3b/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RhMOWi0A)
 - **熊猫吃短信2 - 垃圾短信拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f3/07/63f3073a-a29a-31a3-4c62-d9ff830ae130/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fwtX43eH)
 - **CLChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/fa/db/e6fadb1a-61ed-60fe-64be-5ad9294c45b0/AppIcon-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vrebG3i1)
