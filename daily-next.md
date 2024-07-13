@@ -1,3 +1,7 @@
+- **Indus Battle Royale Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/94/c6/0e94c63c-906d-a7d4-3849-6a4936ea646d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4cUeMguo)
+- **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
+- **Palremit: Send – Swap – Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/5f/42/295f42b8-17b2-e294-2228-ffcd65abf3b8/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFE2C3bZ)
+
 - **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/eb/5f/2feb5f89-d326-4544-b488-795ba2fe3229/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
 - **Me&Meo: Bé Mèo Của Tôi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/ee/24/8fee247f-52ac-e27f-4eab-09fa9ebdb7a6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZgHJJSo9)
 - **FilamingoTV: for AppleTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/33/b1/c133b1e2-7309-448d-2a3f-56d6aa391128/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/nZNwbMrm)
@@ -94,4 +98,3 @@
 - **Drone Location App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/aa/fe/2caafeb8-c935-f088-e401-01e55280edd1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iKvaAhPC)
 - **Sentinel Shield dVPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/1e/d3/b41ed32d-38ab-1d72-f917-c1577586ac0c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CHRhpwKQ)
 - **Devomon Callisto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/54/20/1a5420b6-81f7-de4d-f51b-535517cbafca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zP1EuUwb)
-- **CLIP-Finder2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/57/84/e1578473-57b3-b4b1-3372-5f8c82787bc5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eZ43s4s6)
