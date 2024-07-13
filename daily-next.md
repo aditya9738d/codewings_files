@@ -1,9 +1,6 @@
 - **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
 - **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e2/19/3ee21937-86ea-25a7-e1eb-c6882e19e162/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
 
-- **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
-- **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e2/19/3ee21937-86ea-25a7-e1eb-c6882e19e162/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
-
 - **Azure VPN Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c5/64/e6c564a2-1252-b8a7-5666-ef90af963d41/AppIcon-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cGUEoTXc)
 - **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/1b/32/e31b3272-bcd2-3cff-e2ad-6864a3a52a99/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
 
