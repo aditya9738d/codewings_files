@@ -1,6 +1,3 @@
-- **Gooobet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/0d/11/c60d114c-9c21-c8f8-a714-bdbf1c577924/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D748X15c)
-- **无聊Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/28/02/cb280247-e083-5188-122c-5d7006a17df7/WuLiaoAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fPeg8xFZ)
-
 - **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
 - **NRO by ixxc 08**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/94/ae/1894aec7-fda4-a6f6-d22b-a20a4d120b33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZXvpqqHP)
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
