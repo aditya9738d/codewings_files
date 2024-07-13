@@ -91,12 +91,9 @@
 
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
 
-- **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
-
 - **Yellow Click - A Click Counter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/06/00/4106001c-9711-6514-65cf-f60f8a2ff105/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/N9wigfoi)
 - **Whisper Transcription**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/25/b8/2c25b89b-aaf8-2f12-e1fc-e4ea580e17d9/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/eIfbGHrs)
 
-- **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e2/19/3ee21937-86ea-25a7-e1eb-c6882e19e162/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
 - **Sơn Thủy Phân Tranh 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/f0/f7/6df0f781-4221-a424-51d0-1238bb01b989/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pznp1xjN)
 - **Bondee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/a5/25/34a5251a-b623-837e-1b85-6661d1a0c071/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mBfhDmZQ)
 
