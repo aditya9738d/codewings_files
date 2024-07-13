@@ -1,6 +1,3 @@
-- **Gooobet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/0d/11/c60d114c-9c21-c8f8-a714-bdbf1c577924/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D748X15c)
-- **无聊Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/28/02/cb280247-e083-5188-122c-5d7006a17df7/WuLiaoAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fPeg8xFZ)
-
 - **PlayG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/87/aa/e387aaa4-fe21-0b38-0f1e-6525e1a4ab6a/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zQUlkcy0)
 
 - **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
