@@ -2,6 +2,10 @@
 - **TV Timor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/90/0e/ce900ef3-48a6-8df7-9cff-3ba40a918bad/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b765ofWI)
 - **Nearest Color**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/7a/28/987a280a-dad0-9c21-3d5f-c063ecec81e9/icon.png/200x200bb-80.png)](https://testflight.apple.com/join/XSTycxqX)
 
+- **Ly Hour Insurance Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/7f/f4/a37ff4d8-5482-0a59-c1f5-5d4121157f8b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PFVvsfpS)
+- **TV Timor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/90/0e/ce900ef3-48a6-8df7-9cff-3ba40a918bad/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b765ofWI)
+- **Nearest Color**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/7a/28/987a280a-dad0-9c21-3d5f-c063ecec81e9/icon.png/200x200bb-80.png)](https://testflight.apple.com/join/XSTycxqX)
+
 - **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
 - **Palremit: Send – Swap – Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/5f/42/295f42b8-17b2-e294-2228-ffcd65abf3b8/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFE2C3bZ)
 
@@ -93,6 +97,3 @@
 - **המתעדת - ישראל**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/f7/c6/cdf7c62f-bf7f-c9da-bbfd-72d0b54e9586/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/trrsdqcS)
 
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
-
-- **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/66/f9/db66f944-2219-ff2d-04b3-6710fceaec19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
-- **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
