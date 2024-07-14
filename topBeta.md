@@ -44,8 +44,6 @@
 
 - **Võ Lâm Hỏa Long**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9e/6d/d29e6d06-1a63-b404-46c6-63eccfe5fc98/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GM3ZdMKp)
 
-- **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/6b/ca/f06bcaad-3ee0-5967-2996-86e8e0bd9433/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
-- **Soft**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/d5/f6/57d5f6d2-dce5-63a4-ab12-d20721ea4471/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EeaumL9b)
 - **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/4b/24804b6c-6a1e-7418-3acf-92813d511521/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iripc95t)
 
 - **Metaverser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f9/f6/f1f9f60a-edb9-7b87-88c2-6c698a2343c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5ld1oWaN)
@@ -7013,7 +7011,6 @@
 - **Zincir Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/df/e7/76dfe76e-370e-8ff9-c696-6b1a4401dd42/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/S2QCk2zj)
 - **Zealer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/92/1f/1c921f2f-a78c-e67c-d7ee-27e01fc66480/AppIcon-1x_U007epad-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/m0qGxEPZ)
 - **WOW: Wars of Wanon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/dc/19/77dc19eb-dfee-43e9-0168-6f77859262b0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/UZ4tYFb6)
-- **Chore Champ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/c1/9c/4ec19cf9-7cda-0bce-f573-23c99263e5f4/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eMqx5DEF)
 - **Cyber Key Fob**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ad/f6/f8adf6f1-37b5-ec81-ef62-7f8daedd70d7/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wzaCXTpH)
 - **nospace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/40/a8/f140a807-f685-8c24-fadc-6ed8504b062a/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8To9vUPJ)
 - **Sila for Twitch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/01/e1/c901e16d-664b-2f7a-fee0-46748b84654f/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/tvPhZZ8w)
