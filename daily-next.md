@@ -78,8 +78,6 @@
 - **NRO by ixxc 08**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/94/ae/1894aec7-fda4-a6f6-d22b-a20a4d120b33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZXvpqqHP)
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
 
-- **TianPlan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ea/3a/5aea3a19-2ea8-c538-64d4-ba3395c15c24/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/94lanw7B)
-
 - **Me&Meo: Bé Mèo Của Tôi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/ee/24/8fee247f-52ac-e27f-4eab-09fa9ebdb7a6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZgHJJSo9)
 - **FilamingoTV: for AppleTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/33/b1/c133b1e2-7309-448d-2a3f-56d6aa391128/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/nZNwbMrm)
 
@@ -90,10 +88,7 @@
 - **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
 
 - **NRO by ixxc 07**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9c/df/f19cdfb4-04bc-924b-bd84-68ae635163f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UmfiVbDk)
-- **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
 
 - **Zimam Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/fd/d5/5dfdd5b5-5c2c-8e36-0886-2a215e44e0c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JgT67X6A)
 
 - **MatchTV HH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d2/d0/3dd2d01c-940f-b0b4-e9df-832192fd6c56/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lHsRDyGM)
-
-- **Platform Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/8a/98/f28a98e8-7b5b-68de-71f2-03c9072fc5d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ntqwoorV)
