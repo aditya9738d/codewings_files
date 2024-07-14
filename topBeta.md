@@ -10,7 +10,6 @@
 - **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
 - **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/eb/5f/2feb5f89-d326-4544-b488-795ba2fe3229/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
 
-- **Ly Hour Insurance Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/7f/f4/a37ff4d8-5482-0a59-c1f5-5d4121157f8b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PFVvsfpS)
 - **TV Timor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/90/0e/ce900ef3-48a6-8df7-9cff-3ba40a918bad/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b765ofWI)
 - **Nearest Color**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/7a/28/987a280a-dad0-9c21-3d5f-c063ecec81e9/icon.png/200x200bb-80.png)](https://testflight.apple.com/join/XSTycxqX)
 
@@ -59,9 +58,6 @@
 
 - **Haivivi Pal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/e3/ee/9de3eeaf-4d07-aed4-a086-5858d5fe5602/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kWje4YHH)
 - **NROXANH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/dc/8a/4cdc8a55-ea89-4bc1-d6ba-b652e48fc364/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/deyjeYPQ)
-
-- **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e2/19/3ee21937-86ea-25a7-e1eb-c6882e19e162/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
-- **Bondee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/a5/25/34a5251a-b623-837e-1b85-6661d1a0c071/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mBfhDmZQ)
 
 - **DiscoverEU Travel App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/66/88/5566885c-9da8-5859-7cfd-662615c6634d/AppIcon-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/77dSd9sB)
 
