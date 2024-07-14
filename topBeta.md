@@ -1,7 +1,3 @@
-- **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
-- **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e2/19/3ee21937-86ea-25a7-e1eb-c6882e19e162/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
-- **Bondee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/a5/25/34a5251a-b623-837e-1b85-6661d1a0c071/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mBfhDmZQ)
-
 - **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/6b/ca/f06bcaad-3ee0-5967-2996-86e8e0bd9433/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
 - **Soft**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/d5/f6/57d5f6d2-dce5-63a4-ab12-d20721ea4471/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EeaumL9b)
 
