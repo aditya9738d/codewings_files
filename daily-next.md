@@ -47,7 +47,6 @@
 
 - **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e2/19/3ee21937-86ea-25a7-e1eb-c6882e19e162/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
 - **Bondee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/a5/25/34a5251a-b623-837e-1b85-6661d1a0c071/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mBfhDmZQ)
-- **Ly Hour Insurance Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/7f/f4/a37ff4d8-5482-0a59-c1f5-5d4121157f8b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PFVvsfpS)
 
 - **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
 
