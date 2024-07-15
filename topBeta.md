@@ -35,7 +35,6 @@
 - **BoldSign: Sign Docs & Request**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/64/6f/76646f35-79b5-9e5f-81b2-9b8aebc79758/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4GYeewrk)
 - **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
 
-- **Azure VPN Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c5/64/e6c564a2-1252-b8a7-5666-ef90af963d41/AppIcon-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cGUEoTXc)
 - **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/1b/32/e31b3272-bcd2-3cff-e2ad-6864a3a52a99/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
 - **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
 
@@ -1809,7 +1808,6 @@
 - **Fun Toast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/35/bc/5a35bc60-709b-a1ad-97bf-fe60272ae10c/FuntoastIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9FffIbCS)
 - **SVT Nyheter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/bb/ee/14bbee30-3d12-f09d-e5dd-053fe3e86c03/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWWcSkTi)
 - **Tops-UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/1d/1b/f11d1b60-2698-cd77-aeb0-e7dc41410e59/AppIcon-event-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jNcbqrm3)
-- **360智慧生活**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/15/3d/35153d6d-d91e-b1bf-7cd2-909221b27c0f/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KLC18E01)
 - **NCB OTP TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/9f/b1/e09fb188-4e25-a21a-53e2-8160c672232f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eteBAdfs)
 - **S3XY Watch Key Fob**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/41/bb/b041bb53-40f0-fbef-c162-559a0a6a6ab0/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eKkI97SF)
 - **Võ Lâm 1 Ngạo Tuyết Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/6a/5f/406a5f19-8770-d746-87fc-c3440b595473/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lfSTQxz6)
