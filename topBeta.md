@@ -62,21 +62,16 @@
 - **Today's Budget - Money Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/ac/40/84ac4035-87a1-d0c8-7d34-cf6629feae3a/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qzRa88rJ)
 - **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
 
-- **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
 - **Haivivi Pal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/e3/ee/9de3eeaf-4d07-aed4-a086-5858d5fe5602/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kWje4YHH)
 
 - **Gooobet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/0d/11/c60d114c-9c21-c8f8-a714-bdbf1c577924/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D748X15c)
 - **无聊Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/28/02/cb280247-e083-5188-122c-5d7006a17df7/WuLiaoAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fPeg8xFZ)
-
-- **NROXANH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/dc/8a/4cdc8a55-ea89-4bc1-d6ba-b652e48fc364/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/deyjeYPQ)
 
 - **Chore Champ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c8/ff/c1c8ff53-0c99-32c3-d208-3b48b3281ed4/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TsRob74C)
 
 - **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/eb/5f/2feb5f89-d326-4544-b488-795ba2fe3229/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
 
 - **Spatial Poker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/0a/ce/730acec7-ff97-840d-1756-e749b6945ac8/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/98oLRPmW)
-
-- **MatchTV HH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d2/d0/3dd2d01c-940f-b0b4-e9df-832192fd6c56/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lHsRDyGM)
 
 - **OmniFocus 4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/8f/6f/db8f6fc8-4c49-c792-8964-d8c7df169a7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TKbgc273)
 - **Escape Platforms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/ac/72/3bac7234-82bc-b926-b8d6-e6a24294bb4e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/WSoYepe7)
