@@ -13,7 +13,6 @@
 - **DiscoverEU Travel App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/a3/c7/2aa3c705-8c45-1114-430e-5c6159056da8/AppIcon-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/77dSd9sB)
 
 - **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/19/61/b5196152-fac7-5a59-7e45-fc5e464a61a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
-- **Webull Pay: Crypto Buy & Sell**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/7e/bb/c47ebb5d-2b4c-94e7-bde2-36dffcd547b1/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Lbb71e74)
 
 - **MatchTV HH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d2/d0/3dd2d01c-940f-b0b4-e9df-832192fd6c56/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lHsRDyGM)
 - **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
