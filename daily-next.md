@@ -1,6 +1,3 @@
-- **360智慧生活**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/41/e2/fd41e2d3-82a1-2ff3-e335-4b7006ab8a11/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qG3gGcGy)
-- **Azure VPN Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c5/64/e6c564a2-1252-b8a7-5666-ef90af963d41/AppIcon-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cGUEoTXc)
-
 - **Mit Gomobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d1/8b/46d18b91-11f8-8cf8-e9b4-f31b12641502/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YXGvJsBB)
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 - **DigiByte - Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/3b/03/8e3b0326-b00d-b938-8231-9abc4a2a0555/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzOB6dYc)
