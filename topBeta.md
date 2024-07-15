@@ -1,9 +1,6 @@
 - **DMSS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/ea/85/79ea856b-d421-c921-f4f9-c9d1701e6e89/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XSkgkfNY)
 - **Dien dan phim**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/01/e5/1e01e554-c06f-9006-87f1-be37a4eb9e56/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/situnPl1)
 
-- **DMSS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/ea/85/79ea856b-d421-c921-f4f9-c9d1701e6e89/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XSkgkfNY)
-- **Dien dan phim**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/01/e5/1e01e554-c06f-9006-87f1-be37a4eb9e56/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/situnPl1)
-
 - **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
 - **Palremit: Send – Swap – Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/5f/42/295f42b8-17b2-e294-2228-ffcd65abf3b8/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFE2C3bZ)
 
