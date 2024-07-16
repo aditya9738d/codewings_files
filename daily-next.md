@@ -1,3 +1,6 @@
+- **Palremit: Send – Swap – Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/5f/42/295f42b8-17b2-e294-2228-ffcd65abf3b8/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFE2C3bZ)
+- **Spatial Poker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/0a/ce/730acec7-ff97-840d-1756-e749b6945ac8/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/98oLRPmW)
+
 - **Ticci Tabs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/9d/34/aa9d3442-256d-6637-a0a9-185d01ffc077/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8ZVI98w)
 - **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
 - **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
