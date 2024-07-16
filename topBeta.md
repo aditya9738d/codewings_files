@@ -55,9 +55,6 @@
 
 - **Palremit: Send – Swap – Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/5f/42/295f42b8-17b2-e294-2228-ffcd65abf3b8/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFE2C3bZ)
 
-- **AIHA Heat Stress**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a6/46/56a646b1-249f-7748-39a5-6d5196f33c2f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Pq0XP4Io)
-- **PUBG Mobile VNG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/a5/e5/11a5e5af-65d5-231c-99b6-e72427a39ed4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kIIuBMlM)
-
 - **FUNCAP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/8f/d5/b68fd5ba-7cf4-5d68-e3fe-8b85351d6c15/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/50tcxD8q)
 
 - **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
@@ -165,7 +162,6 @@
 - **LeveX: Trade & Level Up Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/3e/bf/c93ebf09-277c-65d3-f275-3ca548ebac11/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qbScw4YJ)
 - **転送絶一門**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/9b/d1/929bd159-de12-152d-c12e-e9177cf8eceb/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ue13ELa4)
 - **Xstro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/84/0b/b5840bea-c232-555d-fd16-5308a226c0d8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Mzn3JLF)
-- **RSDKv5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/cf/ac/96cfac66-b063-7870-9d98-9f799f3c40b2/AppIcon-1x_U007epad-0-0-GLES2_U002c0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/J5J2Fwcf)
 - **Sumcoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/6b/cc/b26bcca6-1c1e-74d4-7c9d-66d2fcb86639/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MdYIC0K3)
 - **Microsoft 365 (Office)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/4a/51/3c4a51c0-5f37-0170-3f0d-578de7474740/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eHAKJBtM)
 - **Lunch: Let's Grab Lunch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/a9/11/c6a911a5-0165-e3c5-b21e-4b5578e0c58f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TXiRrJ2e)
