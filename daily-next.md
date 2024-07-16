@@ -47,8 +47,6 @@
 
 - **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
 
-- **بيتي - مستشارك العقاري الرقمي**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/c5/cd/dcc5cd03-4055-93c3-7dcd-de1f0d371aab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/leHxarBO)
-
 - **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/66/f9/db66f944-2219-ff2d-04b3-6710fceaec19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
 
 - **TFT - PBE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/8d/9a/fc8d9aa7-90eb-bcb5-a9cf-5c78e101bb98/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q79npPHz)
@@ -75,7 +73,6 @@
 - **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/eb/5f/2feb5f89-d326-4544-b488-795ba2fe3229/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
 
 - **Platform Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/8a/98/f28a98e8-7b5b-68de-71f2-03c9072fc5d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ntqwoorV)
-- **TianPlan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ea/3a/5aea3a19-2ea8-c538-64d4-ba3395c15c24/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/94lanw7B)
 
 - **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
 - **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e2/19/3ee21937-86ea-25a7-e1eb-c6882e19e162/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
