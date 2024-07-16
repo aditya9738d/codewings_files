@@ -71,10 +71,6 @@
 
 - **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
 
-- **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/66/f9/db66f944-2219-ff2d-04b3-6710fceaec19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
-
-- **TFT - PBE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/8d/9a/fc8d9aa7-90eb-bcb5-a9cf-5c78e101bb98/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q79npPHz)
-
 - **Mit Gomobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d1/8b/46d18b91-11f8-8cf8-e9b4-f31b12641502/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YXGvJsBB)
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 
