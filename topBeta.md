@@ -85,8 +85,6 @@
 - **Mit Gomobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d1/8b/46d18b91-11f8-8cf8-e9b4-f31b12641502/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YXGvJsBB)
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 
-- **HiepSiLegend**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/ed/15/ffed15de-5911-6067-37c7-39a6bc54240f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8XGWj51w)
-- **Native iOS Example**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/e1/91/7be19169-b19b-951c-a5f1-44b6c5b0597c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/26EBZkcX)
 - **Aura MENA - Rewarding Loyalty**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/42/17/8142178b-6bbe-5003-057d-00de83e6ebd2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GkiCbnMx)
 
 - **NROSUKIEN v102**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/3b/a6/793ba624-081d-e40b-394a-c3d3c59cbd69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MR4fd7Gv)
@@ -295,8 +293,6 @@
 - **Chronos for Jira (Beta)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/be/28/93be2835-8f6c-ee1e-cacb-2e5b65397c90/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/mB7ZA6s5)
 
 - **8.x.b.e.t**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/88/f8/d688f84e-ce86-7f9f-b85a-68b5dbe38561/AppIcon-vd001-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8WZIw5ow)
-
-- **Homepage for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/57/69/4a57695d-61aa-b15b-4521-8f8869029e74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y7e92WCb)
 
 - **Divine Healers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/96/c7/9696c7a9-62d9-ab2c-3c60-79765b38c5f8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1KoT9C6m)
 - **魏-魏牌新能源**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/12/b8/e612b8e6-1986-353a-4e92-dd4f2df21951/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wjjmv7rY)
