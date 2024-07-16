@@ -32,14 +32,10 @@
 - **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/6b/ca/f06bcaad-3ee0-5967-2996-86e8e0bd9433/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
 - **Soft**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/d5/f6/57d5f6d2-dce5-63a4-ab12-d20721ea4471/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EeaumL9b)
 
-- **Unustasis**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/34/c9/0c34c901-5910-9960-5fba-d5efb70dab09/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Uzcy1kSH)
 - **Võ Lâm Hỏa Long**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9e/6d/d29e6d06-1a63-b404-46c6-63eccfe5fc98/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GM3ZdMKp)
 - **360智慧生活**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/41/e2/fd41e2d3-82a1-2ff3-e335-4b7006ab8a11/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qG3gGcGy)
 
 - **Dien dan phim**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/01/e5/1e01e554-c06f-9006-87f1-be37a4eb9e56/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/situnPl1)
-
-- **Habilis - A Skill Marketplace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/f7/80/a4f780e8-cb48-a252-c88a-248575d00af3/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/N2hqdSX7)
-- **DiscoverEU Travel App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/a3/c7/2aa3c705-8c45-1114-430e-5c6159056da8/AppIcon-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/77dSd9sB)
 
 - **移动云极速版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/d7/dd65d785-a30e-4143-ffe0-72a2aa47c1c2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AG0invHB)
 
