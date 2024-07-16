@@ -86,8 +86,6 @@
 - **Platform Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/8a/98/f28a98e8-7b5b-68de-71f2-03c9072fc5d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ntqwoorV)
 - **TianPlan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ea/3a/5aea3a19-2ea8-c538-64d4-ba3395c15c24/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/94lanw7B)
 
-- **Bondee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/a5/25/34a5251a-b623-837e-1b85-6661d1a0c071/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mBfhDmZQ)
-
 - **PlayG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/87/aa/e387aaa4-fe21-0b38-0f1e-6525e1a4ab6a/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zQUlkcy0)
 
 - **Nearby AI - GPT 4 Prompts Omni**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f7/1e/42f71ec2-bfb5-9e9b-83c6-8b3572a73dcd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xHGrkViR)
@@ -95,8 +93,6 @@
 
 - **Zario AI: App Block & Refocus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/19/4f/d8194fd7-abce-c4e9-f18f-a6572db6efe8/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/UxmHXkVs)
 
-- **Ly Hour Insurance Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/7f/f4/a37ff4d8-5482-0a59-c1f5-5d4121157f8b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PFVvsfpS)
-- **TV Timor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/90/0e/ce900ef3-48a6-8df7-9cff-3ba40a918bad/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b765ofWI)
 - **Nearest Color**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/7a/28/987a280a-dad0-9c21-3d5f-c063ecec81e9/icon.png/200x200bb-80.png)](https://testflight.apple.com/join/XSTycxqX)
 
 - **Today's Budget - Money Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/ac/40/84ac4035-87a1-d0c8-7d34-cf6629feae3a/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qzRa88rJ)
