@@ -119,8 +119,6 @@
 
 - **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
 
-- **Spinfire Pro 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/da/78/2bda78e8-0d70-6e96-ceb9-837560237f49/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AvVjNsKP)
-
 - **Me&Meo: Bé Mèo Của Tôi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/ee/24/8fee247f-52ac-e27f-4eab-09fa9ebdb7a6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZgHJJSo9)
 - **FilamingoTV: for AppleTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/33/b1/c133b1e2-7309-448d-2a3f-56d6aa391128/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/nZNwbMrm)
 
@@ -4960,7 +4958,6 @@
 - **Bunpro Japanese SRS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/66/5c/af665cb2-f0ae-e4d0-5a31-dac20e591a32/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qWyvzy0e)
 - **Block Blast！**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/a5/81/76a58128-2dac-989f-1db0-44a76a8d0a72/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3Lq0cEQg)
 - **Lagrange Gemini Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/33/16/cc331669-5159-431c-6658-47e3ac827f4c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UjdtSEhu)
-- **Simple Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/f9/0e/def90e29-8c35-256c-82ec-ae0a5407ad99/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/2oZuwSHJ)
 - **Cobo Guard Dev**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/0b/3a/270b3ae3-571a-389c-7860-56fb1685d351/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pcSF46JK)
 - **My Life: The Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/ed/08/91ed0842-05a3-f200-d41d-1499ce58c1c3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/a1uztACh)
 - **JTL-Wawi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/26/8c/9c268cfe-0ea1-3dd9-9dd5-5623038b8197/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2WKPiip5)
