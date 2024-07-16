@@ -2,6 +2,10 @@
 - **Nearby AI - GPT 4 Prompts Omni**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f7/1e/42f71ec2-bfb5-9e9b-83c6-8b3572a73dcd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xHGrkViR)
 - **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
 
+- **Checker – Track Anything**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/bb/32/dfbb32bc-7c6d-44bd-0fca-0f0a03005af1/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
+- **Nearby AI - GPT 4 Prompts Omni**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f7/1e/42f71ec2-bfb5-9e9b-83c6-8b3572a73dcd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xHGrkViR)
+- **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
+
 - **Chore Champ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c8/ff/c1c8ff53-0c99-32c3-d208-3b48b3281ed4/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TsRob74C)
 - **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/4b/24804b6c-6a1e-7418-3acf-92813d511521/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iripc95t)
 
