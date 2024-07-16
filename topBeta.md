@@ -27,7 +27,6 @@
 - **Chore Champ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c8/ff/c1c8ff53-0c99-32c3-d208-3b48b3281ed4/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TsRob74C)
 - **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/4b/24804b6c-6a1e-7418-3acf-92813d511521/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iripc95t)
 
-- **Yellow Click - A Click Counter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c3/e8/68c3e8ab-0164-797e-f0ee-671940e48f82/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/N9wigfoi)
 - **AIHA Heat Stress**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a6/46/56a646b1-249f-7748-39a5-6d5196f33c2f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Pq0XP4Io)
 - **PUBG Mobile VNG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/a5/e5/11a5e5af-65d5-231c-99b6-e72427a39ed4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kIIuBMlM)
 
@@ -69,8 +68,6 @@
 - **Soft**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/d5/f6/57d5f6d2-dce5-63a4-ab12-d20721ea4471/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EeaumL9b)
 
 - **Võ Lâm Hỏa Long**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9e/6d/d29e6d06-1a63-b404-46c6-63eccfe5fc98/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GM3ZdMKp)
-
-- **Dien dan phim**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/01/e5/1e01e554-c06f-9006-87f1-be37a4eb9e56/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/situnPl1)
 
 - **FUNCAP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/8f/d5/b68fd5ba-7cf4-5d68-e3fe-8b85351d6c15/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/50tcxD8q)
 
@@ -5855,7 +5852,6 @@
 - **Starship -Your Stars On GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/c1/eb/bdc1ebc2-0af5-8fd7-30b9-11b4a6ff6fbc/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/748P3fGS)
 - **RestoApp preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/31/2f/2b312f6b-945d-5f79-a140-d3f0891aed2b/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KmDKf6Es)
 - **Luna - Budgeting App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/a6/cf/e9a6cf3d-75ae-f21c-4e0e-01f88e6175ac/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8yRgAYoM)
-- **ReadNotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/8e/25/a28e25da-886d-30b4-2fef-f9d2e0fc4b95/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/05STonrx)
 - **Beat Monsters**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/5c/4d/9f5c4d2e-7ad1-e5b5-9c19-4e6e1b5850e5/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T16xtgFG)
 - **Solo Learning**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/28/ac/7c28ac54-e688-2c49-b6a0-a84573608232/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KclYtSNU)
 - **Tortellini Helps You Cook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/72/af/6a72af62-efaa-6cb9-0fdd-d24c1f8f6425/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gX4h2Cdm)
