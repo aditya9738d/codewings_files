@@ -23,10 +23,6 @@
 - **DMSS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/ea/85/79ea856b-d421-c921-f4f9-c9d1701e6e89/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XSkgkfNY)
 
 - **Nin1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/4b/69/ab4b694e-eaa7-3c79-16e7-a303cf8fcc7c/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/AjG2ld4r)
-- **Gooobet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/0d/11/c60d114c-9c21-c8f8-a714-bdbf1c577924/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D748X15c)
-
-- **无聊Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/28/02/cb280247-e083-5188-122c-5d7006a17df7/WuLiaoAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fPeg8xFZ)
-- **PSX City Guide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/0f/87/860f8773-61bb-333f-d57d-6cbe2ff16595/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/n1u9hiZJ)
 
 - **360智慧生活**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/41/e2/fd41e2d3-82a1-2ff3-e335-4b7006ab8a11/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qG3gGcGy)
 - **Azure VPN Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c5/64/e6c564a2-1252-b8a7-5666-ef90af963d41/AppIcon-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cGUEoTXc)
