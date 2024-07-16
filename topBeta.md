@@ -26,8 +26,6 @@
 - **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
 - **Supple – AI Intake Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e2/19/3ee21937-86ea-25a7-e1eb-c6882e19e162/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zbq8hPSu)
 
-- **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
-- **WINSTAR BGMI 171**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/2c/ad/a32cadea-6726-84db-126b-e7e63408103d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
 - **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
 
 - **Ngọc Rồng Cypher**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/4c/cb/024ccb58-94fe-75ec-abca-98b45f6962f1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mfWbSqxn)
@@ -108,7 +106,6 @@
 - **Escape Platforms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/ac/72/3bac7234-82bc-b926-b8d6-e6a24294bb4e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/WSoYepe7)
 
 - **Beast League Super Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/a9/c114a9ec-ac6d-e79b-57ee-4565df7a33c9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzU2UML1)
-- **NRO by ixxc 08**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/94/ae/1894aec7-fda4-a6f6-d22b-a20a4d120b33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZXvpqqHP)
 
 - **Spinfire Pro 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/da/78/2bda78e8-0d70-6e96-ceb9-837560237f49/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AvVjNsKP)
 
