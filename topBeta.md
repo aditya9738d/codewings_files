@@ -59,9 +59,7 @@
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
 - **WINSTAR BGMI 171**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/2c/ad/a32cadea-6726-84db-126b-e7e63408103d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
 
-- **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
 - **Indus Battle Royale Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/7f/a0/257fa02d-0713-368f-c097-ce0b84b3a9b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4cUeMguo)
-- **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/a0/a3/0aa0a3bb-8286-44ce-06c7-9cd92750b852/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
 
 - **Checker – Track Anything**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/bb/32/dfbb32bc-7c6d-44bd-0fca-0f0a03005af1/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
 
@@ -99,7 +97,6 @@
 
 - **PlayG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/87/aa/e387aaa4-fe21-0b38-0f1e-6525e1a4ab6a/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zQUlkcy0)
 
-- **Nearby AI - GPT 4 Prompts Omni**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f7/1e/42f71ec2-bfb5-9e9b-83c6-8b3572a73dcd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xHGrkViR)
 - **BoldSign: Sign Docs & Request**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/64/6f/76646f35-79b5-9e5f-81b2-9b8aebc79758/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4GYeewrk)
 
 - **Zario AI: App Block & Refocus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/19/4f/d8194fd7-abce-c4e9-f18f-a6572db6efe8/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/UxmHXkVs)
