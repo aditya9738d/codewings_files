@@ -1,3 +1,7 @@
+- **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/e6/7b/92e67b8a-4c82-1a92-ab1c-2ced70c62e9f/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
+- **Chore Champ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c8/ff/c1c8ff53-0c99-32c3-d208-3b48b3281ed4/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TsRob74C)
+- **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/4b/24804b6c-6a1e-7418-3acf-92813d511521/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iripc95t)
+
 - **Spatial Poker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/40/7a/96407a3e-d9f7-3807-85ee-953d8ee73500/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/98oLRPmW)
 
 - **TFT - PBE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/23/0f/2e230f9b-2c71-1bf0-1a85-326a448fb3cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q79npPHz)
@@ -27,9 +31,6 @@
 - **Checker – Track Anything**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/bb/32/dfbb32bc-7c6d-44bd-0fca-0f0a03005af1/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
 - **Nearby AI - GPT 4 Prompts Omni**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f7/1e/42f71ec2-bfb5-9e9b-83c6-8b3572a73dcd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xHGrkViR)
 - **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
-
-- **Chore Champ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c8/ff/c1c8ff53-0c99-32c3-d208-3b48b3281ed4/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TsRob74C)
-- **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/4b/24804b6c-6a1e-7418-3acf-92813d511521/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iripc95t)
 
 - **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/66/f9/db66f944-2219-ff2d-04b3-6710fceaec19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
 
@@ -77,7 +78,6 @@
 - **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
 
 - **Ngọc Rồng Cypher**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/4c/cb/024ccb58-94fe-75ec-abca-98b45f6962f1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mfWbSqxn)
-- **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/6b/ca/f06bcaad-3ee0-5967-2996-86e8e0bd9433/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
 - **Soft**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/d5/f6/57d5f6d2-dce5-63a4-ab12-d20721ea4471/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EeaumL9b)
 
 - **Võ Lâm Hỏa Long**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9e/6d/d29e6d06-1a63-b404-46c6-63eccfe5fc98/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GM3ZdMKp)
@@ -94,5 +94,3 @@
 
 - **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
 - **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/eb/5f/2feb5f89-d326-4544-b488-795ba2fe3229/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
-
-- **Platform Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/8a/98/f28a98e8-7b5b-68de-71f2-03c9072fc5d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ntqwoorV)
