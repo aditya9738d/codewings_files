@@ -1,3 +1,7 @@
+- **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/e6/7b/92e67b8a-4c82-1a92-ab1c-2ced70c62e9f/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
+- **Chore Champ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c8/ff/c1c8ff53-0c99-32c3-d208-3b48b3281ed4/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TsRob74C)
+- **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/4b/24804b6c-6a1e-7418-3acf-92813d511521/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iripc95t)
+
 - **Azure VPN Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c5/64/e6c564a2-1252-b8a7-5666-ef90af963d41/AppIcon-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cGUEoTXc)
 - **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/1b/32/e31b3272-bcd2-3cff-e2ad-6864a3a52a99/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
 
