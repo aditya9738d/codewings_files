@@ -1,3 +1,6 @@
+- **Hydra for Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fa/c6/1dfac6e2-fc83-5d52-b024-ded2950394cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fpv58Uy3)
+- **Spatial Poker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/40/7a/96407a3e-d9f7-3807-85ee-953d8ee73500/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/98oLRPmW)
+
 - **TFT - PBE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/23/0f/2e230f9b-2c71-1bf0-1a85-326a448fb3cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q79npPHz)
 
 - **Nearest Color**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/7a/28/987a280a-dad0-9c21-3d5f-c063ecec81e9/icon.png/200x200bb-80.png)](https://testflight.apple.com/join/XSTycxqX)
