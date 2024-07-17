@@ -18,8 +18,6 @@
 - **Metaverser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f9/f6/f1f9f60a-edb9-7b87-88c2-6c698a2343c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5ld1oWaN)
 - **بيتي - مستشارك العقاري الرقمي**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/c5/cd/dcc5cd03-4055-93c3-7dcd-de1f0d371aab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/leHxarBO)
 
-- **Zario AI: App Block & Refocus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/19/4f/d8194fd7-abce-c4e9-f18f-a6572db6efe8/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/UxmHXkVs)
-
 - **Spinfire Pro 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/7b/8b/a37b8bd0-7295-180e-009e-aaa5ec79a6df/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AvVjNsKP)
 - **Simple Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/30/46/953046ad-fbaf-d25e-5820-f4109c358abf/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/F6u6Pen8)
 
@@ -63,9 +61,6 @@
 - **Synology Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/37/b1/0a37b13e-d93d-1422-06e3-e390d33b009b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gb98nlpv)
 
 - **AIHA Heat Stress**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a6/46/56a646b1-249f-7748-39a5-6d5196f33c2f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Pq0XP4Io)
-- **PUBG Mobile VNG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/a5/e5/11a5e5af-65d5-231c-99b6-e72427a39ed4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kIIuBMlM)
-
-- **RSDKv5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/cf/ac/96cfac66-b063-7870-9d98-9f799f3c40b2/AppIcon-1x_U007epad-0-0-GLES2_U002c0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/J5J2Fwcf)
 
 - **Bondee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/a5/25/34a5251a-b623-837e-1b85-6661d1a0c071/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mBfhDmZQ)
 - **Ly Hour Insurance Staff**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/7f/f4/a37ff4d8-5482-0a59-c1f5-5d4121157f8b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PFVvsfpS)
