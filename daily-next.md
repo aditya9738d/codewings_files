@@ -1,3 +1,6 @@
+- **Azure VPN Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c5/64/e6c564a2-1252-b8a7-5666-ef90af963d41/AppIcon-85-220-0-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cGUEoTXc)
+- **sovereign.app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/1b/32/e31b3272-bcd2-3cff-e2ad-6864a3a52a99/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wx6QNEmr)
+
 - **Spatial Poker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/40/7a/96407a3e-d9f7-3807-85ee-953d8ee73500/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/98oLRPmW)
 
 - **TFT - PBE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/23/0f/2e230f9b-2c71-1bf0-1a85-326a448fb3cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q79npPHz)
@@ -94,5 +97,3 @@
 
 - **MATR1X FIRE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/dd/df/10dddf6c-e315-e495-d2bf-cb59530cbb7a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFYKtoPC)
 - **Bitwarden Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/eb/5f/2feb5f89-d326-4544-b488-795ba2fe3229/AppIcon-Beta-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S4OQEYYQ)
-
-- **Platform Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/8a/98/f28a98e8-7b5b-68de-71f2-03c9072fc5d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ntqwoorV)
