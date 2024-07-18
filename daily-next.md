@@ -19,8 +19,6 @@
 - **بيتي - مستشارك العقاري الرقمي**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/c5/cd/dcc5cd03-4055-93c3-7dcd-de1f0d371aab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/leHxarBO)
 - **Liên Quân AOV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/71/d7/4371d757-c21d-0ad0-3ee7-b7264f8ea285/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZnWnOedu)
 
-- **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/19/61/b5196152-fac7-5a59-7e45-fc5e464a61a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
-
 - **Ticci Tabs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/9d/34/aa9d3442-256d-6637-a0a9-185d01ffc077/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8ZVI98w)
 - **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
 
@@ -40,7 +38,6 @@
 - **Webull Pay: Crypto Buy & Sell**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/7e/bb/c47ebb5d-2b4c-94e7-bde2-36dffcd547b1/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Lbb71e74)
 
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
-- **WINSTAR BGMI 171**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/2c/ad/a32cadea-6726-84db-126b-e7e63408103d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
 
 - **Metaverser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f9/f6/f1f9f60a-edb9-7b87-88c2-6c698a2343c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5ld1oWaN)
 
