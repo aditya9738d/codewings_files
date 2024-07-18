@@ -1,6 +1,3 @@
-- **Audio System DSP Control**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/91/11/6d9111e2-f648-6e13-c14f-70be09b0b656/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n5zvndbF)
-- **Liên Quân AOV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/71/d7/4371d757-c21d-0ad0-3ee7-b7264f8ea285/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZnWnOedu)
-
 - **Ragmon dice adventure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/6d/63/416d63a1-463a-73a6-81fc-d1b29dd46941/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/knbavTof)
 - **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/83/fa/d583fa2b-33b0-dfd6-bdf4-9ededc0ef371/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
 - **Ticci Tabs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/9d/34/aa9d3442-256d-6637-a0a9-185d01ffc077/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8ZVI98w)
@@ -98,3 +95,5 @@
 - **Soft**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/d5/f6/57d5f6d2-dce5-63a4-ab12-d20721ea4471/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EeaumL9b)
 
 - **Võ Lâm Hỏa Long**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9e/6d/d29e6d06-1a63-b404-46c6-63eccfe5fc98/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GM3ZdMKp)
+
+- **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
