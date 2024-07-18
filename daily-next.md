@@ -1,3 +1,6 @@
+- **Ragmon dice adventure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/6d/63/416d63a1-463a-73a6-81fc-d1b29dd46941/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/knbavTof)
+- **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/83/fa/d583fa2b-33b0-dfd6-bdf4-9ededc0ef371/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
+
 - **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/19/61/b5196152-fac7-5a59-7e45-fc5e464a61a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
 
 - **NgọcRồngGoHan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/84/6a/13846a40-02a6-e98f-3d50-a9b8ac8f09fd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kfGbDiKe)
