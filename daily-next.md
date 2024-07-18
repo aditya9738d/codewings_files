@@ -15,8 +15,6 @@
 - **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/19/61/b5196152-fac7-5a59-7e45-fc5e464a61a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
 
 - **NgọcRồngGoHan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/84/6a/13846a40-02a6-e98f-3d50-a9b8ac8f09fd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kfGbDiKe)
-- **openHAB V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/1b/b7/d11bb7d8-3549-8cb9-149d-8b6220aee4d8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0uFYONeF)
-- **Nearest Color**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/7a/28/987a280a-dad0-9c21-3d5f-c063ecec81e9/icon.png/200x200bb-80.png)](https://testflight.apple.com/join/XSTycxqX)
 
 - **Mit Gomobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d1/8b/46d18b91-11f8-8cf8-e9b4-f31b12641502/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YXGvJsBB)
 - **DigiByte - Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/57/a7/8557a785-4c1a-1cc8-657f-83754eee4bf1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzOB6dYc)
@@ -50,8 +48,6 @@
 - **+SBT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ae/6d/67ae6d7d-26e2-243d-c88f-d0091824bf82/AppIconBeta1-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iuuOdR6y)
 
 - **Metaverser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f9/f6/f1f9f60a-edb9-7b87-88c2-6c698a2343c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5ld1oWaN)
-
-- **Spinfire Pro 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/7b/8b/a37b8bd0-7295-180e-009e-aaa5ec79a6df/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AvVjNsKP)
 
 - **Checker – Track Anything**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/bb/32/dfbb32bc-7c6d-44bd-0fca-0f0a03005af1/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
 - **Nearby AI - GPT 4 Prompts Omni**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f7/1e/42f71ec2-bfb5-9e9b-83c6-8b3572a73dcd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xHGrkViR)
