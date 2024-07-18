@@ -1,6 +1,9 @@
 - **Kiếm Thế Siêu Nhân Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/4d/14/7c4d149b-040b-b79c-f290-c63915ddb686/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/V6kaSX8v)
 - **Simple Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/30/46/953046ad-fbaf-d25e-5820-f4109c358abf/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/F6u6Pen8)
 
+- **Kiếm Thế Siêu Nhân Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/4d/14/7c4d149b-040b-b79c-f290-c63915ddb686/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/V6kaSX8v)
+- **Simple Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/30/46/953046ad-fbaf-d25e-5820-f4109c358abf/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/F6u6Pen8)
+
 - **بيتي - مستشارك العقاري الرقمي**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/c5/cd/dcc5cd03-4055-93c3-7dcd-de1f0d371aab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/leHxarBO)
 - **Liên Quân AOV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/71/d7/4371d757-c21d-0ad0-3ee7-b7264f8ea285/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZnWnOedu)
 
@@ -95,5 +98,3 @@
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 
 - **HiepSiLegend**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/ed/15/ffed15de-5911-6067-37c7-39a6bc54240f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8XGWj51w)
-- **Native iOS Example**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/e1/91/7be19169-b19b-951c-a5f1-44b6c5b0597c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/26EBZkcX)
-- **Aura MENA - Rewarding Loyalty**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/42/17/8142178b-6bbe-5003-057d-00de83e6ebd2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GkiCbnMx)
