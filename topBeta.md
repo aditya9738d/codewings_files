@@ -13,8 +13,6 @@
 - **openHAB V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/1b/b7/d11bb7d8-3549-8cb9-149d-8b6220aee4d8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0uFYONeF)
 - **Nearest Color**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/7a/28/987a280a-dad0-9c21-3d5f-c063ecec81e9/icon.png/200x200bb-80.png)](https://testflight.apple.com/join/XSTycxqX)
 
-- **Liên Quân AOV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/71/d7/4371d757-c21d-0ad0-3ee7-b7264f8ea285/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZnWnOedu)
-
 - **Mit Gomobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d1/8b/46d18b91-11f8-8cf8-e9b4-f31b12641502/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YXGvJsBB)
 - **DigiByte - Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/57/a7/8557a785-4c1a-1cc8-657f-83754eee4bf1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzOB6dYc)
 - **NRO by ixxc 08**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/94/ae/1894aec7-fda4-a6f6-d22b-a20a4d120b33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZXvpqqHP)
@@ -6808,7 +6806,6 @@
 - **WEXO: Bitcoin & Crypto Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/b5/ad/00b5ad26-e3f0-270c-6f0a-ad6e398c2677/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Vd7CRyQZ)
 - **BodsAi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/34/06/c33406ee-20d3-1a5a-14c0-5c9c8495741e/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/0ilaBtGR)
 - **Shreddit-Clips**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/c5/68/55c56876-280e-85bf-4a90-d421f5bb8902/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZY1zbXd1)
-- **Audio System DSP Control**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/91/11/6d9111e2-f648-6e13-c14f-70be09b0b656/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n5zvndbF)
 - **Tata Sky is now Tata Play**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/51/5f/ac515f00-159f-c556-fdc3-7c7b7852fca1/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4UdhqAui)
 - **WebFrame Pro Kiosk**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/90/69/88906901-2f1b-a6ad-7e46-b69d0b8bda0b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8Sa8Vn4M)
 - **Wingman: Quit Porn Together**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/3e/52/143e5223-f782-6210-6f89-18a3222bbe4d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sKlgsH5p)
