@@ -46,7 +46,6 @@
 - **Webull Pay: Crypto Buy & Sell**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/7e/bb/c47ebb5d-2b4c-94e7-bde2-36dffcd547b1/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Lbb71e74)
 
 - **Metaverser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f9/f6/f1f9f60a-edb9-7b87-88c2-6c698a2343c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5ld1oWaN)
-- **بيتي - مستشارك العقاري الرقمي**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/c5/cd/dcc5cd03-4055-93c3-7dcd-de1f0d371aab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/leHxarBO)
 
 - **Simple Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/30/46/953046ad-fbaf-d25e-5820-f4109c358abf/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/F6u6Pen8)
 
@@ -62,7 +61,6 @@
 
 - **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/89/a7/e889a776-6a9f-613e-25e4-a03c83f248f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RanqW39l)
 
-- **Liên Quân AOV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/71/d7/4371d757-c21d-0ad0-3ee7-b7264f8ea285/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZnWnOedu)
 - **Extragram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/97/2c/6e972cea-dac4-c739-06e9-13d858930901/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SX6yOBba)
 
 - **Homepage for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/ad/ff/afadff33-1b00-927e-9a2c-934d6a5f7b71/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y7e92WCb)
