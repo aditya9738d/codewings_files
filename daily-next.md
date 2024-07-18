@@ -26,8 +26,6 @@
 
 - **Spatial Poker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/40/7a/96407a3e-d9f7-3807-85ee-953d8ee73500/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/98oLRPmW)
 
-- **TFT - PBE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/23/0f/2e230f9b-2c71-1bf0-1a85-326a448fb3cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q79npPHz)
-
 - **PUBG Mobile VNG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/a5/e5/11a5e5af-65d5-231c-99b6-e72427a39ed4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kIIuBMlM)
 - **RSDKv5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/cf/ac/96cfac66-b063-7870-9d98-9f799f3c40b2/AppIcon-1x_U007epad-0-0-GLES2_U002c0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/J5J2Fwcf)
 - **Zario AI: App Block & Refocus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/19/4f/d8194fd7-abce-c4e9-f18f-a6572db6efe8/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/UxmHXkVs)
@@ -85,7 +83,6 @@
 
 - **Indus Battle Royale Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/7f/a0/257fa02d-0713-368f-c097-ce0b84b3a9b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4cUeMguo)
 
-- **NROXANH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/dc/8a/4cdc8a55-ea89-4bc1-d6ba-b652e48fc364/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/deyjeYPQ)
 - **MatchTV HH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d2/d0/3dd2d01c-940f-b0b4-e9df-832192fd6c56/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lHsRDyGM)
 
 - **Devil's Purge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5d/a1/6c5da1a1-133c-f67a-4a89-cf97fd917bd6/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iwii9MAC)
