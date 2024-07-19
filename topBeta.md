@@ -28,7 +28,6 @@
 
 - **WINSTAR BGMI 171**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/2c/ad/a32cadea-6726-84db-126b-e7e63408103d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
 - **PlayG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6e/36/9e6e36d3-6289-4028-4723-20137fbf559a/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zQUlkcy0)
-- **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/19/61/b5196152-fac7-5a59-7e45-fc5e464a61a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
 
 - **NgọcRồngGoHan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/84/6a/13846a40-02a6-e98f-3d50-a9b8ac8f09fd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kfGbDiKe)
 
