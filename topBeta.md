@@ -11,17 +11,12 @@
 
 - **NROXANH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/dc/8a/4cdc8a55-ea89-4bc1-d6ba-b652e48fc364/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/deyjeYPQ)
 
-- **TFT - PBE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/3d/e9/c63de9fa-f2b5-143b-b581-e9d2e5ae2699/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q79npPHz)
-
 - **openHAB V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/1b/b7/d11bb7d8-3549-8cb9-149d-8b6220aee4d8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0uFYONeF)
 
 - **レーシングマスター**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/4c/92/874c92df-999d-3d1e-ebe0-b06e4e2b8405/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IuXW2dvS)
 - **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/bd/a1/3abda145-6394-c64d-482f-1b3411822624/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 
 - **RSDKv5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/cf/ac/96cfac66-b063-7870-9d98-9f799f3c40b2/AppIcon-1x_U007epad-0-0-GLES2_U002c0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/J5J2Fwcf)
-
-- **Racing Master**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/54/24/2b542418-611e-45ed-a5d5-44dda15cf12c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JK9aIDCs)
-- **Geospot - Photo locator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e1/76/c1e17653-23f7-54a2-5bf9-0cd55b36dd9e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Avgk7Kcc)
 
 - **WIN PRO BGMI 3.3-v1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d1/3d/05d13d1e-1345-98b9-59df-85a4ed51e431/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
 - **PlayG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6e/36/9e6e36d3-6289-4028-4723-20137fbf559a/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zQUlkcy0)
