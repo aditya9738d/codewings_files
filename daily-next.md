@@ -8,8 +8,6 @@
 
 - **Liên Quân AOV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/71/d7/4371d757-c21d-0ad0-3ee7-b7264f8ea285/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZnWnOedu)
 
-- **Racing Master**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/54/24/2b542418-611e-45ed-a5d5-44dda15cf12c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JK9aIDCs)
-
 - **Bat Detector**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/57/e0/6057e0d7-2bf0-d5ae-6074-cbbeb82daedb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M5R8kipW)
 
 - **DMSS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/43/8b/a5438b7b-322b-b9eb-93cf-47ffc8c7f515/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XSkgkfNY)
