@@ -1,3 +1,6 @@
+- **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/23/cc/0823cc4c-a24b-8a35-1302-a4e696a83191/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
+- **Bitflex - Buy & Trade Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a2/a9/30a2a9bf-e40f-445c-fcdd-bb1f7ad5803a/Icon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dksE4RKV)
+
 - **NROXANH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/dc/8a/4cdc8a55-ea89-4bc1-d6ba-b652e48fc364/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/deyjeYPQ)
 
 - **Racing Master**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/54/24/2b542418-611e-45ed-a5d5-44dda15cf12c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JK9aIDCs)
