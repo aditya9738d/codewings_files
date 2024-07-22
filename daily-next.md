@@ -22,9 +22,6 @@
 
 - **Virtual NA Meeting Finder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/65/c0/5b65c034-31fd-a55f-36a3-1eabfd17deb7/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zyj1JaqY)
 
-- **openHAB V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/1b/b7/d11bb7d8-3549-8cb9-149d-8b6220aee4d8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0uFYONeF)
-- **Simple Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/30/46/953046ad-fbaf-d25e-5820-f4109c358abf/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/F6u6Pen8)
-
 - **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/bd/a1/3abda145-6394-c64d-482f-1b3411822624/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 
 - **RSDKv5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/cf/ac/96cfac66-b063-7870-9d98-9f799f3c40b2/AppIcon-1x_U007epad-0-0-GLES2_U002c0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/J5J2Fwcf)
