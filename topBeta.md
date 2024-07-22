@@ -15,10 +15,6 @@
 - **DigiByte - Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/57/a7/8557a785-4c1a-1cc8-657f-83754eee4bf1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzOB6dYc)
 - **WIN PRO BGMI 3.3-v1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d1/3d/05d13d1e-1345-98b9-59df-85a4ed51e431/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
 
-- **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/23/cc/0823cc4c-a24b-8a35-1302-a4e696a83191/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
-
-- **Bitflex - Buy & Trade Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a2/a9/30a2a9bf-e40f-445c-fcdd-bb1f7ad5803a/Icon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dksE4RKV)
-
 - **NROXANH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/dc/8a/4cdc8a55-ea89-4bc1-d6ba-b652e48fc364/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/deyjeYPQ)
 
 - **Racing Master**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/54/24/2b542418-611e-45ed-a5d5-44dda15cf12c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JK9aIDCs)
@@ -50,8 +46,6 @@
 - **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/19/61/b5196152-fac7-5a59-7e45-fc5e464a61a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
 
 - **NRO by ixxc 08**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/94/ae/1894aec7-fda4-a6f6-d22b-a20a4d120b33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZXvpqqHP)
-
-- **Ticci Tabs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/9d/34/aa9d3442-256d-6637-a0a9-185d01ffc077/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8ZVI98w)
 
 - **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
 
