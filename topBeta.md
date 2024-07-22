@@ -46,7 +46,6 @@
 
 - **NRO by ixxc 08**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/94/ae/1894aec7-fda4-a6f6-d22b-a20a4d120b33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZXvpqqHP)
 
-- **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/81/1f/30811f99-fc77-7ba7-a4e0-1e5be0facd50/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
 - **Ticci Tabs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/9d/34/aa9d3442-256d-6637-a0a9-185d01ffc077/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8ZVI98w)
 
 - **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
@@ -7131,7 +7130,6 @@
 - **The Weekendest: NYC Subway Map**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/0d/af/270daf07-4942-1936-d272-7e4ffbab02f0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/QMF8mCtV)
 - **wthr.cloud**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/2b/32/7a2b32be-e2c5-0c09-689e-451835627e5e/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xQvgZlZ9)
 - **Pupgame**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/fb/64/0afb64dc-0826-d0b6-31a3-5ee1596f3342/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/IM3kTRUY)
-- **Bitflex - Buy & Trade Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/3a/75/603a7565-f99d-80ea-7a16-2a8950dc451e/Icon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/B086wN2p)
 - **Notes - Sight Reading Trainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/2f/2c/8e2f2c48-940f-0fe8-4ce8-688a19b0e042/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/l4ad6sxi)
 - **hockey.nl**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/b0/4f/60b04f6d-768c-c229-d49c-76cbba87017c/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dEZe3xLJ)
 - **On Demand DFS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/c9/be/61c9be2c-ee59-8347-82dd-87495e82d6be/AppIcon_1-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png)](https://testflight.apple.com/join/jzQUDy1B)
