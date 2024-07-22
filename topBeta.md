@@ -13,8 +13,6 @@
 
 - **Toolstash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/92/f1/9292f117-8054-5dd5-94f4-b9f6d9d34499/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mQlC9ulT)
 
-- **STAR PRO GL 3.3-V1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/29/dd/b229dddc-0095-c55d-2251-e331694c1920/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lKgMUVsM)
-- **RSDKv5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/cf/ac/96cfac66-b063-7870-9d98-9f799f3c40b2/AppIcon-1x_U007epad-0-0-GLES2_U002c0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/J5J2Fwcf)
 - **Bat Detector**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/57/e0/6057e0d7-2bf0-d5ae-6074-cbbeb82daedb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M5R8kipW)
 
 - **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/23/cc/0823cc4c-a24b-8a35-1302-a4e696a83191/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
@@ -34,8 +32,6 @@
 
 - **MEXC-Buy & Sell Bitcoin.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/e7/82/ffe78258-6df5-c3df-8496-1cdc50e6f057/AppIcon-Blue-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3bAy4iek)
 - **DMSS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/43/8b/a5438b7b-322b-b9eb-93cf-47ffc8c7f515/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XSkgkfNY)
-
-- **Yellow - A Fun Counter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/bf/40/eabf40c6-ce7a-a8b6-1e94-cf63b9b69fa7/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/N9wigfoi)
 
 - **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/bd/a1/3abda145-6394-c64d-482f-1b3411822624/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 
