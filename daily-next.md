@@ -1,6 +1,3 @@
-- **Hydra for Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fa/c6/1dfac6e2-fc83-5d52-b024-ded2950394cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fpv58Uy3)
-- **Toolstash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/92/f1/9292f117-8054-5dd5-94f4-b9f6d9d34499/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mQlC9ulT)
-
 - **HOK - Map Vip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ab/d4/a7abd488-9c68-1410-a1be-caf52809441e/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H81vWtQy)
 - **Hydra for Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fa/c6/1dfac6e2-fc83-5d52-b024-ded2950394cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fpv58Uy3)
 - **Toolstash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/92/f1/9292f117-8054-5dd5-94f4-b9f6d9d34499/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mQlC9ulT)
