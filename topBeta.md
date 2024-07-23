@@ -12,7 +12,6 @@
 - **Ticci Tabs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/d6/19/f4d61900-4b54-e6e2-5ec8-6ffd91fad406/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8ZVI98w)
 - **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
 
-- **openHAB V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/1b/b7/d11bb7d8-3549-8cb9-149d-8b6220aee4d8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0uFYONeF)
 - **Simple Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/30/46/953046ad-fbaf-d25e-5820-f4109c358abf/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/F6u6Pen8)
 
 - **WIN PRO BGMI 3.3-v1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/9a/68/549a68d0-892e-00ca-43e7-27cb845b9b83/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
@@ -6345,7 +6344,6 @@
 - **RFID 24x7**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/06/b0/7f06b0cc-5426-7ed1-654e-5c490829799e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CpVanHFD)
 - **专有钉钉标准版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/21/8f/5e218f5d-59d0-5073-0e09-89c21af712e1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SymjxfMq)
 - **Cricut Design Space**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/4c/ec/824cec97-ac1c-7997-57fd-9d47e071bb28/AppIcon-Release-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fsoWzA7W)
-- **NutVocab**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/f2/5f/50f25f16-8cf1-6acf-cf8e-9518753a1be4/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/szt9hGfi)
 - **东风Honda**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/7d/f8/a77df80a-2ee0-9f52-68ba-44b9b6cffaad/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/imtQRvmq)
 - **MSFT Sustainability Portal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/39/2a/3c392ae9-392d-7d6f-9bcb-05bad288fdf8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2rYeKq4)
 - **Checkout CT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/50/c0/a050c0eb-85f8-be5f-e078-8c22a0adbd49/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XakzHd3a)
