@@ -21,8 +21,6 @@
 - **レーシングマスター**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/4c/92/874c92df-999d-3d1e-ebe0-b06e4e2b8405/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IuXW2dvS)
 - **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/bd/a1/3abda145-6394-c64d-482f-1b3411822624/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 
-- **DigiByte - Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/57/a7/8557a785-4c1a-1cc8-657f-83754eee4bf1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzOB6dYc)
-
 - **Bitflex - Buy & Trade Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a2/a9/30a2a9bf-e40f-445c-fcdd-bb1f7ad5803a/Icon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dksE4RKV)
 
 - **WIN PRO BGMI 3.3-v1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/9a/68/549a68d0-892e-00ca-43e7-27cb845b9b83/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
@@ -45,8 +43,6 @@
 - **MEXC-Buy & Sell Bitcoin.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/e7/82/ffe78258-6df5-c3df-8496-1cdc50e6f057/AppIcon-Blue-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3bAy4iek)
 - **DMSS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/43/8b/a5438b7b-322b-b9eb-93cf-47ffc8c7f515/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XSkgkfNY)
 
-- **PlayG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6e/36/9e6e36d3-6289-4028-4723-20137fbf559a/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zQUlkcy0)
-
 - **Bookopedia: Note & Track Books**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/08/9e/e1089e67-631e-2e7a-1efa-6743e34b7a04/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U3NY9MqD)
 
 - **Liên Quân AOV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/71/d7/4371d757-c21d-0ad0-3ee7-b7264f8ea285/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZnWnOedu)
@@ -58,8 +54,6 @@
 - **MobileCPM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/27/0a/a0270a58-7bff-826c-5a66-2c39cec4cc7d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dJt5vfOZ)
 
 - **Spinfire Pro 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/7b/8b/a37b8bd0-7295-180e-009e-aaa5ec79a6df/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AvVjNsKP)
-
-- **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/19/61/b5196152-fac7-5a59-7e45-fc5e464a61a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
 
 - **NRO by ixxc 08**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/94/ae/1894aec7-fda4-a6f6-d22b-a20a4d120b33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZXvpqqHP)
 
