@@ -7,8 +7,6 @@
 - **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
 - **Illuvium: Zero**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/e2/d7/d8e2d73d-a4ed-755e-71f8-1371fab5dbd4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NHWJXyxX)
 
-- **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/23/cc/0823cc4c-a24b-8a35-1302-a4e696a83191/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
-
 - **Racing Master**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/54/24/2b542418-611e-45ed-a5d5-44dda15cf12c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JK9aIDCs)
 - **Geospot - Photo locator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e1/76/c1e17653-23f7-54a2-5bf9-0cd55b36dd9e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Avgk7Kcc)
 
@@ -28,7 +26,6 @@
 - **openHAB V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/1b/b7/d11bb7d8-3549-8cb9-149d-8b6220aee4d8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0uFYONeF)
 
 - **レーシングマスター**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/4c/92/874c92df-999d-3d1e-ebe0-b06e4e2b8405/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IuXW2dvS)
-- **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/bd/a1/3abda145-6394-c64d-482f-1b3411822624/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 
 - **Bitflex - Buy & Trade Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a2/a9/30a2a9bf-e40f-445c-fcdd-bb1f7ad5803a/Icon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dksE4RKV)
 
