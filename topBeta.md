@@ -5,8 +5,6 @@
 - **Geospot - Photo locator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e1/76/c1e17653-23f7-54a2-5bf9-0cd55b36dd9e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Avgk7Kcc)
 - **Altius Intelligence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/0d/11/e40d11d8-fa4c-a6fc-8d6f-334b17b46e05/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0bUtVd4u)
 
-- **Dung Si**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/69/9f/39699fbd-5667-269b-2b8c-9b97eb3d2532/AppIcon-0-0-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M1emOvsM)
-
 - **WhatsApp Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/85/bc/7f85bc84-4012-40e3-62c5-0393f096a5ec/AppIconCatalystBetarelbranch-0-2x_U007euniversal-0-0-0-4-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/krUFQpyJ)
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/b2/c4/34b2c4de-7753-71db-a3c9-884991155645/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 - **VFeed - для ВК (VK)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/45/ff/c145ffc5-685e-373f-7773-23a087da2035/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZdC5U0fR)
@@ -48,12 +46,9 @@
 
 - **WIN PRO BGMI 3.3-v1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/9a/68/549a68d0-892e-00ca-43e7-27cb845b9b83/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
 
-- **STAR PRO GL 3.3-V1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/29/dd/b229dddc-0095-c55d-2251-e331694c1920/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lKgMUVsM)
 - **RSDKv5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/cf/ac/96cfac66-b063-7870-9d98-9f799f3c40b2/AppIcon-1x_U007epad-0-0-GLES2_U002c0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/J5J2Fwcf)
 
 - **WIN PRO BGMI 3.3-v1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d1/3d/05d13d1e-1345-98b9-59df-85a4ed51e431/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
-
-- **Bat Detector**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/57/e0/6057e0d7-2bf0-d5ae-6074-cbbeb82daedb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M5R8kipW)
 
 - **NROXANH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/dc/8a/4cdc8a55-ea89-4bc1-d6ba-b652e48fc364/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/deyjeYPQ)
 
