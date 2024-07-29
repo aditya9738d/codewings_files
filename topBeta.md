@@ -4,7 +4,6 @@
 
 - **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/7b/1d/317b1d4f-ead4-6a37-25aa-7be00b8a1361/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
 - **Bat Detector**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/57/e0/6057e0d7-2bf0-d5ae-6074-cbbeb82daedb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M5R8kipW)
-- **Geospot - Photo locator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e1/76/c1e17653-23f7-54a2-5bf9-0cd55b36dd9e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Avgk7Kcc)
 
 - **Luna - Budgeting App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/bc/5f/c8bc5f12-3219-d204-a1c9-7ea18e29e598/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8yRgAYoM)
 
@@ -15,8 +14,6 @@
 - **Ignited - Retro Gaming**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ab/94/efab9499-b264-4410-9be9-daad77f82a8e/IconOrange-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExWvtjcq)
 
 - **Toolstash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/92/f1/9292f117-8054-5dd5-94f4-b9f6d9d34499/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mQlC9ulT)
-
-- **Altius Intelligence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/0d/11/e40d11d8-fa4c-a6fc-8d6f-334b17b46e05/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0bUtVd4u)
 
 - **Dung Si**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/69/9f/39699fbd-5667-269b-2b8c-9b97eb3d2532/AppIcon-0-0-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M1emOvsM)
 
