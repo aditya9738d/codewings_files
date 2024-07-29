@@ -1,3 +1,7 @@
+- **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/7b/1d/317b1d4f-ead4-6a37-25aa-7be00b8a1361/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
+- **Bat Detector**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/57/e0/6057e0d7-2bf0-d5ae-6074-cbbeb82daedb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M5R8kipW)
+- **Geospot - Photo locator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e1/76/c1e17653-23f7-54a2-5bf9-0cd55b36dd9e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Avgk7Kcc)
+
 - **Luna - Budgeting App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/bc/5f/c8bc5f12-3219-d204-a1c9-7ea18e29e598/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8yRgAYoM)
 
 - **GOALS Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/16/c8/2816c838-00b4-e4b4-b629-8a2d0d28b107/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fh1QXQyA)
