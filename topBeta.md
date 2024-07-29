@@ -2,7 +2,6 @@
 - **Ignited - Retro Gaming**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ab/94/efab9499-b264-4410-9be9-daad77f82a8e/IconOrange-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExWvtjcq)
 - **GOALS Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/16/c8/2816c838-00b4-e4b4-b629-8a2d0d28b107/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fh1QXQyA)
 
-- **Ignited - Retro Gaming**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/f0/03/baf00359-b684-daad-41aa-e82cef5903e3/IconOrange-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExWvtjcq)
 - **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/bd/a1/3abda145-6394-c64d-482f-1b3411822624/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 - **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/7b/1d/317b1d4f-ead4-6a37-25aa-7be00b8a1361/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
 
@@ -6738,7 +6737,6 @@
 - **Duckit - Plan & Check**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/8d/37/cf8d37eb-161b-20be-b6e6-8374fe521583/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/63eSOopZ)
 - **DartCounter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/5f/1b/de5f1b16-c7ef-03fa-e718-095d375e732f/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TUSHzmii)
 - **遵义智能工厂**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/13/60/de13601d-8edd-8dd0-63d8-734219167b6f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MCTh3Kfx)
-- **GOALS Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/14/db/1414dbf2-9dc8-7ba9-e3dd-592256b37361/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fh1QXQyA)
 - **CastOfTheDice**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/2b/87/232b87f3-f4fb-9e7d-d75b-a2b28a1b01a8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nLUN5QzM)
 - **ChatFuse App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/81/8c/cb818c9d-187f-a018-a380-fe02721f9055/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v3MR1GOH)
 - **PMII Nice Group**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/67/a9/6567a91d-746b-73b7-684a-eb48b71fe793/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J1g5vzES)
