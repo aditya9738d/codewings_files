@@ -1,7 +1,3 @@
-- **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/69/3c/69693caf-d4e2-4850-b2ea-d8572f6b7f1d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
-- **Bat Detector**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/57/e0/6057e0d7-2bf0-d5ae-6074-cbbeb82daedb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M5R8kipW)
-- **AFK Arena**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/6b/41/1e6b41e0-adc8-06e2-aa4e-062acf1e125b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/feBGFIPh)
-
 - **GOALS Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/16/c8/2816c838-00b4-e4b4-b629-8a2d0d28b107/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fh1QXQyA)
 - **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/bd/a1/3abda145-6394-c64d-482f-1b3411822624/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 - **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/7b/1d/317b1d4f-ead4-6a37-25aa-7be00b8a1361/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
