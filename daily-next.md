@@ -2,6 +2,10 @@
 - **Altius Intelligence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/0d/11/e40d11d8-fa4c-a6fc-8d6f-334b17b46e05/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0bUtVd4u)
 - **NutriSay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f7/6d/51f76dc2-914b-f668-da00-02a77e9ad52e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yu1O8Oh6)
 
+- **Satakunnan Kansa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/ef/2c/05ef2cbb-a5ce-42e4-c982-b703e5aecaa6/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wrh3Qw7n)
+- **Altius Intelligence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/0d/11/e40d11d8-fa4c-a6fc-8d6f-334b17b46e05/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0bUtVd4u)
+- **NutriSay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f7/6d/51f76dc2-914b-f668-da00-02a77e9ad52e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yu1O8Oh6)
+
 - **Altius Intelligence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/0d/11/e40d11d8-fa4c-a6fc-8d6f-334b17b46e05/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0bUtVd4u)
 - **NutriSay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f7/6d/51f76dc2-914b-f668-da00-02a77e9ad52e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yu1O8Oh6)
 
@@ -93,5 +97,3 @@
 - **Mit Gomobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d1/8b/46d18b91-11f8-8cf8-e9b4-f31b12641502/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YXGvJsBB)
 
 - **Kiếm Thế Siêu Nhân Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/4d/14/7c4d149b-040b-b79c-f290-c63915ddb686/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/V6kaSX8v)
-
-- **بيتي - مستشارك العقاري الرقمي**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/c5/cd/dcc5cd03-4055-93c3-7dcd-de1f0d371aab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/leHxarBO)
