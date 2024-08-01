@@ -1,5 +1,7 @@
 - **GOALS Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/16/c8/2816c838-00b4-e4b4-b629-8a2d0d28b107/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fh1QXQyA)
 
+- **GOALS Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/16/c8/2816c838-00b4-e4b4-b629-8a2d0d28b107/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fh1QXQyA)
+
 - **Faxo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/46/a9/4f46a92c-c6e8-4cb4-caa5-87f50730bd2e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qKNJRpAs)
 - **heylogin – Password Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/7a/86/a27a860d-dda8-7bf2-c121-4636d87d898d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hccQEx7f)
 
