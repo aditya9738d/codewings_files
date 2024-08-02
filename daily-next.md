@@ -1,3 +1,7 @@
+- **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/5c/b6/445cb6ad-73fe-1a63-6458-db183ae87f78/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
+- **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/04/fb/a404fb2d-9340-0bf0-1b58-bea01f08a73e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
+- **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
+
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/04/fb/a404fb2d-9340-0bf0-1b58-bea01f08a73e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 - **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
 
@@ -94,4 +98,3 @@
 - **Spinfire Pro 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/7b/8b/a37b8bd0-7295-180e-009e-aaa5ec79a6df/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AvVjNsKP)
 
 - **Yellow Click - A Click Counter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c3/e8/68c3e8ab-0164-797e-f0ee-671940e48f82/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/N9wigfoi)
-- **AIHA Heat Stress**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a6/46/56a646b1-249f-7748-39a5-6d5196f33c2f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Pq0XP4Io)
