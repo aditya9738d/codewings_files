@@ -2,8 +2,6 @@
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/0d/31/2b0d312d-fb48-8312-a5e3-75d8af80fef1/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 - **NRO INOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/47/c5/7447c5f5-7f86-63b7-9b98-d44d5fdaae2b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qdOyXJef)
 
-- **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/0d/31/2b0d312d-fb48-8312-a5e3-75d8af80fef1/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
-
 - **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
 - **小冰冰传奇-官方怀旧服**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/fd/75/e4fd756c-6a31-7d89-6404-ce1bd5f73345/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3iWOsKQO)
 
@@ -3790,7 +3788,6 @@
 - **Heavys - Stage**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f8/c9/e7f8c9e2-a67c-0cc1-d11e-680b357e621f/AppIconBeta-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2H7O9nFt)
 - **Info HR App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/79/3c/79793c6d-c2a6-138e-bba9-2c5c971c9bbf/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vF1UKGOT)
 - **Muse Teams**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/f0/a8/27f0a856-e171-1c16-d19b-f3fdabe6611d/AppIcon.beta-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r2JeOEbm)
-- **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/02/53/8b02532f-bd6b-6b6b-bebc-31a816eea84d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U5p3ccdw)
 - **GoLingo!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/5e/70/c65e707f-cce4-1333-33eb-0ff903a4e34a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LwM7iOqi)
 - **Digiteam**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/ae/ee/94aeee64-058e-3eb7-a456-da7d9b72681c/DigiAppIcon-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Ra10vu6M)
 - **Postit (Çıt)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/dd/c9/20ddc9b2-0694-53b7-1abb-e4db50bdfbbf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CoexpPjv)
