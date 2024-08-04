@@ -2,10 +2,6 @@
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/0d/31/2b0d312d-fb48-8312-a5e3-75d8af80fef1/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 - **NRO INOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/47/c5/7447c5f5-7f86-63b7-9b98-d44d5fdaae2b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qdOyXJef)
 
-- **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/37/44/a637446e-5363-e7eb-e8c8-db8b5eb9eda3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U5p3ccdw)
-- **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/0d/31/2b0d312d-fb48-8312-a5e3-75d8af80fef1/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
-- **NRO INOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/47/c5/7447c5f5-7f86-63b7-9b98-d44d5fdaae2b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qdOyXJef)
-
 - **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
 - **AFK Arena**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/6b/41/1e6b41e0-adc8-06e2-aa4e-062acf1e125b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/feBGFIPh)
 - **NutriSay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f7/6d/51f76dc2-914b-f668-da00-02a77e9ad52e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yu1O8Oh6)
