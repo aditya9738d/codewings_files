@@ -2,6 +2,10 @@
 - **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
 - **GOALS Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/16/c8/2816c838-00b4-e4b4-b629-8a2d0d28b107/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fh1QXQyA)
 
+- **Faxo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/25/26/d0252624-39bc-4a74-c3ec-75ceb6f2159e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qKNJRpAs)
+- **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
+- **GOALS Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/16/c8/2816c838-00b4-e4b4-b629-8a2d0d28b107/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fh1QXQyA)
+
 - **Mammotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GsYEMjIk)
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/37/44/a637446e-5363-e7eb-e8c8-db8b5eb9eda3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U5p3ccdw)
 
