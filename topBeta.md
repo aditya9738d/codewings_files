@@ -1,3 +1,7 @@
+- **AFK Arena**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/6b/41/1e6b41e0-adc8-06e2-aa4e-062acf1e125b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/feBGFIPh)
+- **NutriSay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f7/6d/51f76dc2-914b-f668-da00-02a77e9ad52e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yu1O8Oh6)
+- **Lunatask**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/f6/b6/caf6b690-52a0-5d5a-db4a-fa4e9af46697/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kBdIBSQK)
+
 - **Faxo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/25/26/d0252624-39bc-4a74-c3ec-75ceb6f2159e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qKNJRpAs)
 
 - **IOSZERO VIPVN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/57/225a573f-ac47-a7c5-e734-4ef3ea3f6f66/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4V5BK1O0)
