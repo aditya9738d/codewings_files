@@ -8,7 +8,6 @@
 - **AFK Arena**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/6b/41/1e6b41e0-adc8-06e2-aa4e-062acf1e125b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/feBGFIPh)
 - **NutriSay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f7/6d/51f76dc2-914b-f668-da00-02a77e9ad52e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yu1O8Oh6)
 
-- **Faxo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/25/26/d0252624-39bc-4a74-c3ec-75ceb6f2159e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qKNJRpAs)
 - **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
 - **GOALS Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/16/c8/2816c838-00b4-e4b4-b629-8a2d0d28b107/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fh1QXQyA)
 
@@ -24,8 +23,6 @@
 - **VITCC Parent**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/38/ab/d838ab75-afe2-edc0-ca04-cbddc5459929/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OiJoPPIE)
 
 - **Lunatask**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/f6/b6/caf6b690-52a0-5d5a-db4a-fa4e9af46697/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kBdIBSQK)
-
-- **IOSZERO VIPVN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/57/225a573f-ac47-a7c5-e734-4ef3ea3f6f66/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4V5BK1O0)
 
 - **Ignited - Retro Gaming**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ab/94/efab9499-b264-4410-9be9-daad77f82a8e/IconOrange-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExWvtjcq)
 
