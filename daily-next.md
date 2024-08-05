@@ -1,8 +1,6 @@
 - **Faxo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/25/26/d0252624-39bc-4a74-c3ec-75ceb6f2159e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qKNJRpAs)
 - **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
 
-- **Faxo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/25/26/d0252624-39bc-4a74-c3ec-75ceb6f2159e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qKNJRpAs)
-
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/0d/31/2b0d312d-fb48-8312-a5e3-75d8af80fef1/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 - **NRO INOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/47/c5/7447c5f5-7f86-63b7-9b98-d44d5fdaae2b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qdOyXJef)
 - **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
@@ -19,7 +17,6 @@
 
 - **IOSZERO VIPVN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/57/225a573f-ac47-a7c5-e734-4ef3ea3f6f66/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4V5BK1O0)
 
-- **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
 - **GOALS Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/16/c8/2816c838-00b4-e4b4-b629-8a2d0d28b107/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fh1QXQyA)
 
 - **Mammotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GsYEMjIk)
