@@ -76,7 +76,6 @@
 
 - **TFT - PBE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/52/ba/e852baa6-fd9d-2b25-5742-482197467f57/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q79npPHz)
 
-- **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/1b/14/301b1421-f182-791a-851c-0a28d5ce4df5/AppIcon-primary-primary-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
 - **HOK - Map Vip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ab/d4/a7abd488-9c68-1410-a1be-caf52809441e/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H81vWtQy)
 - **Hydra for Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fa/c6/1dfac6e2-fc83-5d52-b024-ded2950394cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fpv58Uy3)
 
@@ -6124,7 +6123,6 @@
 - **aPager Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/4c/7f/124c7f11-048b-4dc1-9fa7-48e7f28661ad/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QxSGPiAM)
 - **DOB Mobile Insp BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/ef/4b/a2ef4b37-3fa5-cf12-ed19-c367e6153eaf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z2FbkpZ0)
 - **iAm: The Phenomenology App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/b3/b5/04b3b593-32d3-edd7-3c34-cc5b82d32592/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/I8iooU4Y)
-- **WiFi-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/ad/ba/b2adbaa0-3e6c-e71d-d8b8-841a5931a64b/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/LhBWgvsB)
 - **BitDATA Pro - Buy & Sell BTC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/45/95/b84595d1-e0a0-0178-e661-24efe723cb6e/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nXmQ5yYt)
 - **Pokeroom**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/4b/9d/7a4b9d99-1034-68f7-c1ed-b5410b781458/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Sc5Sv7mj)
 - **Brailliance - Learn Braille**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/2e/f6/5e2ef662-fb1f-f09a-82d1-203fbc90f096/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PSwzeHVM)
