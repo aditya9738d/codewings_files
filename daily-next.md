@@ -1,3 +1,7 @@
+- **Legion Workforce (UAT)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/f5/da/5df5da43-edb5-4100-1029-9188edf5512e/AppIcon_UAT-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zc2brH51)
+- **Geospot - Photo locator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e1/76/c1e17653-23f7-54a2-5bf9-0cd55b36dd9e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Avgk7Kcc)
+- **TFT - PBE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/8c/19/7a8c191a-a279-1ec4-dbd6-90b4c4f5188a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q79npPHz)
+
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/8c/f6/398cf635-1e51-51e6-c85e-a5f05d574ee3/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 - **MEXC-Buy & Sell Bitcoin.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/7d/21/c67d21a0-b92c-c5a6-1617-b8fbcb2c6fa4/AppIcon-Blue-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3bAy4iek)
 
@@ -94,5 +98,3 @@
 - **openHAB V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/1b/b7/d11bb7d8-3549-8cb9-149d-8b6220aee4d8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0uFYONeF)
 
 - **Bitflex - Buy & Trade Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a2/a9/30a2a9bf-e40f-445c-fcdd-bb1f7ad5803a/Icon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dksE4RKV)
-
-- **WIN PRO BGMI 3.3-v1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/9a/68/549a68d0-892e-00ca-43e7-27cb845b9b83/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zs5uy2ls)
