@@ -62,8 +62,6 @@
 
 - **Bat Detector**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/57/e0/6057e0d7-2bf0-d5ae-6074-cbbeb82daedb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M5R8kipW)
 
-- **Geospot - Photo locator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e1/76/c1e17653-23f7-54a2-5bf9-0cd55b36dd9e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Avgk7Kcc)
-
 - **Luna - Budgeting App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/bc/5f/c8bc5f12-3219-d204-a1c9-7ea18e29e598/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8yRgAYoM)
 
 - **Dung Si**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/69/9f/39699fbd-5667-269b-2b8c-9b97eb3d2532/AppIcon-0-0-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M1emOvsM)
@@ -80,8 +78,6 @@
 - **Racing Master**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/54/24/2b542418-611e-45ed-a5d5-44dda15cf12c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JK9aIDCs)
 
 - **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
-
-- **TFT - PBE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/52/ba/e852baa6-fd9d-2b25-5742-482197467f57/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q79npPHz)
 
 - **HOK - Map Vip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ab/d4/a7abd488-9c68-1410-a1be-caf52809441e/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H81vWtQy)
 - **Hydra for Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fa/c6/1dfac6e2-fc83-5d52-b024-ded2950394cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fpv58Uy3)
@@ -4475,7 +4471,6 @@
 - **MIYA - 遇見好聲音**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/03/64/4303647b-4a19-8fff-773e-9fcc69201dfd/AppIcon-Internal-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0zKOuSXK)
 - **NESTracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/43/b4/b843b432-5917-21e2-6902-e363c78923d1/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wwep90dI)
 - **Meraki**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/47/54/94475464-f2b5-bf06-79f1-8aff182568e8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/56ZYICJZ)
-- **Legion Workforce (UAT)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/84/4a/9d844a5e-f4a9-470f-f3fa-c3275756ef1e/AppIcon_UAT-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zc2brH51)
 - **NroBuen0.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/b8/88/10b888b9-c944-5fe0-6265-5b013f449a36/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yzJdLHii)
 - **DAILY MATTER**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/47/f4/1947f416-aedb-5713-4589-704bd445cea1/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AJ9gS1mj)
 - **LOOKING CAM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/b7/03/a8b70340-e46b-2ec1-7364-a9a8de812f8c/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eNDsvFyn)
