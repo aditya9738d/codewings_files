@@ -97,7 +97,6 @@
 
 - **DigiByte - Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/57/a7/8557a785-4c1a-1cc8-657f-83754eee4bf1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzOB6dYc)
 - **PlayG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6e/36/9e6e36d3-6289-4028-4723-20137fbf559a/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zQUlkcy0)
-- **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/19/61/b5196152-fac7-5a59-7e45-fc5e464a61a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
 
 - **Ticci Tabs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/d6/19/f4d61900-4b54-e6e2-5ec8-6ffd91fad406/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8ZVI98w)
 
@@ -8383,7 +8382,6 @@
 - **Hyperspace Warriors**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/eb/90/40eb9009-f824-3243-456b-26583ac252d0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-8.png)](https://testflight.apple.com/join/AXuu5CEY)
 - **IEG Reservations Management**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/bc/c3/a8bcc33c-25d4-a4a6-6c73-c18fecc588b3/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/71OpCY6Z)
 - **IG Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/ab/a1/b4aba1c8-d10c-3b8d-3d5a-65876b4bdf76/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/YirpiDN2)
-- **IGNITE Firing Systems**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/d2/e2/6cd2e239-f03c-e90e-5e4d-b44d87387784/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/mzuXsfLE)
 - **IMT ASE BlurtKey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/94/01/3194017c-036a-8193-b596-e0061f4636f6/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-8.png)](https://testflight.apple.com/join/39G66YV7)
 - **ION Ignite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/e6/9f/5be69fbb-8a01-21f2-ba87-61dc83178ca2/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/sfrWhaRj)
 - **IPA Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/0c/83/d10c8375-ecf7-4640-9329-9862aa70ee66/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/3kPO65Ol)
