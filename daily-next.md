@@ -1,6 +1,9 @@
 - **WiFi-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/6b/6e/3d6b6e85-ca19-b06c-e1d9-0192d1dbe9f3/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/LhBWgvsB)
 - **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/1b/14/301b1421-f182-791a-851c-0a28d5ce4df5/AppIcon-primary-primary-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
 
+- **WiFi-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/6b/6e/3d6b6e85-ca19-b06c-e1d9-0192d1dbe9f3/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/LhBWgvsB)
+- **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/1b/14/301b1421-f182-791a-851c-0a28d5ce4df5/AppIcon-primary-primary-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
+
 - **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/19/61/b5196152-fac7-5a59-7e45-fc5e464a61a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
 
 - **IGNITE Firing Systems**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/dc/08/2bdc085b-08dc-5b56-5450-88e5d2466b6b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mzuXsfLE)
