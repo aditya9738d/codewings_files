@@ -1,6 +1,9 @@
 - **海南干部在线**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/7f/41/607f4128-729b-30ca-4b4c-c8b23d2c3dec/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U01UJPV8)
 - **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
 
+- **海南干部在线**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/7f/41/607f4128-729b-30ca-4b4c-c8b23d2c3dec/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U01UJPV8)
+- **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
+
 - **Final Glory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/c4/49/94c449f8-2ee8-8148-e33e-6255caca7bef/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9O83Or12)
 - **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/9b/62/8a9b62ee-09ae-163b-6184-d805397a2349/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 
