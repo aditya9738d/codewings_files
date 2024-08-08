@@ -4,9 +4,6 @@
 - **Final Glory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/c4/49/94c449f8-2ee8-8148-e33e-6255caca7bef/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9O83Or12)
 - **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/9b/62/8a9b62ee-09ae-163b-6184-d805397a2349/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 
-- **Final Glory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/c4/49/94c449f8-2ee8-8148-e33e-6255caca7bef/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9O83Or12)
-- **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/9b/62/8a9b62ee-09ae-163b-6184-d805397a2349/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
-
 - **Julienne: A Smarter Cookbook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/d2/26/52d226c6-9d21-4a40-e12a-20bacf09f86f/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/4ecvoTmQ)
 
 - **WiFi-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/6b/6e/3d6b6e85-ca19-b06c-e1d9-0192d1dbe9f3/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/LhBWgvsB)
@@ -28,13 +25,9 @@
 
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/31/d2/4231d20a-45ee-e327-9460-763b5b41c389/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U5p3ccdw)
 
-- **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
-
 - **小冰冰传奇-官方怀旧服**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/fd/75/e4fd756c-6a31-7d89-6404-ce1bd5f73345/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3iWOsKQO)
 
 - **STAR PRO GL 3.3-V1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/29/dd/b229dddc-0095-c55d-2251-e331694c1920/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lKgMUVsM)
-
-- **海南干部在线**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/7f/41/607f4128-729b-30ca-4b4c-c8b23d2c3dec/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U01UJPV8)
 
 - **Geospot - Photo locator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e1/76/c1e17653-23f7-54a2-5bf9-0cd55b36dd9e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Avgk7Kcc)
 - **TFT - PBE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/8c/19/7a8c191a-a279-1ec4-dbd6-90b4c4f5188a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q79npPHz)
