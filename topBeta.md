@@ -35,11 +35,8 @@
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/8c/f6/398cf635-1e51-51e6-c85e-a5f05d574ee3/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 
 - **heylogin – Password Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/7a/86/a27a860d-dda8-7bf2-c121-4636d87d898d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hccQEx7f)
-- **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/9b/62/8a9b62ee-09ae-163b-6184-d805397a2349/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/9b/62/8a9b62ee-09ae-163b-6184-d805397a2349/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
-
-- **Final Glory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/c4/49/94c449f8-2ee8-8148-e33e-6255caca7bef/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9O83Or12)
 
 - **Legion Workforce (UAT)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/f5/da/5df5da43-edb5-4100-1029-9188edf5512e/AppIcon_UAT-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zc2brH51)
 
