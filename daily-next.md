@@ -1,3 +1,7 @@
+- **Racing Master**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/54/24/2b542418-611e-45ed-a5d5-44dda15cf12c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JK9aIDCs)
+- **Legion Workforce (UAT)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/f5/da/5df5da43-edb5-4100-1029-9188edf5512e/AppIcon_UAT-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zc2brH51)
+- **Geospot - Photo locator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e1/76/c1e17653-23f7-54a2-5bf9-0cd55b36dd9e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Avgk7Kcc)
+
 - **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/9b/62/8a9b62ee-09ae-163b-6184-d805397a2349/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 - **Mammotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GsYEMjIk)
 
@@ -94,4 +98,3 @@
 - **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
 
 - **DigiByte - Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/57/a7/8557a785-4c1a-1cc8-657f-83754eee4bf1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzOB6dYc)
-- **PlayG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6e/36/9e6e36d3-6289-4028-4723-20137fbf559a/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zQUlkcy0)
