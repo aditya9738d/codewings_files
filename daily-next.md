@@ -1,3 +1,6 @@
+- **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/95/9f/d0959f6c-8630-d504-ae49-07df2cfec116/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U5p3ccdw)
+- **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/69/22/2a692294-53e2-c6e5-ea12-58b2e1472c51/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
+
 - **Altius Intelligence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/0d/11/e40d11d8-fa4c-a6fc-8d6f-334b17b46e05/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0bUtVd4u)
 - **Lunatask**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/de/13/7dde13b8-78eb-bbf7-d2ee-e7a5c516d038/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kBdIBSQK)
 
