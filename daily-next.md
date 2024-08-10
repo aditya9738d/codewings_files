@@ -1,3 +1,6 @@
+- **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
+- **heylogin – Password Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/7a/86/a27a860d-dda8-7bf2-c121-4636d87d898d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hccQEx7f)
+
 - **Car Parking Multiplayer 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/9b/62/8a9b62ee-09ae-163b-6184-d805397a2349/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QHuun0Nh)
 - **Mammotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GsYEMjIk)
 
