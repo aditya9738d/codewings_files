@@ -1,7 +1,6 @@
 - **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
 
 - **VALPAW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/d0/e6/40d0e600-a994-a69a-69c6-40e3b1a40e1c/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eOgMk6SM)
-- **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
 
 - **Illuvium: Zero**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/e2/d7/d8e2d73d-a4ed-755e-71f8-1371fab5dbd4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NHWJXyxX)
 - **AListServer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c2/ce/24c2ce7e-6fa4-0bb8-8b99-9cdf7c419597/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/ZkEH1rwb)
