@@ -2,10 +2,6 @@
 - **File Widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/17/66/92176600-9d18-fa49-9858-34909d333043/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/MZc6JJst)
 
 - **WiFi-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/6b/6e/3d6b6e85-ca19-b06c-e1d9-0192d1dbe9f3/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/LhBWgvsB)
-- **Anubis Reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/1d/5d/071d5dc5-0721-973f-744a-af4856f8272a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r3DDlSqw)
-
-- **WiFi-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/6b/6e/3d6b6e85-ca19-b06c-e1d9-0192d1dbe9f3/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/LhBWgvsB)
-- **Anubis Reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/1d/5d/071d5dc5-0721-973f-744a-af4856f8272a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r3DDlSqw)
 
 - **Backyard.AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/38/6b/88386b9a-8847-ea64-7da7-b7007ffae5e4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MaP0ap1E)
 
@@ -6403,7 +6399,6 @@
 - **Tape Loader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/cd/46/bccd4689-a4ad-f3f5-dca0-a8bf458782d1/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/HmTSGxKw)
 - **Childfree Connection**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/f5/20/30f5209b-5070-610e-0d09-46f044fe9f25/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NGSn8dW9)
 - **Indyx: Wardrobe & Outfit App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/d9/f6/1ad9f647-c6da-f198-d633-e3d0fb67bac7/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/uAmJ6T7n)
-- **File Widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/89/f5/9689f573-80c5-692f-2db8-3d1254fe9dec/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/MZc6JJst)
 - **Ngoc Rong Jun**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/5f/fc/f25ffc54-8dd1-c443-ce7e-9bfb57f2768f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/egjAt14d)
 - **DarkPlusMMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/0c/ff/c30cffe4-d97b-e2d0-97cb-0e5e0fd8e70f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/API2cKNf)
 - **Auto Swiper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/01/8f/8e018f8b-a803-3db5-2a6b-f25deb8a07f5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9EVhkRas)
