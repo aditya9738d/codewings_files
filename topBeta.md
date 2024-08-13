@@ -33,8 +33,6 @@
 - **Ignited - Retro Gaming**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ab/94/efab9499-b264-4410-9be9-daad77f82a8e/IconOrange-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExWvtjcq)
 - **Faxo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/83/ef/af83efbe-4002-9ad4-14de-831d7c4dcc8b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qKNJRpAs)
 
-- **MeloJam PlayPark**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/04/5e/ee045efc-3d3b-8a28-0577-ac813eed7f36/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HjE8KvXa?source_caller=ui&shortlink=b1hj99uh)
-
 - **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
 
 - **VALPAW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/d0/e6/40d0e600-a994-a69a-69c6-40e3b1a40e1c/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eOgMk6SM)
