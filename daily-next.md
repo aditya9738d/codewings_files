@@ -4,10 +4,6 @@
 - **Tatami ∞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/fa/43/c5fa43ec-701d-9f0c-3955-e4382e3374ca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A6JbU7sh)
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/95/9f/d0959f6c-8630-d504-ae49-07df2cfec116/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U5p3ccdw)
 
-- **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
-- **Tatami ∞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/fa/43/c5fa43ec-701d-9f0c-3955-e4382e3374ca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A6JbU7sh)
-- **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/95/9f/d0959f6c-8630-d504-ae49-07df2cfec116/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U5p3ccdw)
-
 - **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/fb/3a/12fb3a6b-302d-164a-0a60-bc7b0999c9f7/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
 - **IGNITE Firing Systems**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/dc/08/2bdc085b-08dc-5b56-5450-88e5d2466b6b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mzuXsfLE)
 - **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
@@ -39,7 +35,6 @@
 - **KPAH4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6a/42/7a6a4282-a798-b3f1-8896-f7392850ccb2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ssNqHRM9)
 
 - **Mammotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GsYEMjIk)
-- **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/7b/1d/317b1d4f-ead4-6a37-25aa-7be00b8a1361/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
 - **Kaspersky fast & secure VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/46/00/d44600ad-9e0f-a571-64c1-a8612ccf4e36/AppIcon-0-0-85-220-0-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ieHWc6hH)
 
 - **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
