@@ -4,8 +4,6 @@
 
 - **Satakunnan Kansa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/ad/05/88ad05fa-e563-de26-b844-c52764fa5d1d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wrh3Qw7n)
 
-- **Satakunnan Kansa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/ad/05/88ad05fa-e563-de26-b844-c52764fa5d1d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wrh3Qw7n)
-
 - **Popset Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/a0/28/2da028b9-c14b-3874-ce55-ca1628441da5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uFgOuEoi)
 - **TikTok Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f2/19/bff219ef-10c9-3a22-ad8c-74c19378eceb/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G0n2YZyU)
 - **Bringin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/17/bb/0917bb1a-181f-6bdd-e477-36fc3143cd29/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HVh6eZsF)
@@ -23,7 +21,6 @@
 - **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/a8/0a/f9a80a2b-ee46-d3c1-78ea-2e3e103b7063/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
 - **BAGS - Financial Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/56/5d/71565d61-d887-4cfb-4570-eca49d1427c0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j7uwkoAL)
 - **TripSaver**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/01/8d/e1018d23-37c3-7fd4-c99f-0e9cb5eee685/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/4zBdye9P)
-- **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/93/26/339326d2-dd5a-9f26-bb93-39b0f7f71ae7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 - **DWARFLAB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/0b/8e/c10b8eb6-a8ae-e2e3-5291-3f25075360c3/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tkgyzuZe)
 - **BeVi AI Camera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/bf/3b/b2bf3b18-393b-586e-4774-3695c55af628/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z6UFZA6Y)
 - **uche_journal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/90/42/cb904289-940c-6832-5c2b-c6b68c5a321c/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kkQWJpgb)
@@ -90,7 +87,6 @@
 - **HeyLumi: Tailored AI Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/6f/9d/b26f9dd2-2f37-c3e9-d379-ba82a80ea5ce/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/reQsxT5Q)
 - **小冰冰传奇-官方怀旧服**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/fd/75/e4fd756c-6a31-7d89-6404-ce1bd5f73345/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3iWOsKQO)
 
-- **KPAH4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6a/42/7a6a4282-a798-b3f1-8896-f7392850ccb2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ssNqHRM9)
 - **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
 - **Tatami ∞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/fa/43/c5fa43ec-701d-9f0c-3955-e4382e3374ca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A6JbU7sh)
 
