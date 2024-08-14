@@ -97,8 +97,6 @@
 
 - **Toolstash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/92/f1/9292f117-8054-5dd5-94f4-b9f6d9d34499/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mQlC9ulT)
 
-- **Satakunnan Kansa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/ef/2c/05ef2cbb-a5ce-42e4-c982-b703e5aecaa6/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wrh3Qw7n)
-
 - **App VIP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/7a/0d/fe7a0de7-adb7-ede0-46af-11bbcc0239d5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/pWMi4Apy)
 
 - **Bat Detector**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/57/e0/6057e0d7-2bf0-d5ae-6074-cbbeb82daedb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M5R8kipW)
@@ -3850,7 +3848,6 @@
 - **UB UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/08/c9/c708c983-ede9-97e0-54ec-b27114e0a3fd/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qVpMqG8k)
 - **Crisp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/28/21/f22821f0-a230-99a8-4984-064e79a51950/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EiqYmhki)
 - **Unicorn Pro:Privacy & Adblock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/19/d3/b219d362-15b8-8c9b-c1fd-69a51adeef10/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Lr1vIu8x)
-- **Doppi: the nicest music player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/d0/a4/bad0a456-084a-e801-d5a9-ec65250f2b88/AppIcon-0-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/gWvgJw2y)
 - **HelloFresh: Meal Kit Delivery**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/66/db/c066db6e-e931-2e0f-5a53-e7bbd58733fb/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zwhJ2o6f)
 - **MP CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/54/67/1c546736-4d96-7ecb-c57c-ac09d28321d8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NqTN0JgK)
 - **ntv Nachrichten**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/6d/6d/456d6d1f-e28b-35d4-430c-a25c64f977e7/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/n65TDvGb)
