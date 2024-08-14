@@ -1,7 +1,5 @@
 - **Satakunnan Kansa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/ad/05/88ad05fa-e563-de26-b844-c52764fa5d1d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wrh3Qw7n)
 
-- **Satakunnan Kansa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/ad/05/88ad05fa-e563-de26-b844-c52764fa5d1d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wrh3Qw7n)
-
 - **Popset Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/a0/28/2da028b9-c14b-3874-ce55-ca1628441da5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uFgOuEoi)
 - **TikTok Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f2/19/bff219ef-10c9-3a22-ad8c-74c19378eceb/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G0n2YZyU)
 - **Bringin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/17/bb/0917bb1a-181f-6bdd-e477-36fc3143cd29/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HVh6eZsF)
