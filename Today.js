@@ -1,7 +1,7 @@
 (function () {
     let apps = [];
     const visibleApps = 3; // Number of initially visible apps
-    const totalAppsToLoad = 10; // Maximum number of apps to load
+    const totalAppsToLoad = 12; // Maximum number of apps to load
 
     let appLoaderContainer = document.getElementById('app-loader-container-2');
 
@@ -15,7 +15,7 @@
     titleLink.href = 'recent.html';
 
     const titleParagraph = document.createElement('p');
-    titleParagraph.innerHTML = 'Today on TestFlight <span class="custom-arrow">›</span>';
+    titleParagraph.innerHTML = '<span><img src="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/icon/logo.png" alt="Arrow" style="width: 15px;margin-right: 10px;">Today on TestFlight </span><span class="custom-arrow">›</span>';
     // 
 
     titleLink.appendChild(titleParagraph);
@@ -42,6 +42,9 @@
             </div>
             <h2 class="app-name">${app.name}</h2>
             <p class="app-counter"> <span class="click-count">0</span></p>
+                <button class="get-button">
+        <img src="arrow.png" alt="Arrow">
+    </button>
         `;
 
         // Function to fetch and update the click count from Firebase
