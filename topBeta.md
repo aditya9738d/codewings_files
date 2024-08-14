@@ -36,17 +36,12 @@
 - **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
 - **NRO INOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/47/c5/7447c5f5-7f86-63b7-9b98-d44d5fdaae2b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qdOyXJef)
 
-- **小冰冰传奇-官方怀旧服**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/fd/75/e4fd756c-6a31-7d89-6404-ce1bd5f73345/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3iWOsKQO)
 - **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
-
-- **HeyLumi: Tailored AI Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/6f/9d/b26f9dd2-2f37-c3e9-d379-ba82a80ea5ce/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/reQsxT5Q)
 
 - **Cars24 (B2C) Cataloging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/af/1e/34af1e2d-f468-887b-0630-332f645a16d1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uaXNsor7)
 
 - **Mammotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GsYEMjIk)
 - **Kaspersky fast & secure VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/46/00/d44600ad-9e0f-a571-64c1-a8612ccf4e36/AppIcon-0-0-85-220-0-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ieHWc6hH)
-
-- **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
 
 - **VALPAW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/d0/e6/40d0e600-a994-a69a-69c6-40e3b1a40e1c/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eOgMk6SM)
 
