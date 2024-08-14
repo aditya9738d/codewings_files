@@ -2,8 +2,6 @@
 - **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
 - **Tatami ∞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/fa/43/c5fa43ec-701d-9f0c-3955-e4382e3374ca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A6JbU7sh)
 
-- **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
-- **Tatami ∞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/fa/43/c5fa43ec-701d-9f0c-3955-e4382e3374ca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A6JbU7sh)
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/95/9f/d0959f6c-8630-d504-ae49-07df2cfec116/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U5p3ccdw)
 
 - **IOSZERO VIPVN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/57/225a573f-ac47-a7c5-e734-4ef3ea3f6f66/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4V5BK1O0)
@@ -15,7 +13,6 @@
 - **My Card Post**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d0/c8/3ad0c839-a59b-924e-82b4-3d61ea3a286f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhery85J)
 
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/93/26/339326d2-dd5a-9f26-bb93-39b0f7f71ae7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
-- **KPAH4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6a/42/7a6a4282-a798-b3f1-8896-f7392850ccb2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ssNqHRM9)
 
 - **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/7b/1d/317b1d4f-ead4-6a37-25aa-7be00b8a1361/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
 
