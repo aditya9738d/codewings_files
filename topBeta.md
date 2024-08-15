@@ -3,9 +3,6 @@
 - **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
 - **VITCC Parent**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/38/ab/d838ab75-afe2-edc0-ca04-cbddc5459929/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OiJoPPIE)
 
-- **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
-- **VITCC Parent**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/38/ab/d838ab75-afe2-edc0-ca04-cbddc5459929/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OiJoPPIE)
-
 - **BeVi AI Camera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/bf/3b/b2bf3b18-393b-586e-4774-3695c55af628/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z6UFZA6Y)
 
 - **AListServer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c2/ce/24c2ce7e-6fa4-0bb8-8b99-9cdf7c419597/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/ZkEH1rwb)
@@ -27,8 +24,6 @@
 - **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
 
 - **Mises Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8d/00/a08d0027-ca48-bbb9-4525-77dbd627dc58/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFykgML6)
-
-- **Satakunnan Kansa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/ad/05/88ad05fa-e563-de26-b844-c52764fa5d1d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wrh3Qw7n)
 
 - **Popset Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/a0/28/2da028b9-c14b-3874-ce55-ca1628441da5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uFgOuEoi)
 - **TikTok Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f2/19/bff219ef-10c9-3a22-ad8c-74c19378eceb/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G0n2YZyU)
