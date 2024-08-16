@@ -6,18 +6,11 @@
 - **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/fb/3a/12fb3a6b-302d-164a-0a60-bc7b0999c9f7/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
 - **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
 
-- **Ignited - Retro Gaming**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ab/94/efab9499-b264-4410-9be9-daad77f82a8e/IconOrange-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExWvtjcq)
-- **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/fb/3a/12fb3a6b-302d-164a-0a60-bc7b0999c9f7/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
-- **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
-
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/9b/44/e89b44a9-570d-4971-5184-cc2f066fd1dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U5p3ccdw)
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/25/b1/0025b123-73b4-fd47-b280-171362bad6ca/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 - **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
 
 - **MeloJam PlayPark**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/04/5e/ee045efc-3d3b-8a28-0577-ac813eed7f36/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HjE8KvXa?source_caller=ui&shortlink=b1hj99uh)
-
-- **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
-- **Tatami ∞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/1b/76/c51b7610-30ca-2943-4bcd-9c5c4f867a4c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A6JbU7sh)
 
 - **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
 - **HeyLumi: Tailored AI Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/6f/9d/b26f9dd2-2f37-c3e9-d379-ba82a80ea5ce/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/reQsxT5Q)
@@ -25,7 +18,6 @@
 
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/93/26/339326d2-dd5a-9f26-bb93-39b0f7f71ae7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 - **KPAH4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6a/42/7a6a4282-a798-b3f1-8896-f7392850ccb2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ssNqHRM9)
-- **Mises Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8d/00/a08d0027-ca48-bbb9-4525-77dbd627dc58/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFykgML6)
 
 - **Kiếm Thế 15 Phái**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/91/03/b9910306-a1e6-b151-0471-caeb09137f64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s3LjPecB)
 - **Doppi: the nicest music player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/2c/51/412c51f0-86f4-ee33-6545-f14ea048c15e/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Kxs8t6SE)
