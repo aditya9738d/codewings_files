@@ -10,7 +10,6 @@
 - **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
 - **Tatami ∞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/1b/76/c51b7610-30ca-2943-4bcd-9c5c4f867a4c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A6JbU7sh)
 
-- **Ignited - Retro Gaming**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ab/94/efab9499-b264-4410-9be9-daad77f82a8e/IconOrange-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExWvtjcq)
 - **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/fb/3a/12fb3a6b-302d-164a-0a60-bc7b0999c9f7/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
 - **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
 
@@ -121,7 +120,6 @@
 
 
 
-- **IOSZERO VIPVN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/57/225a573f-ac47-a7c5-e734-4ef3ea3f6f66/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4V5BK1O0)
 
 
 - **My Card Post**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d0/c8/3ad0c839-a59b-924e-82b4-3d61ea3a286f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhery85J)
