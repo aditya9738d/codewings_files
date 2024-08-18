@@ -2,10 +2,6 @@
 - **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
 - **Tatami ∞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/1b/76/c51b7610-30ca-2943-4bcd-9c5c4f867a4c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A6JbU7sh)
 
-- **Mises Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8d/00/a08d0027-ca48-bbb9-4525-77dbd627dc58/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFykgML6)
-- **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
-- **Tatami ∞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/1b/76/c51b7610-30ca-2943-4bcd-9c5c4f867a4c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A6JbU7sh)
-
 - **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
 - **NRO INOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/47/c5/7447c5f5-7f86-63b7-9b98-d44d5fdaae2b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qdOyXJef)
 - **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
