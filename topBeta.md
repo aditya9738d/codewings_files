@@ -16,7 +16,6 @@
 - **VITCC Parent**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/38/ab/d838ab75-afe2-edc0-ca04-cbddc5459929/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OiJoPPIE)
 
 - **Lunatask**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/ab/2c/5bab2c1e-6f88-0597-6068-47e7ae336c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kBdIBSQK)
-- **MeloJam PlayPark**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/04/5e/ee045efc-3d3b-8a28-0577-ac813eed7f36/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HjE8KvXa?source_caller=ui&shortlink=b1hj99uh)
 
 - **KPAH4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6a/42/7a6a4282-a798-b3f1-8896-f7392850ccb2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ssNqHRM9)
 - **Mises Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8d/00/a08d0027-ca48-bbb9-4525-77dbd627dc58/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFykgML6)
@@ -45,8 +44,6 @@
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/93/26/339326d2-dd5a-9f26-bb93-39b0f7f71ae7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 
 - **Satakunnan Kansa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/ad/05/88ad05fa-e563-de26-b844-c52764fa5d1d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wrh3Qw7n)
-
-- **Mammotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GsYEMjIk)
 
 - **Lapz - F1® for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/7b/1d/317b1d4f-ead4-6a37-25aa-7be00b8a1361/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qX6Yvfwz)
 
