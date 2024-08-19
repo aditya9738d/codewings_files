@@ -31,8 +31,6 @@
 
 - **Lunatask**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/ab/2c/5bab2c1e-6f88-0597-6068-47e7ae336c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kBdIBSQK)
 
-- **KPAH4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6a/42/7a6a4282-a798-b3f1-8896-f7392850ccb2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ssNqHRM9)
-
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/62/2a/e4622a26-3a99-7151-e721-cced7f8454d6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 
 - **Nro Hoa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/1a/2e/dc1a2e43-c56a-318d-3ea1-021be08ae170/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eyIvc82u)
@@ -42,12 +40,9 @@
 
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/9b/44/e89b44a9-570d-4971-5184-cc2f066fd1dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U5p3ccdw)
 
-- **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/93/26/339326d2-dd5a-9f26-bb93-39b0f7f71ae7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
-
 - **Kiếm Thế 15 Phái**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/91/03/b9910306-a1e6-b151-0471-caeb09137f64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s3LjPecB)
 - **Doppi: the nicest music player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/2c/51/412c51f0-86f4-ee33-6545-f14ea048c15e/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Kxs8t6SE)
 
-- **AListServer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c2/ce/24c2ce7e-6fa4-0bb8-8b99-9cdf7c419597/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/ZkEH1rwb)
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/93/26/339326d2-dd5a-9f26-bb93-39b0f7f71ae7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 
 - **Satakunnan Kansa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/ad/05/88ad05fa-e563-de26-b844-c52764fa5d1d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wrh3Qw7n)
