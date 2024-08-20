@@ -40,8 +40,6 @@
 
 - **Ignited - Retro Gaming**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ab/94/efab9499-b264-4410-9be9-daad77f82a8e/IconOrange-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExWvtjcq)
 
-- **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/62/2a/e4622a26-3a99-7151-e721-cced7f8454d6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
-
 - **Nro Hoa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/1a/2e/dc1a2e43-c56a-318d-3ea1-021be08ae170/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eyIvc82u)
 
 - **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/fb/3a/12fb3a6b-302d-164a-0a60-bc7b0999c9f7/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
@@ -812,7 +810,6 @@
 - **KARAMI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/35/27/f735273c-96eb-f9df-4a23-ba3b81d9a0b4/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BxDBBGER)
 - **ASAP - Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/1e/70/961e7081-4340-9a60-3418-17cd826449ec/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/egGR27wi)
 - **eureka robot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/64/a4/e664a497-b190-e962-9a1f-0ef38fa86085/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RrDQQFY9)
-- **Controlled—ControlD Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/91/1a/b2911ab7-d104-1b0f-36e5-c89649532608/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DsiP91S8)
 - **NgocRongNewHot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/3f/92/6e3f92fc-0811-2e80-f21b-c252369dbc5d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jgsB00CC)
 - **QuanLySinhVien**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/16/b1/7716b17c-445e-a24e-a043-bb56c96d5b9b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tnvjjHjd)
 - **Advapay Mobile Bank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/80/d9/0680d91d-3b02-a675-ed15-62ae141e09ee/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHUO48V9)
