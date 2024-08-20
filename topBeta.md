@@ -17,8 +17,6 @@
 - **Freelan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/d0/d7/58d0d720-df67-2cdf-2fe4-52e68dffc4f6/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q3JGZn5D)
 - **TokenX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/65/c3/ab65c31c-f204-e7e7-12cf-fdf4366c4d95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KSSmtna3)
 
-- **VITCC Parent**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/38/ab/d838ab75-afe2-edc0-ca04-cbddc5459929/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OiJoPPIE)
-- **IOSZERO VIPVN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/57/225a573f-ac47-a7c5-e734-4ef3ea3f6f66/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4V5BK1O0)
 - **Mammotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GsYEMjIk)
 
 - **Backyard.AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/bd/b5/43bdb5f8-1e07-c5b2-349b-32c211fe73f0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MaP0ap1E)
@@ -26,8 +24,6 @@
 - **My Card Post**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d0/c8/3ad0c839-a59b-924e-82b4-3d61ea3a286f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhery85J)
 
 - **AListServer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c2/ce/24c2ce7e-6fa4-0bb8-8b99-9cdf7c419597/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/ZkEH1rwb)
-
-- **BeVi AI Camera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/bf/3b/b2bf3b18-393b-586e-4774-3695c55af628/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z6UFZA6Y)
 
 - **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
 - **NRO INOVAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/47/c5/7447c5f5-7f86-63b7-9b98-d44d5fdaae2b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qdOyXJef)
