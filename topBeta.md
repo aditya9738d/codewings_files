@@ -1,9 +1,6 @@
 - **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
 - **My Card Post**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d0/c8/3ad0c839-a59b-924e-82b4-3d61ea3a286f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhery85J)
 
-- **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
-- **My Card Post**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d0/c8/3ad0c839-a59b-924e-82b4-3d61ea3a286f/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhery85J)
-
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/62/2a/e4622a26-3a99-7151-e721-cced7f8454d6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 - **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
 
