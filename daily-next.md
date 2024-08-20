@@ -1,3 +1,6 @@
+- **Doppi: the nicest music player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/a3/10/b4a3103d-64cc-5a30-e408-54613310d09e/AppIcon-0-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Kxs8t6SE)
+- **Lunatask**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/ab/2c/5bab2c1e-6f88-0597-6068-47e7ae336c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kBdIBSQK)
+
 - **HeyLumi: Tailored AI Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/6f/9d/b26f9dd2-2f37-c3e9-d379-ba82a80ea5ce/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/reQsxT5Q)
 
 - **Freelan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/d0/d7/58d0d720-df67-2cdf-2fe4-52e68dffc4f6/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q3JGZn5D)
