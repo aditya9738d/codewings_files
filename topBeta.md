@@ -2,8 +2,6 @@
 - **TextExpander 7 Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/14/1a/2c141af3-fab3-4f78-6d0d-ccdcc15f9608/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vKrjNFUr)
 - **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
 
-- **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
-
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/62/2a/e4622a26-3a99-7151-e721-cced7f8454d6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 
 - **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
@@ -42,7 +40,6 @@
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/93/26/339326d2-dd5a-9f26-bb93-39b0f7f71ae7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 - **KPAH4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6a/42/7a6a4282-a798-b3f1-8896-f7392850ccb2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ssNqHRM9)
 
-- **Mises Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8d/00/a08d0027-ca48-bbb9-4525-77dbd627dc58/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFykgML6)
 - **Tatami ∞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/17/81/5d178142-86ef-b608-c154-8cceb2df68e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A6JbU7sh)
 
 - **MeloJam PlayPark**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/04/5e/ee045efc-3d3b-8a28-0577-ac813eed7f36/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HjE8KvXa?source_caller=ui&shortlink=b1hj99uh)
@@ -7312,7 +7309,6 @@
 - **Poolview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/5d/9c/dc5d9c8b-5b87-e6f7-5b2b-ad2a84423f8e/AppIcon.lsr/200x200bb-8.png)](https://testflight.apple.com/join/JqdvQprT)
 - **AR Helicopters**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/f7/38/84f738e4-c95f-30d0-df57-111e9ee42624/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/ToXsnZXX)
 - **Quotes: Share Beautiful Quotes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/d2/7c/3fd27cb8-0cf9-1572-07ef-09caca979b51/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/1IvTkvMq)
-- **TextExpander 7 Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/65/bd/db/65bddb4e-8e9f-9887-b7f8-36ea9ff60d79/AppIcon-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vKrjNFUr)
 - **Bolide - Crypto Bitcoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/18/08/3a18087f-b9b5-a677-f8ce-b3bb33eb5b19/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UoLAQdjn)
 - **TinyTable - Tabletop Gameroom**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d5/7d/95d57d3b-2be9-65ff-dc79-ba5f6c3bcd44/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TjI2iwXJ)
 - **8 Millimeters for Netflix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/40/26/44402681-b951-68be-5d13-57da71d28880/AppIcon.lsr/200x200bb-8.png)](https://testflight.apple.com/join/0039s3ip)
