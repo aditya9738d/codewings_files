@@ -1,5 +1,9 @@
 - **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
 - **My Card Post**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/a4/ad/51a4ada3-9539-4ccb-3125-f2b0ba7671e2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhery85J)
+- **BeVi AI Camera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/bf/3b/b2bf3b18-393b-586e-4774-3695c55af628/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z6UFZA6Y)
+
+- **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
+- **My Card Post**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/a4/ad/51a4ada3-9539-4ccb-3125-f2b0ba7671e2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhery85J)
 
 - **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
 - **My Card Post**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/a4/ad/51a4ada3-9539-4ccb-3125-f2b0ba7671e2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhery85J)
