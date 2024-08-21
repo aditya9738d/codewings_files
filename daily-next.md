@@ -1,9 +1,6 @@
 - **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
 - **My Card Post**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/a4/ad/51a4ada3-9539-4ccb-3125-f2b0ba7671e2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhery85J)
 
-- **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
-- **My Card Post**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/a4/ad/51a4ada3-9539-4ccb-3125-f2b0ba7671e2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhery85J)
-
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 - **Mises Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8d/00/a08d0027-ca48-bbb9-4525-77dbd627dc58/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFykgML6)
 
