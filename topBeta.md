@@ -5,10 +5,6 @@
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/67/17/01671754-f1d2-0ecd-d24e-f23b85b7b88c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 - **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
 
-- **Controlled—ControlD Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/91/1a/b2911ab7-d104-1b0f-36e5-c89649532608/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DsiP91S8)
-- **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/67/17/01671754-f1d2-0ecd-d24e-f23b85b7b88c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
-- **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
-
 - **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
 - **Kiếm Thế 15 Phái**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/91/03/b9910306-a1e6-b151-0471-caeb09137f64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s3LjPecB)
 - **Doppi: the nicest music player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/a3/10/b4a3103d-64cc-5a30-e408-54613310d09e/AppIcon-0-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Kxs8t6SE)
@@ -26,14 +22,12 @@
 - **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
 
 - **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
-- **My Card Post**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/a4/ad/51a4ada3-9539-4ccb-3125-f2b0ba7671e2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhery85J)
 - **BeVi AI Camera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/bf/3b/b2bf3b18-393b-586e-4774-3695c55af628/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z6UFZA6Y)
 
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 
 - **EVrest**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/c9/bb/48c9bbd8-d020-e491-5ced-89e54806a619/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PsozH8Fq)
 
-- **VITCC Parent**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/38/ab/d838ab75-afe2-edc0-ca04-cbddc5459929/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OiJoPPIE)
 - **Nro Hoa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/1a/2e/dc1a2e43-c56a-318d-3ea1-021be08ae170/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eyIvc82u)
 
 - **TextExpander 7 Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/14/1a/2c141af3-fab3-4f78-6d0d-ccdcc15f9608/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vKrjNFUr)
