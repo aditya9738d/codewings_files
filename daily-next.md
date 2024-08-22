@@ -18,8 +18,6 @@
 - **Nro Hoa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/1a/2e/dc1a2e43-c56a-318d-3ea1-021be08ae170/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eyIvc82u)
 - **Mammotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GsYEMjIk)
 
-- **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
-
 - **TextExpander 7 Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/14/1a/2c141af3-fab3-4f78-6d0d-ccdcc15f9608/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vKrjNFUr)
 
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/62/2a/e4622a26-3a99-7151-e721-cced7f8454d6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
@@ -34,9 +32,6 @@
 - **Lunatask**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/ab/2c/5bab2c1e-6f88-0597-6068-47e7ae336c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kBdIBSQK)
 
 - **HeyLumi: Tailored AI Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/6f/9d/b26f9dd2-2f37-c3e9-d379-ba82a80ea5ce/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/reQsxT5Q)
-
-- **Freelan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/d0/d7/58d0d720-df67-2cdf-2fe4-52e68dffc4f6/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q3JGZn5D)
-- **TokenX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/65/c3/ab65c31c-f204-e7e7-12cf-fdf4366c4d95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KSSmtna3)
 
 - **Backyard.AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/bd/b5/43bdb5f8-1e07-c5b2-349b-32c211fe73f0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MaP0ap1E)
 
