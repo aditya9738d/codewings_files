@@ -1,3 +1,7 @@
+- **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
+- **Kiếm Thế 15 Phái**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/91/03/b9910306-a1e6-b151-0471-caeb09137f64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s3LjPecB)
+- **Doppi: the nicest music player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/a3/10/b4a3103d-64cc-5a30-e408-54613310d09e/AppIcon-0-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Kxs8t6SE)
+
 - **Mammotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GsYEMjIk)
 
 - **THE RAGNAROK**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/4b/88/904b8878-37bf-67dc-e856-75b32407b5a3/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NkZHQjmr)
@@ -193,5 +197,3 @@
 - **مطاعم تطبيق - التوصيل**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/eb/3a/3eeb3a0e-5840-c017-8e6b-6eb04c96d57e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dQwXUb8v)
 
 - **AFK Arena**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/6b/41/1e6b41e0-adc8-06e2-aa4e-062acf1e125b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/feBGFIPh)
-
-- **NutriSay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f7/6d/51f76dc2-914b-f668-da00-02a77e9ad52e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yu1O8Oh6)
