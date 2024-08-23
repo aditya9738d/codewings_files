@@ -14,8 +14,6 @@
 - **AListServer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c2/ce/24c2ce7e-6fa4-0bb8-8b99-9cdf7c419597/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/ZkEH1rwb)
 
 - **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
-- **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
-- **HeyLumi: Tailored AI Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/6c/cd/a66ccd94-d605-4c6b-22e7-85b84ee0a79c/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/reQsxT5Q)
 
 - **Backyard.AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/bd/b5/43bdb5f8-1e07-c5b2-349b-32c211fe73f0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MaP0ap1E)
 - **Mammotion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GsYEMjIk)
@@ -29,8 +27,6 @@
 - **Doppi: the nicest music player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/a3/10/b4a3103d-64cc-5a30-e408-54613310d09e/AppIcon-0-1x_U007epad-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Kxs8t6SE)
 
 - **THE RAGNAROK**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/4b/88/904b8878-37bf-67dc-e856-75b32407b5a3/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NkZHQjmr)
-
-- **Freelan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/d0/d7/58d0d720-df67-2cdf-2fe4-52e68dffc4f6/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q3JGZn5D)
 
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/b7/e0/20b7e0da-158f-94ce-1fb6-6da44b0841be/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 
