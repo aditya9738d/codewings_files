@@ -6,19 +6,11 @@
 - **Controlled—ControlD Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/91/1a/b2911ab7-d104-1b0f-36e5-c89649532608/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DsiP91S8)
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/67/17/01671754-f1d2-0ecd-d24e-f23b85b7b88c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
 
-- **EVrest**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/c9/bb/48c9bbd8-d020-e491-5ced-89e54806a619/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PsozH8Fq)
-- **Controlled—ControlD Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/91/1a/b2911ab7-d104-1b0f-36e5-c89649532608/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DsiP91S8)
-- **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/67/17/01671754-f1d2-0ecd-d24e-f23b85b7b88c/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
-
 - **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
 - **HeyLumi: Tailored AI Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/6c/cd/a66ccd94-d605-4c6b-22e7-85b84ee0a79c/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/reQsxT5Q)
 - **Freelan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/d0/d7/58d0d720-df67-2cdf-2fe4-52e68dffc4f6/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q3JGZn5D)
 
-- **Kiếm Thế 15 Phái**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/91/03/b9910306-a1e6-b151-0471-caeb09137f64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s3LjPecB)
 - **Lunatask**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/ab/2c/5bab2c1e-6f88-0597-6068-47e7ae336c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kBdIBSQK)
-
-- **TokenX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/65/c3/ab65c31c-f204-e7e7-12cf-fdf4366c4d95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KSSmtna3)
-- **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
 
 - **Ragnarok: Monster World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/18/7f/d9187fcf-1047-3285-fea3-1e5a3fafee0d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W5sHnVHT)
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
