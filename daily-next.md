@@ -1,8 +1,6 @@
 - **Mises Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8d/00/a08d0027-ca48-bbb9-4525-77dbd627dc58/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFykgML6)
 - **TextExpander 7 Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/14/1a/2c141af3-fab3-4f78-6d0d-ccdcc15f9608/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vKrjNFUr)
 
-- **Mises Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8d/00/a08d0027-ca48-bbb9-4525-77dbd627dc58/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFykgML6)
-- **TextExpander 7 Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/14/1a/2c141af3-fab3-4f78-6d0d-ccdcc15f9608/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vKrjNFUr)
 - **SoloSet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/2c/ad/9c2cade2-50f3-27ef-48ed-4af3d28bbeda/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5HeDxPx)
 
 - **Kiếm Thế 15 Phái**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/91/03/b9910306-a1e6-b151-0471-caeb09137f64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s3LjPecB)
