@@ -1,3 +1,7 @@
+- **Mises Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8d/00/a08d0027-ca48-bbb9-4525-77dbd627dc58/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFykgML6)
+- **TextExpander 7 Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/14/1a/2c141af3-fab3-4f78-6d0d-ccdcc15f9608/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vKrjNFUr)
+- **SoloSet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/2c/ad/9c2cade2-50f3-27ef-48ed-4af3d28bbeda/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5HeDxPx)
+
 - **Kiếm Thế 15 Phái**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/91/03/b9910306-a1e6-b151-0471-caeb09137f64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s3LjPecB)
 - **Lunatask**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/ab/2c/5bab2c1e-6f88-0597-6068-47e7ae336c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kBdIBSQK)
 
@@ -193,5 +197,3 @@
 - **Yellow - A Fun Counter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/bf/40/eabf40c6-ce7a-a8b6-1e94-cf63b9b69fa7/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/N9wigfoi)
 
 - **مطاعم تطبيق - التوصيل**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/eb/3a/3eeb3a0e-5840-c017-8e6b-6eb04c96d57e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dQwXUb8v)
-
-- **AFK Arena**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/6b/41/1e6b41e0-adc8-06e2-aa4e-062acf1e125b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/feBGFIPh)
