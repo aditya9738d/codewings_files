@@ -1,3 +1,7 @@
+- **Controlled—ControlD Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/91/1a/b2911ab7-d104-1b0f-36e5-c89649532608/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DsiP91S8)
+- **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/09/83/6e098311-765d-eb99-58d9-224ab948331f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
+- **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
+
 - **Mises Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8d/00/a08d0027-ca48-bbb9-4525-77dbd627dc58/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFykgML6)
 - **TextExpander 7 Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/14/1a/2c141af3-fab3-4f78-6d0d-ccdcc15f9608/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vKrjNFUr)
 
@@ -193,5 +197,3 @@
 - **MEXC-Buy & Sell Bitcoin.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/7d/21/c67d21a0-b92c-c5a6-1617-b8fbcb2c6fa4/AppIcon-Blue-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3bAy4iek)
 
 - **Yellow - A Fun Counter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/bf/40/eabf40c6-ce7a-a8b6-1e94-cf63b9b69fa7/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/N9wigfoi)
-
-- **مطاعم تطبيق - التوصيل**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/eb/3a/3eeb3a0e-5840-c017-8e6b-6eb04c96d57e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dQwXUb8v)
