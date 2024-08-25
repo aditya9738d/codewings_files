@@ -24,7 +24,6 @@
 
 - **AI Form Fill: AI Auto-Complete**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1c/dd/0b1cdd52-f598-a18f-79fb-8ab87455287e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/QVSGHxxq)
 
-- **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 - **Mises Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/8d/00/a08d0027-ca48-bbb9-4525-77dbd627dc58/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFykgML6)
 
 - **Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/09/83/6e098311-765d-eb99-58d9-224ab948331f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9jMyOWt)
@@ -142,7 +141,6 @@
 - **ASSP Plugin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a0/69/e6a069b0-fc33-07ca-b9a9-e476ed658661/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lW9gpyNy)
 - **ASEP Plugin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/27/66/8c2766f3-b7b2-ab07-77c0-3973ad24fff2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hJBtHKQz)
 - **Veerl**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/c7/bf/b5c7bf5f-4d1b-efef-7c5f-ccc0501a380d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5iCVuC8J)
-- **GLOBULA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/57/6a/20576a25-3f56-0666-3fca-4a7f317e02a5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xaJ7raw5)
 - **Loot Legends: Rogue Dungeons**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/ec/55/aaec55d9-69ea-dcec-ce45-9bfa03c6bdd0/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D8RMsRKR)
 - **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 - **Indoor CO2 Data Collector**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/0b/a7/000ba7b1-10fd-2fc7-ba41-b5d60f2db08b/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OoHmnOVX)
