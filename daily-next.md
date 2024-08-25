@@ -4,8 +4,6 @@
 
 - **Ragnarok: Monster World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/18/7f/d9187fcf-1047-3285-fea3-1e5a3fafee0d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W5sHnVHT)
 
-- **Ragnarok: Monster World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/18/7f/d9187fcf-1047-3285-fea3-1e5a3fafee0d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W5sHnVHT)
-
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 
 - **GLOBULA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/57/6a/20576a25-3f56-0666-3fca-4a7f317e02a5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xaJ7raw5)
@@ -27,7 +25,6 @@
 
 - **multimesh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/34/39/5f343984-25dd-58d5-964b-caf73c2d9949/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TetHa5GP)
 
-- **TokenX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/65/c3/ab65c31c-f204-e7e7-12cf-fdf4366c4d95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KSSmtna3)
 - **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
 - **Kiếm Thế 15 Phái**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/91/03/b9910306-a1e6-b151-0471-caeb09137f64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s3LjPecB)
 
@@ -42,10 +39,6 @@
 - **SoloSet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/2c/ad/9c2cade2-50f3-27ef-48ed-4af3d28bbeda/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5HeDxPx)
 
 - **DWARFLAB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/0b/8e/c10b8eb6-a8ae-e2e3-5291-3f25075360c3/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tkgyzuZe)
-
-- **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/b7/e0/20b7e0da-158f-94ce-1fb6-6da44b0841be/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
-
-- **斗罗大陆：逆转时空**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/fe/d1/cbfed175-32bd-c34e-b5ca-777268f9bec8/GameIcon0-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5vznz2Wj)
 
 - **THE RAGNAROK**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/4b/88/904b8878-37bf-67dc-e856-75b32407b5a3/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NkZHQjmr)
 
