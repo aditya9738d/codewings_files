@@ -1,5 +1,7 @@
 - **HeyLumi: Tailored AI Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/6c/cd/a66ccd94-d605-4c6b-22e7-85b84ee0a79c/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/reQsxT5Q)
 
+- **HeyLumi: Tailored AI Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/6c/cd/a66ccd94-d605-4c6b-22e7-85b84ee0a79c/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/reQsxT5Q)
+
 - **Ngọc Rồng One**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/af/25/79af25e6-7265-60b3-293f-09756942673c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qMfuhMWX)
 
 - **Backyard.AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/bd/b5/43bdb5f8-1e07-c5b2-349b-32c211fe73f0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MaP0ap1E)
