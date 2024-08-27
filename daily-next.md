@@ -1,3 +1,7 @@
+- **EVrest**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/c9/bb/48c9bbd8-d020-e491-5ced-89e54806a619/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PsozH8Fq)
+- **Controlled—ControlD Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/91/1a/b2911ab7-d104-1b0f-36e5-c89649532608/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DsiP91S8)
+- **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
+
 - **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
 
 - **ForsakenWorld2: ThầnMaĐạiChiến**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/0b/47/2e0b475b-b30d-593b-fe9b-782657cb9619/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8x7jZt9r)
@@ -194,5 +198,3 @@
 - **WiFi-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/6b/6e/3d6b6e85-ca19-b06c-e1d9-0192d1dbe9f3/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/LhBWgvsB)
 
 - **heylogin – Password Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/7a/86/a27a860d-dda8-7bf2-c121-4636d87d898d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hccQEx7f)
-
-- **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/19/61/b5196152-fac7-5a59-7e45-fc5e464a61a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
