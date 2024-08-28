@@ -1,9 +1,6 @@
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 - **EVrest**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/c9/bb/48c9bbd8-d020-e491-5ced-89e54806a619/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PsozH8Fq)
 
-- **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
-- **EVrest**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/c9/bb/48c9bbd8-d020-e491-5ced-89e54806a619/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PsozH8Fq)
-
 - **dauphaisang**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/2c/8e/3b2c8e15-9d64-c5d9-4357-3def5ef7d126/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M7FH1r7V)
 
 - **Compress Photo & Resize Image**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/fa/02/b8fa0296-6a86-a245-623c-8e3808c92aa8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEv7sqcJ)
