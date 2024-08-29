@@ -1,4 +1,8 @@
 - **斗罗大陆：逆转时空**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/fe/d1/cbfed175-32bd-c34e-b5ca-777268f9bec8/GameIcon0-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5vznz2Wj)
+- **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
+- **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
+
+- **斗罗大陆：逆转时空**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/fe/d1/cbfed175-32bd-c34e-b5ca-777268f9bec8/GameIcon0-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5vznz2Wj)
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/b7/e0/20b7e0da-158f-94ce-1fb6-6da44b0841be/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 - **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
 
