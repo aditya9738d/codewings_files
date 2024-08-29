@@ -1,3 +1,6 @@
+- **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
+- **STAR Global 3.3-v1.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
+
 - **AI Form Fill: AI Auto-Complete**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1c/dd/0b1cdd52-f598-a18f-79fb-8ab87455287e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/QVSGHxxq)
 
 - **AI Form Fill: AI Auto-Complete**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1c/dd/0b1cdd52-f598-a18f-79fb-8ab87455287e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/QVSGHxxq)
@@ -195,5 +198,3 @@
 - **Kaspersky fast & secure VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/46/00/d44600ad-9e0f-a571-64c1-a8612ccf4e36/AppIcon-0-0-85-220-0-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ieHWc6hH)
 
 - **VALPAW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/d0/e6/40d0e600-a994-a69a-69c6-40e3b1a40e1c/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eOgMk6SM)
-
-- **Illuvium: Zero**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/e2/d7/d8e2d73d-a4ed-755e-71f8-1371fab5dbd4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NHWJXyxX)
