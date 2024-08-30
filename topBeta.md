@@ -7,8 +7,6 @@
 - **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
 - **Vibe: AI Dating Copilot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/aa/a4/a7aaa4da-0042-b25b-697d-e56b62e4c287/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/g0Zl8pVd)
 
-- **GLOBULA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/a3/a3/5aa3a323-991c-ae33-e5e9-0b01d9d51017/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xaJ7raw5)
-
 - **dauphaisang**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/2c/8e/3b2c8e15-9d64-c5d9-4357-3def5ef7d126/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M7FH1r7V)
 - **Compress Photo & Resize Image**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/63/d6/6f63d63e-adb6-68a4-b964-6e32316f2273/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEv7sqcJ)
 
@@ -6419,7 +6417,6 @@
 - **CareServer - SSH,SFTP,Terminal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/71/e2/9471e22a-f4a9-8acd-05d9-3afe0a2700e9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W6xlfEfj)
 - **InfraNodus AI Extension**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/c0/a7/8bc0a70f-1db6-6f73-136e-9f20b4388cce/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5zOd3ADy)
 - **SteveWatch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/af/f6/6daff6f6-c4aa-6879-2aca-17e822dcf668/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7PLqIBK)
-- **1Keeper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/21/24/3d21242c-f5f5-5b23-8706-d47c70401a7b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExEst8hT)
 - **Vertex GlobeIN MedEd**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/dc/0b/ebdc0b0d-0d19-dbb1-d765-6211235676a6/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZI45WjIi)
 - **DIVERA 24/7 Verfügbarkeit BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/a8/b6/73a8b6f7-5fdc-bc12-aad2-22176c0f7cef/AppIcon.beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NIUEyoJW)
 - **Bezel • Phone Mirror**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/9f/ad/7f9fad15-b127-0b2e-a6c2-f8f07280dc5f/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ai2zeoM4)
