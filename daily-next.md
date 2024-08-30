@@ -2,6 +2,10 @@
 - **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
 - **Vibe: AI Dating Copilot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/aa/a4/a7aaa4da-0042-b25b-697d-e56b62e4c287/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/g0Zl8pVd)
 
+- **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
+- **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
+- **Vibe: AI Dating Copilot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/aa/a4/a7aaa4da-0042-b25b-697d-e56b62e4c287/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/g0Zl8pVd)
+
 - **GLOBULA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/a3/a3/5aa3a323-991c-ae33-e5e9-0b01d9d51017/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xaJ7raw5)
 
 - **dauphaisang**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/2c/8e/3b2c8e15-9d64-c5d9-4357-3def5ef7d126/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M7FH1r7V)
@@ -193,5 +197,3 @@
 - **Anubis Reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/1d/5d/071d5dc5-0721-973f-744a-af4856f8272a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r3DDlSqw)
 
 - **Cars24 (B2C) Cataloging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/af/1e/34af1e2d-f468-887b-0630-332f645a16d1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uaXNsor7)
-
-- **Kaspersky fast & secure VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/46/00/d44600ad-9e0f-a571-64c1-a8612ccf4e36/AppIcon-0-0-85-220-0-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ieHWc6hH)
