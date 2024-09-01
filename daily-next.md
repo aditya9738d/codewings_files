@@ -1,3 +1,6 @@
+- **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
+- **Tara360 Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c4/c8/00c4c8ae-ee7e-444c-729d-cdac37755b8e/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gg4r70vP)
+
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/0e/55/a60e55d1-dbbf-2340-5a80-bde787858f9b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 - **DWARFLAB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/0b/8e/c10b8eb6-a8ae-e2e3-5291-3f25075360c3/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tkgyzuZe)
 
