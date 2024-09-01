@@ -28,14 +28,10 @@
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 - **Ngọc Rồng Đom Đóm**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/5a/e5/e35ae5e2-0825-99c4-ddd0-e8a3c3745e9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y1S2DkS9)
 
-- **GLOBULA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/a3/a3/5aa3a323-991c-ae33-e5e9-0b01d9d51017/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xaJ7raw5)
-
 - **1Keeper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/21/24/3d21242c-f5f5-5b23-8706-d47c70401a7b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExEst8hT)
 
 - **Celia Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KWFbfKK1)
 - **Vibe: AI Dating Copilot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/aa/a4/a7aaa4da-0042-b25b-697d-e56b62e4c287/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/g0Zl8pVd)
-
-- **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 
 - **STAR Global 3.3-v1.5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/df/ab/5bdfab92-5328-5471-4e56-8c0a25e98206/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 
