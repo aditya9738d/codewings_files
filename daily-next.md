@@ -35,7 +35,6 @@
 
 - **WhatsApp Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/85/bc/7f85bc84-4012-40e3-62c5-0393f096a5ec/AppIconCatalystBetarelbranch-0-2x_U007euniversal-0-0-0-4-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/krUFQpyJ)
 
-- **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 - **Ngọc Rồng Đom Đóm**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/5a/e5/e35ae5e2-0825-99c4-ddd0-e8a3c3745e9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y1S2DkS9)
 
 - **1Keeper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/21/24/3d21242c-f5f5-5b23-8706-d47c70401a7b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExEst8hT)
