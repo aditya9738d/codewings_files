@@ -29,11 +29,7 @@
 
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 
-- **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/0b/a9/9f0ba9fa-b783-fd53-52b5-c520fc5af68e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
-
 - **WhatsApp Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/85/bc/7f85bc84-4012-40e3-62c5-0393f096a5ec/AppIconCatalystBetarelbranch-0-2x_U007euniversal-0-0-0-4-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/krUFQpyJ)
-
-- **Stackie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/fc/78/9afc78a4-b05a-24da-f515-d305bed12d63/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/25CvgSSv)
 
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 - **Ngọc Rồng Đom Đóm**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/5a/e5/e35ae5e2-0825-99c4-ddd0-e8a3c3745e9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y1S2DkS9)
