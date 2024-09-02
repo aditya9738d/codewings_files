@@ -16,17 +16,11 @@
 
 - **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
 
-- **DWARFLAB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/0b/8e/c10b8eb6-a8ae-e2e3-5291-3f25075360c3/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tkgyzuZe)
-
 - **GLOBULA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/a3/a3/5aa3a323-991c-ae33-e5e9-0b01d9d51017/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xaJ7raw5)
 
 - **Ngọc Rồng One**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/af/25/79af25e6-7265-60b3-293f-09756942673c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qMfuhMWX)
 - **斗罗大陆：逆转时空**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/fe/d1/cbfed175-32bd-c34e-b5ca-777268f9bec8/GameIcon0-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5vznz2Wj)
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
-
-- **Tara360 Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c4/c8/00c4c8ae-ee7e-444c-729d-cdac37755b8e/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gg4r70vP)
-
-- **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/0e/55/a60e55d1-dbbf-2340-5a80-bde787858f9b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/0e/55/a60e55d1-dbbf-2340-5a80-bde787858f9b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
