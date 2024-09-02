@@ -2,7 +2,6 @@
 
 - **PDF Converter & Image to PDF**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/07/39/c50739b8-baa7-7669-94c8-97606a595792/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fPVfwjVC)
 - **ASLVision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/23/94/9a2394d6-3660-7433-2cee-9bcf54fea5be/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJCCqY4Q)
-- **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/0b/a9/9f0ba9fa-b783-fd53-52b5-c520fc5af68e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
 - **Stackie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/fc/78/9afc78a4-b05a-24da-f515-d305bed12d63/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/25CvgSSv)
