@@ -1,3 +1,7 @@
+- **Stackie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/fc/78/9afc78a4-b05a-24da-f515-d305bed12d63/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/25CvgSSv)
+- **Compress Photo & Resize Image**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/63/d6/6f63d63e-adb6-68a4-b964-6e32316f2273/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEv7sqcJ)
+- **FreemiumKit: In-App Purchases**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5d/41/ed5d4155-d917-7b90-5de3-d58f6ec2e8d0/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AhTsftRv)
+
 - **Temple Run: Adventure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c1/43/e7c1437d-ccaf-f4e9-32ad-066af8bb0111/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8c2K8z2s)
 
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
@@ -194,4 +198,3 @@
 - **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 - **Indoor CO2 Data Collector**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/0b/a7/000ba7b1-10fd-2fc7-ba41-b5d60f2db08b/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OoHmnOVX)
 - **Sunday Reset**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/1a/87/e01a8793-2ba4-1657-8724-17fd250ace70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9yd4CRE)
-- **AmanaTa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/05/90/65059029-5f30-a2dc-b4ed-7ba53d642244/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7BbyzYKv)
