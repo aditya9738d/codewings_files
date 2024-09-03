@@ -1,3 +1,7 @@
+- **TPG Tapo Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/97/9f/84979f6e-5803-c6c7-2e70-7a1e9a8641c8/AppIcon-Beta-Big-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TlL8lXUE)
+- **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
+- **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/dd/01/aedd0148-ab63-4ac5-3081-f47af834e6a5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
+
 - **Tara360 Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c4/c8/00c4c8ae-ee7e-444c-729d-cdac37755b8e/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gg4r70vP)
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/0e/55/a60e55d1-dbbf-2340-5a80-bde787858f9b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 - **DWARFLAB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/0b/8e/c10b8eb6-a8ae-e2e3-5291-3f25075360c3/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tkgyzuZe)
