@@ -1,9 +1,6 @@
 - **Stackie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/fc/78/9afc78a4-b05a-24da-f515-d305bed12d63/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/25CvgSSv)
 - **Compress Photo & Resize Image**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/63/d6/6f63d63e-adb6-68a4-b964-6e32316f2273/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEv7sqcJ)
 
-- **Stackie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/fc/78/9afc78a4-b05a-24da-f515-d305bed12d63/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/25CvgSSv)
-- **Compress Photo & Resize Image**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/63/d6/6f63d63e-adb6-68a4-b964-6e32316f2273/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEv7sqcJ)
-
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 - **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
 
