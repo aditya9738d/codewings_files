@@ -1,3 +1,7 @@
+- **STAR Global 3.3-v1.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
+- **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
+- **Vibe AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/2c/81/cd2c8194-08fc-63d3-801a-9a5c61ee66a9/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/g0Zl8pVd)
+
 - **Tam Giới Phân Tranh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/5a/8e/145a8efd-029a-8d2e-076c-457212467747/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zJVHK213)
 - **STAR Global 3.3-v1.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
@@ -194,4 +198,3 @@
 - **rams.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/ee/13/a5ee1331-1a2c-79a2-7d93-8a6bcc38260a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TX5RDSca)
 - **Vakitler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/94/88/869488a5-369b-3786-e5ec-49a383c71340/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WXLLwHCg)
 - **ASSP Plugin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a0/69/e6a069b0-fc33-07ca-b9a9-e476ed658661/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lW9gpyNy)
-- **ASEP Plugin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/27/66/8c2766f3-b7b2-ab07-77c0-3973ad24fff2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hJBtHKQz)
