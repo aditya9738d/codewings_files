@@ -1,3 +1,6 @@
+- **Stackie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/fc/78/9afc78a4-b05a-24da-f515-d305bed12d63/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/25CvgSSv)
+- **Compress Photo & Resize Image**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/63/d6/6f63d63e-adb6-68a4-b964-6e32316f2273/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEv7sqcJ)
+
 - **TPG Tapo Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/97/9f/84979f6e-5803-c6c7-2e70-7a1e9a8641c8/AppIcon-Beta-Big-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TlL8lXUE)
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 - **Tam Giới Phân Tranh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/5a/8e/145a8efd-029a-8d2e-076c-457212467747/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zJVHK213)
@@ -195,4 +198,3 @@
 - **ASSP Plugin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a0/69/e6a069b0-fc33-07ca-b9a9-e476ed658661/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lW9gpyNy)
 - **ASEP Plugin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/27/66/8c2766f3-b7b2-ab07-77c0-3973ad24fff2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hJBtHKQz)
 - **Veerl**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/c7/bf/b5c7bf5f-4d1b-efef-7c5f-ccc0501a380d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5iCVuC8J)
-- **Loot Legends: Rogue Dungeons**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/ec/55/aaec55d9-69ea-dcec-ce45-9bfa03c6bdd0/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D8RMsRKR)
