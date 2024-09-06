@@ -6,7 +6,7 @@
     "clickCount": 6,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-09-06T07:58:05.118Z",
+    "lastChecked": "2024-09-06T08:40:55.099Z",
     "history": [
       {
         "status": "full",
@@ -23,7 +23,7 @@
     "clickCount": 55,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T07:58:05.119Z",
+    "lastChecked": "2024-09-06T08:40:55.099Z",
     "history": [
       {
         "status": "open",
@@ -40,7 +40,7 @@
     "clickCount": 39,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T07:58:05.119Z",
+    "lastChecked": "2024-09-06T08:40:55.099Z",
     "history": [
       {
         "status": "open",
@@ -57,7 +57,7 @@
     "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T07:58:05.120Z",
+    "lastChecked": "2024-09-06T08:40:55.099Z",
     "history": [
       {
         "status": "open",
@@ -74,7 +74,7 @@
     "clickCount": 0,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T07:58:05.120Z",
+    "lastChecked": "2024-09-06T08:40:55.099Z",
     "history": [
       {
         "status": "open",
@@ -91,7 +91,7 @@
     "clickCount": 6,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T07:58:05.120Z",
+    "lastChecked": "2024-09-06T08:40:55.099Z",
     "history": [
       {
         "status": "open",
@@ -108,7 +108,7 @@
     "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T07:58:05.121Z",
+    "lastChecked": "2024-09-06T08:40:55.099Z",
     "history": [
       {
         "status": "open",
@@ -125,7 +125,7 @@
     "clickCount": 6,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T07:58:05.121Z",
+    "lastChecked": "2024-09-06T08:40:55.099Z",
     "history": [
       {
         "status": "open",
@@ -142,7 +142,7 @@
     "clickCount": 5,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T07:58:05.121Z",
+    "lastChecked": "2024-09-06T08:40:55.099Z",
     "history": [
       {
         "status": "open",
@@ -159,7 +159,7 @@
     "clickCount": 4,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T07:58:05.122Z",
+    "lastChecked": "2024-09-06T08:40:55.099Z",
     "history": [
       {
         "status": "open",
@@ -2019,5 +2019,175 @@
       }
     ],
     "id": "90500"
+  },
+  {
+    "name": "PDF Converter & Image to PDF",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/98/35/1f983552-dd27-f00e-0f92-28793e7d3ded/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/fPVfwjVC",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:40:55.098Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:40:55.098Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "64760"
+  },
+  {
+    "name": "EA SPORTS FCâ„¢ MOBILE BETA",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/0e/55/a60e55d1-dbbf-2340-5a80-bde787858f9b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JCzsg8Dc",
+    "clickCount": 3,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:40:55.099Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-09-06T08:40:55.099Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "85147"
+  },
+  {
+    "name": "æ–—ç½—å¤§é™†ï¼šé€†è½¬æ—¶ç©º",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/fe/d1/cbfed175-32bd-c34e-b5ca-777268f9bec8/GameIcon0-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5vznz2Wj",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:40:55.100Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:40:55.100Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "75635"
+  },
+  {
+    "name": "1Keeper",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/21/24/3d21242c-f5f5-5b23-8706-d47c70401a7b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ExEst8hT",
+    "clickCount": 7,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:40:55.100Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:40:55.100Z",
+        "clickCount": 7
+      }
+    ],
+    "id": "56076"
+  },
+  {
+    "name": "Celia Technologies",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/30/18/3030182c-afdb-4aba-d877-7e0990046773/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/KWFbfKK1",
+    "clickCount": 6,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:40:55.100Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-09-06T08:40:55.100Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "51077"
+  },
+  {
+    "name": "AI Form Fill: AI Auto-Complete",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1c/dd/0b1cdd52-f598-a18f-79fb-8ab87455287e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/QVSGHxxq",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:40:55.100Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:40:55.100Z",
+        "clickCount": 8
+      }
+    ],
+    "id": "29496"
+  },
+  {
+    "name": "AppFlowy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/d5/77/29d57790-c339-344c-b113-8f636e067522/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6CexvkDz",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:40:55.100Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:40:55.100Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "47074"
+  },
+  {
+    "name": "SetWatch",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/7b/76/7f7b7676-049b-7a44-1b0d-a7a42ffc7095/MessagesApplicationStub60x60@2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/N6Pq2S6g",
+    "clickCount": 10,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:40:55.100Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:40:55.100Z",
+        "clickCount": 10
+      }
+    ],
+    "id": "88863"
+  },
+  {
+    "name": "Lunatask",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/ab/2c/5bab2c1e-6f88-0597-6068-47e7ae336c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/kBdIBSQK",
+    "clickCount": 11,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:40:55.100Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:40:55.100Z",
+        "clickCount": 11
+      }
+    ],
+    "id": "46704"
+  },
+  {
+    "name": "Controlledâ€”ControlD Client",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/91/1a/b2911ab7-d104-1b0f-36e5-c89649532608/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DsiP91S8",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:40:55.101Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:40:55.101Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "25304"
   }
 ]
