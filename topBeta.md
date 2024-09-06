@@ -25,8 +25,6 @@
 
 - **Compress Photo & Resize Image**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/63/d6/6f63d63e-adb6-68a4-b964-6e32316f2273/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEv7sqcJ)
 
-- **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
-
 - **PDF Converter & Image to PDF**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/98/35/1f983552-dd27-f00e-0f92-28793e7d3ded/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fPVfwjVC)
 
 - **DWARFLAB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/0b/8e/c10b8eb6-a8ae-e2e3-5291-3f25075360c3/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tkgyzuZe)
@@ -38,8 +36,6 @@
 
 - **Ngọc Rồng One**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/af/25/79af25e6-7265-60b3-293f-09756942673c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qMfuhMWX)
 - **斗罗大陆：逆转时空**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/fe/d1/cbfed175-32bd-c34e-b5ca-777268f9bec8/GameIcon0-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5vznz2Wj)
-
-- **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/dd/01/aedd0148-ab63-4ac5-3081-f47af834e6a5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
 
 - **ASLVision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/23/94/9a2394d6-3660-7433-2cee-9bcf54fea5be/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJCCqY4Q)
 
@@ -98,7 +94,6 @@
 - **Sabertooth for Mastodon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/52/46/fe524688-4ed3-59ac-b576-bd09c4ef79db/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pBGgMKw2)
 - **Microsoft 365 (Office)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/55/2e/ee552ed6-0bf8-650f-5f7a-5e1daeab12e6/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eHAKJBtM)
 - **Indus Battle Royale Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/3f/2f/e73f2f72-8017-edfe-aee0-f850b207396c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAVRvZHD)
-- **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/a8/0a/f9a80a2b-ee46-d3c1-78ea-2e3e103b7063/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
 - **BAGS - Financial Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/56/5d/71565d61-d887-4cfb-4570-eca49d1427c0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j7uwkoAL)
 - **TripSaver**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/01/8d/e1018d23-37c3-7fd4-c99f-0e9cb5eee685/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/4zBdye9P)
 - **Wars of Wanon:The Future Story**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b1/ea/53b1eaea-48c9-02db-7b37-b2f520fa78c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UZ4tYFb6)
