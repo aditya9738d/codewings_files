@@ -1,9 +1,6 @@
 - **Vibe AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/73/85/7d7385d3-4dfc-b877-1686-46eae35706b3/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/g0Zl8pVd)
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
-- **Vibe AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/73/85/7d7385d3-4dfc-b877-1686-46eae35706b3/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/g0Zl8pVd)
-- **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
-
 - **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ef/93/5fef939a-ec4f-f950-7b4d-3d0193b6c430/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
 
 - **Tam Giới Phân Tranh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/cb/0d/44cb0dec-0d57-b1ec-d37f-308767b4233a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zJVHK213)
