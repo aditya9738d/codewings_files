@@ -542,5 +542,175 @@
       }
     ],
     "id": "11816"
+  },
+  {
+    "name": "mytonies",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/67/64/21/676421b9-c166-4d23-0b36-6cab8ad5b29e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/8FxA7laF",
+    "clickCount": 2,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:31:32.245Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:31:32.245Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "33028"
+  },
+  {
+    "name": "Open Wallpaper Engine",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/5b/48/845b48d9-ca2d-a630-8649-8da2b46716a5/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9fDQc6dA",
+    "clickCount": 7,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:31:32.246Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:31:32.246Z",
+        "clickCount": 7
+      }
+    ],
+    "id": "42232"
+  },
+  {
+    "name": "Elite Connect Biz",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/24/37/d3243707-a594-97e2-7137-3a16ff566b8a/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/z2F6lnQk",
+    "clickCount": 4,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:31:32.246Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:31:32.246Z",
+        "clickCount": 4
+      }
+    ],
+    "id": "66561"
+  },
+  {
+    "name": "LimeCity",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/66/ff/7266ff1d-989d-5b9c-6f32-35c3bcd61daa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/8AfdmwsK",
+    "clickCount": 2,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:31:32.246Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-06T07:31:32.246Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "38796"
+  },
+  {
+    "name": "Pomo UP:Focus timer&Productive",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/54/10/d75410d5-6915-3d28-39a7-99b019e6f5a9/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/x5AsbPvL",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:31:32.246Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:31:32.246Z",
+        "clickCount": 4
+      }
+    ],
+    "id": "59646"
+  },
+  {
+    "name": "Keka HR",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/6d/c0/d36dc0a4-8c46-92e8-b8ed-99d24cc15740/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/S4vJ4u1b",
+    "clickCount": 2,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:31:32.247Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:31:32.247Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "84704"
+  },
+  {
+    "name": "Notion - notes, docs, tasks",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/51/e4/1251e451-6fe2-4679-90f1-37896e885e1c/AppIconProd-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/YSo8aVCS",
+    "clickCount": 53,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:31:32.247Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-09-06T07:31:32.247Z",
+        "clickCount": 53
+      }
+    ],
+    "id": "50199"
+  },
+  {
+    "name": "StarEx - Buy Bitcoin",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/70/eb/7470eb30-4387-9326-1f24-8cfe5af9fdbe/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/XsgTpGZF",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:31:32.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:31:32.247Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "15234"
+  },
+  {
+    "name": "KlipC:FX Copytrading Community",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/98/ab/3098ab30-d3f4-b754-020c-b40927e829bc/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/sb8EbOpI",
+    "clickCount": 2,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:31:32.247Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:31:32.247Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "34284"
+  },
+  {
+    "name": "DTRadio",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ea/00/13ea009c-e9da-0403-11ca-18cf5dd5d45a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/KbyWMTAa",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:31:32.247Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:31:32.247Z",
+        "clickCount": 8
+      }
+    ],
+    "id": "33352"
   }
 ]
