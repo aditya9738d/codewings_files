@@ -1,3 +1,6 @@
+- **DWARFLAB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/0b/8e/c10b8eb6-a8ae-e2e3-5291-3f25075360c3/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tkgyzuZe)
+- **Temple Run: Adventure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c1/43/e7c1437d-ccaf-f4e9-32ad-066af8bb0111/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8c2K8z2s)
+
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 - **Vibe AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/2c/81/cd2c8194-08fc-63d3-801a-9a5c61ee66a9/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/g0Zl8pVd)
 
@@ -195,6 +198,3 @@
 - **酷狗音乐 - 就是歌多**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/27/46/f927465c-8bef-aadd-6096-b16cbd0d1588/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6cnKUyZ8)
 - **记账伴侣**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/06/3b/aa063ba0-5822-5933-92a6-8d5a0317ba6e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q9yUcV8n)
 - **Planet X Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/98/40/81984053-e050-ec63-c797-08d1d2aa7366/AppIcon-0-0-1x_U007epad-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U3wNdYcr)
-- **rams.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/ee/13/a5ee1331-1a2c-79a2-7d93-8a6bcc38260a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TX5RDSca)
-- **Vakitler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/94/88/869488a5-369b-3786-e5ec-49a383c71340/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WXLLwHCg)
-- **ASSP Plugin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a0/69/e6a069b0-fc33-07ca-b9a9-e476ed658661/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lW9gpyNy)
