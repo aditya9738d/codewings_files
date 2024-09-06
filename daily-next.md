@@ -1,3 +1,6 @@
+- **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ef/93/5fef939a-ec4f-f950-7b4d-3d0193b6c430/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
+- **Tam Giới Phân Tranh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/cb/0d/44cb0dec-0d57-b1ec-d37f-308767b4233a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zJVHK213)
+
 - **FreemiumKit: In-App Purchases**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5d/41/ed5d4155-d917-7b90-5de3-d58f6ec2e8d0/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AhTsftRv)
 - **TPG Tapo Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/97/9f/84979f6e-5803-c6c7-2e70-7a1e9a8641c8/AppIcon-Beta-Big-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TlL8lXUE)
 
@@ -195,4 +198,3 @@
 - **Hivemind Access Portal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/15/3d/e8153dd5-6f6e-4cb3-92f8-ff8895c79b60/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/CYtz15OJ)
 - **Spatial Photo(ns)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/8e/cb/e68ecba0-2171-c62a-2852-9545e8abea7f/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/4ecRsPxF)
 - **Legend of Arcadia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/f9/7d/d8f97db6-0362-e042-9176-ed6701eacdd2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/G7O14h4N)
-- **酷狗音乐 - 就是歌多**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/27/46/f927465c-8bef-aadd-6096-b16cbd0d1588/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6cnKUyZ8)
