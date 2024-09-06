@@ -368,5 +368,179 @@
       }
     ],
     "id": "28150"
+  },
+  {
+    "name": "On Demand DFS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/c9/be/61c9be2c-ee59-8347-82dd-87495e82d6be/AppIcon_1-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/jzQUDy1B",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:28:40.875Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:28:40.875Z",
+        "clickCount": 8
+      }
+    ],
+    "id": "66583"
+  },
+  {
+    "name": "Dubbing AI Voice Changer",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/d8/67/8ad86711-efb6-570a-ef7a-d2ead3965684/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/LX9ho2sb",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:28:40.875Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:28:40.875Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "24581"
+  },
+  {
+    "name": "LeesSimpel",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/f5/01/def5010f-b2da-3471-e74d-04d49e3083f8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/Y4wmUcGd",
+    "clickCount": 1,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:28:40.876Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-06T07:28:40.876Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "53787"
+  },
+  {
+    "name": "ONE Link â€“ Device management",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/30/57/2030570a-328e-e8ea-4be2-c0285ac717f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/A2sl6Kiu",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:28:40.876Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:28:40.876Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "75496"
+  },
+  {
+    "name": "Disability Detect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/c4/d1/0ec4d1e4-f79c-59ff-4c90-f0a721dc583f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/UoUSmiM7",
+    "clickCount": 2,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:28:40.876Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:28:40.876Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "20840"
+  },
+  {
+    "name": "Hokotashi Car Race",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/ae/ef/f8aeefdf-f25d-a365-eff5-e002463ded5d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/u2txqKAk",
+    "clickCount": 23,
+    "betaAvailable": "not accepting",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-09-06T07:28:40.876Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:28:40.876Z",
+        "clickCount": 23
+      }
+    ],
+    "id": "46289"
+  },
+  {
+    "name": "AmikomOne",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/a3/f7/6fa3f714-2348-4a62-5173-452e7440732d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/KDbQOlht",
+    "clickCount": 5,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:28:40.876Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:28:40.876Z",
+        "clickCount": 5
+      }
+    ],
+    "id": "21938"
+  },
+  {
+    "name": "kilowatts grid",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/86/c9/d7/86c9d720-f32c-5721-58bb-aeb56f63b293/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/ZRfgNtsL",
+    "clickCount": 2,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:28:40.876Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:28:40.876Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "88952"
+  },
+  {
+    "name": "Me - Making Health Intuitive.",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a3/95/9ba39511-1723-8726-3151-95f5479b33da/AppIcon-0-1x_U007epad-0-10-0-sRGB-85-220-0.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/iRkFTHwG",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:28:40.876Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:28:40.876Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "26779"
+  },
+  {
+    "name": "ASUS Health Promotion",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/7d/ad/417dadd4-b4e9-b27b-4d72-2a86fdde999d/AppIcon-0-0-1x_U007epad-0-0-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/shZQWBSr",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:28:40.876Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:28:40.876Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "11816"
   }
 ]
