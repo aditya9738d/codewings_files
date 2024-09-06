@@ -1195,5 +1195,183 @@
       }
     ],
     "id": "87823"
+  },
+  {
+    "name": "AnyTV - IPTV Player",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/b3/1f/74b31fb6-f19f-d51b-069c-cf741cebb92d/AppIcon-0-0-1x_U007epad-0-10-0-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NuYsARQq",
+    "clickCount": 43,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:25:24.545Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:25:24.545Z",
+        "clickCount": 43
+      }
+    ],
+    "id": "67617"
+  },
+  {
+    "name": "Flickplay: Collect 3D Avatars",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/1b/68/0d1b6800-4e30-deaa-a51e-4338c50baa9e/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/xr5o788R",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:25:24.546Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:25:24.546Z",
+        "clickCount": 8
+      }
+    ],
+    "id": "72218"
+  },
+  {
+    "name": "messageCollectfra",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/14/bb/1514bb24-9184-6774-2a4e-e917945cec47/AppIcon-1x_U007epad-0-0-85-220-0.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/kLqjjxNJ",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:25:24.546Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:25:24.546Z",
+        "clickCount": 4
+      }
+    ],
+    "id": "94262"
+  },
+  {
+    "name": "æžç®€é˜…è¯»å™¨",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/04/7b/d9047bd1-462a-2ea7-3c02-8f2ff05a1ac5/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/yi7ynnZr",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:25:24.546Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:25:24.546Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "89753"
+  },
+  {
+    "name": "7-Eleven: Rewards & Shopping",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/d9/71/76d97192-21a2-eca2-a29d-fb31d1a79b57/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/aC8uhJd9",
+    "clickCount": 9,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:25:24.547Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:25:24.547Z",
+        "clickCount": 9
+      }
+    ],
+    "id": "10766"
+  },
+  {
+    "name": "Messenger",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/fc/61/e3fc61b2-4f9a-23c6-94be-52c3479c07b9/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/njVWbUm0",
+    "clickCount": 387,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Chat"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:25:24.547Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:25:24.547Z",
+        "clickCount": 387
+      }
+    ],
+    "id": "22790"
+  },
+  {
+    "name": "AiCam AI Smart Security Camera",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/1c/26/6d1c2666-f93d-3d31-96e6-cc7b86f2c831/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/iIMNrXye",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:25:24.547Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:25:24.547Z",
+        "clickCount": 4
+      }
+    ],
+    "id": "82292"
+  },
+  {
+    "name": "OPUS Connect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/fd/37/e0fd372a-943a-cb51-796b-26edbd7758d7/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ZBfFNnAg",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:25:24.547Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:25:24.547Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "34561"
+  },
+  {
+    "name": "To Earn NOW",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/21/64/202164c6-2d64-822c-be66-ec573f3149b3/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UIdBgJp1",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:25:24.548Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:25:24.548Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "85800"
+  },
+  {
+    "name": "WCWebPro",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/81/38/3381388f-3a4e-56d9-8cee-f94683cd20ac/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/k7o5tI7e",
+    "clickCount": 34,
+    "betaAvailable": "not accepting",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:25:24.548Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:25:24.548Z",
+        "clickCount": 34
+      }
+    ],
+    "id": "93384"
   }
 ]
