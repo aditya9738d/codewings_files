@@ -1052,5 +1052,22 @@
       }
     ],
     "id": "44652"
+  },
+  {
+    "name": "Elite Hoops Basketball",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/66/ac/8e/66ac8e76-51d7-c026-ae04-ff8357320eb0/AppIcon.lsr/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/QRHtNb7W",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:38:23.188Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:38:23.188Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "87884"
   }
 ]
