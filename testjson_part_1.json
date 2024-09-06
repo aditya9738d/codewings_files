@@ -338,5 +338,175 @@
       }
     ],
     "id": "62686"
+  },
+  {
+    "name": "AdonisBots",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/e0/d3/0be0d3fa-9f17-c707-8c3d-5911a2b1ffd2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/0w5l6DOd",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:15:10.067Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:15:10.067Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "80826"
+  },
+  {
+    "name": "Boson: Headphones Control",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/56/83/f156834b-8a33-e965-91cb-961211f8fb5b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/QWTMWYIW",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:15:10.068Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:15:10.068Z",
+        "clickCount": 4
+      }
+    ],
+    "id": "88799"
+  },
+  {
+    "name": "iPhoneMOBPOS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/9b/6e/ad9b6e52-3450-a3e2-28d3-e3d45eae1379/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/HhNUDjSr",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:15:10.068Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:15:10.068Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "41067"
+  },
+  {
+    "name": "Lysten: Podcast Player",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/f5/14/f5f51435-303c-7b26-7a1d-178892138d0e/AppIcon-0-1x_U007epad-0-P3-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/7VS128LY",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:15:10.069Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:15:10.069Z",
+        "clickCount": 5
+      }
+    ],
+    "id": "68392"
+  },
+  {
+    "name": "3CX",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/54/d7/8154d79c-dacc-1d2b-f66b-d59439b3c425/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5MPjSs2T",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:15:10.069Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:15:10.069Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "40495"
+  },
+  {
+    "name": "Skinmate",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/8f/10/878f1018-ff59-cc0a-a2fb-87a3725a5ea2/productionAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/uowK2yZc",
+    "clickCount": 2,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:15:10.069Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:15:10.069Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "23773"
+  },
+  {
+    "name": "Image Collection",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/20/c2/9c20c220-b2f2-3b8b-1c06-7c12e968bdbd/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/I0wOZM3q",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:15:10.069Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:15:10.069Z",
+        "clickCount": 8
+      }
+    ],
+    "id": "95877"
+  },
+  {
+    "name": "MAFC CRM",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/70/07/577007fd-a24e-f776-ed2e-3725396198d6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/V0RkG8PS",
+    "clickCount": 2,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:15:10.070Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-09-06T08:15:10.070Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "56356"
+  },
+  {
+    "name": "Ylore",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/6c/dd/866cdd1c-aeab-a3c3-efa0-95b9953480de/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/HB90ocDx",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:15:10.070Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:15:10.070Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "54874"
+  },
+  {
+    "name": "cobo å«å£« sandbox",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/60/6e/80606e81-3b48-60c6-57b2-7e4a49f7b9c3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/0fUxGLqz",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:15:10.070Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:15:10.070Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "42105"
   }
 ]
