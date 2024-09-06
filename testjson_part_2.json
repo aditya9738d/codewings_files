@@ -1,1 +1,346 @@
-
+[
+  {
+    "name": "æ±‚ã‚€ï¼æ´žçªŸæŽ¢æ¤œå®¶",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/bd/5b/b5bd5be2-11a2-24a8-96df-d9cfdb928591/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/gMzq8xS4",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.595Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.595Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "35720"
+  },
+  {
+    "name": "XANA Metaverse",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/b7/b2/66b7b2dc-71ee-a3bf-409a-2c583e61e873/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/TglRnz6A",
+    "clickCount": 9,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.595Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.595Z",
+        "clickCount": 9
+      }
+    ],
+    "id": "41600"
+  },
+  {
+    "name": "TiTi App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/b6/a4/92b6a44b-1a42-c658-8db7-64097f12bb4b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NeXUqMRv",
+    "clickCount": 193,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.596Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.596Z",
+        "clickCount": 193
+      }
+    ],
+    "id": "75867"
+  },
+  {
+    "name": "Hivemind Access Portal",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/15/3d/e8153dd5-6f6e-4cb3-92f8-ff8895c79b60/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/CYtz15OJ",
+    "clickCount": 1,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.596Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-09-06T08:04:18.596Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "27648"
+  },
+  {
+    "name": "Legend of Arcadia",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/f9/7d/d8f97db6-0362-e042-9176-ed6701eacdd2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/G7O14h4N",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.596Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.596Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "70797"
+  },
+  {
+    "name": "é…·ç‹—éŸ³ä¹ - å°±æ˜¯æ­Œå¤š",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/27/46/f927465c-8bef-aadd-6096-b16cbd0d1588/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6cnKUyZ8",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.596Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.596Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "31943"
+  },
+  {
+    "name": "Planet X Staging",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/98/40/81984053-e050-ec63-c797-08d1d2aa7366/AppIcon-0-0-1x_U007epad-0-7-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/U3wNdYcr",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.596Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.596Z",
+        "clickCount": 4
+      }
+    ],
+    "id": "53882"
+  },
+  {
+    "name": "Veerl",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/c7/bf/b5c7bf5f-4d1b-efef-7c5f-ccc0501a380d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/5iCVuC8J",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.596Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.596Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "83220"
+  },
+  {
+    "name": "Loot Legends: Rogue Dungeons",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/ec/55/aaec55d9-69ea-dcec-ce45-9bfa03c6bdd0/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/D8RMsRKR",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.596Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.596Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "20217"
+  },
+  {
+    "name": "Shiba Kart",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6vAKGRW7",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.597Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.597Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "91486"
+  },
+  {
+    "name": "AmanaTa",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/05/90/65059029-5f30-a2dc-b4ed-7ba53d642244/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/7BbyzYKv",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.597Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.597Z",
+        "clickCount": 5
+      }
+    ],
+    "id": "75944"
+  },
+  {
+    "name": "Kulve",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/f0/94/24f0949d-4a2e-2482-da0e-dda97d1a379d/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/uJqZ5xW7",
+    "clickCount": 14,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.597Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.597Z",
+        "clickCount": 14
+      }
+    ],
+    "id": "34301"
+  },
+  {
+    "name": "Exodus: GBW",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/04/cd/d004cd32-214f-b997-ad81-b69457734b68/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Ej69tE2v",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.597Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.597Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "52273"
+  },
+  {
+    "name": "Devil's Purge",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/e9/b2/66e9b278-3244-51dd-c452-9685c6a55c85/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Iwii9MAC",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.597Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.597Z",
+        "clickCount": 8
+      }
+    ],
+    "id": "23208"
+  },
+  {
+    "name": "Poketch",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/64/46/986446d4-b881-0a20-cdd4-9c436b2c274f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/jd1cqyip",
+    "clickCount": 119,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.598Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.598Z",
+        "clickCount": 119
+      }
+    ],
+    "id": "89346"
+  },
+  {
+    "name": "Kitsune for MyAnimeList",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/14/07/fc140786-1fe8-a237-0acd-621a27f58c46/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/PgrnyTFZ",
+    "clickCount": 26,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.598Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.598Z",
+        "clickCount": 26
+      }
+    ],
+    "id": "85204"
+  },
+  {
+    "name": "Dikalo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/8d/52/068d52d0-07a0-64a2-b976-da5bc98bdb76/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/pZWRkOXn",
+    "clickCount": 7,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.598Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.598Z",
+        "clickCount": 7
+      }
+    ],
+    "id": "11603"
+  },
+  {
+    "name": "IGNITE Firing Systems",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/dc/08/2bdc085b-08dc-5b56-5450-88e5d2466b6b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mzuXsfLE",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.598Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.598Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "37495"
+  },
+  {
+    "name": "Car Parking Multiplayer 2",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/9b/62/8a9b62ee-09ae-163b-6184-d805397a2349/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/QHuun0Nh",
+    "clickCount": 1266,
+    "betaAvailable": "not accepting",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:04:18.598Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:04:18.598Z",
+        "clickCount": 1266
+      }
+    ],
+    "id": "16254"
+  },
+  {
+    "name": "Faxo",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/83/ef/af83efbe-4002-9ad4-14de-831d7c4dcc8b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/qKNJRpAs",
+    "clickCount": 14,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:04:18.599Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:04:18.599Z",
+        "clickCount": 14
+      }
+    ],
+    "id": "92457"
+  }
+]
