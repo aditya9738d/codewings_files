@@ -194,5 +194,179 @@
       }
     ],
     "id": "86737"
+  },
+  {
+    "name": "DriverApp Dev",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/80/f7/da80f73b-a97e-00ec-dab8-dcb2305f92cc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VPSg1dyq",
+    "clickCount": 117,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:27:35.969Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:27:35.969Z",
+        "clickCount": 117
+      }
+    ],
+    "id": "27674"
+  },
+  {
+    "name": "fortitude",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e3/91/71e391bd-2bb3-78e1-a2b2-dea1e795094c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/IO9jqeaB",
+    "clickCount": 112,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:27:35.969Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:27:35.969Z",
+        "clickCount": 112
+      }
+    ],
+    "id": "88157"
+  },
+  {
+    "name": "Hyena VPN-secure & fast",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/a5/d9/9ba5d9e8-4c90-47ae-1ac1-f7cc954172e1/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zRvqNj4y",
+    "clickCount": 155,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:27:35.969Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-06T07:27:35.969Z",
+        "clickCount": 155
+      }
+    ],
+    "id": "53622"
+  },
+  {
+    "name": "Waydger",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/a9/1d/66a91d24-15ab-9cba-63d0-2444a8e82e6d/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/xckrvkWD",
+    "clickCount": 70,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:27:35.969Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-06T07:27:35.969Z",
+        "clickCount": 70
+      }
+    ],
+    "id": "93884"
+  },
+  {
+    "name": "Poolview",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/5d/9c/dc5d9c8b-5b87-e6f7-5b2b-ad2a84423f8e/AppIcon.lsr/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/JqdvQprT",
+    "clickCount": 73,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:27:35.970Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:27:35.970Z",
+        "clickCount": 73
+      }
+    ],
+    "id": "88789"
+  },
+  {
+    "name": "AR Helicopters",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/f7/38/84f738e4-c95f-30d0-df57-111e9ee42624/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ToXsnZXX",
+    "clickCount": 69,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:27:35.970Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:27:35.970Z",
+        "clickCount": 69
+      }
+    ],
+    "id": "66160"
+  },
+  {
+    "name": "Quotes: Share Beautiful Quotes",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/d2/7c/3fd27cb8-0cf9-1572-07ef-09caca979b51/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1IvTkvMq",
+    "clickCount": 25,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:27:35.970Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:27:35.970Z",
+        "clickCount": 25
+      }
+    ],
+    "id": "32823"
+  },
+  {
+    "name": "Bolide - Crypto Bitcoin Wallet",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/18/08/3a18087f-b9b5-a677-f8ce-b3bb33eb5b19/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UoLAQdjn",
+    "clickCount": 57,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:27:35.970Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:27:35.970Z",
+        "clickCount": 57
+      }
+    ],
+    "id": "49456"
+  },
+  {
+    "name": "TinyTable - Tabletop Gameroom",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d5/7d/95d57d3b-2be9-65ff-dc79-ba5f6c3bcd44/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/TjI2iwXJ",
+    "clickCount": 83,
+    "betaAvailable": "not accepting",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-09-06T07:27:35.970Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:27:35.970Z",
+        "clickCount": 83
+      }
+    ],
+    "id": "83569"
+  },
+  {
+    "name": "8 Millimeters for Netflix",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/40/26/44402681-b951-68be-5d13-57da71d28880/AppIcon.lsr/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/0039s3ip",
+    "clickCount": 104,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:27:35.970Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:27:35.970Z",
+        "clickCount": 104
+      }
+    ],
+    "id": "28150"
   }
 ]
