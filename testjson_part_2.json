@@ -882,5 +882,175 @@
       }
     ],
     "id": "26992"
+  },
+  {
+    "name": "iMobile Pay: Banking, UPI",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6a/2c/186a2ce7-b935-be1c-e2a9-5cf8d6f53c05/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/vvSTVqxu",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:34:26.788Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:34:26.788Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "20324"
+  },
+  {
+    "name": "CrewWorks",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fe/b3/fe/feb3fe80-78d8-0071-7d08-bdac141a9b21/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/R0ZE1tt6",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:34:26.788Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:34:26.788Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "60734"
+  },
+  {
+    "name": "Healome",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cb/19/a9/cb19a92c-f7c3-b123-b6aa-60df5faa8acd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/aAOprPZs",
+    "clickCount": 2,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:34:26.789Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:34:26.789Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "31334"
+  },
+  {
+    "name": "Grazie for Safari",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/77/77/bf777745-e86d-aec8-73e1-be6e6224eb7c/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XjmWmmHB",
+    "clickCount": 21,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:34:26.789Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:34:26.789Z",
+        "clickCount": 21
+      }
+    ],
+    "id": "59152"
+  },
+  {
+    "name": "Karofi Service",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/6e/8d/9e6e8de3-9a51-408a-db02-9ae7fee93fc2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/rfgyiZ1k",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:34:26.789Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:34:26.789Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "10742"
+  },
+  {
+    "name": "Pitel Connect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/64/f6/cf64f660-646c-2fce-21cc-2b4fc8c5e7da/prodAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/0iU7OKQX",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:34:26.789Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:34:26.789Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "94418"
+  },
+  {
+    "name": "HoloKit",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/7a/a2/af7aa25c-ecf7-a8f8-1d93-03dc79d550d7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/dYfqUTw6",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:34:26.789Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T07:34:26.789Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "67714"
+  },
+  {
+    "name": "BankingZV",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/44/d8/5b/44d85b30-d0af-b159-04c8-3cc91d011e2f/AppIcon-1x_U007emarketing-0-4-85-220-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/x5sOCqY1",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:34:26.789Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:34:26.789Z",
+        "clickCount": 5
+      }
+    ],
+    "id": "84679"
+  },
+  {
+    "name": "iFlame PRO",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/2a/7c/a32a7c01-75d3-5d4b-8d4d-53308d7ca7cf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/1cQr8PE7",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:34:26.789Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:34:26.789Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "37113"
+  },
+  {
+    "name": "SlayTheWak2",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/04/a8/da04a82e-674b-e731-81eb-906c3728e059/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
+    "link": "https://testflight.apple.com/join/eYTVgwHj",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T07:34:26.789Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T07:34:26.789Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "44652"
   }
 ]
