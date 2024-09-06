@@ -40,7 +40,7 @@
     "clickCount": 2,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:31:31.577Z",
+    "lastChecked": "2024-09-06T08:31:36.292Z",
     "history": [
       {
         "status": "open",
@@ -64,7 +64,7 @@
         "Music"
       ]
     ],
-    "lastChecked": "2024-09-06T08:31:31.577Z",
+    "lastChecked": "2024-09-06T08:31:36.292Z",
     "history": [
       {
         "status": "open",
@@ -81,7 +81,7 @@
     "clickCount": 4,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:31:31.577Z",
+    "lastChecked": "2024-09-06T08:31:36.292Z",
     "history": [
       {
         "status": "open",
@@ -98,7 +98,7 @@
     "clickCount": 1,
     "betaAvailable": "not accepting",
     "categories": [],
-    "lastChecked": "2024-09-06T08:31:31.577Z",
+    "lastChecked": "2024-09-06T08:31:36.292Z",
     "history": [
       {
         "status": "not accepting",
@@ -115,7 +115,7 @@
     "clickCount": 38,
     "betaAvailable": "full",
     "categories": [],
-    "lastChecked": "2024-09-06T08:31:31.577Z",
+    "lastChecked": "2024-09-06T08:31:36.292Z",
     "history": [
       {
         "status": "full",
@@ -132,7 +132,7 @@
     "clickCount": 2,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:31:31.578Z",
+    "lastChecked": "2024-09-06T08:31:36.292Z",
     "history": [
       {
         "status": "open",
@@ -149,7 +149,7 @@
     "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:31:31.578Z",
+    "lastChecked": "2024-09-06T08:31:36.292Z",
     "history": [
       {
         "status": "open",
@@ -166,7 +166,7 @@
     "clickCount": 269,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:31:31.578Z",
+    "lastChecked": "2024-09-06T08:31:36.292Z",
     "history": [
       {
         "status": "open",
@@ -175,5 +175,39 @@
       }
     ],
     "id": "63443"
+  },
+  {
+    "name": "Indus Battle Royale Mobile",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/3f/2f/e73f2f72-8017-edfe-aee0-f850b207396c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/bAVRvZHD",
+    "clickCount": 18,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:31:36.292Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:31:36.292Z",
+        "clickCount": 18
+      }
+    ],
+    "id": "29573"
+  },
+  {
+    "name": "BAGS - Financial Messenger",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/56/5d/71565d61-d887-4cfb-4570-eca49d1427c0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/j7uwkoAL",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:31:36.293Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:31:36.293Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "83645"
   }
 ]
