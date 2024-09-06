@@ -125,7 +125,7 @@
     "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.596Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -142,7 +142,7 @@
     "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.596Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -159,7 +159,7 @@
     "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.597Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -176,7 +176,7 @@
     "clickCount": 5,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.597Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -193,7 +193,7 @@
     "clickCount": 14,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.597Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -210,7 +210,7 @@
     "clickCount": 1,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.597Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -227,7 +227,7 @@
     "clickCount": 8,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.597Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -244,7 +244,7 @@
     "clickCount": 119,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.598Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -261,7 +261,7 @@
     "clickCount": 26,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.598Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -278,7 +278,7 @@
     "clickCount": 7,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.598Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -295,7 +295,7 @@
     "clickCount": 2,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.598Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -316,7 +316,7 @@
         "Games"
       ]
     ],
-    "lastChecked": "2024-09-06T08:04:18.598Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "not accepting",
@@ -333,7 +333,7 @@
     "clickCount": 14,
     "betaAvailable": "open",
     "categories": [],
-    "lastChecked": "2024-09-06T08:04:18.599Z",
+    "lastChecked": "2024-09-06T08:43:05.292Z",
     "history": [
       {
         "status": "open",
@@ -682,5 +682,124 @@
       }
     ],
     "id": "89445"
+  },
+  {
+    "name": "Anubis Reader",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/1d/5d/071d5dc5-0721-973f-744a-af4856f8272a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/r3DDlSqw",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:43:05.293Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:43:05.293Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "70893"
+  },
+  {
+    "name": "Kaspersky fast & secure VPN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/46/00/d44600ad-9e0f-a571-64c1-a8612ccf4e36/AppIcon-0-0-85-220-0-0-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ieHWc6hH",
+    "clickCount": 32,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:43:05.293Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:43:05.293Z",
+        "clickCount": 32
+      }
+    ],
+    "id": "49914"
+  },
+  {
+    "name": "VALPAW",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/d0/e6/40d0e600-a994-a69a-69c6-40e3b1a40e1c/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/eOgMk6SM",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:43:05.294Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:43:05.294Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "21098"
+  },
+  {
+    "name": "Illuvium: Zero",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/e2/d7/d8e2d73d-a4ed-755e-71f8-1371fab5dbd4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/NHWJXyxX",
+    "clickCount": 23,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:43:05.294Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:43:05.294Z",
+        "clickCount": 23
+      }
+    ],
+    "id": "39502"
+  },
+  {
+    "name": "File Widgets",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/17/66/92176600-9d18-fa49-9858-34909d333043/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MZc6JJst",
+    "clickCount": 16,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:43:05.294Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:43:05.294Z",
+        "clickCount": 16
+      }
+    ],
+    "id": "41272"
+  },
+  {
+    "name": "WiFi-Connect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/6b/6e/3d6b6e85-ca19-b06c-e1d9-0192d1dbe9f3/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LhBWgvsB",
+    "clickCount": 110,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:43:05.295Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:43:05.295Z",
+        "clickCount": 110
+      }
+    ],
+    "id": "92876"
+  },
+  {
+    "name": "heylogin â€“ Password Manager",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/7a/86/a27a860d-dda8-7bf2-c121-4636d87d898d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hccQEx7f",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:43:05.295Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:43:05.295Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "62787"
   }
 ]
