@@ -1,0 +1,179 @@
+[
+  {
+    "name": "TP-Link Deco",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/9b/44/e89b44a9-570d-4971-5184-cc2f066fd1dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/U5p3ccdw",
+    "clickCount": 52,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:31:31.576Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:31:31.576Z",
+        "clickCount": 52
+      }
+    ],
+    "id": "98701"
+  },
+  {
+    "name": "Satakunnan Kansa",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/ad/05/88ad05fa-e563-de26-b844-c52764fa5d1d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/wrh3Qw7n",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:31:31.577Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:31:31.577Z",
+        "clickCount": 4
+      }
+    ],
+    "id": "16706"
+  },
+  {
+    "name": "Lapz - F1Â® for visionOS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/7b/1d/317b1d4f-ead4-6a37-25aa-7be00b8a1361/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/qX6Yvfwz",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:31:31.577Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:31:31.577Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "31290"
+  },
+  {
+    "name": "TikTok Music",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f2/19/bff219ef-10c9-3a22-ad8c-74c19378eceb/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/G0n2YZyU",
+    "clickCount": 122,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Entertainment"
+      ],
+      [
+        "Music"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:31:31.577Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:31:31.577Z",
+        "clickCount": 122
+      }
+    ],
+    "id": "29855"
+  },
+  {
+    "name": "Bringin",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/17/bb/0917bb1a-181f-6bdd-e477-36fc3143cd29/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/HVh6eZsF",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:31:31.577Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:31:31.577Z",
+        "clickCount": 4
+      }
+    ],
+    "id": "67348"
+  },
+  {
+    "name": "Robin: Personal Hype Squad",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/a3/4d/c8a34d33-10d0-cb7e-316e-f2f84d2ab7d6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/F41rywJy",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:31:31.577Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:31:31.577Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "64788"
+  },
+  {
+    "name": "Hiddify Proxy & VPN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/5d/ab/0e5dab79-2ae4-7b82-fef1-161da1df2a99/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/dsNjHxjb",
+    "clickCount": 38,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:31:31.577Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-09-06T08:31:31.577Z",
+        "clickCount": 38
+      }
+    ],
+    "id": "85887"
+  },
+  {
+    "name": "Project Graveyard",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/e2/ea/15e2ea8b-1b4a-daa0-119d-078e45365adb/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LMRBvMmV",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:31:31.578Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:31:31.578Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "91897"
+  },
+  {
+    "name": "Sabertooth for Mastodon",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/52/46/fe524688-4ed3-59ac-b576-bd09c4ef79db/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/pBGgMKw2",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:31:31.578Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:31:31.578Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "11938"
+  },
+  {
+    "name": "Microsoft 365 (Office)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/55/2e/ee552ed6-0bf8-650f-5f7a-5e1daeab12e6/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/eHAKJBtM",
+    "clickCount": 269,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:31:31.578Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:31:31.578Z",
+        "clickCount": 269
+      }
+    ],
+    "id": "63443"
+  }
+]
