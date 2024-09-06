@@ -16,7 +16,6 @@
 - **Temple Run: Adventure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c1/43/e7c1437d-ccaf-f4e9-32ad-066af8bb0111/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8c2K8z2s)
 
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
-- **Vibe AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/2c/81/cd2c8194-08fc-63d3-801a-9a5c61ee66a9/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/g0Zl8pVd)
 
 - **Nro Hoa Sever 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/5e/36/3f5e3621-f0e3-e8de-970b-8e4ab16916a3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iBQpYuai)
 
@@ -26,7 +25,6 @@
 - **Stackie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/84/c6/0e84c66f-2277-fcb4-c45b-68d4fad3fe2a/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/25CvgSSv)
 
 - **Tara360 Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/25/d1/5325d1ff-5206-acd7-0c24-f0879a99232a/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gg4r70vP)
-- **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/d6/c4/abd6c441-e727-289c-37d5-d50231bbaa7c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/d6/c4/abd6c441-e727-289c-37d5-d50231bbaa7c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
