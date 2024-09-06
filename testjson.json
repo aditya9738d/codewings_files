@@ -1,1 +1,356 @@
-
+[
+  {
+    "name": "Race Day | Real Time Stats",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/41/18/624118cc-cdff-7934-988b-44d0c66b362c/AppIcon-0-0-1x_U007emarketing-0-2-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/AJqRFNjX",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "53966"
+  },
+  {
+    "name": "Flo-Digital",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/87/ff/3487ff61-68af-6483-9328-244e5cead2a6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/qNqDUzjf",
+    "clickCount": 6,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "44671"
+  },
+  {
+    "name": "The Battle of Polytopia",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/6a/3e/426a3e88-0bf2-eaa6-d8a6-a23fd24c2fc6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/LjTQNqua",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "83302"
+  },
+  {
+    "name": "PrinterLogic App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/60/cc/6560ccff-7939-62dc-21f8-7214d2910213/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ieiCB8hb",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "59398"
+  },
+  {
+    "name": "Instagram",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/2d/d5/8b2dd54b-ef13-dcc2-b6bf-d411f66c30a1/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/72eyUWVE",
+    "clickCount": 761,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Chat"
+      ],
+      [
+        "Entertainment"
+      ],
+      [
+        "Social Networking"
+      ]
+    ],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 761
+      }
+    ],
+    "id": "57471"
+  },
+  {
+    "name": "Háº£i Táº·c Plus...",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/00/72/9b0072fa-a9a5-dff3-010c-809166b80e8e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/HqQRZsDZ",
+    "clickCount": 0,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "11390"
+  },
+  {
+    "name": "Shadow Note",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/55/77/50557711-8a71-a5bd-3eb0-e8d066a8e7ad/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/RObzZdPO",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "38714"
+  },
+  {
+    "name": "USGH Courier",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/09/3d/5d093db3-eb51-56c7-7ecf-dcb4b83ed233/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/k6XbN6Rt",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "43260"
+  },
+  {
+    "name": "Schiphol Amsterdam Airport",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/0e/29/060e296e-e164-9f14-1f5d-bdc32e50f205/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Jve0kHxd",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "19300"
+  },
+  {
+    "name": "ä¾ç±³çŸ­è§†é¢‘",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/d4/34/3ed434b5-2b18-51d3-624f-e48ed79e063c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8LDV312x",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "66804"
+  },
+  {
+    "name": "UAC - Universal Athletic Club",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/9b/a0/3e9ba013-074b-5708-0e5d-a5bd5d1d9576/app-icons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/b0m2V7Ba",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "33275"
+  },
+  {
+    "name": "Nurlan",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6b/8a/7a6b8a4e-9612-50d8-d46e-4877703622a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/CFil8HMY",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "11973"
+  },
+  {
+    "name": "Zenmoney: expense tracker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/81/da/8d81daca-4360-e40a-9078-5f08e3ca2ba8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/UNbjeBue",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 4
+      }
+    ],
+    "id": "20379"
+  },
+  {
+    "name": "Camarts Photography",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/a8/e4/40a8e4b9-b8b5-886d-6429-12bcb5f93aeb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/J4ymVf0z",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "42877"
+  },
+  {
+    "name": "Extension",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/32/b5/7732b520-7731-4e24-7323-e4f40e60b851/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XBS7oEOT",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 8
+      }
+    ],
+    "id": "96868"
+  },
+  {
+    "name": "Square: Retail Point of Sale",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/4b/28/124b2885-c0c1-e239-0acd-13e03c885a0c/RetailAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/PDxLdEro",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "35648"
+  },
+  {
+    "name": "OneBit Adventure",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/7e/16/d97e161e-afa4-82f4-959a-1aa490e08213/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/prMFbtfP",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "33990"
+  },
+  {
+    "name": "Amazon Music for Artists",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/b9/ea/abb9ea43-8677-468c-e45c-445eda47ef28/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/gVcq1JHQ",
+    "clickCount": 29,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Music"
+      ]
+    ],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 29
+      }
+    ],
+    "id": "73456"
+  },
+  {
+    "name": "LeapU",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/4a/39/ca4a3995-30bc-0bdf-9bf5-302c8f5ce6b9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/pXZdoDVF",
+    "clickCount": 2,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "51840"
+  },
+  {
+    "name": "å°ç¿¼ç®¡å®¶",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/24/a3/4e24a314-3661-cb36-90bc-dda17d10c74b/AppIcon2024new-1x_U007epad-0-0-0-sRGB-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/E2B6mXnl",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T05:36:58.441Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T05:36:58.441Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "32966"
+  }
+]
