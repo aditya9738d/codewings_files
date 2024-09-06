@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Secure VPN & Proxy â€“ Kaspersky",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/ff/96/f6ff963a-72c2-9c67-5d6b-a9a2da787b53/AppIcon-0-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ZqcWekcm",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.960Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:47:28.960Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "40384"
+  },
+  {
+    "name": "BiliTV",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/43/7b/e0437b6a-68e5-f863-d8ea-6426c3f4ed7d/App_Icon-marketing.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/L4JKrE3g",
+    "clickCount": 15,
+    "betaAvailable": "full",
+    "categories": [
+      [
+        "Entertainment",
+        "Utility"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:47:28.961Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-09-06T08:47:28.961Z",
+        "clickCount": 15
+      }
+    ],
+    "id": "71044"
+  },
+  {
+    "name": "Vybe - The Going Out App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/46/d7/fd46d786-b77d-4811-cd3a-eb92314ead8f/AppIcon-prod-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/cqHReyKc",
+    "clickCount": 7,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Social Networking"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:47:28.961Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:47:28.961Z",
+        "clickCount": 7
+      }
+    ],
+    "id": "38090"
+  },
+  {
+    "name": "AnyTrip",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/65/84/936584d6-7582-3d49-f3df-4b0dc53c40b1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/z4jEQC9Z",
+    "clickCount": 8,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.961Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:47:28.961Z",
+        "clickCount": 8
+      }
+    ],
+    "id": "39844"
+  },
+  {
+    "name": "Relax for Meditation",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/17/d0/c017d057-e825-0852-3621-01ccabd820e9/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MeCxDQRz",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Medical",
+        "Productivity"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:47:28.961Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:47:28.961Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "74941"
+  },
+  {
+    "name": "GeoQuestAR",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/3b/74/0b3b7425-99cc-d4df-98cd-01955e06a400/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Aqpi4Ote",
+    "clickCount": 43,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.962Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:47:28.962Z",
+        "clickCount": 43
+      }
+    ],
+    "id": "77201"
+  },
+  {
+    "name": "MRFMultiRatingFeedback",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/49/86/934986b8-9d5c-7a79-e5a2-a4f8872c07b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/IJer4l1F",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.962Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:47:28.962Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "92962"
+  },
+  {
+    "name": "Cross Check Security",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/d0/b0/a7d0b07f-dd77-e0c5-77d5-db208c8989fe/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/2JO6v7Jb",
+    "clickCount": 2,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.962Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-09-06T08:47:28.962Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "87158"
+  },
+  {
+    "name": "Love2D Game Maker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/28/4f/e2284fda-f7fa-45fd-184d-14d3b837edc5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/bCLmQKfQ",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.962Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:47:28.962Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "65045"
+  },
+  {
+    "name": "Backpack Staging",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/f7/75/f9f775be-233b-98f4-2969-c6d2c2d84f58/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/KRywqshx",
+    "clickCount": 19,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Finance"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:47:28.962Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:47:28.962Z",
+        "clickCount": 19
+      }
+    ],
+    "id": "13575"
+  },
+  {
+    "name": "soundcore",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/75/45/9e754578-f15a-d530-e1ed-7f74b4eb3efc/AppIcon-0-0-1x_U007emarketing-0-4-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Eg2HZcdE",
+    "clickCount": 7,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Music"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:47:28.962Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:47:28.962Z",
+        "clickCount": 7
+      }
+    ],
+    "id": "23670"
+  },
+  {
+    "name": "Elgato Stream Deck Connect",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/5d/54/665d5405-78ad-d806-5661-71f8c5873e1c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/U4bWfk8O",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.962Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:47:28.962Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "64012"
+  },
+  {
+    "name": "VPNShop V2",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/30/12/50301298-5bf1-7057-4aad-bf4caa5a9107/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tpLmp5JV",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "VPN"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:47:28.963Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:47:28.963Z",
+        "clickCount": 5
+      }
+    ],
+    "id": "67583"
+  },
+  {
+    "name": "Zurf Social",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/62/cb/9362cb37-fa67-41f6-dff8-8691d6f6e356/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9vAjdPl7",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.963Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:47:28.963Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "17369"
+  },
+  {
+    "name": "Bayria: Fastest Streaming VPN",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/03/16/1a0316eb-f3b2-5bad-d203-31b2ed71b75a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/p12uKMAQ",
+    "clickCount": 2,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.963Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:47:28.963Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "42893"
+  },
+  {
+    "name": "Arm Arena",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/51/2b/fc512b62-c9e9-b2c9-4127-b855e9cb8a5e/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/OaBr1tzV",
+    "clickCount": 17,
+    "betaAvailable": "not accepting",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:47:28.963Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:47:28.963Z",
+        "clickCount": 17
+      }
+    ],
+    "id": "88020"
+  },
+  {
+    "name": "GrandTheftRadio",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/a7/6c/28a76cb2-9430-ebb1-06ab-925706183654/AppIcon-1x_U007emarketing-0-4-0-sRGB-85-220-0.jpeg/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/GcO6hGad",
+    "clickCount": 318,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Games"
+      ]
+    ],
+    "lastChecked": "2024-09-06T08:47:28.963Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:47:28.963Z",
+        "clickCount": 318
+      }
+    ],
+    "id": "30657"
+  },
+  {
+    "name": "XTS Trader",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/4e/14/d54e1484-f1b6-288b-2642-c84ac3b8a3a2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VOssI4bd",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.963Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T08:47:28.963Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "34708"
+  },
+  {
+    "name": "EZViewTestFlight",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/41/a8/4441a867-deef-d3dc-5ca4-ffa10a569c7f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/uy0Z0e1R",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.963Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:47:28.963Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "16226"
+  },
+  {
+    "name": "NRO by ixxc 06",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/60/6a/a7606ac4-2c80-05cc-4e37-df6a1b43f387/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DQ6D5C1P",
+    "clickCount": 3,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-06T08:47:28.964Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T08:47:28.964Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "86052"
+  }
+]
