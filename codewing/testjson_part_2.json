@@ -658,5 +658,325 @@
       }
     ],
     "id": "84436"
+  },
+  {
+    "name": "Racing Master",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/54/24/2b542418-611e-45ed-a5d5-44dda15cf12c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/JK9aIDCs",
+    "clickCount": 139,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.318Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.318Z",
+        "clickCount": 139
+      }
+    ],
+    "id": "46671"
+  },
+  {
+    "name": "Legion Workforce (UAT)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/f5/da/5df5da43-edb5-4100-1029-9188edf5512e/AppIcon_UAT-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zc2brH51",
+    "clickCount": 4,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 4
+      }
+    ],
+    "id": "52194"
+  },
+  {
+    "name": "Geospot - Photo locator",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e1/76/c1e17653-23f7-54a2-5bf9-0cd55b36dd9e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Avgk7Kcc",
+    "clickCount": 30,
+    "betaAvailable": "not accepting",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 30
+      }
+    ],
+    "id": "31351"
+  },
+  {
+    "name": "æµ·å—å¹²éƒ¨åœ¨çº¿",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/7f/41/607f4128-729b-30ca-4b4c-c8b23d2c3dec/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/U01UJPV8",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "45516"
+  },
+  {
+    "name": "Final Glory",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/c4/49/94c449f8-2ee8-8148-e33e-6255caca7bef/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/9O83Or12",
+    "clickCount": 3,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 3
+      }
+    ],
+    "id": "81361"
+  },
+  {
+    "name": "Swiftfin",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/1b/14/301b1421-f182-791a-851c-0a28d5ce4df5/AppIcon-primary-primary-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/SqNPfdxq",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 5
+      }
+    ],
+    "id": "36883"
+  },
+  {
+    "name": "STAR PRO GL 3.3-V1.1",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/29/dd/b229dddc-0095-c55d-2251-e331694c1920/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/lKgMUVsM",
+    "clickCount": 39,
+    "betaAvailable": "error",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 39
+      }
+    ],
+    "id": "75059"
+  },
+  {
+    "name": "TFT - PBE",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/8c/19/7a8c191a-a279-1ec4-dbd6-90b4c4f5188a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/q79npPHz",
+    "clickCount": 32,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 32
+      }
+    ],
+    "id": "29685"
+  },
+  {
+    "name": "Yellow - A Fun Counter",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/bf/40/eabf40c6-ce7a-a8b6-1e94-cf63b9b69fa7/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/N9wigfoi",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 8
+      }
+    ],
+    "id": "25599"
+  },
+  {
+    "name": "AFK Arena",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/6b/41/1e6b41e0-adc8-06e2-aa4e-062acf1e125b/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/feBGFIPh",
+    "clickCount": 35,
+    "betaAvailable": "not accepting",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 35
+      }
+    ],
+    "id": "82299"
+  },
+  {
+    "name": "NutriSay",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f7/6d/51f76dc2-914b-f668-da00-02a77e9ad52e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Yu1O8Oh6",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "39776"
+  },
+  {
+    "name": "GOALS Companion",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/16/c8/2816c838-00b4-e4b4-b629-8a2d0d28b107/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/fh1QXQyA",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "95283"
+  },
+  {
+    "name": "Toolstash",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/92/f1/9292f117-8054-5dd5-94f4-b9f6d9d34499/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mQlC9ulT",
+    "clickCount": 17,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 17
+      }
+    ],
+    "id": "97699"
+  },
+  {
+    "name": "App VIP",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/7a/0d/fe7a0de7-adb7-ede0-46af-11bbcc0239d5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/pWMi4Apy",
+    "clickCount": 39,
+    "betaAvailable": "not accepting",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 39
+      }
+    ],
+    "id": "34998"
+  },
+  {
+    "name": "Bat Detector",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/57/e0/6057e0d7-2bf0-d5ae-6074-cbbeb82daedb/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/M5R8kipW",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "18054"
+  },
+  {
+    "name": "Dung Si",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/69/9f/39699fbd-5667-269b-2b8c-9b97eb3d2532/AppIcon-0-0-1x_U007emarketing-0-9-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/M1emOvsM",
+    "clickCount": 9,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.319Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.319Z",
+        "clickCount": 9
+      }
+    ],
+    "id": "90103"
+  },
+  {
+    "name": "ãƒ¬ãƒ¼ã‚·ãƒ³ã‚°ãƒžã‚¹ã‚¿ãƒ¼",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/4c/92/874c92df-999d-3d1e-ebe0-b06e4e2b8405/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/IuXW2dvS",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "lastChecked": "2024-09-06T10:02:31.320Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-06T10:02:31.320Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "95252"
+  },
+  {
+    "name": "BGMI NEW V1",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/a2/94/01a29444-680a-9388-416c-e8e9ca9d83f2/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Q8N317CU",
+    "clickCount": 248,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.320Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.320Z",
+        "clickCount": 248
+      }
+    ],
+    "id": "69891"
+  },
+  {
+    "name": "VMPC2000XL",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/yEgfYk21",
+    "clickCount": 11,
+    "betaAvailable": "open",
+    "lastChecked": "2024-09-06T10:02:31.320Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:02:31.320Z",
+        "clickCount": 11
+      }
+    ],
+    "id": "99397"
+  },
+  {
+    "name": "HOK - Map Vip",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ab/d4/a7abd488-9c68-1410-a1be-caf52809441e/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/H81vWtQy",
+    "clickCount": 69,
+    "betaAvailable": "error",
+    "lastChecked": "2024-09-06T10:02:31.320Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-06T10:02:31.320Z",
+        "clickCount": 69
+      }
+    ],
+    "id": "22485"
   }
 ]
