@@ -1,3 +1,6 @@
+- **FreemiumKit: In-App Purchases**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5d/41/ed5d4155-d917-7b90-5de3-d58f6ec2e8d0/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AhTsftRv)
+- **TPG Tapo Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/97/9f/84979f6e-5803-c6c7-2e70-7a1e9a8641c8/AppIcon-Beta-Big-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TlL8lXUE)
+
 - **TPG Tapo Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/97/9f/84979f6e-5803-c6c7-2e70-7a1e9a8641c8/AppIcon-Beta-Big-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TlL8lXUE)
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 
@@ -195,5 +198,3 @@
 - **Spatial Photo(ns)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/8e/cb/e68ecba0-2171-c62a-2852-9545e8abea7f/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/4ecRsPxF)
 - **Legend of Arcadia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/f9/7d/d8f97db6-0362-e042-9176-ed6701eacdd2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/G7O14h4N)
 - **酷狗音乐 - 就是歌多**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/27/46/f927465c-8bef-aadd-6096-b16cbd0d1588/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6cnKUyZ8)
-- **记账伴侣**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/06/3b/aa063ba0-5822-5933-92a6-8d5a0317ba6e/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q9yUcV8n)
-- **Planet X Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/98/40/81984053-e050-ec63-c797-08d1d2aa7366/AppIcon-0-0-1x_U007epad-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U3wNdYcr)
