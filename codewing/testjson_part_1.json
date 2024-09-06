@@ -3,13 +3,18 @@
     "name": "Project Cerberus",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/jaT62yTP",
-    "clickCount": 35,
+    "clickCount": 40,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
         "timestamp": "2024-09-06T10:05:15.784Z",
+        "clickCount": 35
+      },
+      {
+        "status": "open",
+        "timestamp": "2024-09-06T10:07:47.876Z",
         "clickCount": 35
       }
     ],
@@ -21,7 +26,7 @@
     "link": "https://testflight.apple.com/join/g0Zl8pVd",
     "clickCount": 11,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -37,7 +42,7 @@
     "link": "https://testflight.apple.com/join/iBQpYuai",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -53,7 +58,7 @@
     "link": "https://testflight.apple.com/join/QXss3kEl",
     "clickCount": 14,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -69,7 +74,7 @@
     "link": "https://testflight.apple.com/join/6nXMFbZd",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -85,7 +90,7 @@
     "link": "https://testflight.apple.com/join/5UZ93A7a",
     "clickCount": 10,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -101,7 +106,7 @@
     "link": "https://testflight.apple.com/join/3WdlTdna",
     "clickCount": 15,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -117,7 +122,7 @@
     "link": "https://testflight.apple.com/join/25CvgSSv",
     "clickCount": 13,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -133,7 +138,7 @@
     "link": "https://testflight.apple.com/join/AhTsftRv",
     "clickCount": 7,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -149,7 +154,7 @@
     "link": "https://testflight.apple.com/join/Gg4r70vP",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -165,7 +170,7 @@
     "link": "https://testflight.apple.com/join/tkgyzuZe",
     "clickCount": 6,
     "betaAvailable": "full",
-    "lastChecked": "2024-09-06T10:07:47.875Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "full",
@@ -181,7 +186,7 @@
     "link": "https://testflight.apple.com/join/8c2K8z2s",
     "clickCount": 55,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -197,7 +202,7 @@
     "link": "https://testflight.apple.com/join/RsasaCM6",
     "clickCount": 63,
     "betaAvailable": "full",
-    "lastChecked": "2024-09-06T10:07:47.876Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "full",
@@ -213,7 +218,7 @@
     "link": "https://testflight.apple.com/join/RsasaCM6",
     "clickCount": 162,
     "betaAvailable": "full",
-    "lastChecked": "2024-09-06T10:07:47.877Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "full",
@@ -229,7 +234,7 @@
     "link": "https://testflight.apple.com/join/8rckHFzp",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.877Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -245,7 +250,7 @@
     "link": "https://testflight.apple.com/join/TlL8lXUE",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.877Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -261,7 +266,7 @@
     "link": "https://testflight.apple.com/join/We5AU9nj",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.877Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -277,7 +282,7 @@
     "link": "https://testflight.apple.com/join/g0Zl8pVd",
     "clickCount": 16,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.877Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -293,7 +298,7 @@
     "link": "https://testflight.apple.com/join/zJVHK213",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.877Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
@@ -309,7 +314,7 @@
     "link": "https://testflight.apple.com/join/XEv7sqcJ",
     "clickCount": 8,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T10:07:47.878Z",
+    "lastChecked": "2024-09-06T10:08:41.403Z",
     "history": [
       {
         "status": "open",
