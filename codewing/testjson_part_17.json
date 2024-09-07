@@ -1,0 +1,346 @@
+[
+  {
+    "name": "CarbitLink-EasyConnection",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/87/96/fc87962b-1874-bcf0-cf22-04fffd011e0a/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/XLV7UL40",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:38.120Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:38.120Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "60005"
+  },
+  {
+    "name": "BytoTDS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/18/e9/7818e9cf-2980-f106-226b-e4a6828d25a1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/hocTWZ01",
+    "clickCount": 10,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:38.703Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:38.703Z",
+        "clickCount": 10
+      }
+    ],
+    "id": "75936"
+  },
+  {
+    "name": "Foursquare Swarm: Check-in App",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/79/60/107960d5-0c80-64c9-0900-fa1e5da0c052/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/0rRfTytM",
+    "clickCount": 5,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:39.284Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:39.284Z",
+        "clickCount": 5
+      }
+    ],
+    "id": "68114"
+  },
+  {
+    "name": "FastNote",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/fd/b1/21fdb107-9f80-e488-426e-fc905f522517/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tl4SH9NF",
+    "clickCount": 11,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:39.865Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:39.865Z",
+        "clickCount": 11
+      }
+    ],
+    "id": "35240"
+  },
+  {
+    "name": "LIMS_iOS",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/87/26/00872680-9e3e-6c8d-0714-938f4346c47f/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/VZKshDGr",
+    "clickCount": 28,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:40.447Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:40.447Z",
+        "clickCount": 28
+      }
+    ],
+    "id": "87594"
+  },
+  {
+    "name": "NROINOVAR",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/00/76/3c0076b9-be42-4ae2-999d-284403761974/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tUPFQhCw",
+    "clickCount": 5,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:41.028Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-07T09:59:41.028Z",
+        "clickCount": 5
+      }
+    ],
+    "id": "98781"
+  },
+  {
+    "name": "Almanac Calendar",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/77/33/d577337e-ff65-ffb7-1e71-80eb5d68cbdf/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ekQVtizj",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:41.609Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:41.609Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "98713"
+  },
+  {
+    "name": "Chronos for Jira (Beta)",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/be/28/93be2835-8f6c-ee1e-cacb-2e5b65397c90/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/mB7ZA6s5",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:42.189Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:42.189Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "67444"
+  },
+  {
+    "name": "8.x.b.e.t",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/88/f8/d688f84e-ce86-7f9f-b85a-68b5dbe38561/AppIcon-vd001-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8WZIw5ow",
+    "clickCount": 0,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:42.770Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-07T09:59:42.770Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "94497"
+  },
+  {
+    "name": "Divine Healers",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/96/c7/9696c7a9-62d9-ab2c-3c60-79765b38c5f8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/1KoT9C6m",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:43.351Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:43.351Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "44414"
+  },
+  {
+    "name": "魏-魏牌新能源",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/12/b8/e612b8e6-1986-353a-4e92-dd4f2df21951/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/wjjmv7rY",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:43.933Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:43.933Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "11608"
+  },
+  {
+    "name": "网络小帮手",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/cd/7b/a6cd7b60-d76b-4328-842f-99ec33515658/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/uotcUBt0",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:44.515Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:44.515Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "57369"
+  },
+  {
+    "name": "nPulse - Nadi Pulse",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/7f/51/147f5157-6056-e9ce-aaf7-741126ccbed0/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/tAP62fZh",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:45.096Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:45.096Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "49262"
+  },
+  {
+    "name": "WODHOPPER Member",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/5d/6a/815d6a33-c6db-a493-e42d-93252c715c35/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Fz9CU6Xa",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:45.681Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:45.681Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "39185"
+  },
+  {
+    "name": "Weblink Helix",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/8c/42/a58c4274-a474-5fd5-5fa6-5860047d0209/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/cKzBQweS",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:46.263Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:46.263Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "40509"
+  },
+  {
+    "name": "TROLLEE Manager",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/70/0c/19700cc7-cfb4-22cb-ff14-dd1769742664/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/EwFRjyGi",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:46.846Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:46.846Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "12946"
+  },
+  {
+    "name": "嘀哩语音",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/64/22/6564222b-5cb9-1e50-522c-94710decfd9d/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/0uKWY8eJ",
+    "clickCount": 7,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:47.428Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:47.428Z",
+        "clickCount": 7
+      }
+    ],
+    "id": "58896"
+  },
+  {
+    "name": "Rise Calendar",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ae/0c/ecae0cc8-656c-5099-0862-92e2fc4643cf/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/lmHyxO7e",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Email & Calendar"
+      ]
+    ],
+    "lastChecked": "2024-09-07T09:59:48.012Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:48.012Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "45054"
+  },
+  {
+    "name": "BoysRecipes",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/33/5c/45335cbd-7bdb-e6af-ca68-8f852c14e690/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/0gVEkYI0",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:48.595Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T09:59:48.595Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "89957"
+  },
+  {
+    "name": "Range Log Marksmanship Tracker",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/eb/fd/8bebfda1-deec-4445-b9d1-ff1ab0a85a4d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/63gHkSMm",
+    "clickCount": 0,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-07T09:59:49.177Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-07T09:59:49.177Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "30221"
+  }
+]
