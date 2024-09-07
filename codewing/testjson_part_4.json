@@ -5161,15 +5161,16 @@
     "link": "https://testflight.apple.com/join/IJer4l1F",
     "clickCount": 3,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.219Z",
+    "lastChecked": "2024-09-07T10:41:51.735Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.219Z",
+        "timestamp": "2024-09-07T10:41:37.525Z",
         "clickCount": 3
       }
     ],
-    "id": "37284"
+    "id": "12496",
+    "categories": []
   },
   {
     "name": "Dumble: Fitness Challenge App",
@@ -5177,15 +5178,20 @@
     "link": "https://testflight.apple.com/join/0ZjZuxJw",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.219Z",
+    "lastChecked": "2024-09-07T10:41:52.019Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.219Z",
+        "timestamp": "2024-09-07T10:41:38.091Z",
         "clickCount": 0
       }
     ],
-    "id": "29215"
+    "id": "43470",
+    "categories": [
+      [
+        "Fitness"
+      ]
+    ]
   },
   {
     "name": "联了么",
@@ -5193,15 +5199,16 @@
     "link": "https://testflight.apple.com/join/BJSRxvar",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.219Z",
+    "lastChecked": "2024-09-07T10:41:52.301Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.219Z",
+        "timestamp": "2024-09-07T10:41:38.656Z",
         "clickCount": 0
       }
     ],
-    "id": "54346"
+    "id": "80047",
+    "categories": []
   },
   {
     "name": "Ethos - Cinematic Music",
@@ -5209,15 +5216,16 @@
     "link": "https://testflight.apple.com/join/jiLbZFB7",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.220Z",
+    "lastChecked": "2024-09-07T10:41:52.584Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.220Z",
+        "timestamp": "2024-09-07T10:41:39.721Z",
         "clickCount": 0
       }
     ],
-    "id": "52758"
+    "id": "20446",
+    "categories": []
   },
   {
     "name": "ZONE360.ai",
@@ -5225,15 +5233,16 @@
     "link": "https://testflight.apple.com/join/VjTA7cFq",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.220Z",
+    "lastChecked": "2024-09-07T10:41:52.867Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.220Z",
+        "timestamp": "2024-09-07T10:41:40.287Z",
         "clickCount": 0
       }
     ],
-    "id": "77088"
+    "id": "19990",
+    "categories": []
   },
   {
     "name": "Flix",
@@ -5241,15 +5250,16 @@
     "link": "https://testflight.apple.com/join/4a3ElXjQ",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.220Z",
+    "lastChecked": "2024-09-07T10:41:53.150Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.220Z",
+        "timestamp": "2024-09-07T10:41:40.854Z",
         "clickCount": 0
       }
     ],
-    "id": "38191"
+    "id": "97416",
+    "categories": []
   },
   {
     "name": "HappyIron",
@@ -5257,15 +5267,16 @@
     "link": "https://testflight.apple.com/join/1jFAvwpZ",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.220Z",
+    "lastChecked": "2024-09-07T10:41:53.433Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.220Z",
+        "timestamp": "2024-09-07T10:41:41.421Z",
         "clickCount": 0
       }
     ],
-    "id": "86447"
+    "id": "75726",
+    "categories": []
   },
   {
     "name": "Cross Check Security",
@@ -5273,15 +5284,16 @@
     "link": "https://testflight.apple.com/join/2JO6v7Jb",
     "clickCount": 2,
     "betaAvailable": "full",
-    "lastChecked": "2024-09-06T14:13:26.220Z",
+    "lastChecked": "2024-09-07T10:41:53.716Z",
     "history": [
       {
         "status": "full",
-        "timestamp": "2024-09-06T14:13:26.220Z",
+        "timestamp": "2024-09-07T10:41:41.989Z",
         "clickCount": 2
       }
     ],
-    "id": "43484"
+    "id": "26124",
+    "categories": []
   },
   {
     "name": "Love2D Game Maker",
@@ -5289,15 +5301,16 @@
     "link": "https://testflight.apple.com/join/bCLmQKfQ",
     "clickCount": 3,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.220Z",
+    "lastChecked": "2024-09-07T10:41:54.000Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.220Z",
+        "timestamp": "2024-09-07T10:41:42.555Z",
         "clickCount": 3
       }
     ],
-    "id": "35881"
+    "id": "52831",
+    "categories": []
   },
   {
     "name": "Gumtree: local classified ads",
@@ -5305,15 +5318,16 @@
     "link": "https://testflight.apple.com/join/bXLgmUlj",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.220Z",
+    "lastChecked": "2024-09-07T10:41:54.282Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.220Z",
+        "timestamp": "2024-09-07T10:41:43.121Z",
         "clickCount": 0
       }
     ],
-    "id": "81542"
+    "id": "29249",
+    "categories": []
   },
   {
     "name": "Febriq for Home Assistant",
@@ -5321,15 +5335,16 @@
     "link": "https://testflight.apple.com/join/K5bloOXm",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.221Z",
+    "lastChecked": "2024-09-07T10:41:54.566Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.221Z",
+        "timestamp": "2024-09-07T10:41:43.688Z",
         "clickCount": 0
       }
     ],
-    "id": "82940"
+    "id": "18120",
+    "categories": []
   },
   {
     "name": "Little Spatial Garden",
@@ -5337,15 +5352,16 @@
     "link": "https://testflight.apple.com/join/rfY1FSzh",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.221Z",
+    "lastChecked": "2024-09-07T10:41:54.848Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.221Z",
+        "timestamp": "2024-09-07T10:41:44.255Z",
         "clickCount": 0
       }
     ],
-    "id": "88170"
+    "id": "31970",
+    "categories": []
   },
   {
     "name": "Casafari",
@@ -5353,15 +5369,16 @@
     "link": "https://testflight.apple.com/join/xhFfP9z4",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.221Z",
+    "lastChecked": "2024-09-07T10:41:55.131Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.221Z",
+        "timestamp": "2024-09-07T10:41:44.822Z",
         "clickCount": 0
       }
     ],
-    "id": "89979"
+    "id": "30091",
+    "categories": []
   },
   {
     "name": "瑞云OA内测版",
@@ -5369,15 +5386,16 @@
     "link": "https://testflight.apple.com/join/IqTtsKFw",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.221Z",
+    "lastChecked": "2024-09-07T10:41:55.414Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.221Z",
+        "timestamp": "2024-09-07T10:41:45.389Z",
         "clickCount": 0
       }
     ],
-    "id": "36791"
+    "id": "87342",
+    "categories": []
   },
   {
     "name": "Mopro Benchmark",
@@ -5385,15 +5403,16 @@
     "link": "https://testflight.apple.com/join/TBlBDicy",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.221Z",
+    "lastChecked": "2024-09-07T10:41:55.697Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.221Z",
+        "timestamp": "2024-09-07T10:41:45.956Z",
         "clickCount": 0
       }
     ],
-    "id": "16188"
+    "id": "80220",
+    "categories": []
   },
   {
     "name": "工智道",
@@ -5401,15 +5420,16 @@
     "link": "https://testflight.apple.com/join/Lg0UeVIX",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.221Z",
+    "lastChecked": "2024-09-07T10:41:55.980Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.221Z",
+        "timestamp": "2024-09-07T10:41:46.522Z",
         "clickCount": 0
       }
     ],
-    "id": "12297"
+    "id": "41280",
+    "categories": []
   },
   {
     "name": "WeR1 Player",
@@ -5417,15 +5437,20 @@
     "link": "https://testflight.apple.com/join/NBIqUmUo",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.222Z",
+    "lastChecked": "2024-09-07T10:41:56.264Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.222Z",
+        "timestamp": "2024-09-07T10:41:47.087Z",
         "clickCount": 0
       }
     ],
-    "id": "17980"
+    "id": "22292",
+    "categories": [
+      [
+        "Music"
+      ]
+    ]
   },
   {
     "name": "Backpack Staging",
@@ -5433,15 +5458,20 @@
     "link": "https://testflight.apple.com/join/KRywqshx",
     "clickCount": 19,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.222Z",
+    "lastChecked": "2024-09-07T10:41:56.548Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.222Z",
+        "timestamp": "2024-09-07T10:41:47.656Z",
         "clickCount": 19
       }
     ],
-    "id": "92831"
+    "id": "64806",
+    "categories": [
+      [
+        "Finance"
+      ]
+    ]
   },
   {
     "name": "Путь к ЕГЭ",
@@ -5449,15 +5479,16 @@
     "link": "https://testflight.apple.com/join/CMbojW1m",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.222Z",
+    "lastChecked": "2024-09-07T10:41:56.831Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.222Z",
+        "timestamp": "2024-09-07T10:41:48.224Z",
         "clickCount": 0
       }
     ],
-    "id": "94229"
+    "id": "43076",
+    "categories": []
   },
   {
     "name": "MiniReview - Game Reviews",
@@ -5465,15 +5496,16 @@
     "link": "https://testflight.apple.com/join/GhvPcphB",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.222Z",
+    "lastChecked": "2024-09-07T10:41:57.116Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.222Z",
+        "timestamp": "2024-09-07T10:41:48.790Z",
         "clickCount": 0
       }
     ],
-    "id": "57407"
+    "id": "12541",
+    "categories": []
   },
   {
     "name": "Aspen Digital",
