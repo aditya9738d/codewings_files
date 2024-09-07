@@ -14675,17 +14675,17 @@
     "name": "Vibe: AI Dating Copilot",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/aa/a4/a7aaa4da-0042-b25b-697d-e56b62e4c287/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/g0Zl8pVd",
-    "clickCount": 16,
+    "clickCount": 25,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.250Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.250Z",
-        "clickCount": 16
+        "timestamp": "2024-09-07T08:31:07.510Z",
+        "clickCount": 25
       }
     ],
-    "id": "28703"
+    "id": "98422"
   },
   {
     "name": "DWARFLAB",
@@ -14693,31 +14693,31 @@
     "link": "https://testflight.apple.com/join/tkgyzuZe",
     "clickCount": 6,
     "betaAvailable": "full",
-    "lastChecked": "2024-09-06T14:13:24.251Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "full",
-        "timestamp": "2024-09-06T14:13:24.251Z",
+        "timestamp": "2024-09-07T08:31:07.793Z",
         "clickCount": 6
       }
     ],
-    "id": "49090"
+    "id": "38953"
   },
   {
     "name": "Temple Run: Adventure",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/91/ed/f691ed67-1dc5-0f25-4424-46ba6089b851/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/8c2K8z2s",
-    "clickCount": 58,
+    "clickCount": 60,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.251Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.251Z",
-        "clickCount": 58
+        "timestamp": "2024-09-07T08:31:08.078Z",
+        "clickCount": 60
       }
     ],
-    "id": "18102"
+    "id": "89912"
   },
   {
     "name": "dauphaisang",
@@ -14725,15 +14725,15 @@
     "link": "https://testflight.apple.com/join/M7FH1r7V",
     "clickCount": 4,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.251Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.251Z",
+        "timestamp": "2024-09-07T08:31:08.363Z",
         "clickCount": 4
       }
     ],
-    "id": "48080"
+    "id": "64024"
   },
   {
     "name": "GLOBULA",
@@ -14741,15 +14741,15 @@
     "link": "https://testflight.apple.com/join/xaJ7raw5",
     "clickCount": 5,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.251Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.251Z",
+        "timestamp": "2024-09-07T08:31:08.647Z",
         "clickCount": 5
       }
     ],
-    "id": "31326"
+    "id": "79538"
   },
   {
     "name": "Lunch: Web3 in Your Palms",
@@ -14757,15 +14757,15 @@
     "link": "https://testflight.apple.com/join/QXss3kEl",
     "clickCount": 14,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.252Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.252Z",
+        "timestamp": "2024-09-07T08:31:08.932Z",
         "clickCount": 14
       }
     ],
-    "id": "58842"
+    "id": "22469"
   },
   {
     "name": "Red Covenant",
@@ -14773,31 +14773,31 @@
     "link": "https://testflight.apple.com/join/29NknnRm",
     "clickCount": 39,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.252Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.252Z",
+        "timestamp": "2024-09-07T08:31:09.217Z",
         "clickCount": 39
       }
     ],
-    "id": "15499"
+    "id": "26252"
   },
   {
     "name": "STAR Global 3.3-v1.6",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/We5AU9nj",
     "clickCount": 0,
-    "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.252Z",
+    "betaAvailable": "full",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
-        "status": "open",
-        "timestamp": "2024-09-06T14:13:24.252Z",
+        "status": "full",
+        "timestamp": "2024-09-07T08:31:09.567Z",
         "clickCount": 0
       }
     ],
-    "id": "11453"
+    "id": "93250"
   },
   {
     "name": "AWS+1",
@@ -14805,15 +14805,15 @@
     "link": "https://testflight.apple.com/join/hV7fEuUv",
     "clickCount": 6,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.252Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.252Z",
+        "timestamp": "2024-09-07T08:31:09.851Z",
         "clickCount": 6
       }
     ],
-    "id": "31787"
+    "id": "57795"
   },
   {
     "name": "Ngọc Rồng One",
@@ -14821,63 +14821,63 @@
     "link": "https://testflight.apple.com/join/qMfuhMWX",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.252Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.252Z",
+        "timestamp": "2024-09-07T08:31:10.135Z",
         "clickCount": 0
       }
     ],
-    "id": "64691"
+    "id": "90354"
   },
   {
     "name": "null",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/0e/55/a60e55d1-dbbf-2340-5a80-bde787858f9b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/JCzsg8Dc",
-    "clickCount": 162,
+    "clickCount": 171,
     "betaAvailable": "full",
-    "lastChecked": "2024-09-06T14:13:24.252Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "full",
-        "timestamp": "2024-09-06T14:13:24.252Z",
-        "clickCount": 162
+        "timestamp": "2024-09-07T08:31:10.420Z",
+        "clickCount": 171
       }
     ],
-    "id": "36288"
+    "id": "49425"
   },
   {
     "name": "EA SPORTS FC™ MOBILE BETA",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/0e/55/a60e55d1-dbbf-2340-5a80-bde787858f9b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/JCzsg8Dc",
-    "clickCount": 63,
+    "clickCount": 69,
     "betaAvailable": "full",
-    "lastChecked": "2024-09-06T14:13:24.252Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "full",
-        "timestamp": "2024-09-06T14:13:24.252Z",
-        "clickCount": 63
+        "timestamp": "2024-09-07T08:31:10.704Z",
+        "clickCount": 69
       }
     ],
-    "id": "35130"
+    "id": "29188"
   },
   {
     "name": "Compress Photo & Resize Image",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/63/d6/6f63d63e-adb6-68a4-b964-6e32316f2273/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/XEv7sqcJ",
-    "clickCount": 8,
+    "clickCount": 9,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.253Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.253Z",
-        "clickCount": 8
+        "timestamp": "2024-09-07T08:31:10.988Z",
+        "clickCount": 9
       }
     ],
-    "id": "17545"
+    "id": "22653"
   },
   {
     "name": "Stackie",
@@ -14885,15 +14885,15 @@
     "link": "https://testflight.apple.com/join/25CvgSSv",
     "clickCount": 14,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.253Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.253Z",
+        "timestamp": "2024-09-07T08:31:11.273Z",
         "clickCount": 14
       }
     ],
-    "id": "43465"
+    "id": "60328"
   },
   {
     "name": "斗罗大陆：逆转时空",
@@ -14901,15 +14901,15 @@
     "link": "https://testflight.apple.com/join/5vznz2Wj",
     "clickCount": 6,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.253Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.253Z",
+        "timestamp": "2024-09-07T08:31:11.561Z",
         "clickCount": 6
       }
     ],
-    "id": "52170"
+    "id": "42653"
   },
   {
     "name": "Project Cerberus",
@@ -14917,15 +14917,15 @@
     "link": "https://testflight.apple.com/join/jaT62yTP",
     "clickCount": 40,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.253Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.253Z",
+        "timestamp": "2024-09-07T08:31:11.845Z",
         "clickCount": 40
       }
     ],
-    "id": "24870"
+    "id": "56285"
   },
   {
     "name": "Unify - Payjoin Wallet",
@@ -14933,15 +14933,15 @@
     "link": "https://testflight.apple.com/join/3WdlTdna",
     "clickCount": 17,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.253Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.253Z",
+        "timestamp": "2024-09-07T08:31:12.130Z",
         "clickCount": 17
       }
     ],
-    "id": "76842"
+    "id": "11991"
   },
   {
     "name": "Ngọc Rồng Đom Đóm",
@@ -14949,15 +14949,15 @@
     "link": "https://testflight.apple.com/join/y1S2DkS9",
     "clickCount": 1,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.253Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.253Z",
+        "timestamp": "2024-09-07T08:31:12.414Z",
         "clickCount": 1
       }
     ],
-    "id": "65273"
+    "id": "98282"
   },
   {
     "name": "1Keeper",
@@ -14965,15 +14965,15 @@
     "link": "https://testflight.apple.com/join/ExEst8hT",
     "clickCount": 7,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.253Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.253Z",
+        "timestamp": "2024-09-07T08:31:12.699Z",
         "clickCount": 7
       }
     ],
-    "id": "62328"
+    "id": "32844"
   },
   {
     "name": "Celia Technologies",
@@ -14981,31 +14981,31 @@
     "link": "https://testflight.apple.com/join/KWFbfKK1",
     "clickCount": 6,
     "betaAvailable": "full",
-    "lastChecked": "2024-09-06T14:13:24.254Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "full",
-        "timestamp": "2024-09-06T14:13:24.254Z",
+        "timestamp": "2024-09-07T08:31:12.984Z",
         "clickCount": 6
       }
     ],
-    "id": "40322"
+    "id": "83018"
   },
   {
     "name": "STAR Global 3.3-v1.5",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/df/ab/5bdfab92-5328-5471-4e56-8c0a25e98206/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/We5AU9nj",
     "clickCount": 0,
-    "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.254Z",
+    "betaAvailable": "full",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
-        "status": "open",
-        "timestamp": "2024-09-06T14:13:24.254Z",
+        "status": "full",
+        "timestamp": "2024-09-07T08:31:13.269Z",
         "clickCount": 0
       }
     ],
-    "id": "68430"
+    "id": "97456"
   },
   {
     "name": "AI Form Fill: AI Auto-Complete",
@@ -15013,15 +15013,15 @@
     "link": "https://testflight.apple.com/join/QVSGHxxq",
     "clickCount": 8,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.254Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.254Z",
+        "timestamp": "2024-09-07T08:31:13.553Z",
         "clickCount": 8
       }
     ],
-    "id": "85839"
+    "id": "64932"
   },
   {
     "name": "AppFlowy",
@@ -15029,15 +15029,15 @@
     "link": "https://testflight.apple.com/join/6CexvkDz",
     "clickCount": 2,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.254Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.254Z",
+        "timestamp": "2024-09-07T08:31:13.837Z",
         "clickCount": 2
       }
     ],
-    "id": "86171"
+    "id": "66888"
   },
   {
     "name": "SetWatch",
@@ -15045,15 +15045,15 @@
     "link": "https://testflight.apple.com/join/N6Pq2S6g",
     "clickCount": 10,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.254Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.254Z",
+        "timestamp": "2024-09-07T08:31:14.121Z",
         "clickCount": 10
       }
     ],
-    "id": "51007"
+    "id": "69571"
   },
   {
     "name": "Lunatask",
@@ -15061,15 +15061,15 @@
     "link": "https://testflight.apple.com/join/kBdIBSQK",
     "clickCount": 11,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.254Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.254Z",
+        "timestamp": "2024-09-07T08:31:14.409Z",
         "clickCount": 11
       }
     ],
-    "id": "81999"
+    "id": "49467"
   },
   {
     "name": "Controlled—ControlD Client",
@@ -15077,15 +15077,15 @@
     "link": "https://testflight.apple.com/join/DsiP91S8",
     "clickCount": 2,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.254Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.254Z",
+        "timestamp": "2024-09-07T08:31:14.702Z",
         "clickCount": 2
       }
     ],
-    "id": "25959"
+    "id": "65351"
   },
   {
     "name": "EVrest",
@@ -15093,15 +15093,15 @@
     "link": "https://testflight.apple.com/join/PsozH8Fq",
     "clickCount": 9,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.255Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.255Z",
+        "timestamp": "2024-09-07T08:31:14.988Z",
         "clickCount": 9
       }
     ],
-    "id": "86047"
+    "id": "28359"
   },
   {
     "name": "HeyLumi: Tailored AI Assistant",
@@ -15109,15 +15109,15 @@
     "link": "https://testflight.apple.com/join/reQsxT5Q",
     "clickCount": 6,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.255Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.255Z",
+        "timestamp": "2024-09-07T08:31:15.273Z",
         "clickCount": 6
       }
     ],
-    "id": "75587"
+    "id": "71567"
   },
   {
     "name": "Backyard.AI",
@@ -15125,15 +15125,15 @@
     "link": "https://testflight.apple.com/join/MaP0ap1E",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.255Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.255Z",
+        "timestamp": "2024-09-07T08:31:15.558Z",
         "clickCount": 0
       }
     ],
-    "id": "44030"
+    "id": "57989"
   },
   {
     "name": "ForsakenWorld2: ThầnMaĐạiChiến",
@@ -15141,15 +15141,15 @@
     "link": "https://testflight.apple.com/join/8x7jZt9r",
     "clickCount": 1,
     "betaAvailable": "error",
-    "lastChecked": "2024-09-06T14:13:24.255Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "error",
-        "timestamp": "2024-09-06T14:13:24.255Z",
+        "timestamp": "2024-09-07T08:31:15.842Z",
         "clickCount": 1
       }
     ],
-    "id": "93082"
+    "id": "72041"
   },
   {
     "name": "NGỌC RỒNG",
@@ -15157,15 +15157,15 @@
     "link": "https://testflight.apple.com/join/b7uMJ98E",
     "clickCount": 0,
     "betaAvailable": "error",
-    "lastChecked": "2024-09-06T14:13:24.255Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "error",
-        "timestamp": "2024-09-06T14:13:24.255Z",
+        "timestamp": "2024-09-07T08:31:16.127Z",
         "clickCount": 0
       }
     ],
-    "id": "80915"
+    "id": "83412"
   },
   {
     "name": "KPAH4",
@@ -15173,15 +15173,15 @@
     "link": "https://testflight.apple.com/join/ssNqHRM9",
     "clickCount": 6,
     "betaAvailable": "error",
-    "lastChecked": "2024-09-06T14:13:24.255Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "error",
-        "timestamp": "2024-09-06T14:13:24.255Z",
+        "timestamp": "2024-09-07T08:31:16.412Z",
         "clickCount": 6
       }
     ],
-    "id": "12121"
+    "id": "84735"
   },
   {
     "name": "TextExpander 7 Keyboard",
@@ -15189,15 +15189,15 @@
     "link": "https://testflight.apple.com/join/vKrjNFUr",
     "clickCount": 126,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.255Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.255Z",
+        "timestamp": "2024-09-07T08:31:16.696Z",
         "clickCount": 126
       }
     ],
-    "id": "44744"
+    "id": "89006"
   },
   {
     "name": "Simulation Playground",
@@ -15205,31 +15205,31 @@
     "link": "https://testflight.apple.com/join/rMf3CCf7",
     "clickCount": 16,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.255Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.255Z",
+        "timestamp": "2024-09-07T08:31:16.980Z",
         "clickCount": 16
       }
     ],
-    "id": "58424"
+    "id": "50012"
   },
   {
     "name": "Eternals: The Heart Of Eternia",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/d1/d7/ced1d763-d7c1-8fe3-8cfd-312b5188e72c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/zcfkDqbm",
-    "clickCount": 0,
+    "clickCount": 1,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.256Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.256Z",
-        "clickCount": 0
+        "timestamp": "2024-09-07T08:31:17.264Z",
+        "clickCount": 1
       }
     ],
-    "id": "72859"
+    "id": "98749"
   },
   {
     "name": "Tara360 Club",
@@ -15237,15 +15237,15 @@
     "link": "https://testflight.apple.com/join/Gg4r70vP",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.256Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.256Z",
+        "timestamp": "2024-09-07T08:31:17.548Z",
         "clickCount": 0
       }
     ],
-    "id": "24585"
+    "id": "82622"
   },
   {
     "name": "Tam Giới Phân Tranh",
@@ -15253,15 +15253,15 @@
     "link": "https://testflight.apple.com/join/zJVHK213",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.256Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.256Z",
+        "timestamp": "2024-09-07T08:31:17.833Z",
         "clickCount": 0
       }
     ],
-    "id": "31839"
+    "id": "20418"
   },
   {
     "name": "Ragnarok: Monster World",
@@ -15269,15 +15269,15 @@
     "link": "https://testflight.apple.com/join/W5sHnVHT",
     "clickCount": 1,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:24.256Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:24.256Z",
+        "timestamp": "2024-09-07T08:31:18.116Z",
         "clickCount": 1
       }
     ],
-    "id": "86189"
+    "id": "54209"
   },
   {
     "name": "Mammotion",
@@ -15285,15 +15285,15 @@
     "link": "https://testflight.apple.com/join/GsYEMjIk",
     "clickCount": 10,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.256Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.256Z",
+        "timestamp": "2024-09-07T08:31:18.400Z",
         "clickCount": 10
       }
     ],
-    "id": "14427"
+    "id": "77591"
   },
   {
     "name": "TokenX",
@@ -15301,15 +15301,15 @@
     "link": "https://testflight.apple.com/join/KSSmtna3",
     "clickCount": 6,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.256Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.256Z",
+        "timestamp": "2024-09-07T08:31:18.685Z",
         "clickCount": 6
       }
     ],
-    "id": "94958"
+    "id": "83891"
   },
   {
     "name": "Freelan",
@@ -15317,15 +15317,15 @@
     "link": "https://testflight.apple.com/join/q3JGZn5D",
     "clickCount": 1,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.256Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.256Z",
+        "timestamp": "2024-09-07T08:31:18.969Z",
         "clickCount": 1
       }
     ],
-    "id": "25613"
+    "id": "45144"
   },
   {
     "name": "multimesh",
@@ -15333,15 +15333,15 @@
     "link": "https://testflight.apple.com/join/TetHa5GP",
     "clickCount": 4,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.257Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.257Z",
+        "timestamp": "2024-09-07T08:31:19.253Z",
         "clickCount": 4
       }
     ],
-    "id": "83371"
+    "id": "43272"
   },
   {
     "name": "Kiếm Thế 15 Phái",
@@ -15349,15 +15349,15 @@
     "link": "https://testflight.apple.com/join/s3LjPecB",
     "clickCount": 1,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.257Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.257Z",
+        "timestamp": "2024-09-07T08:31:19.537Z",
         "clickCount": 1
       }
     ],
-    "id": "80466"
+    "id": "70851"
   },
   {
     "name": "Mises Browser",
@@ -15365,31 +15365,31 @@
     "link": "https://testflight.apple.com/join/dFykgML6",
     "clickCount": 16,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.257Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.257Z",
+        "timestamp": "2024-09-07T08:31:19.821Z",
         "clickCount": 16
       }
     ],
-    "id": "39650"
+    "id": "74107"
   },
   {
     "name": "Reddit",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/09/83/6e098311-765d-eb99-58d9-224ab948331f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/b9jMyOWt",
-    "clickCount": 156,
+    "clickCount": 163,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.257Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.257Z",
-        "clickCount": 156
+        "timestamp": "2024-09-07T08:31:20.106Z",
+        "clickCount": 163
       }
     ],
-    "id": "58775"
+    "id": "53195"
   },
   {
     "name": "SoloSet",
@@ -15397,15 +15397,15 @@
     "link": "https://testflight.apple.com/join/K5HeDxPx",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.257Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.257Z",
+        "timestamp": "2024-09-07T08:31:20.390Z",
         "clickCount": 0
       }
     ],
-    "id": "13759"
+    "id": "61731"
   },
   {
     "name": "THE RAGNAROK",
@@ -15413,15 +15413,15 @@
     "link": "https://testflight.apple.com/join/NkZHQjmr",
     "clickCount": 10,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:24.257Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:24.257Z",
+        "timestamp": "2024-09-07T08:31:20.675Z",
         "clickCount": 10
       }
     ],
-    "id": "47483"
+    "id": "89745"
   },
   {
     "name": "SONY 215",
@@ -15429,15 +15429,15 @@
     "link": "https://testflight.apple.com/join/9qFGRWPX",
     "clickCount": 1,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.257Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.257Z",
+        "timestamp": "2024-09-07T08:31:20.960Z",
         "clickCount": 1
       }
     ],
-    "id": "19853"
+    "id": "84051"
   },
   {
     "name": "AListServer",
@@ -15445,15 +15445,15 @@
     "link": "https://testflight.apple.com/join/ZkEH1rwb",
     "clickCount": 18,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:24.258Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:24.258Z",
+        "timestamp": "2024-09-07T08:31:21.246Z",
         "clickCount": 18
       }
     ],
-    "id": "99777"
+    "id": "62046"
   },
   {
     "name": "My Card Post",
@@ -15461,15 +15461,15 @@
     "link": "https://testflight.apple.com/join/Uhery85J",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.258Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.258Z",
+        "timestamp": "2024-09-07T08:31:21.531Z",
         "clickCount": 0
       }
     ],
-    "id": "34127"
+    "id": "17550"
   },
   {
     "name": "VITCC Parent",
@@ -15477,15 +15477,15 @@
     "link": "https://testflight.apple.com/join/OiJoPPIE",
     "clickCount": 11,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.258Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.258Z",
+        "timestamp": "2024-09-07T08:31:21.815Z",
         "clickCount": 11
       }
     ],
-    "id": "26232"
+    "id": "39811"
   },
   {
     "name": "Doppi: the nicest music player",
@@ -15493,15 +15493,15 @@
     "link": "https://testflight.apple.com/join/Kxs8t6SE",
     "clickCount": 12,
     "betaAvailable": "error",
-    "lastChecked": "2024-09-06T14:13:24.258Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "error",
-        "timestamp": "2024-09-06T14:13:24.258Z",
+        "timestamp": "2024-09-07T08:31:22.099Z",
         "clickCount": 12
       }
     ],
-    "id": "51179"
+    "id": "76649"
   },
   {
     "name": "BumX Tool",
@@ -15509,15 +15509,15 @@
     "link": "https://testflight.apple.com/join/42EzOcYn",
     "clickCount": 12,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.258Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.258Z",
+        "timestamp": "2024-09-07T08:31:22.385Z",
         "clickCount": 12
       }
     ],
-    "id": "25657"
+    "id": "25724"
   },
   {
     "name": "VITianCC",
@@ -15525,15 +15525,15 @@
     "link": "https://testflight.apple.com/join/VgKiq9hh",
     "clickCount": 3,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.258Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.258Z",
+        "timestamp": "2024-09-07T08:31:22.668Z",
         "clickCount": 3
       }
     ],
-    "id": "49414"
+    "id": "28926"
   },
   {
     "name": "BeVi AI Camera",
@@ -15541,15 +15541,15 @@
     "link": "https://testflight.apple.com/join/Z6UFZA6Y",
     "clickCount": 16,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.258Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.258Z",
+        "timestamp": "2024-09-07T08:31:22.953Z",
         "clickCount": 16
       }
     ],
-    "id": "79306"
+    "id": "53232"
   },
   {
     "name": "Nro Hoa",
@@ -15557,31 +15557,31 @@
     "link": "https://testflight.apple.com/join/eyIvc82u",
     "clickCount": 2,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.258Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.258Z",
+        "timestamp": "2024-09-07T08:31:23.238Z",
         "clickCount": 2
       }
     ],
-    "id": "84428"
+    "id": "16150"
   },
   {
     "name": "IOSZERO VIPVN",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/57/225a573f-ac47-a7c5-e734-4ef3ea3f6f66/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/4V5BK1O0",
-    "clickCount": 459,
+    "clickCount": 463,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.259Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.259Z",
-        "clickCount": 459
+        "timestamp": "2024-09-07T08:31:23.523Z",
+        "clickCount": 463
       }
     ],
-    "id": "41085"
+    "id": "12269"
   },
   {
     "name": "NRO INOVAR",
@@ -15589,15 +15589,15 @@
     "link": "https://testflight.apple.com/join/qdOyXJef",
     "clickCount": 6,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.259Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.259Z",
+        "timestamp": "2024-09-07T08:31:23.807Z",
         "clickCount": 6
       }
     ],
-    "id": "15743"
+    "id": "54505"
   },
   {
     "name": "Tatami ∞",
@@ -15605,15 +15605,15 @@
     "link": "https://testflight.apple.com/join/A6JbU7sh",
     "clickCount": 6,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.259Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.259Z",
+        "timestamp": "2024-09-07T08:31:24.091Z",
         "clickCount": 6
       }
     ],
-    "id": "93797"
+    "id": "82424"
   },
   {
     "name": "MeloJam PlayPark",
@@ -15621,15 +15621,15 @@
     "link": "https://testflight.apple.com/join/HjE8KvXa?source_caller=ui&shortlink=b1hj99uh",
     "clickCount": 38,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:24.259Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:24.259Z",
+        "timestamp": "2024-09-07T08:31:24.376Z",
         "clickCount": 38
       }
     ],
-    "id": "85024"
+    "id": "71739"
   },
   {
     "name": "小冰冰传奇-官方怀旧服",
@@ -15637,15 +15637,15 @@
     "link": "https://testflight.apple.com/join/3iWOsKQO",
     "clickCount": 5,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.259Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.259Z",
+        "timestamp": "2024-09-07T08:31:24.661Z",
         "clickCount": 5
       }
     ],
-    "id": "32834"
+    "id": "58599"
   },
   {
     "name": "Ignited - Retro Gaming",
@@ -15653,15 +15653,15 @@
     "link": "https://testflight.apple.com/join/ExWvtjcq",
     "clickCount": 43,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.259Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.259Z",
+        "timestamp": "2024-09-07T08:31:24.945Z",
         "clickCount": 43
       }
     ],
-    "id": "93859"
+    "id": "52549"
   },
   {
     "name": "PropW",
@@ -15669,15 +15669,15 @@
     "link": "https://testflight.apple.com/join/bM5bTQA6",
     "clickCount": 1,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.259Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.259Z",
+        "timestamp": "2024-09-07T08:31:25.230Z",
         "clickCount": 1
       }
     ],
-    "id": "74880"
+    "id": "50114"
   },
   {
     "name": "Aidoku开源版",
@@ -15685,15 +15685,15 @@
     "link": "https://testflight.apple.com/join/plbnVA5a",
     "clickCount": 19,
     "betaAvailable": "full",
-    "lastChecked": "2024-09-06T14:13:24.260Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "full",
-        "timestamp": "2024-09-06T14:13:24.260Z",
+        "timestamp": "2024-09-07T08:31:25.514Z",
         "clickCount": 19
       }
     ],
-    "id": "51717"
+    "id": "70527"
   },
   {
     "name": "TP-Link Deco",
@@ -15701,15 +15701,15 @@
     "link": "https://testflight.apple.com/join/U5p3ccdw",
     "clickCount": 52,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.260Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.260Z",
+        "timestamp": "2024-09-07T08:31:25.799Z",
         "clickCount": 52
       }
     ],
-    "id": "55209"
+    "id": "30146"
   },
   {
     "name": "Satakunnan Kansa",
@@ -15717,15 +15717,15 @@
     "link": "https://testflight.apple.com/join/wrh3Qw7n",
     "clickCount": 4,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.260Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.260Z",
+        "timestamp": "2024-09-07T08:31:26.084Z",
         "clickCount": 4
       }
     ],
-    "id": "42611"
+    "id": "21634"
   },
   {
     "name": "Lapz - F1® for visionOS",
@@ -15733,15 +15733,15 @@
     "link": "https://testflight.apple.com/join/qX6Yvfwz",
     "clickCount": 22,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.260Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.260Z",
+        "timestamp": "2024-09-07T08:31:26.368Z",
         "clickCount": 22
       }
     ],
-    "id": "16608"
+    "id": "71154"
   },
   {
     "name": "Popset Mobile",
@@ -15749,15 +15749,15 @@
     "link": "https://testflight.apple.com/join/uFgOuEoi",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.260Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.260Z",
+        "timestamp": "2024-09-07T08:31:26.652Z",
         "clickCount": 0
       }
     ],
-    "id": "70295"
+    "id": "83268"
   },
   {
     "name": "TikTok Music",
@@ -15765,15 +15765,15 @@
     "link": "https://testflight.apple.com/join/G0n2YZyU",
     "clickCount": 122,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.260Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.260Z",
+        "timestamp": "2024-09-07T08:31:26.936Z",
         "clickCount": 122
       }
     ],
-    "id": "73879"
+    "id": "88517"
   },
   {
     "name": "Bringin",
@@ -15781,15 +15781,15 @@
     "link": "https://testflight.apple.com/join/HVh6eZsF",
     "clickCount": 4,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.260Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.260Z",
+        "timestamp": "2024-09-07T08:31:27.221Z",
         "clickCount": 4
       }
     ],
-    "id": "75170"
+    "id": "74890"
   },
   {
     "name": "Robin: Personal Hype Squad",
@@ -15797,15 +15797,15 @@
     "link": "https://testflight.apple.com/join/F41rywJy",
     "clickCount": 1,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:24.260Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:24.260Z",
+        "timestamp": "2024-09-07T08:31:27.505Z",
         "clickCount": 1
       }
     ],
-    "id": "77998"
+    "id": "48599"
   },
   {
     "name": "Cluber for DIS",
@@ -15813,31 +15813,31 @@
     "link": "https://testflight.apple.com/join/ZOaJUBS3",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.261Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.261Z",
+        "timestamp": "2024-09-07T08:31:27.790Z",
         "clickCount": 0
       }
     ],
-    "id": "79569"
+    "id": "27544"
   },
   {
     "name": "Hiddify Proxy & VPN",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/5d/ab/0e5dab79-2ae4-7b82-fef1-161da1df2a99/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/dsNjHxjb",
     "clickCount": 38,
-    "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.261Z",
+    "betaAvailable": "full",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
-        "status": "open",
-        "timestamp": "2024-09-06T14:13:24.261Z",
+        "status": "full",
+        "timestamp": "2024-09-07T08:31:28.074Z",
         "clickCount": 38
       }
     ],
-    "id": "61153"
+    "id": "27674"
   },
   {
     "name": "Daily Dine",
@@ -15845,15 +15845,15 @@
     "link": "https://testflight.apple.com/join/uHJHbGMc",
     "clickCount": 1,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.261Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.261Z",
+        "timestamp": "2024-09-07T08:31:28.359Z",
         "clickCount": 1
       }
     ],
-    "id": "87585"
+    "id": "35207"
   },
   {
     "name": "Project Graveyard",
@@ -15861,15 +15861,15 @@
     "link": "https://testflight.apple.com/join/LMRBvMmV",
     "clickCount": 2,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.261Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.261Z",
+        "timestamp": "2024-09-07T08:31:28.643Z",
         "clickCount": 2
       }
     ],
-    "id": "98062"
+    "id": "90747"
   },
   {
     "name": "Sabertooth for Mastodon",
@@ -15877,15 +15877,15 @@
     "link": "https://testflight.apple.com/join/pBGgMKw2",
     "clickCount": 1,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.261Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.261Z",
+        "timestamp": "2024-09-07T08:31:28.926Z",
         "clickCount": 1
       }
     ],
-    "id": "61180"
+    "id": "63830"
   },
   {
     "name": "nuBlock",
@@ -15893,15 +15893,15 @@
     "link": "https://testflight.apple.com/join/ka3UbzG0",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.261Z",
+    "lastChecked": "2024-09-07T08:32:07.208Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.261Z",
+        "timestamp": "2024-09-07T08:31:29.210Z",
         "clickCount": 0
       }
     ],
-    "id": "52528"
+    "id": "50057"
   },
   {
     "name": "Kamte",
@@ -15909,15 +15909,15 @@
     "link": "https://testflight.apple.com/join/efVVgzAz",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.261Z",
+    "lastChecked": "2024-09-07T08:32:07.209Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.261Z",
+        "timestamp": "2024-09-07T08:31:29.496Z",
         "clickCount": 0
       }
     ],
-    "id": "40849"
+    "id": "14180"
   },
   {
     "name": "Microsoft 365 (Office)",
@@ -15925,15 +15925,15 @@
     "link": "https://testflight.apple.com/join/eHAKJBtM",
     "clickCount": 269,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.262Z",
+    "lastChecked": "2024-09-07T08:32:07.209Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.262Z",
+        "timestamp": "2024-09-07T08:31:29.780Z",
         "clickCount": 269
       }
     ],
-    "id": "54752"
+    "id": "61785"
   },
   {
     "name": "Indus Battle Royale Mobile",
@@ -15941,31 +15941,31 @@
     "link": "https://testflight.apple.com/join/bAVRvZHD",
     "clickCount": 18,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.262Z",
+    "lastChecked": "2024-09-07T08:32:07.209Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.262Z",
+        "timestamp": "2024-09-07T08:31:30.065Z",
         "clickCount": 18
       }
     ],
-    "id": "19322"
+    "id": "72427"
   },
   {
     "name": "Soccer Manager 2025 - Football",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/a8/0a/f9a80a2b-ee46-d3c1-78ea-2e3e103b7063/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
     "link": "https://testflight.apple.com/join/5UZ93A7a",
-    "clickCount": 10,
+    "clickCount": 12,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.262Z",
+    "lastChecked": "2024-09-07T08:32:07.209Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.262Z",
-        "clickCount": 10
+        "timestamp": "2024-09-07T08:31:30.349Z",
+        "clickCount": 12
       }
     ],
-    "id": "84183"
+    "id": "57677"
   },
   {
     "name": "BAGS - Financial Messenger",
@@ -15973,15 +15973,15 @@
     "link": "https://testflight.apple.com/join/j7uwkoAL",
     "clickCount": 1,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.262Z",
+    "lastChecked": "2024-09-07T08:32:07.209Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.262Z",
+        "timestamp": "2024-09-07T08:31:30.633Z",
         "clickCount": 1
       }
     ],
-    "id": "84775"
+    "id": "21060"
   },
   {
     "name": "TripSaver",
@@ -15989,14 +15989,14 @@
     "link": "https://testflight.apple.com/join/4zBdye9P",
     "clickCount": 1,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:24.262Z",
+    "lastChecked": "2024-09-07T08:32:07.209Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:24.262Z",
+        "timestamp": "2024-09-07T08:31:30.918Z",
         "clickCount": 1
       }
     ],
-    "id": "46900"
+    "id": "61206"
   }
 ]
