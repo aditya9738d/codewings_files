@@ -4798,15 +4798,20 @@
     "link": "https://testflight.apple.com/join/cqHReyKc",
     "clickCount": 7,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.214Z",
+    "lastChecked": "2024-09-07T10:13:00.998Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.214Z",
+        "timestamp": "2024-09-07T10:12:47.587Z",
         "clickCount": 7
       }
     ],
-    "id": "33016"
+    "id": "60753",
+    "categories": [
+      [
+        "Social Networking"
+      ]
+    ]
   },
   {
     "name": "Global Coverage Map",
@@ -4814,15 +4819,20 @@
     "link": "https://testflight.apple.com/join/2dRZkLLl",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.214Z",
+    "lastChecked": "2024-09-07T10:13:01.281Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.214Z",
+        "timestamp": "2024-09-07T10:12:48.150Z",
         "clickCount": 0
       }
     ],
-    "id": "98235"
+    "id": "79689",
+    "categories": [
+      [
+        "Maps"
+      ]
+    ]
   },
   {
     "name": "AnyTrip",
@@ -4830,15 +4840,16 @@
     "link": "https://testflight.apple.com/join/z4jEQC9Z",
     "clickCount": 8,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.214Z",
+    "lastChecked": "2024-09-07T10:13:01.564Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.214Z",
+        "timestamp": "2024-09-07T10:12:48.715Z",
         "clickCount": 8
       }
     ],
-    "id": "87136"
+    "id": "78941",
+    "categories": []
   },
   {
     "name": "PromptReader",
@@ -4846,15 +4857,16 @@
     "link": "https://testflight.apple.com/join/ATw6nFGv",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.214Z",
+    "lastChecked": "2024-09-07T10:13:01.847Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.214Z",
+        "timestamp": "2024-09-07T10:12:49.278Z",
         "clickCount": 0
       }
     ],
-    "id": "40736"
+    "id": "75886",
+    "categories": []
   },
   {
     "name": "Mobile Agent Test",
@@ -4862,15 +4874,16 @@
     "link": "https://testflight.apple.com/join/3CB9cNWT",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.215Z",
+    "lastChecked": "2024-09-07T10:13:02.130Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.215Z",
+        "timestamp": "2024-09-07T10:12:49.843Z",
         "clickCount": 0
       }
     ],
-    "id": "58837"
+    "id": "99099",
+    "categories": []
   },
   {
     "name": "我的宁夏",
@@ -4878,15 +4891,16 @@
     "link": "https://testflight.apple.com/join/pBaP469y",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.215Z",
+    "lastChecked": "2024-09-07T10:13:02.413Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.215Z",
+        "timestamp": "2024-09-07T10:12:50.408Z",
         "clickCount": 0
       }
     ],
-    "id": "80083"
+    "id": "58334",
+    "categories": []
   },
   {
     "name": "FiveNotes 3",
@@ -4894,15 +4908,21 @@
     "link": "https://testflight.apple.com/join/brCfOYlJ",
     "clickCount": 0,
     "betaAvailable": "error",
-    "lastChecked": "2024-09-06T14:13:26.215Z",
+    "lastChecked": "2024-09-07T10:13:02.696Z",
     "history": [
       {
         "status": "error",
-        "timestamp": "2024-09-06T14:13:26.215Z",
+        "timestamp": "2024-09-07T10:12:50.972Z",
         "clickCount": 0
       }
     ],
-    "id": "67420"
+    "id": "34729",
+    "categories": [
+      [
+        "List & To Do",
+        "Productivity"
+      ]
+    ]
   },
   {
     "name": "Relax for Meditation",
@@ -4910,15 +4930,21 @@
     "link": "https://testflight.apple.com/join/MeCxDQRz",
     "clickCount": 1,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.215Z",
+    "lastChecked": "2024-09-07T10:13:02.979Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.215Z",
+        "timestamp": "2024-09-07T10:12:51.537Z",
         "clickCount": 1
       }
     ],
-    "id": "24017"
+    "id": "18526",
+    "categories": [
+      [
+        "Medical",
+        "Productivity"
+      ]
+    ]
   },
   {
     "name": "快保-保险代理人展业服务平台",
@@ -4926,15 +4952,16 @@
     "link": "https://testflight.apple.com/join/SPwek1vy",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.217Z",
+    "lastChecked": "2024-09-07T10:13:03.261Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.217Z",
+        "timestamp": "2024-09-07T10:12:52.102Z",
         "clickCount": 0
       }
     ],
-    "id": "31957"
+    "id": "47488",
+    "categories": []
   },
   {
     "name": "PJICO Seller",
@@ -4942,15 +4969,16 @@
     "link": "https://testflight.apple.com/join/deykaJ4G",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.217Z",
+    "lastChecked": "2024-09-07T10:13:03.542Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.217Z",
+        "timestamp": "2024-09-07T10:12:52.666Z",
         "clickCount": 0
       }
     ],
-    "id": "95410"
+    "id": "57765",
+    "categories": []
   },
   {
     "name": "ZenTower",
@@ -4958,15 +4986,16 @@
     "link": "https://testflight.apple.com/join/TZLGsGA0",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.217Z",
+    "lastChecked": "2024-09-07T10:13:03.824Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.217Z",
+        "timestamp": "2024-09-07T10:12:53.230Z",
         "clickCount": 0
       }
     ],
-    "id": "75882"
+    "id": "22151",
+    "categories": []
   },
   {
     "name": "Crack the C-Code",
@@ -4974,15 +5003,16 @@
     "link": "https://testflight.apple.com/join/eQLPTQxs",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.218Z",
+    "lastChecked": "2024-09-07T10:13:04.106Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.218Z",
+        "timestamp": "2024-09-07T10:12:53.795Z",
         "clickCount": 0
       }
     ],
-    "id": "24055"
+    "id": "68102",
+    "categories": []
   },
   {
     "name": "Kay's Crochet",
@@ -4990,15 +5020,16 @@
     "link": "https://testflight.apple.com/join/PDHOblFr",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.218Z",
+    "lastChecked": "2024-09-07T10:13:04.391Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.218Z",
+        "timestamp": "2024-09-07T10:12:54.359Z",
         "clickCount": 0
       }
     ],
-    "id": "45512"
+    "id": "80559",
+    "categories": []
   },
   {
     "name": "Amerant Mobile Banking",
@@ -5006,15 +5037,16 @@
     "link": "https://testflight.apple.com/join/Kd9P7n3d",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.218Z",
+    "lastChecked": "2024-09-07T10:13:05.393Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.218Z",
+        "timestamp": "2024-09-07T10:12:54.936Z",
         "clickCount": 0
       }
     ],
-    "id": "50815"
+    "id": "84736",
+    "categories": []
   },
   {
     "name": "Find My Car Spot- Car Finder",
@@ -5022,15 +5054,21 @@
     "link": "https://testflight.apple.com/join/goemreJJ",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.218Z",
+    "lastChecked": "2024-09-07T10:13:05.675Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.218Z",
+        "timestamp": "2024-09-07T10:12:55.508Z",
         "clickCount": 0
       }
     ],
-    "id": "63873"
+    "id": "95507",
+    "categories": [
+      [
+        "Maps",
+        "Utility"
+      ]
+    ]
   },
   {
     "name": "99多人视频",
@@ -5038,15 +5076,16 @@
     "link": "https://testflight.apple.com/join/6KxfPgLE",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.218Z",
+    "lastChecked": "2024-09-07T10:13:05.957Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.218Z",
+        "timestamp": "2024-09-07T10:12:56.074Z",
         "clickCount": 0
       }
     ],
-    "id": "50217"
+    "id": "97783",
+    "categories": []
   },
   {
     "name": "Bybit: Buy & Trade Crypto",
@@ -5054,15 +5093,16 @@
     "link": "https://testflight.apple.com/join/knS01Fqz",
     "clickCount": 0,
     "betaAvailable": "full",
-    "lastChecked": "2024-09-06T14:13:26.218Z",
+    "lastChecked": "2024-09-07T10:13:06.240Z",
     "history": [
       {
         "status": "full",
-        "timestamp": "2024-09-06T14:13:26.218Z",
+        "timestamp": "2024-09-07T10:12:56.638Z",
         "clickCount": 0
       }
     ],
-    "id": "78399"
+    "id": "95094",
+    "categories": []
   },
   {
     "name": "GeoQuestAR",
@@ -5070,15 +5110,16 @@
     "link": "https://testflight.apple.com/join/Aqpi4Ote",
     "clickCount": 43,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.219Z",
+    "lastChecked": "2024-09-07T10:13:06.522Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.219Z",
+        "timestamp": "2024-09-07T10:12:57.201Z",
         "clickCount": 43
       }
     ],
-    "id": "93570"
+    "id": "90585",
+    "categories": []
   },
   {
     "name": "伊家人-来伊份的办公工具",
@@ -5086,15 +5127,16 @@
     "link": "https://testflight.apple.com/join/hvPJRrAO",
     "clickCount": 0,
     "betaAvailable": "not accepting",
-    "lastChecked": "2024-09-06T14:13:26.219Z",
+    "lastChecked": "2024-09-07T10:13:06.805Z",
     "history": [
       {
         "status": "not accepting",
-        "timestamp": "2024-09-06T14:13:26.219Z",
+        "timestamp": "2024-09-07T10:12:57.766Z",
         "clickCount": 0
       }
     ],
-    "id": "39324"
+    "id": "10858",
+    "categories": []
   },
   {
     "name": "EVNHN KD",
@@ -5102,15 +5144,16 @@
     "link": "https://testflight.apple.com/join/U1KPF24G",
     "clickCount": 0,
     "betaAvailable": "open",
-    "lastChecked": "2024-09-06T14:13:26.219Z",
+    "lastChecked": "2024-09-07T10:13:07.088Z",
     "history": [
       {
         "status": "open",
-        "timestamp": "2024-09-06T14:13:26.219Z",
+        "timestamp": "2024-09-07T10:12:58.331Z",
         "clickCount": 0
       }
     ],
-    "id": "85779"
+    "id": "18878",
+    "categories": []
   },
   {
     "name": "MRFMultiRatingFeedback",
