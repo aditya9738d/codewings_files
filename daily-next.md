@@ -1,3 +1,7 @@
+- **CraigBot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/c5/9a/dac59a8d-8b0a-e741-90eb-e23afffb5abc/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/bNsRH4kh)
+- **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
+- **Dots. Memories: Photo & Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/47/9b/d1479b0b-5aed-ef24-e458-4f16d01148ed/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bt4Wvavf)
+
 - **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/a4/d5/e8a4d5f3-ecbe-0d1d-8c14-50f4f4a8e17b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
 - **Tam Giới Phân Tranh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/cb/0d/44cb0dec-0d57-b1ec-d37f-308767b4233a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zJVHK213)
 - **STAR Global 3.3-v1.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
@@ -194,4 +198,3 @@
 - **Dermie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/86/78/09867843-a897-bbfd-482b-2392259a8212/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3j61OQAo)
 - **Hivemind Access Portal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/15/3d/e8153dd5-6f6e-4cb3-92f8-ff8895c79b60/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/CYtz15OJ)
 - **Spatial Photo(ns)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/8e/cb/e68ecba0-2171-c62a-2852-9545e8abea7f/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/4ecRsPxF)
-- **Legend of Arcadia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/f9/7d/d8f97db6-0362-e042-9176-ed6701eacdd2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/G7O14h4N)
