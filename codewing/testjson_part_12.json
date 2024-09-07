@@ -1,0 +1,346 @@
+[
+  {
+    "name": "STAR Global 3.3-v1.5",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/df/ab/5bdfab92-5328-5471-4e56-8c0a25e98206/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/We5AU9nj",
+    "clickCount": 0,
+    "betaAvailable": "full",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:53.187Z",
+    "history": [
+      {
+        "status": "full",
+        "timestamp": "2024-09-07T11:14:53.187Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "45144"
+  },
+  {
+    "name": "AI Form Fill: AI Auto-Complete",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1c/dd/0b1cdd52-f598-a18f-79fb-8ab87455287e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/QVSGHxxq",
+    "clickCount": 8,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:53.775Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:14:53.775Z",
+        "clickCount": 8
+      }
+    ],
+    "id": "65366"
+  },
+  {
+    "name": "AppFlowy",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/d5/77/29d57790-c339-344c-b113-8f636e067522/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/6CexvkDz",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:54.359Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:14:54.359Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "43498"
+  },
+  {
+    "name": "SetWatch",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/7b/76/7f7b7676-049b-7a44-1b0d-a7a42ffc7095/MessagesApplicationStub60x60@2x.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/N6Pq2S6g",
+    "clickCount": 10,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:54.945Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:14:54.945Z",
+        "clickCount": 10
+      }
+    ],
+    "id": "70442"
+  },
+  {
+    "name": "Lunatask",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/ab/2c/5bab2c1e-6f88-0597-6068-47e7ae336c7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/kBdIBSQK",
+    "clickCount": 11,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:55.532Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:14:55.532Z",
+        "clickCount": 11
+      }
+    ],
+    "id": "68927"
+  },
+  {
+    "name": "Controlled—ControlD Client",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/91/1a/b2911ab7-d104-1b0f-36e5-c89649532608/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/DsiP91S8",
+    "clickCount": 2,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:56.116Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:14:56.116Z",
+        "clickCount": 2
+      }
+    ],
+    "id": "55227"
+  },
+  {
+    "name": "EVrest",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/c9/bb/48c9bbd8-d020-e491-5ced-89e54806a619/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/PsozH8Fq",
+    "clickCount": 9,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:56.702Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:14:56.702Z",
+        "clickCount": 9
+      }
+    ],
+    "id": "98040"
+  },
+  {
+    "name": "HeyLumi: Tailored AI Assistant",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/6c/cd/a66ccd94-d605-4c6b-22e7-85b84ee0a79c/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/reQsxT5Q",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:57.288Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:14:57.288Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "69055"
+  },
+  {
+    "name": "Backyard.AI",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/bd/b5/43bdb5f8-1e07-c5b2-349b-32c211fe73f0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/MaP0ap1E",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:57.872Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:14:57.872Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "37565"
+  },
+  {
+    "name": "ForsakenWorld2: ThầnMaĐạiChiến",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/0b/47/2e0b475b-b30d-593b-fe9b-782657cb9619/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/8x7jZt9r",
+    "clickCount": 1,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:58.459Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-07T11:14:58.459Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "12240"
+  },
+  {
+    "name": "NGỌC RỒNG",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/c1/bb/a1c1bb8c-e658-1794-2084-001bbdc91e5e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/b7uMJ98E",
+    "clickCount": 0,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:59.044Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-07T11:14:59.044Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "46367"
+  },
+  {
+    "name": "KPAH4",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6a/42/7a6a4282-a798-b3f1-8896-f7392850ccb2/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/ssNqHRM9",
+    "clickCount": 6,
+    "betaAvailable": "error",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:14:59.628Z",
+    "history": [
+      {
+        "status": "error",
+        "timestamp": "2024-09-07T11:14:59.628Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "66868"
+  },
+  {
+    "name": "TextExpander 7 Keyboard",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/14/1a/2c141af3-fab3-4f78-6d0d-ccdcc15f9608/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/vKrjNFUr",
+    "clickCount": 126,
+    "betaAvailable": "open",
+    "categories": [
+      [
+        "Utility"
+      ]
+    ],
+    "lastChecked": "2024-09-07T11:15:00.214Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:15:00.214Z",
+        "clickCount": 126
+      }
+    ],
+    "id": "14493"
+  },
+  {
+    "name": "Simulation Playground",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/rMf3CCf7",
+    "clickCount": 16,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:15:00.801Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:15:00.801Z",
+        "clickCount": 16
+      }
+    ],
+    "id": "11961"
+  },
+  {
+    "name": "Eternals: The Heart Of Eternia",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/d1/d7/ced1d763-d7c1-8fe3-8cfd-312b5188e72c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zcfkDqbm",
+    "clickCount": 1,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:15:01.386Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:15:01.386Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "70604"
+  },
+  {
+    "name": "Tara360 Club",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c4/c8/00c4c8ae-ee7e-444c-729d-cdac37755b8e/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/Gg4r70vP",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:15:01.971Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:15:01.971Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "42657"
+  },
+  {
+    "name": "Tam Giới Phân Tranh",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/5a/8e/145a8efd-029a-8d2e-076c-457212467747/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/zJVHK213",
+    "clickCount": 0,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:15:02.564Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:15:02.564Z",
+        "clickCount": 0
+      }
+    ],
+    "id": "12799"
+  },
+  {
+    "name": "Ragnarok: Monster World",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/18/7f/d9187fcf-1047-3285-fea3-1e5a3fafee0d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/W5sHnVHT",
+    "clickCount": 1,
+    "betaAvailable": "not accepting",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:15:03.160Z",
+    "history": [
+      {
+        "status": "not accepting",
+        "timestamp": "2024-09-07T11:15:03.160Z",
+        "clickCount": 1
+      }
+    ],
+    "id": "72354"
+  },
+  {
+    "name": "Mammotion",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/a6/73/cba67305-dbad-655b-ad0b-d3fdb471813e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/GsYEMjIk",
+    "clickCount": 10,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:15:03.746Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:15:03.746Z",
+        "clickCount": 10
+      }
+    ],
+    "id": "30367"
+  },
+  {
+    "name": "TokenX",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/65/c3/ab65c31c-f204-e7e7-12cf-fdf4366c4d95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+    "link": "https://testflight.apple.com/join/KSSmtna3",
+    "clickCount": 6,
+    "betaAvailable": "open",
+    "categories": [],
+    "lastChecked": "2024-09-07T11:15:04.336Z",
+    "history": [
+      {
+        "status": "open",
+        "timestamp": "2024-09-07T11:15:04.336Z",
+        "clickCount": 6
+      }
+    ],
+    "id": "63718"
+  }
+]
