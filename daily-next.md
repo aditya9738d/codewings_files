@@ -16,8 +16,6 @@
 
 - **Tara360 Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/25/d1/5325d1ff-5206-acd7-0c24-f0879a99232a/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gg4r70vP)
 
-- **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
-
 - **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/9d/65/b49d655f-daaf-d975-d91d-4ec1345133d6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
 
 - **CraigBot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/c5/9a/dac59a8d-8b0a-e741-90eb-e23afffb5abc/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/bNsRH4kh)
