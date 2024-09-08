@@ -3,8 +3,6 @@
 - **Temple Run: Adventure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c1/43/e7c1437d-ccaf-f4e9-32ad-066af8bb0111/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8c2K8z2s)
 
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
-- **DWARFLAB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/0b/8e/c10b8eb6-a8ae-e2e3-5291-3f25075360c3/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tkgyzuZe)
-- **Temple Run: Adventure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c1/43/e7c1437d-ccaf-f4e9-32ad-066af8bb0111/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8c2K8z2s)
 
 - **Tam Giới Phân Tranh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/cb/0d/44cb0dec-0d57-b1ec-d37f-308767b4233a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zJVHK213)
 - **STAR Global 3.3-v1.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
@@ -35,8 +33,6 @@
 - **Nro Hoa Sever 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/5e/36/3f5e3621-f0e3-e8de-970b-8e4ab16916a3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iBQpYuai)
 
 - **Stackie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/84/c6/0e84c66f-2277-fcb4-c45b-68d4fad3fe2a/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/25CvgSSv)
-
-- **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/d6/c4/abd6c441-e727-289c-37d5-d50231bbaa7c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
 - **Comingle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/d4/0b/95d40b86-37c2-aec9-dc33-df0f86dfecc3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8rckHFzp)
 
