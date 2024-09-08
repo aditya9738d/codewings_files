@@ -1,9 +1,6 @@
 - **FreemiumKit: In-App Purchases**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5d/41/ed5d4155-d917-7b90-5de3-d58f6ec2e8d0/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AhTsftRv)
 - **Marma Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/bc/bb/20bcbb65-865d-837c-972e-d8f5d1e5b253/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hcM99ZF8)
 
-- **FreemiumKit: In-App Purchases**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5d/41/ed5d4155-d917-7b90-5de3-d58f6ec2e8d0/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AhTsftRv)
-- **Marma Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/bc/bb/20bcbb65-865d-837c-972e-d8f5d1e5b253/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hcM99ZF8)
-
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 - **Tara360 Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/25/d1/5325d1ff-5206-acd7-0c24-f0879a99232a/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gg4r70vP)
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
