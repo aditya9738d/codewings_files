@@ -19,7 +19,6 @@
 - **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
 
 - **Red Covenant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/36/5f/47365f4b-1405-14bf-7abc-0877743b97e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29NknnRm)
-- **STAR Global 3.3-v1.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/0b/a9/9f0ba9fa-b783-fd53-52b5-c520fc5af68e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
 
@@ -33,7 +32,6 @@
 - **Stackie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/fc/78/9afc78a4-b05a-24da-f515-d305bed12d63/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/25CvgSSv)
 
 - **斗罗大陆：逆转时空**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/fe/d1/cbfed175-32bd-c34e-b5ca-777268f9bec8/GameIcon0-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5vznz2Wj)
-- **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 
 - **Ngọc Rồng Đom Đóm**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/5a/e5/e35ae5e2-0825-99c4-ddd0-e8a3c3745e9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y1S2DkS9)
 
@@ -69,7 +67,6 @@
 - **Simulation Playground**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/10/02741029-2789-8dbd-672d-d688e13799a2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/rMf3CCf7)
 
 - **Eternals: The Heart Of Eternia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/d1/d7/ced1d763-d7c1-8fe3-8cfd-312b5188e72c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zcfkDqbm)
-- **Tara360 Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c4/c8/00c4c8ae-ee7e-444c-729d-cdac37755b8e/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gg4r70vP)
 
 - **Tam Giới Phân Tranh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/5a/8e/145a8efd-029a-8d2e-076c-457212467747/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zJVHK213)
 
