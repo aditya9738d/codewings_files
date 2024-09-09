@@ -5,11 +5,6 @@
 - **Dots. Memories: Photo & Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/47/9b/d1479b0b-5aed-ef24-e458-4f16d01148ed/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bt4Wvavf)
 - **FreemiumKit: In-App Purchases**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5d/41/ed5d4155-d917-7b90-5de3-d58f6ec2e8d0/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AhTsftRv)
 
-- **Dots. Memories: Photo & Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/47/9b/d1479b0b-5aed-ef24-e458-4f16d01148ed/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bt4Wvavf)
-- **FreemiumKit: In-App Purchases**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5d/41/ed5d4155-d917-7b90-5de3-d58f6ec2e8d0/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AhTsftRv)
-
-- **Marma Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/bc/bb/20bcbb65-865d-837c-972e-d8f5d1e5b253/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hcM99ZF8)
-
 - **Temple Run: Adventure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c1/43/e7c1437d-ccaf-f4e9-32ad-066af8bb0111/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8c2K8z2s)
 
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
@@ -153,7 +148,6 @@
 - **Kamte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/d8/9c/6cd89c03-2dd8-0d6f-bf62-b6757026dd74/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/efVVgzAz)
 - **Microsoft 365 (Office)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/55/2e/ee552ed6-0bf8-650f-5f7a-5e1daeab12e6/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eHAKJBtM)
 - **Indus Battle Royale Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/3f/2f/e73f2f72-8017-edfe-aee0-f850b207396c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAVRvZHD)
-- **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/a8/0a/f9a80a2b-ee46-d3c1-78ea-2e3e103b7063/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
 - **BAGS - Financial Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/56/5d/71565d61-d887-4cfb-4570-eca49d1427c0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j7uwkoAL)
 - **TripSaver**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/01/8d/e1018d23-37c3-7fd4-c99f-0e9cb5eee685/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/4zBdye9P)
 - **uche_journal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/90/42/cb904289-940c-6832-5c2b-c6b68c5a321c/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kkQWJpgb)
