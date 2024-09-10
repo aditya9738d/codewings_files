@@ -8,9 +8,6 @@
 - **STAR Global 3.3-v1.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 
-- **Marma Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/bc/bb/20bcbb65-865d-837c-972e-d8f5d1e5b253/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hcM99ZF8)
-- **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ef/93/5fef939a-ec4f-f950-7b4d-3d0193b6c430/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
-
 - **Tara360 Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/25/d1/5325d1ff-5206-acd7-0c24-f0879a99232a/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gg4r70vP)
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
@@ -20,8 +17,6 @@
 
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 - **Dots. Memories: Photo & Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/47/9b/d1479b0b-5aed-ef24-e458-4f16d01148ed/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bt4Wvavf)
-
-- **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/a4/d5/e8a4d5f3-ecbe-0d1d-8c14-50f4f4a8e17b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
 
 - **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/9d/65/b49d655f-daaf-d975-d91d-4ec1345133d6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
 
