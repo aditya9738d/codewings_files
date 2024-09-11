@@ -23,7 +23,6 @@
 - **SDVFR Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/58/88/5b58885b-c4cd-32ac-3434-e3b05b2a5e16/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AT7TlgcE)
 
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
-- **Dots. Memories: Photo & Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/47/9b/d1479b0b-5aed-ef24-e458-4f16d01148ed/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bt4Wvavf)
 
 - **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/9d/65/b49d655f-daaf-d975-d91d-4ec1345133d6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
 
