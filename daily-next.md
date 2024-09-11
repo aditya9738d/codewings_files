@@ -1,3 +1,6 @@
+- **Tara360 Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/25/d1/5325d1ff-5206-acd7-0c24-f0879a99232a/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gg4r70vP)
+- **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
+
 - **Dots. Memories: Photo & Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/f0/cd/1ef0cdec-bdfc-a239-6bbb-c6d7295abc9f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bt4Wvavf)
 
 - **SNDV2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/3d/72/ce3d7205-4fe6-8079-e478-5908cdaaff55/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmgNwjPj)
@@ -195,4 +198,3 @@
 - **تطبيق بنك الشرق اليمني**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/16/d8/8016d853-859e-402f-9ece-e1267bf5ea17/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dBK2i6OK)
 - **HiberniaVPN: Anonymous VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/20/0a/27200a2a-47fd-a7df-ac16-f13e16614246/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mzI7Ao9J)
 - **Fidget Grid - Stress Relief**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ab/c5/b4abc559-b50b-0e5e-9953-48be699966ec/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n9TzNMyY)
-- **SANDS Movie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/65/f2/3f65f26e-9962-a9cc-8e86-954b929a5acc/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3nfJLyC1)
