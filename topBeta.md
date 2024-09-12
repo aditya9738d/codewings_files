@@ -5,8 +5,6 @@
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 - **VeilidChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/b5/8a/f9b58af2-914e-b742-eab6-3856426113f2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0tYeed0k)
 
-- **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
-
 - **Dots. Memories: Photo & Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/f0/cd/1ef0cdec-bdfc-a239-6bbb-c6d7295abc9f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bt4Wvavf)
 
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
@@ -16,8 +14,6 @@
 - **STAR Global 3.3-v1.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 
 - **RadioBina**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/68/dc/5368dce0-a8b5-628f-edd8-999809d489cf/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WxcBFPVw)
-
-- **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/9d/65/b49d655f-daaf-d975-d91d-4ec1345133d6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
 
 - **Flux - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/24/5a/52245abc-bbf8-79e6-2351-5b21bf301c04/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
 
