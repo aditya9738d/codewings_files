@@ -41,8 +41,6 @@
 
 - **RadioBina**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/68/dc/5368dce0-a8b5-628f-edd8-999809d489cf/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WxcBFPVw)
 
-- **Flux - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/24/5a/52245abc-bbf8-79e6-2351-5b21bf301c04/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
-
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
 
 - **SNDV2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/3d/72/ce3d7205-4fe6-8079-e478-5908cdaaff55/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmgNwjPj)
