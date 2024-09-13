@@ -1,5 +1,7 @@
 - **Flux - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/24/5a/52245abc-bbf8-79e6-2351-5b21bf301c04/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
 
+- **Flux - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/24/5a/52245abc-bbf8-79e6-2351-5b21bf301c04/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
+
 - **Hivemind Prod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/ad/fc/3fadfc17-8247-4315-6583-3237f2c13cf2/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jRuKdZkB)
 - **Nro Sun Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/2f/b4/4f2fb45c-5f7a-38c6-9152-529aedf28b8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VS8VEEC3)
 
