@@ -1,3 +1,6 @@
+- **Marma Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/7b/21/517b2196-68de-fe2d-d422-42d5ef603fd6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hcM99ZF8)
+- **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/e3/d5/54e3d57f-294e-e8b8-c6a2-9c4426ca4f9b/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
+
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
@@ -195,6 +198,3 @@
 - **TripSaver**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/01/8d/e1018d23-37c3-7fd4-c99f-0e9cb5eee685/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/4zBdye9P)
 - **uche_journal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/90/42/cb904289-940c-6832-5c2b-c6b68c5a321c/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kkQWJpgb)
 - **Supply Chain Master**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/48/40/c3484081-b2f3-1c92-7f4d-7a8ea335d575/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9T77hPn)
-- **WaaKey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/ea/df/12eadfbd-7d08-122e-b476-aaae577a3871/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ChKdkTFo)
-- **RuBaRu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ea/8f/6eea8fe7-35b9-ee5b-7fb4-25c4ae81499d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mbz7OTlH)
-- **Wars of Wanon:The Future Story**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b1/ea/53b1eaea-48c9-02db-7b37-b2f520fa78c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UZ4tYFb6)
