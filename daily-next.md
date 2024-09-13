@@ -1,5 +1,7 @@
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 
+- **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
+
 - **MuseScore: sheet music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/c0/23/18c0230b-bc95-78ee-a473-fab00a06ed31/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w7fkE6F)
 
 - **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/9d/65/b49d655f-daaf-d975-d91d-4ec1345133d6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
@@ -196,4 +198,3 @@
 - **WaaKey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/ea/df/12eadfbd-7d08-122e-b476-aaae577a3871/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ChKdkTFo)
 - **RuBaRu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ea/8f/6eea8fe7-35b9-ee5b-7fb4-25c4ae81499d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mbz7OTlH)
 - **Wars of Wanon:The Future Story**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b1/ea/53b1eaea-48c9-02db-7b37-b2f520fa78c6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UZ4tYFb6)
-- **Senko - See, Shoot, Relive.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/4a/c5/b54ac55d-69af-6774-f76a-b5106cc16cd8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EAq5HAsd)
