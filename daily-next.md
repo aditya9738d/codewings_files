@@ -1,3 +1,7 @@
+- **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/8a/12/9b8a124b-f9a2-2276-32f4-2a76557be511/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
+- **Tam Giới Phân Tranh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/cb/0d/44cb0dec-0d57-b1ec-d37f-308767b4233a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zJVHK213)
+- **STAR Global Pro 3.4-v1.2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/22/92/882292d4-2c23-1c7e-721f-85df1533d3c3/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
+
 - **Marma Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/7b/21/517b2196-68de-fe2d-d422-42d5ef603fd6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hcM99ZF8)
 - **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/e3/d5/54e3d57f-294e-e8b8-c6a2-9c4426ca4f9b/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
 
@@ -194,6 +198,3 @@
 
 - **Popset Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/a0/28/2da028b9-c14b-3874-ce55-ca1628441da5/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uFgOuEoi)
 - **TikTok Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f2/19/bff219ef-10c9-3a22-ad8c-74c19378eceb/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G0n2YZyU)
-- **Bringin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/17/bb/0917bb1a-181f-6bdd-e477-36fc3143cd29/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HVh6eZsF)
-- **Robin: Personal Hype Squad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/a3/4d/c8a34d33-10d0-cb7e-316e-f2f84d2ab7d6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/F41rywJy)
-- **Cluber for DIS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/ac/48/b7ac4888-241c-18b1-b8e3-c5f845395599/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZOaJUBS3)
