@@ -29,8 +29,6 @@
 
 - **Marma Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/7b/21/517b2196-68de-fe2d-d422-42d5ef603fd6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hcM99ZF8)
 
-- **Receipt Warrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d7/5e/bcd75eab-aad6-cc7f-4f8f-3c250145cc07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PsV5B6DB)
-
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 
 - **EG-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/5f/0a/3a5f0aa7-ac81-fac5-228c-ebeee772aabe/CTG-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XzHjpSPZ)
@@ -40,8 +38,6 @@
 - **MuseScore: sheet music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/c0/23/18c0230b-bc95-78ee-a473-fab00a06ed31/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w7fkE6F)
 
 - **Tara360 Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/e1/11/2ae111d2-0169-c393-49a9-1bd2f764b029/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gg4r70vP)
-
-- **Emma - Budget Planner Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/ca/98/1fca9802-d4e7-bcea-aa15-4cc32c321251/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAUBcvcV)
 
 - **DWARFLAB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/0b/8e/c10b8eb6-a8ae-e2e3-5291-3f25075360c3/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tkgyzuZe)
 
@@ -3940,7 +3936,6 @@
 - **iTools Drive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/3b/49/fd3b497e-53cf-6f9a-471d-e9ae89412597/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4tSMG9BM)
 - **champion Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/6a/4e/da6a4e07-de6e-2de0-9cf6-c1dd408f6693/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ObKaA1Uz)
 - **火鹤CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/0d/cf/b30dcfa7-f46e-4497-00b7-9ad852a8b22d/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/IfPt0yPx)
-- **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/ed/0e/35ed0e10-2951-8a5a-cad8-011ab49487de/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MelFP11Y)
 - **KMON: Genesis**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/1e/f5/c81ef555-f5d1-aa51-5de7-3a1e3f03c7f3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CkBY8AAq)
 - **中南掌医**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/0b/2c/370b2c44-8d8d-902f-72f1-d5a6fd9ece0e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KCbzToeN)
 - **Relax_AN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/f2/45/44f2455c-5ef8-ab04-9ffc-3e052c0f92bb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/F9iQi6PG)
