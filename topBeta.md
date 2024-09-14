@@ -6,7 +6,6 @@
 
 - **ScoreTV - Live scores & TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/39/3d/bf393df8-32c2-e5d2-2d29-c19f04b776db/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/STdudQx6)
 
-- **RadioBina**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/68/dc/5368dce0-a8b5-628f-edd8-999809d489cf/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WxcBFPVw)
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 
 - **BeePhotos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/3d/a4/b63da4cb-ab2e-2b1c-698c-f796d83e4569/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Ey9qsfQ)
@@ -41,8 +40,6 @@
 - **Emma - Budget Planner Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/ca/98/1fca9802-d4e7-bcea-aa15-4cc32c321251/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAUBcvcV)
 
 - **DWARFLAB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/0b/8e/c10b8eb6-a8ae-e2e3-5291-3f25075360c3/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tkgyzuZe)
-
-- **STAR Global Pro 3.4-v1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/1a/fc/221afcd7-7c83-57d0-1f74-81c44f3695b9/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 
 - **Temple Run: Adventure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/c1/43/e7c1437d-ccaf-f4e9-32ad-066af8bb0111/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8c2K8z2s)
 
