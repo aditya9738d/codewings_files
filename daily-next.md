@@ -1,9 +1,6 @@
 - **RadioBina**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/68/dc/5368dce0-a8b5-628f-edd8-999809d489cf/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WxcBFPVw)
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 
-- **RadioBina**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/68/dc/5368dce0-a8b5-628f-edd8-999809d489cf/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WxcBFPVw)
-- **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
-
 - **BeePhotos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/3d/a4/b63da4cb-ab2e-2b1c-698c-f796d83e4569/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Ey9qsfQ)
 
 - **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/9d/65/b49d655f-daaf-d975-d91d-4ec1345133d6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
