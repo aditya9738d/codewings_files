@@ -1,3 +1,7 @@
+- **ScoreTV - Live scores & TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/39/3d/bf393df8-32c2-e5d2-2d29-c19f04b776db/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/STdudQx6)
+- **DroidStar DMR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/a2/e4/66a2e457-3426-4b38-5ce7-4e882e0ba24f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zQp3HuMs)
+- **Dots. Memories: Photo & Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/89/0a/fd890a2e-2a2e-8a06-8562-766fabf0db67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bt4Wvavf)
+
 - **RadioBina**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/68/dc/5368dce0-a8b5-628f-edd8-999809d489cf/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WxcBFPVw)
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 
@@ -194,4 +198,3 @@
 - **Cluber for DIS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/ac/48/b7ac4888-241c-18b1-b8e3-c5f845395599/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZOaJUBS3)
 - **Hiddify Proxy & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/5d/ab/0e5dab79-2ae4-7b82-fef1-161da1df2a99/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dsNjHxjb)
 - **Daily Dine**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/a6/21/4ea62120-3204-0fd3-eb00-93a09842e8f4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uHJHbGMc)
-- **Project Graveyard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/e2/ea/15e2ea8b-1b4a-daa0-119d-078e45365adb/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/LMRBvMmV)
