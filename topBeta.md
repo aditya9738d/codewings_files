@@ -31,13 +31,9 @@
 - **Hivemind Prod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/ad/fc/3fadfc17-8247-4315-6583-3237f2c13cf2/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jRuKdZkB)
 - **Nro Sun Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/2f/b4/4f2fb45c-5f7a-38c6-9152-529aedf28b8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VS8VEEC3)
 
-- **Marma Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/7b/21/517b2196-68de-fe2d-d422-42d5ef603fd6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hcM99ZF8)
-
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 
 - **EG-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/5f/0a/3a5f0aa7-ac81-fac5-228c-ebeee772aabe/CTG-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XzHjpSPZ)
-
-- **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/e3/d5/54e3d57f-294e-e8b8-c6a2-9c4426ca4f9b/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
 
 - **MuseScore: sheet music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/c0/23/18c0230b-bc95-78ee-a473-fab00a06ed31/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w7fkE6F)
 
