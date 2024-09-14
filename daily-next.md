@@ -1,3 +1,7 @@
+- **Emma - Budget Planner Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/26/d1/4426d1d3-4768-3007-4326-b5ca92b37972/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAUBcvcV)
+- **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/c3/36/36c336cb-989b-2c01-673a-baaefb462a9a/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YtE2Q5BQ)
+- **Receipt Warrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d7/5e/bcd75eab-aad6-cc7f-4f8f-3c250145cc07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PsV5B6DB)
+
 - **STAR Global Pro 3.4-v1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/1a/fc/221afcd7-7c83-57d0-1f74-81c44f3695b9/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 - **RadioBina**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/68/dc/5368dce0-a8b5-628f-edd8-999809d489cf/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WxcBFPVw)
 
@@ -194,4 +198,3 @@
 - **Bringin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/17/bb/0917bb1a-181f-6bdd-e477-36fc3143cd29/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HVh6eZsF)
 - **Robin: Personal Hype Squad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/a3/4d/c8a34d33-10d0-cb7e-316e-f2f84d2ab7d6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/F41rywJy)
 - **Cluber for DIS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/ac/48/b7ac4888-241c-18b1-b8e3-c5f845395599/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZOaJUBS3)
-- **Hiddify Proxy & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/5d/ab/0e5dab79-2ae4-7b82-fef1-161da1df2a99/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dsNjHxjb)
