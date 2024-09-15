@@ -7,8 +7,6 @@
 - **TELEX Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/75/66/a07566f1-a582-5d80-a912-41e370ae86d3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1fAbutzp)
 - **World of Runner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/15/52/9c155293-9af8-a3da-84d4-ec47fdbbb58c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4Ru3fSCF)
 
-- **SDVFR Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/58/88/5b58885b-c4cd-32ac-3434-e3b05b2a5e16/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AT7TlgcE)
-- **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 - **VeilidChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/b5/8a/f9b58af2-914e-b742-eab6-3856426113f2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0tYeed0k)
 
 - **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/8a/12/9b8a124b-f9a2-2276-32f4-2a76557be511/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
@@ -20,7 +18,6 @@
 - **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/e3/d5/54e3d57f-294e-e8b8-c6a2-9c4426ca4f9b/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
 
 - **Emma - Budget Planner Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/26/d1/4426d1d3-4768-3007-4326-b5ca92b37972/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAUBcvcV)
-- **Receipt Warrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d7/5e/bcd75eab-aad6-cc7f-4f8f-3c250145cc07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PsV5B6DB)
 
 - **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/c3/36/36c336cb-989b-2c01-673a-baaefb462a9a/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YtE2Q5BQ)
 
