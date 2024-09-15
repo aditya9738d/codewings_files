@@ -29,9 +29,6 @@
 
 - **STAR Global Pro 3.4-v1.2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/22/92/882292d4-2c23-1c7e-721f-85df1533d3c3/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 
-- **Marma Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/7b/21/517b2196-68de-fe2d-d422-42d5ef603fd6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hcM99ZF8)
-- **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/e3/d5/54e3d57f-294e-e8b8-c6a2-9c4426ca4f9b/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
-
 - **Emma - Budget Planner Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/26/d1/4426d1d3-4768-3007-4326-b5ca92b37972/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAUBcvcV)
 
 - **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/c3/36/36c336cb-989b-2c01-673a-baaefb462a9a/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YtE2Q5BQ)
