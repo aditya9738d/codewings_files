@@ -2,7 +2,6 @@
 - **Nro Sun Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/2f/b4/4f2fb45c-5f7a-38c6-9152-529aedf28b8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VS8VEEC3)
 - **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1f/0e/0b1f0e4e-c6d8-d18f-21a2-dd9e40a230cf/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
 
-- **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1f/0e/0b1f0e4e-c6d8-d18f-21a2-dd9e40a230cf/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
 - **EG-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/5f/0a/3a5f0aa7-ac81-fac5-228c-ebeee772aabe/CTG-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XzHjpSPZ)
 
 - **Suka数字卡片**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/3e/d8/653ed8d3-ca0c-2966-fdf4-78911bc0b21f/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/RUM3kTTF)
@@ -42,10 +41,7 @@
 
 - **BeePhotos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/3d/a4/b63da4cb-ab2e-2b1c-698c-f796d83e4569/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Ey9qsfQ)
 
-- **Flux - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/24/5a/52245abc-bbf8-79e6-2351-5b21bf301c04/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
-
 - **Hivemind Prod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/ad/fc/3fadfc17-8247-4315-6583-3237f2c13cf2/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jRuKdZkB)
-- **Nro Sun Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/2f/b4/4f2fb45c-5f7a-38c6-9152-529aedf28b8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VS8VEEC3)
 
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 
