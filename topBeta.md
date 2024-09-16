@@ -55,8 +55,6 @@
 
 - **Project Cerberus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/ce/bc1bce34-f153-9075-d6f3-effa15e13113/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jaT62yTP)
 
-- **Hivemind Prod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/ad/fc/3fadfc17-8247-4315-6583-3237f2c13cf2/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jRuKdZkB)
-
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 
 - **MuseScore: sheet music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/c0/23/18c0230b-bc95-78ee-a473-fab00a06ed31/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w7fkE6F)
@@ -7089,7 +7087,6 @@
 - **DemoShop**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/22/67/242267df-4c4b-1708-8ad7-985a03a09259/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Bwyi9fvv)
 - **Netrin Enhance**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ea/0e/b8ea0e6a-129d-0270-c71b-17ba2713a802/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Udksw5Rq)
 - **有哈**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/14/3c/9d143cc3-d277-dfc2-622c-bfdd1c536494/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZwRrvAzZ)
-- **CheapCharts - Digital Deals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/9e/d3/1e9ed35d-afd8-b94e-9923-344735fd82b0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZGiJbkWU)
 - **Waxwing Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/48/20/d94820b8-685a-2497-9adc-9ea1972a164a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ac5WMFBa)
 - **Ngọc Rồng Siêu Cấp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/b4/a1/f3b4a14f-8d15-fbe9-34a7-23d10c762a32/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H9RmMfdM)
 - **TMLTH Touch Point**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/6e/ff/166effd2-391d-b9a2-15ad-913fe4e3e607/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWsnQxHL)
