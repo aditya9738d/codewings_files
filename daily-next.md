@@ -1,4 +1,4 @@
-- **WhatsApp Messenger beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/26/61/6926613d-a37d-027e-a00c-745021d5b03f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8sLvv90R)
+- **WhatsApp Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/26/61/6926613d-a37d-027e-a00c-745021d5b03f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8sLvv90R)
 
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
