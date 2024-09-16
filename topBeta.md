@@ -1,9 +1,6 @@
 - **Nro Hoa Sever 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/5e/36/3f5e3621-f0e3-e8de-970b-8e4ab16916a3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iBQpYuai)
 - **Emma - Budget Planner Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/26/d1/4426d1d3-4768-3007-4326-b5ca92b37972/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAUBcvcV)
 
-- **Nro Hoa Sever 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/5e/36/3f5e3621-f0e3-e8de-970b-8e4ab16916a3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iBQpYuai)
-- **Emma - Budget Planner Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/26/d1/4426d1d3-4768-3007-4326-b5ca92b37972/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAUBcvcV)
-
 - **Hivemind Prod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/ad/fc/3fadfc17-8247-4315-6583-3237f2c13cf2/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jRuKdZkB)
 
 - **Forward - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/24/5a/52245abc-bbf8-79e6-2351-5b21bf301c04/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
