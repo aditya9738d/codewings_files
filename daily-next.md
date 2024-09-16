@@ -1,3 +1,6 @@
+- **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
+- **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
+
 - **Emma - Budget Planner Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/26/d1/4426d1d3-4768-3007-4326-b5ca92b37972/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAUBcvcV)
 - **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/b0/d6/ceb0d66f-d503-d56a-49a5-372f2a08388d/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YtE2Q5BQ)
 - **Receipt Warrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d7/5e/bcd75eab-aad6-cc7f-4f8f-3c250145cc07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PsV5B6DB)
@@ -195,5 +198,3 @@
 - **Tatami ∞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/17/81/5d178142-86ef-b608-c154-8cceb2df68e4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A6JbU7sh)
 
 - **MeloJam PlayPark**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/04/5e/ee045efc-3d3b-8a28-0577-ac813eed7f36/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HjE8KvXa?source_caller=ui&shortlink=b1hj99uh)
-
-- **小冰冰传奇-官方怀旧服**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/fd/75/e4fd756c-6a31-7d89-6404-ce1bd5f73345/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3iWOsKQO)
