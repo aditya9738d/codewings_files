@@ -59,8 +59,6 @@
 
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 
-- **MuseScore: sheet music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/c0/23/18c0230b-bc95-78ee-a473-fab00a06ed31/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w7fkE6F)
-
 - **Tara360 Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/e1/11/2ae111d2-0169-c393-49a9-1bd2f764b029/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gg4r70vP)
 
 - **DWARFLAB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/0b/8e/c10b8eb6-a8ae-e2e3-5291-3f25075360c3/AppIcon-0-0-1x_U007epad-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tkgyzuZe)
