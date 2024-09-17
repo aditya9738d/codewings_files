@@ -81,8 +81,6 @@
 - **PodwiseAI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/aa/16/afaa165f-0c65-a8f5-a512-c1f647059d23/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7h14gGwU)
 - **SMS Filter Indonesia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/ff/40/31ff4096-9327-a9a9-463e-5dc7bfb7d2b0/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rXs57Gxl)
 - **Fosi: Football Memories**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/28/50/512850db-e115-17df-0a1f-b24ea3f87b7f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xshuytza)
-- **Receipt Warrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d7/5e/bcd75eab-aad6-cc7f-4f8f-3c250145cc07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PsV5B6DB)
-- **SDVFR Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/58/88/5b58885b-c4cd-32ac-3434-e3b05b2a5e16/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AT7TlgcE)
 
 - **A Cat's Tale**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/aa/d0/eeaad031-9c41-ec5f-b5fd-31fbaccc8190/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uM4vDARJ)
 
