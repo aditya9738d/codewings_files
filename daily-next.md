@@ -1,3 +1,7 @@
+- **Emma - Budget Planner Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/26/d1/4426d1d3-4768-3007-4326-b5ca92b37972/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAUBcvcV)
+- **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/b0/d6/ceb0d66f-d503-d56a-49a5-372f2a08388d/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YtE2Q5BQ)
+- **Receipt Warrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d7/5e/bcd75eab-aad6-cc7f-4f8f-3c250145cc07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PsV5B6DB)
+
 - **Hivemind Prod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/ad/fc/3fadfc17-8247-4315-6583-3237f2c13cf2/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jRuKdZkB)
 - **Forward - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/13/fa/4713fad1-2ade-b5be-9fc6-d45403b2fb2e/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
 - **CheapCharts - Digital Deals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/9c/7a/c19c7a5a-12b5-180e-3d09-e42d5dd782db/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZGiJbkWU)
@@ -193,5 +197,3 @@
 - **dauphaisang**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/2c/8e/3b2c8e15-9d64-c5d9-4357-3def5ef7d126/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M7FH1r7V)
 
 - **Ngọc Rồng Đom Đóm**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/5a/e5/e35ae5e2-0825-99c4-ddd0-e8a3c3745e9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y1S2DkS9)
-
-- **1Keeper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/21/24/3d21242c-f5f5-5b23-8706-d47c70401a7b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExEst8hT)
