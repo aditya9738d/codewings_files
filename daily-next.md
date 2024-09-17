@@ -2,9 +2,7 @@
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 - **VeilidChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/b5/8a/f9b58af2-914e-b742-eab6-3856426113f2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0tYeed0k)
 
-- **SDVFR Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/58/88/5b58885b-c4cd-32ac-3434-e3b05b2a5e16/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AT7TlgcE)
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
-- **VeilidChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/b5/8a/f9b58af2-914e-b742-eab6-3856426113f2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0tYeed0k)
 
 - **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1f/0e/0b1f0e4e-c6d8-d18f-21a2-dd9e40a230cf/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
 
@@ -81,8 +79,6 @@
 - **FreemiumKit: In-App Purchases**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5d/41/ed5d4155-d917-7b90-5de3-d58f6ec2e8d0/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AhTsftRv)
 
 - **OKX: Buy Bitcoin BTC & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/48/ff/4848ff06-cd36-5563-eb69-6daf4fff5b43/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/suzsfxod)
-
-- **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
 - **CraigBot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/c5/9a/dac59a8d-8b0a-e741-90eb-e23afffb5abc/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/bNsRH4kh)
 
