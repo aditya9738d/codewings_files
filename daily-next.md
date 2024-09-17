@@ -40,7 +40,6 @@
 - **Marma Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/7b/21/517b2196-68de-fe2d-d422-42d5ef603fd6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hcM99ZF8)
 - **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/93/49/e893496b-4a89-c744-6258-900895306df1/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
 
-- **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1f/0e/0b1f0e4e-c6d8-d18f-21a2-dd9e40a230cf/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
 - **EG-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/5f/0a/3a5f0aa7-ac81-fac5-228c-ebeee772aabe/CTG-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XzHjpSPZ)
 
 - **Flux - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/24/5a/52245abc-bbf8-79e6-2351-5b21bf301c04/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
