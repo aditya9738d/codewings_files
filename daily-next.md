@@ -28,8 +28,6 @@
 
 - **WeatherCastTest**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/5f/e5/165fe5ee-81c8-870e-aa35-fbf9818eeee7/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wc7ZQ9ux)
 
-- **SDVFR Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/58/88/5b58885b-c4cd-32ac-3434-e3b05b2a5e16/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AT7TlgcE)
-
 - **熊猫吃短信2 - 垃圾短信拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/48/b2/cc48b2ef-1fc7-9788-af58-71ed3129aaa0/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/fwtX43eH)
 - **EmojiMart - Shopping List**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/82/04/918204ec-c467-c57e-f07c-beeb9e1cf931/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yHQZwjJm)
 - **Jammy Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/40/e8/fc40e8f1-aec3-25d5-9abc-b55ac6e29ac6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pAPfDurg?utm_source=X&utm_medium=Social+Media&utm_campaign=prototype+beta)
@@ -82,7 +80,6 @@
 - **Calorific - Nutrition Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/62/f3/6062f3c2-4b59-bd02-f7a4-cf704466b07a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GyJTmRWq)
 - **RFF - red flags finder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/bc/9c/82bc9c5f-10c0-9aff-cbb3-0490c9a532c2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RN2vQCXp)
 - **Laguna: High EQ Matchmaking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/20/f1/fe20f188-a9e1-93b2-1687-ca804632e048/AppIcon-1x_U007epad-0-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/jWmWd85y)
-- **CarX Drift Racing 3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e9/73/90e973e2-33aa-91ce-4234-fa8d1d1ff5cf/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/pJ9DutTv)
 - **TiTi App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/0f/26/9b0f2638-52c8-333c-82b1-173a5f150019/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NeXUqMRv)
 - **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/93/49/e893496b-4a89-c744-6258-900895306df1/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
 - **X.AR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/0e/fc/8a0efc0d-0ce3-58aa-1168-4354e98de14e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/smDJLIHx)
@@ -124,8 +121,6 @@
 - **Fully Noded - Join Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/54/cd4f5459-20cd-3474-e521-ab3e4868103c/AppIcon-5-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCJpj8cZ)
 
 - **Dots. Memories: Photo & Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/89/0a/fd890a2e-2a2e-8a06-8562-766fabf0db67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bt4Wvavf)
-
-- **Alby Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/70/44/187044b8-4958-e21e-ef24-818054fe6677/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mdZZ9bdA)
 
 - **Tam Giới Phân Tranh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/cb/0d/44cb0dec-0d57-b1ec-d37f-308767b4233a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zJVHK213)
 
