@@ -85,7 +85,6 @@
 - **RFF - red flags finder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/bc/9c/82bc9c5f-10c0-9aff-cbb3-0490c9a532c2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RN2vQCXp)
 - **Laguna: High EQ Matchmaking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/20/f1/fe20f188-a9e1-93b2-1687-ca804632e048/AppIcon-1x_U007epad-0-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/jWmWd85y)
 - **TiTi App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/0f/26/9b0f2638-52c8-333c-82b1-173a5f150019/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NeXUqMRv)
-- **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/93/49/e893496b-4a89-c744-6258-900895306df1/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
 - **X.AR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/0e/fc/8a0efc0d-0ce3-58aa-1168-4354e98de14e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/smDJLIHx)
 - **MyndMap**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/96/95/0e9695a5-7640-db1b-6d43-b4e63301e11f/MyndMap-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uFGDrNnN)
 - **Rebel Skies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/e0/8b/d9e08b94-f26e-f882-5b5f-c507ff0ffb49/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAPGP3FP)
@@ -159,8 +158,6 @@
 - **STAR Global 3.3-v1.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 
 - **SNDV2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/3d/72/ce3d7205-4fe6-8079-e478-5908cdaaff55/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmgNwjPj)
-
-- **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ef/93/5fef939a-ec4f-f950-7b4d-3d0193b6c430/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
 
 - **FreemiumKit: In-App Purchases**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5d/41/ed5d4155-d917-7b90-5de3-d58f6ec2e8d0/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AhTsftRv)
 
