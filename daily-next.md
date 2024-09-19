@@ -60,7 +60,6 @@
 - **DomoTown**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ea/a8/31eaa82c-a1ec-7406-0f0f-d1177c1de18a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yYWkE72G)
 - **Story: Spatial Storytelling**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/1f/dd/cd1fddaa-30ff-782b-789e-25db44e43630/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jJhtpGNx)
 - **S Node**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/e4/da/59e4da25-6ba1-9872-9885-dd4523a8fbaa/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/v6hQPX5p)
-- **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 - **Wallpunch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/95/a5/a895a5c5-54e2-c9a0-059b-6599abc58e54/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/B3uRqpbk)
 - **Exodus: GBW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/04/cd/d004cd32-214f-b997-ad81-b69457734b68/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Ej69tE2v)
 - **Sumyt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/8d/90/0a8d9002-35ed-aa0a-9fdc-aeb454c0d0fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zqk89NSw)
@@ -125,8 +124,6 @@
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
-
-- **Fully Noded - Join Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/54/cd4f5459-20cd-3474-e521-ab3e4868103c/AppIcon-5-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCJpj8cZ)
 
 - **Dots. Memories: Photo & Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/89/0a/fd890a2e-2a2e-8a06-8562-766fabf0db67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bt4Wvavf)
 
