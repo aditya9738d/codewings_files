@@ -54,7 +54,6 @@
 - **Tam Giới Phân Tranh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/cb/0d/44cb0dec-0d57-b1ec-d37f-308767b4233a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zJVHK213)
 
 - **Marma Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/7b/21/517b2196-68de-fe2d-d422-42d5ef603fd6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hcM99ZF8)
-- **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/93/49/e893496b-4a89-c744-6258-900895306df1/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
 
 - **EG-Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/5f/0a/3a5f0aa7-ac81-fac5-228c-ebeee772aabe/CTG-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XzHjpSPZ)
 
@@ -85,8 +84,6 @@
 - **STAR Global 3.3-v1.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 
 - **SNDV2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/3d/72/ce3d7205-4fe6-8079-e478-5908cdaaff55/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmgNwjPj)
-
-- **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ef/93/5fef939a-ec4f-f950-7b4d-3d0193b6c430/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
 
 - **FreemiumKit: In-App Purchases**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5d/41/ed5d4155-d917-7b90-5de3-d58f6ec2e8d0/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AhTsftRv)
 
