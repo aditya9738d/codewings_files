@@ -52,8 +52,6 @@
 
 - **Unify - Payjoin Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/14/5f/27145ff9-b0ae-b6b4-1feb-65fb19a25493/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WdlTdna)
 
-- **Fully Noded - Join Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/54/cd4f5459-20cd-3474-e521-ab3e4868103c/AppIcon-5-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCJpj8cZ)
-
 - **Dots. Memories: Photo & Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/89/0a/fd890a2e-2a2e-8a06-8562-766fabf0db67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bt4Wvavf)
 
 - **Tam Giới Phân Tranh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/cb/0d/44cb0dec-0d57-b1ec-d37f-308767b4233a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zJVHK213)
@@ -264,7 +262,6 @@
 - **ASEP Plugin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/27/66/8c2766f3-b7b2-ab07-77c0-3973ad24fff2/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hJBtHKQz)
 - **Veerl**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/c7/bf/b5c7bf5f-4d1b-efef-7c5f-ccc0501a380d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5iCVuC8J)
 - **Loot Legends: Rogue Dungeons**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/ec/55/aaec55d9-69ea-dcec-ce45-9bfa03c6bdd0/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D8RMsRKR)
-- **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 - **Indoor CO2 Data Collector**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/0b/a7/000ba7b1-10fd-2fc7-ba41-b5d60f2db08b/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OoHmnOVX)
 - **Sunday Reset**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/1a/87/e01a8793-2ba4-1657-8724-17fd250ace70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b9yd4CRE)
 - **AmanaTa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/05/90/65059029-5f30-a2dc-b4ed-7ba53d642244/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7BbyzYKv)
