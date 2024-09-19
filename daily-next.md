@@ -1,8 +1,6 @@
 - **CheapCharts - Digital Deals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/9c/7a/c19c7a5a-12b5-180e-3d09-e42d5dd782db/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZGiJbkWU)
 - **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1f/0e/0b1f0e4e-c6d8-d18f-21a2-dd9e40a230cf/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
 
-- **CheapCharts - Digital Deals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/9c/7a/c19c7a5a-12b5-180e-3d09-e42d5dd782db/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZGiJbkWU)
-- **MaruMori**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1f/0e/0b1f0e4e-c6d8-d18f-21a2-dd9e40a230cf/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MfpPbqCq)
 - **Juego de la Rana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/10/13/3b10130e-d9d8-5eb2-7390-d6a88a949591/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/3b6ujPfg)
 
 - **STAR Global Lite 3.4-v1.3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/2c/24/462c241f-d249-5c7b-e5b6-e45940eae360/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
