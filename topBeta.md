@@ -12,8 +12,6 @@
 - **DroidStar DMR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/a2/e4/66a2e457-3426-4b38-5ce7-4e882e0ba24f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zQp3HuMs)
 - **WeatherCastTest**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/5f/e5/165fe5ee-81c8-870e-aa35-fbf9818eeee7/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wc7ZQ9ux)
 
-- **Fully Noded - Join Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/54/cd4f5459-20cd-3474-e521-ab3e4868103c/AppIcon-5-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCJpj8cZ)
-
 - **Juego de la Rana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/10/13/3b10130e-d9d8-5eb2-7390-d6a88a949591/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/3b6ujPfg)
 
 - **STAR Global Lite 3.4-v1.3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/2c/24/462c241f-d249-5c7b-e5b6-e45940eae360/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
