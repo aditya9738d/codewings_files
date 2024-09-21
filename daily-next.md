@@ -4,9 +4,6 @@
 - **MuseScore: sheet music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/1b/08/5c1b089b-b016-e362-b2c3-0f1faff00e7a/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w7fkE6F)
 - **TELEX Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/75/66/a07566f1-a582-5d80-a912-41e370ae86d3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1fAbutzp)
 
-- **MuseScore: sheet music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/1b/08/5c1b089b-b016-e362-b2c3-0f1faff00e7a/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w7fkE6F)
-- **TELEX Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/75/66/a07566f1-a582-5d80-a912-41e370ae86d3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1fAbutzp)
-
 - **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/10/12/50101243-ee08-a190-0c14-3dc5653bdd12/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YtE2Q5BQ)
 - **Receipt Warrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d7/5e/bcd75eab-aad6-cc7f-4f8f-3c250145cc07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PsV5B6DB)
 
@@ -17,7 +14,6 @@
 - **SDVFR Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/bc/69/74bc6920-352d-dfe1-b3be-dc6d63a6a431/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AT7TlgcE)
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
-- **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
 - **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/ec/71/66ec7147-09f7-1790-7fad-906cc5915ed2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
 - **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 
@@ -48,8 +44,6 @@
 - **STAR Global Lite 3.4-v1.3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/2c/24/462c241f-d249-5c7b-e5b6-e45940eae360/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 
 - **Game Plus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/b6/d3/56b6d3b5-2717-4d0d-8edb-17571bfe6a5d/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dE783dF2)
-
-- **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/cd/0a/4fcd0a0c-0f70-2d2c-f206-1452b4403125/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
 
 - **CarX Drift Racing 3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e9/73/90e973e2-33aa-91ce-4234-fa8d1d1ff5cf/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/pJ9DutTv)
 
