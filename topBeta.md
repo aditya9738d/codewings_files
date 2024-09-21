@@ -1,7 +1,5 @@
 - **Shark IOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ec/60/b4ec6014-edee-88da-4ffc-048bb8fda64b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bB2HPTuY)
 
-- **Shark IOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ec/60/b4ec6014-edee-88da-4ffc-048bb8fda64b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bB2HPTuY)
-
 - **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/10/12/50101243-ee08-a190-0c14-3dc5653bdd12/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YtE2Q5BQ)
 - **Receipt Warrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d7/5e/bcd75eab-aad6-cc7f-4f8f-3c250145cc07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PsV5B6DB)
 
