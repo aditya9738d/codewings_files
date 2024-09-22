@@ -2,6 +2,10 @@
 - **Givity**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/04/9e/90049ee2-38ac-dfee-fad3-84b5ca56f08c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GrWeWLPG)
 - **BeePhotos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/3d/a4/b63da4cb-ab2e-2b1c-698c-f796d83e4569/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Ey9qsfQ)
 
+- **Fully Noded - Join Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/54/cd4f5459-20cd-3474-e521-ab3e4868103c/AppIcon-5-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCJpj8cZ)
+- **Givity**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/04/9e/90049ee2-38ac-dfee-fad3-84b5ca56f08c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GrWeWLPG)
+- **BeePhotos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/3d/a4/b63da4cb-ab2e-2b1c-698c-f796d83e4569/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Ey9qsfQ)
+
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
 - **DroidStar DMR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/a2/e4/66a2e457-3426-4b38-5ce7-4e882e0ba24f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zQp3HuMs)
 
