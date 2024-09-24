@@ -1,3 +1,6 @@
+- **Shark IOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ec/60/b4ec6014-edee-88da-4ffc-048bb8fda64b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bB2HPTuY)
+- **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
+
 - **Emma - Budget Planner Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/26/d1/4426d1d3-4768-3007-4326-b5ca92b37972/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bAUBcvcV)
 - **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/10/12/50101243-ee08-a190-0c14-3dc5653bdd12/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YtE2Q5BQ)
 
@@ -194,7 +197,3 @@
 - **OKX: Buy Bitcoin BTC & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/48/ff/4848ff06-cd36-5563-eb69-6daf4fff5b43/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/suzsfxod)
 
 - **CraigBot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/c5/9a/dac59a8d-8b0a-e741-90eb-e23afffb5abc/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/bNsRH4kh)
-
-- **Vibe AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/73/85/7d7385d3-4dfc-b877-1686-46eae35706b3/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/g0Zl8pVd)
-
-- **TPG Tapo Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/97/9f/84979f6e-5803-c6c7-2e70-7a1e9a8641c8/AppIcon-Beta-Big-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TlL8lXUE)
