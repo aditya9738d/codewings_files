@@ -40,9 +40,6 @@
 
 - **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 
-- **Fully Noded - Join Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/54/cd4f5459-20cd-3474-e521-ab3e4868103c/AppIcon-5-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCJpj8cZ)
-- **Givity**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/04/9e/90049ee2-38ac-dfee-fad3-84b5ca56f08c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GrWeWLPG)
-
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
 
 - **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
@@ -70,8 +67,6 @@
 - **Game Plus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/b6/d3/56b6d3b5-2717-4d0d-8edb-17571bfe6a5d/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dE783dF2)
 
 - **CarX Drift Racing 3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e9/73/90e973e2-33aa-91ce-4234-fa8d1d1ff5cf/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/pJ9DutTv)
-
-- **Personal UV Exposure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/23/c9/d123c9ae-636e-2ea5-960b-af81b649fa68/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tDDyaJvU)
 
 - **Hivemind Prod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/ad/fc/3fadfc17-8247-4315-6583-3237f2c13cf2/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jRuKdZkB)
 
