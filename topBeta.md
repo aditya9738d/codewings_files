@@ -1,9 +1,6 @@
 - **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 - **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
 
-- **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
-- **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
-
 - **BolaPetAlpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/0b/9e/dc0b9e7d-673e-b36e-0dbb-78633c56b571/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/vnuy1pT4)
 
 - **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/ec/71/66ec7147-09f7-1790-7fad-906cc5915ed2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
