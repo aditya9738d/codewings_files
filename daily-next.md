@@ -35,8 +35,6 @@
 - **DroidStar DMR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/a2/e4/66a2e457-3426-4b38-5ce7-4e882e0ba24f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zQp3HuMs)
 - **WeatherCastTest**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/5f/e5/165fe5ee-81c8-870e-aa35-fbf9818eeee7/AppIcon-0-0-1x_U007ephone-0-0-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wc7ZQ9ux)
 
-- **Anker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/2f/3c/352f3c88-9c14-615a-0a24-05a0c3d2f67d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tUHIXyHt)
-
 - **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
 
 - **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/06/d9/6906d9bd-dae9-c651-fd7e-a276f0cd1c1c/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
