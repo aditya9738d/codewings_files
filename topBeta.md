@@ -1,8 +1,6 @@
 - **wig flip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/df/e0/9ddfe0db-bbdb-05a0-df7b-f9464597a9b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vunydDwY)
 - **Line Scope**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/82/49/3b8249c9-59ab-07f1-774c-6f55bc57e89f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DhH9NQyU)
 
-- **wig flip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/df/e0/9ddfe0db-bbdb-05a0-df7b-f9464597a9b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vunydDwY)
-- **Line Scope**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/82/49/3b8249c9-59ab-07f1-774c-6f55bc57e89f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DhH9NQyU)
 - **LivestockFarm MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/f6/ba/2cf6bab5-1017-ffa9-feaf-778f8e9ace42/AppIcon-vd011-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NhQGfAuZ)
 
 - **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/10/12/50101243-ee08-a190-0c14-3dc5653bdd12/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YtE2Q5BQ)
