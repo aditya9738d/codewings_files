@@ -1,3 +1,6 @@
+- **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
+- **A Cat's Tale**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/fc/90/f2fc90b0-4c6f-c184-0c37-5a3fdf9395d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uM4vDARJ)
+
 - **TELEX Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/75/66/a07566f1-a582-5d80-a912-41e370ae86d3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1fAbutzp)
 - **World of Runner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/15/52/9c155293-9af8-a3da-84d4-ec47fdbbb58c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4Ru3fSCF)
 
