@@ -1,3 +1,6 @@
+- **TELEX Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/75/66/a07566f1-a582-5d80-a912-41e370ae86d3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1fAbutzp)
+- **World of Runner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/15/52/9c155293-9af8-a3da-84d4-ec47fdbbb58c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4Ru3fSCF)
+
 - **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 - **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
 - **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/ec/71/66ec7147-09f7-1790-7fad-906cc5915ed2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
@@ -194,7 +197,3 @@
 - **STAR Global Pro 3.4-v1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/42/3a/61423a8b-ab0a-7cac-bc86-0becfabedd33/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
 
 - **STAR Global 3.3-v1.6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f0/4b/09f04be6-4755-b43d-64dd-ab992902b583/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
-
-- **SNDV2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/3d/72/ce3d7205-4fe6-8079-e478-5908cdaaff55/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmgNwjPj)
-
-- **FreemiumKit: In-App Purchases**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/5d/41/ed5d4155-d917-7b90-5de3-d58f6ec2e8d0/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AhTsftRv)
