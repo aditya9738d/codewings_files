@@ -42,8 +42,6 @@
 
 - **Looking Glass Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ba/ef/63baef35-bf18-a30f-df0c-9b242d1cce1c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FFLthjud)
 
-- **Shark IOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ec/60/b4ec6014-edee-88da-4ffc-048bb8fda64b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bB2HPTuY)
-
 - **Google Pay for Business**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/92/98/929298c0-7a4f-e996-2561-030c7ac54aa4/logo_google_pay_for_business_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/gpaXZTAW)
 
 - **Fully Noded - Join Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/54/cd4f5459-20cd-3474-e521-ab3e4868103c/AppIcon-5-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCJpj8cZ)
