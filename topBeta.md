@@ -29,14 +29,11 @@
 
 - **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/10/12/50101243-ee08-a190-0c14-3dc5653bdd12/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YtE2Q5BQ)
 
-- **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 - **A Cat's Tale**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/fc/90/f2fc90b0-4c6f-c184-0c37-5a3fdf9395d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uM4vDARJ)
 
 - **Forward - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/f2/e6/89f2e66c-abff-0258-d342-04be93206ca9/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
 
 - **Looking Glass Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ba/ef/63baef35-bf18-a30f-df0c-9b242d1cce1c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FFLthjud)
-
-- **SDVFR Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/bc/69/74bc6920-352d-dfe1-b3be-dc6d63a6a431/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AT7TlgcE)
 
 - **Shark IOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ec/60/b4ec6014-edee-88da-4ffc-048bb8fda64b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bB2HPTuY)
 
@@ -65,8 +62,6 @@
 - **Receipt Warrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d7/5e/bcd75eab-aad6-cc7f-4f8f-3c250145cc07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PsV5B6DB)
 
 - **BeePhotos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/3d/a4/b63da4cb-ab2e-2b1c-698c-f796d83e4569/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Ey9qsfQ)
-
-- **Alby Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/dd/fc/ebddfca0-7440-9dbb-ad1a-1f1bf0123c1b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mdZZ9bdA)
 
 - **Once Human**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P8z9Zbyj)
 
