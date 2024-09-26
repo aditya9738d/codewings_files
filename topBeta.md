@@ -2,7 +2,6 @@
 - **CheapCharts - Digital Deals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/9c/7a/c19c7a5a-12b5-180e-3d09-e42d5dd782db/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZGiJbkWU)
 - **null**: [![App Logo](https://testflight.apple.com/images/testflight-1200_27.jpg)](https://testflight.apple.com/join/aaxrhqBp)
 
-- **CheapCharts - Digital Deals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/9c/7a/c19c7a5a-12b5-180e-3d09-e42d5dd782db/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZGiJbkWU)
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
 
 - **Anker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/2f/3c/352f3c88-9c14-615a-0a24-05a0c3d2f67d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tUHIXyHt)
@@ -29,13 +28,10 @@
 - **A Cat's Tale**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/fc/90/f2fc90b0-4c6f-c184-0c37-5a3fdf9395d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uM4vDARJ)
 
 - **Forward - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/f2/e6/89f2e66c-abff-0258-d342-04be93206ca9/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
-- **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 
 - **Looking Glass Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ba/ef/63baef35-bf18-a30f-df0c-9b242d1cce1c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FFLthjud)
 
 - **SDVFR Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/bc/69/74bc6920-352d-dfe1-b3be-dc6d63a6a431/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AT7TlgcE)
-
-- **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
 - **Shark IOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ec/60/b4ec6014-edee-88da-4ffc-048bb8fda64b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bB2HPTuY)
 
