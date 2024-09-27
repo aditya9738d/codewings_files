@@ -70,8 +70,6 @@
 
 - **Kitsune for MyAnimeList**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/06/d9/6906d9bd-dae9-c651-fd7e-a276f0cd1c1c/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PgrnyTFZ)
 
-- **MuseScore: sheet music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/1b/08/5c1b089b-b016-e362-b2c3-0f1faff00e7a/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w7fkE6F)
-
 - **Receipt Warrior**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d7/5e/bcd75eab-aad6-cc7f-4f8f-3c250145cc07/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PsV5B6DB)
 
 - **BeePhotos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/3d/a4/b63da4cb-ab2e-2b1c-698c-f796d83e4569/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Ey9qsfQ)
