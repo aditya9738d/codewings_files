@@ -1,3 +1,7 @@
+- **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
+- **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/ec/71/66ec7147-09f7-1790-7fad-906cc5915ed2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
+- **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
+
 - **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/ec/71/66ec7147-09f7-1790-7fad-906cc5915ed2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
 - **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
 - **Fully Noded - Join Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/54/cd4f5459-20cd-3474-e521-ab3e4868103c/AppIcon-5-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCJpj8cZ)
