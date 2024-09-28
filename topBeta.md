@@ -45,7 +45,6 @@
 - **Alby Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/dd/fc/ebddfca0-7440-9dbb-ad1a-1f1bf0123c1b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mdZZ9bdA)
 - **SDVFR Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/5f/79/945f7907-7526-3083-2af4-410afc873700/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AT7TlgcE)
 
-- **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 - **CheapCharts - Digital Deals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/9c/7a/c19c7a5a-12b5-180e-3d09-e42d5dd782db/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZGiJbkWU)
 
 - **null**: [![App Logo](https://testflight.apple.com/images/testflight-1200_27.jpg)](https://testflight.apple.com/join/aaxrhqBp)
@@ -61,8 +60,6 @@
 - **LivestockFarm MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/f6/ba/2cf6bab5-1017-ffa9-feaf-778f8e9ace42/AppIcon-vd011-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NhQGfAuZ)
 
 - **A Cat's Tale**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/fc/90/f2fc90b0-4c6f-c184-0c37-5a3fdf9395d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uM4vDARJ)
-
-- **Forward - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/f2/e6/89f2e66c-abff-0258-d342-04be93206ca9/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
 
 - **Looking Glass Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ba/ef/63baef35-bf18-a30f-df0c-9b242d1cce1c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FFLthjud)
 
