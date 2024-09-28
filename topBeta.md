@@ -19,8 +19,6 @@
 
 - **Fully Noded - Join Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/54/cd4f5459-20cd-3474-e521-ab3e4868103c/AppIcon-5-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCJpj8cZ)
 
-- **MuseScore: sheet music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/1b/08/5c1b089b-b016-e362-b2c3-0f1faff00e7a/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w7fkE6F)
-
 - **MADFUT 25**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/8e/b5/708eb557-7db4-c662-a5e5-038aad72e1a8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYRuSXAa)
 - **SEEMOO CellGuard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/84/e6/3c84e6df-c251-3cd0-6eda-68363d3fd9aa/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HrsaoHM3)
 
@@ -1031,7 +1029,6 @@
 - **Surreal Machines Modnetic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/9d/a1/869da199-fabc-cd38-a801-661f898cc537/MagneticiOSAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8i9vrGky)
 - **Z One**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ef/7d/aeef7d32-7ade-f109-1929-ef558a737948/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KMAABDpy)
 - **Utgard: Path of Heroes 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/57/39/e4573952-f4ca-8d83-f792-7c700da66b3d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HBxzXZRs)
-- **LK-8386**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/3b/1f/2d3b1fce-691c-3f19-9f54-e70720e14aee/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5GNfSuGz)
 - **Web Filter - THCS Giảng Võ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/67/40/cb6740af-a5b9-8a81-cbe4-bdd34a22d69d/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/bVBbcF8U)
 - **3S NguyenHa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/11/5c/30115cfe-bc34-a364-c69f-82225afae728/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0RLMSOqi)
 - **Virgin Mobile KSA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/30/57/ad3057f5-e8c4-71e4-403e-add4766f6c24/AppIcon-0-0-1x_U007emarketing-0-5-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TPmuWFwT)
