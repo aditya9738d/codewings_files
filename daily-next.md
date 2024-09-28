@@ -2,8 +2,6 @@
 - **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
 - **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/ec/71/66ec7147-09f7-1790-7fad-906cc5915ed2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
 
-- **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
-- **Soccer Manager 2025 - Football**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/ec/71/66ec7147-09f7-1790-7fad-906cc5915ed2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5UZ93A7a)
 - **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
 
 - **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
@@ -59,8 +57,6 @@
 - **null**: [![App Logo](https://testflight.apple.com/images/testflight-1200_27.jpg)](https://testflight.apple.com/join/aaxrhqBp)
 
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
-
-- **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 
 - **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 
