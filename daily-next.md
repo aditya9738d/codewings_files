@@ -1,3 +1,6 @@
+- **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
+- **Givity**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/50/e9/aa50e940-8693-77be-6fcc-a9fa70bba25b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GrWeWLPG)
+
 - **Once Human**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P8z9Zbyj)
 - **Alby Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/dd/fc/ebddfca0-7440-9dbb-ad1a-1f1bf0123c1b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mdZZ9bdA)
 - **SDVFR Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/ef/16/08ef16ad-6896-88cc-59a3-985815a11340/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AT7TlgcE)
