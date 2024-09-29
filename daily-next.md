@@ -40,14 +40,10 @@
 
 - **BolaPetAlpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/0b/9e/dc0b9e7d-673e-b36e-0dbb-78633c56b571/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/vnuy1pT4)
 
-- **行動自然人憑證(UAT)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/d2/27/08d2273a-99ae-6914-1a4d-682d841fc5a3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hgJK6hK4)
-
 - **Google Pay for Business**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/f5/9a/c5f59af4-9b45-5d2f-aa0f-a6d617ee98ba/logo_google_pay_for_business_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/gpaXZTAW)
 - **TELEX Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/75/66/a07566f1-a582-5d80-a912-41e370ae86d3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1fAbutzp)
 
 - **Calorific - Nutrition Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/62/f3/6062f3c2-4b59-bd02-f7a4-cf704466b07a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GyJTmRWq)
-
-- **Shark IOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ec/60/b4ec6014-edee-88da-4ffc-048bb8fda64b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bB2HPTuY)
 
 - **BVG Tickets: Train, Bus & Tram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/2a/70/622a706e-fd23-bab8-ee0c-5fd75a400d63/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z1tFcuDE)
 
