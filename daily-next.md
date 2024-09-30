@@ -1,3 +1,7 @@
+- **World of Runner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/15/52/9c155293-9af8-a3da-84d4-ec47fdbbb58c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4Ru3fSCF)
+- **NRO 9X**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/80/3c/e3803c92-2799-f964-c654-1f4e21c0f324/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iBQpYuai)
+- **wig flip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/df/e0/9ddfe0db-bbdb-05a0-df7b-f9464597a9b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vunydDwY)
+
 - **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 - **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
 - **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
@@ -194,7 +198,3 @@
 - **Nro Sun Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/2f/b4/4f2fb45c-5f7a-38c6-9152-529aedf28b8f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VS8VEEC3)
 
 - **Suka数字卡片**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/3e/d8/653ed8d3-ca0c-2966-fdf4-78911bc0b21f/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/RUM3kTTF)
-
-- **STAR Global Pro 3.4-v1.2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/22/92/882292d4-2c23-1c7e-721f-85df1533d3c3/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
-
-- **STAR Global Pro 3.4-v1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/1a/fc/221afcd7-7c83-57d0-1f74-81c44f3695b9/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/We5AU9nj)
