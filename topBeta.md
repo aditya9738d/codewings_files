@@ -24,9 +24,6 @@
 
 - **TELEX Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/75/66/a07566f1-a582-5d80-a912-41e370ae86d3/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1fAbutzp)
 
-- **Cat Tapper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/1c/e1/311ce1ea-55ae-3976-4120-95377eceafc2/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GMRqeQjH)
-- **BolaPetAlpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/0b/9e/dc0b9e7d-673e-b36e-0dbb-78633c56b571/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/vnuy1pT4)
-
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 
 - **ALPiT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c5/e3/7dc5e31c-e25c-b4fe-60f0-3af56a510473/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lwjKv8oy)
@@ -69,8 +66,6 @@
 - **Calorific - Nutrition Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/62/f3/6062f3c2-4b59-bd02-f7a4-cf704466b07a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GyJTmRWq)
 
 - **BVG Tickets: Train, Bus & Tram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/2a/70/622a706e-fd23-bab8-ee0c-5fd75a400d63/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z1tFcuDE)
-
-- **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
 
 - **null**: [![App Logo](https://testflight.apple.com/images/testflight-1200_27.jpg)](https://testflight.apple.com/join/aaxrhqBp)
 
