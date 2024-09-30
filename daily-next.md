@@ -1,3 +1,6 @@
+- **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/be/340ebe67-0dc7-bc83-decf-e0c65c069978/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm62zLyL)
+- **DroidStar DMR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/a2/e4/66a2e457-3426-4b38-5ce7-4e882e0ba24f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zQp3HuMs)
+
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/78/da/ae78da9b-201e-bead-bdf0-bc603d796625/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RsasaCM6)
 - **Anker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/2f/3c/352f3c88-9c14-615a-0a24-05a0c3d2f67d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tUHIXyHt)
 
