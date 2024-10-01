@@ -1,6 +1,9 @@
 - **Line Scope**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/82/49/3b8249c9-59ab-07f1-774c-6f55bc57e89f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DhH9NQyU)
 - **Once Human**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P8z9Zbyj)
 
+- **Line Scope**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/82/49/3b8249c9-59ab-07f1-774c-6f55bc57e89f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DhH9NQyU)
+- **Once Human**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P8z9Zbyj)
+
 - **LK-8386**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/6b/63/bd6b63dc-4d26-f0fc-010f-b84dd213a4fa/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5GNfSuGz)
 
 - **Ana News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/cb/69/e5cb6989-966e-a4ff-3f86-a691f2d936be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qMsUhjMb)
