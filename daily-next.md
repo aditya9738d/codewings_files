@@ -35,7 +35,6 @@
 
 - **Polar (for Bear)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/cb/3f90cbce-9649-8e20-104d-59d3d8441c02/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmZaEhAn)
 
-- **World of Runner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/15/52/9c155293-9af8-a3da-84d4-ec47fdbbb58c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4Ru3fSCF)
 - **NRO 9X**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/80/3c/e3803c92-2799-f964-c654-1f4e21c0f324/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iBQpYuai)
 - **wig flip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/df/e0/9ddfe0db-bbdb-05a0-df7b-f9464597a9b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vunydDwY)
 
@@ -69,10 +68,6 @@
 - **SEEMOO CellGuard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/84/e6/3c84e6df-c251-3cd0-6eda-68363d3fd9aa/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HrsaoHM3)
 
 - **Flow: Voice Notes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ba/9b/a3ba9b7b-2eb8-274a-0574-c204da6cf181/AppIcon-0-0-1x_U007ephone-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yuBJNWJE)
-
-- **Google Pay for Business**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/f5/9a/c5f59af4-9b45-5d2f-aa0f-a6d617ee98ba/logo_google_pay_for_business_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/gpaXZTAW)
-
-- **Calorific - Nutrition Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/62/f3/6062f3c2-4b59-bd02-f7a4-cf704466b07a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GyJTmRWq)
 
 - **BVG Tickets: Train, Bus & Tram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/2a/70/622a706e-fd23-bab8-ee0c-5fd75a400d63/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z1tFcuDE)
 
