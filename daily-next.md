@@ -1,9 +1,6 @@
 - **MADFUT 25**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/8a/7d/0c8a7d59-7c99-f5f2-074b-70043981a24a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYRuSXAa)
 - **MuseScore: sheet music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/1b/08/5c1b089b-b016-e362-b2c3-0f1faff00e7a/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w7fkE6F)
 
-- **MADFUT 25**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/8a/7d/0c8a7d59-7c99-f5f2-074b-70043981a24a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYRuSXAa)
-- **MuseScore: sheet music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/1b/08/5c1b089b-b016-e362-b2c3-0f1faff00e7a/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1w7fkE6F)
-
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/a9/da/4aa9da87-1b57-2236-d2dd-fd2d7fb60f33/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 
 - **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
