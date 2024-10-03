@@ -1,9 +1,6 @@
 - **Alby Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/dd/fc/ebddfca0-7440-9dbb-ad1a-1f1bf0123c1b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mdZZ9bdA)
 - **ALPiT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c5/e3/7dc5e31c-e25c-b4fe-60f0-3af56a510473/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lwjKv8oy)
 
-- **Alby Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/dd/fc/ebddfca0-7440-9dbb-ad1a-1f1bf0123c1b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mdZZ9bdA)
-- **ALPiT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c5/e3/7dc5e31c-e25c-b4fe-60f0-3af56a510473/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lwjKv8oy)
-
 - **Once Human**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P8z9Zbyj)
 
 - **行動自然人憑證(UAT)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/d2/27/08d2273a-99ae-6914-1a4d-682d841fc5a3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hgJK6hK4)
