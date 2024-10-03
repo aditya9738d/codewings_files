@@ -19,8 +19,6 @@
 
 - **Moonlight XrOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/39/e1/0e39e1e5-52d9-fba2-5950-19fb2b7f0e55/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/poWcaME5)
 
-- **行動自然人憑證(UAT)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/d2/27/08d2273a-99ae-6914-1a4d-682d841fc5a3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hgJK6hK4)
-- **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
 - **BolaPetAlpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/0b/9e/dc0b9e7d-673e-b36e-0dbb-78633c56b571/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/vnuy1pT4)
 
 - **MADFUT 25**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/8a/7d/0c8a7d59-7c99-f5f2-074b-70043981a24a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYRuSXAa)
