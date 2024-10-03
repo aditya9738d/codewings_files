@@ -33,7 +33,6 @@
 
 - **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 - **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
-- **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
 
 - **Moonlight XrOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/39/e1/0e39e1e5-52d9-fba2-5950-19fb2b7f0e55/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/poWcaME5)
 
@@ -58,8 +57,6 @@
 - **Line Scope**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/82/49/3b8249c9-59ab-07f1-774c-6f55bc57e89f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DhH9NQyU)
 
 - **LK-8386**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/6b/63/bd6b63dc-4d26-f0fc-010f-b84dd213a4fa/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5GNfSuGz)
-
-- **Ana News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/cb/69/e5cb6989-966e-a4ff-3f86-a691f2d936be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qMsUhjMb)
 
 - **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/be/340ebe67-0dc7-bc83-decf-e0c65c069978/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm62zLyL)
 
