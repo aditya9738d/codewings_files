@@ -1,9 +1,7 @@
 - **Forward - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/a9/0d/05a90d78-00db-7b0d-b2a5-b77041a35cf0/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
 - **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 
-- **Forward - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/a9/0d/05a90d78-00db-7b0d-b2a5-b77041a35cf0/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
 - **SnyperApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/23/3d/81233dc4-acb9-adb0-2b8e-4aba2447bd51/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o2B6KQ9M)
-- **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 
 - **Thập Đại Anh Hùng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/5e/3f/ca5e3fa4-3294-1db9-25c8-b4179e019c2e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QTRCucjB)
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/e4/b3/71e4b322-69ca-fda8-228d-d585f742d5f9/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
