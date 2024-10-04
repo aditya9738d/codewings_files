@@ -2,6 +2,10 @@
 - **Thập Đại Anh Hùng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/5e/3f/ca5e3fa4-3294-1db9-25c8-b4179e019c2e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QTRCucjB)
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/e4/b3/71e4b322-69ca-fda8-228d-d585f742d5f9/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 
+- **LK-8386**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/6b/63/bd6b63dc-4d26-f0fc-010f-b84dd213a4fa/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5GNfSuGz)
+- **Thập Đại Anh Hùng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/5e/3f/ca5e3fa4-3294-1db9-25c8-b4179e019c2e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QTRCucjB)
+- **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/e4/b3/71e4b322-69ca-fda8-228d-d585f742d5f9/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
+
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
 - **Polar (for Bear)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/cb/3f90cbce-9649-8e20-104d-59d3d8441c02/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmZaEhAn)
 - **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/be/340ebe67-0dc7-bc83-decf-e0c65c069978/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm62zLyL)
