@@ -1,9 +1,7 @@
 - **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 - **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
 
-- **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 - **Nấm Lùn Xưa Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/97/f7/c297f790-bc47-9e12-1d0f-9ba3c6c658b7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tq7Jk7Wf)
-- **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
 
 - **LK-8386**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/6b/63/bd6b63dc-4d26-f0fc-010f-b84dd213a4fa/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5GNfSuGz)
 - **Thập Đại Anh Hùng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/5e/3f/ca5e3fa4-3294-1db9-25c8-b4179e019c2e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QTRCucjB)
