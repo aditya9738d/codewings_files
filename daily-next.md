@@ -1,3 +1,6 @@
+- **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
+- **Polar (for Bear)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/cb/3f90cbce-9649-8e20-104d-59d3d8441c02/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmZaEhAn)
+
 - **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
 - **Ana News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/cb/69/e5cb6989-966e-a4ff-3f86-a691f2d936be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qMsUhjMb)
 
@@ -195,5 +198,3 @@
 - **Notion Buddy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/83/e5/9483e572-dfe6-0621-a81b-e24493dd4507/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ZMqbEEFD)
 - **Graph My Runs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/a0/73/04a073f3-2f64-04d5-b5d2-ea6b2a38a8df/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZrVYHyuJ)
 - **Chand**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/98/c7/ba98c70d-1d3d-3e8b-fe17-9380f566a9ab/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/uxOsAKzu)
-- **Capture - Quick Notes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/9e/9a/469e9ade-0ac3-313c-ea5c-99eea7404fb0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iipKV4OA)
-- **PodwiseAI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/aa/16/afaa165f-0c65-a8f5-a512-c1f647059d23/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7h14gGwU)
