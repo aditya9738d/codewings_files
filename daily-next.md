@@ -6,15 +6,10 @@
 - **Thập Đại Anh Hùng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/5e/3f/ca5e3fa4-3294-1db9-25c8-b4179e019c2e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QTRCucjB)
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/e4/b3/71e4b322-69ca-fda8-228d-d585f742d5f9/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 
-- **LK-8386**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/6b/63/bd6b63dc-4d26-f0fc-010f-b84dd213a4fa/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5GNfSuGz)
-- **Thập Đại Anh Hùng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/5e/3f/ca5e3fa4-3294-1db9-25c8-b4179e019c2e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QTRCucjB)
-- **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/e4/b3/71e4b322-69ca-fda8-228d-d585f742d5f9/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
-
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
 - **Polar (for Bear)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/cb/3f90cbce-9649-8e20-104d-59d3d8441c02/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmZaEhAn)
 - **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/be/340ebe67-0dc7-bc83-decf-e0c65c069978/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm62zLyL)
 
-- **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
 - **Ana News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/cb/69/e5cb6989-966e-a4ff-3f86-a691f2d936be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qMsUhjMb)
 
 - **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/4d/4e/ad4d4e82-a940-6893-8df0-539f85770a8c/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
@@ -46,7 +41,6 @@
 
 - **DomoTown**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ea/a8/31eaa82c-a1ec-7406-0f0f-d1177c1de18a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yYWkE72G)
 
-- **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 - **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
 
 - **Moonlight XrOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/39/e1/0e39e1e5-52d9-fba2-5950-19fb2b7f0e55/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/poWcaME5)
