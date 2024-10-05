@@ -1,7 +1,5 @@
 - **Moonlight XrOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/39/e1/0e39e1e5-52d9-fba2-5950-19fb2b7f0e55/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/poWcaME5)
 
-- **Moonlight XrOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/39/e1/0e39e1e5-52d9-fba2-5950-19fb2b7f0e55/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/poWcaME5)
-
 - **레이싱 마스터(Racing Master)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/cd/04/20cd04ce-207e-06c8-23ac-d612ee32a66d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BCXPdeR9)
 - **eKharid Haryana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6d/49/ad6d491c-f912-060e-b487-86768b26056f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/T5w6WEwH)
 
