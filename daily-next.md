@@ -1,3 +1,7 @@
+- **Once Human**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P8z9Zbyj)
+- **Alby Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/dd/fc/ebddfca0-7440-9dbb-ad1a-1f1bf0123c1b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mdZZ9bdA)
+- **ALPiT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c5/e3/7dc5e31c-e25c-b4fe-60f0-3af56a510473/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lwjKv8oy)
+
 - **Moonlight XrOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/39/e1/0e39e1e5-52d9-fba2-5950-19fb2b7f0e55/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/poWcaME5)
 
 - **Moonlight XrOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/39/e1/0e39e1e5-52d9-fba2-5950-19fb2b7f0e55/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/poWcaME5)
@@ -194,7 +198,3 @@
 - **CardioBot: Heart Rate Monitor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/ca/48/12ca4801-ff28-8392-c8e6-ec327ea8ae52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H82FVVt6)
 - **Racing Master**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/ac/3c/b3ac3cd6-2479-52d6-354d-6189c0afa7bf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aaxrhqBp)
 - **Berry Investing**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/8f/3c/408f3c94-e0ef-4afd-596a-ed06c5218117/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oyT7iY90)
-- **BlockMesh Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/4c/b9/eb4cb99b-f961-c939-7380-00663ea66f2b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tH11GHv8)
-- **Spenzy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/c7/9a/2fc79acf-ad0d-75b7-cdc5-0ee1139219ea/AppIcon-0-1x_U007ephone-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SgAUctMC)
-- **SugarBot Carb Sugar Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/76/2c/bf762c91-0a2e-3255-89d4-718c08e752e2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DALmJA8b)
-- **Lunch: Web3 in Your Palms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d3/4c/fed34c69-938d-20cf-ed7e-bdcf615ce3dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXss3kEl)
