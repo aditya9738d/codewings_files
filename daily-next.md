@@ -13,7 +13,6 @@
 - **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/be/340ebe67-0dc7-bc83-decf-e0c65c069978/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm62zLyL)
 - **DroidStar DMR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/a2/e4/66a2e457-3426-4b38-5ce7-4e882e0ba24f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zQp3HuMs)
 
-- **Line Scope**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/82/49/3b8249c9-59ab-07f1-774c-6f55bc57e89f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DhH9NQyU)
 - **Once Human**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P8z9Zbyj)
 
 - **Alby Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/dd/fc/ebddfca0-7440-9dbb-ad1a-1f1bf0123c1b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mdZZ9bdA)
@@ -169,7 +168,6 @@
 - **Avici -Buy bitcoin with UPI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/f2/a4/d1f2a428-9bdc-3ea2-fb33-72913464c785/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Rl2vfoRy)
 - **Vibe City — online RP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/0e/a3/6c0ea309-0210-11bc-452e-fb280036f692/vc-icon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/grq8pYrj)
 - **tacklebox_ripple**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/4d/53/dc4d53c8-ad65-77db-dd3b-567724a2bbaf/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/erM6j4p4)
-- **Finy - Navigate your Finances**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/57/47/a15747c3-563a-24ff-83f0-125450187241/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MkTX9AHt)
 - **Dunk City Dynasty**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/25/b9/8125b9d9-1c1f-5a79-7804-ac243f9f24d6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ckhCS8fK)
 - **Onboard Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/1c/a8/e01ca8a1-5ec8-4ee2-c730-a9e58a57b6f3/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XJU5cuus)
 - **Loomlab**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/ad/5f/caad5f76-828e-388e-862f-3420e63289b0/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QNmRjxDC)
