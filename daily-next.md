@@ -1,3 +1,7 @@
+- **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
+- **Word of the Day by LookUp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/3d/2b/3c3d2b42-6d56-c597-71d3-0c7bbb7d6046/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XLVl74eV)
+- **Metal MJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/a6/41/b9a64121-057b-ce50-8d4f-f4102f716caf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EFNvO4Dw)
+
 - **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
 
 - **Loopy Pro: Looper DAW Sampler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/53/e8/2b53e8db-a6e5-0485-e904-644f946a33aa/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcojkh32)
@@ -194,5 +198,3 @@
 - **RFF - red flags finder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/bc/9c/82bc9c5f-10c0-9aff-cbb3-0490c9a532c2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RN2vQCXp)
 - **Laguna: High EQ Matchmaking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/20/f1/fe20f188-a9e1-93b2-1687-ca804632e048/AppIcon-1x_U007epad-0-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/jWmWd85y)
 - **TiTi App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/0f/26/9b0f2638-52c8-333c-82b1-173a5f150019/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NeXUqMRv)
-- **X.AR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/0e/fc/8a0efc0d-0ce3-58aa-1168-4354e98de14e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/smDJLIHx)
-- **MyndMap**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/96/95/0e9695a5-7640-db1b-6d43-b4e63301e11f/MyndMap-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uFGDrNnN)
