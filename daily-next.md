@@ -1,3 +1,6 @@
+- **Once Human**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P8z9Zbyj)
+- **ALPiT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c5/e3/7dc5e31c-e25c-b4fe-60f0-3af56a510473/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lwjKv8oy)
+
 - **LK-8386**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/6b/63/bd6b63dc-4d26-f0fc-010f-b84dd213a4fa/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5GNfSuGz)
 
 - **LK-8386**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/6b/63/bd6b63dc-4d26-f0fc-010f-b84dd213a4fa/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5GNfSuGz)
@@ -195,6 +198,3 @@
 - **MyndMap**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/96/95/0e9695a5-7640-db1b-6d43-b4e63301e11f/MyndMap-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uFGDrNnN)
 - **Rebel Skies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/e0/8b/d9e08b94-f26e-f882-5b5f-c507ff0ffb49/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAPGP3FP)
 - **Embers - Health Streaks**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/16/09/731609f1-e2ef-efb6-af8f-476717c47d7f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/X8R16tzr)
-- **Peach Bitcoin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/10/6c/f4106ce6-34d7-c869-dd94-3d02fe02623d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wfSPFEWG)
-- **CardioBot: Heart Rate Monitor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/ca/48/12ca4801-ff28-8392-c8e6-ec327ea8ae52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H82FVVt6)
-- **Racing Master**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/ac/3c/b3ac3cd6-2479-52d6-354d-6189c0afa7bf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aaxrhqBp)
