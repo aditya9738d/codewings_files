@@ -42,8 +42,6 @@
 
 - **Finy - Navigate your Finances**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/57/47/a15747c3-563a-24ff-83f0-125450187241/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MkTX9AHt)
 
-- **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
-- **Word of the Day by LookUp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/3d/2b/3c3d2b42-6d56-c597-71d3-0c7bbb7d6046/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XLVl74eV)
 - **SnyperApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/23/3d/81233dc4-acb9-adb0-2b8e-4aba2447bd51/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o2B6KQ9M)
 
 - **Nowa Online World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/b0/5a/66b05a6f-2200-26a1-66ee-a22e98bd6b8c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6QAZyVny)
@@ -1032,7 +1030,6 @@
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/db/82/46db82bf-758b-f348-be1e-d78bf3cdc835/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
 - **MultiplayerTest**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/ca/e1/cdcae10f-5770-2200-de9b-77321bd39554/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6anC7WJE)
 - **《财富》杂志新闻App - 财富Plus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/00/1b/84001baa-d899-c091-41c6-e73204a114ae/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4leAf1RV)
-- **Metal MJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/20/df/2a20dfd0-15d8-3d1b-a3fe-d6f6726ee762/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EFNvO4Dw)
 - **Lịch Cắt Điện**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/81/a3/0f81a318-da45-72ab-2be7-049f9e6a5b14/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7VgWxRvt)
 - **益澜巡店**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/e7/ca/93e7cac5-e73c-b0f7-7b33-bb0984bdde93/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p0HpvUMR)
 - **商社通**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/6f/de/6d6fde72-3f55-e435-2a0f-2fcf68710c81/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/EIsdcyad)
