@@ -33,8 +33,6 @@
 
 - **Metal MJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/a6/41/b9a64121-057b-ce50-8d4f-f4102f716caf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EFNvO4Dw)
 
-- **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
-
 - **Loopy Pro: Looper DAW Sampler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/53/e8/2b53e8db-a6e5-0485-e904-644f946a33aa/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcojkh32)
 - **Оплата QR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/46/7d/b8467dc0-91d2-fba4-46ff-f07e00e36ffa/AppIcon-0-0-1x_U007ephone-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vBz2UI64)
 
@@ -79,7 +77,6 @@
 
 - **Forward - 新视界**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/a9/0d/05a90d78-00db-7b0d-b2a5-b77041a35cf0/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7Nsb3Eu4)
 
-- **行動自然人憑證(UAT)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/d2/27/08d2273a-99ae-6914-1a4d-682d841fc5a3/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hgJK6hK4)
 - **BolaPetAlpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/0b/9e/dc0b9e7d-673e-b36e-0dbb-78633c56b571/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/vnuy1pT4)
 
 - **Calorific - Nutrition Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/62/f3/6062f3c2-4b59-bd02-f7a4-cf704466b07a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GyJTmRWq)
