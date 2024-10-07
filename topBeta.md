@@ -1,6 +1,9 @@
 - **Line Scope**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/82/49/3b8249c9-59ab-07f1-774c-6f55bc57e89f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DhH9NQyU)
 - **Finy - Navigate your Finances**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/57/47/a15747c3-563a-24ff-83f0-125450187241/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MkTX9AHt)
 
+- **Line Scope**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/82/49/3b8249c9-59ab-07f1-774c-6f55bc57e89f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DhH9NQyU)
+- **Finy - Navigate your Finances**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/57/47/a15747c3-563a-24ff-83f0-125450187241/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MkTX9AHt)
+
 - **Once Human**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P8z9Zbyj)
 - **레이싱 마스터(Racing Master)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/cd/04/20cd04ce-207e-06c8-23ac-d612ee32a66d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BCXPdeR9)
 
