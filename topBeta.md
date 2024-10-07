@@ -66,8 +66,6 @@
 - **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 - **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
 
-- **Nấm Lùn Xưa Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/97/f7/c297f790-bc47-9e12-1d0f-9ba3c6c658b7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tq7Jk7Wf)
-
 - **Ana News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/cb/69/e5cb6989-966e-a4ff-3f86-a691f2d936be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qMsUhjMb)
 
 - **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/4d/4e/ad4d4e82-a940-6893-8df0-539f85770a8c/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
@@ -1028,7 +1026,6 @@
 - **NewFans**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/9b/85/709b85e0-1244-54ec-fe90-a31189233268/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4mhK7o2D)
 - **Minh Chủ Võ Lâm Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/dc/65/70dc6571-85ab-a26d-dcba-28784777206c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/M2mZ82TP)
 - **FarHouse**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/da/77/2ada7731-e76d-8642-4f7d-4648c860554d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JxoM7iKZ)
-- **My Macros+ | Diet & Calories**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/39/3f/93393f05-e932-8c85-17f6-2904fc7389f0/AppIcon2022-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D57uwXTy)
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/db/82/46db82bf-758b-f348-be1e-d78bf3cdc835/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
 - **MultiplayerTest**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/ca/e1/cdcae10f-5770-2200-de9b-77321bd39554/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6anC7WJE)
 - **《财富》杂志新闻App - 财富Plus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/00/1b/84001baa-d899-c091-41c6-e73204a114ae/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4leAf1RV)
