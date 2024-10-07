@@ -1,9 +1,6 @@
 - **Ngoc Rong Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/5a/82/f45a82f3-d45f-8a70-9b2f-865561b39488/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kCUaeHcu)
 - **World of Runner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/15/52/9c155293-9af8-a3da-84d4-ec47fdbbb58c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4Ru3fSCF)
 
-- **Ngoc Rong Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/5a/82/f45a82f3-d45f-8a70-9b2f-865561b39488/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kCUaeHcu)
-- **World of Runner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/15/52/9c155293-9af8-a3da-84d4-ec47fdbbb58c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4Ru3fSCF)
-
 - **Aurory: Seekers Of Tokane**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/58/3f/74583ff9-bf0a-fda2-d722-fd41aed8ba14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FuaxsScP)
 
 - **Once Human**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P8z9Zbyj)
