@@ -1,3 +1,7 @@
+- **MyCloz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/af/c3/f3afc362-a29a-55b3-7ab3-81ab1529c9ec/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M8mJqDyf)
+- **Rebel Skies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d9/20/7fd92030-5c20-a3e5-5138-6551fc605353/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAPGP3FP)
+- **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
+
 - **Line Scope**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/82/49/3b8249c9-59ab-07f1-774c-6f55bc57e89f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DhH9NQyU)
 
 - **Finy - Navigate your Finances**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/57/47/a15747c3-563a-24ff-83f0-125450187241/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MkTX9AHt)
@@ -194,4 +198,3 @@
 - **Dunk City Dynasty**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/25/b9/8125b9d9-1c1f-5a79-7804-ac243f9f24d6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ckhCS8fK)
 - **Onboard Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/1c/a8/e01ca8a1-5ec8-4ee2-c730-a9e58a57b6f3/prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XJU5cuus)
 - **Loomlab**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/ad/5f/caad5f76-828e-388e-862f-3420e63289b0/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QNmRjxDC)
-- **THORWallet: DeFi Crypto Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/bd/e8/9ebde80b-1f89-e51c-0d24-3039dc69d63c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/f5LW68I8)
