@@ -87,8 +87,6 @@
 
 - **Calorific - Nutrition Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/62/f3/6062f3c2-4b59-bd02-f7a4-cf704466b07a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GyJTmRWq)
 
-- **Anker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/2f/3c/352f3c88-9c14-615a-0a24-05a0c3d2f67d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tUHIXyHt)
-
 - **Foto Inc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/bc/e4/16bce43f-34f7-62db-0aeb-865f9255ca70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6nXMFbZd)
 
 - **A Better Routeplanner (ABRP)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/27/74/6a27749f-5510-0137-16ca-764f22091514/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uX9LuvcQ)
