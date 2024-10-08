@@ -3,7 +3,6 @@
 
 - **Anker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/2f/3c/352f3c88-9c14-615a-0a24-05a0c3d2f67d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tUHIXyHt)
 
-- **Rebel Skies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d9/20/7fd92030-5c20-a3e5-5138-6551fc605353/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAPGP3FP)
 - **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
 
 - **MyCloz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/af/c3/f3afc362-a29a-55b3-7ab3-81ab1529c9ec/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M8mJqDyf)
@@ -49,8 +48,6 @@
 
 - **Loopy Pro: Looper DAW Sampler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/53/e8/2b53e8db-a6e5-0485-e904-644f946a33aa/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcojkh32)
 - **Оплата QR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/46/7d/b8467dc0-91d2-fba4-46ff-f07e00e36ffa/AppIcon-0-0-1x_U007ephone-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vBz2UI64)
-
-- **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/be/340ebe67-0dc7-bc83-decf-e0c65c069978/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm62zLyL)
 
 - **wig flip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/df/e0/9ddfe0db-bbdb-05a0-df7b-f9464597a9b8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vunydDwY)
 
