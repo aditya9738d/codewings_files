@@ -1,3 +1,7 @@
+- **Metal MJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/a6/41/b9a64121-057b-ce50-8d4f-f4102f716caf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EFNvO4Dw)
+- **SnyperApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/23/3d/81233dc4-acb9-adb0-2b8e-4aba2447bd51/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o2B6KQ9M)
+- **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
+
 - **SnyperApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/23/3d/81233dc4-acb9-adb0-2b8e-4aba2447bd51/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o2B6KQ9M)
 - **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 
