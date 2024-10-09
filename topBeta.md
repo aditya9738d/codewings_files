@@ -1,3 +1,6 @@
+- **Partying 交友**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/bc/36/fdbc36b0-49ab-ce29-8a63-20cc780a305f/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XfyVnuyj)
+- **Odinize**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/27/c8/3527c863-23cb-c062-ef3f-d1b2d9872cbb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YRjVP8jc)
+
 - **DomoTown**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ea/a8/31eaa82c-a1ec-7406-0f0f-d1177c1de18a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yYWkE72G)
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
 
