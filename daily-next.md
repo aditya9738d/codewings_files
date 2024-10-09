@@ -1,3 +1,7 @@
+- **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/4e/24684ecd-4357-0629-02c8-f80c964ea37b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
+- **Nấm Lùn Xưa Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/97/f7/c297f790-bc47-9e12-1d0f-9ba3c6c658b7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tq7Jk7Wf)
+- **My Macros+ | Diet & Calories**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/cd/4f/cccd4f1a-b1e1-7761-3996-30259b50c719/AppIcon2022-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D57uwXTy)
+
 - **Blink - Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/39/f0/aa39f08e-baa5-1545-123c-4f7cad5675f9/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Ao8gxyG)
 
 - **Polar (for Bear)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/cb/3f90cbce-9649-8e20-104d-59d3d8441c02/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmZaEhAn)
@@ -194,4 +198,3 @@
 - **Photoshop Elements**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/a3/4d/50a34d73-faa3-cab6-f55c-43ec9ba64005/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/N4YKiwrf)
 - **Microsoft Edge: AI Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/cd/17/45cd179a-7bd7-0cc6-3f38-7b4e3cb4492c/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JkU2rh21?form=MD1A06)
 - **Secure VPN & Proxy – Kaspersky**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/c9/0e/63c90e66-4ade-6c2a-ba0c-aa32ff13e499/AppIcon-0-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZqcWekcm)
-- **Aura Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/0f/8c/d20f8cb1-bf21-f6c2-15b3-0f5da69dc512/iOS_18_Icon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d6qMDVDH)
