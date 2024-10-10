@@ -1,3 +1,7 @@
+- **Metal MJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/a6/41/b9a64121-057b-ce50-8d4f-f4102f716caf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EFNvO4Dw)
+- **SnyperApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/23/3d/81233dc4-acb9-adb0-2b8e-4aba2447bd51/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o2B6KQ9M)
+- **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
+
 - **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 - **Game VIP 12**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/73/83/8073838d-95d8-a484-7081-4eec7422f66f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/H4NsEXZq)
 
@@ -194,7 +198,3 @@
 - **Wallpunch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/95/a5/a895a5c5-54e2-c9a0-059b-6599abc58e54/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/B3uRqpbk)
 - **Exodus: GBW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/04/cd/d004cd32-214f-b997-ad81-b69457734b68/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Ej69tE2v)
 - **Sumyt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/8d/90/0a8d9002-35ed-aa0a-9fdc-aeb454c0d0fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zqk89NSw)
-- **Infuse • Video Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/ff/ea/93ffeae3-ed9a-e5e5-f313-786ac8d761ad/AppIconLight-0-0-1x_U007emarketing-0-7-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mS6Ww3gC)
-- **AI Photo Enhancer - Nero Lens**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/af/69/e6af69cd-0255-579a-0797-b873f905fc57/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ovS85vhw)
-- **MEXC-Buy & Sell Bitcoin.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/9c/10/f79c1095-ebae-48f9-e7d3-815b498e2c10/AppIcon-Blue-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3bAy4iek)
-- **Photoshop Elements**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/a3/4d/50a34d73-faa3-cab6-f55c-43ec9ba64005/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/N4YKiwrf)
