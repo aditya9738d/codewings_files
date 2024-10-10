@@ -5,10 +5,6 @@
 - **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 - **Game VIP 12**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/73/83/8073838d-95d8-a484-7081-4eec7422f66f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/H4NsEXZq)
 
-- **Ana News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/73/e9/2a73e941-0d09-31a2-814e-a37562e87876/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qMsUhjMb)
-- **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
-- **Game VIP 12**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/73/83/8073838d-95d8-a484-7081-4eec7422f66f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/H4NsEXZq)
-
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8b/5a/6c8b5aa1-7f3d-5234-e2a4-58d2b8df3fe8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 - **MADFUT 25**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/8a/7d/0c8a7d59-7c99-f5f2-074b-70043981a24a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYRuSXAa)
 
@@ -37,7 +33,6 @@
 - **Odinize**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/27/c8/3527c863-23cb-c062-ef3f-d1b2d9872cbb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YRjVP8jc)
 
 - **DomoTown**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ea/a8/31eaa82c-a1ec-7406-0f0f-d1177c1de18a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yYWkE72G)
-- **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
 
 - **PS Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/fb/8f/d9fb8f3a-1166-284d-734f-502decb93e29/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Cj8mJQDw)
 
