@@ -1,3 +1,6 @@
+- **Scoop3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/3f/8f/443f8f15-a097-ecaa-ab38-ee6004b0803c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ynUk5mpm)
+- **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
+
 - **Ana News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/73/e9/2a73e941-0d09-31a2-814e-a37562e87876/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qMsUhjMb)
 - **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 - **Game VIP 12**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/73/83/8073838d-95d8-a484-7081-4eec7422f66f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/H4NsEXZq)
@@ -195,5 +198,3 @@
 - **AI Photo Enhancer - Nero Lens**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/af/69/e6af69cd-0255-579a-0797-b873f905fc57/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ovS85vhw)
 - **MEXC-Buy & Sell Bitcoin.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/9c/10/f79c1095-ebae-48f9-e7d3-815b498e2c10/AppIcon-Blue-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3bAy4iek)
 - **Photoshop Elements**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/a3/4d/50a34d73-faa3-cab6-f55c-43ec9ba64005/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/N4YKiwrf)
-- **Microsoft Edge: AI Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/cd/17/45cd179a-7bd7-0cc6-3f38-7b4e3cb4492c/AppIcon-0-1x_U007epad-0-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JkU2rh21?form=MD1A06)
-- **Secure VPN & Proxy – Kaspersky**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/c9/0e/63c90e66-4ade-6c2a-ba0c-aa32ff13e499/AppIcon-0-1x_U007epad-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZqcWekcm)
