@@ -29,7 +29,6 @@
 - **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
 - **Ana News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/07/3b/72073b1c-c3da-6b73-2157-990b7c596755/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qMsUhjMb)
 
-- **Blink - Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/39/f0/aa39f08e-baa5-1545-123c-4f7cad5675f9/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Ao8gxyG)
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8b/5a/6c8b5aa1-7f3d-5234-e2a4-58d2b8df3fe8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
@@ -42,7 +41,6 @@
 - **SnyperApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/23/3d/81233dc4-acb9-adb0-2b8e-4aba2447bd51/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o2B6KQ9M)
 - **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 
-- **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 - **Game VIP 12**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/73/83/8073838d-95d8-a484-7081-4eec7422f66f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/H4NsEXZq)
 
 - **Vibe: AI Dating Copilot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/aa/a4/a7aaa4da-0042-b25b-697d-e56b62e4c287/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/g0Zl8pVd)
