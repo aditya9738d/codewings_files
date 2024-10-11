@@ -1,8 +1,6 @@
 - **Blink - Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/39/f0/aa39f08e-baa5-1545-123c-4f7cad5675f9/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Ao8gxyG)
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8b/5a/6c8b5aa1-7f3d-5234-e2a4-58d2b8df3fe8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 
-- **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8b/5a/6c8b5aa1-7f3d-5234-e2a4-58d2b8df3fe8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
-
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
 - **Polar (for Bear)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/cb/3f90cbce-9649-8e20-104d-59d3d8441c02/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmZaEhAn)
 
@@ -6439,7 +6437,6 @@
 - **Life Counter for Games & TGCs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/0a/49/b90a49ed-7312-8c68-ee81-a58306a40b3a/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UIXu5KP9)
 - **CyBix+ QA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/fc/6d/eefc6d76-8ee0-0b55-0cc7-3c1aa0242fc3/CyBixPlusQAIconWhite-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bZMIfLcC)
 - **Highlight: Daydreams w Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/f5/19/18f519cb-2b2f-ffe9-2a1c-af1e487aed59/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PMP6eGbW)
-- **Blink - Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/9d/53/3d9d5369-dce4-bebe-1c04-9ddbb75cd5c6/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Ao8gxyG)
 - **Mi Home - Manage smart devices**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/0e/e3/520ee30c-2aca-1d97-fe84-163b8f8fa6e5/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VNM3OudY)
 - **StoleMyKia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/60/22/866022a9-e555-b760-b5a7-7a41a3e73ff9/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9YEgwA7x)
 - **CareServer - SSH,SFTP,Terminal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/71/e2/9471e22a-f4a9-8acd-05d9-3afe0a2700e9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W6xlfEfj)
