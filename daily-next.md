@@ -1,3 +1,7 @@
+- **COROS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/83/2a/f4832a17-46a6-10b0-a3ac-2eec9ba00b4e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ytW7Pwzm)
+- **iO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/e0/cd/1ce0cd62-7021-ca1f-49f1-697ed5d91a28/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Iu2Ak4pj)
+- **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
+
 - **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/4e/24684ecd-4357-0629-02c8-f80c964ea37b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
 
 - **Prota: Find & Test Beta Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/a9/9e/a4a99ec1-ea0b-24fe-a12d-d737be63b5d1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A9hdmmrx)
@@ -194,5 +198,3 @@
 - **memento File Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/5f/eb/985feb42-56a8-f58b-96ac-4027f24694ad/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ohRS4Pd4)
 - **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f5/74/f1f574aa-b60e-84ee-8cb1-3c5828b19207/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
 - **Story: Spatial Storytelling**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/1f/dd/cd1fddaa-30ff-782b-789e-25db44e43630/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jJhtpGNx)
-- **S Node**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/e4/da/59e4da25-6ba1-9872-9885-dd4523a8fbaa/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/v6hQPX5p)
-- **Wallpunch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/95/a5/a895a5c5-54e2-c9a0-059b-6599abc58e54/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/B3uRqpbk)
