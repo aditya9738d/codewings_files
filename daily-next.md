@@ -41,7 +41,6 @@
 
 - **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/be/340ebe67-0dc7-bc83-decf-e0c65c069978/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm62zLyL)
 
-- **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/4e/24684ecd-4357-0629-02c8-f80c964ea37b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
 - **Nấm Lùn Xưa Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/97/f7/c297f790-bc47-9e12-1d0f-9ba3c6c658b7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tq7Jk7Wf)
 
 - **PandemicMatch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/54/3e/55543ee7-e978-ace5-b6be-d29296ff47fc/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5sHGJNQw)
