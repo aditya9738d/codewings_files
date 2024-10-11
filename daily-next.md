@@ -1,8 +1,6 @@
 - **Blink - Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/39/f0/aa39f08e-baa5-1545-123c-4f7cad5675f9/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Ao8gxyG)
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8b/5a/6c8b5aa1-7f3d-5234-e2a4-58d2b8df3fe8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 
-- **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8b/5a/6c8b5aa1-7f3d-5234-e2a4-58d2b8df3fe8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
-
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
 - **Polar (for Bear)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/cb/3f90cbce-9649-8e20-104d-59d3d8441c02/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmZaEhAn)
 
@@ -32,8 +30,6 @@
 - **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/4e/24684ecd-4357-0629-02c8-f80c964ea37b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
 - **Nấm Lùn Xưa Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/97/f7/c297f790-bc47-9e12-1d0f-9ba3c6c658b7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tq7Jk7Wf)
 - **My Macros+ | Diet & Calories**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/cd/4f/cccd4f1a-b1e1-7761-3996-30259b50c719/AppIcon2022-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D57uwXTy)
-
-- **Blink - Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/39/f0/aa39f08e-baa5-1545-123c-4f7cad5675f9/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Ao8gxyG)
 
 - **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
 - **PandemicMatch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/54/3e/55543ee7-e978-ace5-b6be-d29296ff47fc/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5sHGJNQw)
