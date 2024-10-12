@@ -1,3 +1,7 @@
+- **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
+- **Partying 交友**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/f0/af/0ff0aff9-6801-329c-7cbd-788d3dd43665/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XfyVnuyj)
+- **Blink - Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/39/f0/aa39f08e-baa5-1545-123c-4f7cad5675f9/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Ao8gxyG)
+
 - **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
 - **Metal MJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/a6/41/b9a64121-057b-ce50-8d4f-f4102f716caf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EFNvO4Dw)
 - **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
