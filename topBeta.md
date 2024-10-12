@@ -26,8 +26,6 @@
 - **COROS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/83/2a/f4832a17-46a6-10b0-a3ac-2eec9ba00b4e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ytW7Pwzm)
 - **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
 
-- **Loopy Pro: Looper DAW Sampler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/10/a6/4810a6e3-be2b-87f4-8f2e-5bbb40d56f0f/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcojkh32)
-
 - **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
 
 - **iO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/e0/cd/1ce0cd62-7021-ca1f-49f1-697ed5d91a28/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Iu2Ak4pj)
@@ -869,7 +867,6 @@
 - **Nossa360**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/14/c6/5214c6a3-6ec1-d50c-e56d-3c89dbbfcfb4/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OtFKeRgK)
 - **Cartographer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/21/2b/d2212b6c-5674-43e2-6ceb-7d688a0a86ea/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kP8RSyx1)
 - **GoVJ: VJ video mixer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/ae/0b/59ae0b3e-acc7-46bc-c8e9-5f0c66eb1285/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oJiYOGxV)
-- **Nasalbait - FCB Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/7d/96/2f7d96a3-0eb7-e006-9d18-83ea5176e402/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8sEQVAG7)
 - **Bach Ho Order**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/3d/b4/553db483-ae2b-5c76-308e-a271cf30402d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rAr1YgWC)
 - **Xapo Bank Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/bf/60/f4bf60fc-52ca-dd1f-1dc4-fcc42c8a443c/AppIcon.development-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iEavyeVn)
 - **MuChaos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/d0/e3/03d0e391-cf5a-d5c8-1d3f-93696fb8053c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/9ozviiVN)
@@ -4700,7 +4697,6 @@
 - **My Whole Body Prayer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/8c/66/238c6677-c6d0-0c1c-82d1-eb7027e14dab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mqwLqWUn)
 - **Wingman (Beta)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e8/c6/14e8c64c-3215-c5ac-0f85-66ca2db960ce/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/I63dW4bi)
 - **Robinhood: Investing for All**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/3e/6d/b13e6dc5-aa57-e0f5-ba1a-5665a5996887/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fjVk6ZOE)
-- **My Bank Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/80/a5/a580a5bf-77f3-b47a-dee6-e0e7a66e94d2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ukGDuc5w)
 - **Walbi: AI Crypto Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/26/7f/5e267fd8-ec7a-1bfb-df01-66b3635f5879/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/QRbXi8u3)
 - **Xugo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/a2/e5/b6a2e573-fde0-2e4f-312f-56363b96d06f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VSieJO4O)
 - **AI Keyboard・ReplyAssistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/d5/c8/64d5c816-4b54-eb29-994b-f957022bd3fd/AppIconBeta-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/LI3ZMOad)
