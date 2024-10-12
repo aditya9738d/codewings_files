@@ -7,7 +7,6 @@
 - **Blink - Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/39/f0/aa39f08e-baa5-1545-123c-4f7cad5675f9/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Ao8gxyG)
 
 - **COROS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/83/2a/f4832a17-46a6-10b0-a3ac-2eec9ba00b4e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ytW7Pwzm)
-- **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
 
 - **iO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/e0/cd/1ce0cd62-7021-ca1f-49f1-697ed5d91a28/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Iu2Ak4pj)
 
@@ -7149,7 +7148,6 @@
 - **GCodeGen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/69/e2/5369e280-f1c1-c361-f132-f61b88e82011/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/g1L5lkTH)
 - **Heaven Soul Mates**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/a7/2f/20a72f42-cf85-6bfc-4686-38cfe1b12841/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6ZdayMPR)
 - **伊瑟·重启日**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/1a/06/691a0683-7291-0675-7ce2-2e60b8e3e198/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/b5sI9fFQ)
-- **Loopy Pro: Looper DAW Sampler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/df/55/c6df55a2-36e6-293c-fa2b-f0916c6656aa/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcojkh32)
 - **X-MT Liên Thành**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/d0/d5/fed0d519-a574-3153-4bc1-c02a6390bc41/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UdxTtuPU)
 - **WEXO: Bitcoin & Crypto Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/b5/ad/00b5ad26-e3f0-270c-6f0a-ad6e398c2677/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Vd7CRyQZ)
 - **BodsAi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/34/06/c33406ee-20d3-1a5a-14c0-5c9c8495741e/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/0ilaBtGR)
