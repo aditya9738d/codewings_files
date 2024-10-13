@@ -2,10 +2,6 @@
 - **COROS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/76/c8/de76c865-a952-2321-061b-a20f27e92583/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ytW7Pwzm)
 
 - **Rebel Skies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d9/20/7fd92030-5c20-a3e5-5138-6551fc605353/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAPGP3FP)
-- **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
-
-- **Rebel Skies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d9/20/7fd92030-5c20-a3e5-5138-6551fc605353/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAPGP3FP)
-- **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
 
 - **SwitchBot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/a9/49/91a94984-e4b6-f662-08f8-5ece7d7ed3c7/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iRT1pi1s)
 
@@ -40,8 +36,6 @@
 - **Nấm Lùn Xưa Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/97/f7/c297f790-bc47-9e12-1d0f-9ba3c6c658b7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tq7Jk7Wf)
 - **My Macros+ | Diet & Calories**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/cd/4f/cccd4f1a-b1e1-7761-3996-30259b50c719/AppIcon2022-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D57uwXTy)
 - **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
-
-- **COROS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/83/2a/f4832a17-46a6-10b0-a3ac-2eec9ba00b4e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ytW7Pwzm)
 
 - **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
 
