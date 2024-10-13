@@ -1,3 +1,6 @@
+- **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
+- **COROS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/76/c8/de76c865-a952-2321-061b-a20f27e92583/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ytW7Pwzm)
+
 - **Rebel Skies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d9/20/7fd92030-5c20-a3e5-5138-6551fc605353/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAPGP3FP)
 - **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
 
@@ -195,4 +198,3 @@
 - **Jammy Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/40/e8/fc40e8f1-aec3-25d5-9abc-b55ac6e29ac6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pAPfDurg?utm_source=X&utm_medium=Social+Media&utm_campaign=prototype+beta)
 - **Walkable - discover London**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/83/11/e5831192-793a-2ed7-8815-41f4f9e80143/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TlBT81QP)
 - **StoreView: App Screenshot Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/f6/c6/4bf6c698-ad22-defb-4181-c1a713ae534e/AppIcon-0-0-1x_U007epad-0-0-sRGB-GLES2_U002c0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pR7eH0GB)
-- **Subjects — school planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/d2/ec/cad2ecdc-14d6-3b97-085e-bd22fc9ffbec/AppIcon-Green-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/11RrN8rx)
