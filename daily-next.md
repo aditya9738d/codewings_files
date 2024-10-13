@@ -1,3 +1,7 @@
+- **Blink - Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/39/f0/aa39f08e-baa5-1545-123c-4f7cad5675f9/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Ao8gxyG)
+- **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8b/5a/6c8b5aa1-7f3d-5234-e2a4-58d2b8df3fe8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
+- **MADFUT 25**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/8a/7d/0c8a7d59-7c99-f5f2-074b-70043981a24a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYRuSXAa)
+
 - **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
 - **Loopy Pro: Looper DAW Sampler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/ae/16/30ae1649-54eb-5f34-b05f-8148ebd8dcd2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcojkh32)
 
@@ -194,5 +198,3 @@
 - **Walkable - discover London**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/83/11/e5831192-793a-2ed7-8815-41f4f9e80143/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TlBT81QP)
 - **StoreView: App Screenshot Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/f6/c6/4bf6c698-ad22-defb-4181-c1a713ae534e/AppIcon-0-0-1x_U007epad-0-0-sRGB-GLES2_U002c0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pR7eH0GB)
 - **Subjects — school planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/d2/ec/cad2ecdc-14d6-3b97-085e-bd22fc9ffbec/AppIcon-Green-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/11RrN8rx)
-- **WhatsApp Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/26/61/6926613d-a37d-027e-a00c-745021d5b03f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8sLvv90R)
-- **SimiTalk**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/dc/eb/a3dceb76-a1ad-4feb-0d4f-0a35fa616e9a/AppIcon-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vrebG3i1)
