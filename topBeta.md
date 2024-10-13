@@ -1,3 +1,6 @@
+- **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
+- **COROS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/76/c8/de76c865-a952-2321-061b-a20f27e92583/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ytW7Pwzm)
+
 - **Rebel Skies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d9/20/7fd92030-5c20-a3e5-5138-6551fc605353/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAPGP3FP)
 - **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
 
