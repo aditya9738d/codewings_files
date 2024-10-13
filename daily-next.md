@@ -2,9 +2,6 @@
 - **iO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/84/fe/cd84fe7c-5a7a-ec6f-93f7-cd0fa58dee46/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Iu2Ak4pj)
 - **Game VIP 12**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/72/9f/50729f5b-beec-0b47-3d4b-1d5378ec0059/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/khJNnPV5)
 
-- **COROS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/76/c8/de76c865-a952-2321-061b-a20f27e92583/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ytW7Pwzm)
-- **iO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/84/fe/cd84fe7c-5a7a-ec6f-93f7-cd0fa58dee46/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Iu2Ak4pj)
-
 - **Aurory: Seekers Of Tokane**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/58/3f/74583ff9-bf0a-fda2-d722-fd41aed8ba14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FuaxsScP)
 - **Once Human**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P8z9Zbyj)
 
@@ -66,8 +63,6 @@
 - **World of Runner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/15/52/9c155293-9af8-a3da-84d4-ec47fdbbb58c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4Ru3fSCF)
 
 - **SnyperApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/23/3d/81233dc4-acb9-adb0-2b8e-4aba2447bd51/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o2B6KQ9M)
-
-- **Game VIP 12**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/73/83/8073838d-95d8-a484-7081-4eec7422f66f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/H4NsEXZq)
 
 - **Scoop3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/3f/8f/443f8f15-a097-ecaa-ab38-ee6004b0803c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ynUk5mpm)
 
