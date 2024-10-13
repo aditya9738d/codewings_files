@@ -5,9 +5,6 @@
 - **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
 - **Loopy Pro: Looper DAW Sampler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/ae/16/30ae1649-54eb-5f34-b05f-8148ebd8dcd2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcojkh32)
 
-- **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
-- **Loopy Pro: Looper DAW Sampler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/ae/16/30ae1649-54eb-5f34-b05f-8148ebd8dcd2/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcojkh32)
-
 - **My Bank Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/45/c3/3745c3c9-06e3-f3e4-6b4e-7577b9c65784/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ukGDuc5w)
 - **Nasalbait - FCB Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/53/72/1d5372bd-a3a9-f78f-70d7-e5e261d78806/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8sEQVAG7)
 
@@ -22,7 +19,6 @@
 
 - **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 - **Partying 交友**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/f0/af/0ff0aff9-6801-329c-7cbd-788d3dd43665/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XfyVnuyj)
-- **Blink - Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/39/f0/aa39f08e-baa5-1545-123c-4f7cad5675f9/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Ao8gxyG)
 
 - **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
 - **Metal MJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/a6/41/b9a64121-057b-ce50-8d4f-f4102f716caf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EFNvO4Dw)
@@ -56,8 +52,6 @@
 
 - **Ana News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/07/3b/72073b1c-c3da-6b73-2157-990b7c596755/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qMsUhjMb)
 
-- **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8b/5a/6c8b5aa1-7f3d-5234-e2a4-58d2b8df3fe8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
-
 - **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
 
 - **Google Pay for Business**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/f5/9a/c5f59af4-9b45-5d2f-aa0f-a6d617ee98ba/logo_google_pay_for_business_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/gpaXZTAW)
@@ -69,8 +63,6 @@
 - **Game VIP 12**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/73/83/8073838d-95d8-a484-7081-4eec7422f66f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/H4NsEXZq)
 
 - **Scoop3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/3f/8f/443f8f15-a097-ecaa-ab38-ee6004b0803c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ynUk5mpm)
-
-- **MADFUT 25**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/8a/7d/0c8a7d59-7c99-f5f2-074b-70043981a24a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYRuSXAa)
 
 - **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/be/340ebe67-0dc7-bc83-decf-e0c65c069978/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm62zLyL)
 
