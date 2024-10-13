@@ -3,12 +3,6 @@
 - **SwitchBot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/a9/49/91a94984-e4b6-f662-08f8-5ece7d7ed3c7/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iRT1pi1s)
 
 - **MyCloz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/af/c3/f3afc362-a29a-55b3-7ab3-81ab1529c9ec/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M8mJqDyf)
-- **Rebel Skies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d9/20/7fd92030-5c20-a3e5-5138-6551fc605353/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAPGP3FP)
-- **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
-
-- **MyCloz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/af/c3/f3afc362-a29a-55b3-7ab3-81ab1529c9ec/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M8mJqDyf)
-- **Rebel Skies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d9/20/7fd92030-5c20-a3e5-5138-6551fc605353/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAPGP3FP)
-- **Retro Garage - Car Mechanic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/40/43/d3404354-9019-fed1-4755-893e4ee340c5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3tg6O80)
 
 - **Blink - Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/39/f0/aa39f08e-baa5-1545-123c-4f7cad5675f9/AppIcon-Test-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7Ao8gxyG)
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8b/5a/6c8b5aa1-7f3d-5234-e2a4-58d2b8df3fe8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
@@ -1183,7 +1177,6 @@
 - **Shareup: Simple & Fast Sharing**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/df/da/7ddfda43-775e-6723-f471-54df74dcd0ac/AppIcon-0-0-1x_U007ephone-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/knCc0H6p)
 - **Carista OBD2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/c6/19/cdc61911-5d5f-70d8-9687-0b69f5be595f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gIveBHOs)
 - **WSRN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/51/56/32515682-1c7b-600a-bad3-cfc77e0395de/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XxGiPSFp)
-- **SwitchBot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/b7/e7/4ab7e71b-3bff-b064-1a6f-5693809a1ba7/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iRT1pi1s)
 - **Mokka - Buy now, Pay later**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/9b/d7/a09bd7cf-e7a1-a46b-c44d-4e38b8d7f505/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vbQKk3k1)
 - **F-Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/b5/26/88b52635-7646-1ee0-ce03-b9af7c329002/AppIcon-0-0-1x_U007emarketing-0-6-0-0-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/edDvFLl6)
 - **Doc2Home Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/a3/62/12a3627f-6140-b714-a3c4-9c6afc42a078/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AnDZMXRA)
