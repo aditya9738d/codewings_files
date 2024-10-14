@@ -1,6 +1,9 @@
 - **Polar (for Bear)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/cb/3f90cbce-9649-8e20-104d-59d3d8441c02/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmZaEhAn)
 - **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/4f/50/4c4f5032-5146-f106-fae7-cec848861127/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm62zLyL)
 
+- **Polar (for Bear)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/cb/3f90cbce-9649-8e20-104d-59d3d8441c02/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmZaEhAn)
+- **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/4f/50/4c4f5032-5146-f106-fae7-cec848861127/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm62zLyL)
+
 - **eufy Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/cf/20/f0cf2091-8b7b-15ef-7311-611bc859cb13/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uahRA4Mg)
 
 - **Aurory: Seekers Of Tokane**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/58/3f/74583ff9-bf0a-fda2-d722-fd41aed8ba14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FuaxsScP)
