@@ -64,7 +64,6 @@
 - **Prota: Find & Test Beta Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/a9/9e/a4a99ec1-ea0b-24fe-a12d-d737be63b5d1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A9hdmmrx)
 
 - **PS Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/fb/8f/d9fb8f3a-1166-284d-734f-502decb93e29/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Cj8mJQDw)
-- **Polar (for Bear)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/cb/3f90cbce-9649-8e20-104d-59d3d8441c02/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmZaEhAn)
 
 - **eKharid Haryana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6d/49/ad6d491c-f912-060e-b487-86768b26056f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/T5w6WEwH)
 
@@ -1735,7 +1734,6 @@
 - **MyMoji Keyboard-AI Emoji**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/74/5f/e2745f0c-cc78-ae36-43e8-2c0abcdb2382/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NoPMTahI)
 - **TDSEE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/b3/ae/12b3aee1-4d92-2ce3-ff6a-de712108767d/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/2l0KgzIW)
 - **元气语音**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/9d/2c/679d2c86-94bb-d4fe-3de0-532aeda9a90d/AppIcon-0-0-1x_U007ephone-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XJHEBVjR)
-- **eufy Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/e1/63/05e163df-14fe-8358-d2f6-89659a39032a/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c7OS3Cdv)
 - **Do The Thing: Tame Your To-Dos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/d5/ec/d9d5ec42-0f9b-5069-d5ed-c0114188d205/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zIqOWWjv)
 - **Mi Tigo (Antes Tigo Shop)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/03/0c/21030c83-aedb-3906-a769-2bebbd120969/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/g95uW7fw)
 - **NOAH: Bitcoin & Stablecoins**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/c5/14/1ec51473-7a30-0550-4001-cf5270f0a54c/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kZD0OScB)
@@ -7837,7 +7835,6 @@
 - **Noicely.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/d8/d6/09d8d6f7-1897-b362-e33f-21d8b054f05c/AppIcon-0-0-1x_U007emarketing-0-5-85-220.jpeg/200x200bb-8.png)](https://testflight.apple.com/join/Vprynawt)
 - **Flip, Play, Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/8c/ed/6a8ced31-2de5-d2ba-5aae-72642e290e68/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/75RjVPvY)
 - **SKIEATS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/f9/cd/ccf9cdf9-5113-1fd3-a28f-23b47ecab600/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/3mY4clPS)
-- **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dd/42/d6/dd42d639-a7ef-9637-2d44-ca50070a21dd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png)](https://testflight.apple.com/join/Zm62zLyL)
 - **Uniwhale Care**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/9d/ed/d69ded8c-c5aa-0f08-3fbd-c5c27e6c8722/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/e7gQg6qR)
 - **Beeper Cloud**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/b8/f3/94b8f341-ab28-49c5-a7b6-3676b3eec372/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/AmLtgT00)
 - **Trip Reader (NFC)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/2a/70/b72a701d-119a-f02e-da2a-f30c9d071282/AppIcon-ka2-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/Bl1meNOB)
