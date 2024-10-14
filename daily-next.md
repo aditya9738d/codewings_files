@@ -1,3 +1,7 @@
+- **COROS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/0d/db/180ddba5-34b5-d812-a755-c2c21223f5df/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ytW7Pwzm)
+- **iO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/84/fe/cd84fe7c-5a7a-ec6f-93f7-cd0fa58dee46/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Iu2Ak4pj)
+- **Game VIP 12**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/72/9f/50729f5b-beec-0b47-3d4b-1d5378ec0059/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/khJNnPV5)
+
 - **MBTA Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/0d/12/920d12df-f8ce-35aa-bb07-793449c35bea/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/R2ZghSuQ)
 
 - **Aurory: Seekers Of Tokane**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/58/3f/74583ff9-bf0a-fda2-d722-fd41aed8ba14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FuaxsScP)
@@ -194,6 +198,3 @@
 
 - **熊猫吃短信2 - 垃圾短信拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/48/b2/cc48b2ef-1fc7-9788-af58-71ed3129aaa0/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/fwtX43eH)
 - **EmojiMart - Shopping List**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/82/04/918204ec-c467-c57e-f07c-beeb9e1cf931/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yHQZwjJm)
-- **Jammy Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/40/e8/fc40e8f1-aec3-25d5-9abc-b55ac6e29ac6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pAPfDurg?utm_source=X&utm_medium=Social+Media&utm_campaign=prototype+beta)
-- **Walkable - discover London**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/83/11/e5831192-793a-2ed7-8815-41f4f9e80143/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TlBT81QP)
-- **StoreView: App Screenshot Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/f6/c6/4bf6c698-ad22-defb-4181-c1a713ae534e/AppIcon-0-0-1x_U007epad-0-0-sRGB-GLES2_U002c0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pR7eH0GB)
