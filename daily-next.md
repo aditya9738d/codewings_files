@@ -15,10 +15,6 @@
 
 - **Kinopio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/e4/a0/59e4a0c0-a6bb-a0ba-feeb-73c9a5b89b79/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VoN2TmsM)
 
-- **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
-- **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
-- **Partying 交友**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/f0/af/0ff0aff9-6801-329c-7cbd-788d3dd43665/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XfyVnuyj)
-
 - **COROS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/0d/db/180ddba5-34b5-d812-a755-c2c21223f5df/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ytW7Pwzm)
 - **iO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/84/fe/cd84fe7c-5a7a-ec6f-93f7-cd0fa58dee46/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Iu2Ak4pj)
 - **Game VIP 12**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/72/9f/50729f5b-beec-0b47-3d4b-1d5378ec0059/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/khJNnPV5)
