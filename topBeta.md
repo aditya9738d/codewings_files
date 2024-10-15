@@ -2,10 +2,6 @@
 - **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 - **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/60/61/80606130-4137-0a7b-82b2-2266bf46eb14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
 
-- **Metal MJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/a6/41/b9a64121-057b-ce50-8d4f-f4102f716caf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EFNvO4Dw)
-- **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
-- **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/60/61/80606130-4137-0a7b-82b2-2266bf46eb14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
-
 - **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 - **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/4e/24684ecd-4357-0629-02c8-f80c964ea37b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
 - **Prota: Find & Test Beta Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/a9/9e/a4a99ec1-ea0b-24fe-a12d-d737be63b5d1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A9hdmmrx)
