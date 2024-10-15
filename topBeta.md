@@ -1,5 +1,7 @@
 - **One Social Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/94/18/e794181f-10ba-dbfb-4554-763f75c5cfaa/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aNcDUHZY)
 
+- **One Social Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/94/18/e794181f-10ba-dbfb-4554-763f75c5cfaa/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aNcDUHZY)
+
 - **Gymner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/1a/b7/ae1ab7a6-9a27-2e23-ce9c-83cb228e0771/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P1paQatW)
 - **Aurory: Seekers Of Tokane**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/58/3f/74583ff9-bf0a-fda2-d722-fd41aed8ba14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FuaxsScP)
 
