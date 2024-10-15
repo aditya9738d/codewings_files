@@ -32,8 +32,6 @@
 
 - **eufy Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/cf/20/f0cf2091-8b7b-15ef-7311-611bc859cb13/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uahRA4Mg)
 
-- **Aurory: Seekers Of Tokane**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/58/3f/74583ff9-bf0a-fda2-d722-fd41aed8ba14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FuaxsScP)
-
 - **Kinopio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/e4/a0/59e4a0c0-a6bb-a0ba-feeb-73c9a5b89b79/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VoN2TmsM)
 
 - **COROS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/0d/db/180ddba5-34b5-d812-a755-c2c21223f5df/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ytW7Pwzm)
