@@ -2,6 +2,10 @@
 - **PS Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/fb/8f/d9fb8f3a-1166-284d-734f-502decb93e29/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Cj8mJQDw)
 - **eufy Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/cf/20/f0cf2091-8b7b-15ef-7311-611bc859cb13/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uahRA4Mg)
 
+- **Record recipes with food files**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/7a/75/887a751f-4063-528f-2f39-33f0e227b73b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8SyQgx1n)
+- **PS Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/fb/8f/d9fb8f3a-1166-284d-734f-502decb93e29/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Cj8mJQDw)
+- **eufy Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/cf/20/f0cf2091-8b7b-15ef-7311-611bc859cb13/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uahRA4Mg)
+
 - **Prota: Find & Test Beta Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/a9/9e/a4a99ec1-ea0b-24fe-a12d-d737be63b5d1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A9hdmmrx)
 - **Its Coop**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/66/6b/35666bde-0816-9b7e-3431-cef127801bba/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UatubSm6)
 - **Nấm Lùn Xưa Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/97/f7/c297f790-bc47-9e12-1d0f-9ba3c6c658b7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tq7Jk7Wf)
