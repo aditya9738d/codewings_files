@@ -31,7 +31,6 @@
 
 - **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 
-- **Partying 交友**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/70/09/c170098f-b4a7-1ae1-2e1b-0912d615884d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XfyVnuyj)
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8b/5a/6c8b5aa1-7f3d-5234-e2a4-58d2b8df3fe8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 
 - **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/60/61/80606130-4137-0a7b-82b2-2266bf46eb14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
@@ -4678,7 +4677,6 @@
 - **i人事-薪资绩效考勤HR管理系统**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/d1/0c/dad10c02-e243-a1f4-133b-1549e809ae85/AppIcon-0-0-1x_U007emarketing-0-4-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4XrsoJnv)
 - **MAE Support**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/1b/15/a51b15eb-c807-fa24-3f73-6361be55fda4/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BAdfo8Cf)
 - **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ad/b7/efadb7f5-1819-d552-6f2a-f427218375e8/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
-- **Thập Đại Anh Hùng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/38/09/58380958-c682-f41e-bd76-2ecdadefe944/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rzsYe2Et)
 - **HomeTeamNS UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/07/be/f507be47-06c0-f1dd-1ad8-3c9751ef6b69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vh8u2dMQ)
 - **DEXART Metaverse**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/2f/82/392f82f6-9f0f-5d35-f3d4-27135e6ec62a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ntsoqpNK)
 - **Sale App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/d8/57/8ed85726-45c2-4086-2dae-30070b87b353/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W9vjfPwT)
