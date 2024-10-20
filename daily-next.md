@@ -1,9 +1,6 @@
 - **Partying 交友**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/a3/eb/a8a3eb1d-ebf6-b02a-fe51-0c4aaacaaa2d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XfyVnuyj)
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/34/42/3f3442a8-c441-f8be-a6b9-f33d01d6db1c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 
-- **Partying 交友**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/a3/eb/a8a3eb1d-ebf6-b02a-fe51-0c4aaacaaa2d/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XfyVnuyj)
-- **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/34/42/3f3442a8-c441-f8be-a6b9-f33d01d6db1c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
-
 - **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
 - **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
 
