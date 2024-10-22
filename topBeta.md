@@ -7,9 +7,6 @@
 
 - **eKharid Haryana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6d/49/ad6d491c-f912-060e-b487-86768b26056f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/T5w6WEwH)
 
-- **Prota: Find & Test Beta Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/a9/9e/a4a99ec1-ea0b-24fe-a12d-d737be63b5d1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A9hdmmrx)
-- **Its Coop**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/d5/a2/c9d5a227-d355-1888-9bbc-32588a6bec3d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UatubSm6)
-
 - **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
 - **Loopy Pro: Looper DAW Sampler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/06/3c/c0063cb9-6e30-679a-1904-886f3e2f2ab5/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcojkh32)
 
