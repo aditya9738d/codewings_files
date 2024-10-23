@@ -1,7 +1,5 @@
 - **eKharid Haryana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6d/49/ad6d491c-f912-060e-b487-86768b26056f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/T5w6WEwH)
 
-- **eKharid Haryana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6d/49/ad6d491c-f912-060e-b487-86768b26056f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/T5w6WEwH)
-
 - **MNTHLY**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/43/0c/19430ce7-7ea1-8bc9-10d7-2a2e631f7813/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G9XPp5Ty)
 
 - **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/4e/24684ecd-4357-0629-02c8-f80c964ea37b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
