@@ -10,8 +10,6 @@
 - **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
 - **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
 
-- **eKharid Haryana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6d/49/ad6d491c-f912-060e-b487-86768b26056f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/T5w6WEwH)
-
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/34/42/3f3442a8-c441-f8be-a6b9-f33d01d6db1c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 - **MADFUT 25**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/8a/7d/0c8a7d59-7c99-f5f2-074b-70043981a24a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYRuSXAa)
 - **Gymner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/2d/12/432d1243-c3d3-f581-1f4c-d4742507befc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P1paQatW)
