@@ -21,8 +21,6 @@
 
 - **TuneBot - For Spotify**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a4/a4/9ca4a40a-649f-5fba-6ef1-89751061cdca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VtAjgvJ9)
 
-- **eKharid Haryana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6d/49/ad6d491c-f912-060e-b487-86768b26056f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/T5w6WEwH)
-
 - **MNTHLY**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/43/0c/19430ce7-7ea1-8bc9-10d7-2a2e631f7813/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G9XPp5Ty)
 
 - **Its Coop**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/d5/a2/c9d5a227-d355-1888-9bbc-32588a6bec3d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UatubSm6)
@@ -33,8 +31,6 @@
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4e/19/9a4e19f1-50e6-a641-ea4a-2d4cfc1f7f1f/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P52kCv3Q)
 
 - **Loopy Pro: Looper DAW Sampler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/06/3c/c0063cb9-6e30-679a-1904-886f3e2f2ab5/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcojkh32)
-
-- **One Social Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/94/18/e794181f-10ba-dbfb-4554-763f75c5cfaa/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aNcDUHZY)
 
 - **Djibouti Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/4f/59/f14f5925-6ce1-2657-44c3-3ac4c4926097/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7ZcsEEsj)
 
