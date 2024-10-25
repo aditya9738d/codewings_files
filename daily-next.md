@@ -1,3 +1,6 @@
+- **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/07/ef/a507efd1-d4d6-771c-2ca4-c99c026f37da/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
+- **Interhaptics Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/87/b4/2487b425-a16f-e373-071f-d93cbfb53ff0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fmkQL4w8)
+
 - **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/2e/18/4e2e1829-9ba6-35a1-a41a-00c53979c188/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
 
 - **Elestrals TCG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/56/c2/d056c266-c6dd-4883-76fd-a0ef8500428c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c3eNuA4G)
