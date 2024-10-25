@@ -1,3 +1,6 @@
+- **Brave Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/e8/d8/c5e8d8e3-6961-3470-2944-c7a3708715a2/AppIcon_Beta-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Trcbh1o3)
+- **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/4e/24684ecd-4357-0629-02c8-f80c964ea37b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
+
 - **Onewheel Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/04/26/36042674-6f54-3ea7-f826-ffdc4144fdd8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/erN13tuH)
 - **TOKIMEKI for Bluesky**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c1/fd/28c1fd25-4b0e-06ad-8089-bcd0d82c7b1a/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/chSOHsvh)
 - **CollaNote: Notes & PDF Markup**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f3/8f/42f38fa9-88d0-61b4-b152-a5ad68866175/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-GLES2_U002c0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AUPFQ7nd)
