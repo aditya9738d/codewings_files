@@ -20,8 +20,6 @@
 - **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/07/ef/a507efd1-d4d6-771c-2ca4-c99c026f37da/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
 - **Interhaptics Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/87/b4/2487b425-a16f-e373-071f-d93cbfb53ff0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fmkQL4w8)
 
-- **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/2e/18/4e2e1829-9ba6-35a1-a41a-00c53979c188/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
-
 - **Elestrals TCG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/56/c2/d056c266-c6dd-4883-76fd-a0ef8500428c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c3eNuA4G)
 - **Groq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/8f/8e/578f8ebe-b33b-456c-6605-9e1ab2bac70c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9X0wGsi)
 
@@ -3112,7 +3110,6 @@
 - **Driver.KM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/e7/33/58e7335b-716d-1363-20dd-26bc03c84d65/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PG7xlYEe)
 - **Easy Japanese News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/97/a7/9f97a752-d3b0-2136-3b87-1b376a1b3dda/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XJaHocgN)
 - **Sketch — View and Mirror**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/d0/9d/09d09d37-cf5c-4542-c365-51594342cc21/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dw2feMH8)
-- **Microsoft Defender: Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/a8/a0/43a8a0a5-e68b-f953-bc8f-2ab993de3c8a/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mUb5DGYi)
 - **云屋IM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/69/11/0f691110-340f-d353-7bf5-5221106020fe/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TeO9zlHV)
 - **Bitop**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/e1/52/ace152c9-e73b-2919-ab4d-27d7e358b4a8/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eDcjwR2L)
 - **小鹿查单词 - 语音查单词，拼读查单词**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/8d/72/728d7215-14ce-27c8-b625-bd58d3990c6e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CE2R738d)
