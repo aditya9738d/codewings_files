@@ -450,7 +450,6 @@
 
 - **بيتي - مستشارك العقاري الرقمي**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/c5/cd/dcc5cd03-4055-93c3-7dcd-de1f0d371aab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/leHxarBO)
 
-- **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/e6/7b/92e67b8a-4c82-1a92-ab1c-2ced70c62e9f/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
 - **Chore Champ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c8/ff/c1c8ff53-0c99-32c3-d208-3b48b3281ed4/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TsRob74C)
 - **NRO by ixxc 05**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/80/4b/24804b6c-6a1e-7418-3acf-92813d511521/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Iripc95t)
 
@@ -4466,7 +4465,6 @@
 - **Workplace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/09/97/a7099755-6e71-dfc2-e450-e693637e96fe/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zBZsHtrC)
 - **i视**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/45/01/894501a8-817e-dae7-d6a1-016e2f43ae03/AppIcon-1-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DjX3GYUe)
 - **jUMPP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/b0/68/10b06831-8b36-7d81-78f8-5f7b2b23017d/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IEAHGRsi)
-- **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/2d/d5/8b2dd54b-ef13-dcc2-b6bf-d411f66c30a1/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
 - **Yggdrasil**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/d9/64/e5d96482-c8c0-02cd-c407-95b57972e98f/AppIcon-0-0-1x_U007emarketing-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jZNsIkRr)
 - **Hải Tặc Plus...**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/00/72/9b0072fa-a9a5-dff3-010c-809166b80e8e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HqQRZsDZ)
 - **Shadow Note**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/55/77/50557711-8a71-a5bd-3eb0-e8d066a8e7ad/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RObzZdPO)
@@ -5550,7 +5548,6 @@
 - **Rom Red**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/2c/40/0d2c4026-0654-19a8-eb2d-86356c8bd7d8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QFsY24ZN)
 - **Cooking Tour: Restaurant Games**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/c3/b9/1cc3b909-a964-2e78-f555-fae3a4d1b5cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EQdkEjFx)
 - **SchoolMate – Ace the Day**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/e4/37/81e437a3-945e-4352-88c5-4217db6c4d8b/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WZcoUcHQ)
-- **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/0e/dd/040eddce-c0e9-a38d-87ad-f4fef7983bf0/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
 - **WarpERP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/d7/5b/7cd75b81-9546-c754-a3f7-a9a0d6fb25cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jcaE7Jnr)
 - **モリワン公式アプリ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/4e/c4/7b4ec482-0d53-3463-80d9-ede740fc7ced/AppIcon_Dev-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/flBCa5Vb)
 - **FLIPOS 连锁版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/6a/df/3e6adf72-2f2e-6083-0307-04cf77b9c53f/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TtsnonHh)
