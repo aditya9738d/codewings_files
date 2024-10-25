@@ -332,7 +332,6 @@
 
 - **heylogin – Password Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/7a/86/a27a860d-dda8-7bf2-c121-4636d87d898d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hccQEx7f)
 
-- **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/19/61/b5196152-fac7-5a59-7e45-fc5e464a61a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
 
 - **Altius Intelligence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/0d/11/e40d11d8-fa4c-a6fc-8d6f-334b17b46e05/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0bUtVd4u)
 
@@ -3056,7 +3055,6 @@
 - **TriiiX: SocialFi Trading**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/27/32/c3273253-958a-e9d3-424f-10b31d92152c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/at0hPFTk)
 - **WhaleCloud Miniapp POC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/a8/71/cba871ae-3da2-d20c-3d0e-f6452b073781/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xHe9rfdn)
 - **MomianDr.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/fb/93/50fb93ea-d4a6-2469-1c58-c23defed7a15/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OpUeLJSQ)
-- **Elestrals TCG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/17/80/67178077-acdf-e2a4-f8a7-57533c4a03ce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c3eNuA4G)
 - **Power Automate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/26/d3/d326d317-97e3-6f9a-b7a3-2bf8c372efaf/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/IQfqWDCi)
 - **Akuvox SmartPlus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/51/2e/2c512e4e-0a25-25b3-e82f-5bbb01f5ec31/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wr0awr7k)
 - **Palphone**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/ce/17/1dce170d-65a7-f16b-9e3c-b3fc64c0916e/AppIcon-0-1x_U007ephone-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jVw2duqr)
@@ -6596,7 +6594,6 @@
 - **Биганто 360**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/9a/3e/df9a3eb8-9785-d0a4-4990-760e34324149/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VMxj7CfJ)
 - **AgeOfDinoBeta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/a3/fa/17a3fa42-de66-b570-7286-b96afea28d62/FPX_AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/H9pRwCrh)
 - **ParkMe-IOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/0d/5f/600d5f55-1b3a-d2f8-d082-4f8fe1d344c3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lWGBjx19)
-- **Groq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/70/07/f4700783-1486-906e-9829-5814a15d08d1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9X0wGsi)
 - **IPv64.net**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/d2/6d/a5d26de5-8d09-1d87-38da-4984c390d379/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DdBc50Kl)
 - **Notesnook: Private note taking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/a6/e3/69a6e3ea-7854-7789-63d6-b5fd764a2011/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tYrz0XXl)
 - **EOS Intermodal M&R**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/3e/47/de3e4710-7118-6aec-6b92-54d3de451a20/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dEwPEzNN)
