@@ -1,9 +1,6 @@
 - **eufy Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/72/31/e57231d9-ef5d-d4ed-278c-b062c57fee7e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uahRA4Mg)
 - **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4e/19/9a4e19f1-50e6-a641-ea4a-2d4cfc1f7f1f/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P52kCv3Q)
 
-- **eufy Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/72/31/e57231d9-ef5d-d4ed-278c-b062c57fee7e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uahRA4Mg)
-- **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4e/19/9a4e19f1-50e6-a641-ea4a-2d4cfc1f7f1f/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P52kCv3Q)
-
 - **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/07/ef/a507efd1-d4d6-771c-2ca4-c99c026f37da/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
 - **Interhaptics Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/87/b4/2487b425-a16f-e373-071f-d93cbfb53ff0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fmkQL4w8)
 
