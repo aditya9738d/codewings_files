@@ -10,7 +10,6 @@
 - **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4e/19/9a4e19f1-50e6-a641-ea4a-2d4cfc1f7f1f/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P52kCv3Q)
 
 - **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
-- **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/4e/24684ecd-4357-0629-02c8-f80c964ea37b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
 
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/34/42/3f3442a8-c441-f8be-a6b9-f33d01d6db1c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 - **MADFUT 25**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/8a/7d/0c8a7d59-7c99-f5f2-074b-70043981a24a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYRuSXAa)
@@ -4792,7 +4791,6 @@
 - **uTrading-AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/10/3a/7b103a60-6af0-4038-1e8e-0c5592ebd024/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zFuCHIbI)
 - **Awful - SA Forums browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/e5/2d/d5e52dd9-223f-69a8-f420-f787b7f4bae3/rated_five_appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/530cS7a7)
 - **M-Sub Movie NextGen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/9b/bc/4a9bbc0e-2f3c-9797-64c3-eb307b97d1d4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1hvzbyWX)
-- **Brave Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/ff/a0/cfffa07b-69de-255d-173b-a9168e41d371/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Trcbh1o3)
 - **FULiveDemo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ff/08/f8ff081b-2efd-78ab-1c0e-e24e6df167da/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/g1BKCZu7)
 - **Northstar Clinic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/e3/ad/73e3ad54-1b97-a76b-bbb0-7e6345a56d97/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ny7poibM)
 - **小鱼易连XYLink**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/03/36/1b033691-9ddf-a225-2609-390992c2c03c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/I0qR2nXX)
