@@ -1,8 +1,6 @@
 - **A Better Routeplanner (ABRP)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/27/74/6a27749f-5510-0137-16ca-764f22091514/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uX9LuvcQ)
 - **OSSOM APP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/81/61/8981618e-a7c2-8bc6-675e-9511db4b5374/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cgY69ZKG)
 
-- **A Better Routeplanner (ABRP)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/27/74/6a27749f-5510-0137-16ca-764f22091514/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uX9LuvcQ)
-
 - **xDrip4iO5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/91/4a/82914a16-5787-9564-e1dc-c7c5fb48d9bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6ZqKUGpm)
 - **MEGA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d3/28/ffd32897-98ed-aa37-4e7e-437502f4a36c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4x1P5Tnx)
 - **Xbox**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/20/01/842001c4-7c04-2abd-f267-32329d25c978/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dfUeaFHS)
@@ -4445,7 +4443,6 @@
 - **VATRadar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/5c/64/e25c645a-9e0e-8973-4e5f-d3a15d5944d4/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xq5kz7Fk)
 - **VLNB idle RPG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/f5/34/ecf5346c-0a8c-c69e-717f-f511cac8cf79/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P5J1TPPN)
 - **Одеса**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/e8/85/23e88561-f3a7-8244-5f6b-bafa1b72128d/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/0H1dN5ix)
-- **OSSOM APP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/97/71/5b97711c-e2df-d58f-55f8-d505e9b45fda/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cgY69ZKG)
 - **维特原始人**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/8c/d6/098cd67e-6d71-cfc9-aed3-8b8b6a526ac4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4EC1KFW7)
 - **云简业财 - 助企业管理化繁为简**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/a6/5d/96a65d3b-63a9-b53c-d889-a7ce9fd56731/AppIcon-2022-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kDtICrkZ)
 - **I love FM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/95/0c/b6950c7d-844f-76e3-9072-ed592d473572/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QeDMAI50)
