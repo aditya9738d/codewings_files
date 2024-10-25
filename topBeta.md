@@ -15,8 +15,6 @@
 - **eufy Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/72/31/e57231d9-ef5d-d4ed-278c-b062c57fee7e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uahRA4Mg)
 - **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4e/19/9a4e19f1-50e6-a641-ea4a-2d4cfc1f7f1f/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P52kCv3Q)
 
-- **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
-
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/34/42/3f3442a8-c441-f8be-a6b9-f33d01d6db1c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 - **MADFUT 25**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/8a/7d/0c8a7d59-7c99-f5f2-074b-70043981a24a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYRuSXAa)
 - **Gymner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/2d/12/432d1243-c3d3-f581-1f4c-d4742507befc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P1paQatW)
@@ -28,7 +26,6 @@
 
 - **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/60/61/80606130-4137-0a7b-82b2-2266bf46eb14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
 
-- **Relm.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/b4/fc/9db4fc65-f51a-544c-eb69-fdf6f72fa6ed/Relm-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KU5YfpQ4)
 - **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
 
 - **Prota: Find & Test Beta Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/a9/9e/a4a99ec1-ea0b-24fe-a12d-d737be63b5d1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A9hdmmrx)
@@ -4985,7 +4982,6 @@
 - **CopyPad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/7e/e6/c17ee6b4-db97-6dd0-ceb7-48b8c994d989/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MD3Ossnz)
 - **无尽消除**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/aa/04/cbaa04e0-0c1d-f519-7e0d-14243065df24/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TwxJOA28)
 - **GoRide Drivers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/ca/52/daca5238-29c1-af1f-b32f-c7e5ebef8925/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yph352IB)
-- **Royale Town**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/6c/2e/256c2ef8-060d-edbe-ecd5-709d88c820e1/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d7TDODwA)
 - **RPA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/c6/91/1dc69177-b4ff-507c-9cf5-5632a40feb83/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RlR36eh0)
 - **Ngọc Rồng Sun**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/b5/ee/18b5ee61-7e69-3e23-086f-304f2923f996/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cYi0g59U)
 - **ZeroPuttPlus-Dev**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/0d/62/f70d62ef-e96b-7b8f-c95e-a48b693ada29/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/F0lttrj5)
