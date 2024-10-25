@@ -1,3 +1,7 @@
+- **xDrip4iO5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/91/4a/82914a16-5787-9564-e1dc-c7c5fb48d9bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6ZqKUGpm)
+- **MEGA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d3/28/ffd32897-98ed-aa37-4e7e-437502f4a36c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4x1P5Tnx)
+- **Xbox**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/20/01/842001c4-7c04-2abd-f267-32329d25c978/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dfUeaFHS)
+
 - **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/20/c2/c720c25b-2882-c81c-7c34-7c92bf851d61/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
 
 - **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/63/2a/d3632a32-3b03-b22a-7769-56c81ce86623/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
