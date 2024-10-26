@@ -21,8 +21,6 @@
 
 - **Kurviger Motorcycle Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/63/e2/4263e2e9-f7d1-1c8c-f0b9-78c355eb6277/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2eMnS3D)
 
-- **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/9a/14/9a9a14d6-feaa-d687-b75b-d1e442ab9bec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
-
 - **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b6/8c/e5b68cac-cb64-8a9f-204d-fda24e747a1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2aVcGxxZ)
 - **CapCut - Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/51/05/c5510532-08e1-cc1f-845d-dc4e2161f487/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gu9kI6ky)
 
@@ -5113,7 +5111,6 @@
 - **Trucker Path: Truck GPS & Fuel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/de/af/4bdeafc4-4327-bd90-440f-aae9132a4b69/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FDRtw5Ic)
 - **金套保-冀东国贸**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a4/d6/75a4d60f-b623-b1f5-8a1b-8b9024509803/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pWV5ZQR6)
 - **Marker - YouTube Chapters**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/de/4e/e4de4e9d-61ff-eb9d-02bd-50c41468ce56/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/L0Mh507n)
-- **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/7d/a3/de7da313-4762-c09f-3933-e38443b3336a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
 - **Property Finder — Real Estate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/10/80/d510802a-7158-a504-8008-323dfe482801/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ctQoX4vC)
 - **Razer Audio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/50/bf/1c50bfc3-e98f-6b7f-6a90-080d999cd3d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/E4ADmQFT)
 - **AnkiMobile Flashcards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/2a/43/362a435f-1b7e-4dc7-7d40-f4a7d1ed8d98/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/awbk2iH2)
