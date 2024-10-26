@@ -47,7 +47,6 @@
 - **Royale Town**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/35/ec/7835ec61-bc97-7d76-7aea-32414ff0381e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d7TDODwA)
 
 - **TuneBot - For Spotify**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a4/a4/9ca4a40a-649f-5fba-6ef1-89751061cdca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VtAjgvJ9)
-- **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/4e/24684ecd-4357-0629-02c8-f80c964ea37b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
 
 - **Brave Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/e8/d8/c5e8d8e3-6961-3470-2944-c7a3708715a2/AppIcon_Beta-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Trcbh1o3)
 
@@ -3250,7 +3249,6 @@
 - **FunimBeta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/62/f8/ea62f8bc-7e4b-3c19-c0e5-ef6a196a7895/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qZ5ZHVy8)
 - **Vesputio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/42/99/4442994f-e6c7-8d12-7c78-289fe11a1f9e/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nb7I51Fm)
 - **BETA_SoundBar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/c9/c1/79c9c1f7-6154-cbce-8d5b-99fa37f26e06/SoundBar2021-AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ihUDCKgt)
-- **Mate - Soul Making Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/0a/2c/380a2c88-e7bc-a1f4-2db4-00166a7e9b63/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V2L1PH8N)
 - **UDisc Disc Golf**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/b2/27/f4b227a6-777c-3029-8661-15e558379c21/AppIconfree-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vRPkDDy1)
 - **有道智选联调工具**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/87/38/cb8738b9-3298-32ea-e920-1014a2d21e45/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LdBFIET6)
 - **Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/3a/1f/c63a1f2f-293f-4a81-20b8-70b42f45f425/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/e9U5Mfz4)
@@ -5440,7 +5438,6 @@
 - **BESV Service App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/98/7b/80987b0a-7923-6120-aeff-3991a8dcf3a6/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/Ey0VASn3)
 - **Calendars 5 by Readdle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/0b/21/080b215e-b282-0ab0-a927-6e83a68e74aa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tC44BniC)
 - **F/Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/76/a5/ea76a5d6-706a-f9cb-429f-a08d7c038b6c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SOOpPlZ5)
-- **Courier Rider VN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/ec/7f/d2ec7fb7-44cc-b160-f932-335830bc2407/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/saF5qiaj)
 - **GigOmni**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/e0/73/24e07398-6044-18c0-de29-2f32f6ef18fe/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P1B9aFy4)
 - **EVA VPN App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/d6/d5/f5d6d54f-2691-fb53-8b0c-b2a96006bfa7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9ZHaA0JP)
 - **Apporio Preview - Partner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/78/8d/ea788d31-0a74-5985-1d29-ed98eeca8e38/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/y1SFcF3u)
