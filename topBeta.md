@@ -57,8 +57,6 @@
 - **One Social Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/94/18/e794181f-10ba-dbfb-4554-763f75c5cfaa/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aNcDUHZY)
 - **eKharid Haryana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6d/49/ad6d491c-f912-060e-b487-86768b26056f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/T5w6WEwH)
 
-- **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/60/61/80606130-4137-0a7b-82b2-2266bf46eb14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
-
 - **VuTruNgocRong**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/38/93/a23893e4-0d01-b0f0-b2f1-6122439307ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EwUqqTrM)
 
 - **Prota: Find & Test Beta Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/a9/9e/a4a99ec1-ea0b-24fe-a12d-d737be63b5d1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A9hdmmrx)
@@ -2907,7 +2905,6 @@
 - **Travian: Legends Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/cf/2b/c9cf2b58-1428-5913-90c8-2944c68f03d4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QLm2zhZz)
 - **Games Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/0e/7c/ec0e7c5d-15ca-4029-b085-88e5c1547447/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/23aH3U3q)
 - **阿摩線上測驗**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/69/b0/0569b0ea-7507-b06c-9eb2-91ce9e176c40/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nmIHFnYm)
-- **CapCut - Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/7e/62/f17e6279-3bd6-75b2-a56c-574d81e742cd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/F35EKwCs)
 - **UU跑腿CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/f2/2f/99f22f6d-7928-99a7-9131-0333223d66e1/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnQ2DkFE)
 - **HCL Verse**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b8/78/9cb87849-5be1-2a1d-a5ea-6e6f347887cd/AppIconExternal-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ICw74nJw)
 - **Overland GPS Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/46/f0/0a46f086-aa1b-18cf-5737-0b0a644194af/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6UD8Jcvz)
@@ -6229,7 +6226,6 @@
 - **E-Learning HPDQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/64/d5/7b64d514-6ec0-5b24-3e5a-e24ff1831f8e/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qThKSZJM)
 - **AT Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/2f/1e/ac2f1ea7-c872-4cf9-4653-a118ea6ee5ca/AppIcon-1x_U007emarketing-0-5-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5MA0Pixb)
 - **McDonald's: Cupons e Delivery**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/82/f8/ec82f82e-5daf-98e9-f459-da0cfca7af74/AppIcon-0-0-1x_U007ephone-0-0-512MB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yBDER0Mf)
-- **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/5a/84/365a849f-662c-7bc5-4d77-9b0704c202af/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mTdIgovd)
 - **100ms Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/48/f9/4b48f9b8-d014-6f58-0b36-aad1c1b657f0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Uhzebmut)
 - **RADii Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/5e/d5/5d5ed59a-03e3-c202-35be-9368458a881c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XU57P5PD)
 - **Philips SRMS (PH) 飛利浦零售管理系統**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/04/82/6d048257-d642-4144-3500-1d5bdb691bab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1jYxluys)
