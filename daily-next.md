@@ -39,7 +39,6 @@
 - **Groq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/8f/8e/578f8ebe-b33b-456c-6605-9e1ab2bac70c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9X0wGsi)
 
 - **Relm.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/b4/fc/9db4fc65-f51a-544c-eb69-fdf6f72fa6ed/Relm-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KU5YfpQ4)
-- **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
 
 - **Royale Town**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/35/ec/7835ec61-bc97-7d76-7aea-32414ff0381e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d7TDODwA)
 
