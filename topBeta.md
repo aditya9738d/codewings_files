@@ -1,7 +1,6 @@
 - **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4e/19/9a4e19f1-50e6-a641-ea4a-2d4cfc1f7f1f/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P52kCv3Q)
 
 - **Kurviger Motorcycle Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/63/e2/4263e2e9-f7d1-1c8c-f0b9-78c355eb6277/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2eMnS3D)
-- **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4e/19/9a4e19f1-50e6-a641-ea4a-2d4cfc1f7f1f/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P52kCv3Q)
 
 - **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/9a/14/9a9a14d6-feaa-d687-b75b-d1e442ab9bec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
 
