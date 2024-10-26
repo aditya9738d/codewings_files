@@ -4,8 +4,6 @@
 
 - **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/2e/18/4e2e1829-9ba6-35a1-a41a-00c53979c188/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
 
-- **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/2e/18/4e2e1829-9ba6-35a1-a41a-00c53979c188/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
-
 - **Microsoft Defender: Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/0e/a8/690ea8aa-c84d-9913-ee63-a9358e59ee22/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AYVtbvfc)
 
 - **A Better Routeplanner (ABRP)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/27/74/6a27749f-5510-0137-16ca-764f22091514/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uX9LuvcQ)
@@ -1212,7 +1210,6 @@
 - **AppMySite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/9e/49/039e4964-2bdc-466d-5438-f4b2e4727439/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cq3qO8y7)
 - **PMII-Amita**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/d2/a2/5fd2a298-b5f3-d32e-afe2-cbc83d4c50c9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sqK1wLaz)
 - **WeDate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/7b/1d/2e7b1d5b-d51b-8d26-7525-7b6d9d27b868/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Ig2tcKOA)
-- **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/65/07/466507ac-18dd-9348-2009-ed2583c60421/AppIconLLC-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
 - **ClassicMMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/0f/96/c20f9696-ff23-e5b5-ae63-3949d428854a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5UiCScQw)
 - **航海王石器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/3a/39/f93a39da-6394-4b26-8d08-1ed589611cbb/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U3ZesxsI)
 - **Smart Spam Filter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/02/93/0c0293c5-1c30-338d-727f-5999a8fa9c8c/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kKARDcn0)
@@ -5176,7 +5173,6 @@
 - **Lotus Pioneer Token**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/a0/e6/e4a0e63c-590f-72da-569d-7d8e488bf095/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/90A0xr4F)
 - **Groceries Tracker app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/b5/73/bcb573bf-200b-62a6-a354-8cd097f96356/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KdQntzKz)
 - **Thunder for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/a8/a1/dea8a142-f3f8-8a4a-c57a-684e73851a50/AppIcon-production-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9n8xrqvH)
-- **Sleep Cycle - Tracker & Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/46/92/8b469217-c3f4-1bc3-b9d9-8e585075e94d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCeANbZi)
 - **Ooredoo Super App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/3c/81/953c81d6-eb97-3f64-5731-094ce05941ea/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72GZlKsl)
 - **Nifty Smashers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/f6/45/29f6450a-0394-5c43-e3b8-e55e4f80b0b4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3A5LcqyO)
 - **Chance - Imageboard Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/12/67/a7126761-96bd-1747-8f9c-284386d622e5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gdHJSbzI)
