@@ -1,7 +1,5 @@
 - **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/9a/14/9a9a14d6-feaa-d687-b75b-d1e442ab9bec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
 
-- **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/9a/14/9a9a14d6-feaa-d687-b75b-d1e442ab9bec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
-
 - **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/16/70/3b167053-c1ec-907b-fab1-a8757b743d66/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
 
 - **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
