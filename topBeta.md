@@ -244,7 +244,6 @@
 
 - **BumX Tool**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/f8/91/fef89196-3baa-d25a-e024-2687e910f10b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/42EzOcYn)
 
-- **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
 - **BeVi AI Camera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/bf/3b/b2bf3b18-393b-586e-4774-3695c55af628/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z6UFZA6Y)
 
 - **Nro Hoa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/1a/2e/dc1a2e43-c56a-318d-3ea1-021be08ae170/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eyIvc82u)
@@ -2882,7 +2881,6 @@
 - **Polity - Online Role Playing**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/5d/a9/fa5da916-a3c0-a2f3-c568-0835aed6616d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/pSvtiAVL)
 - **FRITZ!App TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/2d/30/2d2d3052-2741-3240-138b-ffa8037dde78/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Zl2czQO2)
 - **Minority Owned Businesses**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/8e/6e/308e6e38-8105-a832-52d6-b59c31bd336e/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BvlNgzMW)
-- **Adobe Scan: PDF & OCR Scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/ef/be/7eefbe44-f9cb-7f70-6582-059c456e3fd1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yP3SqM7b)
 - **Matrixport**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/b6/8a/28b68a64-7432-4082-6255-258363d5ecb0/AppIcon-TF-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s5rARDvM)
 - **锐捷SSLVPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/19/e3/7919e338-ea0a-269a-dd8e-52148115a6b1/AppIcon-85-220-4-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/wa9zGhE2)
 - **EdCast Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/d0/a1/b6d0a113-9358-8909-3946-b40f680f3ff4/EdCast-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mN15zAnj)
@@ -7491,7 +7489,6 @@
 - **PotClock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/23/08/f223085b-be12-cacb-6d66-ff7a55cc2770/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/ivCR0RIe)
 - **Avici -Buy bitcoin with UPI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/c6/57/11c657e2-0405-b1c6-aca8-0581b745b94b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Rl2vfoRy)
 - **Per Watch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f0/2d/ae/f02dae4d-aa50-b44f-faef-1d00c64b2569/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/kCM1SsCz)
-- **War Robots Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/99/1b/71991be5-0fd6-84de-6066-8744bdbe3993/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aE7qTf9G)
 - **Devil May Cry: Peak of Combat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/96/41/58/964158f8-9560-87bb-3bff-0e455f21e625/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-8.png)](https://testflight.apple.com/join/YwdVgCwp)
 - **Jetpack for WordPress**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/cd/4c/80cd4c81-dddd-f1f0-c70b-263b9ce1946b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AZG7g4Bg)
 - **Icons Of Theia: Tactical RPG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2c/e3/bb/2ce3bba0-c3ea-315d-ec2c-1b08a415d914/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/XZYouium)
