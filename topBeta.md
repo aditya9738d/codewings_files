@@ -5,9 +5,6 @@
 - **Microsoft Defender: Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/0e/a8/690ea8aa-c84d-9913-ee63-a9358e59ee22/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AYVtbvfc)
 - **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/8a/46/b98a465a-297c-9a5e-f646-104ac3d1f22d/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
 
-- **Microsoft Defender: Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/0e/a8/690ea8aa-c84d-9913-ee63-a9358e59ee22/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AYVtbvfc)
-- **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/8a/46/b98a465a-297c-9a5e-f646-104ac3d1f22d/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
-
 - **xDrip Bubble**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/47/bf/9247bf59-b1d9-f1d5-c497-7977b23885f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SsUhF4ub)
 
 - **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/1b/69/2f1b69ed-6513-49b8-e934-09758e9af99e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
@@ -78,9 +75,6 @@
 - **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/ef/ef/c5efef38-c496-7b3c-1698-8939495b5b14/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
 
 - **eufy Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/72/31/e57231d9-ef5d-d4ed-278c-b062c57fee7e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uahRA4Mg)
-
-- **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/07/ef/a507efd1-d4d6-771c-2ca4-c99c026f37da/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
-- **Interhaptics Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/87/b4/2487b425-a16f-e373-071f-d93cbfb53ff0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fmkQL4w8)
 
 - **Relm.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/b4/fc/9db4fc65-f51a-544c-eb69-fdf6f72fa6ed/Relm-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KU5YfpQ4)
 
@@ -4504,7 +4498,6 @@
 - **Race Day | Real Time Stats**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/41/18/624118cc-cdff-7934-988b-44d0c66b362c/AppIcon-0-0-1x_U007emarketing-0-2-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AJqRFNjX)
 - **Flo-Digital**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/87/ff/3487ff61-68af-6483-9328-244e5cead2a6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qNqDUzjf)
 - **Fulfillment - Fabric UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/bf/45/dbbf4509-81a4-253b-2813-1d08d6d16c4a/UAT-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/15orZW8j)
-- **The Battle of Polytopia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/6a/3e/426a3e88-0bf2-eaa6-d8a6-a23fd24c2fc6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LjTQNqua)
 - **Ethio Customer Testbed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/9e/fc/729efcad-a1e3-2181-b280-40c9f266be7c/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/40SY99Dh)
 - **PrinterLogic App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/60/cc/6560ccff-7939-62dc-21f8-7214d2910213/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ieiCB8hb)
 - **思尔健康**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/be/74/8ebe7497-ae2e-bd5e-aa6e-ca305ba04843/AppIcon-0-1x_U007ephone-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zGYfVGdU)
