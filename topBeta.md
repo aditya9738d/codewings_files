@@ -1,9 +1,6 @@
 - **Kurviger Motorcycle Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/63/e2/4263e2e9-f7d1-1c8c-f0b9-78c355eb6277/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2eMnS3D)
 - **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4e/19/9a4e19f1-50e6-a641-ea4a-2d4cfc1f7f1f/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P52kCv3Q)
 
-- **Kurviger Motorcycle Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/63/e2/4263e2e9-f7d1-1c8c-f0b9-78c355eb6277/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2eMnS3D)
-- **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4e/19/9a4e19f1-50e6-a641-ea4a-2d4cfc1f7f1f/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P52kCv3Q)
-
 - **Galxe**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/96/81/00968196-7e32-89ed-df72-d68cddaf1d36/AppIcon2-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bF15toL9)
 - **Obsidian - Connected Notes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/a6/93/5ea69322-4dba-6c67-3ab8-7bc28f0fc482/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3moqRS1)
 - **ATA Carnet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/42/45/0842458c-ca25-5c38-374e-dfec69baf6c2/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MB1Ojjwc)
