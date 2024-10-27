@@ -5,9 +5,6 @@
 - **Microsoft Defender: Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/0e/a8/690ea8aa-c84d-9913-ee63-a9358e59ee22/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AYVtbvfc)
 - **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/8a/46/b98a465a-297c-9a5e-f646-104ac3d1f22d/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
 
-- **Microsoft Defender: Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/0e/a8/690ea8aa-c84d-9913-ee63-a9358e59ee22/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AYVtbvfc)
-- **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/8a/46/b98a465a-297c-9a5e-f646-104ac3d1f22d/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
-
 - **xDrip Bubble**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/47/bf/9247bf59-b1d9-f1d5-c497-7977b23885f1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SsUhF4ub)
 
 - **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/1b/69/2f1b69ed-6513-49b8-e934-09758e9af99e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
@@ -78,9 +75,6 @@
 - **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/ef/ef/c5efef38-c496-7b3c-1698-8939495b5b14/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
 
 - **eufy Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/72/31/e57231d9-ef5d-d4ed-278c-b062c57fee7e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uahRA4Mg)
-
-- **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/07/ef/a507efd1-d4d6-771c-2ca4-c99c026f37da/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
-- **Interhaptics Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/87/b4/2487b425-a16f-e373-071f-d93cbfb53ff0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fmkQL4w8)
 
 - **Relm.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/b4/fc/9db4fc65-f51a-544c-eb69-fdf6f72fa6ed/Relm-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KU5YfpQ4)
 
