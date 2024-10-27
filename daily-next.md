@@ -1,6 +1,9 @@
 - **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/8a/46/b98a465a-297c-9a5e-f646-104ac3d1f22d/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
 - **Groq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/8f/8e/578f8ebe-b33b-456c-6605-9e1ab2bac70c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9X0wGsi)
 
+- **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/8a/46/b98a465a-297c-9a5e-f646-104ac3d1f22d/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
+- **Groq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/8f/8e/578f8ebe-b33b-456c-6605-9e1ab2bac70c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9X0wGsi)
+
 - **Audiobookshelf App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/34/ac/a634ac5f-4929-2645-402e-fd73a69c5ac9/Icons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wiic7QIW)
 
 - **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/9a/14/9a9a14d6-feaa-d687-b75b-d1e442ab9bec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
@@ -194,5 +197,3 @@
 - **ALPiT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c5/e3/7dc5e31c-e25c-b4fe-60f0-3af56a510473/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lwjKv8oy)
 
 - **Votey: 2024 Election Simulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/74/33/fd743378-eff2-143f-14ad-b108ef950a77/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PSw2g2qh)
-
-- **Alby Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/dd/fc/ebddfca0-7440-9dbb-ad1a-1f1bf0123c1b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mdZZ9bdA)
