@@ -56,7 +56,6 @@
 - **Interhaptics Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/87/b4/2487b425-a16f-e373-071f-d93cbfb53ff0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fmkQL4w8)
 
 - **Elestrals TCG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/56/c2/d056c266-c6dd-4883-76fd-a0ef8500428c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c3eNuA4G)
-- **Groq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/8f/8e/578f8ebe-b33b-456c-6605-9e1ab2bac70c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9X0wGsi)
 
 - **Relm.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/b4/fc/9db4fc65-f51a-544c-eb69-fdf6f72fa6ed/Relm-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KU5YfpQ4)
 
@@ -602,7 +601,6 @@
 
 - **Monkey Beach Patrol**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/07/cc/ed07cc97-95cd-4707-a7ad-8c89ca7e3818/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CLWJDc1p)
 
-- **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/cb/99/8acb9971-0c49-b2c4-b363-ca24e2d611aa/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
 
 - **המתעדת - ישראל**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/f7/c6/cdf7c62f-bf7f-c9da-bbfd-72d0b54e9586/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/trrsdqcS)
 
@@ -4043,7 +4041,6 @@
 - **Sky Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/69/30/4f6930f3-fc52-d828-d803-bea33972909f/GB-AppIcon-0-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r05IRSPx)
 - **[STG] マクドナルド**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/ba/ac/f0baaca2-84ea-aa8e-0956-e5c49bc9bc4d/AppIcon-STG-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eClNc5o2)
 - **Rizzference**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/23/d6/f423d610-bb55-3b92-4afd-e8146df26f25/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hSVtJLRj)
-- **Audiobookshelf App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/c0/8f/14c08f89-e46e-9075-301d-eac6f06302aa/Icons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wiic7QIW)
 - **Organiser α**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/b4/c6/75b4c603-2d7a-1f13-a536-fbfdc83761b5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VZcWIimC)
 - **Polaroid X-1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/43/1f/89431f66-8ac5-2bb8-1581-9befb82ade89/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BtnUDn7I)
 - **CodeMenu - Snippets manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/de/cd/bbdecd60-44f2-55c8-bd55-2bfb99386ea3/AppIcon-0-85-220-0-4-0-0-2x-0-0-0-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/CHkcKbLU)
