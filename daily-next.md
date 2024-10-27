@@ -1,3 +1,7 @@
+- **Galxe**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/96/81/00968196-7e32-89ed-df72-d68cddaf1d36/AppIcon2-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bF15toL9)
+- **Obsidian - Connected Notes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/a6/93/5ea69322-4dba-6c67-3ab8-7bc28f0fc482/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f3moqRS1)
+- **ATA Carnet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/42/45/0842458c-ca25-5c38-374e-dfec69baf6c2/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MB1Ojjwc)
+
 - **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/8f/1a/538f1a23-3654-67a7-eb58-0c8ff0c9b826/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
 - **Interhaptics Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/87/b4/2487b425-a16f-e373-071f-d93cbfb53ff0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fmkQL4w8)
 
