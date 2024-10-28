@@ -1,3 +1,5 @@
+- **Hezel for Apple Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/1d/ca/0d1dca3a-3f22-0269-44a1-ae4075fa415d/AppIcon-0-0-1x_U007ephone-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SuvzvmNX)
+
 - **Moonlight VisionOS Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d8/fa/a5d8fafa-dafe-d60e-cbf3-db825891c2c8/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/4eE59dyH)
 - **Hezel for Apple Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/1d/ca/0d1dca3a-3f22-0269-44a1-ae4075fa415d/AppIcon-0-0-1x_U007ephone-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SuvzvmNX)
 
