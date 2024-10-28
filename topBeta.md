@@ -55,7 +55,6 @@
 - **NOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/ee/78/56ee78fd-e742-38f1-c715-c2415e8a5cf0/AppIcon-0-1x_U007epad-0-11-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/i4g2QrrG)
 
 - **Flitsmeister**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/cd/30/77cd305a-be55-2516-ce26-67c32ff5ac93/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GRUCakKw)
-- **Glucose Direct**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/ba/21/6cba211d-515a-b788-f35b-347fba5b9f36/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dWDt5Wme)
 
 - **Elestrals TCG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/56/c2/d056c266-c6dd-4883-76fd-a0ef8500428c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c3eNuA4G)
 
@@ -604,7 +603,6 @@
 
 - **FUNCAP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/8f/d5/b68fd5ba-7cf4-5d68-e3fe-8b85351d6c15/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/50tcxD8q)
 
-- **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/25/c1/6225c189-b801-106e-d2db-a5dd66b23cb4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 
 - **Aura MENA - Rewarding Loyalty**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/42/17/8142178b-6bbe-5003-057d-00de83e6ebd2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GkiCbnMx)
 
@@ -1729,7 +1727,6 @@
 - **吉林一号网**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/e9/8b/c5e98b77-d379-0bdd-7f17-6635f00de5de/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zLL6hrkq)
 - **Arctic For Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/33/9b/4f339bd6-50d7-cde0-c430-9fa6786b3a55/AppIcon-0-1x_U007epad-0-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ddFR6MQo)
 - **RZChatMobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/09/78/7e097818-b613-0f8d-70fb-e9128cf23422/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dZ7sTdyY)
-- **BETANDYOU - Best bets for you**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/13/86/38138641-43b2-051a-3224-74bcd6ff7f8f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/x6aMHlck)
 - **Celucenter App 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/3d/c1/2c3dc1df-9b34-6192-29ce-b99c4f488d22/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LdcbmOdk)
 - **Omantel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/05/75/23057512-6a21-fcaa-324d-9c180815133f/ApplicationIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z4EpotC2)
 - **Forza Football - Live Scores**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/09/8d/3e098dd0-e565-d40b-a334-37bfaf460d94/AppIcon-0-0-1x_U007epad-0-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5PNxaBZ1)
