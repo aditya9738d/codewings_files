@@ -1,6 +1,9 @@
 - **Onewheel Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/04/26/36042674-6f54-3ea7-f826-ffdc4144fdd8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/erN13tuH)
 - **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/8f/1a/538f1a23-3654-67a7-eb58-0c8ff0c9b826/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
 
+- **Onewheel Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/04/26/36042674-6f54-3ea7-f826-ffdc4144fdd8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/erN13tuH)
+- **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/8f/1a/538f1a23-3654-67a7-eb58-0c8ff0c9b826/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
+
 - **eufy Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/72/31/e57231d9-ef5d-d4ed-278c-b062c57fee7e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uahRA4Mg)
 
 - **哔哩哔哩-弹幕番剧直播高清视频**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/ec/6f/9cec6f97-8a32-9b63-8d3a-29cdcfaf3f2f/AppIcon-testflight-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/K4pM1kHu)
@@ -194,5 +197,3 @@
 - **레이싱 마스터(Racing Master)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/cd/04/20cd04ce-207e-06c8-23ac-d612ee32a66d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BCXPdeR9)
 
 - **LK-8386**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/6b/63/bd6b63dc-4d26-f0fc-010f-b84dd213a4fa/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5GNfSuGz)
-
-- **DEXX-Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/e1/36/1be13637-a56a-0233-ae3c-3d3a0d3c207c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7jRUSMaZ)
