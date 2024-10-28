@@ -1,3 +1,6 @@
+- **foobar2000**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/a7/8d/54a78d70-8a91-084d-eb29-4f401ddd5763/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fM6L331c)
+- **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/4b/88/994b88e0-0dc4-b3f6-69fc-d652d651db1a/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
+
 - **BeReal: Photos & Friends Daily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/d8/12/d3d8122a-7d9c-5a9a-d3b7-3db78d2f7470/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IM4jE5XY)
 - **Sleep Cycle - Tracker & Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/aa/2b/b8aa2ba9-bf3e-ac4f-9511-54490aa89fec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCeANbZi)
 
