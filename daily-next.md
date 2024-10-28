@@ -70,9 +70,6 @@
 
 - **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
 
-- **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b6/8c/e5b68cac-cb64-8a9f-204d-fda24e747a1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2aVcGxxZ)
-- **CapCut - Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/51/05/c5510532-08e1-cc1f-845d-dc4e2161f487/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gu9kI6ky)
-
 - **BeReal: Photos & Friends Daily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/3d/8c/2d3d8cd8-66d2-f363-fb6e-967327129f94/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IM4jE5XY)
 - **Sleep Cycle - Tracker & Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/aa/2b/b8aa2ba9-bf3e-ac4f-9511-54490aa89fec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCeANbZi)
 - **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ef/14/5aef1479-e046-ea50-0422-b94572620adf/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
