@@ -70,9 +70,6 @@
 
 - **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
 
-- **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b6/8c/e5b68cac-cb64-8a9f-204d-fda24e747a1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2aVcGxxZ)
-- **CapCut - Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/51/05/c5510532-08e1-cc1f-845d-dc4e2161f487/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gu9kI6ky)
-
 - **BeReal: Photos & Friends Daily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/3d/8c/2d3d8cd8-66d2-f363-fb6e-967327129f94/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IM4jE5XY)
 - **Sleep Cycle - Tracker & Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/aa/2b/b8aa2ba9-bf3e-ac4f-9511-54490aa89fec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCeANbZi)
 - **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ef/14/5aef1479-e046-ea50-0422-b94572620adf/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
@@ -5913,7 +5910,6 @@
 - **100ms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/15/80/95158002-28d2-5928-723c-46fd96bdbf4f/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dhUSE7N8)
 - **NFTTrack - new screen widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/37/3c/ec373c94-61bb-f11f-bc99-cc5afe9882b7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XPP3geMf)
 - **跟随羔羊**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/3e/b5/de3eb5ad-74b9-4ebc-95f7-16520825aae9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GgDgAL0X)
-- **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/ee/23/89ee235e-c48e-9f9f-3329-eb19de21464e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
 - **Huddle - Get together**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/c9/f0/40c9f0f9-93a2-3db8-f0ee-34eb2e1d05a6/AppIcon-0-1x_U007ephone-0-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/FRg2IPXf)
 - **Unity Play to Device Host**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/28/07/e9280723-cd37-d53e-3a13-2ea919ff4515/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/FVMH8aiG)
 - **Tap to Sign**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/5b/fd/565bfdca-108c-d4fb-449e-bea8e7a19964/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cjPYii2o)
