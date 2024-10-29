@@ -61,8 +61,6 @@
 - **Flüsterwald: Das Story Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/93/15/76931500-89ff-3721-a9a5-10358ee203e9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/foSSgA9g)
 
 - **Overcast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/f3/ae/a9f3ae11-17a8-d309-57de-6eab8b78b32f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/37azzGPG)
-- **Aria for iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/6d/98/3b6d9826-8bbe-ab08-d6e2-625e071edf82/Icon-External-0-0-1x_U007emarketing-0-3-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G9sm51a8)
-- **NOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/ee/78/56ee78fd-e742-38f1-c715-c2415e8a5cf0/AppIcon-0-1x_U007epad-0-11-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/i4g2QrrG)
 
 - **Flitsmeister**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/cd/30/77cd305a-be55-2516-ce26-67c32ff5ac93/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GRUCakKw)
 
@@ -6193,7 +6191,6 @@
 - **Quadeye**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/d6/a1/44d6a19b-efee-b83a-df4c-2e13d0bc4d43/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hzAFZjci)
 - **Dev6 Greenworks Tools**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/45/41/3c454135-bf57-7c95-adac-39615c399afe/AppIconsGW-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/alnsHiKu)
 - **烧饼日语-JLPT日语能力考试备考刷题**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/62/22/5962227d-816d-c1ae-fb4a-ac4e3eb9f29c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3M8R4vX)
-- **Joplin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/cc/8d/20cc8d1e-d2c1-d8ab-e7a4-4ac2dc260d5d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/p5iLVzrG)
 - **Dharamik Signal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/a8/9c/25a89c2e-52cd-ccd8-ed9a-e031483f515f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BuwazBeq)
 - **Affinity iOS Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/21/c9/9521c95d-bf49-1241-779f-35ad6ef3d02d/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/DdFJxPLX)
 - **易拍全球--商户版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/96/46/90964631-cc92-060b-f19c-562a093baaed/AppIcon-1x_U007emarketing-0-0-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jpPAV7li)
