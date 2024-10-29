@@ -83,10 +83,6 @@
 - **Discord - Talk, Play, Hang Out**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/5b/22/135b22c3-a6b9-b5d1-983c-49d6ef943cf6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gdE4pRzI)
 - **Microsoft Authenticator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/b9/07/7db9079c-8c4b-6e54-baec-d0b5f38aa414/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Coqmmppd)
 
-- **Groq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/8f/8e/578f8ebe-b33b-456c-6605-9e1ab2bac70c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9X0wGsi)
-
-- **Audiobookshelf App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/34/ac/a634ac5f-4929-2645-402e-fd73a69c5ac9/Icons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wiic7QIW)
-
 - **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/9a/14/9a9a14d6-feaa-d687-b75b-d1e442ab9bec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
 
 - **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/16/70/3b167053-c1ec-907b-fab1-a8757b743d66/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
@@ -4692,7 +4688,6 @@
 - **Veritas Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/9b/da/d09bdaba-ae49-3a8c-dfda-3ad5a889e305/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8kksZ7jU)
 - **Pixelfed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/5e/02/8d5e02fb-901f-201b-1bf0-c8ab2a281c93/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dNcLnb1n)
 - **Reeder 5.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/82/4c/05824c90-43c7-935a-228e-edfb0282484f/AppIcon-macOS-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/2w63KOGS)
-- **Homey — A better smart home**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/ef/ad/bbefad2b-2940-6582-5107-39bbff1cb7d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tA2e9vby)
 - **صيانة المكيفات**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/d5/d5/1ed5d5f7-3f35-9f81-a29b-503854864bfa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w2ljIOTA)
 - **MaaS360 Browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/a7/20/48a720db-0e26-fcba-dcd9-60621dad0cd1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NBp8ZCtV)
 - **Drivometer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/78/ae/a378ae10-1c61-1c35-94e0-f8fc38bd75e1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LKnK7eup)
