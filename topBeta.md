@@ -82,9 +82,6 @@
 
 - **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/16/70/3b167053-c1ec-907b-fab1-a8757b743d66/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
 
-- **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
-
-- **Adobe Scan: PDF & OCR Scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/f0/3d/34f03d8e-ff6a-5849-28a2-7fac9be28f3e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yP3SqM7b)
 - **War Robots Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/23/bc/6f23bc7e-334c-a3f3-0810-6495737ab7c4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aE7qTf9G)
 
 - **Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/98/86/4b98861c-aafe-aa6d-12a5-c4fa0b6d8bcc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/njVWbUm0)
@@ -5839,7 +5836,6 @@
 - **Clinflash eTMF**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/9c/f0/979cf0c3-af7d-b9aa-7e35-1f4ef741496c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SPFIThq0)
 - **Relx SG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/f6/17/75f617f6-1180-8a72-f0c2-531ac4dc0494/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/n5xzwIH0)
 - **Participant for Zoom**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/4d/b9/7a4db92c-26e3-cf54-e13c-8002c85f35a4/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iwZesoSE)
-- **Jarvis World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/8c/46/ae8c460f-9b45-7a75-1081-408194aadb6f/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nPy0c7Yi)
 - **ArB Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/03/ef/d503ef66-fb25-e390-b2a9-a5ec3a0cfd01/ArB_Mobile-1x_U007emarketing-0-7-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vLXuTaDH)
 - **N01ZET**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/33/89/81338916-00cb-7e2a-0199-a82f16e88ac3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qnPblFSD)
 - **SalesCRM-2.0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/7b/8f/257b8f55-911d-56e5-9d33-41cc20258a43/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wDAor02r)
