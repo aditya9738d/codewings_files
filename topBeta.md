@@ -91,8 +91,6 @@
 
 - **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ef/14/5aef1479-e046-ea50-0422-b94572620adf/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
 
-- **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/2e/18/4e2e1829-9ba6-35a1-a41a-00c53979c188/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
-
 - **A Better Routeplanner (ABRP)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/27/74/6a27749f-5510-0137-16ca-764f22091514/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uX9LuvcQ)
 
 - **OSSOM APP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/81/61/8981618e-a7c2-8bc6-675e-9511db4b5374/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cgY69ZKG)
@@ -1793,7 +1791,6 @@
 - **B+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/23/60/4a2360ac-707d-e5de-f93d-c8885175ec36/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LCSVht3g)
 - **Tai Kwun [UAT]**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/fa/76/10fa76b5-29b9-33c7-110a-135cfc9e08ba/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vt78wMux)
 - **crm-tailo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/b0/4a/a0b04a53-f0f7-3ee1-d3c7-8b389c15ba3e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VnfPeEkb)
-- **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/7d/55/857d55d0-fe1c-862e-89bc-ce09ef9ac1d5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
 - **Ngôi sao - Tin sao**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/00/7a/18007a1f-28f6-8eb2-4dba-26e26629ba02/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1SkyjS7g)
 - **E.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/79/e4/6079e433-018f-4be0-d1cf-870cd1eddc30/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/7KmHv0CZ)
 - **Art Scene: Meet More Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/3a/74/653a74a6-31d0-a397-ef79-2947d8535264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6QvixAak)
@@ -4600,7 +4597,6 @@
 - **MITSUBISHI MOTORS VIET NAM CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/58/1f/c4581f6a-feab-2ca7-204c-708afc6fd9e7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4yQz3wlt)
 - **SmartHealth**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/69/2b/af692bf7-d3f2-5499-feed-10577be05315/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ojjJ8SEA)
 - **KabaOTC Basic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/25/f1/e825f151-6804-3f9f-7975-d886d345536b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z59iD1rX)
-- **Home Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c8/05/a4c8052a-d038-608f-4859-c5354238ec75/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1AlPbnLZ)
 - **LaserOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/cc/24/46cc24d9-3e4b-a26b-195f-fe949f24f831/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a50EXCyb)
 - **ChatyN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/c6/3f/bac63f61-95fd-b2fe-93a6-69db9bb93932/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O1KUa1m3)
 - **StashApp Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/1a/0b/ab1a0b92-2fed-b1f2-eaf8-2c55305e4e53/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cv3UCvFd)
