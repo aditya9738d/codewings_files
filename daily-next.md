@@ -1,6 +1,9 @@
 - **Aria for iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/6d/98/3b6d9826-8bbe-ab08-d6e2-625e071edf82/Icon-External-0-0-1x_U007emarketing-0-3-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G9sm51a8)
 - **NOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/ee/78/56ee78fd-e742-38f1-c715-c2415e8a5cf0/AppIcon-0-1x_U007epad-0-11-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/i4g2QrrG)
 
+- **Aria for iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/6d/98/3b6d9826-8bbe-ab08-d6e2-625e071edf82/Icon-External-0-0-1x_U007emarketing-0-3-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G9sm51a8)
+- **NOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/ee/78/56ee78fd-e742-38f1-c715-c2415e8a5cf0/AppIcon-0-1x_U007epad-0-11-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/i4g2QrrG)
+
 - **Joplin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/4a/80/fa4a8027-4b4e-9501-13bf-ca8b891bd1a0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/p5iLVzrG)
 
 - **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/2e/18/4e2e1829-9ba6-35a1-a41a-00c53979c188/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
@@ -194,5 +197,3 @@
 - **My Macros+ | Diet & Calories**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/cd/4f/cccd4f1a-b1e1-7761-3996-30259b50c719/AppIcon2022-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D57uwXTy)
 
 - **Ana News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/07/3b/72073b1c-c3da-6b73-2157-990b7c596755/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qMsUhjMb)
-
-- **CASTILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/0b/b5/3f0bb5c2-02ee-50af-ad34-6c3d1f5538d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qPNe7saf)
