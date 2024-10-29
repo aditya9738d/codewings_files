@@ -54,8 +54,6 @@
 
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/ac/78/b9ac78b8-ad30-df91-5256-b6eabcd7d48c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
 
-- **Hezel for Apple Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/1d/ca/0d1dca3a-3f22-0269-44a1-ae4075fa415d/AppIcon-0-0-1x_U007ephone-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SuvzvmNX)
-
 - **Onewheel Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/04/26/36042674-6f54-3ea7-f826-ffdc4144fdd8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/erN13tuH)
 - **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/19/30/9a193029-ed47-7535-96cd-545ac040d6f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
 
@@ -83,7 +81,6 @@
 
 - **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/1b/69/2f1b69ed-6513-49b8-e934-09758e9af99e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
 
-- **flutter-room-app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/87/39/47873988-3f8d-628d-688e-47abb521cbad/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NzmtvJ6n)
 - **Flüsterwald: Das Story Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/93/15/76931500-89ff-3721-a9a5-10358ee203e9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/foSSgA9g)
 
 - **Overcast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/f3/ae/a9f3ae11-17a8-d309-57de-6eab8b78b32f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/37azzGPG)
@@ -4201,7 +4198,6 @@
 - **TrackMan Golf**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/69/ee/4269ee6c-fa20-331b-8634-5d4435912beb/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/W3vJChto)
 - **Bold Smart Lock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/e1/20/97e12015-9d90-2f62-cf99-6c4c0599fd05/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fSEqFBIz)
 - **EZECOM TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/92/4d/f5924de2-4da6-6e8f-27b4-f12ff1e5203a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tpPE9rJd)
-- **Matterport**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/05/6f/c5056f28-dd7b-5008-793b-081c306a9988/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/htfXQ8jV)
 - **Ensemble Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/5e/7b/f35e7be4-8d9d-d6f7-2c7f-13e614dd6ac5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yFKnLQ1S)
 - **IWAP Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/e7/bb/0ae7bbee-7160-f3cc-dfa0-a4e30a3eb80e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/N75r82sV)
 - **PaySii QAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/98/d5/3898d548-db57-795a-e4e8-ef63ab9122f5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eCNlkbIr)
