@@ -83,10 +83,6 @@
 - **Discord - Talk, Play, Hang Out**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/5b/22/135b22c3-a6b9-b5d1-983c-49d6ef943cf6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gdE4pRzI)
 - **Microsoft Authenticator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/b9/07/7db9079c-8c4b-6e54-baec-d0b5f38aa414/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Coqmmppd)
 
-- **Groq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/8f/8e/578f8ebe-b33b-456c-6605-9e1ab2bac70c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9X0wGsi)
-
-- **Audiobookshelf App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/34/ac/a634ac5f-4929-2645-402e-fd73a69c5ac9/Icons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wiic7QIW)
-
 - **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/9a/14/9a9a14d6-feaa-d687-b75b-d1e442ab9bec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
 
 - **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/16/70/3b167053-c1ec-907b-fab1-a8757b743d66/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
