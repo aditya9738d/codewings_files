@@ -1,6 +1,9 @@
 - **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
 - **Adobe Scan: PDF & OCR Scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/f0/3d/34f03d8e-ff6a-5849-28a2-7fac9be28f3e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yP3SqM7b)
 
+- **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
+- **Adobe Scan: PDF & OCR Scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/f0/3d/34f03d8e-ff6a-5849-28a2-7fac9be28f3e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yP3SqM7b)
+
 - **Jarvis World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/d8/f4/61d8f4ab-316c-9313-b372-dc6f902ef2ec/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nPy0c7Yi)
 
 - **Aria for iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/6d/98/3b6d9826-8bbe-ab08-d6e2-625e071edf82/Icon-External-0-0-1x_U007emarketing-0-3-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G9sm51a8)
