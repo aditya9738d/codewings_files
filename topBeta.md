@@ -594,7 +594,6 @@
 
 - **Checker – Track Anything**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/bb/32/dfbb32bc-7c6d-44bd-0fca-0f0a03005af1/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
 - **Nearby AI - GPT 4 Prompts Omni**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f7/1e/42f71ec2-bfb5-9e9b-83c6-8b3572a73dcd/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xHGrkViR)
-- **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/cc/ed/7ccced8e-cbd5-dc9c-f38b-c7774d1f0181/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
 
 - **拦截猫-垃圾短信电话拦截**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/66/f9/db66f944-2219-ff2d-04b3-6710fceaec19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hm6GhrCg)
 
@@ -4481,7 +4480,6 @@
 - **Dwindle: Reusable Checklists**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/38/06/e438062b-1850-34f2-2a3c-f7b7d2834154/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/lMvf92rT)
 - **OrgChartX - Organization Chart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/89/f8/6a89f819-0a77-d1ca-c9b1-213ab2af1ea6/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/anU2DsMi)
 - **TuneWave - FM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/cb/00/82cb000b-5c1e-7fe1-e11c-8cca225c58b7/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xqor0W6K)
-- **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/0b/39/c20b3913-c944-ff60-b357-1ca4ed42e495/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 - **Snbd**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/c5/db/1ec5dbd4-895f-190e-af6e-ee6a4fb75770/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j2xr5lnj)
 - **KitchenOwl**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/8c/5a/c68c5a43-608b-aabf-183d-4ebd1f056224/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VkbZt2HD)
 - **一木记账-智能语音记账**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/68/52/64685293-1fea-4096-f582-37a453fe0196/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uVBZ94U4)
@@ -6056,7 +6054,6 @@
 - **Mangrove Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/ca/ef/a5caefe5-7d19-cee3-0474-a86a04f51873/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cjZ6KeBq)
 - **GCCProject**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/60/92/e5609232-db02-095c-739b-2aa8133fe080/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XZ4Dg9b1)
 - **Beagles**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/17/a1/4e17a129-03db-c44e-b20e-4583141eed84/Beagle-AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aPZw3K1v)
-- **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/c2/5a/cec25aa7-a9fc-1c0c-b69e-9cb9e45c2c60/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 - **京东健康**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ee/af/f4eeaf06-ae28-f83d-e70c-8d2b1fe96e98/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t0xyUgJw)
 - **Zallo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/58/06/6358063e-3fd2-1a49-40a2-d14378ac25ac/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UXbPvjSf)
 - **SAAN GO prod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/a3/fa/18a3fa8f-48cd-3acb-a628-b69318b962c5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EEUVqB6C)
