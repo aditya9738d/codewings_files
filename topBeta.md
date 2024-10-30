@@ -1,3 +1,7 @@
+- **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/8f/b2/a48fb258-606c-edb0-0990-f5d5fd1fd22a/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
+- **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/f5/7e/4af57eea-1914-3011-47f9-5f50737ddab0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
+- **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/0f/83/2e0f83ef-fa04-1979-8ff2-458cc7707f2d/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
+
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/da/1c/eeda1c84-9798-e3bd-e685-09063825d9bd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
 
 - **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/71/70/f9717094-b084-8b9f-3110-ee1d61803de8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
