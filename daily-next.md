@@ -3,8 +3,6 @@
 
 - **Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/98/c8/f398c83c-ed20-e290-aed3-514402d1ca31/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/njVWbUm0)
 
-- **Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/98/c8/f398c83c-ed20-e290-aed3-514402d1ca31/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/njVWbUm0)
-
 - **Flexi-BLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/a6/44/5ea64431-bd75-4d57-5aeb-8798b0c49cc9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LHyKxPmj)
 - **Microsoft Excel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b1/29/cdb1299f-cb64-297f-45cb-1f1215cad2f8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3lIiz1eZ)
 
@@ -12,8 +10,6 @@
 - **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/0f/83/2e0f83ef-fa04-1979-8ff2-458cc7707f2d/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
 
 - **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/f5/7e/4af57eea-1914-3011-47f9-5f50737ddab0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
-
-- **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/da/1c/eeda1c84-9798-e3bd-e685-09063825d9bd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
 
 - **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/71/70/f9717094-b084-8b9f-3110-ee1d61803de8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
 
@@ -112,8 +108,6 @@
 - **Microsoft Authenticator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/b9/07/7db9079c-8c4b-6e54-baec-d0b5f38aa414/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Coqmmppd)
 
 - **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/9a/14/9a9a14d6-feaa-d687-b75b-d1e442ab9bec/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
-
-- **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/16/70/3b167053-c1ec-907b-fab1-a8757b743d66/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
 
 - **War Robots Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/23/bc/6f23bc7e-334c-a3f3-0810-6495737ab7c4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aE7qTf9G)
 
