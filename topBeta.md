@@ -337,7 +337,6 @@
 - **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/fb/3a/12fb3a6b-302d-164a-0a60-bc7b0999c9f7/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
 - **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
 
-- **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/9b/44/e89b44a9-570d-4971-5184-cc2f066fd1dd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U5p3ccdw)
 
 - **Satakunnan Kansa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/ad/05/88ad05fa-e563-de26-b844-c52764fa5d1d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wrh3Qw7n)
 
@@ -5807,7 +5806,6 @@
 - **InstaPlan-UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/2d/c4/552dc4d4-ab34-641f-8ac0-6e5e3d51e186/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ikqPfq52)
 - **永豐餘生技 [ UAT ]**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/1c/c2/0e1cc289-dc87-daa4-f658-64d8112a9946/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tAUdspR1)
 - **Tivi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/0a/ad/6a0aadf9-cf03-1222-4308-96cdae606846/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6eCvykFA)
-- **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/be/17/ccbe177c-c06e-1a22-9545-45c0213a74b0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
 - **One Plus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/1a/3b/331a3b7f-b039-5114-5f89-dd7dcde4dd06/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mIt9uVcU)
 - **Kafi Wealth**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/30/92/39309280-36aa-4be5-f9d1-f20f0fb4351a/AppIcon_PROD-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4VGRGvow)
 - **Every Word: Audiobook Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/77/b7/0077b7be-8477-b338-3840-4231ecc45f03/AppIconDefault-1x_U007epad-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OlQd8WVV)
