@@ -1,5 +1,7 @@
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/da/1c/eeda1c84-9798-e3bd-e685-09063825d9bd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
 
+- **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/da/1c/eeda1c84-9798-e3bd-e685-09063825d9bd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
+
 - **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/71/70/f9717094-b084-8b9f-3110-ee1d61803de8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
 
 - **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/2e/18/4e2e1829-9ba6-35a1-a41a-00c53979c188/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
