@@ -2,7 +2,6 @@
 - **Moonlight VisionOS Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d8/fa/a5d8fafa-dafe-d60e-cbf3-db825891c2c8/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/4eE59dyH)
 - **Hezel for Apple Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/1d/ca/0d1dca3a-3f22-0269-44a1-ae4075fa415d/AppIcon-0-0-1x_U007ephone-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SuvzvmNX)
 
-- **Hezel for Apple Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/1d/ca/0d1dca3a-3f22-0269-44a1-ae4075fa415d/AppIcon-0-0-1x_U007ephone-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SuvzvmNX)
 - **flutter-room-app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/87/39/47873988-3f8d-628d-688e-47abb521cbad/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NzmtvJ6n)
 
 - **Matterport**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/1e/62/a91e627c-14a2-5459-8bf1-dc15e0feda94/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/htfXQ8jV)
@@ -66,8 +65,6 @@
 
 - **哔哩哔哩-弹幕番剧直播高清视频**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/ec/6f/9cec6f97-8a32-9b63-8d3a-29cdcfaf3f2f/AppIcon-testflight-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/K4pM1kHu)
 - **WebSSH - SysAdmin Tools**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/3e/1c/f53e1cfb-bd32-673d-2e17-dc68e0e3ade9/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QSrBK59z)
-
-- **Moonlight VisionOS Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d8/fa/a5d8fafa-dafe-d60e-cbf3-db825891c2c8/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/4eE59dyH)
 
 - **Kurviger Motorcycle Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/63/e2/4263e2e9-f7d1-1c8c-f0b9-78c355eb6277/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2eMnS3D)
 - **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4e/19/9a4e19f1-50e6-a641-ea4a-2d4cfc1f7f1f/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P52kCv3Q)
@@ -2559,7 +2556,6 @@
 - **FIDS CSI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/af/cd/20afcd21-308c-d6e5-a8b3-24e3ded5b70f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nUbq3agO)
 - **Singora**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/ea/84/eaea84c2-ac6a-9aff-5cc3-23790a586081/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZauDAUft)
 - **Roze Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/8f/2e/3c8f2ee7-721f-3c95-36c5-c86deb2e63ea/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6HCft1JH)
-- **Test - Service Ape**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/53/be/db53be3e-e513-eae2-f9e8-aeb6b6ce1af4/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/v4iAsIiH)
 - **Pionex - Crypto Trading Bots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/5b/59/a65b59df-3474-4aba-f257-27fd85e48b40/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/61qN730h)
 - **Cosmo Pic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/b8/0b/1db80bc5-a9c0-6f09-7379-7038e3b23d1a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gXpYuS4R)
 - **群益交易王(暫)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/ac/06/35ac06bd-d98c-4a12-7a3d-3bb115a27c84/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A4okJiKF)
