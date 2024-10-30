@@ -1,6 +1,9 @@
 - **Flitsmeister**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/8d/d4/738dd465-5e0c-b8f8-5980-5938705e0cda/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GRUCakKw)
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/57/dd/a657dd9e-25f1-15c0-83ab-929b263a5a15/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 
+- **Flitsmeister**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/8d/d4/738dd465-5e0c-b8f8-5980-5938705e0cda/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GRUCakKw)
+- **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/57/dd/a657dd9e-25f1-15c0-83ab-929b263a5a15/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
+
 - **Backyard.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/31/ec/4c31ec24-07f9-cc7a-5258-2b5a27af8d74/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MaP0ap1E)
 
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/0b/1f/490b1f16-3abe-c649-6f83-ece085aa5fdd/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
@@ -194,5 +197,3 @@
 - **Shiba Kart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/10/03/7a100302-a57a-8073-9b8c-0b3b65e7d8d7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vAKGRW7)
 
 - **Record recipes with food files**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/7a/75/887a751f-4063-528f-2f39-33f0e227b73b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8SyQgx1n)
-
-- **Kinopio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/e4/a0/59e4a0c0-a6bb-a0ba-feeb-73c9a5b89b79/AppIcon-0-1x_U007epad-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VoN2TmsM)
