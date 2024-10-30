@@ -111,7 +111,6 @@
 
 - **War Robots Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/23/bc/6f23bc7e-334c-a3f3-0810-6495737ab7c4/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aE7qTf9G)
 
-- **Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/98/86/4b98861c-aafe-aa6d-12a5-c4fa0b6d8bcc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/njVWbUm0)
 - **BEL EV Charging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/f6/cc/55f6cc1b-591b-92d6-4921-9573853b71ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JfXsxnRc)
 
 - **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/4e/24684ecd-4357-0629-02c8-f80c964ea37b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
@@ -3008,7 +3007,6 @@
 - **Giftr - GIF Maker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/a7/2f/25a72f94-d19e-edcc-6492-daf6872fa46d/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-512MB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eyZbAhlV)
 - **Airtel TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/84/40/588440d7-3c38-8c77-27b5-e56e320b1196/WynkIcon-0-0-1x_U007emarketing-0-10-0-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/r0T6b6S1)
 - **MeshCom**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/bb/f5/84bbf5ea-bd39-1749-ce23-f0cf599d6781/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wG4vtaw4)
-- **Flexi-BLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/c8/96/6ec8962d-4c05-6944-bafa-9862a8318977/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LHyKxPmj)
 - **Royal Sydney Yacht Squadron**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/cb/c5/64cbc5b3-b283-1cc7-f40a-34d9493157ec/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SVJ8Flv7)
 - **Flashword - Save learnt words**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/8e/be/be8ebe99-29a7-56c4-c9f2-4ee0c38e9e4c/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ppl9QbFc)
 - **Greg - Plant Care**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/ab/ea/a8abea50-63c6-25e4-d0eb-8b6554f317b5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vYqAc3Lf)
@@ -4295,7 +4293,6 @@
 - **ForeverRealm**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/7c/37/9c7c3779-413d-b6aa-f74b-5be665e1ff7e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dy5TUU0M)
 - **Focus Bear**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/f0/e7/6ff0e7f1-6495-39fd-2a32-4ff07180a5c5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/axIWyrO7)
 - **APKTEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/e3/d4/4be3d461-2546-8c3b-bd17-db427514144f/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ppUqm1Vi)
-- **Microsoft Excel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/95/ce/5395cea8-2b57-ddcf-5940-f82779e47f1c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3lIiz1eZ)
 - **Thanh long order**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/82/8f/c8828f28-23ee-6b78-e463-a04a33547eda/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/I1vJNFRX)
 - **vGatePassClient**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/5e/f8/2a5ef826-e102-3ccd-fbe1-d0358c89bfb8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mapi2wfv)
 - **EyeScroll**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/03/1e/81031e8b-1015-68cb-8a0c-98648ed969b5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zWlrvtFq)
