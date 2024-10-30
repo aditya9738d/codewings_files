@@ -128,9 +128,6 @@
 
 - **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/20/c2/c720c25b-2882-c81c-7c34-7c92bf851d61/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
 
-- **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/63/2a/d3632a32-3b03-b22a-7769-56c81ce86623/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
-- **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/ef/ef/c5efef38-c496-7b3c-1698-8939495b5b14/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
-
 - **Relm.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/b4/fc/9db4fc65-f51a-544c-eb69-fdf6f72fa6ed/Relm-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KU5YfpQ4)
 
 - **Royale Town**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/35/ec/7835ec61-bc97-7d76-7aea-32414ff0381e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d7TDODwA)
@@ -4802,7 +4799,6 @@
 - **OVPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/0f/bb/790fbba1-607e-2506-6f52-b5176d745f84/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Iar37APz)
 - **Baculator Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/ac/1e/32ac1ec5-9bb3-e1c2-cf8e-0b1313ba9a7d/icon4-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/0RLAl47s)
 - **Christ In Song Multi-Language**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/ad/3c/0dad3c97-4196-5cd0-4182-0ab27870b5db/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4fio0gcd)
-- **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/83/47/a783478b-052d-9f4f-c95e-cea3ab3dace6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
 - **Onez Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/a6/33/43a63322-8e9a-059b-28d8-4beb5fb85b3c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6py8Ys5D)
 - **おそうじ革命通知**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/01/9a/9f019add-b4b5-5f6d-5188-6d2a762f64dc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XJzH2pqt)
 - **M&G-Stage**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/e8/0b/dce80b9a-bf1e-119e-dab7-49ce52c88c16/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XRhQpaqD)
