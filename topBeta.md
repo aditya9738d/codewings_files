@@ -125,8 +125,6 @@
 
 - **The Battle of Polytopia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b5/1b/9cb51be7-af4b-8720-f863-62909cede72b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LjTQNqua)
 
-- **Flüsterwald: Das Story Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/93/15/76931500-89ff-3721-a9a5-10358ee203e9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/foSSgA9g)
-
 - **Overcast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/f3/ae/a9f3ae11-17a8-d309-57de-6eab8b78b32f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/37azzGPG)
 
 - **Elestrals TCG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/56/c2/d056c266-c6dd-4883-76fd-a0ef8500428c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c3eNuA4G)
@@ -7307,7 +7305,6 @@
 - **Grit - Get Fit Together**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/04/31/c60431ee-be0d-2690-87bf-5d60fe5f2827/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Lyt6VliN)
 - **ClearWatt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/eb/2c/e1eb2cb3-08ce-64ed-4c26-4460ece869b6/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/fvBbiwLc)
 - **Link3: Pro Network Reimagined**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/00/df/af00df4d-1762-09fc-9e2b-6f5a6016905b/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qCOPPBY0)
-- **MIT App Inventor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/4a/e5/4c4ae5c9-721c-906f-6685-84fd494f4839/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nBNtKhYl)
 - **云杉小助手**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/40/c2/3940c2fd-0f23-6023-f6e4-d823e6afd3d0/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PDNmpJ4R)
 - **Miswag**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/db/24/02db242b-0b85-7383-727d-ddb3fb018354/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HTxnVVIX)
 - **CountryRadioApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/2b/54/512b54e3-df43-5f4a-b0b7-41c2e970a74d/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vGfPYWSc)
