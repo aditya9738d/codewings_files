@@ -58,7 +58,6 @@
 - **Google Play Console**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/8a/46/b98a465a-297c-9a5e-f646-104ac3d1f22d/logo_play_console_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaYJV735)
 - **Groq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/8f/8e/578f8ebe-b33b-456c-6605-9e1ab2bac70c/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9X0wGsi)
 
-- **Moonlight VisionOS Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d8/fa/a5d8fafa-dafe-d60e-cbf3-db825891c2c8/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/4eE59dyH)
 - **Hezel for Apple Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/1d/ca/0d1dca3a-3f22-0269-44a1-ae4075fa415d/AppIcon-0-0-1x_U007ephone-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SuvzvmNX)
 
 - **Test - Service Ape**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/79/a5/5e79a536-7c28-f836-e03d-c873deaf4df6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/v4iAsIiH)
@@ -6973,7 +6972,6 @@
 - **ドロップモンスター**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/4e/07/434e0771-d82b-b1dc-aecc-4d4863afa597/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GkrOZzOa)
 - **Lang La Thuc Tinh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/ff/e9/a5ffe991-301f-46d3-41b5-b37567ae4a33/AppIcon-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OWfIX2X4)
 - **FiveNotes Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/db/15/56db15de-9bfd-3562-e8f3-44256c5e3552/AppIcon_Beta-0-0-1x_U007epad-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RWV1Cq80)
-- **Kikoeru**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/6c/65/126c65de-70a4-09e0-e562-da860f617c66/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zh9mreFq)
 - **银魂集结**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/df/80/b6df8002-34d0-3dfd-5998-58352d718b75/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BsxGxEsz)
 - **Webull - US Stocks & Options**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/50/a7/bc50a754-09fe-6154-f332-02b6e201ca81/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/umWQoHu1)
 - **i小康dat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/99/0b/79990bb6-9420-54c4-63f7-84c7b5d65681/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ajFiTw2s)
