@@ -6391,23 +6391,6 @@
             },
             {
                 "lastChecked": "2024-10-10T07:51:08.190Z",
-                "id": "16500",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "not accepting",
-                        "timestamp": "2024-10-10T07:51:08.190Z",
-                        "clickCount": 0
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/71OpCY6Z",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/bc/c3/a8bcc33c-25d4-a4a6-6c73-c18fecc588b3/appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
-                "clickCount": 0,
-                "betaAvailable": "not accepting",
-                "name": "IEG Reservations Management"
-            },
-            {
-                "lastChecked": "2024-10-10T07:51:08.190Z",
                 "id": "72944",
                 "categories": [],
                 "history": [
@@ -8374,23 +8357,6 @@
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/ff/58/69ff58e6-b26b-a336-7ed3-12b2c37740fe/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
                 "clickCount": 8,
                 "betaAvailable": "not accepting",
-                "lastChecked": "2024-10-31T07:55:21.654Z"
-            },
-            {
-                "name": "Verdant Bank Super App",
-                "id": "30089",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "open",
-                        "clickCount": 7,
-                        "timestamp": "2024-10-27T22:45:24.612Z"
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/0rFnzXio",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/a4/59/0ba459d8-31c7-a9d2-1724-1d8d5421278c/GxAppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
-                "clickCount": 7,
-                "betaAvailable": "open",
                 "lastChecked": "2024-10-31T07:55:21.654Z"
             },
             {
@@ -14436,23 +14402,6 @@
                 "name": "Subscriptions - Track Expenses"
             },
             {
-                "name": "FluvalSmart",
-                "id": "78570",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "open",
-                        "timestamp": "2024-10-28T13:05:25.444Z",
-                        "clickCount": 13
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/74j34HG2",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/cd/8f/51cd8fb4-a26f-98d1-81a7-12a83372344a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
-                "clickCount": 13,
-                "betaAvailable": "open",
-                "lastChecked": "2024-10-29T14:30:54.945Z"
-            },
-            {
                 "lastChecked": "2024-10-29T14:30:54.945Z",
                 "id": "82800",
                 "categories": [],
@@ -14815,23 +14764,6 @@
                 "clickCount": 11,
                 "betaAvailable": "open",
                 "lastChecked": "2024-10-30T09:10:27.827Z"
-            },
-            {
-                "name": "\u7eff\u8054\u79c1\u6709\u4e91",
-                "id": "95692",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "not accepting",
-                        "clickCount": 7,
-                        "timestamp": "2024-10-28T17:10:29.503Z"
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/pHhy9T62",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/3a/70/233a709f-7bd5-df10-a0d6-c5d4b8905912/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png",
-                "clickCount": 7,
-                "betaAvailable": "not accepting",
-                "lastChecked": "2024-10-31T08:35:26.895Z"
             },
             {
                 "name": "\u5ee3\u544a\u958b\u767c\u5c08\u7528",
@@ -19002,23 +18934,6 @@
                 "lastChecked": "2024-10-29T20:55:24.948Z"
             },
             {
-                "name": "PlayG",
-                "id": "17924",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "open",
-                        "timestamp": "2024-10-29T20:55:24.948Z",
-                        "clickCount": 98
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/zQUlkcy0",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6e/36/9e6e36d3-6289-4028-4723-20137fbf559a/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png",
-                "clickCount": 98,
-                "betaAvailable": "open",
-                "lastChecked": "2024-10-29T20:55:24.948Z"
-            },
-            {
                 "name": "Ticci Tabs",
                 "id": "44653",
                 "categories": [],
@@ -19710,25 +19625,6 @@
                 "clickCount": 262,
                 "betaAvailable": "open",
                 "name": "Reddit"
-            },
-            {
-                "name": "IOSZERO VIPVN",
-                "id": "14115",
-                "categories": [
-                    "Games"
-                ],
-                "history": [
-                    {
-                        "status": "not accepting",
-                        "timestamp": "2024-10-28T18:15:31.824Z",
-                        "clickCount": 721
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/4V5BK1O0",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/57/225a573f-ac47-a7c5-e734-4ef3ea3f6f66/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
-                "clickCount": 721,
-                "betaAvailable": "not accepting",
-                "lastChecked": "2024-10-29T16:45:40.188Z"
             },
             {
                 "name": "TikTok Music",
@@ -25007,23 +24903,6 @@
                 "lastChecked": "2024-10-31T08:15:32.096Z"
             },
             {
-                "name": "Once Human",
-                "id": "97465",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "full",
-                        "timestamp": "2024-10-31T08:15:32.096Z",
-                        "clickCount": 114
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/P8z9Zbyj",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/e4/6e/cfe46e03-bb26-c780-62b9-801d22797ff2/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
-                "clickCount": 114,
-                "betaAvailable": "full",
-                "lastChecked": "2024-10-31T08:15:32.096Z"
-            },
-            {
                 "name": "Pannnnnnnntry",
                 "id": "35487",
                 "categories": [],
@@ -25535,23 +25414,6 @@
             },
             {
                 "lastChecked": "2024-10-30T11:25:20.555Z",
-                "id": "36995",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "not accepting",
-                        "timestamp": "2024-10-29T19:55:45.818Z",
-                        "clickCount": 19
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/evSNfx6v",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/9a/a2/d39aa293-1a87-d84e-3bee-fcae279f21e2/AppIcon-0-0-1x_U007emarketing-0-2-85-220.png/200x200bb-8.png",
-                "clickCount": 19,
-                "betaAvailable": "not accepting",
-                "name": "Spin Cricket"
-            },
-            {
-                "lastChecked": "2024-10-30T11:25:20.555Z",
                 "id": "91358",
                 "categories": [],
                 "history": [
@@ -25997,23 +25859,6 @@
                 "clickCount": 7,
                 "betaAvailable": "open",
                 "lastChecked": "2024-10-30T09:25:18.793Z"
-            },
-            {
-                "lastChecked": "2024-10-30T09:25:18.793Z",
-                "id": "35514",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "not accepting",
-                        "timestamp": "2024-10-30T09:25:18.793Z",
-                        "clickCount": 7
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/Hvj9S0SX",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/99/27/e69927ec-8fd3-9455-3fa8-7b3a0d0f2a09/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
-                "clickCount": 7,
-                "betaAvailable": "not accepting",
-                "name": "FUTO Circles"
             },
             {
                 "lastChecked": "2024-10-31T07:35:25.551Z",
@@ -27383,23 +27228,6 @@
                 "name": "Bezel \u2022 Screen Broadcasting"
             },
             {
-                "name": "CharMap",
-                "id": "70326",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "open",
-                        "clickCount": 6,
-                        "timestamp": "2024-10-28T09:05:20.365Z"
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/br85GVrs",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/74/06/c07406e1-d48e-adb6-8f85-95a183dd1f85/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-8.png",
-                "clickCount": 6,
-                "betaAvailable": "open",
-                "lastChecked": "2024-10-28T09:05:20.365Z"
-            },
-            {
                 "name": "Proximus+",
                 "id": "10344",
                 "categories": [],
@@ -27413,23 +27241,6 @@
                 "link": "https://testflight.apple.com/join/toywNocd",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/52/b9/07/52b9073d-1efb-a40b-5905-c086d32ea90a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
                 "clickCount": 15,
-                "betaAvailable": "not accepting",
-                "lastChecked": "2024-10-28T09:05:20.365Z"
-            },
-            {
-                "name": "dEmpire of Vampire",
-                "id": "81129",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "not accepting",
-                        "timestamp": "2024-10-28T09:05:20.365Z",
-                        "clickCount": 24
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/I0939Yj3",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/3e/4a/d23e4aa7-357c-467c-c0ed-ea3ad8a06016/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
-                "clickCount": 24,
                 "betaAvailable": "not accepting",
                 "lastChecked": "2024-10-28T09:05:20.365Z"
             },
@@ -28043,23 +27854,6 @@
                 "clickCount": 23,
                 "betaAvailable": "open",
                 "name": "iTelevision"
-            },
-            {
-                "name": "BestTV - Live Stream Player",
-                "id": "73803",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "not accepting",
-                        "timestamp": "2024-10-28T14:35:24.308Z",
-                        "clickCount": 13
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/rAW6sArn",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/a5/12/05a512f1-26d9-3953-b091-f7c413bb7755/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png",
-                "clickCount": 13,
-                "betaAvailable": "not accepting",
-                "lastChecked": "2024-10-29T15:35:23.503Z"
             },
             {
                 "name": "\u5947\u6e38\u624b\u6e38\u52a0\u901f\u5668-\u5168\u7403\u6e38\u620f\u7545\u73a9",
@@ -30707,23 +30501,6 @@
                 "lastChecked": "2024-10-30T12:04:22.840Z"
             },
             {
-                "lastChecked": "2024-10-30T12:04:22.840Z",
-                "id": "99922",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "open",
-                        "clickCount": 13,
-                        "timestamp": "2024-10-29T20:25:26.351Z"
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/MAPGP3FP",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d9/20/7fd92030-5c20-a3e5-5138-6551fc605353/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
-                "clickCount": 13,
-                "betaAvailable": "open",
-                "name": "Rebel Skies"
-            },
-            {
                 "name": "VuTruNgocRong",
                 "id": "53778",
                 "categories": [],
@@ -31810,23 +31587,6 @@
                 "name": "Life360: Find Friends & Family"
             },
             {
-                "name": "Userscripts",
-                "id": "96081",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "open",
-                        "timestamp": "2024-10-30T07:15:30.919Z",
-                        "clickCount": 5
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/2L3V6N2s",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/06/3e/6a063ef9-511d-0ed8-f091-b5c47a432ed5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
-                "clickCount": 5,
-                "betaAvailable": "open",
-                "lastChecked": "2024-10-30T07:15:30.919Z"
-            },
-            {
                 "lastChecked": "2024-10-30T07:15:30.919Z",
                 "id": "38428",
                 "categories": [],
@@ -32048,23 +31808,6 @@
                 "clickCount": 5,
                 "betaAvailable": "not accepting",
                 "name": "Magic Ahoi P"
-            },
-            {
-                "lastChecked": "2024-10-30T07:15:30.919Z",
-                "id": "79992",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "open",
-                        "clickCount": 11,
-                        "timestamp": "2024-10-30T07:15:30.919Z"
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/qkTTNyGj",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/db/06/dbdb0645-666a-4926-3221-1842206668a3/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
-                "clickCount": 11,
-                "betaAvailable": "open",
-                "name": "Tivatrainer"
             },
             {
                 "name": "Applight \u2013 Next App Switcher",
@@ -32810,23 +32553,6 @@
                 "lastChecked": "2024-10-31T07:25:19.330Z"
             },
             {
-                "lastChecked": "2024-10-31T07:25:19.330Z",
-                "id": "59324",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "full",
-                        "clickCount": 47,
-                        "timestamp": "2024-10-30T08:00:59.830Z"
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/iHcEgAaT",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/f1/48/def1481c-54cf-e3ae-e478-eaecb244975b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
-                "clickCount": 47,
-                "betaAvailable": "full",
-                "name": "Norton 360 Security & VPN"
-            },
-            {
                 "name": "Critical Ops: Online PvP FPS",
                 "id": "51686",
                 "categories": [],
@@ -33046,23 +32772,6 @@
                 "clickCount": 7,
                 "betaAvailable": "not accepting",
                 "name": "Wombat - Home of NFT Gaming"
-            },
-            {
-                "lastChecked": "2024-10-31T08:20:28.552Z",
-                "id": "31698",
-                "categories": [],
-                "history": [
-                    {
-                        "status": "not accepting",
-                        "timestamp": "2024-10-31T08:20:28.552Z",
-                        "clickCount": 143
-                    }
-                ],
-                "link": "https://testflight.apple.com/join/nSONe1lZ",
-                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/f6/62/37f66217-601a-980d-65ad-80763fcf24eb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
-                "clickCount": 143,
-                "betaAvailable": "not accepting",
-                "name": "Launchcraft"
             },
             {
                 "name": "Mi App Megalabs",
