@@ -87,7 +87,6 @@
 
 - **Homey — A better smart home**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/32/88/0d328848-19e2-bf86-4292-4609f7598d0e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tA2e9vby)
 
-- **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/90/13/c9901350-c632-fa66-ee6f-0337e0a89d9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
 - **ExpressVPN: Fast & Secure VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/19/77/f01977d6-d166-e4f9-878f-0b39ce1c0056/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6flRfmYW)
 - **Obzervr Capture**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/c2/9b/b7c29bfb-09fc-6684-f17f-da013eeaadd2/AppIcons-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/75kkKXrm)
 
@@ -158,8 +157,6 @@
 - **Courier Rider VN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/a5/d8/bca5d818-cb39-1b9b-1ea6-76e3decb6467/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/saF5qiaj)
 
 - **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
-
-- **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ef/14/5aef1479-e046-ea50-0422-b94572620adf/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
 
 - **A Better Routeplanner (ABRP)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/27/74/6a27749f-5510-0137-16ca-764f22091514/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uX9LuvcQ)
 
