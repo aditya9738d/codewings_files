@@ -1,3 +1,7 @@
+- **Userscripts**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/20/9c/18209cbc-dc18-64dd-53c4-18854d058320/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7k1tJmec)
+- **Lock Launcher - Screen Widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/80/f9/c680f9f5-79b8-8870-1811-c3d37c8d9451/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/clHxFnLa)
+- **CPM VN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/ab/b9/b4abb976-13d5-a22e-73fe-a5c37c33558a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Nu0VgBBq)
+
 - **Test - Service Ape**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/79/a5/5e79a536-7c28-f836-e03d-c873deaf4df6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/v4iAsIiH)
 - **Moonlight VisionOS Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d8/fa/a5d8fafa-dafe-d60e-cbf3-db825891c2c8/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/4eE59dyH)
 
