@@ -5,9 +5,6 @@
 - **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ef/14/5aef1479-e046-ea50-0422-b94572620adf/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/90/13/c9901350-c632-fa66-ee6f-0337e0a89d9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
 
-- **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ef/14/5aef1479-e046-ea50-0422-b94572620adf/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
-- **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/90/13/c9901350-c632-fa66-ee6f-0337e0a89d9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
-
 - **Trakt TV Tracker: FilmNoir**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/53/52/765352f8-1b81-13fe-18b9-b3a6583cabf6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
 
 - **Flüsterwald: Das Story Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/93/15/76931500-89ff-3721-a9a5-10358ee203e9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/foSSgA9g)
@@ -98,7 +95,6 @@
 - **ExpressVPN: Fast & Secure VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/19/77/f01977d6-d166-e4f9-878f-0b39ce1c0056/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6flRfmYW)
 - **Obzervr Capture**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/c2/9b/b7c29bfb-09fc-6684-f17f-da013eeaadd2/AppIcons-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/75kkKXrm)
 
-- **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
 - **Adobe Scan: PDF & OCR Scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/f0/3d/34f03d8e-ff6a-5849-28a2-7fac9be28f3e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yP3SqM7b)
 
 - **Jarvis World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/d8/f4/61d8f4ab-316c-9313-b372-dc6f902ef2ec/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nPy0c7Yi)
@@ -2146,7 +2142,6 @@
 - **DiapStash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/20/cd/e920cd08-da1b-36e4-1051-0fd913e357bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sDXYZAda)
 - **小蚁社工**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/d1/71/52d17125-317f-55f0-e570-596bad17c074/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RVBmry6X)
 - **imag!n**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/ab/a7/c6aba726-3a4d-d808-b369-6870d0d840bf/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iMSqWMNV)
-- **World Clock Time Zone Widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/f5/d5/f8f5d5a4-6497-cc32-a1a3-d7e3459f7e8b/AppIcon-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/W4icDq8K)
 - **Agora Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/3f/95/a43f95df-5773-6c75-b21a-9618555cc3d1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MO0UuYJH)
 - **Thập Đại Anh Hùng 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/fd/49/80fd4913-d739-6708-eb21-5007e3300a0d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAG6vC6N)
 - **友金展业**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/2e/ac/162eac83-adc6-c525-1c4d-e3507a553e6b/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HcYwrWa2)
@@ -3976,7 +3971,6 @@
 - **Obscura — Pro Camera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/0f/de/9c0fde54-70fc-23a1-5377-5771b30d79f4/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/11YUmxAX)
 - **Bajaj Capital**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/b8/04/fdb80446-56f6-4b62-98f3-3ffeb7a5c275/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SjpszwTV)
 - **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/bd/a3/02bda355-ff6e-b2dc-48e4-b59ee8645879/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
-- **LocalTV+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/9e/36/1d9e36f9-1627-4462-d238-098ebda7dd0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NjF32DZj)
 - **H Band - 大陆版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/ad/cb/72adcb74-34dc-ddba-ecf1-75f287fbbf12/AppIconLite-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dfm8u2UQ)
 - **储宝宝 - 证券理财投资app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/1a/6c/a71a6cc1-1c8d-93e4-243f-611af42c5d25/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7vX9k8kA)
 - **公主连结公会战**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/10/ec/9f10ec82-469d-91f1-62e6-7c4988c827d9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHCIN2qI)
