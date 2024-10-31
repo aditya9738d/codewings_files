@@ -1,9 +1,6 @@
 - **Test - Service Ape**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/79/a5/5e79a536-7c28-f836-e03d-c873deaf4df6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/v4iAsIiH)
 - **Moonlight VisionOS Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d8/fa/a5d8fafa-dafe-d60e-cbf3-db825891c2c8/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/4eE59dyH)
 
-- **Test - Service Ape**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/79/a5/5e79a536-7c28-f836-e03d-c873deaf4df6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/v4iAsIiH)
-- **Moonlight VisionOS Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d8/fa/a5d8fafa-dafe-d60e-cbf3-db825891c2c8/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/4eE59dyH)
-
 - **Kikoeru**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/69/43/b0694320-1dec-ac9b-0bc7-c88981ad75f0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zh9mreFq)
 
 - **SAG Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/5e/b9/fe5eb93a-4137-34ef-3b40-f3b14813b222/AppIcon-1x_U007emarketing-0-2-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/pWyUuGcp)
