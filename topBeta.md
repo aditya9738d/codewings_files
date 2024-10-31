@@ -120,8 +120,6 @@
 
 - **The Battle of Polytopia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b5/1b/9cb51be7-af4b-8720-f863-62909cede72b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LjTQNqua)
 
-- **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/1b/69/2f1b69ed-6513-49b8-e934-09758e9af99e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
-
 - **Flüsterwald: Das Story Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/93/15/76931500-89ff-3721-a9a5-10358ee203e9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/foSSgA9g)
 
 - **Overcast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/f3/ae/a9f3ae11-17a8-d309-57de-6eab8b78b32f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/37azzGPG)
@@ -5499,7 +5497,6 @@
 - **Blocto: Crypto Wallet & NFTs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/5c/e3/b85ce3a7-57fc-ffe1-b862-4c7b01ba46bf/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zxlMasyx)
 - **Call Recorder App ◉ACR MyCalls**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/cb/8a/f4cb8a93-7d6f-22ed-158c-cc17732cb4c9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aIv8Y1wK)
 - **Nizz - Chore Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/8c/08/6e8c08fc-7fc3-3109-d0e0-0dc198431acc/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dvvZ01V5)
-- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/02/4a/fc024af6-a301-c97d-59bf-ad27a8d300e8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 - **Paired**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/13/45/fc1345b5-2a42-e205-2303-85cf399f449a/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sA2pj2Be)
 - **Time’s Up! — Visual Timer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/2f/8f/ab2f8f5c-68d9-9b59-e941-e9dd15e1675a/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wLaAUd6G)
 - **GradeAFuel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/94/56/bc945616-2988-6042-26bb-eeffdca56b48/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vP2QxWBS)
