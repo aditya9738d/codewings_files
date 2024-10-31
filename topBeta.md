@@ -11,9 +11,6 @@
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/4a/f5/254af56a-9bc8-ccb4-8723-ccd133796235/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 
-- **Flitsmeister**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/8d/d4/738dd465-5e0c-b8f8-5980-5938705e0cda/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GRUCakKw)
-- **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/57/dd/a657dd9e-25f1-15c0-83ab-929b263a5a15/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
-
 - **Backyard.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/31/ec/4c31ec24-07f9-cc7a-5258-2b5a27af8d74/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MaP0ap1E)
 
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/0b/1f/490b1f16-3abe-c649-6f83-ece085aa5fdd/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
@@ -5717,7 +5714,6 @@
 - **T3出行-高品质打车平台**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/2a/9c/342a9c6c-1672-f571-a34f-13379225d289/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nUhAObOE)
 - **unitelOrder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/19/ba/0319ba54-5b64-d617-c7a7-40a0188d1e72/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xCujhfBY)
 - **汇联易stage**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/61/72/5e617274-1611-5c9c-e45b-3b5b0dbc1e90/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ckCo0bXI)
-- **Yattee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/b4/47/11b4472c-0fa9-7423-1939-966a206a5cc5/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ljQuQU5r)
 - **Gaia GPS: Mobile Trail Maps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6a/99/216a996b-9941-c068-d9d9-3fb7998833b6/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p8VbkGyT)
 - **UBI CRM EDGE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/94/d4/6c94d4d9-a7af-d9c6-150a-93f95b958ae9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Pd1FSy0A)
 - **Unwrappd**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/4d/b7/504db7d9-7810-7c43-bdfa-d055ac46535d/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wiErMx8s)
