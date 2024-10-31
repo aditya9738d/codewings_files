@@ -30,7 +30,6 @@
 - **Flexi-BLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/a6/44/5ea64431-bd75-4d57-5aeb-8798b0c49cc9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LHyKxPmj)
 - **Microsoft Excel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b1/29/cdb1299f-cb64-297f-45cb-1f1215cad2f8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3lIiz1eZ)
 
-- **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/8f/b2/a48fb258-606c-edb0-0990-f5d5fd1fd22a/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
 - **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/0f/83/2e0f83ef-fa04-1979-8ff2-458cc7707f2d/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
 
 - **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/f5/7e/4af57eea-1914-3011-47f9-5f50737ddab0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
@@ -233,8 +232,6 @@
 - **My Bank Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/45/c3/3745c3c9-06e3-f3e4-6b4e-7577b9c65784/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ukGDuc5w)
 
 - **Dragon Boys Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/95/96/8895969c-6359-979a-f893-888cb583815b/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LSssxcKH)
-
-- **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
 
 - **My Macros+ | Diet & Calories**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/cd/4f/cccd4f1a-b1e1-7761-3996-30259b50c719/AppIcon2022-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D57uwXTy)
 
@@ -3703,7 +3700,6 @@
 - **Wikipedia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/d6/39/76d6392a-d5d9-81a7-407b-f776a09a8d8f/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Z0AU0KXC)
 - **Shopify - Your Ecommerce Store**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/20/e3/e120e3c4-e863-49c6-5d7b-9acd3bcc37d9/AppIcon-com.jadedpixel.shopify-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XuMIYekt)
 - **Sitefotos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/33/62/093362d4-3190-f0b9-ab63-497f0218ae92/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mUfUXNwb)
-- **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/74/1f/e5741f0d-70bc-f694-35e7-ea1679e8a698/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
 - **DFM - Dubai Financial Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/41/85/b941859b-1739-728e-8c8d-67b25659e788/AppIcon-NEW-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/aCoL0El2)
 - **On: Shop Shoes & Apparel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/10/50/b710508f-b10c-9282-2e98-0d00e3178d59/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xXPcBCE3)
 - **InfiniTime - Widget Reminders**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/2d/bc/8f2dbcb6-0d9a-afdf-8ed4-1ea7ba536030/AppIcon-1x_U007epad-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VYgsR7d8)
