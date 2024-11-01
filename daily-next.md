@@ -96,7 +96,6 @@
 
 - **Windows App Mobile Beta Two**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/32/dff93299-e7c7-4573-9775-4b2baeed3c95/AppIconBeta-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q4ha2nsh)
 - **DiaBLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/07/da/a007da64-a174-04f0-4f93-8ffbc447341f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H48doU3l)
-- **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
 
 - **Microsoft Defender: Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/0e/a8/690ea8aa-c84d-9913-ee63-a9358e59ee22/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AYVtbvfc)
 
