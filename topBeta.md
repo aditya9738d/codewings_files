@@ -33,9 +33,6 @@
 - **World Clock Time Zone Widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/7c/8c/0d7c8c72-4cd8-27c9-c21c-fe57cf689761/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/W4icDq8K)
 - **LocalTV+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/0f/da/bf0fdae2-ee22-b2b2-c2c8-c558bca8acc2/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NjF32DZj)
 
-- **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ef/14/5aef1479-e046-ea50-0422-b94572620adf/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
-- **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/90/13/c9901350-c632-fa66-ee6f-0337e0a89d9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
-
 - **Trakt TV Tracker: FilmNoir**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/53/52/765352f8-1b81-13fe-18b9-b3a6583cabf6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
 
 - **Flüsterwald: Das Story Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/93/15/76931500-89ff-3721-a9a5-10358ee203e9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/foSSgA9g)
@@ -441,7 +438,6 @@
 - **تطبيق بنك الشرق اليمني**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/16/d8/8016d853-859e-402f-9ece-e1267bf5ea17/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dBK2i6OK)
 - **HiberniaVPN: Anonymous VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/20/0a/27200a2a-47fd-a7df-ac16-f13e16614246/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mzI7Ao9J)
 - **Fidget Grid - Stress Relief**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/ab/c5/b4abc559-b50b-0e5e-9953-48be699966ec/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n9TzNMyY)
-- **SANDS Movie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/65/f2/3f65f26e-9962-a9cc-8e86-954b929a5acc/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3nfJLyC1)
 - **DropZap World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/bd/2c/0bbd2cae-5218-faab-679e-2fa1efb06fcd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CdEXgjst)
 - **Vultisig-v0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/72/9a/79729a24-0257-2e7e-0b05-85192360525a/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CHHICwnO)
 - **求む！洞窟探検家**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/bd/5b/b5bd5be2-11a2-24a8-96df-d9cfdb928591/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gMzq8xS4)
