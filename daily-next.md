@@ -1,7 +1,5 @@
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
 
-- **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
-
 - **VOGA LIVE - Global Video Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/70/ea/6270ea6f-4a68-ce73-9666-f2f1268cc9e9/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XQ21gmCB)
 - **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/85/67/a38567a0-f6b7-0ff9-26ad-efe33c0f572b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
 
