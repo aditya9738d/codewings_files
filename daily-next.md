@@ -1,3 +1,6 @@
+- **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/d3/41/5bd341bd-cbde-810e-62e7-f4f360a1c9a2/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
+- **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/1e/bc1b1e5d-7eb3-60e7-b8ba-4b7ac56a75f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
+
 - **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/4b/88/994b88e0-0dc4-b3f6-69fc-d652d651db1a/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
 - **FindMe Show**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/4b/98/9f4b98a6-9db0-1a6e-350b-313ceaf3f94a/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/1jsXHD60)
 
@@ -195,5 +198,3 @@
 - **Mate Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/34/42/3f3442a8-c441-f8be-a6b9-f33d01d6db1c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w7rrqFpV)
 - **MADFUT 25**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/8a/7d/0c8a7d59-7c99-f5f2-074b-70043981a24a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYRuSXAa)
 - **Gymner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/2d/12/432d1243-c3d3-f581-1f4c-d4742507befc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P1paQatW)
-
-- **Rebel Skies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d9/20/7fd92030-5c20-a3e5-5138-6551fc605353/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MAPGP3FP)
