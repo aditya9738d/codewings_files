@@ -3,8 +3,6 @@
 
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
 
-- **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
-
 - **VOGA LIVE - Global Video Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/70/ea/6270ea6f-4a68-ce73-9666-f2f1268cc9e9/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XQ21gmCB)
 - **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/85/67/a38567a0-f6b7-0ff9-26ad-efe33c0f572b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
 
@@ -15,7 +13,6 @@
 
 - **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/1e/bc1b1e5d-7eb3-60e7-b8ba-4b7ac56a75f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
 
-- **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/4b/88/994b88e0-0dc4-b3f6-69fc-d652d651db1a/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
 - **FindMe Show**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/4b/98/9f4b98a6-9db0-1a6e-350b-313ceaf3f94a/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/1jsXHD60)
 
 - **DKB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/3e/db/e73edba5-9815-f1c3-bbf4-465b4bbd5365/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NwCXWAEI)
@@ -5791,7 +5788,6 @@
 - **RUNERGY**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/db/ad/7fdbad99-6f09-c79a-cc19-5cdb21676909/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FxyqcmQV)
 - **republica**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/af/67/aaaf6745-ed10-1281-78a1-2044c2db0e54/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vf2XROFY)
 - **GuaGuaChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/c7/a0/c5c7a002-29ac-6e22-db54-49641f214947/AppIcon-0-1x_U007ephone-0-10-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dqYPZDSw)
-- **Envision AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/63/69/a6636935-1b28-be41-24a3-9f49663ac684/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QzPGfNeH)
 - **slice: pay later - Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/d6/b4/64d6b4dc-f700-2107-c9e4-7f67ba8fd1af/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6Vs7WMVQ)
 - **Tomorrow – Mobile Banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/b6/d7/22b6d70b-6bbd-1490-ac76-933b1b6d5ddf/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gcyJwYvr)
 - **HCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/b6/88/9fb688a8-0ac0-0d8f-4562-eabfa75f039c/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/oYO03U7S)
