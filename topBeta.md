@@ -117,9 +117,7 @@
 - **BETANDYOU - Best bets for you**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/17/ac/9917ac50-f759-d9a3-2e2b-b744bbbd9954/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/x6aMHlck)
 
 - **foobar2000**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/a7/8d/54a78d70-8a91-084d-eb29-4f401ddd5763/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fM6L331c)
-- **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/4b/88/994b88e0-0dc4-b3f6-69fc-d652d651db1a/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
 
-- **FindMe Show**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/4b/98/9f4b98a6-9db0-1a6e-350b-313ceaf3f94a/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/1jsXHD60)
 - **Sonolus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/67/c6/0567c675-0ddf-4f5c-8e1c-b7174dfa1fe7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mdFtAf92)
 - **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/0c/b6/aa0cb61c-3cda-3c90-fa5e-3d29a41e986f/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
 
@@ -3955,7 +3953,6 @@
 - **DigiFinex -比特币/以太坊等虚拟货币交易所**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/d1/6b/74d16b94-796c-0d08-1733-7f0011af63a5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mjobfVml)
 - **中信智慧工地**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/4c/5c/cd4c5c6b-a5b9-2190-4888-47cdc870fb9c/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/LQVxTIeA)
 - **NewsBlur**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/5c/c8/eb5cc84f-0d55-2b61-007b-f07b94720073/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/hYk9WU3f)
-- **DKB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f6/75/13f67529-40f9-6b2a-a717-6a4b881a0428/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NwCXWAEI)
 - **NR Dolce**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/3c/6e/c93c6e5d-683d-3d41-ce10-1b83c64f3927/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qsnV2ifw)
 - **Brang**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/32/ab/4332abe4-243f-7b97-aa65-7370b2825abe/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JddbRrMz)
 - **挖币网-矿工实用工具大全**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/34/d9/e434d9c1-b8de-834c-136d-45881d56d3a9/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wOrttNQg)
