@@ -1,3 +1,6 @@
+- **Envision AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/2a/e8/d42ae8a0-701b-547d-4482-2e7977d696b8/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QzPGfNeH)
+- **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/ca/7c/21ca7cab-1cf7-67c8-6ed4-6044ccfd8e0e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
+
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
 
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
@@ -194,6 +197,3 @@
 - **TuneBot - For Spotify**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a4/a4/9ca4a40a-649f-5fba-6ef1-89751061cdca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VtAjgvJ9)
 
 - **Brave Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/e8/d8/c5e8d8e3-6961-3470-2944-c7a3708715a2/AppIcon_Beta-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Trcbh1o3)
-
-- **TOKIMEKI for Bluesky**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c1/fd/28c1fd25-4b0e-06ad-8089-bcd0d82c7b1a/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/chSOHsvh)
-- **CollaNote: Notes & PDF Markup**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f3/8f/42f38fa9-88d0-61b4-b152-a5ad68866175/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-GLES2_U002c0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AUPFQ7nd)
