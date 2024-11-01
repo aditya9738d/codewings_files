@@ -110,7 +110,6 @@
 
 - **Matterport**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/1e/62/a91e627c-14a2-5459-8bf1-dc15e0feda94/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/htfXQ8jV)
 
-- **Windows App Mobile Beta Two**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/32/dff93299-e7c7-4573-9775-4b2baeed3c95/AppIconBeta-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q4ha2nsh)
 - **DiaBLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/07/da/a007da64-a174-04f0-4f93-8ffbc447341f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H48doU3l)
 
 - **Microsoft Defender: Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/0e/a8/690ea8aa-c84d-9913-ee63-a9358e59ee22/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AYVtbvfc)
@@ -4746,7 +4745,6 @@
 - **DTalks**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/f6/86/21f686be-7c7e-469a-83c6-1b65870e948e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QhTCjaUQ)
 - **Passio Nutrition-AI Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d4/2f/13d42f53-9f5b-7be4-1ea6-65822179aceb/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8X1SS5l)
 - **ISAI Cloud**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/eb/7b/61eb7b01-f5a7-5982-d37c-7615a1dbcc25/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nylJX8pq)
-- **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/fa/57/16fa57a3-1b26-06c0-3461-522abaaf9b25/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 - **Veritas Market**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/9b/da/d09bdaba-ae49-3a8c-dfda-3ad5a889e305/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8kksZ7jU)
 - **Pixelfed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/5e/02/8d5e02fb-901f-201b-1bf0-c8ab2a281c93/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dNcLnb1n)
 - **Reeder 5.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/82/4c/05824c90-43c7-935a-228e-edfb0282484f/AppIcon-macOS-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/2w63KOGS)
@@ -7168,7 +7166,6 @@
 - **EquipNow**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/7b/2d/c57b2d8b-da30-5999-b761-3f85422f8582/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/taGW9cmp)
 - **RE.DOCTOR Vitals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/fb/a6/0efba668-955d-0ecc-084d-3ac135c5465f/AppIcon-1x_U007ephone-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GJbrR6il)
 - **北京保障房**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/e4/1f/c5e41f25-1bc4-34a7-9d05-f32314b9b12d/AppIcon-0-0-1x_U007ephone-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WUTqGohT)
-- **Ivory for Mastodon by Tapbots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/cf/8b/41cf8b5e-dd3c-b452-1984-7aee3d2cfe7c/AppIcon-0-0-1x_U007epad-0-0-0-0-0-P3-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dImiidIy)
 - **MyUWL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/22/c5/3b22c50c-e31b-fd2c-1eed-84a08db15a58/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XWhzM20R)
 - **OctaSpace VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/21/ce/b921ce67-04dc-7318-bd6a-f029283c33e1/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tqwL43P0)
 - **FITS Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/df/6e/5edf6e95-1ef5-e375-ce6f-f8fb161e285e/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/hjLZoqJv)
