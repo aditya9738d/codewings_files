@@ -1,4 +1,7 @@
 - **Obzervr Capture**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/c2/9b/b7c29bfb-09fc-6684-f17f-da013eeaadd2/AppIcons-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/75kkKXrm)
+- **Jarvis World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/d8/f4/61d8f4ab-316c-9313-b372-dc6f902ef2ec/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nPy0c7Yi)
+
+- **Obzervr Capture**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/c2/9b/b7c29bfb-09fc-6684-f17f-da013eeaadd2/AppIcons-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/75kkKXrm)
 - **Bunpro Japanese SRS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/4e/29/814e2986-b2f8-f917-1a72-f799040333c0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qWyvzy0e)
 - **Jarvis World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/d8/f4/61d8f4ab-316c-9313-b372-dc6f902ef2ec/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nPy0c7Yi)
 
@@ -195,4 +198,3 @@
 - **OSSOM APP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/81/61/8981618e-a7c2-8bc6-675e-9511db4b5374/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cgY69ZKG)
 
 - **xDrip4iO5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/91/4a/82914a16-5787-9564-e1dc-c7c5fb48d9bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6ZqKUGpm)
-- **MEGA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d3/28/ffd32897-98ed-aa37-4e7e-437502f4a36c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4x1P5Tnx)
