@@ -7,7 +7,6 @@
 - **Ivory for Mastodon by Tapbots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/19/5b/53195bf0-6538-312d-575b-c24fbf34e55d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AOOy02ZU)
 - **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/99/ee/de99ee61-f156-48a7-6f50-9b538985876c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 
-- **Jarvis World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/d8/f4/61d8f4ab-316c-9313-b372-dc6f902ef2ec/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nPy0c7Yi)
 - **Nowa Online World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/a5/45/6fa54537-2e5e-a109-3306-6b06dd541e20/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6QAZyVny)
 
 - **Kwai - watch cool videos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/d4/af/78d4afc3-0a22-9d98-21b6-5be849935b99/AppIcon-global-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jS8JvwOE)
@@ -127,7 +126,6 @@
 - **Homey — A better smart home**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/32/88/0d328848-19e2-bf86-4292-4609f7598d0e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tA2e9vby)
 
 - **ExpressVPN: Fast & Secure VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/19/77/f01977d6-d166-e4f9-878f-0b39ce1c0056/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6flRfmYW)
-- **Obzervr Capture**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/c2/9b/b7c29bfb-09fc-6684-f17f-da013eeaadd2/AppIcons-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/75kkKXrm)
 
 - **Adobe Scan: PDF & OCR Scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/f0/3d/34f03d8e-ff6a-5849-28a2-7fac9be28f3e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yP3SqM7b)
 
