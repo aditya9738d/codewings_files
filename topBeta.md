@@ -96,7 +96,6 @@
 
 - **Windows App Mobile Beta Two**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/32/dff93299-e7c7-4573-9775-4b2baeed3c95/AppIconBeta-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q4ha2nsh)
 - **DiaBLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/07/da/a007da64-a174-04f0-4f93-8ffbc447341f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H48doU3l)
-- **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
 
 - **Microsoft Defender: Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/0e/a8/690ea8aa-c84d-9913-ee63-a9358e59ee22/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AYVtbvfc)
 
@@ -4666,7 +4665,6 @@
 - **Satispay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/64/4b/2d644bd1-4cd0-27e4-7a12-99adcbb781db/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BTd5yUrl)
 - **WooCommerce**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/fe/67/2cfe6793-b4c8-92aa-1d4a-e35651ac5710/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OG3fWsDc)
 - **Save Our Secrets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/4d/b0/6a4db0a0-3043-112a-07cd-2acfe0d38315/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Hej0NMc)
-- **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/60/bb/2760bb35-16dd-2a30-c231-e9ecbea1c513/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
 - **HMS Victory Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/c2/cd/3ac2cd5d-b79f-417d-8895-c46d9bcc1ccb/AppIcon-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9qhDTvAZ)
 - **Realm - music collaboration**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/ae/17/5fae1747-8792-2780-9914-f714c706f5e4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/598FKK1g)
 - **Taco - WAX Utility Tools**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/a8/92/87a89220-2f87-dca2-32b5-e4e28be95af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/thvCAqM3)
