@@ -1,3 +1,7 @@
+- **Yattee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/11/b3/b511b380-cd21-86c3-4bcb-f5bc3950a169/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tLOhggn5)
+- **Flitsmeister**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/8d/d4/738dd465-5e0c-b8f8-5980-5938705e0cda/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GRUCakKw)
+- **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/57/dd/a657dd9e-25f1-15c0-83ab-929b263a5a15/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
+
 - **EV Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a2/00/75a200c9-8b1d-2901-5f84-206fa4f6a11a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8aDwjblU)
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 - **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/1b/69/2f1b69ed-6513-49b8-e934-09758e9af99e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
