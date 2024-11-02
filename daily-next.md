@@ -85,8 +85,6 @@
 - **World Clock Time Zone Widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/7c/8c/0d7c8c72-4cd8-27c9-c21c-fe57cf689761/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/W4icDq8K)
 - **LocalTV+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/0f/da/bf0fdae2-ee22-b2b2-c2c8-c558bca8acc2/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NjF32DZj)
 
-- **Trakt TV Tracker: FilmNoir**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/53/52/765352f8-1b81-13fe-18b9-b3a6583cabf6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
-
 - **Flüsterwald: Das Story Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/93/15/76931500-89ff-3721-a9a5-10358ee203e9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/foSSgA9g)
 
 - **Userscripts**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/20/9c/18209cbc-dc18-64dd-53c4-18854d058320/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7k1tJmec)
