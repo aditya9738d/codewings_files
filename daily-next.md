@@ -85,8 +85,6 @@
 - **Bitger - RJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/38/2c/1c382c85-24b9-05b1-da43-77c5f9ae2f54/AppIconTest-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DYycyG8k)
 - **MIT App Inventor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/c9/25/91c92503-70fc-4e54-cf48-5b97fda525a8/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nBNtKhYl)
 
-- **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/1b/69/2f1b69ed-6513-49b8-e934-09758e9af99e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
-
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/74/50/d07450bd-8ae7-8010-18c2-7d5c7e7a4ce8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 
 - **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
