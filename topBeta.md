@@ -1,3 +1,7 @@
+- **Radiacode**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/33/dc/b333dcb5-bc36-af10-9632-b3ca572e2230/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8hSPtm4Z)
+- **Audio Book Audible**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/ad/fa/ccadfa4b-c4e0-4a80-6152-737e0d14b90b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m2UI8r8y)
+- **Hydra for Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1d/e3/0c1de3ec-4a08-9085-f5a8-eea8f9fd52c1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fpv58Uy3)
+
 - **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/73/0d/54730dae-462c-d006-3220-3b4249932cf5/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
 
 - **LUNA by IUNU**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/98/b4/e498b418-c547-6100-e1c6-389eb0b3019f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RbRX3LT5)
