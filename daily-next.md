@@ -1,3 +1,5 @@
+- **Hydra for Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1d/e3/0c1de3ec-4a08-9085-f5a8-eea8f9fd52c1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fpv58Uy3)
+
 - **Radiacode**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/33/dc/b333dcb5-bc36-af10-9632-b3ca572e2230/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8hSPtm4Z)
 - **Audio Book Audible**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/ad/fa/ccadfa4b-c4e0-4a80-6152-737e0d14b90b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m2UI8r8y)
 - **Hydra for Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1d/e3/0c1de3ec-4a08-9085-f5a8-eea8f9fd52c1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fpv58Uy3)
@@ -195,6 +197,3 @@
 - **Overcast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/f3/ae/a9f3ae11-17a8-d309-57de-6eab8b78b32f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/37azzGPG)
 
 - **Elestrals TCG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/56/c2/d056c266-c6dd-4883-76fd-a0ef8500428c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c3eNuA4G)
-
-- **Discord - Talk, Play, Hang Out**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/5b/22/135b22c3-a6b9-b5d1-983c-49d6ef943cf6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gdE4pRzI)
-- **Microsoft Authenticator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/b9/07/7db9079c-8c4b-6e54-baec-d0b5f38aa414/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Coqmmppd)
