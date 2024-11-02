@@ -22,7 +22,6 @@
 - **SANDS Movie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/b5/db/b1b5db93-576e-998a-4058-89cb7d88babc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3nfJLyC1)
 
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/0b/1f/490b1f16-3abe-c649-6f83-ece085aa5fdd/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
-- **Unarchiver - ZIP, RAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/6e/d3/256ed354-b70a-1c28-efc9-eb9cf64d2ce7/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
 
 - **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/ca/7c/21ca7cab-1cf7-67c8-6ed4-6044ccfd8e0e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
 
@@ -3122,7 +3121,6 @@
 - **Bezogia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/51/36/3d5136f4-2a36-9379-9672-bc307295d185/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iQjCrSCt)
 - **Web Translator for DeepL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/03/b0/9d03b08d-77af-f553-2571-40e18a749490/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QmZCoDZb)
 - **movebooth**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/f2/46/ccf2460d-b472-ffe4-4799-4b56203a9385/AppIcon-0-0-1x_U007emarketing-0-5-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CkBZM6xw)
-- **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/74/53/a674533e-9d3f-36a1-a7ea-f99acd9f0a1c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
 - **BytedEffects**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/5a/18/755a184a-2a0a-defe-9ef1-6bee596936d2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/t46KSKI0)
 - **dfcu Investment Clubs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/67/cf/1267cfb2-a958-feb0-b05c-a9501b928606/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/DAaI3sed)
 - **Môi Trường Việt Xanh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/e7/a4/8ae7a463-8a65-80a5-d38e-477cdf4b93c2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9P113sic)
@@ -5260,7 +5258,6 @@
 - **阿里友办 - 外贸移动协同平台**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/ef/3b/f3ef3bc7-091e-a42f-fa41-6cd2302c30b4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/syZ3sFmz)
 - **Tunda Island - BFF & Dating**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/f3/36/05f336f1-b357-f30b-1609-c551dab051f4/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Afx8xXRn)
 - **和合晟论坛**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/f6/9f/51f69fee-bab8-2c92-f69f-446153b903bc/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8e3qvP0u)
-- **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/cd/1a/59cd1aa2-5f7d-e565-903f-8ad2fee1b9a1/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
 - **仙剑三外传**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/67/65/a3676574-5a96-c3e3-6b3c-eea9c2fc4558/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AXmpyotQ)
 - **Kress Commercial**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/58/f0/8d58f097-ec27-95cb-45da-2b5849c0da79/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nUEGQnQt)
 - **Strings Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/79/ec/ba79ecf4-f110-2994-55e9-f9a0b5ffb056/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/B8X26MxM)
