@@ -35,7 +35,6 @@
 
 - **Kwai - watch cool videos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/d4/af/78d4afc3-0a22-9d98-21b6-5be849935b99/AppIcon-global-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jS8JvwOE)
 
-- **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ef/14/5aef1479-e046-ea50-0422-b94572620adf/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/90/13/c9901350-c632-fa66-ee6f-0337e0a89d9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
 
 - **SANDS Movie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/b5/db/b1b5db93-576e-998a-4058-89cb7d88babc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3nfJLyC1)
@@ -2323,7 +2322,6 @@
 - **SEP DTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/07/f1/6707f135-3901-d108-dbac-03c61c715f24/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/F0GUQwHm)
 - **HitVPN - fast & secure VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/33/85/6b33854a-37c3-4f57-53f7-5ee6d8b6fde6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8fA2GfZ6)
 - **RC Map Engine**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/e8/e0/99e8e0ae-dee5-edea-0997-7669a5060a0b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TIWQLLpY)
-- **LUNA by IUNU**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/78/b1/0278b1ec-8f34-9020-4620-257086a9acd8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RbRX3LT5)
 - **小嗨智行商家端**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/cc/b1/e2ccb134-59e0-b503-0647-c2152680b65a/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZuTcWNQU)
 - **VFTrade ™**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/93/a2/5e93a2db-2581-8277-dadf-460c2021535f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SH5eTW5s)
 - **Wearfit Pro - 中国大陆版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/9e/46/639e462f-ce2b-1460-e55c-b1c8d169c5c6/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tyAczxsH)
