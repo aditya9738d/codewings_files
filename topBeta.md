@@ -85,8 +85,6 @@
 - **Bitger - RJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/38/2c/1c382c85-24b9-05b1-da43-77c5f9ae2f54/AppIconTest-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DYycyG8k)
 - **MIT App Inventor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/c9/25/91c92503-70fc-4e54-cf48-5b97fda525a8/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nBNtKhYl)
 
-- **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/1b/69/2f1b69ed-6513-49b8-e934-09758e9af99e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
-
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/74/50/d07450bd-8ae7-8010-18c2-7d5c7e7a4ce8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 
 - **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
@@ -1180,7 +1178,6 @@
 - **InstantTalk PTT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/48/d0/3d48d0c5-4ecf-3428-9c78-9a84330ef688/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ka0DwJN2)
 - **Harf Hike**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/8e/a7/7e8ea7c0-ee4b-996d-2da6-ea2a4abe054e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pZDjHQZm)
 - **CleanApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/fc/60/abfc6063-014a-df4c-fbb9-7117e849e3a7/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UCFrnqSn)
-- **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/00/67/0600675d-7119-aabe-c66c-8876c9d502fe/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
 - **Nomadik**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/50/3f/c0503fe4-ecd9-b1ef-e24b-1f3c995f30b9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TlVYzHRh)
 - **FIKA IELTS - Practice Speaking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/ce/61/38ce619a-7736-6f50-7877-43ed08766296/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RBwuHZAy)
 - **TrackMan Golf Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/5b/46/9d5b4629-20d4-da1f-9fb9-b00365852c19/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZXfzbUCs)
