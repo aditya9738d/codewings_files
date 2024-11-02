@@ -4,8 +4,6 @@
 
 - **Trakt TV Tracker: FilmNoir**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/53/52/765352f8-1b81-13fe-18b9-b3a6583cabf6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
 
-- **Trakt TV Tracker: FilmNoir**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/53/52/765352f8-1b81-13fe-18b9-b3a6583cabf6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
-
 - **Day One Journal: Private Diary**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f6/17/b7f61729-5dac-3d50-7609-a625ef38d318/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NXLBigzY)
 - **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/31/c5/b531c5e2-4028-5b2f-f0be-2fa056ff8e48/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P9bu6AOe)
 
@@ -2602,7 +2600,6 @@
 - **Force Board**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ea/52/41ea5277-1f40-fccd-4ba0-719efee72b58/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XnGU0vyK)
 - **Midana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/01/cc/3f01ccc6-47fb-a1a8-b626-44a27349139e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gQ6UN4fO)
 - **Asurascans - Hot Manga Reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/5e/b3/cc5eb389-62a1-0edf-3a5d-30713f611306/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VdR4sNPA)
-- **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/44/0b/f1440b00-5209-bdfc-dd43-55290bb0cb4b/AppIcon-all-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
 - **PENNY Italia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/29/16/57291674-8731-8ea1-47dd-36a4f21fccf8/PennyItaly_appicon_release-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8AGKiP53)
 - **南京银行**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/b3/df/fdb3df5f-c70e-8674-bb95-4690acfa13aa/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9KSaRwPm)
 - **律商风险**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/5b/87/a65b87c5-eced-f3d6-c567-0f9767de5d79/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/VFpEonXK)
@@ -2680,7 +2677,6 @@
 - **Streaks**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/d1/65/47d16517-9e1c-6458-e6b5-83bab413195c/AppIcon-Unfilled-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/daJJCJ71)
 - **Trip Tile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/d5/1a/c7d51a0a-446a-0652-f6aa-6f8065d56f14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/01C5aUUJ)
 - **On Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/70/fe/fe70fe64-e4ab-4537-6514-0f06b7bcbcb5/AppIcon-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/HVyKinMd)
-- **Lissi ID-Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/05/e2/2805e230-f04d-a8d8-0b59-ff0a650fc8a8/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9AWbZISv)
 - **Ingeek Premium**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/9b/e8/ad9be876-dfde-3e3d-4376-78b9a7080c76/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R9qe1svW)
 - **NguonHang Vip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/38/e7/d138e704-a519-5c18-8d3f-515c7736689d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qr9Tsu8g)
 - **猫情怀**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/90/51/b39051c8-ef7e-2b53-ff73-bd44b6bda7e9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8otQPb1E)
@@ -4982,7 +4978,6 @@
 - **Mondee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/7d/e8/767de850-dedd-ca5a-0e1d-7529417cae4c/mondeeAppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0Al6XhsF)
 - **Kade Pay Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/19/df/3019df0c-a8d5-be87-cbba-140d1c715b7f/AppIcon-beta-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jhlHJFKC)
 - **Eating Reorder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/e2/68/d5e2688a-6820-48cf-e04d-889f6c511fcc/AppIcon-user-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6uIpxLFg)
-- **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/3b/77/f43b778c-ebf7-9c1a-0e93-3ffc8a42f339/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
 - **Publizz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/a2/a6/daa2a609-70ce-e622-e2ee-4b62cb99ea1e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/f1AN6OjL)
 - **crumbs social**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/18/c3/6d18c35c-ba33-f0ea-13dc-11773f6a442d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8dVzkjxd)
 - **Mullvad VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/c5/a6/69c5a652-7642-72cc-9886-79d8285cf1c9/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gOpklnGw)
