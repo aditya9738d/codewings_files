@@ -11,8 +11,6 @@
 
 - **LUNA by IUNU**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/98/b4/e498b418-c547-6100-e1c6-389eb0b3019f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RbRX3LT5)
 
-- **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/1b/69/2f1b69ed-6513-49b8-e934-09758e9af99e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
-
 - **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
 - **NRO BON**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/e9/b1/c6e9b127-b9f4-28df-340b-0d00d3159a10/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAFXDvJq)
 
@@ -98,8 +96,6 @@
 - **Bitger - RJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/38/2c/1c382c85-24b9-05b1-da43-77c5f9ae2f54/AppIconTest-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DYycyG8k)
 - **MIT App Inventor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/c9/25/91c92503-70fc-4e54-cf48-5b97fda525a8/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nBNtKhYl)
 
-- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/74/50/d07450bd-8ae7-8010-18c2-7d5c7e7a4ce8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
-
 - **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
 - **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/c3/1f/7bc31f04-1fa4-34a4-852c-25d45877a408/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
 
@@ -112,7 +108,6 @@
 
 - **Surreal Machines Crack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/b9/3a/0cb93a17-c4f4-41b9-ed98-b8353271bb52/CrackiOSAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PtyQuUyR)
 - **Revolut: Send, spend and save**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/2a/58/4d2a58c8-7871-8069-2e6e-38844d0109c5/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
-- **EV Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a2/00/75a200c9-8b1d-2901-5f84-206fa4f6a11a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8aDwjblU)
 
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/4a/f5/254af56a-9bc8-ccb4-8723-ccd133796235/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
