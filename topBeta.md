@@ -85,8 +85,6 @@
 - **World Clock Time Zone Widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/7c/8c/0d7c8c72-4cd8-27c9-c21c-fe57cf689761/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/W4icDq8K)
 - **LocalTV+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/0f/da/bf0fdae2-ee22-b2b2-c2c8-c558bca8acc2/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NjF32DZj)
 
-- **Trakt TV Tracker: FilmNoir**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/53/52/765352f8-1b81-13fe-18b9-b3a6583cabf6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
-
 - **Flüsterwald: Das Story Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/93/15/76931500-89ff-3721-a9a5-10358ee203e9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/foSSgA9g)
 
 - **Userscripts**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/20/9c/18209cbc-dc18-64dd-53c4-18854d058320/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7k1tJmec)
@@ -3225,7 +3223,6 @@
 - **PTE - Synovus Gateway Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/f9/32/bef93273-8374-1a9b-8719-f2326ed1a180/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lNZVr14B)
 - **Janbee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a3/00/b4a30043-784f-34e0-6bab-dc8110c7479d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dzDoXrPL)
 - **FairMoney Business**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/29/13/7329137b-3e46-1e65-6b58-9bb7c1babf54/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q5qn8tnh)
-- **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/bd/2d/12bd2d33-2538-1214-7ea8-08dd32c0e476/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdsubPZs)
 - **TriiiX: SocialFi Trading**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/27/32/c3273253-958a-e9d3-424f-10b31d92152c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/at0hPFTk)
 - **WhaleCloud Miniapp POC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/a8/71/cba871ae-3da2-d20c-3d0e-f6452b073781/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xHe9rfdn)
 - **MomianDr.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/fb/93/50fb93ea-d4a6-2469-1c58-c23defed7a15/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OpUeLJSQ)
@@ -4039,7 +4036,6 @@
 - **TuneTidy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/96/9f/84969f6d-b54e-801d-d48f-375f92e1c276/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hGyu8TQX)
 - **Mój Orange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/21/e5/b821e58e-d846-4c97-35f6-535768d7dd26/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/oWctmdGy)
 - **VicoHome: Security Camera App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/ef/38/ddef38a6-f368-fbd6-5d0a-43f4341f0dd2/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/06EL17z2)
-- **Day One Journal: Private Diary**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/66/6c/7e666c23-5e9e-3d95-9ce8-a91a68d50e76/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NXLBigzY)
 - **Proactive For Her: Self Care**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/04/7b/ac047bb8-cd16-57d1-cd30-de82d14b0b4a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mVOfY5ic)
 - **iV2EX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/6f/51/126f5177-2ecd-f427-77cf-0321cc1249e7/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LvKIxl69)
 - **Appsolute**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/0e/39/7c0e3930-89ea-e398-648c-bd2dc5e9c172/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/L3HlAmKl)
