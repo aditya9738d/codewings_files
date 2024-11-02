@@ -595,7 +595,6 @@
 - **VMPC2000XL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/1c/d8/ad1cd8be-60e1-9b29-3831-a5b2a60b8693/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yEgfYk21)
 
 - **HOK - Map Vip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ab/d4/a7abd488-9c68-1410-a1be-caf52809441e/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H81vWtQy)
-- **Hydra for Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/fa/c6/1dfac6e2-fc83-5d52-b024-ded2950394cd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fpv58Uy3)
 
 - **DigiByte - Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/57/a7/8557a785-4c1a-1cc8-657f-83754eee4bf1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzOB6dYc)
 - **PlayG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6e/36/9e6e36d3-6289-4028-4723-20137fbf559a/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zQUlkcy0)
@@ -2362,7 +2361,6 @@
 - **T-spider検証**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/ae/05/9bae0562-9677-d1c9-cb5d-c0919f217a30/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFmmDGxb)
 - **Tentacle Setup**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/a0/b7/87a0b7b2-acef-56ae-4632-95010361ba30/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hbENllFt)
 - **TRUSTDOCK - Sandbox**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/da/c5/0edac5a3-ae6b-7d37-62d6-7242ce5cc340/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DGCY7ltN)
-- **Audio Book Audible**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/28/7d/db287d7a-ae4a-9f0e-fa05-254a80055959/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/m2UI8r8y)
 - **Pokepay 2 QA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/de/7e/45de7e79-1794-b940-7ff5-ddb2d1f10134/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/coHaz5uZ)
 - **Gemini Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/35/47/0035478c-07f6-0333-062d-3418f997d1d4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/0BC5yPYA)
 - **NutriNote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/ed/93/03ed9359-5e4f-1928-dd85-beee8a5cba8b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/L0Leu0Ac)
@@ -2956,7 +2954,6 @@
 - **Gymbud.de**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/c3/b7/4bc3b7ff-d053-65cd-dcc3-74cb2e2568dd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/N4llTAZV)
 - **AstroDX-Beta (Group A)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/b9/1f/2fb91fdd-9112-4022-3a26-66ba365aef0b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rACTLjPL)
 - **Guardian**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ba/cd/8cbacd55-b93c-2de0-f584-95ad8d6edbb0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9rtEeZ1c)
-- **Radiacode**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/28/bc/3328bc6f-cf78-29fb-cf5f-3c56eef62eb6/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8hSPtm4Z)
 - **滦雄智慧建造**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/20/be/7920be3f-8786-5dbe-086e-db39bbc126dc/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8RxtAi7l)
 - **JourneyMate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/bc/cc/47bccc3b-b0bc-e50e-939d-3e8fee3b3252/AppIcon-1x_U007epad-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/cxv6llBt)
 - **Mirá Precios**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/b3/51/fbb35192-2f5c-4c34-c063-8dcff13fe414/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vRH6kJVa)
