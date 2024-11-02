@@ -22,7 +22,6 @@
 - **SANDS Movie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/b5/db/b1b5db93-576e-998a-4058-89cb7d88babc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3nfJLyC1)
 
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/0b/1f/490b1f16-3abe-c649-6f83-ece085aa5fdd/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
-- **Unarchiver - ZIP, RAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/6e/d3/256ed354-b70a-1c28-efc9-eb9cf64d2ce7/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
 
 - **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/ca/7c/21ca7cab-1cf7-67c8-6ed4-6044ccfd8e0e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
 
