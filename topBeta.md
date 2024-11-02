@@ -98,8 +98,6 @@
 - **Revolut: Send, spend and save**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/2a/58/4d2a58c8-7871-8069-2e6e-38844d0109c5/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
 - **EV Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a2/00/75a200c9-8b1d-2901-5f84-206fa4f6a11a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8aDwjblU)
 
-- **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/81/e2/0a81e223-fd50-8bb1-63aa-10ff39e56899/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
-
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/4a/f5/254af56a-9bc8-ccb4-8723-ccd133796235/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 
@@ -3236,7 +3234,6 @@
 - **The Guardian - Live World News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/cc/f9/b2ccf9e9-d863-0a0d-7b90-ba6c96840312/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/q8wmVNx2)
 - **Loxone**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/93/7c/38937cdc-9819-37a8-dba9-f6f5e6ac499e/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/54JTsdTf)
 - **Spark Mail + AI: Email Inbox**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/59/6a/eb596ab6-e8b9-802c-7b28-622b5b41ac01/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O2wj7i0x)
-- **Potato Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/3b/c6/1a3bc603-e16b-ba28-028b-312bdd56c712/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P2Jlp35o)
 - **CorrigoPro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/63/58/74635893-fd2f-96be-2571-f9e860e66b90/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SL2PQU6w)
 - **Rover Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/c1/be/aac1beea-01e2-dd1d-e88e-bcbc6452bc5d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ArZHl0jA)
 - **FoodTestApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/d1/62/68d16284-835b-525a-7230-cfcb53f6c9fe/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LGv39Ew7)
@@ -5635,7 +5632,6 @@
 - **골프장친구 굿샷 - Alpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f0/bc/faf0bca1-fb2e-645c-0fea-ca5de80bc113/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BAgZTlIg)
 - **Maintenance IQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/ca/47/86ca47ef-8a41-1e85-f61d-29fba06ef661/AppIcons-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vIdktd75)
 - **Spartan Camera Management**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9a/fb/509afbe9-ff1e-09f5-2e1a-64a2a6622bef/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Q2j4wD3u)
-- **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/07/29/b907295c-ddcc-ac29-fb91-0bc10ff815af/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
 - **小牛云经纪**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/9a/2d/5d9a2da1-9d5e-7ad2-ba90-17573e8f3968/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E4E7pRrE)
 - **Ducky Weather**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/f9/e1/9af9e101-0186-9a42-57d6-73a43a02b32b/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zE9voJ5H)
 - **WorkBuddy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/c7/13/75c7135a-0730-9929-a13b-a818c836384d/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fSyJLJ4F)
