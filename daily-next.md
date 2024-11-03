@@ -184,9 +184,6 @@
 - **Sonolus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/67/c6/0567c675-0ddf-4f5c-8e1c-b7174dfa1fe7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mdFtAf92)
 - **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/0c/b6/aa0cb61c-3cda-3c90-fa5e-3d29a41e986f/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
 
-- **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b6/8c/e5b68cac-cb64-8a9f-204d-fda24e747a1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2aVcGxxZ)
-- **CapCut - Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/56/7c/46567ca1-5ed8-9ba8-a2ef-c767084b4a03/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gu9kI6ky)
-
 - **Onewheel Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/04/26/36042674-6f54-3ea7-f826-ffdc4144fdd8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/erN13tuH)
 - **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/19/30/9a193029-ed47-7535-96cd-545ac040d6f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
 
