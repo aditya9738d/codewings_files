@@ -183,8 +183,6 @@
 - **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b6/8c/e5b68cac-cb64-8a9f-204d-fda24e747a1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2aVcGxxZ)
 - **CapCut - Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/56/7c/46567ca1-5ed8-9ba8-a2ef-c767084b4a03/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gu9kI6ky)
 
-- **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/ac/78/b9ac78b8-ad30-df91-5256-b6eabcd7d48c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
-
 - **Onewheel Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/04/26/36042674-6f54-3ea7-f826-ffdc4144fdd8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/erN13tuH)
 - **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/19/30/9a193029-ed47-7535-96cd-545ac040d6f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
 
@@ -1410,7 +1408,6 @@
 - **Abelian Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b9/82/97b98282-8172-2ecd-9c65-e0d45264e5de/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dyMKtZJq)
 - **Surround - Online Go client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/75/45/03754571-4ac2-a429-f29e-a7dcb74098e0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2JHF5Zut)
 - **Phần mềm quản lý cầm đồ Morman**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/1d/b8/8d1db86f-0e36-d30f-5af9-90b0e94135fb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Qhj8cj6r)
-- **DNB Mobile Bank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/88/bc/fd88bc2b-128a-d412-935b-3166dabae5d5/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JofD99Fe)
 - **HamHub-你的私人云影专家**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/22/44/c12244c8-9085-98ef-1a2c-7d3e38dfb5fd/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/TpISLUBe)
 - **CGTN - China Global TV Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/87/fb/0087fbca-cb9a-f12a-7b9a-1719d8abc885/GoldIcon-0-1x_U007epad-0-10-0-sRGB-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GFnsprQf)
 - **QuickPing VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/1c/7b/3c1c7b6a-2785-2b4b-1eba-63978d8b8e76/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Dpy0Z22)
@@ -1428,7 +1425,6 @@
 - **F-Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/b5/26/88b52635-7646-1ee0-ce03-b9af7c329002/AppIcon-0-0-1x_U007emarketing-0-6-0-0-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/edDvFLl6)
 - **Doc2Home Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/a3/62/12a3627f-6140-b714-a3c4-9c6afc42a078/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AnDZMXRA)
 - **Winboats Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/e4/9d/bbe49dfb-359f-aad2-62fb-7ce9f04865b8/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MKnNsRh9)
-- **Renaissance Kingdoms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/28/d4/a828d4b5-98d2-5ce1-222c-cf449f1f37cf/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KkFL0EvO)
 - **Pestle: Recipe Keeper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/41/41/8f41415c-212a-0615-54be-b784a2276d2f/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vc9BCzFV)
 - **Zenfeat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/65/1b/6f651bff-0d7c-dfae-a46f-ac3dcf5fd782/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oATaXp4b)
 - **Issuify - Linear Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/85/dc/2c85dc14-d789-6056-3e8d-cd6195235476/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aaTEVtzh)
