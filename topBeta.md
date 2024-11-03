@@ -1,7 +1,5 @@
 - **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/0c/b6/aa0cb61c-3cda-3c90-fa5e-3d29a41e986f/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
 
-- **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/0c/b6/aa0cb61c-3cda-3c90-fa5e-3d29a41e986f/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
-
 - **Unitree Go Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/6b/61/066b61d6-a795-7ffd-6f61-40c9c6f66450/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KraKgqam)
 
 - **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b6/8c/e5b68cac-cb64-8a9f-204d-fda24e747a1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2aVcGxxZ)
