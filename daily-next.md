@@ -1,3 +1,6 @@
+- **Unitree Go Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/6b/61/066b61d6-a795-7ffd-6f61-40c9c6f66450/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KraKgqam)
+- **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/0c/b6/aa0cb61c-3cda-3c90-fa5e-3d29a41e986f/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
+
 - **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b6/8c/e5b68cac-cb64-8a9f-204d-fda24e747a1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2aVcGxxZ)
 - **CapCut - Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/94/f4/eb94f424-d116-dd92-f890-ab864072cd2a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gu9kI6ky)
 
@@ -194,6 +197,3 @@
 
 - **哔哩哔哩-弹幕番剧直播高清视频**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/ec/6f/9cec6f97-8a32-9b63-8d3a-29cdcfaf3f2f/AppIcon-testflight-1x_U007epad-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/K4pM1kHu)
 - **WebSSH - SysAdmin Tools**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/3e/1c/f53e1cfb-bd32-673d-2e17-dc68e0e3ade9/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QSrBK59z)
-
-- **Kurviger Motorcycle Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/63/e2/4263e2e9-f7d1-1c8c-f0b9-78c355eb6277/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2eMnS3D)
-- **Call of Duty: Mobile Beta Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4e/19/9a4e19f1-50e6-a641-ea4a-2d4cfc1f7f1f/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P52kCv3Q)
