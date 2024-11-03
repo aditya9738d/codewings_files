@@ -16,7 +16,6 @@
 
 - **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/43/69/ad436938-349f-4180-7414-dbde3eb770f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
 
-- **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/c1/82/2bc18247-2b7e-80a9-4b70-0739e811a77d/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
 - **SANDS Movie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/b5/db/b1b5db93-576e-998a-4058-89cb7d88babc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3nfJLyC1)
 
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/90/13/c9901350-c632-fa66-ee6f-0337e0a89d9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
@@ -54,8 +53,6 @@
 
 - **Radiacode**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/33/dc/b333dcb5-bc36-af10-9632-b3ca572e2230/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8hSPtm4Z)
 - **Audio Book Audible**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/ad/fa/ccadfa4b-c4e0-4a80-6152-737e0d14b90b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m2UI8r8y)
-
-- **LUNA by IUNU**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/98/b4/e498b418-c547-6100-e1c6-389eb0b3019f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RbRX3LT5)
 
 - **NRO BON**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/e9/b1/c6e9b127-b9f4-28df-340b-0d00d3159a10/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAFXDvJq)
 
