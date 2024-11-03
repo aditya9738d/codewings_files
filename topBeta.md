@@ -85,7 +85,6 @@
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
 
 - **VOGA LIVE - Global Video Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/70/ea/6270ea6f-4a68-ce73-9666-f2f1268cc9e9/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XQ21gmCB)
-- **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/85/67/a38567a0-f6b7-0ff9-26ad-efe33c0f572b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
 
 - **Blue Js**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/b7/07/e4b707a3-7712-096c-6ae2-836e5fe2e7ae/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/G1tcMJyp)
 - **iAnyGo-2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/3a/5a/913a5aff-bbed-99a5-86c1-dc0fa460cacf/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fU362zmT)
@@ -569,7 +568,6 @@
 
 - **Julienne: A Smarter Cookbook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/d2/26/52d226c6-9d21-4a40-e12a-20bacf09f86f/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/4ecvoTmQ)
 
-- **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/1b/14/301b1421-f182-791a-851c-0a28d5ce4df5/AppIcon-primary-primary-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
 
 - **STAR PRO GL 3.3-V1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/29/dd/b229dddc-0095-c55d-2251-e331694c1920/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lKgMUVsM)
 
@@ -3655,7 +3653,6 @@
 - **甜甜圈数字空间**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/e9/fd/4ae9fd19-c2ff-ca4e-d290-40462cf1b34d/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SjhhOO2G)
 - **Home Inventory Itemlist**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/39/53/16395320-cf52-a364-5ec4-392e6a0902cc/AppIcon-0-0-1x_U007epad-0-0-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yhttZvOd)
 - **i wanna be the creator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/e2/4a/83e24ac2-9225-3fc1-b540-6a7246ec48e8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CHz1LEJR)
-- **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/6c/ec/326cec4b-c4c3-938b-44f3-0efd5935bebc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
 - **iVnews α**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/c9/49/e1c94969-f7f8-c0bf-0e2f-04dac5d2ad68/AppIconProd-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nekEzIje)
 - **Shuffle: Connecting students**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/b4/bd/adb4bd87-a6d2-f497-71f3-e8c2c200cbbd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ngNRJnuz)
 - **FaceToken**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/8a/7e/288a7ef7-b101-6a08-78ed-2880cd8f3612/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2PybeBTz)
