@@ -153,8 +153,6 @@
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/4a/f5/254af56a-9bc8-ccb4-8723-ccd133796235/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 
-- **Backyard.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/31/ec/4c31ec24-07f9-cc7a-5258-2b5a27af8d74/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MaP0ap1E)
-
 - **Checker - Habit Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/10/06/7810061f-78eb-5d79-3ce1-6ccc578142aa/AppIcon-0-1x_U007ephone-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
 
 - **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/16/70/3b167053-c1ec-907b-fab1-a8757b743d66/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
@@ -195,5 +193,3 @@
 
 - **Home Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/00/e8/3600e801-b77d-42e4-1c83-d87fd96aedc9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1AlPbnLZ)
 - **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/af/0c/62af0c99-e925-43cc-15fd-c53318d18815/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
-
-- **BETANDYOU - Best bets for you**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/17/ac/9917ac50-f759-d9a3-2e2b-b744bbbd9954/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/x6aMHlck)
