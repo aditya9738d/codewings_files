@@ -135,7 +135,6 @@
 - **MIT App Inventor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/c9/25/91c92503-70fc-4e54-cf48-5b97fda525a8/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nBNtKhYl)
 
 - **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
-- **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/c3/1f/7bc31f04-1fa4-34a4-852c-25d45877a408/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
 
 - **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/69/cb3a699a-9860-99f9-7b3e-5fc50410896a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
 
@@ -155,8 +154,6 @@
 
 - **Flexi-BLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/a6/44/5ea64431-bd75-4d57-5aeb-8798b0c49cc9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LHyKxPmj)
 - **Microsoft Excel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b1/29/cdb1299f-cb64-297f-45cb-1f1215cad2f8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3lIiz1eZ)
-
-- **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/f5/7e/4af57eea-1914-3011-47f9-5f50737ddab0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
 
 - **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/2e/18/4e2e1829-9ba6-35a1-a41a-00c53979c188/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
 
@@ -5910,7 +5907,6 @@
 - **不休的乌拉拉先行狩猎服**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/ed/7d/0ced7dde-64ed-39ef-c614-1acc3edb16d3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VpiyaMa3)
 - **realme Link**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/eb/b5/17ebb580-75e3-94fb-add1-87f0479bbfaf/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3R9OIbOM)
 - **Device Jockey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/25/a6/3525a6ef-1bb5-8d3d-a00e-05675000be92/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qRq26T4M)
-- **Vipps MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/62/c9/0462c9eb-eae8-892a-f355-4f242eac4472/AppIconMT-Vipps-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTAYrwea)
 - **BILD News - Live Nachrichten**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ea/f4/adeaf49e-a2e7-1c01-4a45-849942817367/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFd5Ep1N)
 - **QuikWallet - UPI & Payments**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/fb/15/51fb15c8-8577-ef64-02d9-863987c476f5/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZDGrkiPX)
 - **Smartware-Staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/0c/3d/d50c3d3e-d84b-1070-fe86-f44f6c34cc82/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XjCjDAeU)
