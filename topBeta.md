@@ -152,7 +152,6 @@
 
 - **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/69/cb3a699a-9860-99f9-7b3e-5fc50410896a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
 
-- **Surreal Machines Crack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/b9/3a/0cb93a17-c4f4-41b9-ed98-b8353271bb52/CrackiOSAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PtyQuUyR)
 - **Revolut: Send, spend and save**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/2a/58/4d2a58c8-7871-8069-2e6e-38844d0109c5/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
 
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/4a/f5/254af56a-9bc8-ccb4-8723-ccd133796235/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
@@ -2290,7 +2289,6 @@
 - **Swisscom myCloud**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/d4/4a/79d44a07-eadc-8f01-733c-76e45fa64ee0/AppIcon-PROD-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y5pOcWGk)
 - **小沛**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/c8/e3/8fc8e323-5842-fca7-1144-e5d1661f7458/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iFQsJH0z)
 - **Scarlett: Skincare Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/01/6e/48016ee8-33c1-f61c-9f2b-cc4fd631811a/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MFwjG3FV)
-- **Trello: organize anything!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/3f/95/b53f952c-fef8-a0d5-2757-d7056375e0f8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
 - **Cash App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/c8/3f/04c83f3b-25f1-751b-b2cd-e3f1f3bad322/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/An0RiOFF)
 - **SuperOffice Mobile CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/74/ba/2074ba30-a3fc-1bca-e323-cceca21ddf90/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VaSLz5VC)
 - **Exify**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/ee/ce/fdeecefe-2d6b-2d40-a468-af43980edad9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EpGlutqv)
@@ -4026,7 +4024,6 @@
 - **Dolphin EasyReader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/29/c1/b529c180-942d-4a26-4135-071d4a361b4b/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/oFGxAFUO)
 - **Obscura — Pro Camera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/0f/de/9c0fde54-70fc-23a1-5377-5771b30d79f4/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/11YUmxAX)
 - **Bajaj Capital**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/b8/04/fdb80446-56f6-4b62-98f3-3ffeb7a5c275/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SjpszwTV)
-- **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/bd/a3/02bda355-ff6e-b2dc-48e4-b59ee8645879/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
 - **H Band - 大陆版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/ad/cb/72adcb74-34dc-ddba-ecf1-75f287fbbf12/AppIconLite-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dfm8u2UQ)
 - **储宝宝 - 证券理财投资app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/1a/6c/a71a6cc1-1c8d-93e4-243f-611af42c5d25/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7vX9k8kA)
 - **公主连结公会战**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/10/ec/9f10ec82-469d-91f1-62e6-7c4988c827d9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHCIN2qI)
