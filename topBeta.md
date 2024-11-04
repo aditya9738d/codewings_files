@@ -1,3 +1,6 @@
+- **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/1c/e4/201ce48a-46bb-2cbe-3b6b-91b0822b5018/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
+- **Avatar Musik**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/13/32/8613321c-92a3-d760-39d2-2ab441ffb770/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O0KKLALY)
+
 - **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/49/c6/b949c64f-127c-3d62-7737-d737e2f785dc/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
 - **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/f5/7e/4af57eea-1914-3011-47f9-5f50737ddab0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
 
