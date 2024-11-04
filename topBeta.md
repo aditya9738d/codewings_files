@@ -16,9 +16,6 @@
 
 - **Simulado Nu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/38/fd/e938fda3-808e-8367-4942-a7eac68e37c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zgPIXQHg)
 
-- **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
-- **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
-
 - **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/85/76/b585765b-a347-10bc-d928-a4c1bb5db6e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 - **DiaBLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/62/4d/41624da2-fee4-ddb4-2d95-e01dd7989db7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H48doU3l)
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
@@ -32,7 +29,6 @@
 - **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/c1/82/2bc18247-2b7e-80a9-4b70-0739e811a77d/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
 
 - **Palremit: Send – Swap – Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/86/64/3a866455-e06a-76c4-14ef-9518a37a3240/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFE2C3bZ)
-- **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/1b/69/2f1b69ed-6513-49b8-e934-09758e9af99e/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
 
 - **Glucose Direct**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/ba/21/6cba211d-515a-b788-f35b-347fba5b9f36/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dWDt5Wme)
 
