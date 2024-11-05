@@ -75,11 +75,6 @@
 - **Payconiq by Bancontact**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/b1/08/a4b108d7-eb0a-9668-7c21-63f3d79a4f9c/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Mpza7scj)
 - **Dawn - Minimal Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/14/d8/ef14d81e-130a-bf0a-add8-891c364fe9a2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/40WylC5p)
 
-- **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/85/67/a38567a0-f6b7-0ff9-26ad-efe33c0f572b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
-- **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b7/57/05b75761-b15c-90a7-9c2b-6104027dac37/AppIcon-primary-primary-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
-
-- **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/43/69/ad436938-349f-4180-7414-dbde3eb770f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
-
 - **SANDS Movie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/b5/db/b1b5db93-576e-998a-4058-89cb7d88babc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3nfJLyC1)
 
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/90/13/c9901350-c632-fa66-ee6f-0337e0a89d9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
