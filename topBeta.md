@@ -81,8 +81,6 @@
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/90/13/c9901350-c632-fa66-ee6f-0337e0a89d9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
 - **Trakt TV Tracker: FilmNoir**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/53/52/765352f8-1b81-13fe-18b9-b3a6583cabf6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
 
-- **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/0c/b6/aa0cb61c-3cda-3c90-fa5e-3d29a41e986f/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
-
 - **Unitree Go Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/6b/61/066b61d6-a795-7ffd-6f61-40c9c6f66450/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KraKgqam)
 
 - **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b6/8c/e5b68cac-cb64-8a9f-204d-fda24e747a1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2aVcGxxZ)
@@ -112,9 +110,6 @@
 
 - **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/81/e2/0a81e223-fd50-8bb1-63aa-10ff39e56899/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
 
-- **BeReal: Photos & Friends Daily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/99/28/5299280e-4635-282c-aa03-aeaaee9c4bc7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IM4jE5XY)
-
-- **Baseline - How to get fit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/d7/ad/81d7ad3a-e015-c8eb-1df3-6541bb93f951/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3XpiHAwS)
 - **iAnyGo-1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/dd/0d/04dd0dce-0e93-b52a-1144-852ed1abca6d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cuVcvkxl)
 
 - **Unarchiver - ZIP, RAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/6e/d3/256ed354-b70a-1c28-efc9-eb9cf64d2ce7/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
