@@ -1,9 +1,6 @@
 - **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/69/cb3a699a-9860-99f9-7b3e-5fc50410896a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
 - **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
 
-- **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/69/cb3a699a-9860-99f9-7b3e-5fc50410896a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
-- **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
-
 - **Kiprun Pacer Courir Running**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/18/78/87187826-6474-a6cd-b636-ff97a05e6afa/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R1Za1EtM)
 
 - **Lissi ID-Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/a8/1d/4da81d23-5aeb-f6f1-0b72-bb0dd3050822/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9AWbZISv)
