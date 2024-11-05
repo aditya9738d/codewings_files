@@ -4,8 +4,6 @@
 
 - **Surreal Machines Crack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/b9/3a/0cb93a17-c4f4-41b9-ed98-b8353271bb52/CrackiOSAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PtyQuUyR)
 
-- **Surreal Machines Crack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/b9/3a/0cb93a17-c4f4-41b9-ed98-b8353271bb52/CrackiOSAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PtyQuUyR)
-
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
 - **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/56/90/ee5690bb-3f59-eb60-b1b9-9a2f8adf3e02/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
 
@@ -121,8 +119,6 @@
 
 - **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/ca/7c/21ca7cab-1cf7-67c8-6ed4-6044ccfd8e0e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
 
-- **Envision AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/2a/e8/d42ae8a0-701b-547d-4482-2e7977d696b8/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QzPGfNeH)
-
 - **VOGA LIVE - Global Video Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/70/ea/6270ea6f-4a68-ce73-9666-f2f1268cc9e9/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XQ21gmCB)
 
 - **Blue Js**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/b7/07/e4b707a3-7712-096c-6ae2-836e5fe2e7ae/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/G1tcMJyp)
@@ -205,8 +201,6 @@
 
 - **Home Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/00/e8/3600e801-b77d-42e4-1c83-d87fd96aedc9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1AlPbnLZ)
 - **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/af/0c/62af0c99-e925-43cc-15fd-c53318d18815/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
-
-- **foobar2000**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/a7/8d/54a78d70-8a91-084d-eb29-4f401ddd5763/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fM6L331c)
 
 - **Sonolus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/67/c6/0567c675-0ddf-4f5c-8e1c-b7174dfa1fe7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mdFtAf92)
 
@@ -6765,7 +6759,6 @@
 - **Calcifer: Copilot for life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/46/c9/8846c94b-e8d1-e4d5-429f-aeb823440779/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/C4rnurVo)
 - **aipie - 追剧学英语、语法分析、一起背单词**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/07/e6/6d07e610-9c0f-33ad-d3e0-5142a9ff1700/AppIcon-1x_U007epad-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ecdLRk9t)
 - **WROLL: My Watch Collection**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/5b/34/f95b3490-a55c-cc0c-3f10-1b54f3c95aa5/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2hIOpQJh)
-- **HighLevel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/e4/f2/04e4f276-daba-208e-5675-55cd023f9d52/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bHNZSiYj)
 - **JAX ONE Frequency Shifter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/ac/c1/c5acc155-4f34-e837-99a5-732996772a0a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EW4JBlfx)
 - **Sightsea**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/72/b8/f272b8a1-ba87-6296-c60f-a336b9d7b4c6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aquLqB7L)
 - **FIT Specialized - Globe**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/ac/40/52ac40d3-4d28-c290-95a1-ec276bcddece/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Knf0Nzvs)
