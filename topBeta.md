@@ -2,6 +2,10 @@
 - **Baseline - How to get fit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/d7/ad/81d7ad3a-e015-c8eb-1df3-6541bb93f951/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3XpiHAwS)
 - **BeReal: Photos & Friends Daily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/99/28/5299280e-4635-282c-aa03-aeaaee9c4bc7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IM4jE5XY)
 
+- **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/0c/b6/aa0cb61c-3cda-3c90-fa5e-3d29a41e986f/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
+- **Baseline - How to get fit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/d7/ad/81d7ad3a-e015-c8eb-1df3-6541bb93f951/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3XpiHAwS)
+- **BeReal: Photos & Friends Daily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/99/28/5299280e-4635-282c-aa03-aeaaee9c4bc7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IM4jE5XY)
+
 - **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/69/cb3a699a-9860-99f9-7b3e-5fc50410896a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
 - **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
 
