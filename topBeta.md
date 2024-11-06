@@ -37,7 +37,6 @@
 - **Collabora Office**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/b0/0a/bfb00a3c-d927-81c9-f36d-b03b956f400b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TEnBWi68)
 
 - **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/85/67/a38567a0-f6b7-0ff9-26ad-efe33c0f572b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
-- **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b7/57/05b75761-b15c-90a7-9c2b-6104027dac37/AppIcon-primary-primary-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
 
 - **BeReal: Photos & Friends Daily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/99/28/5299280e-4635-282c-aa03-aeaaee9c4bc7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IM4jE5XY)
 
@@ -2539,7 +2538,6 @@
 - **点击泰坦2：放置英雄传奇**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/a4/bf/afa4bfb0-684e-7fa4-2588-fa3d7708509f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nVIY4sWf)
 - **PhotInfo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/47/b0/0f47b079-7727-1470-dac8-14eafb1307c1/AppIcon-0-1x_U007epad-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/2KX4Joem)
 - **Soroosh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/74/a1/0674a1de-9783-c033-cfe0-275cf6b92c56/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HY45M7Cy)
-- **Keka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/8b/c6/4d8bc6ae-8509-9390-b57f-cc634da24b61/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPYINGCJ)
 - **PENNY Magyarország**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/72/b3/1672b3db-3f71-03cd-4ede-060881118198/PennyHungary_appicon_release-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yw6XnFO1)
 - **MedXperts**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/03/02/2c03020d-5e71-3e6b-83f8-777fe47345c1/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cB8NiF2e)
 - **Jahwa Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/da/6b/c2da6bb0-e792-303c-b1f9-0210c3f2a553/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vY97rK1z)
@@ -2797,7 +2795,6 @@
 - **酷狗音乐**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/87/fc/da87fc8b-9a4d-5af4-cb15-4b6b59fc1397/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6cnKUyZ8)
 - **Fellesverktøy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/9d/6d/4e9d6db9-7d3c-6086-d79a-b2dff09e9ce9/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OFpiMLth)
 - **封神英杰传**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/dc/85/54dc8559-b05f-08af-55f9-f1a32844584c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tOrfI28Q)
-- **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/11/4f/5b114f21-b236-2d09-359a-e147061fe052/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
 - **Brightcove OTT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/bf/81/87bf8139-d3d7-f9ed-4c1b-b687750d1438/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tVPjt9HM)
 - **OVH Orbis**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/c5/14/17c514f8-4f2c-2a43-7ea7-0ea79aad8c08/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o4njDmob)
 - **ECBank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/47/ec/c247ecf9-35a1-995d-2eaa-355076771bf7/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PIOH75Jq)
