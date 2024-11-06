@@ -101,9 +101,6 @@
 - **DNB Mobile Bank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/88/33/5c88339a-4157-242b-81fa-dce58df309a1/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JofD99Fe)
 - **Renaissance Kingdoms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/27/b4/3727b4b2-c0a4-3b85-dd50-7fba32ba054f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KkFL0EvO)
 
-- **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/86/c0/8986c00c-bca2-ae07-5c37-16652fac2bdc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
-- **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/af/69/a0af69ef-016b-f831-6372-90edce697205/AppIcon-all-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
-
 - **Day One Journal: Private Diary**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f6/17/b7f61729-5dac-3d50-7609-a625ef38d318/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NXLBigzY)
 - **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/31/c5/b531c5e2-4028-5b2f-f0be-2fa056ff8e48/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P9bu6AOe)
 
@@ -5738,7 +5735,6 @@
 - **Dose Guru**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/5c/f7/605cf71e-547e-0794-5e6b-460ae8cf170a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O16RBjPf)
 - **HSBC WorldTrader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/43/7e/51437e71-8a75-1494-e786-10c38cf1d9a1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/koKMbYcD)
 - **Flipper Mobile App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/e2/a8/37e2a865-bab5-46ea-3ed0-1bfcfb314a58/AppIcon-0-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/oLyR7YeT)
-- **BitMEX: Trade Bitcoin & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/60/fc/c360fcc1-4bf3-def5-1200-cb23eb2dae40/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5veBoJm)
 - **Coinyee_Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/21/7d/9b217d24-a710-bddd-aaf8-6a7c1b4ebcfa/AppIcon-0-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/IAufvK5J)
 - **TMB App (Metro Bus Barcelona)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/80/2f/2a802ff4-3b12-a367-96bb-8bbd330670f7/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c2FIzDkK)
 - **到门口-本地电商平台**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/45/5b/2f455bc3-2473-80f0-c18b-0562c793bcc1/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WdX4EA8r)
