@@ -93,8 +93,6 @@
 - **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/56/90/ee5690bb-3f59-eb60-b1b9-9a2f8adf3e02/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
 
 - **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/85/76/b585765b-a347-10bc-d928-a4c1bb5db6e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
-- **DiaBLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/62/4d/41624da2-fee4-ddb4-2d95-e01dd7989db7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H48doU3l)
-- **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
 
 - **SAG Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/5e/b9/fe5eb93a-4137-34ef-3b40-f3b14813b222/AppIcon-1x_U007emarketing-0-2-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/pWyUuGcp)
 - **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/1e/bc1b1e5d-7eb3-60e7-b8ba-4b7ac56a75f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
@@ -6394,7 +6392,6 @@
 - **MusicHarbor - Track New Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/0f/03/350f030f-d344-f89b-2cac-12e06f23050e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uaazZoIc)
 - **Versus league**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/bc/73/3bbc732c-8fdf-0f9a-b0e4-08775d338d7e/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dsxCukY9)
 - **WOMS-SE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/eb/b9/f2ebb9c5-6f20-1fa5-ff48-f7200eb205dd/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cWeodtFD)
-- **In Next Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/fc/95/7afc9569-5bc9-8d70-5477-3d94fe55e886/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/D50l7OXY)
 - **米兔手表-可以打电话的手表**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/d3/a8/88d3a846-023f-e8c1-3b19-7d4ef8ff521f/MituAppIcon-1x_U007emarketing-0-3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Szw5STVX)
 - **GCH豪享学**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/b1/f4/2fb1f4fd-b308-6c1d-44e9-71e7f50d723e/ProductionAppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aLz4YyYw)
 - **CaughtUp | Social Scheduler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/bf/5e/dabf5e58-2ef3-343f-48ff-368e064e36d1/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tCHad36Y)
