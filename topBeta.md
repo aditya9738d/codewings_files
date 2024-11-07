@@ -70,8 +70,6 @@
 
 - **HighLevel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/e4/61/f0e46139-0aca-2c67-b4e5-b1aa97e98f44/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bHNZSiYj)
 
-- **Surreal Machines Crack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/b9/3a/0cb93a17-c4f4-41b9-ed98-b8353271bb52/CrackiOSAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PtyQuUyR)
-
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
 - **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/56/90/ee5690bb-3f59-eb60-b1b9-9a2f8adf3e02/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
 
@@ -87,7 +85,6 @@
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
 
 - **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
-- **Trello: organize anything!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/11/61/301161d3-433b-3d47-e20d-6a06c498e50d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
 
 - **Backyard.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/31/ec/4c31ec24-07f9-cc7a-5258-2b5a27af8d74/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MaP0ap1E)
 - **BETANDYOU - Best bets for you**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/17/ac/9917ac50-f759-d9a3-2e2b-b744bbbd9954/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/x6aMHlck)
@@ -6758,7 +6755,6 @@
 - **Fast Vpn Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a1/79/27a17902-9c75-a371-227a-fea9e287fb32/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v6hQPX5p)
 - **Serve Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/f5/c2/ccf5c289-1878-1715-2b11-73849b6cecf1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rQL29Mb4)
 - **DCXS - Kanata**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/9a/e9/7a9ae981-c7d6-5c30-7365-a7aae79b11b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OKHC4ax2)
-- **Tenet - A Block Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/e3/2c/b4e32ccb-2624-28e0-ef69-cf1609c4b044/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O4EOjLt7)
 - **GPS Team 55**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/44/af/e044af58-a4f5-11ab-ae2e-c6fd0e8f7962/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4tQ9rkpT)
 - **Dhisana - AI Assistants**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/4c/36/ac4c3612-6d3f-5c77-0ed8-7508eaec2d24/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fn96I9wB)
 - **BitRemote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/bf/b5/c2bfb55f-734c-d3c3-a2f9-cb5c40b3d52e/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/hFmuaUmv)
