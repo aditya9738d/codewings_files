@@ -5,8 +5,6 @@
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/da/1c/eeda1c84-9798-e3bd-e685-09063825d9bd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
 - **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ca/0e/76ca0e1e-f9b9-4a8a-c353-edf6b2364773/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
 
-- **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/69/cb3a699a-9860-99f9-7b3e-5fc50410896a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
-- **Kiprun Pacer Courir Running**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/18/78/87187826-6474-a6cd-b636-ff97a05e6afa/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R1Za1EtM)
 - **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/e1/34/3ce13464-0d01-d812-47c2-32c3f0b2e472/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
 
 - **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/2d/f3/ef2df3b8-b36d-8c04-50bb-f1d50b9e6cb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
@@ -4554,7 +4552,6 @@
 - **VFAccess**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/db/e1/64dbe184-64ac-1a45-1ec6-0f346d45d207/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lXLtnl83)
 - **苏商通**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/1a/9d/991a9db8-6535-bc0f-8c55-d3bd40902696/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CG92QSXf)
 - **Quiet Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/db/8f/abdb8fc9-772e-7432-e7ce-ca54c3e5f624/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaUjeiW7)
-- **Norton 360 Security & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/f1/48/def1481c-54cf-e3ae-e478-eaecb244975b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
 - **Chessity**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/f8/93/15f893b5-e6b0-e80c-4eb7-718271316e83/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/CpO1jrpj)
 - **WithLIVE - アーティストとLIVEトーク**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/26/37/cd2637d7-662c-c8c1-e22c-e86470af1532/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JZJoFv54)
 - **NIMS School Diary**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/4d/ee/bc4deed5-51b2-74f3-1e11-d110b618a36a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lGnENnry)
