@@ -163,7 +163,6 @@
 - **DKB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/3e/db/e73edba5-9815-f1c3-bbf4-465b4bbd5365/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NwCXWAEI)
 
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/da/1c/eeda1c84-9798-e3bd-e685-09063825d9bd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
-- **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/71/70/f9717094-b084-8b9f-3110-ee1d61803de8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
 
 - **VITianCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f2/bf/20f2bfab-db57-186b-1b37-727100bfc87e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VgKiq9hh)
 
@@ -190,8 +189,6 @@
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 
 - **Checker - Habit Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/10/06/7810061f-78eb-5d79-3ce1-6ccc578142aa/AppIcon-0-1x_U007ephone-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
-
-- **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/16/70/3b167053-c1ec-907b-fab1-a8757b743d66/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
 
 - **Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/98/c8/f398c83c-ed20-e290-aed3-514402d1ca31/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/njVWbUm0)
 
@@ -3915,7 +3912,6 @@
 - **Can of Soup**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/98/3f/bb983f2c-1656-f818-ea2b-71c4dd3ae935/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mUGNMWLC)
 - **Write GT Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/46/cd/9846cd67-8ca5-f5f0-1ab0-550753061b83/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZmKo5CMy)
 - **Alta Networks**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/cd/8c/cacd8cc2-48e0-ca8d-6003-035e73d5baa7/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jbfXiKNg)
-- **Ever Play - HiFi Music Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/7c/2d/da7c2d3f-87b6-ee3a-2cbb-8d565ef3e799/AppIcon5-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MzvaziMT)
 - **Rondo Measure and Quote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/fd/26/96fd260f-5b7d-0ed0-8bc5-c60fbaa9aad0/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Hc0drHQj)
 - **NGA玩家社区**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/65/61/62656168-f5dc-1544-1be4-f412b2d9f236/AppIcon-1-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ey4ekedW)
 - **魅力智行**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/64/22/27642281-c960-65c7-888d-0f78e1ab1372/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6QdTqowA)
