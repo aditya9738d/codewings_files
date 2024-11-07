@@ -1,3 +1,7 @@
+- **Ever Play - HiFi Music Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/0a/b8/500ab83b-0cd6-8cb2-9d80-cf4e740919a3/AppIcon5-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MzvaziMT)
+- **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ca/0e/76ca0e1e-f9b9-4a8a-c353-edf6b2364773/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
+- **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/2d/f3/ef2df3b8-b36d-8c04-50bb-f1d50b9e6cb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
+
 - **Surreal Machines Crack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/b9/3a/0cb93a17-c4f4-41b9-ed98-b8353271bb52/CrackiOSAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PtyQuUyR)
 - **Trello: organize anything!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/55/15/dc5515f4-0432-bf73-aae7-49e08f7a6797/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
 
@@ -193,5 +197,3 @@
 
 - **Flexi-BLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/a6/44/5ea64431-bd75-4d57-5aeb-8798b0c49cc9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LHyKxPmj)
 - **Microsoft Excel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b1/29/cdb1299f-cb64-297f-45cb-1f1215cad2f8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3lIiz1eZ)
-
-- **OEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/2e/18/4e2e1829-9ba6-35a1-a41a-00c53979c188/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1o3L7gtZ)
