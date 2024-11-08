@@ -4,8 +4,6 @@
 
 - **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/e1/34/3ce13464-0d01-d812-47c2-32c3f0b2e472/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
 
-- **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/e1/34/3ce13464-0d01-d812-47c2-32c3f0b2e472/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
-
 - **Mail: Email, Cloud, Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/da/fa/35dafa41-d823-a986-ddba-9b5f8c3571a8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G04Eq2nO)
 - **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/4d/50/304d505b-f123-ebad-f3f5-7e27753beee5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
 
@@ -118,9 +116,6 @@
 
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
 - **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/56/90/ee5690bb-3f59-eb60-b1b9-9a2f8adf3e02/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
-
-- **SAG Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/5e/b9/fe5eb93a-4137-34ef-3b40-f3b14813b222/AppIcon-1x_U007emarketing-0-2-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/pWyUuGcp)
-- **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/1e/bc1b1e5d-7eb3-60e7-b8ba-4b7ac56a75f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
 
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
 
@@ -5119,7 +5114,6 @@
 - **Kiếm Ảnh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/30/25/fd302581-f078-e368-c24d-fc747bfdd13d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GQzzsJf1)
 - **Thrive CAR-T**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/a6/95/e6a6951a-5065-4e8d-bb83-0649e60c5116/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aUgk0jxM)
 - **Watch Faces by Facer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/02/d1/8502d1a1-ab1a-9caf-738d-2f9deab55d87/AppIcon_Alt_D-0-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KvwL5htc)
-- **Darkroom: Photo & Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/67/cd/c067cd75-25df-f806-6e30-922d3a0c5e32/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mzR3XvHe)
 - **AVIATOR98**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/ca/6a/89ca6ab9-8bf5-afd1-4707-fe3241e56b00/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gpxQpTio)
 - **微读书城1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/41/e4/8841e458-5087-edcc-682b-810feae7243c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AlO1xmeG)
 - **Handyapp - Home Repairs Now**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/27/83/cc278355-111a-f557-fcd5-865c636d1a7b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HXlIeYtK)
