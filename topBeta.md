@@ -162,8 +162,6 @@
 
 - **NRO BON**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/e9/b1/c6e9b127-b9f4-28df-340b-0d00d3159a10/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAFXDvJq)
 
-- **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/81/e2/0a81e223-fd50-8bb1-63aa-10ff39e56899/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
-
 - **iAnyGo-1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/dd/0d/04dd0dce-0e93-b52a-1144-852ed1abca6d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cuVcvkxl)
 
 - **Obzervr Capture**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/c2/9b/b7c29bfb-09fc-6684-f17f-da013eeaadd2/AppIcons-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/75kkKXrm)
@@ -206,9 +204,6 @@
 
 - **Bitger - RJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/38/2c/1c382c85-24b9-05b1-da43-77c5f9ae2f54/AppIconTest-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DYycyG8k)
 - **MIT App Inventor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/c9/25/91c92503-70fc-4e54-cf48-5b97fda525a8/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nBNtKhYl)
-
-- **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/4a/f5/254af56a-9bc8-ccb4-8723-ccd133796235/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
-- **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 
 - **Checker - Habit Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/10/06/7810061f-78eb-5d79-3ce1-6ccc578142aa/AppIcon-0-1x_U007ephone-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
 
