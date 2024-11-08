@@ -2,6 +2,10 @@
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e8/f7/94e8f727-e86c-2806-ccda-307f2af0011f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 
+- **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/81/e2/0a81e223-fd50-8bb1-63aa-10ff39e56899/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
+- **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e8/f7/94e8f727-e86c-2806-ccda-307f2af0011f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
+- **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
+
 - **SAG Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/5e/b9/fe5eb93a-4137-34ef-3b40-f3b14813b222/AppIcon-1x_U007emarketing-0-2-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/pWyUuGcp)
 - **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/1e/bc1b1e5d-7eb3-60e7-b8ba-4b7ac56a75f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
 
