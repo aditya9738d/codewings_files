@@ -131,9 +131,6 @@
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/90/13/c9901350-c632-fa66-ee6f-0337e0a89d9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
 - **Trakt TV Tracker: FilmNoir**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/53/52/765352f8-1b81-13fe-18b9-b3a6583cabf6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
 
-- **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b6/8c/e5b68cac-cb64-8a9f-204d-fda24e747a1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2aVcGxxZ)
-- **CapCut - Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/94/f4/eb94f424-d116-dd92-f890-ab864072cd2a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gu9kI6ky)
-
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/ac/78/b9ac78b8-ad30-df91-5256-b6eabcd7d48c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
 
 - **Renaissance Kingdoms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/27/b4/3727b4b2-c0a4-3b85-dd50-7fba32ba054f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KkFL0EvO)
@@ -2047,7 +2044,6 @@
 - **小红书 – 你的生活指南**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/53/58/b65358ab-3e4f-5ca8-3b05-5c97c421fc24/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XkGKTA71)
 - **Contadino**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/27/1d/dc271d4d-ccb5-a076-5948-08f23ea7d1d5/AppIcon-0-1x_U007epad-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vwhQ6dzJ)
 - **Tsurukame - For WaniKani**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/1f/da/d91fda36-4f2c-2138-b7ac-740f85ad15f4/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Fijye2AA)
-- **Scrypted**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/2d/4f/d82d4f9b-3321-22f0-da40-82ce30417a4e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mpXXwLk7)
 - **PDR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/c1/c5/c8c1c5ad-3635-6f59-bab2-cdb4895359ab/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tBeWVDMU)
 - **e-works在线学院**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/61/9d/f7619df5-7a82-05e1-58ce-fdee543468e9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NJDCAidV)
 - **Treeport**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/32/a6/da32a6c3-29c8-2e0d-9e5e-3c85f4e70e69/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TUvKkEE9)
