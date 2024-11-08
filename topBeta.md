@@ -37,7 +37,6 @@
 
 - **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/69/cb3a699a-9860-99f9-7b3e-5fc50410896a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
 - **Kiprun Pacer Courir Running**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/18/78/87187826-6474-a6cd-b636-ff97a05e6afa/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R1Za1EtM)
-- **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/e1/34/3ce13464-0d01-d812-47c2-32c3f0b2e472/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
 
 - **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ca/0e/76ca0e1e-f9b9-4a8a-c353-edf6b2364773/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
 - **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/2d/f3/ef2df3b8-b36d-8c04-50bb-f1d50b9e6cb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
@@ -3380,7 +3379,6 @@
 - **mentalport Mental Health Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/9e/ca/c39eca47-e00b-c7c5-a88a-7634f857ece5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/95pdvCKt)
 - **Tiger 2FA-二次验证器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/54/42/ba544273-8562-a82d-1efd-8f9d0faf89df/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/fIytgXmp)
 - **Healthway Medical Doctor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/ad/37/aaad3757-7d15-3f05-3cf2-aa2f56e1949c/AppIcon-prod-0-0-1x_U007emarketing-0-9-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jtHExqEw)
-- **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/d6/3b/18d63bfb-52e9-ef1a-c730-285b2992af7c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
 - **Lyd - Watch Remote for Sonos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/46/2d/66462d16-4f72-058e-0a64-f25b510715eb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aNMuMdq9)
 - **Abridge for Clinicians**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/a9/d9/f2a9d9c4-6c71-0f6b-28a3-63fd6833d184/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/epSYmLhJ)
 - **NSDA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/3c/b2/923cb23a-a47b-f61f-fae6-11c9c0e9622b/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DA4TkNoI)
