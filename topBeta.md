@@ -90,9 +90,6 @@
 - **Microsoft Designer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/11/90/491190c4-52e7-c1bb-b708-f9acfc78491c/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KsuaylTZ)
 
 - **foobar2000**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/a1/62/7ca162cb-6efd-ae85-1af0-d94adfea88fd/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fM6L331c)
-- **Envision AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/2a/e8/d42ae8a0-701b-547d-4482-2e7977d696b8/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QzPGfNeH)
-
-- **HighLevel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/e4/61/f0e46139-0aca-2c67-b4e5-b1aa97e98f44/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bHNZSiYj)
 
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
 - **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/56/90/ee5690bb-3f59-eb60-b1b9-9a2f8adf3e02/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
@@ -5610,7 +5607,6 @@
 - **IS – Ilta-Sanomat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/64/8a/f1648a96-4c48-3da0-0959-112fd16a15b3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1RBY45gc)
 - **林内售后**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/6f/37/4b6f3745-f574-0eae-4f20-133a2c639499/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/f0y9MWnv)
 - **Proton**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/c3/16/d7c316e7-5984-52ec-9c0b-0f2a2545a35c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1ybob3i6)
-- **Blue Detect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/b9/ac/68b9ac15-5c55-d8af-3648-c6b96a5680ff/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JwfGtLSG)
 - **冒泡联联 新连接 · 新场景 ·新生活**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/75/7b/44757b71-85b9-9195-3bba-bc661d068e67/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LoCWtZMK)
 - **dime.algo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/3f/e6/ad3fe6b1-4bb4-8e11-6a5d-1f70d4343ff8/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qCH71rx7)
 - **Screeps Observer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/33/26/073326d6-2a22-3b32-aaed-f138dc57edde/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/u4GlOWaL)
