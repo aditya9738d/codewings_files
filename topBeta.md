@@ -164,8 +164,6 @@
 
 - **Kwai - watch cool videos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/d4/af/78d4afc3-0a22-9d98-21b6-5be849935b99/AppIcon-global-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jS8JvwOE)
 
-- **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/0b/1f/490b1f16-3abe-c649-6f83-ece085aa5fdd/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
-
 - **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/ca/7c/21ca7cab-1cf7-67c8-6ed4-6044ccfd8e0e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
 
 - **Blue Js**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/b7/07/e4b707a3-7712-096c-6ae2-836e5fe2e7ae/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/G1tcMJyp)
@@ -1712,7 +1710,6 @@
 - **WiFi Setup**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/be/63/7dbe63c4-f054-9058-c260-b5867f4ae39d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DIDfVri2)
 - **Abilition Rise**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/a9/63/b0a9631e-4a06-6a98-36ab-ec3f8c062135/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zKopXYyf)
 - **輕安居服**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ec/b9/5fecb928-da9a-baee-bec2-5f18aad365a1/AppIcon-0-0-1x_U007epad-0-10-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/CpjDZB4g)
-- **WavePod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/cd/de/96cddec5-8e4b-26aa-7f9b-b8b2093ee973/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NewA5LKh)
 - **AlsuperApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/6b/83/0d6b83a1-68cd-9707-e067-290b2fe4f883/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yl90dQvq)
 - **MyŠkoda**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/ba/10/ebba10be-8335-6828-c8af-f8594f3af189/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/R80jyQ9E)
 - **Memorize - Learn and Remember**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/ed/d1/3bedd10f-f94d-3cc8-3edd-72183ec492c8/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nsTpApXA)
@@ -6248,7 +6245,6 @@
 - **Mobile Forms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/ff/1b/95ff1b33-f41f-23d9-d78f-7caaaca35be6/AppIcon7.0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zKEewGUW)
 - **AccuStore® 6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/52/63/f45263cd-8477-61b4-0d3e-9ca8b7df112c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G9LcbUPW)
 - **Otis Lift**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/69/4d/2a694d48-aea1-c9b8-a456-eb529f9bd6cb/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wfVQ3WRf)
-- **BandLab – Music Making Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/26/27/2e2627af-67f0-618d-8de1-ffa54bc4f336/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BwbEj9Xx)
 - **SIMOSA – Jazz World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5e/c0/2e5ec0d6-7e24-fc49-2523-94a4ce631c0f/AppIcon-0-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/522ZboUu)
 - **天工AI智能助手**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/77/5b/ad775bc5-0359-cc39-3a4e-ce270629f708/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZH8zJwkP)
 - **红果短剧-海量热门短剧随心看**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/24/71/bf247176-18ff-61bf-1f02-8b38546ac018/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Rfr1mzqS)
