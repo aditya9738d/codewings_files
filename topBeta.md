@@ -1,3 +1,7 @@
+- **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b6/8c/e5b68cac-cb64-8a9f-204d-fda24e747a1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2aVcGxxZ)
+- **CapCut - Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/94/f4/eb94f424-d116-dd92-f890-ab864072cd2a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gu9kI6ky)
+- **Scrypted**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/be/48/eabe4869-f0d1-f968-a01b-c2377ca6d2ac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mpXXwLk7)
+
 - **Audio Book Audible**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/ad/fa/ccadfa4b-c4e0-4a80-6152-737e0d14b90b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m2UI8r8y)
 - **Hydra for Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1d/e3/0c1de3ec-4a08-9085-f5a8-eea8f9fd52c1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fpv58Uy3)
 - **foobar2000**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/94/fd/ef94fd2b-db08-7cbd-f439-10896dea6fac/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fM6L331c)
