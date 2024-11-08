@@ -131,9 +131,6 @@
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/90/13/c9901350-c632-fa66-ee6f-0337e0a89d9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
 - **Trakt TV Tracker: FilmNoir**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/53/52/765352f8-1b81-13fe-18b9-b3a6583cabf6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
 
-- **Mini Militia Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b6/8c/e5b68cac-cb64-8a9f-204d-fda24e747a1c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2aVcGxxZ)
-- **CapCut - Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/94/f4/eb94f424-d116-dd92-f890-ab864072cd2a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gu9kI6ky)
-
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/ac/78/b9ac78b8-ad30-df91-5256-b6eabcd7d48c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
 
 - **Renaissance Kingdoms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/27/b4/3727b4b2-c0a4-3b85-dd50-7fba32ba054f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KkFL0EvO)
