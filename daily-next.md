@@ -80,9 +80,6 @@
 
 - **Monster League Fantasy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/b4/ed/73b4ed8b-7413-9e39-25e9-6511ddf225d1/AppIcon-1x_U007ephone-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7pBNJgK3)
 
-- **Ivory for Mastodon by Tapbots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/19/5b/53195bf0-6538-312d-575b-c24fbf34e55d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AOOy02ZU)
-- **Windows App Mobile Beta Two**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/32/dff93299-e7c7-4573-9775-4b2baeed3c95/AppIconBeta-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q4ha2nsh)
-
 - **Collabora Office**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/b0/0a/bfb00a3c-d927-81c9-f36d-b03b956f400b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TEnBWi68)
 
 - **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/85/67/a38567a0-f6b7-0ff9-26ad-efe33c0f572b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
@@ -105,8 +102,6 @@
 
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
 - **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/56/90/ee5690bb-3f59-eb60-b1b9-9a2f8adf3e02/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
-
-- **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/85/76/b585765b-a347-10bc-d928-a4c1bb5db6e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 
 - **SAG Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/5e/b9/fe5eb93a-4137-34ef-3b40-f3b14813b222/AppIcon-1x_U007emarketing-0-2-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/pWyUuGcp)
 - **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/1e/bc1b1e5d-7eb3-60e7-b8ba-4b7ac56a75f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
