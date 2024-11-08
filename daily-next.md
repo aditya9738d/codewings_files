@@ -1,6 +1,9 @@
 - **Envision AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/2a/e8/d42ae8a0-701b-547d-4482-2e7977d696b8/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QzPGfNeH)
 - **HighLevel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/b6/e5/b3b6e507-0283-9a65-405e-cb8cb55398a0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bHNZSiYj)
 
+- **Envision AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/2a/e8/d42ae8a0-701b-547d-4482-2e7977d696b8/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QzPGfNeH)
+- **HighLevel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/b6/e5/b3b6e507-0283-9a65-405e-cb8cb55398a0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bHNZSiYj)
+
 - **Blue Detect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/2a/b6/0b2ab622-d597-f6f9-f31e-559b9d688b64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JwfGtLSG)
 
 - **DiaBLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/01/8e/b0018efa-3ab4-ef62-8f6a-026703fc9b26/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H48doU3l)
