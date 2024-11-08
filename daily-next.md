@@ -164,8 +164,6 @@
 
 - **Kwai - watch cool videos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/d4/af/78d4afc3-0a22-9d98-21b6-5be849935b99/AppIcon-global-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jS8JvwOE)
 
-- **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/0b/1f/490b1f16-3abe-c649-6f83-ece085aa5fdd/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
-
 - **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/ca/7c/21ca7cab-1cf7-67c8-6ed4-6044ccfd8e0e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
 
 - **Blue Js**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/b7/07/e4b707a3-7712-096c-6ae2-836e5fe2e7ae/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/G1tcMJyp)
