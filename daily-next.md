@@ -2,7 +2,6 @@
 
 - **UISP Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/51/ef/8451ef99-13c1-7964-4f44-52f8d6bb381f/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QYRa7Qak)
 - **Privacy AI Offline AI Chatbot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/68/23/e9682357-0ed1-4457-89a0-2be55460a9b3/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tZHf41YA)
-- **Radiacode**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/4e/a2/be4ea201-743e-a42b-5e4e-f80cd37f61ab/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8hSPtm4Z)
 
 - **Running Track**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/81/e2/0a81e223-fd50-8bb1-63aa-10ff39e56899/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/baZf98Vz)
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e8/f7/94e8f727-e86c-2806-ccda-307f2af0011f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
