@@ -162,8 +162,6 @@
 - **Flitsmeister**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/8d/d4/738dd465-5e0c-b8f8-5980-5938705e0cda/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GRUCakKw)
 - **Zenith for VRChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/57/dd/a657dd9e-25f1-15c0-83ab-929b263a5a15/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iDVIKnVL)
 
-- **Radiacode**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/33/dc/b333dcb5-bc36-af10-9632-b3ca572e2230/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8hSPtm4Z)
-
 - **NRO BON**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/e9/b1/c6e9b127-b9f4-28df-340b-0d00d3159a10/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAFXDvJq)
 
 - **iAnyGo-1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/dd/0d/04dd0dce-0e93-b52a-1144-852ed1abca6d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cuVcvkxl)
@@ -2408,7 +2406,6 @@
 - **Nostrmo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/b2/de/c6b2de1c-2ab6-adc6-45de-0db7e8c08170/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kvGz47De)
 - **CamStar-Video Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d9/c9/93d9c98f-dae3-59e5-eccc-b7b9eb7785ca/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/M22pJcve)
 - **PRINCE Flexi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/4e/86/614e8684-f123-4717-fd96-71f60ee09a0d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KdX32Jdu)
-- **UISP Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/4b/f9/4e4bf977-be51-2bcf-7d62-6b959e980180/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QYRa7Qak)
 - **Dr. Muscle AI Personal Trainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/45/e0/eb45e0f1-2d1f-5c68-4d98-1b67862c2703/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qkjapYet)
 - **MySeniorCenter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/e4/07/11e407b3-8c91-0c9d-002b-915efd459126/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/gJMg99Km)
 - **X-Poker - Holdem,Omaha,OFC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/59/a5/ae59a5eb-59d8-d3b6-33f6-2dd96a7cca00/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/piY9ouNr)
