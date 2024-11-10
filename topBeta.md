@@ -1,3 +1,6 @@
+- **Vipps MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/d2/fa/37d2fa84-d57c-287a-ba81-1789af5d35f9/AppIconMT-Vipps-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTAYrwea)
+- **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/1c/e4/201ce48a-46bb-2cbe-3b6b-91b0822b5018/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
+
 - **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/28/a3/6228a380-392e-14a1-d505-8f62e57abd63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
 - **Lissi ID-Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/a8/1d/4da81d23-5aeb-f6f1-0b72-bb0dd3050822/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9AWbZISv)
 
