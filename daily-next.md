@@ -1,3 +1,7 @@
+- **Texts.com: Unified Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/6c/53/596c5389-1f19-0eb2-eaf7-9b428cd5c7ab/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j15QDhZq)
+- **Swiggy: Food Instamart Dineout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/c8/8e/8ec88e6f-8386-8b09-aba8-f882c7f1012b/AppIcon_testflight-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IERuiSEL)
+- **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/8f/29/bd8f2966-447d-e2bd-b07c-a73b046a2111/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
+
 - **EV Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a2/00/75a200c9-8b1d-2901-5f84-206fa4f6a11a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8aDwjblU)
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 - **Palremit: Send – Swap – Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/86/64/3a866455-e06a-76c4-14ef-9518a37a3240/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFE2C3bZ)
