@@ -1,9 +1,6 @@
 - **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
 
-- **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
-- **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
-
 - **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/e9/08/d3e90878-4992-53f7-203d-c5abcf1333f4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 
 - **Microsoft Designer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/11/90/491190c4-52e7-c1bb-b708-f9acfc78491c/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KsuaylTZ)
