@@ -47,8 +47,6 @@
 - **Mail: Email, Cloud, Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/da/fa/35dafa41-d823-a986-ddba-9b5f8c3571a8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G04Eq2nO)
 - **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/4d/50/304d505b-f123-ebad-f3f5-7e27753beee5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
 
-- **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/8f/29/bd8f2966-447d-e2bd-b07c-a73b046a2111/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
-
 - **WavePod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/cc/ed/bdcced0e-e4f0-b9f1-f5a7-beb4dbd41dac/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NewA5LKh)
 - **BandLab – Music Making Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/82/5a/28825aa4-ea5d-cd8e-af59-3cff80d71bec/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BwbEj9Xx)
 
@@ -210,8 +208,6 @@
 - **Moonlight VisionOS Preview**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/d8/fa/a5d8fafa-dafe-d60e-cbf3-db825891c2c8/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/4eE59dyH)
 
 - **Kikoeru**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/69/43/b0694320-1dec-ac9b-0bc7-c88981ad75f0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zh9mreFq)
-
-- **Swiggy: Food Instamart Dineout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/c8/8e/8ec88e6f-8386-8b09-aba8-f882c7f1012b/AppIcon_testflight-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IERuiSEL)
 
 - **Bitger - RJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/38/2c/1c382c85-24b9-05b1-da43-77c5f9ae2f54/AppIconTest-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DYycyG8k)
 - **MIT App Inventor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/c9/25/91c92503-70fc-4e54-cf48-5b97fda525a8/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nBNtKhYl)
@@ -7051,7 +7047,6 @@
 - **Скорпион**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/82/90/d3829093-2798-578a-7ac3-b907bf922105/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qg31YAsW)
 - **DAFS Trader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/2b/3e/142b3e28-6987-2e4d-dc33-49d31ff6de49/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hMjbhsF2)
 - **FloodNotice**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/5e/05/445e0550-e497-4672-6120-6bb46a240e9c/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xFxmSgeN)
-- **Texts.com: Unified Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/cd/1d/afcd1d86-dde3-4a69-a77f-414f60fb74ba/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j15QDhZq)
 - **Lungy Sleep: Bedtime Breathing**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/77/a8/b777a871-9e18-0d7d-77af-91bbe28eae1b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MmC4RwiG)
 - **VeoMech**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/72/6f/83726fd2-9cfc-b41b-45a9-bcd12564b0b9/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mvZ4MOrQ)
 - **1001 Record: Screen Recorder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/27/dc/3527dcfe-99b6-8b6f-de9c-2b81ecf3c955/AppIcon-0-0-85-220-0-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/06SAmUby)
