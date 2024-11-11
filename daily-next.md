@@ -47,7 +47,6 @@
 - **Texts.com: Unified Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/6c/53/596c5389-1f19-0eb2-eaf7-9b428cd5c7ab/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j15QDhZq)
 
 - **EV Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a2/00/75a200c9-8b1d-2901-5f84-206fa4f6a11a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8aDwjblU)
-- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 - **Palremit: Send – Swap – Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/86/64/3a866455-e06a-76c4-14ef-9518a37a3240/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFE2C3bZ)
 
 - **Collabora Office**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/b0/0a/bfb00a3c-d927-81c9-f36d-b03b956f400b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TEnBWi68)
@@ -117,8 +116,6 @@
 
 - **Surreal Machines Crack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/b9/3a/0cb93a17-c4f4-41b9-ed98-b8353271bb52/CrackiOSAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PtyQuUyR)
 - **Trello: organize anything!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/55/15/dc5515f4-0432-bf73-aae7-49e08f7a6797/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
-
-- **Tenet - A Block Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/89/d6/0589d601-d24d-134b-3f43-62c7c4a77fd6/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O4EOjLt7)
 
 - **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/af/69/a0af69ef-016b-f831-6372-90edce697205/AppIcon-all-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
 
