@@ -5,9 +5,6 @@
 - **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
 
-- **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
-- **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
-
 - **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/e9/08/d3e90878-4992-53f7-203d-c5abcf1333f4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 
 - **Microsoft Designer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/11/90/491190c4-52e7-c1bb-b708-f9acfc78491c/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KsuaylTZ)
@@ -18,7 +15,6 @@
 - **Windows App Mobile Beta Two**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/32/dff93299-e7c7-4573-9775-4b2baeed3c95/AppIconBeta-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q4ha2nsh)
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/35/d7/7f35d78f-f0b8-8dd3-03cf-b3155123bc69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
 
-- **Vipps MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/d2/fa/37d2fa84-d57c-287a-ba81-1789af5d35f9/AppIconMT-Vipps-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTAYrwea)
 - **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/1c/e4/201ce48a-46bb-2cbe-3b6b-91b0822b5018/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
 
 - **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/28/a3/6228a380-392e-14a1-d505-8f62e57abd63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
@@ -118,8 +114,6 @@
 - **Trello: organize anything!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/55/15/dc5515f4-0432-bf73-aae7-49e08f7a6797/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
 
 - **Tenet - A Block Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/89/d6/0589d601-d24d-134b-3f43-62c7c4a77fd6/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O4EOjLt7)
-
-- **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/d8/0c/20d80c22-e5a0-8b29-c695-b6a17ca767ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
 
 - **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/af/69/a0af69ef-016b-f831-6372-90edce697205/AppIcon-all-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
 
@@ -2267,7 +2261,6 @@
 - **Thập Đại Anh Hùng 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/fd/49/80fd4913-d739-6708-eb21-5007e3300a0d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAG6vC6N)
 - **友金展业**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/2e/ac/162eac83-adc6-c525-1c4d-e3507a553e6b/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HcYwrWa2)
 - **radiko staging**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/9b/2c/459b2c44-71e7-9acf-d294-a34b8f1ef588/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xGZID8vo)
-- **Nostur - Nostr client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/c1/e3/22c1e3d9-9c35-b590-15bf-db17b73a147d/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TyrRNCXA)
 - **Moon Chai Story**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/09/17/32091721-8c0f-cf71-e89b-577e99295c0f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NBawcyz6)
 - **Pluto TV (Debug)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/78/cf/7878cf56-f713-b1ca-aa1b-a3e9e6b5e601/AppIcon-debug-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Jdg2lENi)
 - **MyTherapy: Medication Reminder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/9d/c8/d09dc85b-08aa-e009-ed94-8cd4346efcc2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fm9mu1wl)
