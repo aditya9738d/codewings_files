@@ -140,9 +140,6 @@
 
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/ab/59/94ab593c-a1f9-cd5e-cbe4-a76fb378bf1f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
 
-- **WordPress – Website Builder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/b4/a9/7eb4a9bd-37b9-b1ab-0e0f-364530a02bb6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
-- **Wink - Video AI Enhancement**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/0c/44/e20c44e6-0100-f571-abf3-0164c241a011/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
-
 - **Revolut: Send, spend and save**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/cd/ed/05cdeda2-d878-f731-953f-5f5edb6875dc/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
 
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
@@ -6740,7 +6737,6 @@
 - **Control4 for OS 3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/ff/f0/bdfff0a8-9a7b-aba9-6b33-0e34d51b7117/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HmBAVlj1)
 - **Art Museum | visit artwork**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/7a/54/e87a5468-6456-06cd-ace1-ff72c7d674a3/AppIcon-0-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9cApO12p)
 - **SLOA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/54/f2/c054f231-d829-9aa4-3a98-7fd44f1b40c1/AppIcon-1x_U007ephone-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JOgCJm8Y)
-- **HashSeven**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a5/66/9ca566c9-874f-fbaf-9f66-89070ad621df/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yZg3crZM)
 - **HS Trier**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/d7/18/07d718e0-1f86-5282-998d-7785a0fbe738/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Tw6P1T6Q)
 - **Pin Pal - Ai Pin Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/39/0b/78390bd2-272d-4c15-eaaf-bd8867efb86f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/iEHtPAT5)
 - **i国网**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/fc/2a/b0fc2a3b-f3c4-c436-3879-8621c3307006/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/FvT7iC1i)
