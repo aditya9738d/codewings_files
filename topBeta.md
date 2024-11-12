@@ -14,8 +14,6 @@
 - **Dancing Line Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/42/4f/af424f59-63c6-5e65-8542-88993d199afd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6WAJ4rTg)
 
 - **Darkroom: Photo & Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/ec/29/eaec29e7-5fad-cc62-52c2-b207046759f4/AppIcon-Beta-0-0-1x_U007epad-0-11-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mzR3XvHe)
-- **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/1e/bc1b1e5d-7eb3-60e7-b8ba-4b7ac56a75f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
-- **Texts.com: Unified Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/6c/53/596c5389-1f19-0eb2-eaf7-9b428cd5c7ab/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j15QDhZq)
 
 - **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/e1/ad/b0e1ad05-7c0e-c67c-cd5b-4099d4559e3e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
 - **FindMe Show**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/0d/89/7e0d8903-3a8d-6051-4968-11716065c9b1/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/1jsXHD60)
@@ -678,7 +676,6 @@
 
 - **WhatsApp Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/85/bc/7f85bc84-4012-40e3-62c5-0393f096a5ec/AppIconCatalystBetarelbranch-0-2x_U007euniversal-0-0-0-4-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/krUFQpyJ
 )
-- **VFeed - для ВК (VK)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/45/ff/c145ffc5-685e-373f-7773-23a087da2035/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZdC5U0fR
 )
 
 - **レーシングマスター**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/4c/92/874c92df-999d-3d1e-ebe0-b06e4e2b8405/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IuXW2dvS)
