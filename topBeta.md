@@ -1,3 +1,7 @@
+- **XeggeX Crypto Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/e1/ad/b0e1ad05-7c0e-c67c-cd5b-4099d4559e3e/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j1XcQKXm)
+- **FindMe Show**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/0d/89/7e0d8903-3a8d-6051-4968-11716065c9b1/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/1jsXHD60)
+- **Textico**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/d3/e5/96d3e58b-2ec8-ff25-f805-6308de7f8784/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2FByd1sj)
+
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e8/f7/94e8f727-e86c-2806-ccda-307f2af0011f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 - **Ninja School**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/8a/1b/9c8a1b66-22a7-391b-c3b4-fbbdbe67b1b1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O1jTSJWE)
