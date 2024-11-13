@@ -19,7 +19,6 @@
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/8c/fd/9f8cfd33-dadc-5d5a-aa63-10dd4d452bbb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
 - **Renaissance Kingdoms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/27/b4/3727b4b2-c0a4-3b85-dd50-7fba32ba054f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KkFL0EvO)
 
-- **ZERO BGMI PRO 3.4.0 - v3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/ec/99/18ec992f-bcd7-c93c-fac7-cf468ecdee2c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/Jg18mkNd)
 - **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a8/b5/0ca8b5ae-3028-e0d2-c5fe-daea02b3076f/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
 - **Avatar Musik**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/13/32/8613321c-92a3-d760-39d2-2ab441ffb770/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O0KKLALY)
 
@@ -82,9 +81,6 @@
 - **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/97/b0/2e97b0c8-9b90-dc82-964a-30475cd6f83d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
 
 - **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/d8/0c/20d80c22-e5a0-8b29-c695-b6a17ca767ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
-- **Vipps MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/d2/fa/37d2fa84-d57c-287a-ba81-1789af5d35f9/AppIconMT-Vipps-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTAYrwea)
-
-- **Nostur - Nostr client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/74/55/96745535-69ae-43af-dff4-db672c313315/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TyrRNCXA)
 
 - **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/e9/08/d3e90878-4992-53f7-203d-c5abcf1333f4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 
