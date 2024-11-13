@@ -162,7 +162,6 @@
 - **Revolut: Send, spend and save**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/cd/ed/05cdeda2-d878-f731-953f-5f5edb6875dc/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
 
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
-- **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/56/90/ee5690bb-3f59-eb60-b1b9-9a2f8adf3e02/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
 
 - **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
 
@@ -227,8 +226,6 @@
 
 - **Bitger - RJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/38/2c/1c382c85-24b9-05b1-da43-77c5f9ae2f54/AppIconTest-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DYycyG8k)
 - **MIT App Inventor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/c9/25/91c92503-70fc-4e54-cf48-5b97fda525a8/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nBNtKhYl)
-
-- **Checker - Habit Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/10/06/7810061f-78eb-5d79-3ce1-6ccc578142aa/AppIcon-0-1x_U007ephone-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
 
 - **Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/98/c8/f398c83c-ed20-e290-aed3-514402d1ca31/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/njVWbUm0)
 
@@ -4354,7 +4351,6 @@
 - **Crisp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/28/21/f22821f0-a230-99a8-4984-064e79a51950/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EiqYmhki)
 - **Unicorn Pro:Privacy & Adblock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/19/d3/b219d362-15b8-8c9b-c1fd-69a51adeef10/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Lr1vIu8x)
 - **HelloFresh: Meal Kit Delivery**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/66/db/c066db6e-e931-2e0f-5a53-e7bbd58733fb/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zwhJ2o6f)
-- **MP CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/54/67/1c546736-4d96-7ecb-c57c-ac09d28321d8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NqTN0JgK)
 - **ntv Nachrichten**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/6d/6d/456d6d1f-e28b-35d4-430c-a25c64f977e7/AppIcon-0-1x_U007emarketing-0-9-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/n65TDvGb)
 - **Givamaze (Dev)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/d4/e9/49d4e9ca-c84d-f671-565c-834ad0e55afd/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yXsSCmuy)
 - **SuperFan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/09/ab/4409ab0f-38d6-6dc0-b7cf-26656cf8ce13/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4K5j8EXQ)
