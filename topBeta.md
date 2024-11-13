@@ -133,7 +133,6 @@
 
 - **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ca/0e/76ca0e1e-f9b9-4a8a-c353-edf6b2364773/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
 - **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/2d/f3/ef2df3b8-b36d-8c04-50bb-f1d50b9e6cb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
-- **DNB Mobile Bank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/58/15/6a581534-4460-a0a1-4b59-fdff4749bdde/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JofD99Fe)
 
 - **Norton 360 Security & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/5e/a5/b65ea556-4b95-6e3d-7def-6da57324bff3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
 
@@ -180,10 +179,6 @@
 
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/90/13/c9901350-c632-fa66-ee6f-0337e0a89d9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpojexto)
 - **Trakt TV Tracker: FilmNoir**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/53/52/765352f8-1b81-13fe-18b9-b3a6583cabf6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
-
-- **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/ac/78/b9ac78b8-ad30-df91-5256-b6eabcd7d48c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
-
-- **Renaissance Kingdoms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/27/b4/3727b4b2-c0a4-3b85-dd50-7fba32ba054f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KkFL0EvO)
 
 - **Day One Journal: Private Diary**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f6/17/b7f61729-5dac-3d50-7609-a625ef38d318/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NXLBigzY)
 - **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/31/c5/b531c5e2-4028-5b2f-f0be-2fa056ff8e48/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P9bu6AOe)
