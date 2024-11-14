@@ -37,7 +37,6 @@
 - **Microsoft Designer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/f1/bb/36f1bb95-633e-9842-574e-d19e16d691ac/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KsuaylTZ)
 
 - **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/56/90/ee5690bb-3f59-eb60-b1b9-9a2f8adf3e02/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
-- **Checker - Habit Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/10/06/7810061f-78eb-5d79-3ce1-6ccc578142aa/AppIcon-0-1x_U007ephone-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
 
 - **MP CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/8b/de/4d8bde97-cf01-7b05-c285-8c66cc86b1c5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NqTN0JgK)
 
@@ -2687,7 +2686,6 @@
 - **Embrace BrandGame**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/c7/f6/7fc7f6ee-7ca8-bd0f-7f29-36ae77b98060/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oa6rZtmR)
 - **Flowy Pokladňa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/f2/eb/a9f2ebae-0de1-fd6a-6846-f5c874b99806/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lc4K3Vez)
 - **52RedPoker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/70/5a/4d705a00-829e-1dc4-50ed-efac5805a0be/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XIcXxLRY)
-- **蓝月亮SFA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/f6/af/17f6af90-c22d-82ba-8c8f-9dcac4b229a1/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xAIHzkfB)
 - **幸福社**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/2c/64/5d2c646e-4523-8d92-e069-ba4222154eb2/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ckFEpeAL)
 - **Soulver**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/02/d7/b402d745-c8ba-0a9a-cdcf-1e3a1f42b7cc/App_Icon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/rBWP4hPz)
 - **Doctor - Appointments Booking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/96/60/a496606f-3750-b8ad-ad13-d67e4bac1c5f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C0IsBZdY)
