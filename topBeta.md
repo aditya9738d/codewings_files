@@ -81,8 +81,6 @@
 
 - **Wink - Video AI Enhancement**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/ab/59/94ab593c-a1f9-cd5e-cbe4-a76fb378bf1f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
 
-- **Dark Noise: Ambient Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/40/66/4a4066e1-b5d5-d1d1-cdc1-91168bed9981/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kpKtyijY)
-
 - **Matrix go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/e1/95/05e195d3-8496-93cf-d1a8-6996534a17d4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BX8EObic)
 - **Collabora Office**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/06/e7/8606e785-db92-12e9-9835-79013418a460/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TEnBWi68)
 
@@ -91,8 +89,6 @@
 - **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/85/67/a38567a0-f6b7-0ff9-26ad-efe33c0f572b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
 
 - **WordPress – Website Builder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/b4/a9/7eb4a9bd-37b9-b1ab-0e0f-364530a02bb6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
-
-- **HashSeven**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/32/12/d53212ab-a9d7-3167-c5b8-2d9f26d4f857/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yZg3crZM)
 
 - **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/0b/77/170b775d-3da8-5bc9-b1c3-0ace23e2f423/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
 
@@ -3049,7 +3045,6 @@
 - **nightguard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/0f/d3/d50fd3f6-dfaa-93c4-0e1d-3a3f8cb1ab49/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Ub8WcpcE)
 - **Boom Boogers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/a1/26/23a12645-f42f-7741-6458-98ab34f28cef/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/H8cgPHxr)
 - **QUT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/26/a4/4526a4a9-2cae-814c-db36-1bbc51bc5f8a/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0ITjaoYd)
-- **Big Mail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/d4/55/2ad455dc-7a1f-c26a-2f82-dd1038cecbc4/AppIcon-0-1x_U007emarketing-0-3-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wboU3bTt)
 - **LMP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/52/08/8652083d-618c-fda0-bb0b-33bfd0627fd3/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H0qG853j)
 - **EDU-Me**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/9e/01/c49e01f1-e8a6-f2b2-a5c6-dd83d8c2ed06/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/CQAl2DNN)
 - **ShufflePlay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/ee/03/37ee0318-0c0c-e9d2-4dc8-2ebf881667d1/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OXkxF2Zt)
