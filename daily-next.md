@@ -5,9 +5,6 @@
 - **Privacy AI Offline AI Chatbot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/68/23/e9682357-0ed1-4457-89a0-2be55460a9b3/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tZHf41YA)
 - **Radiacode**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/4e/a2/be4ea201-743e-a42b-5e4e-f80cd37f61ab/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8hSPtm4Z)
 
-- **Privacy AI Offline AI Chatbot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/68/23/e9682357-0ed1-4457-89a0-2be55460a9b3/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tZHf41YA)
-- **Radiacode**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/4e/a2/be4ea201-743e-a42b-5e4e-f80cd37f61ab/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8hSPtm4Z)
-
 - **X-CT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ff/e0/6effe079-a570-d929-3ef6-9b1d38761603/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fEVr9Yes)
 
 - **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c0/5a/6bc05ac6-d2da-9527-805e-dfe993c50833/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
@@ -43,7 +40,6 @@
 - **WavePod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/cc/ed/bdcced0e-e4f0-b9f1-f5a7-beb4dbd41dac/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NewA5LKh)
 - **BandLab – Music Making Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/82/5a/28825aa4-ea5d-cd8e-af59-3cff80d71bec/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BwbEj9Xx)
 
-- **DNB Mobile Bank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/58/15/6a581534-4460-a0a1-4b59-fdff4749bdde/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JofD99Fe)
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/8c/fd/9f8cfd33-dadc-5d5a-aa63-10dd4d452bbb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
 - **Renaissance Kingdoms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/27/b4/3727b4b2-c0a4-3b85-dd50-7fba32ba054f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KkFL0EvO)
 
@@ -145,9 +141,6 @@
 
 - **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/69/cb3a699a-9860-99f9-7b3e-5fc50410896a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
 - **Kiprun Pacer Courir Running**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/18/78/87187826-6474-a6cd-b636-ff97a05e6afa/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R1Za1EtM)
-
-- **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ca/0e/76ca0e1e-f9b9-4a8a-c353-edf6b2364773/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
-- **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/2d/f3/ef2df3b8-b36d-8c04-50bb-f1d50b9e6cb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
 
 - **Norton 360 Security & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/5e/a5/b65ea556-4b95-6e3d-7def-6da57324bff3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
 
