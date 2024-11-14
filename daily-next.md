@@ -2,10 +2,6 @@
 - **Vipps MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f0/75/63f075e2-da98-d074-0533-aca3950224dd/AppIconMT-Vipps-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTAYrwea)
 - **ZERO BGMI PRO 3.4.0 - v3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/ec/99/18ec992f-bcd7-c93c-fac7-cf468ecdee2c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/Jg18mkNd)
 
-- **Nostur - Nostr client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/74/55/96745535-69ae-43af-dff4-db672c313315/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TyrRNCXA)
-- **Vipps MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/e1/a0/6fe1a076-aa86-b748-41ee-6f407f7b0cf6/AppIconMT-Vipps-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTAYrwea)
-- **ZERO BGMI PRO 3.4.0 - v3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/ec/99/18ec992f-bcd7-c93c-fac7-cf468ecdee2c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/Jg18mkNd)
-
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e8/f7/94e8f727-e86c-2806-ccda-307f2af0011f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 - **Ninja School**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/8a/1b/9c8a1b66-22a7-391b-c3b4-fbbdbe67b1b1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O1jTSJWE)
