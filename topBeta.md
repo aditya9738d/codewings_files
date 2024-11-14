@@ -59,7 +59,6 @@
 
 - **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b7/57/05b75761-b15c-90a7-9c2b-6104027dac37/AppIcon-primary-primary-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
 
-- **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/5d/35/0e5d3548-8b39-ca67-552b-3d99827eb98a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
 - **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
 
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
@@ -85,11 +84,7 @@
 - **Tenet - A Block Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/89/d6/0589d601-d24d-134b-3f43-62c7c4a77fd6/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O4EOjLt7)
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 
-- **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/97/b0/2e97b0c8-9b90-dc82-964a-30475cd6f83d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
-
 - **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/d8/0c/20d80c22-e5a0-8b29-c695-b6a17ca767ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
-
-- **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/e9/08/d3e90878-4992-53f7-203d-c5abcf1333f4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 
 - **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/0e/bb/0a0ebbdc-4712-5adb-dace-ff002491b27a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
 - **Potato Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/f5/cf/ebf5cf29-fccf-a8c2-3349-d02b21c811dc/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P2Jlp35o)
