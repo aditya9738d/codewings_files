@@ -24,7 +24,6 @@
 - **WavePod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/cc/ed/bdcced0e-e4f0-b9f1-f5a7-beb4dbd41dac/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NewA5LKh)
 - **BandLab – Music Making Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/82/5a/28825aa4-ea5d-cd8e-af59-3cff80d71bec/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BwbEj9Xx)
 
-- **Ninja School**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/8a/1b/9c8a1b66-22a7-391b-c3b4-fbbdbe67b1b1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O1jTSJWE)
 - **iPlayTV AIO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/75/d7/3d75d7a3-4941-78a4-0e0b-34d453fce701/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/irMsXGg0)
 - **BitMEX: Trade Bitcoin & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/01/af/0501af41-6279-a6ba-38bb-9f4f6330a177/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5veBoJm)
 
@@ -44,9 +43,6 @@
 
 - **Hydra for Reddit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1d/e3/0c1de3ec-4a08-9085-f5a8-eea8f9fd52c1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fpv58Uy3)
 - **Envision AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/2a/e8/d42ae8a0-701b-547d-4482-2e7977d696b8/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QzPGfNeH)
-
-- **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e8/f7/94e8f727-e86c-2806-ccda-307f2af0011f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
-- **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 
 - **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/28/a3/6228a380-392e-14a1-d505-8f62e57abd63/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
 
