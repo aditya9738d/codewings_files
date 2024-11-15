@@ -20,7 +20,6 @@
 - **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/df/cc/7ddfcc68-66d8-2f1b-fffa-46d341c77ae5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 - **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
 
-- **Tenet - A Block Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/60/57/bc6057ff-e9b4-932c-bac1-049db9a90b23/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O4EOjLt7)
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 
 - **Treegaze Cove: Match & Craft**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/bd/bb/67bdbb90-6b03-8413-8aec-1832c1513de7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MgNOJNqb)
@@ -2909,7 +2908,6 @@
 - **HDS Driver App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/b6/2d/4fb62d5d-2cd7-43bf-b7d3-fa8ea5921b72/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U7AtfURL)
 - **NYP Advances**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/a0/f6/ffa0f68d-cebf-2b13-f653-39e2d3ce940b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XFIbrVWM)
 - **SMOLLAN SMART**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/be/4f/95be4fcb-b4ce-122e-7c96-d82f76344e5b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CvWmKloE)
-- **SkyDemon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/14/e1/c114e141-3d7e-cf73-26a6-fd51f7f6ee86/AppIcons-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hz1uLaJX)
 - **GC Insider**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/52/c7/ee52c736-0aa5-2cc0-a333-c3c1712b29c7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EyioMtIF)
 - **腾讯地图-路线规划,导航地铁打车出行**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/9d/93/7f9d93f3-0ec9-8ba7-5c13-5a65cc75c1ad/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/N1MkckuA)
 - **i深圳-深圳市统一政务服务APP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/5f/25/895f25b5-3e6e-776f-96f9-9a67104ec062/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jjzO50h3)
