@@ -43,8 +43,6 @@
 - **X-CT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ff/e0/6effe079-a570-d929-3ef6-9b1d38761603/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fEVr9Yes)
 
 - **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c0/5a/6bc05ac6-d2da-9527-805e-dfe993c50833/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
-- **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/f1/5d/57f15db1-68e4-39b4-4e74-5f307974271a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
-- **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/df/cc/7ddfcc68-66d8-2f1b-fffa-46d341c77ae5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 
 - **Ninja School**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/8a/1b/9c8a1b66-22a7-391b-c3b4-fbbdbe67b1b1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O1jTSJWE)
 - **iPlayTV AIO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/75/d7/3d75d7a3-4941-78a4-0e0b-34d453fce701/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/irMsXGg0)
@@ -91,8 +89,6 @@
 - **Textico**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/d3/e5/96d3e58b-2ec8-ff25-f805-6308de7f8784/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2FByd1sj)
 
 - **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b7/57/05b75761-b15c-90a7-9c2b-6104027dac37/AppIcon-primary-primary-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
-
-- **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
 
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/da/1c/eeda1c84-9798-e3bd-e685-09063825d9bd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
