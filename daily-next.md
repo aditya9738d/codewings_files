@@ -60,8 +60,6 @@
 - **HashSeven**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/32/12/d53212ab-a9d7-3167-c5b8-2d9f26d4f857/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yZg3crZM)
 - **Dark Noise: Ambient Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/40/66/4a4066e1-b5d5-d1d1-cdc1-91168bed9981/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kpKtyijY)
 
-- **Big Mail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/4e/09/a74e0988-a16f-78fe-090b-d7ce9e1a9b65/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wboU3bTt)
-
 - **Checker - Habit Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/10/06/7810061f-78eb-5d79-3ce1-6ccc578142aa/AppIcon-0-1x_U007ephone-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
 
 - **BitMEX: Trade Bitcoin & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/01/af/0501af41-6279-a6ba-38bb-9f4f6330a177/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5veBoJm)
@@ -182,8 +180,6 @@
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/ab/59/94ab593c-a1f9-cd5e-cbe4-a76fb378bf1f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
 
 - **Revolut: Send, spend and save**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/cd/ed/05cdeda2-d878-f731-953f-5f5edb6875dc/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
-
-- **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
 
 - **Backyard.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/31/ec/4c31ec24-07f9-cc7a-5258-2b5a27af8d74/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MaP0ap1E)
 - **BETANDYOU - Best bets for you**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/17/ac/9917ac50-f759-d9a3-2e2b-b744bbbd9954/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/x6aMHlck)
