@@ -1,9 +1,6 @@
 - **Big Mail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/4e/09/a74e0988-a16f-78fe-090b-d7ce9e1a9b65/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wboU3bTt)
 - **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
 
-- **Big Mail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/4e/09/a74e0988-a16f-78fe-090b-d7ce9e1a9b65/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wboU3bTt)
-- **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
-
 - **Camera Companion BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/d0/7f/08d07f19-dc09-887d-b576-741e428483b2/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z18Ngj0N)
 
 - **Nostur - Nostr client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/74/55/96745535-69ae-43af-dff4-db672c313315/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TyrRNCXA)
