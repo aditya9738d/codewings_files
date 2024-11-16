@@ -2,10 +2,6 @@
 - **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a7/8b/12a78bc1-a255-bd31-2eb6-5d19e3a53f0e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 - **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
 
-- **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/23/db/5e23dbde-af51-5f5b-6289-e8f20e9a3871/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
-- **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a7/8b/12a78bc1-a255-bd31-2eb6-5d19e3a53f0e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
-- **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
-
 - **Big Mail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/4e/09/a74e0988-a16f-78fe-090b-d7ce9e1a9b65/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wboU3bTt)
 - **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
 
