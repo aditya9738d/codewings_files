@@ -21,8 +21,6 @@
 
 - **Hoarder App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/8d/f0/a68df06f-6fd5-63a8-e4a4-b12383c2f01c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QifpNxAT)
 
-- **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e4/83/d4e48306-30e2-431a-b096-cb1838c23361/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
-- **Microsoft Designer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/f1/bb/36f1bb95-633e-9842-574e-d19e16d691ac/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KsuaylTZ)
 - **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/0e/bb/0a0ebbdc-4712-5adb-dace-ff002491b27a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
 
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/48/a5/6548a5bc-c37e-3209-0974-9ee383af8464/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
@@ -78,8 +76,6 @@
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 
 - **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a8/b5/0ca8b5ae-3028-e0d2-c5fe-daea02b3076f/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
-
-- **Keka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/e0/49/b8e049c6-bb4b-462f-09dc-8f7fdbaa564d/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPYINGCJ)
 
 - **MP CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/8b/de/4d8bde97-cf01-7b05-c285-8c66cc86b1c5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NqTN0JgK)
 
