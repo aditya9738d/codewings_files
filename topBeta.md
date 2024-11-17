@@ -86,8 +86,6 @@
 - **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/aa/87/82aa87ad-4342-4019-59c2-379b739d36f0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
 
 - **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/a5/db/f7a5db70-9acc-1efb-6355-e568895e4560/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
-- **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/2d/f3/ef2df3b8-b36d-8c04-50bb-f1d50b9e6cb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
-- **DNB Mobile Bank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/58/15/6a581534-4460-a0a1-4b59-fdff4749bdde/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JofD99Fe)
 
 - **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c0/5a/6bc05ac6-d2da-9527-805e-dfe993c50833/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
 
@@ -99,7 +97,6 @@
 
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/8f/29/bd8f2966-447d-e2bd-b07c-a73b046a2111/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
 
-- **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/8c/fd/9f8cfd33-dadc-5d5a-aa63-10dd4d452bbb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
 - **Renaissance Kingdoms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/27/b4/3727b4b2-c0a4-3b85-dd50-7fba32ba054f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KkFL0EvO)
 
 - **Avatar Musik**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/13/32/8613321c-92a3-d760-39d2-2ab441ffb770/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O0KKLALY)
