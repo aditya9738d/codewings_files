@@ -92,8 +92,6 @@
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e8/f7/94e8f727-e86c-2806-ccda-307f2af0011f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 
-- **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a8/b5/0ca8b5ae-3028-e0d2-c5fe-daea02b3076f/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
-
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/8f/29/bd8f2966-447d-e2bd-b07c-a73b046a2111/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
 
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/8c/fd/9f8cfd33-dadc-5d5a-aa63-10dd4d452bbb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
@@ -9515,7 +9513,6 @@
 - **TravelTaxDay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/78/35/4e/78354e47-592a-1a38-d418-b22a43cccbb9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/WyOp4aac)
 - **Trialable**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e9/a0/30/e9a0306e-e5ce-848c-bb92-999071b33da1/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png)](https://testflight.apple.com/join/ipJM00gQ)
 - **TripTest1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/e0/65/85e06599-654b-1398-9317-ae518c1df0ea/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-8.png)](https://testflight.apple.com/join/diODCvtt)
-- **TrolleeGo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/19/61/4a19618e-b8a3-f822-5342-1ff72c3409da/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/TKra0Crk)
 - **Tronic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/69/7b/7a697bc3-3884-e0ff-f360-9e2758779fcd/AppIcon-1x_U007emarketing-0-10-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/0iTGkH7w)
 - **Truco Mais**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/e1/64/88e1645a-6c49-fc8d-1045-cf231460ea37/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/PfgWwAPO)
 - **True Story**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f0/51/c9/f051c95a-7cfb-cef5-8f2b-79993aebb32d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-8.png)](https://testflight.apple.com/join/GLuyImsI)
@@ -9775,6 +9772,5 @@
 - **OlyaApp Teste**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/9c/a9/5f9ca997-e2fa-152a-44b0-45bfede63d65/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QLmmgWOR)
 - **DS Cloud-高清影片、无损音乐轻松播放**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/43/88/3c438850-a4cb-74b1-c4b8-537aa986943b/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pL9tLj6Q)
 - **KSAS（クボタスマートアグリシステム）**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/4a/0d/394a0d8f-f72c-3bd5-a2de-0f86f3ce6951/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9qAbc8OZ)
-- **Rồng Thần Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/fb/46/abfb466f-6a33-f63f-d5b7-a01b9293835e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/k8584n03)
 - **思拓新闻**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/47/34/03473451-bfd5-15d9-d04b-0d9092df7179/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jbVM8nuq)
 - **棋路-象棋课堂**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/47/fd/6347fdfd-d951-7dd7-aaf5-5a9ad5dedd4f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s9SdLije)
