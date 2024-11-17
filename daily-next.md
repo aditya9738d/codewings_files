@@ -6,6 +6,10 @@
 - **DNB Mobile Bank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/58/15/6a581534-4460-a0a1-4b59-fdff4749bdde/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JofD99Fe)
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/fb/77/40fb77fd-7bff-e1a8-129c-fd5d29115f70/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
 
+- **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/2d/f3/ef2df3b8-b36d-8c04-50bb-f1d50b9e6cb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
+- **DNB Mobile Bank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/58/15/6a581534-4460-a0a1-4b59-fdff4749bdde/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JofD99Fe)
+- **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/fb/77/40fb77fd-7bff-e1a8-129c-fd5d29115f70/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
+
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/48/a5/6548a5bc-c37e-3209-0974-9ee383af8464/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
 - **Ever Play - HiFi Music Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/0a/b8/500ab83b-0cd6-8cb2-9d80-cf4e740919a3/AppIcon5-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MzvaziMT)
 - **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/77/74/4a77745a-9b5f-9cfa-3434-94dc32501ce2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
@@ -193,6 +197,3 @@
 - **BETANDYOU - Best bets for you**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/17/ac/9917ac50-f759-d9a3-2e2b-b744bbbd9954/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/x6aMHlck)
 
 - **Simulado Nu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/38/fd/e938fda3-808e-8367-4942-a7eac68e37c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zgPIXQHg)
-
-- **LUNA by IUNU**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/98/b4/e498b418-c547-6100-e1c6-389eb0b3019f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RbRX3LT5)
-- **Swiftgram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/c1/82/2bc18247-2b7e-80a9-4b70-0739e811a77d/AppIconLLC-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3TUwXHbH)
