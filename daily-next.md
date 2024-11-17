@@ -92,8 +92,6 @@
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e8/f7/94e8f727-e86c-2806-ccda-307f2af0011f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/32/e0/8832e037-6a1b-24e4-9725-cbe210031d75/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 
-- **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a8/b5/0ca8b5ae-3028-e0d2-c5fe-daea02b3076f/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
-
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/8f/29/bd8f2966-447d-e2bd-b07c-a73b046a2111/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
 
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/8c/fd/9f8cfd33-dadc-5d5a-aa63-10dd4d452bbb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
