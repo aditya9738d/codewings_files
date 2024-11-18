@@ -97,7 +97,6 @@
 - **Matrix go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/e1/95/05e195d3-8496-93cf-d1a8-6996534a17d4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BX8EObic)
 
 - **BitMEX: Trade Bitcoin & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/01/af/0501af41-6279-a6ba-38bb-9f4f6330a177/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5veBoJm)
-- **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/aa/87/82aa87ad-4342-4019-59c2-379b739d36f0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
 
 - **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c0/5a/6bc05ac6-d2da-9527-805e-dfe993c50833/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
 
@@ -2113,7 +2112,6 @@
 - **Intervals Pro: HIIT Timer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/c4/c3/85c4c3f5-3339-bc92-358d-4653d3efba49/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Nn7iSOzY)
 - **Coinplay App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/7d/8d/aa7d8dd8-1937-b999-f305-9068323f55b0/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gy5HETM5)
 - **FRITZ!App Fon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/87/61/f1876186-40b7-81e0-a207-d7e8cb520018/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SGGCxyRp)
-- **Feditext**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/db/6e/58db6ef4-2979-7595-021b-b1c6913d2372/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3Ik3KBjj)
 - **Discover Dairy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/00/41/080041ac-5639-03a8-e82b-82c931db0c97/AppIcon-0-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PQMxZgB6)
 - **SafeExamBrowser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/b1/cb/38b1cbc8-ab3e-f5ca-8778-977a7d84338e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/egxLmc4j)
 - **VTNB C&T**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/8f/94/178f941b-0ad7-ddf5-e42b-ba13e29b76e0/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jUoU7QLo)
