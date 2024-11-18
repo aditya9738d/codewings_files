@@ -75,7 +75,6 @@
 
 - **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
 
-- **Nostur - Nostr client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/74/55/96745535-69ae-43af-dff4-db672c313315/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TyrRNCXA)
 - **Vipps MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/28/9c/39289c74-03a4-93f2-bc7a-fcfee12dade9/AppIconMT-Vipps-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTAYrwea)
 - **ZERO BGMI PRO 3.4.0 - v3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/ec/99/18ec992f-bcd7-c93c-fac7-cf468ecdee2c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/Jg18mkNd)
 
@@ -139,8 +138,6 @@
 - **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/43/69/ad436938-349f-4180-7414-dbde3eb770f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
 - **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/85/67/a38567a0-f6b7-0ff9-26ad-efe33c0f572b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
 
-- **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/d8/0c/20d80c22-e5a0-8b29-c695-b6a17ca767ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
-
 - **Blue Detect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/2a/b6/0b2ab622-d597-f6f9-f31e-559b9d688b64/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JwfGtLSG)
 - **HighLevel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/b6/e5/b3b6e507-0283-9a65-405e-cb8cb55398a0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bHNZSiYj)
 - **DKB**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/05/68/24056878-de66-8377-1bc8-c7f99c96d397/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NwCXWAEI)
@@ -175,8 +172,6 @@
 - **Surreal Machines Crack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/b9/3a/0cb93a17-c4f4-41b9-ed98-b8353271bb52/CrackiOSAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PtyQuUyR)
 
 - **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/af/69/a0af69ef-016b-f831-6372-90edce697205/AppIcon-all-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
-
-- **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/e5/2d/e7e52d1a-1c34-a0eb-29c6-28571a3cb450/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
 
 - **Unitree Go Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/6b/61/066b61d6-a795-7ffd-6f61-40c9c6f66450/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KraKgqam)
 - **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/0c/b6/aa0cb61c-3cda-3c90-fa5e-3d29a41e986f/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
