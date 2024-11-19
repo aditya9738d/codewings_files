@@ -108,8 +108,6 @@
 
 - **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a7/8b/12a78bc1-a255-bd31-2eb6-5d19e3a53f0e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 
-- **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
-
 - **Vipps MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/28/9c/39289c74-03a4-93f2-bc7a-fcfee12dade9/AppIconMT-Vipps-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTAYrwea)
 - **ZERO BGMI PRO 3.4.0 - v3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/ec/99/18ec992f-bcd7-c93c-fac7-cf468ecdee2c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/Jg18mkNd)
 
@@ -176,8 +174,6 @@
 - **VOGA LIVE - Global Video Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/70/ea/6270ea6f-4a68-ce73-9666-f2f1268cc9e9/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XQ21gmCB)
 
 - **Norton 360 Security & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/5e/a5/b65ea556-4b95-6e3d-7def-6da57324bff3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
-
-- **Surreal Machines Crack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/b9/3a/0cb93a17-c4f4-41b9-ed98-b8353271bb52/CrackiOSAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PtyQuUyR)
 
 - **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/af/69/a0af69ef-016b-f831-6372-90edce697205/AppIcon-all-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
 
@@ -5354,7 +5350,6 @@
 - **Schedule, Bullet - Journal it!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/06/d4/e806d420-5f6e-26c0-6001-9a72174de4a6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XcUgmlHZ)
 - **Notify - Anywhere**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/d5/a3/05d5a31b-0053-9276-adb3-91e159db9250/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/k1g9qii1)
 - **代表PUSH**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/f6/9c/c7f69c50-9293-d1d7-e57b-4f9815ed6c6a/AppIcon-0-0-1x_U007ephone-0-10-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p0uv1bUC)
-- **GCash Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/d9/ef/bdd9efdc-1a81-aff1-11d4-55820833c3e1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPda0z4L)
 - **enhanceAl**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/d5/fe/8ed5fea8-a859-eda5-0599-c73007420bf1/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P7nvmE22)
 - **iClass**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/88/b3/5588b3f5-61d2-24bf-162f-37511126c806/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/22r9jGvD)
 - **BankDhofar Entertainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/b1/17/c9b1175c-9ff3-412d-3f92-c22cdd1a734b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dbFpsVYH)
