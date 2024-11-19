@@ -1,9 +1,6 @@
 - **Swiggy: Food Instamart Dineout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/c8/8e/8ec88e6f-8386-8b09-aba8-f882c7f1012b/AppIcon_testflight-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IERuiSEL)
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/22/47/da224733-c5a7-86d0-273c-6725a0a714e1/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
 
-- **Swiggy: Food Instamart Dineout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/c8/8e/8ec88e6f-8386-8b09-aba8-f882c7f1012b/AppIcon_testflight-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IERuiSEL)
-- **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/8f/29/bd8f2966-447d-e2bd-b07c-a73b046a2111/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
-
 - **Amazon Location Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/b5/e1/41b5e137-469f-6858-aeeb-932e7d41281a/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zh52FrVh)
 
 - **WavePod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/cc/ed/bdcced0e-e4f0-b9f1-f5a7-beb4dbd41dac/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NewA5LKh)
