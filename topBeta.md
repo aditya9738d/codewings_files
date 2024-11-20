@@ -44,7 +44,6 @@
 
 - **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/1e/bc1b1e5d-7eb3-60e7-b8ba-4b7ac56a75f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
 - **Texts.com: Unified Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/6c/53/596c5389-1f19-0eb2-eaf7-9b428cd5c7ab/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j15QDhZq)
-- **VFeed - для ВК (VK)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/69/7b/31697b11-cb4a-a063-bfe8-df6542793fba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZdC5U0fR)
 
 - **HashSeven**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/32/12/d53212ab-a9d7-3167-c5b8-2d9f26d4f857/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yZg3crZM)
 - **Dark Noise: Ambient Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/40/66/4a4066e1-b5d5-d1d1-cdc1-91168bed9981/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kpKtyijY)
