@@ -10,7 +10,6 @@
 - **Keka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/e0/49/b8e049c6-bb4b-462f-09dc-8f7fdbaa564d/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPYINGCJ)
 - **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e4/83/d4e48306-30e2-431a-b096-cb1838c23361/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
 
-- **WEB.DE - Mail, Cloud & News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/6a/aa/386aaaa4-8215-959d-3443-9bcbe541e1b0/WEBDE_MAIL_AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Do48rouk)
 - **Ulysses: Writing App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/21/a7/f921a749-9430-825e-bd5e-0dff32147495/Ulysses-Release-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A0Dru9VV)
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
 
@@ -19,8 +18,6 @@
 - **PocketFi Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/e7/d7/96e7d7a3-ea5b-7750-b6b1-60f92b4fc344/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JSuHKW67)
 
 - **BandLab – Music Making Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/ae/85/36ae85d5-9aab-082c-29f9-5e89078dd014/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BwbEj9Xx)
-- **Vivaldi Snapshot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/9c/df/359cdfda-6425-7799-7562-4df2daaace60/AppIcon-Snapshot-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
-- **Unarchiver - ZIP, RAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/6e/d3/256ed354-b70a-1c28-efc9-eb9cf64d2ce7/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
 
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/f6/d0/b6f6d086-6f25-8941-6bee-b0f0f77490bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 - **Ninja School**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/8a/1b/9c8a1b66-22a7-391b-c3b4-fbbdbe67b1b1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O1jTSJWE)
