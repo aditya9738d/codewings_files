@@ -1,3 +1,7 @@
+- **BitMEX: Trade Bitcoin & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/66/4a/4c664aa6-86dc-036c-9130-d95402865c48/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5veBoJm)
+- **Nymph: Inclusive Dating & Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/01/8b/e4018bcc-7fb3-3f34-f227-b46b6fe690b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nz9GPQoL)
+- **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/36/78/5c3678b9-474a-cbbf-cb68-cee17bb75e9d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
+
 - **BitMEX: Trade Bitcoin & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/01/af/0501af41-6279-a6ba-38bb-9f4f6330a177/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5veBoJm)
 - **Nymph: Inclusive Dating & Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/01/8b/e4018bcc-7fb3-3f34-f227-b46b6fe690b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nz9GPQoL)
 - **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/36/78/5c3678b9-474a-cbbf-cb68-cee17bb75e9d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
