@@ -28,9 +28,6 @@
 - **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/0e/bb/0a0ebbdc-4712-5adb-dace-ff002491b27a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
 - **Potato Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/25/b1/5f25b13e-aca3-d951-3f00-fc49035c2528/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P2Jlp35o)
 
-- **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/cf/16/3fcf16bf-bed6-90dc-73cc-674c5ffa6e95/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
-- **Ever Play - HiFi Music Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/0a/b8/500ab83b-0cd6-8cb2-9d80-cf4e740919a3/AppIcon5-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MzvaziMT)
-
 - **Norton 360 Security & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/56/e3/8e56e35f-6650-0dfb-482a-ec24cb92af0c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
 - **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/69/cb3a699a-9860-99f9-7b3e-5fc50410896a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
 - **Kiprun Pacer Courir Running**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/18/78/87187826-6474-a6cd-b636-ff97a05e6afa/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R1Za1EtM)
@@ -111,7 +108,6 @@
 
 - **WordPress – Website Builder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/b4/a9/7eb4a9bd-37b9-b1ab-0e0f-364530a02bb6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
 
-- **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/77/74/4a77745a-9b5f-9cfa-3434-94dc32501ce2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
 - **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/a5/db/f7a5db70-9acc-1efb-6355-e568895e4560/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
 
 - **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/2d/f3/ef2df3b8-b36d-8c04-50bb-f1d50b9e6cb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
