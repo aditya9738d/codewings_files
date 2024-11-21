@@ -2,6 +2,10 @@
 - **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/0e/bb/0a0ebbdc-4712-5adb-dace-ff002491b27a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
 - **Potato Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/25/b1/5f25b13e-aca3-d951-3f00-fc49035c2528/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P2Jlp35o)
 
+- **Microsoft Designer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/f1/bb/36f1bb95-633e-9842-574e-d19e16d691ac/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KsuaylTZ)
+- **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/0e/bb/0a0ebbdc-4712-5adb-dace-ff002491b27a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
+- **Potato Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/25/b1/5f25b13e-aca3-d951-3f00-fc49035c2528/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P2Jlp35o)
+
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/cf/16/3fcf16bf-bed6-90dc-73cc-674c5ffa6e95/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
 - **Ever Play - HiFi Music Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/0a/b8/500ab83b-0cd6-8cb2-9d80-cf4e740919a3/AppIcon5-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MzvaziMT)
 
