@@ -6,10 +6,6 @@
 - **Windows App Mobile Beta Two**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/32/dff93299-e7c7-4573-9775-4b2baeed3c95/AppIconBeta-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q4ha2nsh)
 - **Dancing Line Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/82/c4/5c82c4b8-f5e8-d686-0235-a9b8331bc52d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6WAJ4rTg)
 
-- **Ivory for Mastodon by Tapbots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/19/5b/53195bf0-6538-312d-575b-c24fbf34e55d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AOOy02ZU)
-- **Windows App Mobile Beta Two**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/32/dff93299-e7c7-4573-9775-4b2baeed3c95/AppIconBeta-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q4ha2nsh)
-- **Dancing Line Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/82/c4/5c82c4b8-f5e8-d686-0235-a9b8331bc52d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6WAJ4rTg)
-
 - **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/36/78/5c3678b9-474a-cbbf-cb68-cee17bb75e9d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
 - **Feditext**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/87/e4/5287e4e7-d20a-2d88-f759-5e0533ad2fc0/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3Ik3KBjj)
 
@@ -39,8 +35,6 @@
 - **Mail: Email, Cloud, Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/ae/41/2eae41b3-8897-52e5-c1a0-ddf90dd26cda/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G04Eq2nO)
 - **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/d7/2b/acd72bc9-d612-4eae-34a1-aa2bb31abf2c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
 
-- **Trello: organize anything!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/53/3a/1a533a90-0992-f475-97d0-9516bb97a746/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
-- **Tenet - A Block Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/60/57/bc6057ff-e9b4-932c-bac1-049db9a90b23/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O4EOjLt7)
 - **EV Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a2/00/75a200c9-8b1d-2901-5f84-206fa4f6a11a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8aDwjblU)
 
 - **Vivaldi Snapshot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/83/56/3b835613-00f8-be91-52b0-b29361e17048/AppIcon-Snapshot-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
