@@ -6,15 +6,10 @@
 - **BitMEX: Trade Bitcoin & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/66/4a/4c664aa6-86dc-036c-9130-d95402865c48/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5veBoJm)
 - **Nymph: Inclusive Dating & Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/01/8b/e4018bcc-7fb3-3f34-f227-b46b6fe690b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nz9GPQoL)
 
-- **iPlayTV AIO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/75/d7/3d75d7a3-4941-78a4-0e0b-34d453fce701/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/irMsXGg0)
-- **BitMEX: Trade Bitcoin & Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/66/4a/4c664aa6-86dc-036c-9130-d95402865c48/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K5veBoJm)
-- **Nymph: Inclusive Dating & Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/01/8b/e4018bcc-7fb3-3f34-f227-b46b6fe690b2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nz9GPQoL)
-
 - **MP CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/8b/de/4d8bde97-cf01-7b05-c285-8c66cc86b1c5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NqTN0JgK)
 - **Checker - Habit Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/10/06/7810061f-78eb-5d79-3ce1-6ccc578142aa/AppIcon-0-1x_U007ephone-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
 - **Matrix go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/e1/95/05e195d3-8496-93cf-d1a8-6996534a17d4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BX8EObic)
 
-- **Kiprun Pacer Courir Running**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/18/78/87187826-6474-a6cd-b636-ff97a05e6afa/AppIcon-prod-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R1Za1EtM)
 - **Mail: Email, Cloud, Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/ae/41/2eae41b3-8897-52e5-c1a0-ddf90dd26cda/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G04Eq2nO)
 - **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/d7/2b/acd72bc9-d612-4eae-34a1-aa2bb31abf2c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
 
@@ -97,8 +92,6 @@
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 
 - **SkyDemon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/00/8b/f3008b7d-aad1-015c-2871-7759816b6394/AppIcons-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hz1uLaJX)
-
-- **FUT Sniping Bot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/69/cb3a699a-9860-99f9-7b3e-5fc50410896a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t7766iRc)
 
 - **Camera Companion BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/d0/7f/08d07f19-dc09-887d-b576-741e428483b2/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z18Ngj0N)
 
@@ -185,8 +178,6 @@
 - **DiaBLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/01/8e/b0018efa-3ab4-ef62-8f6a-026703fc9b26/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H48doU3l)
 
 - **VOGA LIVE - Global Video Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/70/ea/6270ea6f-4a68-ce73-9666-f2f1268cc9e9/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XQ21gmCB)
-
-- **Norton 360 Security & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/5e/a5/b65ea556-4b95-6e3d-7def-6da57324bff3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
 
 - **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/af/69/a0af69ef-016b-f831-6372-90edce697205/AppIcon-all-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
 
