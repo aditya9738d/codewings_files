@@ -47,9 +47,6 @@
 
 - **Nebula.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/50/46/6d50469f-a852-3e5a-1385-b7004cf68d0e/LightModeAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p2hAgouU)
 
-- **Ivory for Mastodon by Tapbots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/19/5b/53195bf0-6538-312d-575b-c24fbf34e55d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AOOy02ZU)
-- **Windows App Mobile Beta Two**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/32/dff93299-e7c7-4573-9775-4b2baeed3c95/AppIconBeta-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q4ha2nsh)
-
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/22/47/da224733-c5a7-86d0-273c-6725a0a714e1/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
 - **WavePod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/cc/ed/bdcced0e-e4f0-b9f1-f5a7-beb4dbd41dac/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NewA5LKh)
 - **BandLab – Music Making Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/ae/85/36ae85d5-9aab-082c-29f9-5e89078dd014/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BwbEj9Xx)
@@ -1991,7 +1988,6 @@
 - **Easee Installer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ce/ca/f4ceca6a-1f6f-40b4-d9ec-52c77eac30d5/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8vFggOIU)
 - **Axos Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/ff/04/6dff04c2-97c4-11a1-363f-b26375154950/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NV4zvK7U)
 - **1Password: Password Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/6c/d1/a06cd1ea-3b8b-45e8-1018-fece22a1c115/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fzDLkIVK)
-- **Eyva**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/93/4b/4f934bdc-6dde-7ed2-55b9-4b872c7af31f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n8M2itWd)
 - **VCamMocap**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/69/e5/2869e536-2634-b82a-4a8d-bbef794c736c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hv10Id8U)
 - **Tropic Match**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/4a/23/a24a23de-bbdf-a30a-c4df-5539501a389e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hye8o3Au)
 - **Arkheim - Realms at War**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/33/87/e93387b8-054f-1aff-ef50-3c11d7bdf8a7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/f6Rm1ucv)
