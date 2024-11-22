@@ -5,10 +5,6 @@
 - **Ever Play - HiFi Music Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/0a/b8/500ab83b-0cd6-8cb2-9d80-cf4e740919a3/AppIcon5-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MzvaziMT)
 - **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/77/74/4a77745a-9b5f-9cfa-3434-94dc32501ce2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
 
-- **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/cf/16/3fcf16bf-bed6-90dc-73cc-674c5ffa6e95/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
-- **Ever Play - HiFi Music Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/0a/b8/500ab83b-0cd6-8cb2-9d80-cf4e740919a3/AppIcon5-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MzvaziMT)
-- **TinyHoopers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/77/74/4a77745a-9b5f-9cfa-3434-94dc32501ce2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kAGUUAN7)
-
 - **Big Mail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/4e/09/a74e0988-a16f-78fe-090b-d7ce9e1a9b65/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wboU3bTt)
 - **Camera Companion BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/d0/7f/08d07f19-dc09-887d-b576-741e428483b2/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z18Ngj0N)
 - **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
@@ -27,7 +23,6 @@
 
 - **In Next Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/a8/88/f1a88886-858a-716b-c314-ace5598da9ab/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/D50l7OXY)
 
-- **Feditext**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/87/e4/5287e4e7-d20a-2d88-f759-5e0533ad2fc0/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3Ik3KBjj)
 - **Lissi ID-Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/a8/1d/4da81d23-5aeb-f6f1-0b72-bb0dd3050822/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9AWbZISv)
 
 - **HashSeven**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/32/12/d53212ab-a9d7-3167-c5b8-2d9f26d4f857/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yZg3crZM)
@@ -40,8 +35,6 @@
 
 - **Ivory for Mastodon by Tapbots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/19/5b/53195bf0-6538-312d-575b-c24fbf34e55d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AOOy02ZU)
 - **Windows App Mobile Beta Two**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/32/dff93299-e7c7-4573-9775-4b2baeed3c95/AppIconBeta-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q4ha2nsh)
-
-- **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/36/78/5c3678b9-474a-cbbf-cb68-cee17bb75e9d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
 
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/22/47/da224733-c5a7-86d0-273c-6725a0a714e1/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
 - **WavePod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/cc/ed/bdcced0e-e4f0-b9f1-f5a7-beb4dbd41dac/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NewA5LKh)
