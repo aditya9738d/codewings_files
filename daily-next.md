@@ -61,9 +61,6 @@
 - **Keka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/e0/49/b8e049c6-bb4b-462f-09dc-8f7fdbaa564d/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPYINGCJ)
 - **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e4/83/d4e48306-30e2-431a-b096-cb1838c23361/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
 
-- **Ulysses: Writing App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/21/a7/f921a749-9430-825e-bd5e-0dff32147495/Ulysses-Release-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A0Dru9VV)
-- **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
-
 - **VFeed - для ВК (VK)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/69/7b/31697b11-cb4a-a063-bfe8-df6542793fba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ZdC5U0fR)
 
 - **PocketFi Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/e7/d7/96e7d7a3-ea5b-7750-b6b1-60f92b4fc344/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JSuHKW67)
@@ -128,8 +125,6 @@
 - **Wink - Video AI Enhancement**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/ab/59/94ab593c-a1f9-cd5e-cbe4-a76fb378bf1f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
 
 - **蓝月亮SFA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/2c/67/e02c6728-a4f8-4180-5395-6ca195546e22/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xAIHzkfB)
-
-- **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ab/b8/e2abb883-d396-2460-6701-14a3a8b072fd/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
 
 - **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a7/8b/12a78bc1-a255-bd31-2eb6-5d19e3a53f0e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 
