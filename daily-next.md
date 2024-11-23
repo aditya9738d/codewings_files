@@ -1,3 +1,7 @@
+- **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/38/f7/b238f746-8f56-bfa8-e24b-86b54bc0af47/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
+- **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/2d/f3/ef2df3b8-b36d-8c04-50bb-f1d50b9e6cb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
+- **DNB Mobile Bank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/65/fc/6765fc4d-4b5a-17b3-b959-67b374684cb4/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JofD99Fe)
+
 - **Ivory for Mastodon by Tapbots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/19/5b/53195bf0-6538-312d-575b-c24fbf34e55d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AOOy02ZU)
 - **Windows App Mobile Beta Two**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/32/dff93299-e7c7-4573-9775-4b2baeed3c95/AppIconBeta-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q4ha2nsh)
 
@@ -193,7 +197,3 @@
 - **Unitree Go Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/6b/61/066b61d6-a795-7ffd-6f61-40c9c6f66450/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KraKgqam)
 - **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/0c/b6/aa0cb61c-3cda-3c90-fa5e-3d29a41e986f/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
 - **Baseline - How to get fit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/d7/ad/81d7ad3a-e015-c8eb-1df3-6541bb93f951/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3XpiHAwS)
-
-- **BeReal: Photos & Friends Daily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/99/28/5299280e-4635-282c-aa03-aeaaee9c4bc7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IM4jE5XY)
-
-- **Miss Planet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/f5/9b/17f59bc4-160a-f336-94ca-211fc2518ccb/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t56NPmee)
