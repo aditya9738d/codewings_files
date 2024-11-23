@@ -56,8 +56,6 @@
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
 - **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ab/b8/e2abb883-d396-2460-6701-14a3a8b072fd/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
 
-- **Lissi ID-Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/a8/1d/4da81d23-5aeb-f6f1-0b72-bb0dd3050822/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9AWbZISv)
-
 - **HashSeven**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/32/12/d53212ab-a9d7-3167-c5b8-2d9f26d4f857/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yZg3crZM)
 - **Dark Noise: Ambient Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/40/66/4a4066e1-b5d5-d1d1-cdc1-91168bed9981/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kpKtyijY)
 
@@ -124,8 +122,6 @@
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
-
-- **WordPress – Website Builder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/b4/a9/7eb4a9bd-37b9-b1ab-0e0f-364530a02bb6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
 
 - **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a8/b5/0ca8b5ae-3028-e0d2-c5fe-daea02b3076f/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
 
