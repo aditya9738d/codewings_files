@@ -54,7 +54,6 @@
 
 - **Nebula.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/50/46/6d50469f-a852-3e5a-1385-b7004cf68d0e/LightModeAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p2hAgouU)
 
-- **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/22/47/da224733-c5a7-86d0-273c-6725a0a714e1/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
 - **WavePod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/cc/ed/bdcced0e-e4f0-b9f1-f5a7-beb4dbd41dac/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NewA5LKh)
 - **BandLab – Music Making Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/ae/85/36ae85d5-9aab-082c-29f9-5e89078dd014/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BwbEj9Xx)
 
@@ -97,8 +96,6 @@
 - **Surreal Machines Crack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/b9/3a/0cb93a17-c4f4-41b9-ed98-b8353271bb52/CrackiOSAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PtyQuUyR)
 
 - **GCash Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/65/39/e065390f-c30c-5bd6-c8a9-d01b403337dc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPda0z4L)
-
-- **Swiggy: Food Instamart Dineout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/c8/8e/8ec88e6f-8386-8b09-aba8-f882c7f1012b/AppIcon_testflight-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IERuiSEL)
 
 - **Amazon Location Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/b5/e1/41b5e137-469f-6858-aeeb-932e7d41281a/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zh52FrVh)
 
