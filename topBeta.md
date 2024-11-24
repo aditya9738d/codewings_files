@@ -1,8 +1,6 @@
 - **Mate - Soul Making Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/19/22/9f19229c-4922-6cd1-6aff-37738dc08d12/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V2L1PH8N)
 - **KMON: Genesis**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/bd/aa/62bdaa87-d7cc-0472-40d6-5e085f07aa55/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CkBY8AAq)
 
-- **Mate - Soul Making Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/19/22/9f19229c-4922-6cd1-6aff-37738dc08d12/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V2L1PH8N)
-
 - **iToolsGoV2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/29/75/f8297542-faef-3502-f975-6bccb6d0016e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gBfoWaqS)
 - **Geo Tracker - GPS Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/67/73/95677300-13f9-0581-9b46-20ff48d6f9d7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpxJYSTu)
 
@@ -4228,7 +4226,6 @@
 - **champion Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/6a/4e/da6a4e07-de6e-2de0-9cf6-c1dd408f6693/AppIcon-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ObKaA1Uz)
 - **火鹤CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/0d/cf/b30dcfa7-f46e-4497-00b7-9ad852a8b22d/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/IfPt0yPx)
 - **Mlem for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/ed/0e/35ed0e10-2951-8a5a-cad8-011ab49487de/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MelFP11Y)
-- **KMON: Genesis**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/1e/f5/c81ef555-f5d1-aa51-5de7-3a1e3f03c7f3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CkBY8AAq)
 - **中南掌医**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/0b/2c/370b2c44-8d8d-902f-72f1-d5a6fd9ece0e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KCbzToeN)
 - **Relax_AN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/f2/45/44f2455c-5ef8-ab04-9ffc-3e052c0f92bb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/F9iQi6PG)
 - **Wyrr**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/22/a6/1422a659-a209-436a-a253-50eab866e7e4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2TyQkLz8)
