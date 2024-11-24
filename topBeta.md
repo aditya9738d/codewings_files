@@ -340,7 +340,6 @@
 
 - **FBReader: ePub and fb2 reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/68/4e/24684ecd-4357-0629-02c8-f80c964ea37b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RPqgSJrT)
 
-- **Mate - Soul Making Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/99/d2/9d99d259-8ff4-3113-100b-f25ad762361e/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V2L1PH8N)
 - **Courier Rider VN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/a5/d8/bca5d818-cb39-1b9b-1ea6-76e3decb6467/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/saF5qiaj)
 
 - **Enclave Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/58/7b/68587b4f-499f-abc9-f6e9-9c71dc649d4a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gzmuSjRp)
@@ -3946,7 +3945,6 @@
 - **oneSafe 6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/27/3c/d2273c6c-afcf-503e-4c2a-c0f0dc8c8733/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uvdLNeE0)
 - **TC Order**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/a4/4c/dda44cf7-c66a-6d6d-172f-f16b7d483358/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BWG7NN4O)
 - **Tadhamon Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/b4/fa/f0b4facd-a78d-7e33-eba1-a14576ea62a6/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/teSJtU3V)
-- **iToolsGoV2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/6f/aa/7d6faa79-7450-57d0-e269-5bc24c9045a7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/gBfoWaqS)
 - **GetFitMining**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/fb/e4/52fbe46f-9815-717d-eac0-abab8a3eddfc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o76OlpiH)
 - **MyAlerts App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/f9/b2/b0f9b270-99e2-8dd3-b0cc-aaad7f56418a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JiSE19LD)
 - **shanglifetest**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b6/2a/f8b62a10-b744-adb3-8f5f-05dd5acb55b4/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9c3C2Nz6)
