@@ -1,5 +1,7 @@
 - **Mate - Soul Making Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/19/22/9f19229c-4922-6cd1-6aff-37738dc08d12/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V2L1PH8N)
 
+- **Mate - Soul Making Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/19/22/9f19229c-4922-6cd1-6aff-37738dc08d12/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V2L1PH8N)
+
 - **iToolsGoV2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/29/75/f8297542-faef-3502-f975-6bccb6d0016e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gBfoWaqS)
 - **Geo Tracker - GPS Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/67/73/95677300-13f9-0581-9b46-20ff48d6f9d7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpxJYSTu)
 
@@ -195,5 +197,3 @@
 - **DiaBLE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/01/8e/b0018efa-3ab4-ef62-8f6a-026703fc9b26/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H48doU3l)
 
 - **VOGA LIVE - Global Video Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/70/ea/6270ea6f-4a68-ce73-9666-f2f1268cc9e9/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XQ21gmCB)
-
-- **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/af/69/a0af69ef-016b-f831-6372-90edce697205/AppIcon-all-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
