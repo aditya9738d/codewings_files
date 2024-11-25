@@ -2,15 +2,11 @@
 - **Mate - Soul Making Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/19/22/9f19229c-4922-6cd1-6aff-37738dc08d12/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V2L1PH8N)
 - **Gymner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/70/89/f07089d8-933e-285d-d29c-49c6441c3808/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P1paQatW)
 
-- **Mate - Soul Making Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/19/22/9f19229c-4922-6cd1-6aff-37738dc08d12/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V2L1PH8N)
-- **Gymner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/70/89/f07089d8-933e-285d-d29c-49c6441c3808/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P1paQatW)
-
 - **Aria for iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/6d/98/3b6d9826-8bbe-ab08-d6e2-625e071edf82/Icon-External-0-0-1x_U007emarketing-0-3-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G9sm51a8)
 
 - **KMON: Genesis**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/bd/aa/62bdaa87-d7cc-0472-40d6-5e085f07aa55/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CkBY8AAq)
 
 - **iToolsGoV2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/29/75/f8297542-faef-3502-f975-6bccb6d0016e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gBfoWaqS)
-- **Geo Tracker - GPS Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/67/73/95677300-13f9-0581-9b46-20ff48d6f9d7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpxJYSTu)
 
 - **Checker - Habit Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/10/06/7810061f-78eb-5d79-3ce1-6ccc578142aa/AppIcon-0-1x_U007ephone-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XEd3suVY)
 - **Matrix go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/e1/95/05e195d3-8496-93cf-d1a8-6996534a17d4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BX8EObic)
