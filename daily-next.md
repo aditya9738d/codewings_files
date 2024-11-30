@@ -1,8 +1,6 @@
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c3/b4/3ac3b497-a850-2de7-82aa-5d8862a8d7e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cwYgv7PH)
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c3/b4/3ac3b497-a850-2de7-82aa-5d8862a8d7e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MDMvebfF)
 
-- **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c3/b4/3ac3b497-a850-2de7-82aa-5d8862a8d7e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cwYgv7PH)
-
 - **Geo Tracker - GPS Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/67/73/95677300-13f9-0581-9b46-20ff48d6f9d7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpxJYSTu)
 - **Mate - Soul Making Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c6/71/c1c6714e-fe2a-9b05-75b0-89bcc4248cc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V2L1PH8N)
 - **Gymner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/70/89/f07089d8-933e-285d-d29c-49c6441c3808/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P1paQatW)
@@ -135,8 +133,6 @@
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 - **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c0/5a/6bc05ac6-d2da-9527-805e-dfe993c50833/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
 - **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/23/db/5e23dbde-af51-5f5b-6289-e8f20e9a3871/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
-
-- **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
 
