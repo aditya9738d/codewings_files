@@ -42,12 +42,10 @@
 - **WavePod**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/cc/ed/bdcced0e-e4f0-b9f1-f5a7-beb4dbd41dac/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NewA5LKh)
 - **BandLab – Music Making Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/ae/85/36ae85d5-9aab-082c-29f9-5e89078dd014/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BwbEj9Xx)
 
-- **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b7/57/05b75761-b15c-90a7-9c2b-6104027dac37/AppIcon-primary-primary-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
 - **Keka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/e0/49/b8e049c6-bb4b-462f-09dc-8f7fdbaa564d/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPYINGCJ)
 - **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e4/83/d4e48306-30e2-431a-b096-cb1838c23361/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
 
 - **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/a2/07/19a207f6-4e8a-ea86-c15b-4dcc1dd48df3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
-- **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/85/67/a38567a0-f6b7-0ff9-26ad-efe33c0f572b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
 
 - **VPBank Jarvis SalesApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/88/44/d5884430-e3fe-45e7-f711-14ab571285c6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nlZsButl)
 
@@ -4465,7 +4463,6 @@
 - **Kumpool UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/a1/c2/dda1c2b2-1eb6-a390-706d-9807841b093d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/f8wlubI0)
 - **SWISS Stage**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/6f/8a/7b6f8ae7-c0b5-f797-4c44-7e4bbdf8349d/AppIcon_LX_Stage-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R7VsY6vc)
 - **Sandbox ATE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/e5/f4/53e5f412-e070-4134-b359-44390c11caf4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/29pTssaZ)
-- **老虎国际**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/0f/85/8b0f85cd-5e48-98ee-cc1c-f6f886d38c72/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/27Pw9M0d)
 - **MarCo : Ma récolte optimisée**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/b0/5b/23b05b74-f7ec-3881-8dce-d796f170ef43/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SX9RMrIs)
 - **Moe Memos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/0d/e1/ba0de1b1-6f93-943d-98d6-ae6057783bd4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YVHheZ50)
 - **Bitx724**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/2e/16/5f2e16d5-bb3c-19a8-dd45-331c28170d4a/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/El3vrXeM)
@@ -4498,7 +4495,6 @@
 - **MocPOGO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/a2/1e/29a21ec5-f300-bb09-73eb-6f74ff365194/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0HdQYsQF)
 - **Ohere Wallet - Pay & Get Paid**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/af/ab/faafab9a-d620-6c03-0793-67ac649202d9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jsf7ZPVr)
 - **odinMusicPlayer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/7c/86/0a7c86d6-64fa-a2b9-75b2-eaaf5afe72c3/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/S43IfU6b)
-- **YakiHonne**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/c2/e4/2ec2e431-947c-f485-f26e-6005e3db772d/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tcXozZIu)
 - **[S]VitaDairy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/9f/21/9d9f2108-2a28-1b08-e7a3-ae31fcae7b2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/96Fj74GD)
 - **中邮证券**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/eb/2a/16eb2a8e-77d7-2d63-88df-3d4a58b0e5a6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6UVjiS1l)
 - **eTicket Famille**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/2f/b7/c32fb7c2-dc26-46c5-742c-2a41d8fee2e8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1ZDAyKFI)
@@ -5716,7 +5712,6 @@
 - **Supernova AI English Practice**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/2f/fd/0c2ffd15-023a-635d-74b9-3d5c3198943d/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t3WTd9eN)
 - **PowerAlarm**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/a9/3b/43a93ba7-bf6c-24a2-5a61-4a503db1bdfa/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/G3MPcq6r)
 - **TruMonitor - TruVent**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/7e/44/3a7e4401-7b8d-292e-1035-8e873657343c/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8RIXkqVl)
-- **HiFutureSelf - Future Messages**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/8c/d0/018cd010-ba6c-97cd-1a8f-1fbd728945c8/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zRKU0Od8)
 - **Libero Mail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/57/51/a0575166-9eea-23a8-ed22-e3cd2b402c4a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YEQsHyni)
 - **Nro Iron**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/cf/4d/d8cf4d53-879e-e6f1-39b2-2ce786db53d9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P2G81dBd)
 - **麦德龙-买菜生鲜购物高品质生活服务**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/f9/c2/f2f9c2ae-9954-f2e6-8022-f868d6285cb1/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hzC1b4NZ)
