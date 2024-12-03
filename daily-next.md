@@ -1,6 +1,3 @@
-- **QQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/6e/2b/176e2bb6-cec0-021c-a94b-ad12a5d2dae0/AppIcon-1-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5PhziWQM)
-- **CCS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/5b/b2/5b5bb2e7-31d3-5aab-49cb-81d046b0268b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/IAFHUVdV)
-- **Leplace World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/99/85/059985e4-234d-07f5-3fb4-e11232e8fe1d/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/WXZlJtL0)
 - **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c3/b4/3ac3b497-a850-2de7-82aa-5d8862a8d7e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MDMvebfF)
