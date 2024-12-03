@@ -2,7 +2,6 @@
 
 - **葫芦娃-经典再现**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/2f/fc/5b2ffc3c-0d07-12a4-d3bd-26770da811d0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mE4SHGvn)
 - **PDF Viewer - Annotation Expert**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/4e/85/c14e8563-2161-8282-ba2c-51d0ff96dc22/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6IMUtZ8n)
-- **Monster League Fantasy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/60/c6/c760c664-9120-e949-01ae-79a29fad8ab8/AppIcon-1x_U007ephone-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7pBNJgK3)
 
 - **Rồng Thần Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/ab/0d/b8ab0d5a-618c-c612-0385-5a2ccee71f44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/k8584n03)
 - **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a8/b5/0ca8b5ae-3028-e0d2-c5fe-daea02b3076f/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
