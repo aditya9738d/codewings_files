@@ -1,7 +1,5 @@
 - **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 
-- **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
-
 - **EA SPORTS FC™ MOBILE BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c3/b4/3ac3b497-a850-2de7-82aa-5d8862a8d7e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MDMvebfF)
 
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c3/b4/3ac3b497-a850-2de7-82aa-5d8862a8d7e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MDMvebfF)
