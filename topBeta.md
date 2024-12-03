@@ -192,8 +192,6 @@
 
 - **Palremit: Send – Swap – Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/86/64/3a866455-e06a-76c4-14ef-9518a37a3240/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hFE2C3bZ)
 
-- **Monster League Fantasy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/fe/ea/78feea9d-c929-df6f-14ab-2489fdb6bdc1/AppIcon-1x_U007ephone-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7pBNJgK3)
-
 - **UISP Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/51/ef/8451ef99-13c1-7964-4f44-52f8d6bb381f/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QYRa7Qak)
 
 - **Hornet - Queer Social Network**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/e1/34/3ce13464-0d01-d812-47c2-32c3f0b2e472/AppIcon_-_Hornet_-_Beta-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SIVYoFq8)
@@ -2043,7 +2041,6 @@
 - **Janus TZ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/5e/7d/835e7d97-d186-24f4-cf84-23fc8c17b003/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YEVj8g6b)
 - **YMCA Strong90**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/ad/1e/afad1e6f-af7c-24cf-f5ae-52151a593480/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LO3rZ9m4)
 - **Rease**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/ee/23/6bee2315-adf6-bf18-9709-945df26ebd2e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7W7K3pij)
-- **葫芦娃-经典再现**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/14/d3/b714d37a-2ca6-c6cf-1161-685c3d2bd280/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mE4SHGvn)
 - **GigmeHQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/af/eb/70afebc0-cf8e-5c72-a367-4f453e9d021e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jNd6Nw6A)
 - **Protokol - MIDI/OSC Monitor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/9a/a8/b69aa88d-6cb7-22cd-2f22-b29cf477f681/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/05TDzR4s)
 - **威锋-科技新闻&果粉互动交流社区**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/6d/76/546d76a7-8f7a-6008-c398-128427fccfdb/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pyNdRZX7)
@@ -5630,7 +5627,6 @@
 - **Paired**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/13/45/fc1345b5-2a42-e205-2303-85cf399f449a/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sA2pj2Be)
 - **Time’s Up! — Visual Timer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/2f/8f/ab2f8f5c-68d9-9b59-e941-e9dd15e1675a/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wLaAUd6G)
 - **GradeAFuel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/94/56/bc945616-2988-6042-26bb-eeffdca56b48/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vP2QxWBS)
-- **PDF Viewer - Annotation Expert**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/b1/7e/42b17e00-464f-b581-b5d0-8159f131a13b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6IMUtZ8n)
 - **Shortwave Email**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/cd/ef/adcdef79-cdf9-3029-338d-ad26330d6009/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LwqFyO6L)
 - **BESV Service App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/98/7b/80987b0a-7923-6120-aeff-3991a8dcf3a6/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/Ey0VASn3)
 - **Calendars 5 by Readdle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/0b/21/080b215e-b282-0ab0-a927-6e83a68e74aa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tC44BniC)
