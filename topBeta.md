@@ -424,7 +424,6 @@
 - **Hunky City - Love As You Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/69/cc/6b69ccd3-cd13-54fa-01c4-cd9c8e3fac36/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcKguWYA)
 
 - **Metal MJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/a6/41/b9a64121-057b-ce50-8d4f-f4102f716caf/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EFNvO4Dw)
-- **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 
 - **Polar (for Bear)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/cb/3f90cbce-9649-8e20-104d-59d3d8441c02/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YmZaEhAn)
 - **APK-TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/4f/50/4c4f5032-5146-f106-fae7-cec848861127/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Zm62zLyL)
