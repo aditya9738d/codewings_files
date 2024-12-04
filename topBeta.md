@@ -124,10 +124,6 @@
 
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/45/cb/5e45cb7c-7e3c-3f75-3dfd-992e7f80655e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
 
-- **Ulysses: Writing App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/21/a7/f921a749-9430-825e-bd5e-0dff32147495/Ulysses-Release-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A0Dru9VV)
-- **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
-- **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ab/b8/e2abb883-d396-2460-6701-14a3a8b072fd/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
-
 - **HashSeven**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/32/12/d53212ab-a9d7-3167-c5b8-2d9f26d4f857/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yZg3crZM)
 - **Dark Noise: Ambient Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/40/66/4a4066e1-b5d5-d1d1-cdc1-91168bed9981/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kpKtyijY)
 
@@ -176,8 +172,6 @@
 - **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
 
 - **Wink - Video AI Enhancement**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/ab/59/94ab593c-a1f9-cd5e-cbe4-a76fb378bf1f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
-
-- **蓝月亮SFA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/2c/67/e02c6728-a4f8-4180-5395-6ca195546e22/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xAIHzkfB)
 
 - **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a7/8b/12a78bc1-a255-bd31-2eb6-5d19e3a53f0e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 
@@ -5777,7 +5771,6 @@
 - **NHCN - Việt Nam**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/1b/e1/361be151-9bc8-b90d-5e92-650b3de4ac60/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mifbb646)
 - **Nam Đế: Chiến Lược**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/25/e8/d825e88c-e82e-97f6-ca33-b86abd14525a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mMYHHZwJ)
 - **Bous Echanj**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/d3/90/42d390dc-763b-254b-3bf7-370cee3b2c2a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YWLf2Wgm)
-- **Readwise Reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/18/8e/9a188e64-610a-966e-f058-0b97db4be043/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NSeQo22d)
 - **Saúde PASA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/17/76/d1177659-cda5-c924-eb17-e12fa3ff8ae8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hB1FsNjg)
 - **KMON: Pink Moon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/1c/5c/a31c5c26-a91a-75e8-6b0b-46aef4a05767/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TYhI1Vlj)
 - **クロスゼロ forビジネス 企業向け防災アプリ・安否確認**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/fa/08/16fa0885-157e-67ab-0c92-5db03291e9c9/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0sChxBxR)
