@@ -125,7 +125,6 @@
 - **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
 
 - **Dancing Line Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/6f/d4/d66fd4f5-7959-91bd-aedf-5ebf615a5c82/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6WAJ4rTg)
-- **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/fc/ee/9bfcee2c-5028-9947-7396-9dfc33a58d2b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/56/c7/b756c7ef-f772-b63f-0aaa-030f878f1845/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
 
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/45/cb/5e45cb7c-7e3c-3f75-3dfd-992e7f80655e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
@@ -1855,7 +1854,6 @@
 - **光汇宝**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/40/54/99405457-99e6-1aaf-9629-726ec97df12f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bJBS8zc6)
 - **AdvantageConnect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/a9/3c/fca93cda-2235-fc1f-b61c-01f05b78597b/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AOD8UoMw)
 - **Letsgo..**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/fc/5d/effc5d7a-639c-c079-3a5e-7100adde823b/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qWPSTlD5)
-- **CharMap — Unicode Characters**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/db/bb/55dbbb7c-0516-f63a-2958-789c84cc8c24/AppIcon-0-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jhiYnxfr)
 - **Local Brain**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/b3/eb/e8b3eb82-78df-f6f7-344a-6c66e5b64571/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BO48KqQ5)
 - **Simple Habits: Routine Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/dd/35/eddd35a4-5eef-b031-eeb5-0a9d114ca7d7/SimpleHabitsAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1mwpvbf4)
 - **OurSphere**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/24/b9/0624b966-0dd2-01e0-4541-0b0a061c4684/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aXh71uMm)
