@@ -120,7 +120,6 @@
 
 - **JB4 Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/40/2b/52402bed-9e3d-8e10-136d-5b8294e23e96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d2yNd4lK)
 
-- **Tenet - A Block Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/60/57/bc6057ff-e9b4-932c-bac1-049db9a90b23/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O4EOjLt7)
 - **SkyDemon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/00/8b/f3008b7d-aad1-015c-2871-7759816b6394/AppIcons-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hz1uLaJX)
 - **Treegaze Cove: Match & Craft**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/bd/bb/67bdbb90-6b03-8413-8aec-1832c1513de7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MgNOJNqb)
 
