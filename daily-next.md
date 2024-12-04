@@ -2,10 +2,6 @@
 - **Dancing Line Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b3/ca/dfb3ca96-3d46-0e0f-cc22-0b369dbc00c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6WAJ4rTg)
 - **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ac/56/41ac5628-f9d4-68e7-1a71-9f916a6457ea/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 
-- **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ac/56/41ac5628-f9d4-68e7-1a71-9f916a6457ea/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
-
-- **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ac/56/41ac5628-f9d4-68e7-1a71-9f916a6457ea/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
-
 - **McDonald's QA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/7e/d0/c57ed0a1-e7d1-0d19-cb88-63a58cf1332d/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ftRKu5mE)
 - **CharMap — Unicode Characters**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/7f/9b/fb7f9bb1-dbef-3839-6b17-bb7548b5410b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jhiYnxfr)
 - **荐音1.2.11**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/c4/00/cac4006f-4fec-bb66-19d7-f9b989819e7d/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tkWrbYX3)
@@ -131,7 +127,6 @@
 - **Big Mail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/4e/09/a74e0988-a16f-78fe-090b-d7ce9e1a9b65/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wboU3bTt)
 - **Mx Rei Do Grau V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P7ugbi0C)
 
-- **Dancing Line Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/6f/d4/d66fd4f5-7959-91bd-aedf-5ebf615a5c82/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6WAJ4rTg)
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/56/c7/b756c7ef-f772-b63f-0aaa-030f878f1845/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
 
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/45/cb/5e45cb7c-7e3c-3f75-3dfd-992e7f80655e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
