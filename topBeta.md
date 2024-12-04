@@ -1,6 +1,9 @@
 - **Dancing Line Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b3/ca/dfb3ca96-3d46-0e0f-cc22-0b369dbc00c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6WAJ4rTg)
 - **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ac/56/41ac5628-f9d4-68e7-1a71-9f916a6457ea/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 
+- **Dancing Line Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b3/ca/dfb3ca96-3d46-0e0f-cc22-0b369dbc00c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6WAJ4rTg)
+- **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ac/56/41ac5628-f9d4-68e7-1a71-9f916a6457ea/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
+
 - **EMOTIV Launcher**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/04/f6/8d04f648-404e-411e-a297-de11d0e754dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jSL0XTP9)
 
 - **McDonald's QA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/7e/d0/c57ed0a1-e7d1-0d19-cb88-63a58cf1332d/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ftRKu5mE)
