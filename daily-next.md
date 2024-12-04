@@ -1,3 +1,7 @@
+- **EMOTIV Launcher**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/04/f6/8d04f648-404e-411e-a297-de11d0e754dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jSL0XTP9)
+- **Dancing Line Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b3/ca/dfb3ca96-3d46-0e0f-cc22-0b369dbc00c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6WAJ4rTg)
+- **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ac/56/41ac5628-f9d4-68e7-1a71-9f916a6457ea/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
+
 - **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ac/56/41ac5628-f9d4-68e7-1a71-9f916a6457ea/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 
 - **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ac/56/41ac5628-f9d4-68e7-1a71-9f916a6457ea/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
@@ -193,7 +197,3 @@
 - **Hoarder App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/8d/f0/a68df06f-6fd5-63a8-e4a4-b12383c2f01c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QifpNxAT)
 
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e8/f7/94e8f727-e86c-2806-ccda-307f2af0011f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
-
-- **Renaissance Kingdoms**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/27/b4/3727b4b2-c0a4-3b85-dd50-7fba32ba054f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KkFL0EvO)
-
-- **Avatar Musik**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/13/32/8613321c-92a3-d760-39d2-2ab441ffb770/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O0KKLALY)
