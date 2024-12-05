@@ -1,3 +1,11 @@
+- **Car好錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/72/f1/fb72f1e4-7dd5-ea5b-9c30-467eae6634f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vjFXiaw0)
+- **Synology Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/8b/6c/428b6c84-ebfe-f7c4-5142-135c0a74827d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LrUOKBQp)
+- **VPBank Jarvis SalesApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/88/44/d5884430-e3fe-45e7-f711-14ab571285c6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nlZsButl)
+- **Neuecast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/bc/8c/77bc8c6e-1e85-984b-5d49-51ee5d04c84b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a4bmx5rA)
+- **VOGA LIVE - Global Video Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/70/ea/6270ea6f-4a68-ce73-9666-f2f1268cc9e9/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XQ21gmCB)
+- **YakiHonne**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/aa/b3/c6aab3fb-13ed-417f-963e-4f8943d9d870/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tcXozZIu)
+- **老虎国际**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/0f/5c/110f5cbc-753a-920c-e710-4a4c52bbbab9/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/27Pw9M0d)
+
 - **淘宝-太好逛了吧**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/a8/c7/eca8c7c8-6ae9-d659-9a5b-dc0a55cd6dc5/AppIcon-0-0-1x_U007emarketing-0-9-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5XzJYzS9)
 
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
@@ -190,7 +198,3 @@
 - **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
 
 - **Wink - Video AI Enhancement**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/ab/59/94ab593c-a1f9-cd5e-cbe4-a76fb378bf1f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
-
-- **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a7/8b/12a78bc1-a255-bd31-2eb6-5d19e3a53f0e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
-
-- **Vipps MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/28/9c/39289c74-03a4-93f2-bc7a-fcfee12dade9/AppIconMT-Vipps-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTAYrwea)
