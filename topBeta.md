@@ -1,3 +1,9 @@
+- **Dark Noise: Ambient Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/40/66/4a4066e1-b5d5-d1d1-cdc1-91168bed9981/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kpKtyijY)
+- **Clic for Sonos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/02/a4/ff02a429-4ac0-3a02-4d42-92d14ae85c22/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/heSmRY4t)
+- **Zello Walkie Talkie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/ad/87/51ad87ca-13d6-1c26-0575-463503410064/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Tux4moG)
+- **BeCasso: Photo to Painting**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/65/e5/d365e5d4-6340-7e3d-887c-38850cb61355/AppIcon_1-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MT0qZeto)
+- **Camera Companion BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/e8/38/b5e838f8-e918-3888-cc49-fc8f876af53f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z18Ngj0N)
+
 - **ZEUS Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/c2/fd/1cc2fd3f-b12d-f53f-fe8d-59e34926d18e/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vVnODWoi)
 
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/15/ad/ea15ad29-69d6-8b16-3e47-c7ff7d55490c/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
