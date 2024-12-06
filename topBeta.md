@@ -1,3 +1,5 @@
+- **ZEUS Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/c2/fd/1cc2fd3f-b12d-f53f-fe8d-59e34926d18e/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vVnODWoi)
+
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/15/ad/ea15ad29-69d6-8b16-3e47-c7ff7d55490c/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
 - **Vivaldi Snapshot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/9b/e5/009be5de-03ca-6598-5e63-926df053c44d/AppIcon-Snapshot-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
 - **Unarchiver - ZIP, RAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/6e/d3/256ed354-b70a-1c28-efc9-eb9cf64d2ce7/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
