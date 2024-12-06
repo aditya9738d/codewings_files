@@ -6,6 +6,14 @@
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
 - **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ab/b8/e2abb883-d396-2460-6701-14a3a8b072fd/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
 
+- **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/15/ad/ea15ad29-69d6-8b16-3e47-c7ff7d55490c/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
+- **Vivaldi Snapshot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/9b/e5/009be5de-03ca-6598-5e63-926df053c44d/AppIcon-Snapshot-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
+- **Unarchiver - ZIP, RAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/6e/d3/256ed354-b70a-1c28-efc9-eb9cf64d2ce7/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
+- **Readwise Reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/44/44/1b4444eb-2318-f9ca-c94d-b0529029540e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NSeQo22d)
+- **Ulysses: Writing App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/21/a7/f921a749-9430-825e-bd5e-0dff32147495/Ulysses-Release-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A0Dru9VV)
+- **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
+- **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ab/b8/e2abb883-d396-2460-6701-14a3a8b072fd/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
+
 - **BS Magic tricks**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7c/a4/307ca4bd-524b-dfaa-6f2e-e69aac78cc02/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lSfg23eV)
 
 - **EMOTIV Launcher**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/04/f6/8d04f648-404e-411e-a297-de11d0e754dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jSL0XTP9)
