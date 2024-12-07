@@ -15,8 +15,6 @@
 
 - **JB4 Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/40/2b/52402bed-9e3d-8e10-136d-5b8294e23e96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d2yNd4lK)
 
-- **Dark Noise: Ambient Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/40/66/4a4066e1-b5d5-d1d1-cdc1-91168bed9981/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kpKtyijY)
-
 - **Clic for Sonos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/02/a4/ff02a429-4ac0-3a02-4d42-92d14ae85c22/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/heSmRY4t)
 - **Zello Walkie Talkie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/ad/87/51ad87ca-13d6-1c26-0575-463503410064/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Tux4moG)
 
@@ -47,8 +45,6 @@
 
 - **Car好錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/72/f1/fb72f1e4-7dd5-ea5b-9c30-467eae6634f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vjFXiaw0)
 - **Synology Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/8b/6c/428b6c84-ebfe-f7c4-5142-135c0a74827d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LrUOKBQp)
-
-- **淘宝-太好逛了吧**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/a8/c7/eca8c7c8-6ae9-d659-9a5b-dc0a55cd6dc5/AppIcon-0-0-1x_U007emarketing-0-9-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5XzJYzS9)
 
 - **蓝月亮SFA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/1a/4e/ed1a4ee4-bd2b-e845-0e3d-9dc91a876778/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xAIHzkfB)
 
@@ -118,7 +114,6 @@
 - **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/a2/07/19a207f6-4e8a-ea86-c15b-4dcc1dd48df3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
 
 - **Lissi ID-Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/a8/1d/4da81d23-5aeb-f6f1-0b72-bb0dd3050822/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9AWbZISv)
-- **WordPress – Website Builder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/b4/a9/7eb4a9bd-37b9-b1ab-0e0f-364530a02bb6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
 
 - **Microsoft Designer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/b9/fa/48b9fa2b-94a9-990a-3752-ca6e3952850a/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KsuaylTZ)
 - **Potato Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/25/b1/5f25b13e-aca3-d951-3f00-fc49035c2528/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P2Jlp35o)
@@ -204,8 +199,6 @@
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/24/2f/10242f53-3c14-2629-cf04-a98f2f29b0d8/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
 
 - **Mochi: Content Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/f6/1c34f618-b347-ab72-743e-7236a949a4aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKqW3GQL)
-
-- **Wink - Video AI Enhancement**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/ab/59/94ab593c-a1f9-cd5e-cbe4-a76fb378bf1f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
 
 - **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a7/8b/12a78bc1-a255-bd31-2eb6-5d19e3a53f0e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 
