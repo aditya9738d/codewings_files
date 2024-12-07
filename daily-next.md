@@ -1,3 +1,10 @@
+- **BeCasso: Photo to Painting**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/65/e5/d365e5d4-6340-7e3d-887c-38850cb61355/AppIcon_1-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MT0qZeto)
+- **Camera Companion BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/e8/38/b5e838f8-e918-3888-cc49-fc8f876af53f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z18Ngj0N)
+- **ONLINE Ticket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/63/57/02635766-f70b-8237-9844-d7ce8093fd66/AppIcon-online-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YNwwlTvs)
+- **FUS Market Helper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/e5/47/e4e547c5-0de9-ec78-bb5b-6aeffc6be74d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YKTYCk8m)
+- **Trello: organize anything!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/bc/82/19bc82ab-1545-8cb5-c3bf-7f31cc58b8fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
+- **猫爷TRPG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/65/b8/5265b851-f443-3331-f81a-1b90eeff6bf4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hn7bVbdd)
+
 - **Zera: Your Insightful AI Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/32/d8/2a32d8b4-f77a-dcb8-8a3a-2f5f200ed412/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/HcxShnPY)
 
 - **JB4 Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/40/2b/52402bed-9e3d-8e10-136d-5b8294e23e96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d2yNd4lK)
@@ -190,6 +197,3 @@
 - **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/3d/63/253d6326-2196-84dd-ae67-509d35f4935f/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
 - **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/d8/0c/20d80c22-e5a0-8b29-c695-b6a17ca767ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
 - **Nostur - Nostr client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/74/55/96745535-69ae-43af-dff4-db672c313315/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TyrRNCXA)
-
-- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
-- **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c0/5a/6bc05ac6-d2da-9527-805e-dfe993c50833/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
