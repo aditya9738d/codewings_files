@@ -1,3 +1,5 @@
+- **Zera: Your Insightful AI Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/32/d8/2a32d8b4-f77a-dcb8-8a3a-2f5f200ed412/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/HcxShnPY)
+
 - **JB4 Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/40/2b/52402bed-9e3d-8e10-136d-5b8294e23e96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d2yNd4lK)
 
 - **Dark Noise: Ambient Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/40/66/4a4066e1-b5d5-d1d1-cdc1-91168bed9981/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kpKtyijY)
