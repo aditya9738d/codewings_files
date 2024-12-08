@@ -2,10 +2,6 @@
 - **淘宝-太好逛了吧**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/a8/c7/eca8c7c8-6ae9-d659-9a5b-dc0a55cd6dc5/AppIcon-0-0-1x_U007emarketing-0-9-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5XzJYzS9)
 - **Dark Noise: Ambient Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/40/66/4a4066e1-b5d5-d1d1-cdc1-91168bed9981/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kpKtyijY)
 
-- **Wink - Video AI Enhancement**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/c9/d4/b0c9d450-f39c-a2c6-8205-9d68289b65f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
-- **淘宝-太好逛了吧**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/a8/c7/eca8c7c8-6ae9-d659-9a5b-dc0a55cd6dc5/AppIcon-0-0-1x_U007emarketing-0-9-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5XzJYzS9)
-- **Dark Noise: Ambient Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/40/66/4a4066e1-b5d5-d1d1-cdc1-91168bed9981/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kpKtyijY)
-
 - **PDF Viewer - Annotation Expert**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/e8/a1/43e8a1e7-fea5-34b8-e7e9-693e71481284/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6IMUtZ8n)
 - **Monster League Fantasy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/60/c6/c760c664-9120-e949-01ae-79a29fad8ab8/AppIcon-1x_U007ephone-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7pBNJgK3)
 - **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/c1/7e/69c17ed2-3b02-1c2e-4fc0-8b5870a747be/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
