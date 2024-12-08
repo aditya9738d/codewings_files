@@ -189,7 +189,6 @@
 - **MP CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/8b/de/4d8bde97-cf01-7b05-c285-8c66cc86b1c5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NqTN0JgK)
 
 - **Mail: Email, Cloud, Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/ae/41/2eae41b3-8897-52e5-c1a0-ddf90dd26cda/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G04Eq2nO)
-- **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/d7/2b/acd72bc9-d612-4eae-34a1-aa2bb31abf2c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
 
 - **EV Navigation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a2/00/75a200c9-8b1d-2901-5f84-206fa4f6a11a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8aDwjblU)
 
@@ -4747,7 +4746,6 @@
 - **依米短视频**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/d4/34/3ed434b5-2b18-51d3-624f-e48ed79e063c/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8LDV312x)
 - **UAC - Universal Athletic Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/9b/a0/3e9ba013-074b-5708-0e5d-a5bd5d1d9576/app-icons-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b0m2V7Ba)
 - **Nurlan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/6b/8a/7a6b8a4e-9612-50d8-d46e-4877703622a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/CFil8HMY)
-- **Zenmoney: expense tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/81/da/8d81daca-4360-e40a-9078-5f08e3ca2ba8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UNbjeBue)
 - **BrickScan by BrickMonkey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/33/d7/3c33d70c-3218-9a54-b505-97c3d59cf1cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRLlrWSj)
 - **Camarts Photography**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/a8/e4/40a8e4b9-b8b5-886d-6429-12bcb5f93aeb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J4ymVf0z)
 - **Extension**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/32/b5/7732b520-7731-4e24-7323-e4f40e60b851/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XBS7oEOT)
