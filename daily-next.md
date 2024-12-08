@@ -2,10 +2,7 @@
 - **Car好錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/72/f1/fb72f1e4-7dd5-ea5b-9c30-467eae6634f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vjFXiaw0)
 - **Synology Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/8b/6c/428b6c84-ebfe-f7c4-5142-135c0a74827d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LrUOKBQp)
 
-- **ZEUS Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/c2/fd/1cc2fd3f-b12d-f53f-fe8d-59e34926d18e/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vVnODWoi)
 - **Tivatrainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/4d/bb/d64dbbf3-9225-f677-6565-ee7678c8bf08/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qkTTNyGj)
-- **Car好錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/72/f1/fb72f1e4-7dd5-ea5b-9c30-467eae6634f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vjFXiaw0)
-- **Synology Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/8b/6c/428b6c84-ebfe-f7c4-5142-135c0a74827d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LrUOKBQp)
 
 - **Wink - Video AI Enhancement**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/c9/d4/b0c9d450-f39c-a2c6-8205-9d68289b65f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZviH3WzG)
 - **淘宝-太好逛了吧**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/a8/c7/eca8c7c8-6ae9-d659-9a5b-dc0a55cd6dc5/AppIcon-0-0-1x_U007emarketing-0-9-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5XzJYzS9)
