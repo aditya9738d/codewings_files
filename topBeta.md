@@ -1,3 +1,9 @@
+- **Spezi Template Application**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/48/f5/b348f54b-7177-f187-52c2-9fffbb5ae3d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ipEezBY1)
+- **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c0/5a/6bc05ac6-d2da-9527-805e-dfe993c50833/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
+- **Ngọc Rồng Xưa 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/96/c1/3d96c1b2-0df1-8ee8-2c3c-6856d6b63fa7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAFXDvJq)
+- **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/3a/11/3a3a1136-317c-c3b8-a79a-ab3f096ad49c/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
+- **Axm Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/32/ac/8c32acd0-6191-823f-b8b3-c9c58fbb5e0b/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Bjz0XZ5v)
+
 - **ZEUS Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/c2/fd/1cc2fd3f-b12d-f53f-fe8d-59e34926d18e/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vVnODWoi)
 - **Car好錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/72/f1/fb72f1e4-7dd5-ea5b-9c30-467eae6634f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vjFXiaw0)
 - **Synology Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/8b/6c/428b6c84-ebfe-f7c4-5142-135c0a74827d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LrUOKBQp)
