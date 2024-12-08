@@ -6,7 +6,6 @@
 
 - **Benji - Life OS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/e9/8b/46e98b18-7f7f-27ad-228a-a767873ac5b0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7C0EsThx)
 
-- **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/f6/d0/b6f6d086-6f25-8941-6bee-b0f0f77490bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
 - **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/58/ee/8f58ee2f-42de-d11e-694a-b233a89e8568/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
 - **Feditext**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/b4/25/7eb425ba-d954-1061-4aad-b5898e2604c7/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3Ik3KBjj)
 - **QQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/c9/80/dac98006-20f6-a77c-a568-69342d34374a/AppIcon-1-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5PhziWQM)
@@ -209,8 +208,6 @@
 - **GCash Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/65/39/e065390f-c30c-5bd6-c8a9-d01b403337dc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPda0z4L)
 
 - **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/1e/bc1b1e5d-7eb3-60e7-b8ba-4b7ac56a75f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
-
-- **Airmail - Your Mail With You**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/aa/16/16aa1648-88f7-a4e0-86f2-36ee40b7b987/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wRiLlWPE)
 
 - **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/3d/63/253d6326-2196-84dd-ae67-509d35f4935f/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
 - **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/d8/0c/20d80c22-e5a0-8b29-c695-b6a17ca767ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
