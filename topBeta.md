@@ -1,3 +1,6 @@
+- **Zenmoney: expense tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/fe/29/b3fe29f3-f407-753c-4121-2d5f82ba6fd6/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UNbjeBue)
+- **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/97/4d/f0974d32-4b87-35c6-1785-d2184f293590/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
+
 - **Benji - Life OS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/e9/8b/46e98b18-7f7f-27ad-228a-a767873ac5b0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7C0EsThx)
 - **Zenmoney: expense tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/fe/29/b3fe29f3-f407-753c-4121-2d5f82ba6fd6/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UNbjeBue)
 - **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/97/4d/f0974d32-4b87-35c6-1785-d2184f293590/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
