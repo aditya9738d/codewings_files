@@ -91,8 +91,6 @@
 - **EMOTIV Launcher**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/04/f6/8d04f648-404e-411e-a297-de11d0e754dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jSL0XTP9)
 - **Dancing Line Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b3/ca/dfb3ca96-3d46-0e0f-cc22-0b369dbc00c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6WAJ4rTg)
 - **McDonald's QA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/7e/d0/c57ed0a1-e7d1-0d19-cb88-63a58cf1332d/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ftRKu5mE)
-- **CharMap — Unicode Characters**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/7f/9b/fb7f9bb1-dbef-3839-6b17-bb7548b5410b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jhiYnxfr)
-- **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/59/8f/c4598fca-a677-e15b-3d49-63ba03b56e54/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 - **荐音1.2.11**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/c4/00/cac4006f-4fec-bb66-19d7-f9b989819e7d/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tkWrbYX3)
 
 - **VOGA LIVE - Global Video Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/70/ea/6270ea6f-4a68-ce73-9666-f2f1268cc9e9/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XQ21gmCB)
