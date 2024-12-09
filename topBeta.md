@@ -1,9 +1,6 @@
 - **CharMap — Unicode Characters**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/7f/9b/fb7f9bb1-dbef-3839-6b17-bb7548b5410b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jhiYnxfr)
 - **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/59/8f/c4598fca-a677-e15b-3d49-63ba03b56e54/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 
-- **CharMap — Unicode Characters**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/7f/9b/fb7f9bb1-dbef-3839-6b17-bb7548b5410b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jhiYnxfr)
-- **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/59/8f/c4598fca-a677-e15b-3d49-63ba03b56e54/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
-
 - **VPBank Jarvis SalesApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/88/44/d5884430-e3fe-45e7-f711-14ab571285c6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nlZsButl)
 - **Neuecast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/bc/8c/77bc8c6e-1e85-984b-5d49-51ee5d04c84b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a4bmx5rA)
 - **YakiHonne**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/fc/c3/e2fcc375-8b5d-1c28-7f9b-12419528c01e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tcXozZIu)
