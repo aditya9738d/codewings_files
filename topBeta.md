@@ -77,7 +77,6 @@
 - **Tivatrainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/4d/bb/d64dbbf3-9225-f677-6565-ee7678c8bf08/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qkTTNyGj)
 
 - **PDF Viewer - Annotation Expert**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/e8/a1/43e8a1e7-fea5-34b8-e7e9-693e71481284/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6IMUtZ8n)
-- **Monster League Fantasy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/60/c6/c760c664-9120-e949-01ae-79a29fad8ab8/AppIcon-1x_U007ephone-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7pBNJgK3)
 - **Instagram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/c1/7e/69c17ed2-3b02-1c2e-4fc0-8b5870a747be/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72eyUWVE)
 - **Rồng Thần Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/ab/0d/b8ab0d5a-618c-c612-0385-5a2ccee71f44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/k8584n03)
 - **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a8/b5/0ca8b5ae-3028-e0d2-c5fe-daea02b3076f/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
@@ -123,8 +122,6 @@
 - **Film Trailers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/96/a7/1d96a791-1fc1-f874-023f-b0838cf19ec2/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NixSFQIX)
 
 - **Shortwave - AI Email**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/10/5d/26105d7e-47c2-11da-d4b7-8d98683503f3/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/LwqFyO6L)
-
-- **葫芦娃-经典再现**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/2f/fc/5b2ffc3c-0d07-12a4-d3bd-26770da811d0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mE4SHGvn)
 
 - **Once Human Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/53/4a/63534a37-5bed-4938-48d9-2c3ddcd02add/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5EdjasS6)
 
@@ -218,10 +215,6 @@
 
 - **Kalaam - Learn Quranic Arabic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/1b/1e/bc1b1e5d-7eb3-60e7-b8ba-4b7ac56a75f5/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xOzIjSrN)
 
-- **Facebook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/3d/63/253d6326-2196-84dd-ae67-509d35f4935f/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C1a3MRG4)
-- **Mira Fertility & Cycle Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/d8/0c/20d80c22-e5a0-8b29-c695-b6a17ca767ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jVUPS68D)
-- **Nostur - Nostr client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/74/55/96745535-69ae-43af-dff4-db672c313315/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TyrRNCXA)
-
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 - **CalcubiX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/23/db/5e23dbde-af51-5f5b-6289-e8f20e9a3871/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCS19XqP)
 
@@ -305,7 +298,6 @@
 - **Trakt TV Tracker: FilmNoir**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/53/52/765352f8-1b81-13fe-18b9-b3a6583cabf6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
 
 - **Day One Journal: Private Diary**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f6/17/b7f61729-5dac-3d50-7609-a625ef38d318/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NXLBigzY)
-- **Firefox Beta web browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/31/c5/b531c5e2-4028-5b2f-f0be-2fa056ff8e48/AppIcon_Beta-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P9bu6AOe)
 
 - **Yattee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/11/b3/b511b380-cd21-86c3-4bcb-f5bc3950a169/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tLOhggn5)
 - **Flitsmeister**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/8d/d4/738dd465-5e0c-b8f8-5980-5938705e0cda/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GRUCakKw)
