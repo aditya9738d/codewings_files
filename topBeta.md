@@ -73,7 +73,6 @@
 - **Untappd: Find Beer You'll Love**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/d7/bb/ced7bb39-7ae6-e0f1-dc36-81e07c0fe424/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EbIrz3mA)
 - **AstreOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/2f/3c/f32f3c93-2094-99d2-7c97-a9c5ec9ac2b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZsGh6uYD)
 
-- **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c0/5a/6bc05ac6-d2da-9527-805e-dfe993c50833/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/3a/11/3a3a1136-317c-c3b8-a79a-ab3f096ad49c/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
 
 - **Spezi Template Application**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/48/f5/b348f54b-7177-f187-52c2-9fffbb5ae3d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ipEezBY1)
