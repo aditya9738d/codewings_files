@@ -1157,6 +1157,21 @@
                 ]
             },
             {
+                "name": "Alipay+ Linker Wallet",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/dd/ce/0addce84-bb76-24af-a5f6-eed1e8fa3650/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/eFAxdeIz",
+                "clickCount": 10,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:05:27.366Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:05:27.366Z",
+                        "clickCount": 10
+                    }
+                ]
+            },
+            {
                 "name": "Aliviado",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/cb/67/5acb67c3-3596-a12a-4974-4b4c3697e8a4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/yxMciJ1R",
@@ -2173,6 +2188,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T07:10:29.469Z",
                         "clickCount": 31
+                    }
+                ]
+            },
+            {
+                "name": "Avocado Wallet",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/63/4f/79634fa7-3ec0-8809-7df6-e7e0a932aad9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/MxPn3PUa",
+                "clickCount": 44,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:01:15.319Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:01:15.319Z",
+                        "clickCount": 44
                     }
                 ]
             },
@@ -3242,6 +3272,21 @@
                 ]
             },
             {
+                "name": "CCClubs",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/1a/22/bf1a2273-9b2c-7c64-4c7b-5c4c3730ce90/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/pLoQlfvn",
+                "clickCount": 8,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:05:26.220Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:05:26.220Z",
+                        "clickCount": 8
+                    }
+                ]
+            },
+            {
                 "name": "CCS Mobile",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/5b/b2/5b5bb2e7-31d3-5aab-49cb-81d046b0268b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/IAFHUVdV",
@@ -3253,6 +3298,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T08:35:27.200Z",
                         "clickCount": 25
+                    }
+                ]
+            },
+            {
+                "name": "CGS F2F",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/18/89/b71889f3-486e-c840-456a-716454a8743d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/dPkNBMSx",
+                "clickCount": 8,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:01:12.948Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:01:12.948Z",
+                        "clickCount": 8
                     }
                 ]
             },
@@ -3703,6 +3763,21 @@
                         "status": "not accepting",
                         "timestamp": "2024-12-18T11:35:17.532Z",
                         "clickCount": 9
+                    }
+                ]
+            },
+            {
+                "name": "Castaways Mobile",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/74/99/cd74999e-f902-d669-2a28-818c85098438/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/g4wsHwa6",
+                "clickCount": 6,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:05:34.634Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:05:34.634Z",
+                        "clickCount": 6
                     }
                 ]
             },
@@ -4847,6 +4922,21 @@
                 ]
             },
             {
+                "name": "DateStamper",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/35/a4/1835a456-f3fc-375c-8849-4ecbc02f1801/AppIcon-0-0-1x_U007epad-0-0-P3-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/1SjoJEhx",
+                "clickCount": 8,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:01:11.843Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:01:11.843Z",
+                        "clickCount": 8
+                    }
+                ]
+            },
+            {
                 "name": "Dating CA",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/74/e7/6074e773-5071-179d-e28b-35329d4e73cf/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-8.png",
                 "link": "https://testflight.apple.com/join/YtgtFSxm",
@@ -5477,6 +5567,21 @@
                 ]
             },
             {
+                "name": "Dungeon Ward: Souls & Dragons",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/64/a6/1864a6bd-b043-f84f-9e11-a7c01a51c40e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/Kyg7sbis",
+                "clickCount": 37,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:05:47.029Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:05:47.029Z",
+                        "clickCount": 37
+                    }
+                ]
+            },
+            {
                 "name": "Dupay Pro",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/72/40/e57240e8-402a-2274-330c-37513c0df7c1/AppIcon_pro-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/LpdH6PGp",
@@ -5698,6 +5803,21 @@
                         "status": "not accepting",
                         "timestamp": "2024-12-18T07:30:56.807Z",
                         "clickCount": 12
+                    }
+                ]
+            },
+            {
+                "name": "EinsatzTablet",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/99/8e/07998e2f-71c4-bf8e-d620-2575c7e12c4f/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/8WAnCt2K",
+                "clickCount": 35,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:05:34.060Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:05:34.060Z",
+                        "clickCount": 35
                     }
                 ]
             },
@@ -6088,6 +6208,21 @@
                         "status": "full",
                         "timestamp": "2024-12-18T08:30:47.768Z",
                         "clickCount": 2377
+                    }
+                ]
+            },
+            {
+                "name": "Faithlife Study Bible",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/94/af/1e94aff2-b1e0-b410-9e19-b226bb72d2af/AppIcon-0-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/FNWhic7i",
+                "clickCount": 8,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:00:57.736Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:00:57.736Z",
+                        "clickCount": 8
                     }
                 ]
             },
@@ -6943,6 +7078,21 @@
                         "status": "not accepting",
                         "timestamp": "2024-12-18T12:25:17.829Z",
                         "clickCount": 14
+                    }
+                ]
+            },
+            {
+                "name": "GameTrack",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/69/f9/2269f9eb-28be-b60e-eeaa-257075ad401d/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-P3-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/O1g5pDoY",
+                "clickCount": 46,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:05:48.911Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:05:48.911Z",
+                        "clickCount": 46
                     }
                 ]
             },
@@ -8432,6 +8582,21 @@
                 ]
             },
             {
+                "name": "J&T Singapore",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/37/48/563748b7-5084-ad09-0807-e2defe906892/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/MHNGW0xP",
+                "clickCount": 7,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:05:40.753Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:05:40.753Z",
+                        "clickCount": 7
+                    }
+                ]
+            },
+            {
                 "name": "JB4 Mobile",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/40/2b/52402bed-9e3d-8e10-136d-5b8294e23e96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/d2yNd4lK",
@@ -8533,6 +8698,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T08:30:52.332Z",
                         "clickCount": 50
+                    }
+                ]
+            },
+            {
+                "name": "Jeep®",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/83/4b/e4834b97-7d94-db32-6ba9-8a95f45e3181/AppIcon.nafta.prod-1x_U007emarketing-0-5-0-85-220-0.jpeg/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/YGQinHIa",
+                "clickCount": 5,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:05:55.924Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:05:55.924Z",
+                        "clickCount": 5
                     }
                 ]
             },
@@ -9032,6 +9212,21 @@
                 ]
             },
             {
+                "name": "Komodo Mobile Crypto Wallet",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/16/73/f71673e5-bb28-956a-45f4-63ad190dfdd9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/c2mOLEoC",
+                "clickCount": 5,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:00:53.607Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:00:53.607Z",
+                        "clickCount": 5
+                    }
+                ]
+            },
+            {
                 "name": "Kulve",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/f0/94/24f0949d-4a2e-2482-da0e-dda97d1a379d/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/uJqZ5xW7",
@@ -9343,6 +9538,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T12:05:17.259Z",
                         "clickCount": 24
+                    }
+                ]
+            },
+            {
+                "name": "Limbo APP",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/96/fb/a896fbdb-ba5c-bade-cfd8-9358ca95f270/limbo_prodAppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/cXMvdFpd",
+                "clickCount": 6,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:05:21.554Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:05:21.554Z",
+                        "clickCount": 6
                     }
                 ]
             },
@@ -9823,6 +10033,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T12:10:44.460Z",
                         "clickCount": 9
+                    }
+                ]
+            },
+            {
+                "name": "MWeb - Markdown Writing, Notes",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/8e/32/4f8e3296-03e9-6075-1db5-70fd8c6b45c3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/XDGRHrm3",
+                "clickCount": 15,
+                "betaAvailable": "full",
+                "lastChecked": "2024-12-18T13:05:57.710Z",
+                "history": [
+                    {
+                        "status": "full",
+                        "timestamp": "2024-12-18T13:05:57.710Z",
+                        "clickCount": 15
                     }
                 ]
             },
@@ -10592,6 +10817,21 @@
                 ]
             },
             {
+                "name": "Migaku: Really Learn Languages",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/cf/30/b0cf3012-67bf-ef3e-cf9c-b09086ff100f/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.jpeg/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/LtFkhwCk",
+                "clickCount": 16,
+                "betaAvailable": "error",
+                "lastChecked": "2024-12-18T13:00:55.062Z",
+                "history": [
+                    {
+                        "status": "error",
+                        "timestamp": "2024-12-18T13:00:55.062Z",
+                        "clickCount": 16
+                    }
+                ]
+            },
+            {
                 "name": "Mikuture",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/56/47/d2564798-ecae-ade4-5911-c3aee228fb65/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/jRN2sLGz",
@@ -10742,6 +10982,21 @@
                 ]
             },
             {
+                "name": "Mlem for Lemmy",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/ed/0e/35ed0e10-2951-8a5a-cad8-011ab49487de/AppIcon-1x_U007epad-0-0-0-0-0-85-220-0.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/MelFP11Y",
+                "clickCount": 34,
+                "betaAvailable": "error",
+                "lastChecked": "2024-12-18T13:05:16.022Z",
+                "history": [
+                    {
+                        "status": "error",
+                        "timestamp": "2024-12-18T13:05:16.022Z",
+                        "clickCount": 34
+                    }
+                ]
+            },
+            {
                 "name": "MobileCPM",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/27/0a/a0270a58-7bff-826c-5a66-2c39cec4cc7d/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/dJt5vfOZ",
@@ -10877,6 +11132,21 @@
                 ]
             },
             {
+                "name": "Moon Player: Play Everything",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/d7/75/ecd775ca-295c-5071-fdcc-840645498b17/AppIcon.lsr/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/jvjbvKYm",
+                "clickCount": 38,
+                "betaAvailable": "full",
+                "lastChecked": "2024-12-18T13:01:14.070Z",
+                "history": [
+                    {
+                        "status": "full",
+                        "timestamp": "2024-12-18T13:01:14.070Z",
+                        "clickCount": 38
+                    }
+                ]
+            },
+            {
                 "name": "Moon Portal: Frame, Widget, AI",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/e0/12/65e012be-9cb7-3b92-e7f8-6e830ac9dccc/AppIcon.lsr/200x200bb-8.png",
                 "link": "https://testflight.apple.com/join/e5tVF4Q2",
@@ -10888,6 +11158,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T07:20:26.044Z",
                         "clickCount": 13
+                    }
+                ]
+            },
+            {
+                "name": "MoreApp Forms",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/55/a4/3b55a44c-f1e7-2f92-e1cf-a797d22c1920/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/RmKhWWuG",
+                "clickCount": 7,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:00:50.849Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:00:50.849Z",
+                        "clickCount": 7
                     }
                 ]
             },
@@ -10997,6 +11282,21 @@
                 ]
             },
             {
+                "name": "MusicSync for Home Assistant",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/f2/0a/3ff20a62-66be-2d14-f3ad-3e631aca5b93/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/4nCUW4lI",
+                "clickCount": 14,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:05:54.116Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:05:54.116Z",
+                        "clickCount": 14
+                    }
+                ]
+            },
+            {
                 "name": "Mx Rei Do Grau V2",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/7f/06/597f06fb-0bb3-440d-d380-f2db8bca403c/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/P7ugbi0C",
@@ -11023,6 +11323,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T09:20:30.424Z",
                         "clickCount": 12
+                    }
+                ]
+            },
+            {
+                "name": "My McDonald's QA",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/b5/8f/acb58f2c-e5a7-7a22-c19a-5802c56ef79c/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/ftRKu5mE",
+                "clickCount": 46,
+                "betaAvailable": "full",
+                "lastChecked": "2024-12-18T13:00:50.150Z",
+                "history": [
+                    {
+                        "status": "full",
+                        "timestamp": "2024-12-18T13:00:50.150Z",
+                        "clickCount": 46
                     }
                 ]
             },
@@ -11128,6 +11443,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T11:20:41.900Z",
                         "clickCount": 6
+                    }
+                ]
+            },
+            {
+                "name": "MySecuritas Beta",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/8c/36/dd8c36ea-a4a6-d171-be44-a25b20134ef9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/oseJu254",
+                "clickCount": 32,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:01:14.813Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:01:14.813Z",
+                        "clickCount": 32
                     }
                 ]
             },
@@ -13382,6 +13712,21 @@
                 ]
             },
             {
+                "name": "Polaroid X-1",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/43/1f/89431f66-8ac5-2bb8-1581-9befb82ade89/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/BtnUDn7I",
+                "clickCount": 5,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:05:44.166Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:05:44.166Z",
+                        "clickCount": 5
+                    }
+                ]
+            },
+            {
                 "name": "Polity - Online Role Playing",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/5d/a9/fa5da916-a3c0-a2f3-c568-0835aed6616d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/pSvtiAVL",
@@ -13817,6 +14162,21 @@
                 ]
             },
             {
+                "name": "RBCN - мобильные приложения",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/38/f2/8a38f272-e5ee-1918-a2df-fc5eda877cf8/AppIcon-0-0-1x_U007emarketing-0-7-0-0-P3-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/iD4QcyCF",
+                "clickCount": 5,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:00:55.990Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:00:55.990Z",
+                        "clickCount": 5
+                    }
+                ]
+            },
+            {
                 "name": "ROOMS_",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/b9/86/5eb986c9-7d14-b8b6-3aca-772e3c6b3613/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-8.png",
                 "link": "https://testflight.apple.com/join/Z9Elx1Aj",
@@ -14087,6 +14447,21 @@
                 ]
             },
             {
+                "name": "RenPyLinter",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/1e/1a/6f1e1a8e-8b5a-6e1a-661c-b81ffecb902c/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/dOoo2koa",
+                "clickCount": 8,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:05:47.692Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:05:47.692Z",
+                        "clickCount": 8
+                    }
+                ]
+            },
+            {
                 "name": "Renaissance Kingdoms",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/27/b4/3727b4b2-c0a4-3b85-dd50-7fba32ba054f/AppIcon-1x_U007epad-0-85-220-0.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/KkFL0EvO",
@@ -14173,6 +14548,21 @@
                         "status": "not accepting",
                         "timestamp": "2024-12-18T08:10:24.565Z",
                         "clickCount": 15
+                    }
+                ]
+            },
+            {
+                "name": "Rizzference",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/23/d6/f423d610-bb55-3b92-4afd-e8146df26f25/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/hSVtJLRj",
+                "clickCount": 8,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:05:42.983Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:05:42.983Z",
+                        "clickCount": 8
                     }
                 ]
             },
@@ -14522,6 +14912,21 @@
                 ]
             },
             {
+                "name": "Screen Mirroring - 1001 TVs",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/31/23/843123c0-58ad-6160-444e-a72696b1f094/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/Nf1dKOBG",
+                "clickCount": 8,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:00:54.657Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:00:54.657Z",
+                        "clickCount": 8
+                    }
+                ]
+            },
+            {
                 "name": "Scrypted",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/be/48/eabe4869-f0d1-f968-a01b-c2377ca6d2ac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/mpXXwLk7",
@@ -14848,6 +15253,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T12:16:07.442Z",
                         "clickCount": 32
+                    }
+                ]
+            },
+            {
+                "name": "Sky Sports",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/69/30/4f6930f3-fc52-d828-d803-bea33972909f/GB-AppIcon-0-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/r05IRSPx",
+                "clickCount": 8,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:05:41.436Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:05:41.436Z",
+                        "clickCount": 8
                     }
                 ]
             },
@@ -16067,6 +16487,21 @@
                 ]
             },
             {
+                "name": "Telegram Messenger",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/36/27/7d3627ec-d7f6-32e7-787b-e1f66a521cc2/AppIconLLC-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/u6iogfd0",
+                "clickCount": 1393,
+                "betaAvailable": "full",
+                "lastChecked": "2024-12-18T13:05:51.047Z",
+                "history": [
+                    {
+                        "status": "full",
+                        "timestamp": "2024-12-18T13:05:51.047Z",
+                        "clickCount": 1393
+                    }
+                ]
+            },
+            {
                 "name": "Telenet TV",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/90/a5/3f90a50b-f1fb-b74e-0bd5-ed96a7b13243/AppIcon-telenet-0-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/nYWzw0px",
@@ -16562,6 +16997,21 @@
                 ]
             },
             {
+                "name": "ToneBarrier",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/6f/b9/e46fb9ad-318c-52f2-9920-79783df84e59/ToneBarrierAppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/LqGKPwdG",
+                "clickCount": 132,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:00:51.812Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:00:51.812Z",
+                        "clickCount": 132
+                    }
+                ]
+            },
+            {
                 "name": "Toolstash",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/92/f1/9292f117-8054-5dd5-94f4-b9f6d9d34499/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/mQlC9ulT",
@@ -16933,6 +17383,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T12:20:33.905Z",
                         "clickCount": 192
+                    }
+                ]
+            },
+            {
+                "name": "UDTalk",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/24/06/18240606-6b33-f0ed-b06c-62a376497bea/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/EoNrvbEy",
+                "clickCount": 8,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:05:50.868Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:05:50.868Z",
+                        "clickCount": 8
                     }
                 ]
             },
@@ -19352,6 +19817,21 @@
                 ]
             },
             {
+                "name": "hyperPad Viewer",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/d1/17/55d11712-bc39-144e-eb05-26ed69bd8dd6/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/qxo5xKzP",
+                "clickCount": 7,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:00:55.511Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:00:55.511Z",
+                        "clickCount": 7
+                    }
+                ]
+            },
+            {
                 "name": "i-CareGO",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/39/7b/7c397b12-f4a0-eb43-e254-a47e7dad55b4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-8.png",
                 "link": "https://testflight.apple.com/join/7Xi2fbRI",
@@ -19603,6 +20083,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T08:45:30.069Z",
                         "clickCount": 35
+                    }
+                ]
+            },
+            {
+                "name": "iV2EX",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/6f/51/126f5177-2ecd-f427-77cf-0321cc1249e7/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/LvKIxl69",
+                "clickCount": 45,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:00:54.044Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:00:54.044Z",
+                        "clickCount": 45
                     }
                 ]
             },
@@ -19892,6 +20387,21 @@
                 ]
             },
             {
+                "name": "star*club",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/44/92/484492bb-09e9-ab75-ba36-19b66faf9521/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/08sK4Ag5",
+                "clickCount": 5,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:05:48.243Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:05:48.243Z",
+                        "clickCount": 5
+                    }
+                ]
+            },
+            {
                 "name": "uhomes pro",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/d0/14/60d01494-d071-ec61-32e4-3191bad56fcf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-8.png",
                 "link": "https://testflight.apple.com/join/SOoRFdjH",
@@ -20027,6 +20537,21 @@
                 ]
             },
             {
+                "name": "Ổ Truyện Mới Pro",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/94/ef/5e94ef0e-a007-f200-bf09-e60c959ee24b/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/h8MznxZG",
+                "clickCount": 13,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:01:13.372Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:01:13.372Z",
+                        "clickCount": 13
+                    }
+                ]
+            },
+            {
                 "name": "スマートガス検針（灯油）",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/1e/0d/691e0d95-0209-977c-c88b-d9d8862ad8a7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/FxXLJ81q",
@@ -20068,6 +20593,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T10:30:43.705Z",
                         "clickCount": 8
+                    }
+                ]
+            },
+            {
+                "name": "三国杀OL抢先测试",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/bd/fb/96bdfbbf-0936-8aba-8adb-177da2239100/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/VAXZ4oCS",
+                "clickCount": 7,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:00:52.284Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:00:52.284Z",
+                        "clickCount": 7
                     }
                 ]
             },
@@ -20627,6 +21167,21 @@
                 ]
             },
             {
+                "name": "淘宝主播",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/13/ff/be13ff9d-70d5-432a-11fb-781af373beae/AppIcon-0-1x_U007emarketing-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/xSOP5d7s",
+                "clickCount": 23,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:00:51.587Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:00:51.587Z",
+                        "clickCount": 23
+                    }
+                ]
+            },
+            {
                 "name": "爱阅记",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/bc/48/2dbc48db-d992-da8b-291e-aa33d35a2c50/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/tJRPfBIZ",
@@ -20637,6 +21192,21 @@
                     {
                         "status": "open",
                         "timestamp": "2024-12-18T10:55:19.783Z",
+                        "clickCount": 6
+                    }
+                ]
+            },
+            {
+                "name": "物联千里眼",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/08/d8/8708d8e0-e544-30f7-3500-c33fae631df8/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/GlUMnqmU",
+                "clickCount": 6,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:05:15.426Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:05:15.426Z",
                         "clickCount": 6
                     }
                 ]
@@ -20987,6 +21557,21 @@
                 ]
             },
             {
+                "name": "네스탁 - 주식 투자자를 위한 커뮤니티",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/25/ee/7e25ee4f-a950-e11a-47ec-f648d80e086a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/ysNCypVO",
+                "clickCount": 5,
+                "betaAvailable": "not accepting",
+                "lastChecked": "2024-12-18T13:01:12.255Z",
+                "history": [
+                    {
+                        "status": "not accepting",
+                        "timestamp": "2024-12-18T13:01:12.255Z",
+                        "clickCount": 5
+                    }
+                ]
+            },
+            {
                 "name": "달보이스 플러스",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/56/c7/b756c7ef-f772-b63f-0aaa-030f878f1845/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/OJfvaCjH",
@@ -20998,6 +21583,21 @@
                         "status": "open",
                         "timestamp": "2024-12-18T08:50:54.246Z",
                         "clickCount": 29
+                    }
+                ]
+            },
+            {
+                "name": "컨설텝스",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/74/26/f274260a-b9e9-2931-5218-163e22202e6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
+                "link": "https://testflight.apple.com/join/1YiOYdID",
+                "clickCount": 31,
+                "betaAvailable": "open",
+                "lastChecked": "2024-12-18T13:00:56.799Z",
+                "history": [
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T13:00:56.799Z",
+                        "clickCount": 31
                     }
                 ]
             }
