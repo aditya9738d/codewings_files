@@ -6200,16 +6200,21 @@
                 "name": "Facebook",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/9b/c6/df9bc686-796c-c6c3-d623-76dde47ded7e/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/C1a3MRG4",
-                "clickCount": 2377,
                 "betaAvailable": "full",
-                "lastChecked": "2024-12-18T08:30:47.768Z",
+                "clickCount": 2378,
                 "history": [
+                    {
+                        "status": "full",
+                        "clickCount": 2377,
+                        "timestamp": "2024-12-18T08:30:47.768Z"
+                    },
                     {
                         "status": "full",
                         "timestamp": "2024-12-18T08:30:47.768Z",
                         "clickCount": 2377
                     }
-                ]
+                ],
+                "lastChecked": "2024-12-18T13:18:48.334Z"
             },
             {
                 "name": "Faithlife Study Bible",
@@ -8510,16 +8515,21 @@
                 "name": "Instagram",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/e2/1b/65e21b7d-f0e4-405a-aa73-ba7d165538f2/Prod-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/72eyUWVE",
-                "clickCount": 3673,
                 "betaAvailable": "full",
-                "lastChecked": "2024-12-18T08:30:46.990Z",
+                "clickCount": 3676,
                 "history": [
                     {
                         "status": "full",
                         "timestamp": "2024-12-18T08:30:46.990Z",
                         "clickCount": 3673
+                    },
+                    {
+                        "status": "full",
+                        "timestamp": "2024-12-18T08:30:46.990Z",
+                        "clickCount": 3673
                     }
-                ]
+                ],
+                "lastChecked": "2024-12-18T13:18:43.777Z"
             },
             {
                 "name": "Intune Company Portal",
@@ -8690,16 +8700,21 @@
                 "name": "JeeConnect",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/2e/b7/402eb784-9e00-a6a4-7c93-cd036cf2d864/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/luZsKILI",
-                "clickCount": 50,
                 "betaAvailable": "open",
-                "lastChecked": "2024-12-18T08:30:52.332Z",
+                "clickCount": 52,
                 "history": [
                     {
                         "status": "open",
                         "timestamp": "2024-12-18T08:30:52.332Z",
                         "clickCount": 50
+                    },
+                    {
+                        "status": "open",
+                        "timestamp": "2024-12-18T08:30:52.332Z",
+                        "clickCount": 50
                     }
-                ]
+                ],
+                "lastChecked": "2024-12-18T13:19:06.209Z"
             },
             {
                 "name": "Jeep®",
@@ -12950,16 +12965,21 @@
                 "name": "PPSSPP - PSP emulator",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c0/5a/6bc05ac6-d2da-9527-805e-dfe993c50833/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/uNlhFG0m",
-                "clickCount": 206,
                 "betaAvailable": "open",
-                "lastChecked": "2024-12-18T08:30:45.595Z",
+                "clickCount": 208,
                 "history": [
+                    {
+                        "timestamp": "2024-12-18T08:30:45.595Z",
+                        "clickCount": 206,
+                        "status": "open"
+                    },
                     {
                         "status": "open",
                         "timestamp": "2024-12-18T08:30:45.595Z",
                         "clickCount": 206
                     }
-                ]
+                ],
+                "lastChecked": "2024-12-18T13:18:38.914Z"
             },
             {
                 "name": "PS Cards",
@@ -15291,15 +15311,20 @@
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/2f/7a/052f7a31-3d58-4598-a365-069071c970a1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/QE3kgqJ2",
                 "clickCount": 51,
-                "betaAvailable": "open",
-                "lastChecked": "2024-12-18T12:30:49.308Z",
                 "history": [
+                    {
+                        "status": "open",
+                        "clickCount": 51,
+                        "timestamp": "2024-12-18T12:30:49.308Z"
+                    },
                     {
                         "status": "open",
                         "timestamp": "2024-12-18T12:30:49.308Z",
                         "clickCount": 51
                     }
-                ]
+                ],
+                "lastChecked": "2024-12-18T13:25:19.418Z",
+                "betaAvailable": "full"
             },
             {
                 "name": "Sleep Cycle - Tracker & Sounds",
