@@ -10910,16 +10910,21 @@
                 "name": "Minecraft Preview",
                 "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/d8/df/4cd8dfed-0918-684f-82ac-649ce4bd9505/AppIcon-beta-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png",
                 "link": "https://testflight.apple.com/join/qC1ZnReJ",
-                "clickCount": 4258,
                 "betaAvailable": "full",
-                "lastChecked": "2024-12-18T12:50:36.851Z",
+                "clickCount": 4263,
                 "history": [
+                    {
+                        "status": "full",
+                        "clickCount": 4258,
+                        "timestamp": "2024-12-18T12:50:36.851Z"
+                    },
                     {
                         "status": "full",
                         "timestamp": "2024-12-18T12:50:36.851Z",
                         "clickCount": 4258
                     }
-                ]
+                ],
+                "lastChecked": "2024-12-18T13:35:27.466Z"
             },
             {
                 "name": "Mini Militia Classic",
