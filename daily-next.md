@@ -1,3 +1,7 @@
+- **Grid 2.0 UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ea/87/5fea875c-5023-5c2e-47b0-c7b6d19f0693/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Dv2pvGuI)
+- **CheapCharts - Digital Deals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/86/91/1f86918a-7bdc-48ce-d6fd-18ab754b892e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZGiJbkWU)
+- **Nachos and Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/10/a4/2a10a490-ba32-307e-9557-17f38650afe4/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/doaG1qHl)
+
 - **BeCasso: Photo to Painting**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/65/e5/d365e5d4-6340-7e3d-887c-38850cb61355/AppIcon_1-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MT0qZeto)
 - **Camera Companion BETA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/e8/38/b5e838f8-e918-3888-cc49-fc8f876af53f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z18Ngj0N)
 - **ONLINE Ticket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/63/57/02635766-f70b-8237-9844-d7ce8093fd66/AppIcon-online-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YNwwlTvs)
