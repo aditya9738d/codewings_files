@@ -1078,7 +1078,6 @@
 
 - **MOONDROP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/24/41/002441b6-1124-dbff-b098-b632138457d8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jih3rTIP)
 
-- **eParaksts mobile DEMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/13/77/70137768-4e40-ea07-d006-eb4715af9953/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GzmlvtUs)
 
 - **Working Copy - Git client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/04/b7/ac04b7be-24a6-27fb-cba2-2c3e6d876d42/Regular-Icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jWRvinra)
 
