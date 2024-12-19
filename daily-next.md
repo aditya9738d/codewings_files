@@ -6,6 +6,10 @@
 - **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e8/f7/94e8f727-e86c-2806-ccda-307f2af0011f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
 - **HashSeven**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/01/2a/4b012a71-2628-f907-bc57-b74e69508595/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yZg3crZM)
 
+- **Potato Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/25/b1/5f25b13e-aca3-d951-3f00-fc49035c2528/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/P2Jlp35o)
+- **Termius: Terminal & SSH client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e8/f7/94e8f727-e86c-2806-ccda-307f2af0011f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MnuClabg)
+- **HashSeven**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/01/2a/4b012a71-2628-f907-bc57-b74e69508595/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yZg3crZM)
+
 - **Lock Launcher - Screen Widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/35/f2/ea35f2bf-6f65-02c2-3a57-30a460109813/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/clHxFnLa)
 
 - **Lock Launcher - Screen Widgets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/35/f2/ea35f2bf-6f65-02c2-3a57-30a460109813/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/clHxFnLa)
@@ -194,6 +198,3 @@
 - **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/38/f7/b238f746-8f56-bfa8-e24b-86b54bc0af47/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
 - **itsme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/2d/f3/ef2df3b8-b36d-8c04-50bb-f1d50b9e6cb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ntZD6f9a)
 - **DNB Mobile Bank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/65/fc/6765fc4d-4b5a-17b3-b959-67b374684cb4/DNB_Prod_Release_App_Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JofD99Fe)
-
-- **Ivory for Mastodon by Tapbots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/19/5b/53195bf0-6538-312d-575b-c24fbf34e55d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AOOy02ZU)
-- **Windows App Mobile Beta Two**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f9/32/dff93299-e7c7-4573-9775-4b2baeed3c95/AppIconBeta-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/q4ha2nsh)
