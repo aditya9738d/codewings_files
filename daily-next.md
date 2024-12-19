@@ -1,7 +1,5 @@
 - **Home Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/fe/cb/3bfecb35-dfb0-6643-20da-7a3d4a61f715/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1AlPbnLZ)
 
-- **Home Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/fe/cb/3bfecb35-dfb0-6643-20da-7a3d4a61f715/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1AlPbnLZ)
-
 - **eSatsang Dayalbagh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/d6/b5/2bd6b56f-7ff4-97ff-3582-3b757373b717/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RlryJv2c)
 - **Carly — OBD2 car scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/77/37/76773719-5016-d120-dbf7-bde0109de50b/BMW_Full-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KeT5Rcaa)
 
