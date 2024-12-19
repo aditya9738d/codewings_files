@@ -1,6 +1,5 @@
 - **Microsoft Excel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/be/fc/dfbefcdc-b02c-5d82-76fe-9e7b4d1357db/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3lIiz1eZ)
 
-- **Microsoft Excel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/be/fc/dfbefcdc-b02c-5d82-76fe-9e7b4d1357db/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3lIiz1eZ)
 - **SchoolMate – Ace the Day**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d4/d3/93d4d38d-5fda-709c-5398-e6d599c7d064/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WZcoUcHQ)
 
 - **eParaksts mobile DEMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/59/1b/48591be2-82c6-4191-de7f-320deb839b6c/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GzmlvtUs)
