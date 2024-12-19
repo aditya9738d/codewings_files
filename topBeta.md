@@ -388,7 +388,6 @@
 
 - **Joplin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/4a/80/fa4a8027-4b4e-9501-13bf-ca8b891bd1a0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/p5iLVzrG)
 
-- **Home Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/00/e8/3600e801-b77d-42e4-1c83-d87fd96aedc9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1AlPbnLZ)
 - **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/af/0c/62af0c99-e925-43cc-15fd-c53318d18815/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
 
 - **Sonolus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/67/c6/0567c675-0ddf-4f5c-8e1c-b7174dfa1fe7/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mdFtAf92)
@@ -2639,7 +2638,6 @@
 - **iRhino 3D**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/22/72/0e2272b0-616a-9bc4-baaf-70f55d2cac0e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t1a17W2T)
 - **SonicJot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/47/4a/9d474acb-337e-769f-c73b-0ae832369372/AppIcon-0-85-220-4-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Sr6LHdsR)
 - **Napoleon Games Casino**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/e6/ef/48e6ef11-f1d4-73c0-6e97-503e605b5222/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHRaLwu5)
-- **Carly — OBD2 car scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/44/77/e54477b4-5cd9-ef4b-9bef-297b024dabb5/BMW_Full-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KeT5Rcaa)
 - **СмартКардио**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/69/3e/b2693e24-eef0-bb7c-66f9-f05c9fde3183/appicon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ku8iGLOm)
 - **MyMoneyJa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/ea/2e/8fea2e9c-d562-f40a-eb74-c3642e759715/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G9jsTmlN)
 - **Waylar Work**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/a2/9b/86a29b64-f570-6fd5-3c8e-8087f5b72153/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SHGzTW6c)
@@ -4850,7 +4848,6 @@
 - **金蝶云**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/b7/23/7eb7238a-79d8-dc25-fd48-4b6640afdfd9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/r3jU5RIZ)
 - **Music Info — Song Metadata**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/c4/78/3ec478f7-69e6-61bb-a06d-861f69858a6f/AppIcon-0-0-1x_U007epad-0-0-0-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PF51tNuK)
 - **Toshiba ATx**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/3a/58/c33a5804-05cb-6c56-9925-3ce86afc7719/ToshibaIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BuPPNDem)
-- **eSatsang Dayalbagh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/c8/2f/b0c82f10-7323-3031-9e9d-bae31023687b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RlryJv2c)
 - **Menuverse**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/64/69/336469f4-8293-eb4d-c71d-8e616fca39e8/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9uKaannN)
 - **X.AR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/ee/00/cfee006e-fba2-7652-e4a5-56f8579fcd0f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/smDJLIHx)
 - **NCBA NOW TEST**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/54/0b/16540b1e-5f9f-250e-80a7-1622b428fc21/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jRnz9Kxt)
