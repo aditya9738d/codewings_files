@@ -82,7 +82,6 @@
 - **Darkroom: Photo & Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/ec/29/eaec29e7-5fad-cc62-52c2-b207046759f4/AppIcon-Beta-0-0-1x_U007epad-0-11-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mzR3XvHe)
 - **BubbleGo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/4e/3c/b44e3ce6-c42b-ce41-3107-add29eee45c0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uXuOrE3v)
 - **Texts.com: Unified Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/3c/fa/033cfa2a-a64b-c206-fbdd-acbe528a69a1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j15QDhZq)
-- **Amazon Location Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/b5/e1/41b5e137-469f-6858-aeeb-932e7d41281a/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zh52FrVh)
 - **PocketFi Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/e7/d7/96e7d7a3-ea5b-7750-b6b1-60f92b4fc344/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JSuHKW67)
 - **BS Magic tricks**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7c/a4/307ca4bd-524b-dfaa-6f2e-e69aac78cc02/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lSfg23eV)
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/15/ad/ea15ad29-69d6-8b16-3e47-c7ff7d55490c/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
@@ -199,8 +198,6 @@
 
 - **TP-Link Deco**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/cf/16/3fcf16bf-bed6-90dc-73cc-674c5ffa6e95/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fJ5qhMqr)
 - **Ever Play - HiFi Music Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/0a/b8/500ab83b-0cd6-8cb2-9d80-cf4e740919a3/AppIcon5-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MzvaziMT)
-
-- **Swiggy: Food Instamart Dineout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/98/ec/3098ecb9-4642-5d10-6d5d-a0e5f4dae60b/AppIcon_testflight-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IERuiSEL)
 
 - **GroupMe**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/b3/8e/04b38ef4-a71c-31f0-1658-8440b61b38a8/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6CcTotfX)
 
@@ -4325,7 +4322,6 @@
 - **RealMaze AR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/43/45/9543459c-1820-29e9-7014-956c443f8898/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tahFKjuQ)
 - **货拉拉-现控**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/bf/8a/edbf8a4d-2e7e-d2c0-c456-210ebda3a6f6/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S2dlVDg1)
 - **J&T Singapore**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/37/48/563748b7-5084-ad09-0807-e2defe906892/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MHNGW0xP)
-- **EZVIZ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/34/6d/33346d3d-4fac-ac96-9e3f-287fb6de4f4f/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SwCUkUip)
 - **CA Development**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/d7/9f/6ed79f0c-eff1-440b-7c5b-77bd2a2d7642/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fYmAbGwZ)
 - **Sky Sports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/69/30/4f6930f3-fc52-d828-d803-bea33972909f/GB-AppIcon-0-1x_U007emarketing-0-7-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/r05IRSPx)
 - **[STG] マクドナルド**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/ba/ac/f0baaca2-84ea-aa8e-0956-e5c49bc9bc4d/AppIcon-STG-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eClNc5o2)
