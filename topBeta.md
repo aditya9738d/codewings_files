@@ -203,9 +203,6 @@
 - **BandLab – Music Making Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/ae/85/36ae85d5-9aab-082c-29f9-5e89078dd014/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BwbEj9Xx)
 
 - **Keka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/e0/49/b8e049c6-bb4b-462f-09dc-8f7fdbaa564d/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPYINGCJ)
-- **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e4/83/d4e48306-30e2-431a-b096-cb1838c23361/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
-
-- **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/a2/07/19a207f6-4e8a-ea86-c15b-4dcc1dd48df3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
 
 - **Lissi ID-Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/a8/1d/4da81d23-5aeb-f6f1-0b72-bb0dd3050822/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9AWbZISv)
 
@@ -2562,7 +2559,6 @@
 - **Tribit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/90/31/bf903150-35c3-dbfa-585b-0451e1dab10e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qua9xlIc)
 - **REDTIGER**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/9e/cc/399ecc1b-af52-d924-01e5-fcd053eb01f7/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5qeOoHkb)
 - **Torque Drift**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/8f/32/d98f32ca-1e8f-7a91-6ac7-877fe2f33cda/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/44Y4Radb)
-- **T-spider検証**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/ae/05/9bae0562-9677-d1c9-cb5d-c0919f217a30/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFmmDGxb)
 - **Tentacle Setup**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/a0/b7/87a0b7b2-acef-56ae-4632-95010361ba30/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hbENllFt)
 - **TRUSTDOCK - Sandbox**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/da/c5/0edac5a3-ae6b-7d37-62d6-7242ce5cc340/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DGCY7ltN)
 - **Pokepay 2 QA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/de/7e/45de7e79-1794-b940-7ff5-ddb2d1f10134/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/coHaz5uZ)
