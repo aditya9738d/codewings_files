@@ -1,3 +1,6 @@
+- **iAnyGo-2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/96/5a/6f965a08-90f0-695a-1dd1-2953de7cd833/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fU362zmT)
+- **Test - Service Ape**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/d5/57/d7d5570b-fa31-d2f2-f67b-f03a9c313b24/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v4iAsIiH)
+
 - **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/8c/f4/9a8cf492-49f5-d75a-872f-d02422a5a88d/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
 - **Baseline - How to get fit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/b7/2d/beb72d7e-ab72-80c6-503a-292f6da0cc81/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3XpiHAwS)
 - **Sleep Cycle - Tracker & Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/9f/02/179f020d-7494-c8fe-d004-e63fdb19d1c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCeANbZi)
