@@ -1,12 +1,6 @@
 - **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/89/bc/d889bc5c-192f-5c3f-67f7-3acf97c30c37/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
 - **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e4/83/d4e48306-30e2-431a-b096-cb1838c23361/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
 
-- **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/89/bc/d889bc5c-192f-5c3f-67f7-3acf97c30c37/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
-- **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e4/83/d4e48306-30e2-431a-b096-cb1838c23361/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
-
-- **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/89/bc/d889bc5c-192f-5c3f-67f7-3acf97c30c37/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
-- **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e4/83/d4e48306-30e2-431a-b096-cb1838c23361/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
-
 - **T-spider検証**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/37/0e/a5370ebd-aa45-87df-5e5d-5695516edd45/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFmmDGxb)
 
 - **Ivory for Mastodon by Tapbots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/19/5b/53195bf0-6538-312d-575b-c24fbf34e55d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AOOy02ZU)
