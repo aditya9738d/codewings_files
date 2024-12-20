@@ -2,6 +2,10 @@
 - **Mail: Email, Cloud, Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/9a/49/939a49b8-6f92-e5aa-1c3c-f776277056df/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G04Eq2nO)
 - **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/c6/cd/e9c6cd70-f713-bc17-eccb-844d9d6a5f07/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
 
+- **Norton 360 Security & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/4c/20/e34c20fd-b372-5195-95c7-06bf0cb9fb43/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
+- **Mail: Email, Cloud, Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/9a/49/939a49b8-6f92-e5aa-1c3c-f776277056df/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G04Eq2nO)
+- **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/c6/cd/e9c6cd70-f713-bc17-eccb-844d9d6a5f07/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
+
 - **iAnyGo-2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/96/5a/6f965a08-90f0-695a-1dd1-2953de7cd833/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fU362zmT)
 - **Test - Service Ape**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/d5/57/d7d5570b-fa31-d2f2-f67b-f03a9c313b24/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v4iAsIiH)
 
@@ -194,4 +198,3 @@
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c3/b4/3ac3b497-a850-2de7-82aa-5d8862a8d7e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MDMvebfF)
 
 - **Geo Tracker - GPS Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/67/73/95677300-13f9-0581-9b46-20ff48d6f9d7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wpxJYSTu)
-- **Mate - Soul Making Friends**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c6/71/c1c6714e-fe2a-9b05-75b0-89bcc4248cc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V2L1PH8N)
