@@ -89,7 +89,6 @@
 
 - **PDF Viewer by Nutrient**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/e8/a1/43e8a1e7-fea5-34b8-e7e9-693e71481284/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6IMUtZ8n)
 
-- **Norton 360 Security & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/6d/21/1e6d21ff-620f-8cee-f679-df3c067198a9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
 - **Benji - Life OS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/e9/8b/46e98b18-7f7f-27ad-228a-a767873ac5b0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7C0EsThx)
 - **Zenmoney: expense tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/fe/29/b3fe29f3-f407-753c-4121-2d5f82ba6fd6/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UNbjeBue)
 
@@ -125,8 +124,6 @@
 
 - **Airmail - Your Mail With You**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/aa/35/fcaa358f-e2b6-c7db-803c-ed1ba082db02/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wRiLlWPE)
 - **pr0gramm App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/f6/d0/b6f6d086-6f25-8941-6bee-b0f0f77490bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NubTl9vH)
-
-- **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/97/4d/f0974d32-4b87-35c6-1785-d2184f293590/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
 
 - **IMDb: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/58/ee/8f58ee2f-42de-d11e-694a-b233a89e8568/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y9yo0X5t)
 - **Feditext**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/b4/25/7eb425ba-d954-1061-4aad-b5898e2604c7/AppIcon-1x_U007epad-0-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3Ik3KBjj)
