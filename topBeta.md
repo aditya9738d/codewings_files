@@ -12,7 +12,6 @@
 - **Car好錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/7d/8e/aa7d8ebf-0342-026e-3820-2bbfda39ee34/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vjFXiaw0)
 
 - **Sonolus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/42/ee/4242eed2-0b28-3c4f-7b39-f989e4b70e8d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mdFtAf92)
-- **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/8c/f4/9a8cf492-49f5-d75a-872f-d02422a5a88d/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
 
 - **Block Blast！**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f7/36/7ff73676-cfb5-55c7-6de0-8404e297f474/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/W8aGAsi5)
 
@@ -320,7 +319,6 @@
 - **eufy Clean (EufyHome)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/af/69/a0af69ef-016b-f831-6372-90edce697205/AppIcon-all-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABaSUurE)
 
 - **Unitree Go Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/6b/61/066b61d6-a795-7ffd-6f61-40c9c6f66450/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KraKgqam)
-- **Baseline - How to get fit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/d7/ad/81d7ad3a-e015-c8eb-1df3-6541bb93f951/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3XpiHAwS)
 
 - **BeReal: Photos & Friends Daily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/99/28/5299280e-4635-282c-aa03-aeaaee9c4bc7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IM4jE5XY)
 
@@ -397,8 +395,6 @@
 - **Matterport**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/1e/62/a91e627c-14a2-5459-8bf1-dc15e0feda94/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/htfXQ8jV)
 
 - **Microsoft Defender: Security**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/0e/a8/690ea8aa-c84d-9913-ee63-a9358e59ee22/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AYVtbvfc)
-
-- **Sleep Cycle - Tracker & Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/aa/2b/b8aa2ba9-bf3e-ac4f-9511-54490aa89fec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCeANbZi)
 
 - **Audiobookshelf App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/34/ac/a634ac5f-4929-2645-402e-fd73a69c5ac9/Icons-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wiic7QIW)
 
