@@ -1,3 +1,6 @@
+- **Sonolus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/42/ee/4242eed2-0b28-3c4f-7b39-f989e4b70e8d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mdFtAf92)
+- **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/8c/f4/9a8cf492-49f5-d75a-872f-d02422a5a88d/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
+
 - **Block Blast！**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/f7/36/7ff73676-cfb5-55c7-6de0-8404e297f474/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/W8aGAsi5)
 - **Sonolus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/42/ee/4242eed2-0b28-3c4f-7b39-f989e4b70e8d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mdFtAf92)
 - **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/8c/f4/9a8cf492-49f5-d75a-872f-d02422a5a88d/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
