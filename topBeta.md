@@ -1,3 +1,6 @@
+- **Carly — OBD2 car scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/77/37/76773719-5016-d120-dbf7-bde0109de50b/BMW_Full-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KeT5Rcaa)
+- **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/32/39/b23239ac-513e-062e-7738-36ca708b7c01/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
+
 - **ACG POWER**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/4f/a1/e24fa101-6a6d-28c3-c182-754d6022703c/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9mKX79mz)
 - **Carly — OBD2 car scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/77/37/76773719-5016-d120-dbf7-bde0109de50b/BMW_Full-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KeT5Rcaa)
 - **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/32/39/b23239ac-513e-062e-7738-36ca708b7c01/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
