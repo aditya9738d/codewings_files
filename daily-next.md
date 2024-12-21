@@ -2,10 +2,6 @@
 - **Neuecast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/bc/8c/77bc8c6e-1e85-984b-5d49-51ee5d04c84b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a4bmx5rA)
 - **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/61/cf/1d61cf9c-7b1d-e5a0-c104-54ec99867baf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
 
-- **Car好錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/7d/8e/aa7d8ebf-0342-026e-3820-2bbfda39ee34/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vjFXiaw0)
-- **Neuecast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/bc/8c/77bc8c6e-1e85-984b-5d49-51ee5d04c84b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a4bmx5rA)
-- **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/61/cf/1d61cf9c-7b1d-e5a0-c104-54ec99867baf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
-
 - **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/32/39/b23239ac-513e-062e-7738-36ca708b7c01/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
 - **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/8d/fa/2d8dfa8b-cfaf-180f-4716-bfd3e49dfdcd/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
 
