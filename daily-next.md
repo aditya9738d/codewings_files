@@ -1,3 +1,6 @@
+- **ScanDeviceInfo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/47/4c/fa474cea-21fe-6c1c-b2c7-322199408257/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yb6URSVV)
+- **MuseDash Ex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/63/a9/5663a9e1-6148-afa6-0d0e-43b5298b84f3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JLWveaUC)
+
 - **Swiggy: Food Instamart Dineout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/98/ec/3098ecb9-4642-5d10-6d5d-a0e5f4dae60b/AppIcon_testflight-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IERuiSEL)
 - **Unarchiver - ZIP, RAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/2f/e4/f82fe47d-464e-ccfc-294e-4c87dee226e4/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
 
