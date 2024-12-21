@@ -1,3 +1,5 @@
+- **Gọi Rồng Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b8/a7/f9b8a7c9-8344-4be2-73ca-42d33f72b007/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tJYCW5y5)
+
 - **DWARF®**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/74/20/31742034-6a81-9feb-2663-59ecf9e821df/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2kr5mqHR)
 
 - **nTune - A Music Practice App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/55/43/685543d6-9a80-f63a-e21a-36ea12d56f07/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaZLbEDW)
@@ -196,5 +198,3 @@
 - **荐音1.2.11**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/c4/00/cac4006f-4fec-bb66-19d7-f9b989819e7d/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tkWrbYX3)
 
 - **VOGA LIVE - Global Video Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/70/ea/6270ea6f-4a68-ce73-9666-f2f1268cc9e9/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XQ21gmCB)
-
-- **蓝月亮SFA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/1a/4e/ed1a4ee4-bd2b-e845-0e3d-9dc91a876778/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xAIHzkfB)
