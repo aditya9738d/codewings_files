@@ -1,3 +1,5 @@
+- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
+
 - **Gọi Rồng Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b8/a7/f9b8a7c9-8344-4be2-73ca-42d33f72b007/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tJYCW5y5)
 
 - **DWARF®**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/74/20/31742034-6a81-9feb-2663-59ecf9e821df/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2kr5mqHR)
