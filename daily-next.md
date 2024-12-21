@@ -1,3 +1,7 @@
+- **ACG POWER**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/4f/a1/e24fa101-6a6d-28c3-c182-754d6022703c/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9mKX79mz)
+- **Carly — OBD2 car scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/77/37/76773719-5016-d120-dbf7-bde0109de50b/BMW_Full-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KeT5Rcaa)
+- **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/32/39/b23239ac-513e-062e-7738-36ca708b7c01/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
+
 - **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/ab/90/75ab90d8-5156-9043-c649-edfb978dcee4/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
 - **MP CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/8b/de/4d8bde97-cf01-7b05-c285-8c66cc86b1c5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NqTN0JgK)
 - **Matrix go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/e1/95/05e195d3-8496-93cf-d1a8-6996534a17d4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BX8EObic)
@@ -194,6 +198,3 @@
 - **Mela 5 – AUv3: Synth, FX, MIDI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/f1/42/4ef142fc-2762-5685-4d26-b7f402664540/AppIcon-1x_U007epad-0-0-0-1-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4zbCXvXw)
 
 - **Tenet - A Block Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/60/57/bc6057ff-e9b4-932c-bac1-049db9a90b23/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/O4EOjLt7)
-- **Revolut: Send, spend and save**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/f1/a7/06f1a7ba-2131-2783-7238-13122efbadf8/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/oqrinjQB)
-
-- **Merazine | Discover fashion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/ed/a1/53eda114-9195-650f-37af-ef36d671f79d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VguqBJRW)
