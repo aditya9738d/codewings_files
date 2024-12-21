@@ -411,8 +411,6 @@
 
 - **Joplin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/4a/80/fa4a8027-4b4e-9501-13bf-ca8b891bd1a0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/p5iLVzrG)
 
-- **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/af/0c/62af0c99-e925-43cc-15fd-c53318d18815/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
-
 - **Onewheel Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/04/26/36042674-6f54-3ea7-f826-ffdc4144fdd8/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/erN13tuH)
 - **Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/19/30/9a193029-ed47-7535-96cd-545ac040d6f9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EgZ8sE2P)
 
@@ -658,7 +656,6 @@
 
 - **Ignited - Retro Gaming**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ab/94/efab9499-b264-4410-9be9-daad77f82a8e/IconOrange-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExWvtjcq)
 
-- **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/fb/3a/12fb3a6b-302d-164a-0a60-bc7b0999c9f7/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
 - **Aidoku开源版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ba/9f/d9ba9f19-b0ac-8ef9-1a11-1187bec49e39/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/plbnVA5a)
 
 
@@ -5095,7 +5092,6 @@
 - **7 Brew**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/a4/05/aba405f8-54d7-fd7c-6b5b-3abdb786332b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u0aCrJFD)
 - **uTrading-AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/10/3a/7b103a60-6af0-4038-1e8e-0c5592ebd024/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zFuCHIbI)
 - **Awful - SA Forums browser**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/e5/2d/d5e52dd9-223f-69a8-f420-f787b7f4bae3/rated_five_appicon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/530cS7a7)
-- **M-Sub Movie NextGen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/9b/bc/4a9bbc0e-2f3c-9797-64c3-eb307b97d1d4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1hvzbyWX)
 - **FULiveDemo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ff/08/f8ff081b-2efd-78ab-1c0e-e24e6df167da/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/g1BKCZu7)
 - **Northstar Clinic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/e3/ad/73e3ad54-1b97-a76b-bbb0-7e6345a56d97/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ny7poibM)
 - **小鱼易连XYLink**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/03/36/1b033691-9ddf-a225-2609-390992c2c03c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/I0qR2nXX)
