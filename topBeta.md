@@ -1,3 +1,7 @@
+- **Picsart AI Photo Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/ab/90/75ab90d8-5156-9043-c649-edfb978dcee4/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4gDz5s7)
+- **MP CRM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/8b/de/4d8bde97-cf01-7b05-c285-8c66cc86b1c5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NqTN0JgK)
+- **Matrix go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/e1/95/05e195d3-8496-93cf-d1a8-6996534a17d4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BX8EObic)
+
 - **PeerTube**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/f3/1a/37f31a1f-d2c3-2a4b-87bf-27b9b23e4903/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/62UabDFz)
 - **Bitwarden Password Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/35/23/b83523d7-8d0d-bc34-911b-b63fb94fadb1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/595lFH7U)
 - **Citrix Workspace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/4e/46/d04e467d-6abd-b5da-e6fe-c934c6010a21/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U7tkotNq)
