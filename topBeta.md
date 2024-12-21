@@ -14,7 +14,6 @@
 - **Neuecast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/bc/8c/77bc8c6e-1e85-984b-5d49-51ee5d04c84b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a4bmx5rA)
 - **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/61/cf/1d61cf9c-7b1d-e5a0-c104-54ec99867baf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
 
-- **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/32/39/b23239ac-513e-062e-7738-36ca708b7c01/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
 - **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/8d/fa/2d8dfa8b-cfaf-180f-4716-bfd3e49dfdcd/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
 
 - **M-Sub Movie NextGen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/54/30/49543046-3da4-8d48-7d35-92e8a853c1cc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1hvzbyWX)
@@ -65,7 +64,6 @@
 - **Home Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/fe/cb/3bfecb35-dfb0-6643-20da-7a3d4a61f715/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1AlPbnLZ)
 
 - **eSatsang Dayalbagh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/d6/b5/2bd6b56f-7ff4-97ff-3582-3b757373b717/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RlryJv2c)
-- **Carly — OBD2 car scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/77/37/76773719-5016-d120-dbf7-bde0109de50b/BMW_Full-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KeT5Rcaa)
 
 - **flutter-room-app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/6b/2a/d86b2a43-39df-7020-3949-12e669f2af85/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NzmtvJ6n)
 
@@ -2008,7 +2006,6 @@
 - **豆瓣**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/f9/8e/6cf98eff-c34f-b6ff-3592-78cf275e86ca/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cyaKFpOu)
 - **赛力斯服务平台**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/ce/6c/d1ce6c69-e705-09bf-334b-183b8a6f68fb/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eZeZJ2ce)
 - **Shattered Pixel Dungeon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/66/02/976602a0-9ba3-3e39-9618-ccf1208d22b9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4PWFyask)
-- **ACG POWER**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/b2/74/cab27409-babe-a90e-ffb9-56a1dfc33927/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9mKX79mz)
 - **HENGLINK**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ed/32/f4ed3255-42d4-c64e-5c77-e3c41e42a909/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GqyOZJf4)
 - **Pixcall**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/c3/18/dac31855-d2b9-bdae-2428-75f8f880a431/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NBGdJjB5)
 - **RedPlus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/39/be/7939be29-86ff-945a-4bf9-00889796ec94/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o1JeJiAN)
