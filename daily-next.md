@@ -18,14 +18,12 @@
 - **Baseline - How to get fit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/b7/2d/beb72d7e-ab72-80c6-503a-292f6da0cc81/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3XpiHAwS)
 - **Sleep Cycle - Tracker & Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/9f/02/179f020d-7494-c8fe-d004-e63fdb19d1c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCeANbZi)
 
-- **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/89/bc/d889bc5c-192f-5c3f-67f7-3acf97c30c37/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
 - **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/e4/83/d4e48306-30e2-431a-b096-cb1838c23361/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
 
 - **T-spider検証**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/37/0e/a5370ebd-aa45-87df-5e5d-5695516edd45/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFmmDGxb)
 
 - **Ivory for Mastodon by Tapbots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/19/5b/53195bf0-6538-312d-575b-c24fbf34e55d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AOOy02ZU)
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/56/c7/b756c7ef-f772-b63f-0aaa-030f878f1845/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
-- **Car好錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/7d/8e/aa7d8ebf-0342-026e-3820-2bbfda39ee34/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vjFXiaw0)
 
 - **Sonolus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/42/ee/4242eed2-0b28-3c4f-7b39-f989e4b70e8d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mdFtAf92)
 
@@ -107,7 +105,6 @@
 - **iReal Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/59/8f/c4598fca-a677-e15b-3d49-63ba03b56e54/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s0ijUrAi)
 
 - **VPBank Jarvis SalesApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/88/44/d5884430-e3fe-45e7-f711-14ab571285c6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nlZsButl)
-- **Neuecast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/bc/8c/77bc8c6e-1e85-984b-5d49-51ee5d04c84b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a4bmx5rA)
 - **YakiHonne**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/fc/c3/e2fcc375-8b5d-1c28-7f9b-12419528c01e/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tcXozZIu)
 - **老虎国际**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/58/5f/01585f5a-2cf4-6f4a-2ff5-3167548d45d5/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/27Pw9M0d)
 - **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/85/67/a38567a0-f6b7-0ff9-26ad-efe33c0f572b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
