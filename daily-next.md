@@ -1,9 +1,7 @@
 - **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/32/39/b23239ac-513e-062e-7738-36ca708b7c01/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
 - **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/8d/fa/2d8dfa8b-cfaf-180f-4716-bfd3e49dfdcd/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
 
-- **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/32/39/b23239ac-513e-062e-7738-36ca708b7c01/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
 - **M-Sub Movie NextGen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/54/30/49543046-3da4-8d48-7d35-92e8a853c1cc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1hvzbyWX)
-- **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/8d/fa/2d8dfa8b-cfaf-180f-4716-bfd3e49dfdcd/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
 
 - **Norton 360 Security & VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/4c/20/e34c20fd-b372-5195-95c7-06bf0cb9fb43/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iHcEgAaT)
 - **Mail: Email, Cloud, Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/9a/49/939a49b8-6f92-e5aa-1c3c-f776277056df/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/G04Eq2nO)
