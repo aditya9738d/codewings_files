@@ -1,3 +1,5 @@
+- **Ragnarok M: Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f1/e8/1df1e883-f23c-80fb-bddf-10f9c6f1f098/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ByefEnFN)
+
 - **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
 
 - **ZERO BGMI 3.5.0 - v1.3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/c7/37/c6c737a5-3c58-3697-2b44-b5546f5933fc/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/Jg18mkNd)
@@ -196,5 +198,3 @@
 - **Zera: Your Insightful AI Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/32/d8/2a32d8b4-f77a-dcb8-8a3a-2f5f200ed412/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/HcxShnPY)
 
 - **JB4 Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/40/2b/52402bed-9e3d-8e10-136d-5b8294e23e96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d2yNd4lK)
-
-- **Readwise Reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/44/44/1b4444eb-2318-f9ca-c94d-b0529029540e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NSeQo22d)
