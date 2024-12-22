@@ -1,3 +1,5 @@
+- **Rain Viewer: Weather Radar Map**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/ef/79/4cef799f-88ba-77ec-1286-02ca7caed4d5/app-icon-main-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/h9rbK1et)
+
 - **TALA - Games & Chat Community**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/70/45/f770455d-d4eb-e79b-8c0a-74641ebf0f48/AppIcon-1x_U007ephone-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c7QGP63r)
 
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
@@ -196,5 +198,3 @@
 - **Idle Iktah**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f1035-51a9-d747-53fe-5a1e4800626c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xpg1aGvf)
 
 - **EMOTIV Launcher**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/04/f6/8d04f648-404e-411e-a297-de11d0e754dd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jSL0XTP9)
-- **Dancing Line Community Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b3/ca/dfb3ca96-3d46-0e0f-cc22-0b369dbc00c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6WAJ4rTg)
-- **McDonald's QA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/7e/d0/c57ed0a1-e7d1-0d19-cb88-63a58cf1332d/AppIcon-UK-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ftRKu5mE)
