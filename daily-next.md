@@ -2,6 +2,8 @@
 
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 
+- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
+
 - **Beyond The Gallery**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/5f/46/6f5f467c-1c1c-07d0-cb5c-b80abdefafee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xP55Yawy)
 
 - **Ragnarok M: Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f1/e8/1df1e883-f23c-80fb-bddf-10f9c6f1f098/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ByefEnFN)
@@ -196,5 +198,3 @@
 - **WhatsApp Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/51/93/ac519384-5614-304b-279f-f4f227307f47/AppIconCatalystBetarelbranch-0-0-2x_U007euniversal-0-0-0-4-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/krUFQpyJ)
 
 - **WordPress – Website Builder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/8a/80/fb8a802a-2b06-cc0b-f253-77f965da992a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
-
-- **猫爷TRPG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/65/b8/5265b851-f443-3331-f81a-1b90eeff6bf4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hn7bVbdd)
