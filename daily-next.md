@@ -1,3 +1,5 @@
+- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
+
 - **Beyond The Gallery**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/5f/46/6f5f467c-1c1c-07d0-cb5c-b80abdefafee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xP55Yawy)
 
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
@@ -196,5 +198,3 @@
 - **WordPress – Website Builder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/8a/80/fb8a802a-2b06-cc0b-f253-77f965da992a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
 
 - **猫爷TRPG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/65/b8/5265b851-f443-3331-f81a-1b90eeff6bf4/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hn7bVbdd)
-
-- **Zera: Your Insightful AI Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/32/d8/2a32d8b4-f77a-dcb8-8a3a-2f5f200ed412/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/HcxShnPY)
