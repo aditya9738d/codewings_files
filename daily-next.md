@@ -1,3 +1,5 @@
+- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
+
 - **Futubull-Easy Investment**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b9/57/72b95749-fe2e-1ddc-d0ab-6e3193288ef7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ixikgG2c)
 
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
@@ -196,5 +198,3 @@
 - **TrolleeGo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/55/5e/7e555e6a-1717-4c8f-19ad-a9715b8a3d68/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mVdgaFA0)
 
 - **WhatsApp Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/51/93/ac519384-5614-304b-279f-f4f227307f47/AppIconCatalystBetarelbranch-0-0-2x_U007euniversal-0-0-0-4-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/krUFQpyJ)
-
-- **WordPress – Website Builder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/8a/80/fb8a802a-2b06-cc0b-f253-77f965da992a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AkJQt8Pw)
