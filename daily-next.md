@@ -1,3 +1,5 @@
+- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
+
 - **CHÚ BÉ RỒNG MMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/59/a7/bf59a7cf-c9cc-2eaf-b590-5379064e3305/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JRJeYSGW)
 
 - **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
