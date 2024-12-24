@@ -1,5 +1,7 @@
 - **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
 
+- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
+
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
 
 - **Nubila**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/6f/39/ab6f3900-e529-44db-b420-77ce50c49062/AppIcon-1x_U007ephone-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Ep1Q4mzY)
@@ -195,5 +197,3 @@
 - **Axm Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/32/ac/8c32acd0-6191-823f-b8b3-c9c58fbb5e0b/AppIcon-1x_U007ephone-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Bjz0XZ5v)
 
 - **ZEUS Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/c2/fd/1cc2fd3f-b12d-f53f-fe8d-59e34926d18e/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/vVnODWoi)
-
-- **Tivatrainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/4d/bb/d64dbbf3-9225-f677-6565-ee7678c8bf08/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qkTTNyGj)
