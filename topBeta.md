@@ -8,8 +8,6 @@
 
 - **CHÚ BÉ RỒNG MMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/59/a7/bf59a7cf-c9cc-2eaf-b590-5379064e3305/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JRJeYSGW)
 
-- **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
-
 - **Futubull-Easy Investment**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b9/57/72b95749-fe2e-1ddc-d0ab-6e3193288ef7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ixikgG2c)
 
 - **Beyond The Gallery**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/5f/46/6f5f467c-1c1c-07d0-cb5c-b80abdefafee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xP55Yawy)
