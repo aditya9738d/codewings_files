@@ -1,3 +1,5 @@
+- **fullmoon: local intelligence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/dc/4e/bfdc4e37-d856-1352-bee6-625ae0ffcbba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UdTQvRpf)
+
 - **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
 
 - **Taichu Kash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/82/01/298201e0-4cef-6261-4cbc-e5538816b16f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mKE15ir6)
