@@ -1,3 +1,5 @@
+- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/e3/58/6de358eb-ef76-ab5e-72b0-de20e17d2b39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
+
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
 
 - **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
@@ -195,6 +197,3 @@
 - **AstreOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/2f/3c/f32f3c93-2094-99d2-7c97-a9c5ec9ac2b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZsGh6uYD)
 
 - **F1ATV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/3a/11/3a3a1136-317c-c3b8-a79a-ab3f096ad49c/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NRswe1IZ)
-
-- **Spezi Template Application**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/48/f5/b348f54b-7177-f187-52c2-9fffbb5ae3d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ipEezBY1)
-- **Ngọc Rồng Xưa 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/96/c1/3d96c1b2-0df1-8ee8-2c3c-6856d6b63fa7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAFXDvJq)
