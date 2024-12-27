@@ -1,3 +1,5 @@
+- **Joi Daily Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/7f/49/367f495f-f3a8-ea0e-a1f0-8fe348e7e301/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/HkAuQ3Ep)
+
 - **Desktop Calculator -Real Voice**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/4b/e7/a14be760-512e-99bc-df72-55fe656ec634/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EL3THUQJ)
 
 - **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
