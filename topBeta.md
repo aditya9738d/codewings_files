@@ -1,3 +1,5 @@
+- **Money Manager EX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/9a/78/a59a7871-26d3-b38a-a1cc-a0c7510603a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SYakQaAv)
+
 - **Touchpix - Photo & Video Booth**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/93/25/059325aa-eaa4-f9e4-e932-13fc7281a867/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YxlRld1T)
 
 - **FlexicX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/a8/a2/d2a8a281-be53-16a9-3fe7-224947ff0479/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YSaEbc8C)
