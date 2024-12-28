@@ -1,3 +1,5 @@
+- **Money Manager EX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/9a/78/a59a7871-26d3-b38a-a1cc-a0c7510603a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SYakQaAv)
+
 - **Touchpix - Photo & Video Booth**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/93/25/059325aa-eaa4-f9e4-e932-13fc7281a867/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YxlRld1T)
 
 - **FlexicX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/a8/a2/d2a8a281-be53-16a9-3fe7-224947ff0479/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YSaEbc8C)
@@ -196,5 +198,3 @@
 - **Project Pentjet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/85/67/a38567a0-f6b7-0ff9-26ad-efe33c0f572b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YOm3zrcG)
 - **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b7/57/05b75761-b15c-90a7-9c2b-6104027dac37/AppIcon-primary-primary-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
 - **HiFutureSelf - Future Messages**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/61/a4/bd61a493-cb4d-191b-6c1c-b81cc74fb926/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zRKU0Od8)
-- **Dharamik Signal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/81/f0/1381f019-2fb8-83a8-9677-f9012e295b6a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BuwazBeq)
-- **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/0e/bb/0a0ebbdc-4712-5adb-dace-ff002491b27a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
