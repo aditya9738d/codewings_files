@@ -1,3 +1,7 @@
+- **Notion: Notes, Tasks, AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/bf/4b/71bf4bf7-305b-b6f6-ede4-351d86ab1fd2/AppIconProd-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YSo8aVCS)
+- **Filmbazzan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/c3/06/81c30693-2153-5180-d20d-b95a7653dbc9/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VKzhCAho)
+- **Infloww Login+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/48/c1/2148c132-26da-6573-b29f-8b6a3d66c255/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/V2XUZZ4V)
+
 - **Money Manager EX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/9a/78/a59a7871-26d3-b38a-a1cc-a0c7510603a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SYakQaAv)
 
 - **Touchpix - Photo & Video Booth**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/93/25/059325aa-eaa4-f9e4-e932-13fc7281a867/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YxlRld1T)
