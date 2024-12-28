@@ -1,3 +1,5 @@
+- **FlexicX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/a8/a2/d2a8a281-be53-16a9-3fe7-224947ff0479/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YSaEbc8C)
+
 - **百瑞信托**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/87/e5/c787e53a-f1df-29fa-a0bb-2885bdff2c38/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JdW2Llza)
 
 - **monobank: перший цифровий банк**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/c9/ee/fbc9ee5b-78da-e294-a365-9e1ee6239ad2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iItGnzuZ)
@@ -196,5 +198,3 @@
 - **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/0e/bb/0a0ebbdc-4712-5adb-dace-ff002491b27a/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
 
 - **Darkroom: Photo & Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/ec/29/eaec29e7-5fad-cc62-52c2-b207046759f4/AppIcon-Beta-0-0-1x_U007epad-0-11-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mzR3XvHe)
-- **BubbleGo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/4e/3c/b44e3ce6-c42b-ce41-3107-add29eee45c0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uXuOrE3v)
-- **Texts.com: Unified Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/3c/fa/033cfa2a-a64b-c206-fbdd-acbe528a69a1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j15QDhZq)
