@@ -1,3 +1,5 @@
+- **FluentRead: Language Learning**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/3d/4f/843d4f8e-92c6-6d7b-d9e3-e854152a0094/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/knYPGtHq)
+
 - **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
 
 - **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
@@ -196,5 +198,3 @@
 - **BS Magic tricks**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7c/a4/307ca4bd-524b-dfaa-6f2e-e69aac78cc02/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lSfg23eV)
 - **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/15/ad/ea15ad29-69d6-8b16-3e47-c7ff7d55490c/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
 - **Vivaldi Snapshot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/9b/e5/009be5de-03ca-6598-5e63-926df053c44d/AppIcon-Snapshot-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
-
-- **Dupay Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/72/40/e57240e8-402a-2274-330c-37513c0df7c1/AppIcon_pro-1x_U007ephone-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/LpdH6PGp)
