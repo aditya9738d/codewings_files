@@ -1,3 +1,5 @@
+- **百瑞信托**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/87/e5/c787e53a-f1df-29fa-a0bb-2885bdff2c38/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JdW2Llza)
+
 - **monobank: перший цифровий банк**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/c9/ee/fbc9ee5b-78da-e294-a365-9e1ee6239ad2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iItGnzuZ)
 
 - **Track Shows & Movies - Showly**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/d4/5d/e0d45dd6-2a5d-e581-26c4-09a71730dbed/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UM44YZmM)
@@ -196,5 +198,3 @@
 - **Darkroom: Photo & Video Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/ec/29/eaec29e7-5fad-cc62-52c2-b207046759f4/AppIcon-Beta-0-0-1x_U007epad-0-11-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mzR3XvHe)
 - **BubbleGo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/4e/3c/b44e3ce6-c42b-ce41-3107-add29eee45c0/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uXuOrE3v)
 - **Texts.com: Unified Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/3c/fa/033cfa2a-a64b-c206-fbdd-acbe528a69a1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j15QDhZq)
-- **PocketFi Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/e7/d7/96e7d7a3-ea5b-7750-b6b1-60f92b4fc344/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JSuHKW67)
-- **BS Magic tricks**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7c/a4/307ca4bd-524b-dfaa-6f2e-e69aac78cc02/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lSfg23eV)
