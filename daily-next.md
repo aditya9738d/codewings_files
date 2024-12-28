@@ -1,3 +1,6 @@
+- **Scores for NCAA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/2c/1e/de2c1ec3-c52b-6180-1120-ed049e0abc32/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/jEAY4YBj)
+- **Gallery Found**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/65/fe/cd65fee8-2009-6c99-2bb7-39a60e7c5324/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6QmqrhuW)
+
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
 
 - **Joi Daily Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/7f/49/367f495f-f3a8-ea0e-a1f0-8fe348e7e301/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/HkAuQ3Ep)
