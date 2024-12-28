@@ -1,3 +1,5 @@
+- **monobank: перший цифровий банк**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/c9/ee/fbc9ee5b-78da-e294-a365-9e1ee6239ad2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iItGnzuZ)
+
 - **Track Shows & Movies - Showly**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/d4/5d/e0d45dd6-2a5d-e581-26c4-09a71730dbed/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UM44YZmM)
 
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
@@ -196,5 +198,3 @@
 - **Texts.com: Unified Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/3c/fa/033cfa2a-a64b-c206-fbdd-acbe528a69a1/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j15QDhZq)
 - **PocketFi Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/e7/d7/96e7d7a3-ea5b-7750-b6b1-60f92b4fc344/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JSuHKW67)
 - **BS Magic tricks**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7c/a4/307ca4bd-524b-dfaa-6f2e-e69aac78cc02/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/lSfg23eV)
-- **Moon Player: Play Any Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/15/ad/ea15ad29-69d6-8b16-3e47-c7ff7d55490c/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/jvjbvKYm)
-- **Vivaldi Snapshot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/9b/e5/009be5de-03ca-6598-5e63-926df053c44d/AppIcon-Snapshot-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RHz7zTUB)
