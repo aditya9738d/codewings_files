@@ -1,7 +1,5 @@
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
 
-- **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
-
 - **Collected Notes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d3/28/93d32870-a05b-edb3-ce04-ebff34e7d5d4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mQrabmf9)
 
 - **GoHyper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/79/f2/2c79f2ac-33f9-b080-fc7e-ce99e10db90e/appicon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/u3Wv3Tg4)
@@ -27,8 +25,6 @@
 - **monobank: перший цифровий банк**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/c9/ee/fbc9ee5b-78da-e294-a365-9e1ee6239ad2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iItGnzuZ)
 
 - **Track Shows & Movies - Showly**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/d4/5d/e0d45dd6-2a5d-e581-26c4-09a71730dbed/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UM44YZmM)
-
-- **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
 
 - **FluentRead: Language Learning**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/3d/4f/843d4f8e-92c6-6d7b-d9e3-e854152a0094/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/knYPGtHq)
 
