@@ -1,3 +1,5 @@
+- **Collected Notes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d3/28/93d32870-a05b-edb3-ce04-ebff34e7d5d4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mQrabmf9)
+
 - **GoHyper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/79/f2/2c79f2ac-33f9-b080-fc7e-ce99e10db90e/appicon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/u3Wv3Tg4)
 
 - **Beeper iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/84/24/3d8424ec-7b80-81c7-e312-8d1ea882ead1/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/N5sA5jcJ)
@@ -196,5 +198,3 @@
 
 - **Benji - Life OS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/e9/8b/46e98b18-7f7f-27ad-228a-a767873ac5b0/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7C0EsThx)
 - **Zenmoney: expense tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/fe/29/b3fe29f3-f407-753c-4121-2d5f82ba6fd6/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UNbjeBue)
-
-- **JeeConnect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/2e/b7/402eb784-9e00-a6a4-7c93-cd036cf2d864/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/luZsKILI)
