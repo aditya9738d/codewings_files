@@ -15,8 +15,6 @@
 
 - **Ngoc Rong 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/5d/b8/f75db837-c835-cd4f-c903-7eecc4a32b10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1X7YvQjb)
 
-- **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
-
 - **Notion: Notes, Tasks, AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/bf/4b/71bf4bf7-305b-b6f6-ede4-351d86ab1fd2/AppIconProd-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YSo8aVCS)
 - **Filmbazzan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/c3/06/81c30693-2153-5180-d20d-b95a7653dbc9/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VKzhCAho)
 - **Infloww Login+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/48/c1/2148c132-26da-6573-b29f-8b6a3d66c255/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/V2XUZZ4V)
