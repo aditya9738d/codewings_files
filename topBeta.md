@@ -2,8 +2,6 @@
 
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
 
-- **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
-
 - **Wea**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/3b/c4/cf3bc426-23cf-099e-84ce-22cf632df68c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OMjRPVyN)
 
 - **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
