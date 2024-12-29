@@ -1,5 +1,7 @@
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
 
+- **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
+
 - **Collected Notes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d3/28/93d32870-a05b-edb3-ce04-ebff34e7d5d4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mQrabmf9)
 
 - **GoHyper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/79/f2/2c79f2ac-33f9-b080-fc7e-ce99e10db90e/appicon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/u3Wv3Tg4)
