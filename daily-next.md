@@ -14,6 +14,8 @@
 
 - **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
 
+- **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
+
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
 
 - **Moonlight XrOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/1d/31/b51d31c9-25f3-b5f3-1ccb-4604d8329654/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/poWcaME5)
@@ -196,5 +198,3 @@
 - **Vũ Trụ Ngọc Rồng Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/78/1a/76781ae3-0d96-1372-303e-70025553220f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/o5wcv95n)
 
 - **Grid 2.0 UAT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/ea/87/5fea875c-5023-5c2e-47b0-c7b6d19f0693/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Dv2pvGuI)
-- **CheapCharts - Digital Deals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/86/91/1f86918a-7bdc-48ce-d6fd-18ab754b892e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZGiJbkWU)
-- **Nachos and Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/10/a4/2a10a490-ba32-307e-9557-17f38650afe4/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/doaG1qHl)
