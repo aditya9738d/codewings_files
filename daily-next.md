@@ -6,6 +6,8 @@
 
 - **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
 
+- **ListenNow+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ad/1d/42ad1d78-e7b5-dfef-e077-91bb4444f0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Zl3Z4GG)
+
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
 
 - **Moonlight XrOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/1d/31/b51d31c9-25f3-b5f3-1ccb-4604d8329654/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/poWcaME5)
@@ -196,5 +198,3 @@
 - **ONLINE Ticket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/63/57/02635766-f70b-8237-9844-d7ce8093fd66/AppIcon-online-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YNwwlTvs)
 - **FUS Market Helper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/e5/47/e4e547c5-0de9-ec78-bb5b-6aeffc6be74d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YKTYCk8m)
 - **Trello: organize anything!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/bc/82/19bc82ab-1545-8cb5-c3bf-7f31cc58b8fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cRWMcQsr)
-
-- **淘宝-太好逛了吧**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/a8/c7/eca8c7c8-6ae9-d659-9a5b-dc0a55cd6dc5/AppIcon-0-0-1x_U007emarketing-0-9-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5XzJYzS9)
