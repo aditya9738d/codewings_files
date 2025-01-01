@@ -1,3 +1,5 @@
+- **WeatherWiseBeta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/a3/84/62a38422-1870-d216-4123-e6fb28d05d81/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7VUKuncc)
+
 - **TPG Tapo Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/26/fa/5d26faef-8fbe-5b3a-5e6d-ac5b8341e1f6/AppIcon-Beta-Big-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/urY9qmF1)
 
 - **CoupleWork**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/95/9f/16959f0a-3c36-0624-a9a1-34ea15487b0d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mmcPbZoz)
