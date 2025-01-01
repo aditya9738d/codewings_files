@@ -1,3 +1,5 @@
+- **ClashKing**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/be/1d/2dbe1d75-d593-6f75-65f9-88bdc4e4a29d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6Q8dfnMX)
+
 - **Di2 Button**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/f2/a2/b2f2a217-2f46-e81e-d43b-45cfc86e3170/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/x4RYqjpU)
 
 - **Controller for HomeKit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/3a/53/273a53a2-3355-0ee3-a26c-cd37a67524e0/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/d13q9b1q)
