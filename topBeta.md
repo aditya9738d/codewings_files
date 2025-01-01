@@ -1,3 +1,5 @@
+- **Controller for HomeKit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/3a/53/273a53a2-3355-0ee3-a26c-cd37a67524e0/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/d13q9b1q)
+
 - **هَيْكَل**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/3f/52/493f52c4-9f49-be11-0e58-099c15beac52/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9XvFv3gD)
 
 - **AWS+1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/af/3f/b8af3f69-4d11-c964-4a08-95fb6aeedc1a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hV7fEuUv)
