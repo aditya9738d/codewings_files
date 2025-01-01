@@ -1,3 +1,5 @@
+- **Viscord**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/14/fe/1b14fe84-7404-7ca9-6207-f844cf56b456/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/8vAUeZEr)
+
 - **WeatherWiseBeta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/a3/84/62a38422-1870-d216-4123-e6fb28d05d81/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7VUKuncc)
 
 - **TPG Tapo Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/26/fa/5d26faef-8fbe-5b3a-5e6d-ac5b8341e1f6/AppIcon-Beta-Big-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/urY9qmF1)
@@ -195,5 +197,3 @@
 - **eSatsang Dayalbagh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/d6/b5/2bd6b56f-7ff4-97ff-3582-3b757373b717/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RlryJv2c)
 
 - **flutter-room-app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/6b/2a/d86b2a43-39df-7020-3949-12e669f2af85/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NzmtvJ6n)
-
-- **MedAngle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/87/23/b68723b8-8516-0f85-d45b-1700e2d03550/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1goQB11K)
