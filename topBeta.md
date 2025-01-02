@@ -1,3 +1,5 @@
+- **Smallgram for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/1b/d7/681bd7d3-ddb2-9b66-aaf6-4f1f1dad4aec/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/draQw8Wd)
+
 - **OLEM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/52/1c/a3521c8d-b914-5520-fbd5-ffc4b0a6e3a2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JUzG8bfN)
 
 - **Corner Clock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1f/95/0b1f955b-e318-2720-fc0b-4120e6e6e09c/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/EQ8k9p1B)
