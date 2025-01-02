@@ -1,3 +1,5 @@
+- **OLEM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/52/1c/a3521c8d-b914-5520-fbd5-ffc4b0a6e3a2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JUzG8bfN)
+
 - **Corner Clock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1f/95/0b1f955b-e318-2720-fc0b-4120e6e6e09c/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/EQ8k9p1B)
 
 - **4k-wara**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/be/7a/e5be7afc-9665-551c-7842-0c25a7ff2809/AppIcon-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ugrNTR9G)
@@ -195,5 +197,3 @@
 - **The New York Times: Live News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/02/b3/f602b314-c154-f337-dbac-b855e7566926/release-app-icon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gfiSREAr)
 - **Bí Ẩn Ngọc Long**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/40/43/e240439a-f862-c1df-669f-480945003e04/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/J13hBZfh)
 - **LinePoint**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ed/8e/5aed8e52-d9c1-f61c-00d2-644098874ca1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7erZJwFA)
-
-- **Home Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/fe/cb/3bfecb35-dfb0-6643-20da-7a3d4a61f715/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1AlPbnLZ)
