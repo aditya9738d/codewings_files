@@ -1,3 +1,5 @@
+- **7NRO.COM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2e/b4/9a2eb406-0d17-f922-d5b8-206b0351f87a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S7QnnQ1y)
+
 - **Selene**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/81/9f/9f819f74-770a-02f6-a976-9450e239034e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rAn7WVNx)
 
 - **Clariflo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/dd/cf/51ddcfe2-a1c7-86f0-36de-4805b07e9bcb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TZdHjNJB)
@@ -196,5 +198,3 @@
 - **PPSSPP - PSP emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c0/5a/6bc05ac6-d2da-9527-805e-dfe993c50833/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uNlhFG0m)
 
 - **Grow Guide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/d6/25/1ed625e6-ffd8-4be7-6324-e4906f4f2f3f/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3u3MyeeY)
-
-- **Amazon Location Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/b5/e1/41b5e137-469f-6858-aeeb-932e7d41281a/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zh52FrVh)
