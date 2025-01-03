@@ -1,3 +1,5 @@
+- **Selene**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/81/9f/9f819f74-770a-02f6-a976-9450e239034e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rAn7WVNx)
+
 - **Clariflo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/dd/cf/51ddcfe2-a1c7-86f0-36de-4805b07e9bcb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TZdHjNJB)
 
 - **Fakir Robot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/c1/18/26c1189c-4b07-a18b-5a8c-9fa25cfa8474/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aA0btwFT)
@@ -196,5 +198,3 @@
 - **Grow Guide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/d6/25/1ed625e6-ffd8-4be7-6324-e4906f4f2f3f/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3u3MyeeY)
 
 - **Amazon Location Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/b5/e1/41b5e137-469f-6858-aeeb-932e7d41281a/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zh52FrVh)
-
-- **EZVIZ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/82/6e/61826eab-4fbb-1638-d8d5-ffd36d5752ef/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SwCUkUip)
