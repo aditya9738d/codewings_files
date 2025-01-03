@@ -1,3 +1,5 @@
+- **Trueshot.io**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/5a/18/d75a18f3-d01e-eaba-a5ac-83e5d2b5e359/AppIcon-1x_U007emarketing-0-5-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xC8JXttk)
+
 - **Smallgram for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/1b/d7/681bd7d3-ddb2-9b66-aaf6-4f1f1dad4aec/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/draQw8Wd)
 
 - **OLEM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/52/1c/a3521c8d-b914-5520-fbd5-ffc4b0a6e3a2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/JUzG8bfN)
@@ -195,6 +197,3 @@
 - **SchoolMate – Ace the Day**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d4/d3/93d4d38d-5fda-709c-5398-e6d599c7d064/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WZcoUcHQ)
 
 - **eParaksts mobile DEMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/59/1b/48591be2-82c6-4191-de7f-320deb839b6c/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GzmlvtUs)
-
-- **The New York Times: Live News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/02/b3/f602b314-c154-f337-dbac-b855e7566926/release-app-icon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gfiSREAr)
-- **Bí Ẩn Ngọc Long**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/40/43/e240439a-f862-c1df-669f-480945003e04/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/J13hBZfh)
