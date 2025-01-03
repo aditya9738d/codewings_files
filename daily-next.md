@@ -1,3 +1,5 @@
+- **Pawtect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/cc/04/47cc04dd-a871-ac3f-d84e-12b3735de02a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P2FSQYv7)
+
 - **Game Mâubai Centờ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6e/a1/b76ea1f0-413b-6ca0-94c8-de1157daef1d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dEjCgfJJ)
 
 - **Ngọc Rồng Kame**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/4e/3d/764e3d07-d826-cdd9-c56d-d870b534f6d4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GFF37SdK)
@@ -196,5 +198,3 @@
 
 - **Ivory for Mastodon by Tapbots**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/19/5b/53195bf0-6538-312d-575b-c24fbf34e55d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AOOy02ZU)
 - **달보이스 플러스**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/56/c7/b756c7ef-f772-b63f-0aaa-030f878f1845/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/OJfvaCjH)
-
-- **Sonolus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/42/ee/4242eed2-0b28-3c4f-7b39-f989e4b70e8d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mdFtAf92)
