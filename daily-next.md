@@ -1,3 +1,6 @@
+- **Fakir Robot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/c1/18/26c1189c-4b07-a18b-5a8c-9fa25cfa8474/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aA0btwFT)
+- **Tarmac Trainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/f4/ce/1af4ce24-c495-fd5c-5062-791364dda208/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HT6gSZKH)
+
 - **Game NRO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/82/89/c5828966-3309-1ba9-981b-67ab19955d1f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9VDVJuWZ)
 
 - **Trueshot.io**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/5a/18/d75a18f3-d01e-eaba-a5ac-83e5d2b5e359/AppIcon-1x_U007emarketing-0-5-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xC8JXttk)
@@ -195,5 +198,3 @@
 - **EZVIZ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/82/6e/61826eab-4fbb-1638-d8d5-ffd36d5752ef/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SwCUkUip)
 
 - **Microsoft Excel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/be/fc/dfbefcdc-b02c-5d82-76fe-9e7b4d1357db/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3lIiz1eZ)
-
-- **SchoolMate – Ace the Day**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d4/d3/93d4d38d-5fda-709c-5398-e6d599c7d064/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WZcoUcHQ)
