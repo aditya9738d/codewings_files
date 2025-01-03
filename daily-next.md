@@ -1,3 +1,5 @@
+- **Clariflo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/dd/cf/51ddcfe2-a1c7-86f0-36de-4805b07e9bcb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TZdHjNJB)
+
 - **Fakir Robot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/c1/18/26c1189c-4b07-a18b-5a8c-9fa25cfa8474/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aA0btwFT)
 - **Tarmac Trainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/f4/ce/1af4ce24-c495-fd5c-5062-791364dda208/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HT6gSZKH)
 
@@ -196,5 +198,3 @@
 - **Amazon Location Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/b5/e1/41b5e137-469f-6858-aeeb-932e7d41281a/AppIcon-0-1x_U007epad-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/zh52FrVh)
 
 - **EZVIZ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/82/6e/61826eab-4fbb-1638-d8d5-ffd36d5752ef/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SwCUkUip)
-
-- **Microsoft Excel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/be/fc/dfbefcdc-b02c-5d82-76fe-9e7b4d1357db/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3lIiz1eZ)
