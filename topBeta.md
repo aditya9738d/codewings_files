@@ -1,3 +1,6 @@
+- **Fakir Robot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/c1/18/26c1189c-4b07-a18b-5a8c-9fa25cfa8474/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aA0btwFT)
+- **Tarmac Trainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/f4/ce/1af4ce24-c495-fd5c-5062-791364dda208/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HT6gSZKH)
+
 - **Game NRO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/82/89/c5828966-3309-1ba9-981b-67ab19955d1f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9VDVJuWZ)
 
 - **Trueshot.io**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/5a/18/d75a18f3-d01e-eaba-a5ac-83e5d2b5e359/AppIcon-1x_U007emarketing-0-5-0-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xC8JXttk)
