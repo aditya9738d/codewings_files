@@ -1,3 +1,6 @@
+- **GxMoes Rewards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/34/3a/32343a60-0458-ee31-ac14-d1e8d4799526/AppIconNonProd-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0GHx1Y9x)
+- **趣来达骑手端**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/29/3d/9d293dc2-ea27-83e2-f320-c1aa8125a639/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YgDCecB9)
+
 - **Promise Ring**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/94/5e/40945e48-a054-a1b0-9094-0a1fe41bd7bb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bwq5pZGT)
 - **NRO Cay Cuoc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/bc/29/afbc290d-3a6e-8c0c-1831-d20ceb0b1e93/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tFM8rHj9)
 
