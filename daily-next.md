@@ -1,3 +1,6 @@
+- **GxMoes Rewards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/34/3a/32343a60-0458-ee31-ac14-d1e8d4799526/AppIconNonProd-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0GHx1Y9x)
+- **趣来达骑手端**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/29/3d/9d293dc2-ea27-83e2-f320-c1aa8125a639/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YgDCecB9)
+
 - **Promise Ring**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/94/5e/40945e48-a054-a1b0-9094-0a1fe41bd7bb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bwq5pZGT)
 - **NRO Cay Cuoc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/bc/29/afbc290d-3a6e-8c0c-1831-d20ceb0b1e93/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tFM8rHj9)
 
@@ -195,6 +198,3 @@
 - **Egern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/c6/cd/e9c6cd70-f713-bc17-eccb-844d9d6a5f07/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/AzU6kAzX)
 
 - **iAnyGo-2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/96/5a/6f965a08-90f0-695a-1dd1-2953de7cd833/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fU362zmT)
-- **Test - Service Ape**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/d5/57/d7d5570b-fa31-d2f2-f67b-f03a9c313b24/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v4iAsIiH)
-
-- **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/8c/f4/9a8cf492-49f5-d75a-872f-d02422a5a88d/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
