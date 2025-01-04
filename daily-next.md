@@ -1,3 +1,6 @@
+- **Promise Ring**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/94/5e/40945e48-a054-a1b0-9094-0a1fe41bd7bb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Bwq5pZGT)
+- **NRO Cay Cuoc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/bc/29/afbc290d-3a6e-8c0c-1831-d20ceb0b1e93/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/tFM8rHj9)
+
 - **ally  - personal ai assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7f/e6/a67fe683-0b9a-a8d3-b8f9-3d44f5940941/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VyjHwsMA)
 
 - **超逼真的攻城模拟器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c7/9d/6dc79d96-e3b6-7b59-c534-8793d7d4911a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6DFBjVGU)
@@ -195,5 +198,3 @@
 - **Test - Service Ape**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/d5/57/d7d5570b-fa31-d2f2-f67b-f03a9c313b24/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v4iAsIiH)
 
 - **Mercury for Telegram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/8c/f4/9a8cf492-49f5-d75a-872f-d02422a5a88d/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/4rLEiEzE)
-- **Baseline - How to get fit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/b7/2d/beb72d7e-ab72-80c6-503a-292f6da0cc81/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3XpiHAwS)
-- **Sleep Cycle - Tracker & Sounds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/9f/02/179f020d-7494-c8fe-d004-e63fdb19d1c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tCeANbZi)
