@@ -1,3 +1,5 @@
+- **ally  - personal ai assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7f/e6/a67fe683-0b9a-a8d3-b8f9-3d44f5940941/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VyjHwsMA)
+
 - **超逼真的攻城模拟器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c7/9d/6dc79d96-e3b6-7b59-c534-8793d7d4911a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6DFBjVGU)
 
 - **Hematonix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/a0/0e/aba00ef0-9daa-3032-23ab-67fe9c02be2d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sUgVB62E)
