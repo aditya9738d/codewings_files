@@ -1,3 +1,5 @@
+- **QRExchange Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/69/5d/86695dfa-ad64-c231-3103-73d899765c70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bW1SrKgg)
+
 - **Echoes Indonesian Horror Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/cd/a0/b2cda08d-c6bc-bf50-0749-18187f1ebdbd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/GhM8FjSd)
 
 - **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
@@ -196,5 +198,3 @@
 - **Car好錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/7d/8e/aa7d8ebf-0342-026e-3820-2bbfda39ee34/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vjFXiaw0)
 - **Neuecast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/bc/8c/77bc8c6e-1e85-984b-5d49-51ee5d04c84b/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a4bmx5rA)
 - **TV Time: Track Shows & Movies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/61/cf/1d61cf9c-7b1d-e5a0-c104-54ec99867baf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hjKkDsc4)
-
-- **PropW**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/8d/fa/2d8dfa8b-cfaf-180f-4716-bfd3e49dfdcd/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bM5bTQA6)
