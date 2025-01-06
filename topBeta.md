@@ -1,3 +1,6 @@
+- **Cohord**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/69/bc/a769bcd5-7adf-378b-6b5e-df0f3b9ace9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JBmvED1y)
+- **ZAR - Save & Spend**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/e2/28/41e22889-c258-4190-c3f2-4095cb537e13/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4NB37P6E)
+
 - **QRExchange Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/69/5d/86695dfa-ad64-c231-3103-73d899765c70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bW1SrKgg)
 
 - **Echoes Indonesian Horror Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/cd/a0/b2cda08d-c6bc-bf50-0749-18187f1ebdbd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/GhM8FjSd)
