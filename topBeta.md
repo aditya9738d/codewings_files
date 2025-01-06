@@ -1,3 +1,5 @@
+- **Hoi Sinh Hai Tac**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/f1/e6/a9f1e6a8-4adc-a98a-00df-17d915d7e597/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8gShAbME)
+
 - **Eva-AI assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/69/30/7c6930ee-f65d-95aa-c496-f1adcd43a6e0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7FxMtqSD)
 
 - **Fisheries Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/7b/76/e47b7667-9a76-ebe4-21e5-8ff1b5bab20c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jbrjyvnC)
