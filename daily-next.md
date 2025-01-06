@@ -1,3 +1,5 @@
+- **Eva-AI assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/69/30/7c6930ee-f65d-95aa-c496-f1adcd43a6e0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7FxMtqSD)
+
 - **Fisheries Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/7b/76/e47b7667-9a76-ebe4-21e5-8ff1b5bab20c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jbrjyvnC)
 
 - **Notestudio - note taking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/94/85/5b948527-bbba-dfe2-bdec-b5691ac27063/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/adzHmR32)
@@ -196,5 +198,3 @@
 
 - **Carly — OBD2 car scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/77/37/76773719-5016-d120-dbf7-bde0109de50b/BMW_Full-0-0-1x_U007epad-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KeT5Rcaa)
 - **NFS Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/32/39/b23239ac-513e-062e-7738-36ca708b7c01/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lk0wqbWm)
-
-- **ACG POWER**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/4f/a1/e24fa101-6a6d-28c3-c182-754d6022703c/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9mKX79mz)
