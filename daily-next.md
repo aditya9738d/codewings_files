@@ -1,3 +1,7 @@
+- **Kora™**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c7/55/e3c755ae-24f5-a0ea-e856-9ab06e4c4eaa/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RgpbJk6Q)
+- **FDGGFFF**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/77/14/a0771480-aaa6-f25f-f98d-98ded7b7d027/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PADxCDbN)
+- **Abigail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/fb/bd/89fbbd2f-cb76-1274-ff5a-c6787103ac3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m9exqwdT)
+
 - **Hoi Sinh Hai Tac**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/f1/e6/a9f1e6a8-4adc-a98a-00df-17d915d7e597/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8gShAbME)
 
 - **Eva-AI assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/69/30/7c6930ee-f65d-95aa-c496-f1adcd43a6e0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7FxMtqSD)
@@ -194,6 +198,3 @@
 - **MuseDash Ex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/63/a9/5663a9e1-6148-afa6-0d0e-43b5298b84f3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JLWveaUC)
 
 - **Swiggy: Food Instamart Dineout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/98/ec/3098ecb9-4642-5d10-6d5d-a0e5f4dae60b/AppIcon_testflight-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/IERuiSEL)
-- **Unarchiver - ZIP, RAR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/2f/e4/f82fe47d-464e-ccfc-294e-4c87dee226e4/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jXX0Wyfy)
-
-- **shmarket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/22/5f/69225fc7-d9b3-f4c3-d673-8669abccb83c/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aYFe9Ayp)
