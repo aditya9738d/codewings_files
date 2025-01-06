@@ -1,3 +1,5 @@
+- **N2 Freelancer Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/6b/2d/af6b2db6-a68f-ce5a-da8a-26ae7c280929/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H3nUNsMw)
+
 - **mobile onIine**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/4a/6e/f64a6e94-3038-80c0-8de4-343027abf65b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bKMDCs24)
 
 - **Kora™**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c7/55/e3c755ae-24f5-a0ea-e856-9ab06e4c4eaa/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RgpbJk6Q)
@@ -195,6 +197,3 @@
 - **DWARF®**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/74/20/31742034-6a81-9feb-2663-59ecf9e821df/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2kr5mqHR)
 
 - **nTune - A Music Practice App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/55/43/685543d6-9a80-f63a-e21a-36ea12d56f07/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/GaZLbEDW)
-
-- **ScanDeviceInfo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/47/4c/fa474cea-21fe-6c1c-b2c7-322199408257/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yb6URSVV)
-- **MuseDash Ex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/63/a9/5663a9e1-6148-afa6-0d0e-43b5298b84f3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JLWveaUC)
