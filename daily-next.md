@@ -1,5 +1,7 @@
 - **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
 
+- **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
+
 - **Fasikl Felix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/51/2a/41512a23-9faf-1b83-6ea6-ff28482928d7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UFFMmfHM)
 
 - **創世紀戰M：阿修羅計畫**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/0e/33/820e330a-3c5c-2eb6-ff47-4291ac8320c8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2g6qcsxq)
@@ -195,5 +197,3 @@
 - **Ragnarok M: Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f1/e8/1df1e883-f23c-80fb-bddf-10f9c6f1f098/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ByefEnFN)
 
 - **ZERO BGMI 3.5.0 - v1.3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/c7/37/c6c737a5-3c58-3697-2b44-b5546f5933fc/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/Jg18mkNd)
-
-- **Rain Viewer: Weather Radar Map**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/ef/79/4cef799f-88ba-77ec-1286-02ca7caed4d5/app-icon-main-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/h9rbK1et)
