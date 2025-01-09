@@ -1,3 +1,7 @@
+- **UZen Trade**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/68/9a/71689a66-c5b1-3c26-247e-7d5490c42de2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NTawgJN3)
+- **Pranos Hologlass**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/08/1f/ae081f3c-4636-31be-c3db-7ba3f77074bc/AppIcon-0-0-1x_U007ephone-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdPxmRcD)
+- **Ploppy Pairs - Matching Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/35/39/3035398e-37f2-56b8-09f3-a3f013875497/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/bQWgjGvw)
+
 - **Etheria:Restart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/b3/d9/03b3d9a9-b979-9217-981b-3d257252d03f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S95ay8gS)
 
 - **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
@@ -193,5 +197,3 @@
 - **Beyond The Gallery**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/5f/46/6f5f467c-1c1c-07d0-cb5c-b80abdefafee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xP55Yawy)
 
 - **Ragnarok M: Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/f1/e8/1df1e883-f23c-80fb-bddf-10f9c6f1f098/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/ByefEnFN)
-
-- **ZERO BGMI 3.5.0 - v1.3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/c7/37/c6c737a5-3c58-3697-2b44-b5546f5933fc/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/Jg18mkNd)
