@@ -1,3 +1,5 @@
+- **Võ Lâm Việt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/90/2b/c4902b18-0160-6477-76ae-4f9e8752139e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sxAV6Wyw)
+
 - **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
 
 - **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
@@ -195,5 +197,3 @@
 - **fullmoon: local intelligence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/dc/4e/bfdc4e37-d856-1352-bee6-625ae0ffcbba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UdTQvRpf)
 
 - **Taichu Kash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/82/01/298201e0-4cef-6261-4cbc-e5538816b16f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mKE15ir6)
-
-- **Reeder Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/fe/94/a1fe9489-e68e-a67c-d71b-12df4e159f5c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eURlDIH1)
