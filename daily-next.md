@@ -1,3 +1,5 @@
+- **Black Beacon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/56/20/10562078-419d-ef1d-9b0d-096e8d41bc8a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T1yXeV3C)
+
 - **Mem 2.0 Alpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/c3/30/7cc3309b-3fd8-428b-7b53-48a0d12ab230/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BD3PEkyq)
 
 - **Võ Lâm Việt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/90/2b/c4902b18-0160-6477-76ae-4f9e8752139e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sxAV6Wyw)
@@ -195,5 +197,3 @@
 - **Luma 3D Capture**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/4f/5e/134f5ed0-f44b-ddaf-e119-789d19e002fd/AppIcon-0-1x_U007emarketing-0-0-0-11-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AvhTle5L)
 
 - **Turrit - Plus Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/ee/a1/49eea1ed-c423-caa5-2dc1-2b91aac87a8a/AppIconLLC-0-0-1x_U007emarketing-0-8-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/e1v9O7jC)
-
-- **fullmoon: local intelligence**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/dc/4e/bfdc4e37-d856-1352-bee6-625ae0ffcbba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UdTQvRpf)
