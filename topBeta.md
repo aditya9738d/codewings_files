@@ -1,3 +1,5 @@
+- **Black Beacon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/56/20/10562078-419d-ef1d-9b0d-096e8d41bc8a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T1yXeV3C)
+
 - **Mem 2.0 Alpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/c3/30/7cc3309b-3fd8-428b-7b53-48a0d12ab230/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BD3PEkyq)
 
 - **Võ Lâm Việt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/90/2b/c4902b18-0160-6477-76ae-4f9e8752139e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sxAV6Wyw)
