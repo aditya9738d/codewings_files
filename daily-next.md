@@ -1,3 +1,5 @@
+- **Pedaltrak**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/c3/cd/e3c3cd17-a1e8-f081-8f0b-13fad35adf27/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/egCVT2cJ)
+
 - **網金江湖錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/11/2a/3b112a8b-2b58-573f-45cf-0d28b5a88963/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MbxqdjUt)
 
 - **Floor Plan - CamPlan AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/ab/4f/4bab4f17-a86f-8043-2e54-7d13b5adc3ce/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/x4qVrhGE)
@@ -195,5 +197,3 @@
 - **Soloist Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d8/8d/93d88dfd-e508-b8df-096c-4be61e68c2c2/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/e5kC48WD)
 
 - **Nubila**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/6f/39/ab6f3900-e529-44db-b420-77ce50c49062/AppIcon-1x_U007ephone-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Ep1Q4mzY)
-
-- **CHÚ BÉ RỒNG MMO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/59/a7/bf59a7cf-c9cc-2eaf-b590-5379064e3305/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JRJeYSGW)
