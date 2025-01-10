@@ -6,8 +6,6 @@
 
 - **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
 
-- **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
-
 - **mudeo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/d5/81/21d581d8-d2af-812e-a2af-eb451a8f10b0/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/bFMuz9bd)
 
 - **Pedaltrak**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/c3/cd/e3c3cd17-a1e8-f081-8f0b-13fad35adf27/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/egCVT2cJ)
@@ -23,8 +21,6 @@
 - **Ploppy Pairs - Matching Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/35/39/3035398e-37f2-56b8-09f3-a3f013875497/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/bQWgjGvw)
 
 - **Etheria:Restart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/b3/d9/03b3d9a9-b979-9217-981b-3d257252d03f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S95ay8gS)
-
-- **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
 
 - **Fasikl Felix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/51/2a/41512a23-9faf-1b83-6ea6-ff28482928d7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UFFMmfHM)
 
