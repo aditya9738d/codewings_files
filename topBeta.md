@@ -1,5 +1,7 @@
 - **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
 
+- **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
+
 - **Bullink**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/73/cd/e073cd3a-8ca4-9973-c581-8555dac6fafc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pMzssUAF)
 - **Exolve Voice Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/7d/37/a27d3745-247e-db99-4a79-3fa86b114677/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pnzP2EQg)
 
