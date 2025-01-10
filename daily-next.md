@@ -1,5 +1,7 @@
 - **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
 
+- **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
+
 - **mudeo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/d5/81/21d581d8-d2af-812e-a2af-eb451a8f10b0/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/bFMuz9bd)
 
 - **Pedaltrak**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/c3/cd/e3c3cd17-a1e8-f081-8f0b-13fad35adf27/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/egCVT2cJ)
@@ -195,5 +197,3 @@
 - **Taichu Kash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/82/01/298201e0-4cef-6261-4cbc-e5538816b16f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mKE15ir6)
 
 - **Reeder Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/fe/94/a1fe9489-e68e-a67c-d71b-12df4e159f5c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eURlDIH1)
-
-- **Ruya: Ascension**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/c4/1b/3ec41bf7-19c6-f732-4d1c-198c77e244cb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KTwvM4vx)
