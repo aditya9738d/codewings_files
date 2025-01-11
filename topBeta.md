@@ -1,3 +1,6 @@
+- **Chơi Game Ngọc Rồng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/f7/b5/def7b5e1-a335-0962-1b4f-a1842f4f57af/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DI31UlNW)
+- **Hitstalt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/37/d9/9c37d964-fc54-5d9f-e155-6a63cd0f9b1c/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6CajeAZm)
+
 - **Back in Black - Immersive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/83/c2/3e83c2be-0ab0-6f6b-2122-ae9188f05176/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/h5eMTHdM)
 
 - **FCloud :Text to speech**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/3e/c1/893ec1c7-1770-ee11-4c86-d5a38f315550/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hpqcwjAE)
