@@ -1,5 +1,7 @@
 - **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
 
+- **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
+
 - **DRiP Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/f8/bc/2af8bcd3-44f3-8df8-c5e6-4119eadd4b92/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b8uTwht4)
 
 - **biodiversityX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/fa/45/e1fa45b7-918d-7c65-5685-cc7f739b3550/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AtBN8zR4)
@@ -196,5 +198,3 @@
 - **monobank: перший цифровий банк**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/c9/ee/fbc9ee5b-78da-e294-a365-9e1ee6239ad2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/iItGnzuZ)
 
 - **Track Shows & Movies - Showly**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/d4/5d/e0d45dd6-2a5d-e581-26c4-09a71730dbed/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UM44YZmM)
-
-- **FluentRead: Language Learning**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/3d/4f/843d4f8e-92c6-6d7b-d9e3-e854152a0094/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/knYPGtHq)
