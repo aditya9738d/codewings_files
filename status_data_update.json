@@ -1,0 +1,352 @@
+{
+  "apps": [
+    {
+      "name": "CardPointers for Credit Cards",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 24,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:24:20.085Z"
+        }
+      ]
+    },
+    {
+      "name": "CareCam Pro",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 9,
+          "status": "error",
+          "timestamp": "2025-01-11T13:24:21.478Z"
+        }
+      ]
+    },
+    {
+      "name": "DANCEIMPERIAL",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 5,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:26:20.649Z"
+        }
+      ]
+    },
+    {
+      "name": "DPN Client",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 16,
+          "status": "open",
+          "timestamp": "2025-01-11T13:26:21.856Z"
+        }
+      ]
+    },
+    {
+      "name": "DanceDuel : Dance Game",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 14,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:27:39.918Z"
+        }
+      ]
+    },
+    {
+      "name": "Dating CA",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 83,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:27:41.154Z"
+        }
+      ]
+    },
+    {
+      "name": "DubaiVerseCup",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 9,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:27:43.172Z"
+        }
+      ]
+    },
+    {
+      "name": "EchoStream",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 8,
+          "status": "open",
+          "timestamp": "2025-01-11T13:27:44.735Z"
+        }
+      ]
+    },
+    {
+      "name": "Elite Hoops Basketball",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 7,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:27:45.894Z"
+        }
+      ]
+    },
+    {
+      "name": "Envi - AI environments",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 6,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:27:47.183Z"
+        }
+      ]
+    },
+    {
+      "name": "EveryWord Study",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 15,
+          "status": "open",
+          "timestamp": "2025-01-11T13:27:48.723Z"
+        }
+      ]
+    },
+    {
+      "name": "Expert Tips for Xcode",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 12,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:27:49.960Z"
+        }
+      ]
+    },
+    {
+      "name": "FTwitter - Simply Tweet",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 49,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:27:51.160Z"
+        }
+      ]
+    },
+    {
+      "name": "FitX - AI Personal Trainer",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 8,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:27:52.400Z"
+        }
+      ]
+    },
+    {
+      "name": "FlowNote, Notes & To-Do Lists",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 6,
+          "status": "full",
+          "timestamp": "2025-01-11T13:27:54.533Z"
+        }
+      ]
+    },
+    {
+      "name": "Flux | iOS Theming",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 15,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:27:55.771Z"
+        }
+      ]
+    },
+    {
+      "name": "Frameo",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 17,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:27:57.076Z"
+        }
+      ]
+    },
+    {
+      "name": "Ginst - Horror Music Game",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 9,
+          "status": "open",
+          "timestamp": "2025-01-11T13:27:58.408Z"
+        }
+      ]
+    },
+    {
+      "name": "Gordian Seed Tool",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 15,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:27:59.636Z"
+        }
+      ]
+    },
+    {
+      "name": "Grab-It!",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 6,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:28:00.825Z"
+        }
+      ]
+    },
+    {
+      "name": "HHMobile",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 23,
+          "status": "not accepting",
+          "timestamp": "2025-01-11T13:28:01.986Z"
+        }
+      ]
+    },
+    {
+      "name": "HOC VIEN SHINOBI",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 21,
+          "status": "error",
+          "timestamp": "2025-01-11T13:28:03.069Z"
+        }
+      ]
+    },
+    {
+      "name": "HSO LENGEND",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 13,
+          "status": "error",
+          "timestamp": "2025-01-11T13:28:14.026Z"
+        }
+      ]
+    },
+    {
+      "name": "HYPH",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 5,
+          "status": "error",
+          "timestamp": "2025-01-11T13:28:15.122Z"
+        }
+      ]
+    },
+    {
+      "name": "N2 Freelancer Companion",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 5,
+          "status": "open",
+          "timestamp": "2025-01-11T13:28:42.452Z"
+        },
+        {
+          "clickCount": 5,
+          "status": "open",
+          "timestamp": "2025-01-11T13:29:06.303Z"
+        }
+      ]
+    },
+    {
+      "name": "Pranos Hologlass",
+      "betaAvailable": "unknown",
+      "lastChecked": "2025-01-11T13:51:23.571Z",
+      "clickCount": 0,
+      "history": [
+        {
+          "clickCount": 10,
+          "status": "open",
+          "timestamp": "2025-01-11T13:28:41.177Z"
+        },
+        {
+          "clickCount": 10,
+          "status": "open",
+          "timestamp": "2025-01-11T13:29:05.142Z"
+        }
+      ]
+    }
+  ]
+}
