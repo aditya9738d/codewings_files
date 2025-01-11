@@ -2,106 +2,295 @@
   {
     "apps": [
       {
-        "name": "Blue Detect",
-        "betaAvailable": "unknown",
-        "lastChecked": "2025-01-11T14:11:52.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 9,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T14:10:54.354Z"
-          }
-        ]
-      },
-      {
-        "name": "Flüsterwald: Das Story Game",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T14:11:52.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 5,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T14:11:41.132Z"
-          }
-        ]
-      },
-      {
-        "name": "Hornet - Queer Social Network",
-        "betaAvailable": "unknown",
-        "lastChecked": "2025-01-11T14:11:52.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 15,
-            "status": "open",
-            "timestamp": "2025-01-11T14:11:00.689Z"
-          }
-        ]
-      },
-      {
-        "name": "LocalTV+",
+        "name": "Adobe Scan: PDF & OCR Scanner",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T14:11:52.209Z",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
         "clickCount": 0,
         "history": [
           {
-            "clickCount": 55,
+            "clickCount": 73,
             "status": "open",
-            "timestamp": "2025-01-11T14:11:36.799Z"
+            "timestamp": "2025-01-11T14:13:10.216Z"
           }
         ]
       },
       {
-        "name": "SAG Demo",
-        "betaAvailable": "unknown",
-        "lastChecked": "2025-01-11T14:11:52.209Z",
+        "name": "Audiobookshelf App",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
         "clickCount": 0,
         "history": [
           {
-            "clickCount": 6,
-            "status": "open",
-            "timestamp": "2025-01-11T14:10:55.741Z"
+            "clickCount": 7,
+            "status": "full",
+            "timestamp": "2025-01-11T14:13:06.436Z"
           }
         ]
       },
       {
-        "name": "Userscripts",
+        "name": "CPM VN",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T14:11:52.209Z",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
         "clickCount": 0,
         "history": [
           {
             "clickCount": 13,
             "status": "open",
-            "timestamp": "2025-01-11T14:11:42.536Z"
+            "timestamp": "2025-01-11T14:12:53.058Z"
           }
         ]
       },
       {
-        "name": "World Clock Time Zone Widgets",
+        "name": "Call of Duty: Mobile Beta Test",
+        "betaAvailable": "error",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 633,
+            "status": "error",
+            "timestamp": "2025-01-11T14:13:19.318Z"
+          }
+        ]
+      },
+      {
+        "name": "Code App",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 67,
+            "status": "full",
+            "timestamp": "2025-01-11T14:13:12.865Z"
+          }
+        ]
+      },
+      {
+        "name": "Discord - Talk, Play, Hang Out",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 72,
+            "status": "full",
+            "timestamp": "2025-01-11T14:13:43.735Z"
+          }
+        ]
+      },
+      {
+        "name": "Elestrals TCG",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T14:11:52.209Z",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
         "clickCount": 0,
         "history": [
           {
-            "clickCount": 11,
+            "clickCount": 7,
             "status": "open",
-            "timestamp": "2025-01-11T14:11:35.043Z"
+            "timestamp": "2025-01-11T14:13:42.572Z"
           }
         ]
       },
       {
-        "name": "foobar2000",
-        "betaAvailable": "unknown",
-        "lastChecked": "2025-01-11T14:11:52.209Z",
+        "name": "ExpressVPN: Fast & Secure VPN",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
         "clickCount": 0,
         "history": [
           {
-            "clickCount": 9,
+            "clickCount": 10,
+            "status": "full",
+            "timestamp": "2025-01-11T14:13:09.019Z"
+          }
+        ]
+      },
+      {
+        "name": "Flexi-BLE",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 18,
+            "status": "open",
+            "timestamp": "2025-01-11T14:12:55.991Z"
+          }
+        ]
+      },
+      {
+        "name": "Google Play Console",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 401,
             "status": "not accepting",
-            "timestamp": "2025-01-11T14:11:02.019Z"
+            "timestamp": "2025-01-11T14:12:59.585Z"
+          }
+        ]
+      },
+      {
+        "name": "Groq",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 34,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T14:13:00.928Z"
+          }
+        ]
+      },
+      {
+        "name": "Hezel for Apple Music",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 23,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T14:13:02.267Z"
+          }
+        ]
+      },
+      {
+        "name": "Homey — A better smart home",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T14:13:07.791Z"
+          }
+        ]
+      },
+      {
+        "name": "Joplin",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "open",
+            "timestamp": "2025-01-11T14:13:11.600Z"
+          }
+        ]
+      },
+      {
+        "name": "Matterport",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 6,
+            "status": "open",
+            "timestamp": "2025-01-11T14:13:03.650Z"
+          }
+        ]
+      },
+      {
+        "name": "Messenger",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 705,
+            "status": "full",
+            "timestamp": "2025-01-11T14:12:54.623Z"
+          }
+        ]
+      },
+      {
+        "name": "Microsoft Authenticator",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": []
+      },
+      {
+        "name": "Microsoft Defender: Security",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 50,
+            "status": "open",
+            "timestamp": "2025-01-11T14:13:05.024Z"
+          }
+        ]
+      },
+      {
+        "name": "OEX",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 60,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T14:12:57.282Z"
+          }
+        ]
+      },
+      {
+        "name": "Obsidian - Connected Notes",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "open",
+            "timestamp": "2025-01-11T14:13:20.580Z"
+          }
+        ]
+      },
+      {
+        "name": "WebSSH - SysAdmin Tools",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 17,
+            "status": "open",
+            "timestamp": "2025-01-11T14:13:18.083Z"
+          }
+        ]
+      },
+      {
+        "name": "eufy Security",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 26,
+            "status": "open",
+            "timestamp": "2025-01-11T14:13:14.672Z"
+          }
+        ]
+      },
+      {
+        "name": "哔哩哔哩-弹幕番剧直播高清视频",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T14:13:45.547Z",
+        "clickCount": 0,
+        "history": [
+          {
+            "clickCount": 99,
+            "status": "full",
+            "timestamp": "2025-01-11T14:13:16.476Z"
           }
         ]
       }
