@@ -2,9 +2,100 @@
   {
     "apps": [
       {
+        "name": "Airtel TV",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 53,
+        "history": [
+          {
+            "clickCount": 53,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:56:16.652827"
+          }
+        ]
+      },
+      {
+        "name": "Akuvox SmartPlus",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 13,
+        "history": [
+          {
+            "clickCount": 13,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T16:00:39.302092"
+          }
+        ]
+      },
+      {
+        "name": "Aloompa AccessControl",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:54:13.108357"
+          }
+        ]
+      },
+      {
+        "name": "Anime Junction",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 20,
+        "history": [
+          {
+            "clickCount": 20,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:54:13.709394"
+          }
+        ]
+      },
+      {
+        "name": "Applaydu family games",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 6,
+        "history": [
+          {
+            "clickCount": 6,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:14.504729"
+          }
+        ]
+      },
+      {
+        "name": "ArcGIS QuickCapture",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:22.024535"
+          }
+        ]
+      },
+      {
+        "name": "Ayoba",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:15.105265"
+          }
+        ]
+      },
+      {
         "name": "Beaver Pocket",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.922Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 8,
         "history": [
           {
@@ -15,9 +106,35 @@
         ]
       },
       {
+        "name": "Been & Done Travel Tracker Map",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:21.349548"
+          }
+        ]
+      },
+      {
+        "name": "Bienenvölker",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 17,
+        "history": [
+          {
+            "clickCount": 17,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:54:25.104526"
+          }
+        ]
+      },
+      {
         "name": "BopSyncNetPOC",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 5,
         "history": [
           {
@@ -28,9 +145,22 @@
         ]
       },
       {
+        "name": "CT Connect",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 8,
+        "history": [
+          {
+            "clickCount": 8,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:54:17.066521"
+          }
+        ]
+      },
+      {
         "name": "Cash App",
         "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 53,
         "history": [
           {
@@ -41,9 +171,87 @@
         ]
       },
       {
+        "name": "Celestia - Space Simulator",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 16,
+        "history": [
+          {
+            "clickCount": 16,
+            "status": "open",
+            "timestamp": "2025-01-11T15:54:20.438480"
+          }
+        ]
+      },
+      {
+        "name": "CosmicAI",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "open",
+            "timestamp": "2025-01-11T15:50:02.589825"
+          }
+        ]
+      },
+      {
+        "name": "Cult‎",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 12,
+        "history": [
+          {
+            "clickCount": 12,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:49:57.699952"
+          }
+        ]
+      },
+      {
+        "name": "DZain KSA",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 15,
+        "history": [
+          {
+            "clickCount": 15,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:23.105263"
+          }
+        ]
+      },
+      {
+        "name": "DreamsChat",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 12,
+        "history": [
+          {
+            "clickCount": 12,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:18.006045"
+          }
+        ]
+      },
+      {
+        "name": "Dropbox: Files & Photo Storage",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "full",
+            "timestamp": "2025-01-11T15:58:15.505269"
+          }
+        ]
+      },
+      {
         "name": "Embibe Classroom Preprod",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 7,
         "history": [
           {
@@ -54,9 +262,48 @@
         ]
       },
       {
+        "name": "Euro Cup 2024 Score Predictor",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 6,
+        "history": [
+          {
+            "clickCount": 6,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:49:59.356172"
+          }
+        ]
+      },
+      {
+        "name": "FleetCommander℠",
+        "betaAvailable": "error",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 33,
+        "history": [
+          {
+            "clickCount": 33,
+            "status": "error",
+            "timestamp": "2025-01-11T15:50:11.263214"
+          }
+        ]
+      },
+      {
+        "name": "Games Console",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 401,
+        "history": [
+          {
+            "clickCount": 401,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:13.413026"
+          }
+        ]
+      },
+      {
         "name": "GentlemanClub",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 160,
         "history": [
           {
@@ -67,9 +314,48 @@
         ]
       },
       {
+        "name": "Giftr - GIF Maker",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 68,
+        "history": [
+          {
+            "clickCount": 68,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:16.104453"
+          }
+        ]
+      },
+      {
+        "name": "GitHub HyperList",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 113,
+        "history": [
+          {
+            "clickCount": 113,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:56:12.318067"
+          }
+        ]
+      },
+      {
+        "name": "Google Chrome",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 893,
+        "history": [
+          {
+            "clickCount": 893,
+            "status": "full",
+            "timestamp": "2025-01-11T15:50:17.529392"
+          }
+        ]
+      },
+      {
         "name": "Grammo - Learn English Grammar",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 12,
         "history": [
           {
@@ -80,9 +366,35 @@
         ]
       },
       {
+        "name": "HISTORY Vault",
+        "betaAvailable": "error",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 220,
+        "history": [
+          {
+            "clickCount": 220,
+            "status": "error",
+            "timestamp": "2025-01-11T15:54:15.935679"
+          }
+        ]
+      },
+      {
+        "name": "Hidden Objects - The Journey",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 11,
+        "history": [
+          {
+            "clickCount": 11,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:56:24.303428"
+          }
+        ]
+      },
+      {
         "name": "HitVPN - fast & secure VPN",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 34,
         "history": [
           {
@@ -93,9 +405,22 @@
         ]
       },
       {
+        "name": "Hải Tặc Echo",
+        "betaAvailable": "error",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "error",
+            "timestamp": "2025-01-11T15:56:14.445798"
+          }
+        ]
+      },
+      {
         "name": "Innov8tifIDV",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 5,
         "history": [
           {
@@ -108,7 +433,7 @@
       {
         "name": "Intune Company Portal",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 7,
         "history": [
           {
@@ -121,7 +446,7 @@
       {
         "name": "Kaspersky Passwords & Docs",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 18,
         "history": [
           {
@@ -132,9 +457,22 @@
         ]
       },
       {
+        "name": "Lifetime Movie Club",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 24,
+        "history": [
+          {
+            "clickCount": 24,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:11.806725"
+          }
+        ]
+      },
+      {
         "name": "MB Test",
         "betaAvailable": "error",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 35,
         "history": [
           {
@@ -145,9 +483,61 @@
         ]
       },
       {
+        "name": "MRI Agile Mobile",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 9,
+        "history": [
+          {
+            "clickCount": 9,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:11.957408"
+          }
+        ]
+      },
+      {
+        "name": "Malachite by crystall1nedev",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 10,
+        "history": [
+          {
+            "clickCount": 10,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:20.005555"
+          }
+        ]
+      },
+      {
+        "name": "Matrixport",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 71,
+        "history": [
+          {
+            "clickCount": 71,
+            "status": "open",
+            "timestamp": "2025-01-11T15:54:21.558263"
+          }
+        ]
+      },
+      {
+        "name": "MiScreen Test",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 11,
+        "history": [
+          {
+            "clickCount": 11,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:50:16.024051"
+          }
+        ]
+      },
+      {
         "name": "MindNode – Mind Map & Outline",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 13,
         "history": [
           {
@@ -160,7 +550,7 @@
       {
         "name": "Minecraft Education",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 345,
         "history": [
           {
@@ -171,9 +561,22 @@
         ]
       },
       {
+        "name": "Mirá Precios",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:50:14.439916"
+          }
+        ]
+      },
+      {
         "name": "Mobiliz Yetkili Servis",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 6,
         "history": [
           {
@@ -186,7 +589,7 @@
       {
         "name": "MyRaif",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 6,
         "history": [
           {
@@ -197,9 +600,310 @@
         ]
       },
       {
+        "name": "Mystro Driver: Drive & Deliver",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 58,
+        "history": [
+          {
+            "clickCount": 58,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:18.622755"
+          }
+        ]
+      },
+      {
+        "name": "NewStore Associate App",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 8,
+        "history": [
+          {
+            "clickCount": 8,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:23.060012"
+          }
+        ]
+      },
+      {
+        "name": "Nuki Smart Lock",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 9,
+        "history": [
+          {
+            "clickCount": 9,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:20.821954"
+          }
+        ]
+      },
+      {
+        "name": "Onto",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 19,
+        "history": [
+          {
+            "clickCount": 19,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:58:18.503290"
+          }
+        ]
+      },
+      {
+        "name": "Orbot",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 6,
+        "history": [
+          {
+            "clickCount": 6,
+            "status": "open",
+            "timestamp": "2025-01-11T15:50:06.034746"
+          }
+        ]
+      },
+      {
+        "name": "Outmarch",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 11,
+        "history": [
+          {
+            "clickCount": 11,
+            "status": "open",
+            "timestamp": "2025-01-11T15:49:48.500814"
+          },
+          {
+            "clickCount": 11,
+            "status": "open",
+            "timestamp": "2025-01-11T15:49:51.033151"
+          }
+        ]
+      },
+      {
+        "name": "Pashouses Sales Portal",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 6,
+        "history": [
+          {
+            "clickCount": 6,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:14.005746"
+          }
+        ]
+      },
+      {
+        "name": "Photoshop Elements",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 27,
+        "history": [
+          {
+            "clickCount": 27,
+            "status": "open",
+            "timestamp": "2025-01-11T15:49:54.631920"
+          }
+        ]
+      },
+      {
+        "name": "Pixelborn",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 13,
+        "history": [
+          {
+            "clickCount": 13,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:56:21.904300"
+          }
+        ]
+      },
+      {
+        "name": "Planet Peanut - Make Math Fun",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 12,
+        "history": [
+          {
+            "clickCount": 12,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:58:20.446471"
+          }
+        ]
+      },
+      {
+        "name": "Player Epic IRB Trial",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 26,
+        "history": [
+          {
+            "clickCount": 26,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:54:19.767286"
+          }
+        ]
+      },
+      {
+        "name": "Polity - Online Role Playing",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:54:20.911295"
+          }
+        ]
+      },
+      {
+        "name": "PolyFling",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 11,
+        "history": [
+          {
+            "clickCount": 11,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:58:12.603938"
+          }
+        ]
+      },
+      {
+        "name": "Power Automate",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 21,
+        "history": [
+          {
+            "clickCount": 21,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:24.805616"
+          }
+        ]
+      },
+      {
+        "name": "QLCV QB",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:49:45.151336"
+          },
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:49:48.989256"
+          }
+        ]
+      },
+      {
+        "name": "Simple Utils",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 36,
+        "history": [
+          {
+            "clickCount": 36,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:58:19.002288"
+          }
+        ]
+      },
+      {
+        "name": "SkyFire - VPN",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 19,
+        "history": [
+          {
+            "clickCount": 19,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:19.924975"
+          }
+        ]
+      },
+      {
+        "name": "Smart-ID demo",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 12,
+        "history": [
+          {
+            "clickCount": 12,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:19.330518"
+          }
+        ]
+      },
+      {
+        "name": "Snapchat",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 4324,
+        "history": [
+          {
+            "clickCount": 4324,
+            "status": "full",
+            "timestamp": "2025-01-11T15:49:46.645313"
+          },
+          {
+            "clickCount": 4324,
+            "status": "full",
+            "timestamp": "2025-01-11T15:49:49.990975"
+          }
+        ]
+      },
+      {
+        "name": "Staff2",
+        "betaAvailable": "error",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "error",
+            "timestamp": "2025-01-11T15:56:12.870992"
+          }
+        ]
+      },
+      {
+        "name": "SupaPro-UAT",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 10,
+        "history": [
+          {
+            "clickCount": 10,
+            "status": "open",
+            "timestamp": "2025-01-11T15:50:04.248219"
+          }
+        ]
+      },
+      {
+        "name": "TP-Link Aginet",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "open",
+            "timestamp": "2025-01-11T15:54:24.346680"
+          }
+        ]
+      },
+      {
         "name": "TV 2 Sport",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 5,
         "history": [
           {
@@ -210,9 +914,22 @@
         ]
       },
       {
+        "name": "Tapatalk - 200,000+ Forums",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 8,
+        "history": [
+          {
+            "clickCount": 8,
+            "status": "open",
+            "timestamp": "2025-01-11T15:54:19.274074"
+          }
+        ]
+      },
+      {
         "name": "Target",
         "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 11,
         "history": [
           {
@@ -223,9 +940,100 @@
         ]
       },
       {
+        "name": "TeamPay",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 9,
+        "history": [
+          {
+            "clickCount": 9,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:23.705482"
+          }
+        ]
+      },
+      {
+        "name": "The Cursed Land",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 9,
+        "history": [
+          {
+            "clickCount": 9,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:54:14.257713"
+          }
+        ]
+      },
+      {
+        "name": "Untitled Podcast App",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 45,
+        "history": [
+          {
+            "clickCount": 45,
+            "status": "open",
+            "timestamp": "2025-01-11T15:50:09.859656"
+          }
+        ]
+      },
+      {
+        "name": "VPN ExpressVPN - Fast & Secure",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 670,
+        "history": [
+          {
+            "clickCount": 670,
+            "status": "full",
+            "timestamp": "2025-01-11T15:58:20.873622"
+          }
+        ]
+      },
+      {
+        "name": "VPN by Private Internet Access",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 25,
+        "history": [
+          {
+            "clickCount": 25,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:17.446855"
+          }
+        ]
+      },
+      {
+        "name": "Vega Pos",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "open",
+            "timestamp": "2025-01-11T15:54:15.504303"
+          }
+        ]
+      },
+      {
+        "name": "Vice Nation",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:54:16.506038"
+          }
+        ]
+      },
+      {
         "name": "Vimcal: Calendar and Schedule",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 5,
         "history": [
           {
@@ -236,9 +1044,165 @@
         ]
       },
       {
+        "name": "Wipr 2",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 23,
+        "history": [
+          {
+            "clickCount": 23,
+            "status": "full",
+            "timestamp": "2025-01-11T15:58:22.521919"
+          }
+        ]
+      },
+      {
+        "name": "Woacomic",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:17.905432"
+          }
+        ]
+      },
+      {
+        "name": "appgefahren News",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:50:12.816475"
+          }
+        ]
+      },
+      {
+        "name": "asensei",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 11,
+        "history": [
+          {
+            "clickCount": 11,
+            "status": "open",
+            "timestamp": "2025-01-11T15:50:00.984193"
+          }
+        ]
+      },
+      {
+        "name": "beautydemo",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 11,
+        "history": [
+          {
+            "clickCount": 11,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:16.114052"
+          }
+        ]
+      },
+      {
+        "name": "chainzarena-mbox",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 6,
+        "history": [
+          {
+            "clickCount": 6,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:56:23.615154"
+          }
+        ]
+      },
+      {
+        "name": "dfcu Investment Clubs",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:56:22.499173"
+          }
+        ]
+      },
+      {
+        "name": "eParkin",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 9,
+        "history": [
+          {
+            "clickCount": 9,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:54:23.652032"
+          }
+        ]
+      },
+      {
+        "name": "iAppStore",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 39,
+        "history": [
+          {
+            "clickCount": 39,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:13.727917"
+          }
+        ]
+      },
+      {
+        "name": "Виртуальный Ассистент",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 13,
+        "history": [
+          {
+            "clickCount": 13,
+            "status": "open",
+            "timestamp": "2025-01-11T15:54:14.906615"
+          }
+        ]
+      },
+      {
+        "name": "中储智运货主",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:21.474379"
+          }
+        ]
+      },
+      {
+        "name": "事线 - 串事成线",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 9,
+        "history": [
+          {
+            "clickCount": 9,
+            "status": "open",
+            "timestamp": "2025-01-11T15:49:56.127656"
+          }
+        ]
+      },
+      {
         "name": "云宝加速器",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 49,
         "history": [
           {
@@ -249,15 +1213,129 @@
         ]
       },
       {
+        "name": "在宥",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 6,
+        "history": [
+          {
+            "clickCount": 6,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:50:07.622409"
+          }
+        ]
+      },
+      {
+        "name": "引力域",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 6,
+        "history": [
+          {
+            "clickCount": 6,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:54:23.080601"
+          }
+        ]
+      },
+      {
+        "name": "微信输入法",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 20,
+        "history": [
+          {
+            "clickCount": 20,
+            "status": "open",
+            "timestamp": "2025-01-11T15:58:24.152892"
+          }
+        ]
+      },
+      {
+        "name": "愛博思雲校 108",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:54:26.047141"
+          }
+        ]
+      },
+      {
+        "name": "抖音",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 457,
+        "history": [
+          {
+            "clickCount": 457,
+            "status": "open",
+            "timestamp": "2025-01-11T15:54:18.104415"
+          }
+        ]
+      },
+      {
+        "name": "秀3D",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:54:22.511098"
+          }
+        ]
+      },
+      {
+        "name": "秒剪 - 微信官方剪辑工具",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 9,
+        "history": [
+          {
+            "clickCount": 9,
+            "status": "open",
+            "timestamp": "2025-01-11T15:49:50.367982"
+          },
+          {
+            "clickCount": 9,
+            "status": "open",
+            "timestamp": "2025-01-11T15:49:52.053536"
+          }
+        ]
+      },
+      {
         "name": "采宝联盟",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:45:15.923Z",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
         "clickCount": 7,
         "history": [
           {
             "clickCount": 7,
             "status": "open",
             "timestamp": "2025-01-11T15:29:13.519Z"
+          }
+        ]
+      },
+      {
+        "name": "魔塔之传说",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T16:00:40.110Z",
+        "clickCount": 8,
+        "history": [
+          {
+            "clickCount": 8,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:49:52.069077"
+          },
+          {
+            "clickCount": 8,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:49:53.070631"
           }
         ]
       }
