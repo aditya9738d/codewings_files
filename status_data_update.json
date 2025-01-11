@@ -2,1042 +2,262 @@
   {
     "apps": [
       {
-        "name": "3DNA Link",
+        "name": "Beaver Pocket",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 10,
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 8,
         "history": [
           {
-            "clickCount": 10,
+            "clickCount": 8,
             "status": "open",
-            "timestamp": "2025-01-11T15:07:14.927Z"
+            "timestamp": "2025-01-11T15:29:17.609Z"
           }
         ]
       },
       {
-        "name": "A1 Toolbox",
+        "name": "BopSyncNetPOC",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 25,
-        "history": [
-          {
-            "clickCount": 25,
-            "status": "open",
-            "timestamp": "2025-01-11T15:14:24.896735"
-          }
-        ]
-      },
-      {
-        "name": "AGEphone Cloud",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 18,
-        "history": [
-          {
-            "clickCount": 18,
-            "status": "open",
-            "timestamp": "2025-01-11T15:06:58.049Z"
-          }
-        ]
-      },
-      {
-        "name": "Abelian Pro",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 7,
-        "history": [
-          {
-            "clickCount": 7,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:10.361Z"
-          }
-        ]
-      },
-      {
-        "name": "Abilition Rise",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
         "clickCount": 5,
         "history": [
           {
             "clickCount": 5,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:14:22.788172"
-          }
-        ]
-      },
-      {
-        "name": "Airveep",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 10,
-        "history": [
-          {
-            "clickCount": 10,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:11:12.246955"
-          }
-        ]
-      },
-      {
-        "name": "Alpenglow: Sunset Prediction",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 16,
-        "history": [
-          {
-            "clickCount": 16,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:11:16.746497"
-          }
-        ]
-      },
-      {
-        "name": "Amazon Location Demo",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 10,
             "status": "open",
-            "timestamp": "2025-01-11T15:07:17.185Z"
+            "timestamp": "2025-01-11T15:29:19.097Z"
           }
         ]
       },
       {
-        "name": "Aura Browser",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 50,
-        "history": [
-          {
-            "clickCount": 50,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:05.636Z"
-          }
-        ]
-      },
-      {
-        "name": "Baseline - How to get fit",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 2,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:10.508Z"
-          }
-        ]
-      },
-      {
-        "name": "BeDrive",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 7,
-        "history": [
-          {
-            "clickCount": 7,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:14:16.618080"
-          }
-        ]
-      },
-      {
-        "name": "Block Blast！",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 2,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:13.818Z"
-          }
-        ]
-      },
-      {
-        "name": "Bí Ẩn Ngọc Long",
-        "betaAvailable": "error",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 0,
-            "status": "error",
-            "timestamp": "2025-01-11T15:07:20.574Z"
-          }
-        ]
-      },
-      {
-        "name": "Caffeine++",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "name": "Cash App",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
         "clickCount": 53,
         "history": [
           {
             "clickCount": 53,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:14:12.057288"
+            "status": "full",
+            "timestamp": "2025-01-11T15:29:21.305Z"
           }
         ]
       },
       {
-        "name": "Center Beta",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 23,
-        "history": [
-          {
-            "clickCount": 23,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:11:16.145350"
-          }
-        ]
-      },
-      {
-        "name": "Crafted Pour",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 8,
-        "history": [
-          {
-            "clickCount": 8,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:14:21.452321"
-          }
-        ]
-      },
-      {
-        "name": "DS Music - Synology群晖NAS音乐播放器",
+        "name": "Embibe Classroom Preprod",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 25,
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 7,
         "history": [
           {
-            "clickCount": 25,
+            "clickCount": 7,
             "status": "open",
-            "timestamp": "2025-01-11T15:11:11.636314"
+            "timestamp": "2025-01-11T15:29:38.934Z"
           }
         ]
       },
       {
-        "name": "Days Since: Quit Habit Tracker",
+        "name": "GentlemanClub",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 160,
+        "history": [
+          {
+            "clickCount": 160,
+            "status": "open",
+            "timestamp": "2025-01-11T15:29:22.922Z"
+          }
+        ]
+      },
+      {
+        "name": "Grammo - Learn English Grammar",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 12,
+        "history": [
+          {
+            "clickCount": 12,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:29:30.210Z"
+          }
+        ]
+      },
+      {
+        "name": "HitVPN - fast & secure VPN",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 34,
+        "history": [
+          {
+            "clickCount": 34,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:29:44.184Z"
+          }
+        ]
+      },
+      {
+        "name": "Innov8tifIDV",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
         "clickCount": 5,
         "history": [
           {
             "clickCount": 5,
             "status": "open",
-            "timestamp": "2025-01-11T15:14:15.845778"
+            "timestamp": "2025-01-11T15:29:25.885Z"
           }
         ]
       },
       {
-        "name": "E-Signing JCV",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 17,
-        "history": [
-          {
-            "clickCount": 17,
-            "status": "open",
-            "timestamp": "2025-01-11T15:14:17.252323"
-          }
-        ]
-      },
-      {
-        "name": "EZVIZ",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 0,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:17.902Z"
-          }
-        ]
-      },
-      {
-        "name": "Float Remote",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 31,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:11.543Z"
-          }
-        ]
-      },
-      {
-        "name": "GeoGroups",
+        "name": "Intune Company Portal",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:29:34.581Z"
+          }
+        ]
+      },
+      {
+        "name": "Kaspersky Passwords & Docs",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
         "clickCount": 18,
         "history": [
           {
             "clickCount": 18,
             "status": "not accepting",
-            "timestamp": "2025-01-11T15:07:13.443Z"
+            "timestamp": "2025-01-11T15:29:33.133Z"
           }
         ]
       },
       {
-        "name": "Grow Guide",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 0,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:16.728Z"
-          }
-        ]
-      },
-      {
-        "name": "HamHub-你的私人云影专家",
-        "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 6,
-        "history": [
-          {
-            "clickCount": 6,
-            "status": "full",
-            "timestamp": "2025-01-11T15:07:11.991Z"
-          }
-        ]
-      },
-      {
-        "name": "Heat — Ask Anything",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 124,
-        "history": [
-          {
-            "clickCount": 124,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:02.769Z"
-          }
-        ]
-      },
-      {
-        "name": "HiCoffee - Caffeine Tracker",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 5,
-        "history": [
-          {
-            "clickCount": 5,
-            "status": "open",
-            "timestamp": "2025-01-11T15:14:17.947095"
-          }
-        ]
-      },
-      {
-        "name": "HolyGrails",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 9,
-        "history": [
-          {
-            "clickCount": 9,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:11:20.129332"
-          }
-        ]
-      },
-      {
-        "name": "Home Assistant",
-        "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 30,
-            "status": "full",
-            "timestamp": "2025-01-11T15:07:21.792Z"
-          }
-        ]
-      },
-      {
-        "name": "HomeCharger",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 13,
-        "history": [
-          {
-            "clickCount": 13,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:21.146Z"
-          }
-        ]
-      },
-      {
-        "name": "Ivory for Mastodon by Tapbots",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 6,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:12.549Z"
-          }
-        ]
-      },
-      {
-        "name": "KMON: World of Kogaea",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 7,
-        "history": [
-          {
-            "clickCount": 7,
-            "status": "open",
-            "timestamp": "2025-01-11T15:14:19.681144"
-          }
-        ]
-      },
-      {
-        "name": "Keyboard Shortcuts - OneTap",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 41,
-        "history": [
-          {
-            "clickCount": 41,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:01.212Z"
-          }
-        ]
-      },
-      {
-        "name": "LIGA TV",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 5,
-        "history": [
-          {
-            "clickCount": 5,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:11:10.046522"
-          }
-        ]
-      },
-      {
-        "name": "LinePoint",
-        "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 0,
-            "status": "full",
-            "timestamp": "2025-01-11T15:07:21.054Z"
-          }
-        ]
-      },
-      {
-        "name": "Memorize - Learn and Remember",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 7,
-        "history": [
-          {
-            "clickCount": 7,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:14:23.747649"
-          }
-        ]
-      },
-      {
-        "name": "Microsoft Excel",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 86,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:18.195Z"
-          }
-        ]
-      },
-      {
-        "name": "Moments - GIF Your Life",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 15,
-        "history": [
-          {
-            "clickCount": 15,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:14:13.240181"
-          }
-        ]
-      },
-      {
-        "name": "Monal - XMPP chat",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 8,
-        "history": [
-          {
-            "clickCount": 8,
-            "status": "open",
-            "timestamp": "2025-01-11T15:14:12.647047"
-          }
-        ]
-      },
-      {
-        "name": "Mornin Key",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 6,
-        "history": [
-          {
-            "clickCount": 6,
-            "status": "open",
-            "timestamp": "2025-01-11T15:11:08.048021"
-          }
-        ]
-      },
-      {
-        "name": "Nothing X",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 8,
-        "history": [
-          {
-            "clickCount": 8,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:07:26.421Z"
-          }
-        ]
-      },
-      {
-        "name": "Oooh: Official Group Chats",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 10,
-        "history": [
-          {
-            "clickCount": 10,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:07:19.670Z"
-          }
-        ]
-      },
-      {
-        "name": "PPSSPP - PSP emulator",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 298,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:16.101Z"
-          }
-        ]
-      },
-      {
-        "name": "Pandemic 8 Ball Pool",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 940,
-        "history": [
-          {
-            "clickCount": 940,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:11:19.494664"
-          }
-        ]
-      },
-      {
-        "name": "Particulars",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 12,
-        "history": [
-          {
-            "clickCount": 12,
-            "status": "open",
-            "timestamp": "2025-01-11T15:14:25.493172"
-          }
-        ]
-      },
-      {
-        "name": "Password Boss Password Manager",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 6,
-        "history": [
-          {
-            "clickCount": 6,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:07.329Z"
-          }
-        ]
-      },
-      {
-        "name": "Payy: USDC Wallet",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 9,
-        "history": [
-          {
-            "clickCount": 9,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:11:18.081631"
-          }
-        ]
-      },
-      {
-        "name": "Proton VPN: Fast & Secure",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 233,
-        "history": [
-          {
-            "clickCount": 233,
-            "status": "open",
-            "timestamp": "2025-01-11T15:14:14.601762"
-          }
-        ]
-      },
-      {
-        "name": "Read Trial",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 6,
-        "history": [
-          {
-            "clickCount": 6,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:07:25.011Z"
-          }
-        ]
-      },
-      {
-        "name": "Rippple for Trakt",
-        "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 17,
-        "history": [
-          {
-            "clickCount": 17,
-            "status": "full",
-            "timestamp": "2025-01-11T15:11:12.901791"
-          }
-        ]
-      },
-      {
-        "name": "Rumble Beans",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 31,
-        "history": [
-          {
-            "clickCount": 31,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:11:14.355069"
-          }
-        ]
-      },
-      {
-        "name": "SSL VPN",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 50,
-        "history": [
-          {
-            "clickCount": 50,
-            "status": "open",
-            "timestamp": "2025-01-11T15:11:17.559422"
-          }
-        ]
-      },
-      {
-        "name": "SchoolMate – Ace the Day",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 20,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:18.827Z"
-          }
-        ]
-      },
-      {
-        "name": "SelfElite",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 19,
-        "history": [
-          {
-            "clickCount": 19,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:14:24.311476"
-          }
-        ]
-      },
-      {
-        "name": "Sicoob",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 13,
-        "history": [
-          {
-            "clickCount": 13,
-            "status": "open",
-            "timestamp": "2025-01-11T15:14:13.981430"
-          }
-        ]
-      },
-      {
-        "name": "Sleep Cycle - Tracker & Sounds",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 7,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:11.013Z"
-          }
-        ]
-      },
-      {
-        "name": "Snap2Gif",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 26,
-        "history": [
-          {
-            "clickCount": 26,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:08.817Z"
-          }
-        ]
-      },
-      {
-        "name": "Sonolus",
-        "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 29,
-            "status": "full",
-            "timestamp": "2025-01-11T15:07:13.186Z"
-          }
-        ]
-      },
-      {
-        "name": "Sticker Maker Studio",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 59,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:15.027Z"
-          }
-        ]
-      },
-      {
-        "name": "T-spider検証",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 0,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:11.988Z"
-          }
-        ]
-      },
-      {
-        "name": "The New York Times: Live News",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 3,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:20.236Z"
-          }
-        ]
-      },
-      {
-        "name": "Tidus Wallet",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 6,
-        "history": [
-          {
-            "clickCount": 6,
-            "status": "open",
-            "timestamp": "2025-01-11T15:11:13.502687"
-          }
-        ]
-      },
-      {
-        "name": "Trading 212",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 26,
-        "history": [
-          {
-            "clickCount": 26,
-            "status": "open",
-            "timestamp": "2025-01-11T15:14:15.204845"
-          }
-        ]
-      },
-      {
-        "name": "Tuttii Beta",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 25,
-        "history": [
-          {
-            "clickCount": 25,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:18.184Z"
-          }
-        ]
-      },
-      {
-        "name": "UTM Virtual Machines",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 51,
-        "history": [
-          {
-            "clickCount": 51,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:11:15.545672"
-          }
-        ]
-      },
-      {
-        "name": "Weather and Climate Tracker",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 7,
-        "history": [
-          {
-            "clickCount": 7,
-            "status": "open",
-            "timestamp": "2025-01-11T15:06:59.526Z"
-          }
-        ]
-      },
-      {
-        "name": "WiFi Setup",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 90,
-        "history": [
-          {
-            "clickCount": 90,
-            "status": "open",
-            "timestamp": "2025-01-11T15:14:22.148014"
-          }
-        ]
-      },
-      {
-        "name": "Windows App Mobile Preview",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 1644,
-        "history": [
-          {
-            "clickCount": 1644,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:11:14.947281"
-          }
-        ]
-      },
-      {
-        "name": "Yadira",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 5,
-        "history": [
-          {
-            "clickCount": 5,
-            "status": "open",
-            "timestamp": "2025-01-11T15:11:20.947348"
-          }
-        ]
-      },
-      {
-        "name": "eGrocer Partner",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 10,
-        "history": [
-          {
-            "clickCount": 10,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:23.591Z"
-          }
-        ]
-      },
-      {
-        "name": "eParaksts mobile DEMO",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
-        "history": [
-          {
-            "clickCount": 1,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:19.349Z"
-          }
-        ]
-      },
-      {
-        "name": "eSchoool",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 10,
-        "history": [
-          {
-            "clickCount": 10,
-            "status": "open",
-            "timestamp": "2025-01-11T15:11:18.673426"
-          }
-        ]
-      },
-      {
-        "name": "iCountdown",
-        "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 244,
-        "history": [
-          {
-            "clickCount": 244,
-            "status": "not accepting",
-            "timestamp": "2025-01-11T15:07:04.171Z"
-          }
-        ]
-      },
-      {
-        "name": "iOiO New",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 7,
-        "history": [
-          {
-            "clickCount": 7,
-            "status": "open",
-            "timestamp": "2025-01-11T15:14:20.449924"
-          }
-        ]
-      },
-      {
-        "name": "winTwins",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 21,
-        "history": [
-          {
-            "clickCount": 21,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:27.973Z"
-          }
-        ]
-      },
-      {
-        "name": "一生足迹 · 记录一生轨迹 - 旅行运动打卡地图",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 8,
-        "history": [
-          {
-            "clickCount": 8,
-            "status": "open",
-            "timestamp": "2025-01-11T15:07:16.816Z"
-          }
-        ]
-      },
-      {
-        "name": "微信读书",
-        "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 5,
-        "history": [
-          {
-            "clickCount": 5,
-            "status": "full",
-            "timestamp": "2025-01-11T15:11:10.945892"
-          }
-        ]
-      },
-      {
-        "name": "慧通管家-做好资金管理",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 7,
-        "history": [
-          {
-            "clickCount": 7,
-            "status": "open",
-            "timestamp": "2025-01-11T15:11:09.445480"
-          }
-        ]
-      },
-      {
-        "name": "涂涂大湿",
-        "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 21,
-        "history": [
-          {
-            "clickCount": 21,
-            "status": "open",
-            "timestamp": "2025-01-11T15:11:08.627838"
-          }
-        ]
-      },
-      {
-        "name": "霸王的梦想",
+        "name": "MB Test",
         "betaAvailable": "error",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 5,
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 35,
         "history": [
           {
-            "clickCount": 5,
+            "clickCount": 35,
             "status": "error",
-            "timestamp": "2025-01-11T15:14:18.406679"
+            "timestamp": "2025-01-11T15:29:28.694Z"
           }
         ]
       },
       {
-        "name": "달보이스 플러스",
+        "name": "MindNode – Mind Map & Outline",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:15:16.209Z",
-        "clickCount": 0,
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 13,
         "history": [
           {
-            "clickCount": 34,
+            "clickCount": 13,
             "status": "open",
-            "timestamp": "2025-01-11T15:07:13.021Z"
+            "timestamp": "2025-01-11T15:29:24.273Z"
+          }
+        ]
+      },
+      {
+        "name": "Minecraft Education",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 345,
+        "history": [
+          {
+            "clickCount": 345,
+            "status": "open",
+            "timestamp": "2025-01-11T15:29:42.765Z"
+          }
+        ]
+      },
+      {
+        "name": "Mobiliz Yetkili Servis",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 6,
+        "history": [
+          {
+            "clickCount": 6,
+            "status": "open",
+            "timestamp": "2025-01-11T15:29:31.760Z"
+          }
+        ]
+      },
+      {
+        "name": "MyRaif",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 6,
+        "history": [
+          {
+            "clickCount": 6,
+            "status": "open",
+            "timestamp": "2025-01-11T15:29:40.444Z"
+          }
+        ]
+      },
+      {
+        "name": "TV 2 Sport",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:29:27.380Z"
+          }
+        ]
+      },
+      {
+        "name": "Target",
+        "betaAvailable": "full",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 11,
+        "history": [
+          {
+            "clickCount": 11,
+            "status": "full",
+            "timestamp": "2025-01-11T15:29:15.077Z"
+          }
+        ]
+      },
+      {
+        "name": "Vimcal: Calendar and Schedule",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:29:36.072Z"
+          }
+        ]
+      },
+      {
+        "name": "云宝加速器",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 49,
+        "history": [
+          {
+            "clickCount": 49,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:29:37.476Z"
+          }
+        ]
+      },
+      {
+        "name": "采宝联盟",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:30:30.440Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "open",
+            "timestamp": "2025-01-11T15:29:13.519Z"
           }
         ]
       }
