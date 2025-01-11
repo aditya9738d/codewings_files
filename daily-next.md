@@ -1,3 +1,6 @@
+- **Chơi Game Ngọc Rồng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/f7/b5/def7b5e1-a335-0962-1b4f-a1842f4f57af/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DI31UlNW)
+- **Hitstalt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/37/d9/9c37d964-fc54-5d9f-e155-6a63cd0f9b1c/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6CajeAZm)
+
 - **Back in Black - Immersive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/83/c2/3e83c2be-0ab0-6f6b-2122-ae9188f05176/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/h5eMTHdM)
 
 - **FCloud :Text to speech**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/3e/c1/893ec1c7-1770-ee11-4c86-d5a38f315550/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hpqcwjAE)
@@ -194,7 +197,3 @@
 - **Gallery Found**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/65/fe/cd65fee8-2009-6c99-2bb7-39a60e7c5324/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6QmqrhuW)
 
 - **Joi Daily Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/7f/49/367f495f-f3a8-ea0e-a1f0-8fe348e7e301/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/HkAuQ3Ep)
-
-- **Desktop Calculator -Real Voice**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/4b/e7/a14be760-512e-99bc-df72-55fe656ec634/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EL3THUQJ)
-
-- **Memly.social**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/3b/98/963b9836-4002-b3ae-ed72-ecab52524b7a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yGAcblQk)
