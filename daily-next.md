@@ -1,3 +1,5 @@
+- **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
+
 - **Guitar Chops**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/63/17/e46317fd-97ac-d287-ac9f-0bbc5eb5c614/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aPqqSvwd)
 
 - **Mem - AI Notes, Search & Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/c3/30/7cc3309b-3fd8-428b-7b53-48a0d12ab230/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BD3PEkyq)
@@ -195,6 +197,3 @@
 
 - **Memly.social**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/3b/98/963b9836-4002-b3ae-ed72-ecab52524b7a/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yGAcblQk)
 - **NRO SUN VIP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/c4/70/6fc470af-e3e3-ad28-4f79-4606183def58/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nJgrjHE5)
-
-- **Brokenithm Controller**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/8f/ba/288fbab9-1900-091b-7563-b1cdb7a54ba6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U6kwvETm)
-- **BeeDee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/86/ab/1486ab0e-bba5-0835-d3d8-6948b04626e0/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/gRD2UqTC)
