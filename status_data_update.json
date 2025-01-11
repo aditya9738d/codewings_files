@@ -4,7 +4,7 @@
       {
         "name": "3DNA Link",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 10,
         "history": [
           {
@@ -15,9 +15,22 @@
         ]
       },
       {
+        "name": "A1 Toolbox",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 25,
+        "history": [
+          {
+            "clickCount": 25,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:24.896735"
+          }
+        ]
+      },
+      {
         "name": "AGEphone Cloud",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 18,
         "history": [
           {
@@ -30,7 +43,7 @@
       {
         "name": "Abelian Pro",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 7,
         "history": [
           {
@@ -41,9 +54,22 @@
         ]
       },
       {
+        "name": "Abilition Rise",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:14:22.788172"
+          }
+        ]
+      },
+      {
         "name": "Airveep",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 10,
         "history": [
           {
@@ -56,7 +82,7 @@
       {
         "name": "Alpenglow: Sunset Prediction",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 16,
         "history": [
           {
@@ -69,7 +95,7 @@
       {
         "name": "Amazon Location Demo",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -82,7 +108,7 @@
       {
         "name": "Aura Browser",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 50,
         "history": [
           {
@@ -95,7 +121,7 @@
       {
         "name": "Baseline - How to get fit",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -106,9 +132,22 @@
         ]
       },
       {
+        "name": "BeDrive",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:14:16.618080"
+          }
+        ]
+      },
+      {
         "name": "Block Blast！",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -121,7 +160,7 @@
       {
         "name": "Bí Ẩn Ngọc Long",
         "betaAvailable": "error",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -132,9 +171,22 @@
         ]
       },
       {
+        "name": "Caffeine++",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 53,
+        "history": [
+          {
+            "clickCount": 53,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:14:12.057288"
+          }
+        ]
+      },
+      {
         "name": "Center Beta",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 23,
         "history": [
           {
@@ -145,9 +197,22 @@
         ]
       },
       {
+        "name": "Crafted Pour",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 8,
+        "history": [
+          {
+            "clickCount": 8,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:14:21.452321"
+          }
+        ]
+      },
+      {
         "name": "DS Music - Synology群晖NAS音乐播放器",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 25,
         "history": [
           {
@@ -158,9 +223,35 @@
         ]
       },
       {
+        "name": "Days Since: Quit Habit Tracker",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:15.845778"
+          }
+        ]
+      },
+      {
+        "name": "E-Signing JCV",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 17,
+        "history": [
+          {
+            "clickCount": 17,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:17.252323"
+          }
+        ]
+      },
+      {
         "name": "EZVIZ",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -173,7 +264,7 @@
       {
         "name": "Float Remote",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -186,7 +277,7 @@
       {
         "name": "GeoGroups",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 18,
         "history": [
           {
@@ -199,7 +290,7 @@
       {
         "name": "Grow Guide",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -212,7 +303,7 @@
       {
         "name": "HamHub-你的私人云影专家",
         "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 6,
         "history": [
           {
@@ -225,7 +316,7 @@
       {
         "name": "Heat — Ask Anything",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 124,
         "history": [
           {
@@ -236,9 +327,22 @@
         ]
       },
       {
+        "name": "HiCoffee - Caffeine Tracker",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:17.947095"
+          }
+        ]
+      },
+      {
         "name": "HolyGrails",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 9,
         "history": [
           {
@@ -251,7 +355,7 @@
       {
         "name": "Home Assistant",
         "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -264,7 +368,7 @@
       {
         "name": "HomeCharger",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 13,
         "history": [
           {
@@ -277,7 +381,7 @@
       {
         "name": "Ivory for Mastodon by Tapbots",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -288,9 +392,22 @@
         ]
       },
       {
+        "name": "KMON: World of Kogaea",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:19.681144"
+          }
+        ]
+      },
+      {
         "name": "Keyboard Shortcuts - OneTap",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 41,
         "history": [
           {
@@ -303,7 +420,7 @@
       {
         "name": "LIGA TV",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 5,
         "history": [
           {
@@ -316,7 +433,7 @@
       {
         "name": "LinePoint",
         "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -327,9 +444,22 @@
         ]
       },
       {
+        "name": "Memorize - Learn and Remember",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:14:23.747649"
+          }
+        ]
+      },
+      {
         "name": "Microsoft Excel",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -340,9 +470,35 @@
         ]
       },
       {
+        "name": "Moments - GIF Your Life",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 15,
+        "history": [
+          {
+            "clickCount": 15,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:14:13.240181"
+          }
+        ]
+      },
+      {
+        "name": "Monal - XMPP chat",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 8,
+        "history": [
+          {
+            "clickCount": 8,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:12.647047"
+          }
+        ]
+      },
+      {
         "name": "Mornin Key",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 6,
         "history": [
           {
@@ -355,7 +511,7 @@
       {
         "name": "Nothing X",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 8,
         "history": [
           {
@@ -368,7 +524,7 @@
       {
         "name": "Oooh: Official Group Chats",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 10,
         "history": [
           {
@@ -381,7 +537,7 @@
       {
         "name": "PPSSPP - PSP emulator",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -394,7 +550,7 @@
       {
         "name": "Pandemic 8 Ball Pool",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 940,
         "history": [
           {
@@ -405,9 +561,22 @@
         ]
       },
       {
+        "name": "Particulars",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 12,
+        "history": [
+          {
+            "clickCount": 12,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:25.493172"
+          }
+        ]
+      },
+      {
         "name": "Password Boss Password Manager",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 6,
         "history": [
           {
@@ -420,7 +589,7 @@
       {
         "name": "Payy: USDC Wallet",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 9,
         "history": [
           {
@@ -431,9 +600,22 @@
         ]
       },
       {
+        "name": "Proton VPN: Fast & Secure",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 233,
+        "history": [
+          {
+            "clickCount": 233,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:14.601762"
+          }
+        ]
+      },
+      {
         "name": "Read Trial",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 6,
         "history": [
           {
@@ -446,7 +628,7 @@
       {
         "name": "Rippple for Trakt",
         "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 17,
         "history": [
           {
@@ -459,7 +641,7 @@
       {
         "name": "Rumble Beans",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 31,
         "history": [
           {
@@ -472,7 +654,7 @@
       {
         "name": "SSL VPN",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 50,
         "history": [
           {
@@ -485,7 +667,7 @@
       {
         "name": "SchoolMate – Ace the Day",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -496,9 +678,35 @@
         ]
       },
       {
+        "name": "SelfElite",
+        "betaAvailable": "not accepting",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 19,
+        "history": [
+          {
+            "clickCount": 19,
+            "status": "not accepting",
+            "timestamp": "2025-01-11T15:14:24.311476"
+          }
+        ]
+      },
+      {
+        "name": "Sicoob",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 13,
+        "history": [
+          {
+            "clickCount": 13,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:13.981430"
+          }
+        ]
+      },
+      {
         "name": "Sleep Cycle - Tracker & Sounds",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -511,7 +719,7 @@
       {
         "name": "Snap2Gif",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 26,
         "history": [
           {
@@ -524,7 +732,7 @@
       {
         "name": "Sonolus",
         "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -537,7 +745,7 @@
       {
         "name": "Sticker Maker Studio",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -550,7 +758,7 @@
       {
         "name": "T-spider検証",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -563,7 +771,7 @@
       {
         "name": "The New York Times: Live News",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -576,7 +784,7 @@
       {
         "name": "Tidus Wallet",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 6,
         "history": [
           {
@@ -587,9 +795,22 @@
         ]
       },
       {
+        "name": "Trading 212",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 26,
+        "history": [
+          {
+            "clickCount": 26,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:15.204845"
+          }
+        ]
+      },
+      {
         "name": "Tuttii Beta",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 25,
         "history": [
           {
@@ -602,7 +823,7 @@
       {
         "name": "UTM Virtual Machines",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 51,
         "history": [
           {
@@ -615,7 +836,7 @@
       {
         "name": "Weather and Climate Tracker",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 7,
         "history": [
           {
@@ -626,9 +847,22 @@
         ]
       },
       {
+        "name": "WiFi Setup",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 90,
+        "history": [
+          {
+            "clickCount": 90,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:22.148014"
+          }
+        ]
+      },
+      {
         "name": "Windows App Mobile Preview",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 1644,
         "history": [
           {
@@ -641,7 +875,7 @@
       {
         "name": "Yadira",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 5,
         "history": [
           {
@@ -654,7 +888,7 @@
       {
         "name": "eGrocer Partner",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 10,
         "history": [
           {
@@ -667,7 +901,7 @@
       {
         "name": "eParaksts mobile DEMO",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
@@ -680,7 +914,7 @@
       {
         "name": "eSchoool",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 10,
         "history": [
           {
@@ -693,7 +927,7 @@
       {
         "name": "iCountdown",
         "betaAvailable": "not accepting",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 244,
         "history": [
           {
@@ -704,9 +938,22 @@
         ]
       },
       {
+        "name": "iOiO New",
+        "betaAvailable": "open",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 7,
+        "history": [
+          {
+            "clickCount": 7,
+            "status": "open",
+            "timestamp": "2025-01-11T15:14:20.449924"
+          }
+        ]
+      },
+      {
         "name": "winTwins",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 21,
         "history": [
           {
@@ -719,7 +966,7 @@
       {
         "name": "一生足迹 · 记录一生轨迹 - 旅行运动打卡地图",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 8,
         "history": [
           {
@@ -732,7 +979,7 @@
       {
         "name": "微信读书",
         "betaAvailable": "full",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 5,
         "history": [
           {
@@ -745,7 +992,7 @@
       {
         "name": "慧通管家-做好资金管理",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 7,
         "history": [
           {
@@ -758,7 +1005,7 @@
       {
         "name": "涂涂大湿",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 21,
         "history": [
           {
@@ -769,9 +1016,22 @@
         ]
       },
       {
+        "name": "霸王的梦想",
+        "betaAvailable": "error",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
+        "clickCount": 5,
+        "history": [
+          {
+            "clickCount": 5,
+            "status": "error",
+            "timestamp": "2025-01-11T15:14:18.406679"
+          }
+        ]
+      },
+      {
         "name": "달보이스 플러스",
         "betaAvailable": "open",
-        "lastChecked": "2025-01-11T15:13:24.701Z",
+        "lastChecked": "2025-01-11T15:15:16.209Z",
         "clickCount": 0,
         "history": [
           {
