@@ -4,8 +4,6 @@
 - **Pranos Hologlass**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/08/1f/ae081f3c-4636-31be-c3db-7ba3f77074bc/AppIcon-0-0-1x_U007ephone-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JdPxmRcD)
 - **Ploppy Pairs - Matching Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/35/39/3035398e-37f2-56b8-09f3-a3f013875497/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/bQWgjGvw)
 
-- **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/fc/d1/7ffcd182-b1c9-cb61-e632-6301357c37bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
-
 - **Moonbeam Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/15/c3/0415c33c-d8d5-4960-6de8-7b473766917d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vf4kZf38)
 
 - **DRiP Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/f8/bc/2af8bcd3-44f3-8df8-c5e6-4119eadd4b92/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b8uTwht4)
