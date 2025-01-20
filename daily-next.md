@@ -1,3 +1,4 @@
+- **sahi kaça?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/06/86/cd068635-9431-dde3-a2ee-8cfc9f4b8517/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U1DtEAyk)
 - **DoubleMemory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/f6/7d/1ff67d02-2ee7-6309-1aaa-d06368fad926/AppIcon-0-0-85-220-0-2-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ZG7nyTaZ)
 - **dermap.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/31/a7/9131a782-7d51-921e-9840-e130d000c28d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/or9XKtiH)
 - **Game Hay Promax**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/42/9c/e1429cab-e995-0f61-3074-e8e520a0ddea/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YWqYyuSS)
@@ -116,5 +117,3 @@
 
 - **Podcatcher: Podcast Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/c7/0b/adc70b73-5cca-3617-2353-f00269fdc07f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SuMc5gDA)
 - **Umka: Accountability Pet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/d3/ce/65d3cef5-2f07-27e1-d105-cbcbaec6676a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TYysU8y8)
-
-- **7NRO.COM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2e/b4/9a2eb406-0d17-f922-d5b8-206b0351f87a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S7QnnQ1y)
