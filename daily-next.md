@@ -1,3 +1,4 @@
+- **Offlinery - Meet in Real Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/d2/b8/a4d2b84e-90b8-757c-e9f1-14563145341f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M98apUG3)
 - **PayRate Converter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/88/92/1c88926e-224d-1426-9c3e-01b60aaeb20f/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cMXuvTpC)
 - **AirKit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/75/bf/4575bfff-5182-54fd-83b2-a4f0e7d03775/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zpescuEx)
 - **CMA v3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/fd/36/8efd3636-f04e-31e6-fe08-af805692cb04/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qYoNsVfv)
@@ -116,5 +117,3 @@
 - **ally  - personal ai assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7f/e6/a67fe683-0b9a-a8d3-b8f9-3d44f5940941/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VyjHwsMA)
 
 - **超逼真的攻城模拟器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c7/9d/6dc79d96-e3b6-7b59-c534-8793d7d4911a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6DFBjVGU)
-
-- **Hematonix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/a0/0e/aba00ef0-9daa-3032-23ab-67fe9c02be2d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sUgVB62E)
