@@ -1,3 +1,4 @@
+- **AirKit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/75/bf/4575bfff-5182-54fd-83b2-a4f0e7d03775/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zpescuEx)
 - **CMA v3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/fd/36/8efd3636-f04e-31e6-fe08-af805692cb04/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qYoNsVfv)
 - **Laterz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/69/a8/6b69a80a-f421-0ca5-db97-e39d01942cc5/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ZVZnfhXn)
 - **王者传奇beta版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/78/4d/07784d70-4620-afef-c216-030c93164fb1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/99FnT1KK)
@@ -116,5 +117,3 @@
 - **超逼真的攻城模拟器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/c7/9d/6dc79d96-e3b6-7b59-c534-8793d7d4911a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6DFBjVGU)
 
 - **Hematonix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/a0/0e/aba00ef0-9daa-3032-23ab-67fe9c02be2d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sUgVB62E)
-
-- **Pawtect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/cc/04/47cc04dd-a871-ac3f-d84e-12b3735de02a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P2FSQYv7)
