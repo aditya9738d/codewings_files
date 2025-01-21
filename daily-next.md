@@ -1,3 +1,4 @@
+- **PayRate Converter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/88/92/1c88926e-224d-1426-9c3e-01b60aaeb20f/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/cMXuvTpC)
 - **AirKit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/75/bf/4575bfff-5182-54fd-83b2-a4f0e7d03775/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zpescuEx)
 - **CMA v3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/fd/36/8efd3636-f04e-31e6-fe08-af805692cb04/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qYoNsVfv)
 - **Laterz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/69/a8/6b69a80a-f421-0ca5-db97-e39d01942cc5/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ZVZnfhXn)
