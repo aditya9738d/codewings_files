@@ -1,3 +1,5 @@
+- **CMA v3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/fd/36/8efd3636-f04e-31e6-fe08-af805692cb04/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qYoNsVfv)
+- **Laterz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/69/a8/6b69a80a-f421-0ca5-db97-e39d01942cc5/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ZVZnfhXn)
 - **王者传奇beta版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/78/4d/07784d70-4620-afef-c216-030c93164fb1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/99FnT1KK)
 - **Solve SF**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/0d/79/ec0d7947-3573-c39c-e6f4-6dd39ce4accb/AppIcon-1x_U007ephone-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8t2azZPf)
 - **GAME O 16**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/09/d5/9e09d5aa-ead0-8539-e4ac-063d5af1bad3/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/7akPwEdp)
@@ -116,5 +118,3 @@
 - **Hematonix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/a0/0e/aba00ef0-9daa-3032-23ab-67fe9c02be2d/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sUgVB62E)
 
 - **Pawtect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/cc/04/47cc04dd-a871-ac3f-d84e-12b3735de02a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P2FSQYv7)
-
-- **Game Mâubai Centờ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6e/a1/b76ea1f0-413b-6ca0-94c8-de1157daef1d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dEjCgfJJ)
