@@ -1,3 +1,4 @@
+- **sahi kaça?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/fc/90/08fc900d-17e8-3a36-540e-d52c7c00cafe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U1DtEAyk)
 - **Unwatched for YouTube**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/94/06/18940689-7819-a6a5-6b21-82b1f3612a9c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9RP0WzCR)
 - **Steady - Gym Workout Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/bb/91/72bb91aa-533f-5072-5b8a-7c7bbc2abf88/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4nJvAFSV)
 - **TerraTrek: Trip Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/c9/da/1ec9dafd-72a2-c008-d01e-57e83b416fe3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7jIs4sEX)
@@ -117,22 +118,3 @@
 - **Fisheries Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/7b/76/e47b7667-9a76-ebe4-21e5-8ff1b5bab20c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jbrjyvnC)
 
 - **Notestudio - note taking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/94/85/5b948527-bbba-dfe2-bdec-b5691ac27063/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/adzHmR32)
-- **Iris: VoiceGPT for Apple Watch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/44/31/a0443126-51b9-3363-0a2a-6d66a528c961/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/bp9B5Pp2)
-
-- **Open Colosseum**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/57/84/9957849a-4666-b217-b60a-5828238d0920/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y62eWMjw)
-
-- **OneKard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/46/9e/68469ee6-6901-fa71-ef32-03f1e52df31c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uSOR1Pgq)
-
-- **Cohord**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/69/bc/a769bcd5-7adf-378b-6b5e-df0f3b9ace9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JBmvED1y)
-- **ZAR - Save & Spend**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/e2/28/41e22889-c258-4190-c3f2-4095cb537e13/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4NB37P6E)
-
-- **QRExchange Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/69/5d/86695dfa-ad64-c231-3103-73d899765c70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bW1SrKgg)
-
-- **Echoes Indonesian Horror Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/cd/a0/b2cda08d-c6bc-bf50-0749-18187f1ebdbd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/GhM8FjSd)
-
-- **Level Up English**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/5f/31/dd5f31c4-0c22-2729-6828-d8ed924266b7/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qMXaQG86)
-
-- **4.Do - Task list manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/23/6a/0f236acc-2df4-e12e-8bbb-dcd846faa883/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UOp3I4d)
-
-- **GxMoes Rewards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/34/3a/32343a60-0458-ee31-ac14-d1e8d4799526/AppIconNonProd-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/0GHx1Y9x)
-- **趣来达骑手端**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/29/3d/9d293dc2-ea27-83e2-f320-c1aa8125a639/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YgDCecB9)
