@@ -1,3 +1,4 @@
+- **GEO-PULSE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/1d/21/d01d21c5-e1b6-14cc-c08a-5aad8a019ed0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Qg2GCNw6)
 - **WoT Blitz Reforged Update**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/6f/0e/686f0e9a-6861-af72-608f-157cf0cf8357/AppIcon-0-0-1x_U007epad-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qHCFGYmt)
 - **sahi kaça?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/fc/90/08fc900d-17e8-3a36-540e-d52c7c00cafe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U1DtEAyk)
 - **Dash Calc: Easy Fast Flexible**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/48/88/4248881c-92b1-472d-f8ae-a0e1e8025dff/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4vmNqTE8)
@@ -116,5 +117,3 @@
 - **Hoi Sinh Hai Tac**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/f1/e6/a9f1e6a8-4adc-a98a-00df-17d915d7e597/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8gShAbME)
 
 - **Eva-AI assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/69/30/7c6930ee-f65d-95aa-c496-f1adcd43a6e0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7FxMtqSD)
-
-- **Fisheries Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/7b/76/e47b7667-9a76-ebe4-21e5-8ff1b5bab20c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jbrjyvnC)
