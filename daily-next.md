@@ -1,3 +1,4 @@
+- **GMAI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/76/c3/6076c399-0df7-ae25-21eb-b269b06b4c7d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/gnxeVRWg)
 - **Path to Glory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/12/a5/5412a53d-9f9e-f099-752c-f9190402b704/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j3nrDp41)
 - **GEO-PULSE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/1d/21/d01d21c5-e1b6-14cc-c08a-5aad8a019ed0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Qg2GCNw6)
 - **WoT Blitz Reforged Update**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/6f/0e/686f0e9a-6861-af72-608f-157cf0cf8357/AppIcon-0-0-1x_U007epad-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qHCFGYmt)
@@ -116,5 +117,3 @@
 - **Abigail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/fb/bd/89fbbd2f-cb76-1274-ff5a-c6787103ac3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m9exqwdT)
 
 - **Hoi Sinh Hai Tac**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/f1/e6/a9f1e6a8-4adc-a98a-00df-17d915d7e597/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/8gShAbME)
-
-- **Eva-AI assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/69/30/7c6930ee-f65d-95aa-c496-f1adcd43a6e0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7FxMtqSD)
