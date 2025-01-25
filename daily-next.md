@@ -1,3 +1,4 @@
+- **GAME O 13**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/c2/2b/73c22b6a-4387-27b4-a809-5aa6577f8392/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAMu6usz)
 - **MegaPari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/15/0b/1e150b46-11c0-d8f5-d798-0404972a31b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QD66pksn)
 - **iFLYBUDS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/73/5f/18735fad-3d44-f0da-7462-d785683f6043/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hlO9DpDK)
 - **sahi kaça?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/fc/90/08fc900d-17e8-3a36-540e-d52c7c00cafe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U1DtEAyk)
@@ -117,4 +118,3 @@
 
 - **Kora™**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c7/55/e3c755ae-24f5-a0ea-e856-9ab06e4c4eaa/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RgpbJk6Q)
 - **FDGGFFF**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/77/14/a0771480-aaa6-f25f-f98d-98ded7b7d027/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PADxCDbN)
-- **Abigail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/fb/bd/89fbbd2f-cb76-1274-ff5a-c6787103ac3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m9exqwdT)
