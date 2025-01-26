@@ -1,3 +1,4 @@
+- **Dialoger: Make Calls Easily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/dc/45/8cdc4582-e9b9-f938-9774-5d6caab56711/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/utYD2dwx)
 - **BumX T1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/80/62/538062f4-a7b2-9d1d-23fc-09e97a6300a7/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/r7a4KPsF)
 - **Loccali: for Shortcuts**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/9d/83/9f9d834a-dc5f-93cd-3a21-b0d1965d56cf/AppIcon-0-1x_U007epad-0-1-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/Wyzw1RZV)
 - **TestFlight**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/f7/7d/d2f77d63-76ea-6e1f-5f31-db75be5468a7/AppIcon-85-220-0-4-2x.png/246x0w.webp)](https://developer.apple.com/testflight/)
