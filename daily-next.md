@@ -1,3 +1,4 @@
+- **sahi kaça?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/75/fe/d975fefb-a1c8-353f-b43d-beeb64543b92/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U1DtEAyk)
 - **Dialoger: Make Calls Easily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/dc/45/8cdc4582-e9b9-f938-9774-5d6caab56711/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/utYD2dwx)
 - **BumX T1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/80/62/538062f4-a7b2-9d1d-23fc-09e97a6300a7/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/r7a4KPsF)
 - **Loccali: for Shortcuts**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/9d/83/9f9d834a-dc5f-93cd-3a21-b0d1965d56cf/AppIcon-0-1x_U007epad-0-1-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/Wyzw1RZV)
@@ -116,5 +117,3 @@
 - **Fasikl Felix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/51/2a/41512a23-9faf-1b83-6ea6-ff28482928d7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UFFMmfHM)
 
 - **創世紀戰M：阿修羅計畫**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/0e/33/820e330a-3c5c-2eb6-ff47-4291ac8320c8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2g6qcsxq)
-
-- **MacLed Shine**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/08/be/8508be5e-9519-2804-af21-ec241b9d4d11/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A2dGFYed)
