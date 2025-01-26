@@ -1,3 +1,4 @@
+- **Grok­**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/6b/3e/ac6b3e9e-8120-dd7b-8775-703cc386642b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/ZNTJK731)
 - **BimmerNotify**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/f6/c6/29f6c60d-b362-d19c-6a06-dcce74208b45/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wVKUFtSH)
 - **GAME O 13**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/c2/2b/73c22b6a-4387-27b4-a809-5aa6577f8392/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAMu6usz)
 - **MegaPari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/15/0b/1e150b46-11c0-d8f5-d798-0404972a31b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QD66pksn)
@@ -116,5 +117,3 @@
 - **N2 Freelancer Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/6b/2d/af6b2db6-a68f-ce5a-da8a-26ae7c280929/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H3nUNsMw)
 
 - **mobile onIine**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/4a/6e/f64a6e94-3038-80c0-8de4-343027abf65b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bKMDCs24)
-
-- **Kora™**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c7/55/e3c755ae-24f5-a0ea-e856-9ab06e4c4eaa/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RgpbJk6Q)
