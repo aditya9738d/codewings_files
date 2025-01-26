@@ -1,3 +1,4 @@
+- **Loccali: for Shortcuts**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/9d/83/9f9d834a-dc5f-93cd-3a21-b0d1965d56cf/AppIcon-0-1x_U007epad-0-1-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/Wyzw1RZV)
 - **TestFlight**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/f7/7d/d2f77d63-76ea-6e1f-5f31-db75be5468a7/AppIcon-85-220-0-4-2x.png/246x0w.webp)](https://developer.apple.com/testflight/)
 - **MyWhoosh Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/8b/4b/7d8b4bc5-7ced-5c9f-47fc-1bf803305672/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h8rkF97p)
 - **Grok­**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/6b/3e/ac6b3e9e-8120-dd7b-8775-703cc386642b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/ZNTJK731)
@@ -117,5 +118,3 @@
 - **MacLed Shine**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/08/be/8508be5e-9519-2804-af21-ec241b9d4d11/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/A2dGFYed)
 
 - **N2 Freelancer Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/6b/2d/af6b2db6-a68f-ce5a-da8a-26ae7c280929/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H3nUNsMw)
-
-- **mobile onIine**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/4a/6e/f64a6e94-3038-80c0-8de4-343027abf65b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/bKMDCs24)
