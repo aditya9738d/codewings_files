@@ -1,3 +1,4 @@
+- **Game Mới**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/58/0f/13580fe0-7812-c994-d4f6-ca7cdda38da0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qk7e7jJv)
 - **Gem MobiTF**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/8e/dc/498edcf3-32fc-ad03-9ba9-c4aa0b18a2f8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dzCFYhCn)
 - **sahi kaça?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/75/fe/d975fefb-a1c8-353f-b43d-beeb64543b92/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U1DtEAyk)
 - **sahi kaça?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/75/fe/d975fefb-a1c8-353f-b43d-beeb64543b92/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U1DtEAyk)
