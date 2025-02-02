@@ -1,3 +1,4 @@
+- **Tokie Alpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/af/01/ccaf01de-b2de-8e0d-b547-896b97d71049/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Sp2ZXn2t)
 - **Atlas - Inspirations Bluesky**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/94/56/969456d4-2f02-e923-ce35-4a676ef25419/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aPTRfuxv)
 - **Game Mới**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/58/0f/13580fe0-7812-c994-d4f6-ca7cdda38da0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qk7e7jJv)
 - **Gem MobiTF**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/8e/dc/498edcf3-32fc-ad03-9ba9-c4aa0b18a2f8/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dzCFYhCn)
@@ -116,5 +117,3 @@
 - **UZen Trade**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/68/9a/71689a66-c5b1-3c26-247e-7d5490c42de2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NTawgJN3)
 
 - **Etheria:Restart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/b3/d9/03b3d9a9-b979-9217-981b-3d257252d03f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S95ay8gS)
-
-- **Fasikl Felix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/51/2a/41512a23-9faf-1b83-6ea6-ff28482928d7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UFFMmfHM)
