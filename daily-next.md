@@ -1,3 +1,4 @@
+- **Vocab Master AI Translate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/57/81/a4578109-61df-c5e8-385d-76a5e6ed849f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R5YV9JAk)
 - **All Block for Safari—Adblocker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/63/03/dc6303db-aa55-6282-4d03-34f02b02ae2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fjQq64ND)
 - **Tokie Alpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/af/01/ccaf01de-b2de-8e0d-b547-896b97d71049/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Sp2ZXn2t)
 - **Atlas - Inspirations Bluesky**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/94/56/969456d4-2f02-e923-ce35-4a676ef25419/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aPTRfuxv)
@@ -116,5 +117,3 @@
 - **Food Flip: Decide Where to Eat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/ee/72/1fee725a-2de5-0d68-9943-b5093bd6139d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P4YdvkHq)
 
 - **UZen Trade**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/68/9a/71689a66-c5b1-3c26-247e-7d5490c42de2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NTawgJN3)
-
-- **Etheria:Restart**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/b3/d9/03b3d9a9-b979-9217-981b-3d257252d03f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S95ay8gS)
