@@ -1,3 +1,5 @@
+- **manga.ovh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/ca/55/94ca55f0-3d49-61fc-8a31-cedd2ed4cea0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XseCg0u4)
+- **Proof - Photo Organizer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/07/23/1c0723d8-9d66-a079-f857-faf50def870b/AppIcon-0-1x_U007ephone-0-0-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/66h8HPQ5)
 - **Trelli Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/e3/91/afe39163-fd08-07e6-3d3e-eabc0dc6cde4/AppIcon.beta-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rwSxF16k)
 - **proem.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/74/b5/cb74b5e0-c371-e21d-5c26-868a60c623a3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uhSa2wCQ)
 - **InstaFilter 找找濾鏡 - 創作者濾鏡收藏館**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/c2/a0/14c2a061-0696-6dc4-3881-221c31911511/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JCGUGt1v)
@@ -116,5 +118,3 @@
 - **mudeo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/d5/81/21d581d8-d2af-812e-a2af-eb451a8f10b0/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/bFMuz9bd)
 
 - **Pedaltrak**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/c3/cd/e3c3cd17-a1e8-f081-8f0b-13fad35adf27/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/egCVT2cJ)
-
-- **網金江湖錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/11/2a/3b112a8b-2b58-573f-45cf-0d28b5a88963/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MbxqdjUt)
