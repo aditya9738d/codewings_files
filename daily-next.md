@@ -1,3 +1,4 @@
+- **Grok**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/f9/bf/75f9bfdb-937b-01b5-e4f8-205ebb09ac2d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/ZNTJK731)
 - **Miraivault**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/f5/17/27f5175a-e944-0a83-9601-cc7cad78cbe6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CAVDSYNs)
 - **Lunch Sync**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/7e/96/1c7e9678-b5e8-c162-f142-bbf71fec37d1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mF8JEHqk)
 - **manga.ovh**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/ca/55/94ca55f0-3d49-61fc-8a31-cedd2ed4cea0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XseCg0u4)
@@ -116,5 +117,3 @@
 - **Mem 2.0 Alpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/c3/30/7cc3309b-3fd8-428b-7b53-48a0d12ab230/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BD3PEkyq)
 
 - **Võ Lâm Việt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/90/2b/c4902b18-0160-6477-76ae-4f9e8752139e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sxAV6Wyw)
-
-- **mudeo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/d5/81/21d581d8-d2af-812e-a2af-eb451a8f10b0/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/bFMuz9bd)
