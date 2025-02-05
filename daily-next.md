@@ -1,3 +1,4 @@
+- **DebotAI-1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/51/74/8b5174af-9f92-c8ca-e3ef-19144714dc67/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HmGq8sdv)
 - **GameMobi Center**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/9a/fa/ab9afa52-1e83-4c25-b612-bef498b12f67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72N83Pfg)
 - **eSign Tablet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/0c/e8/c70ce835-b376-d79d-c7f4-5e697799538b/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XGjKDWkQ)
 - **Riskivia: مغامرات المعرفة**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/cc/4f/b6cc4fe1-9e8d-1174-41f7-6772002c3980/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/423AVRcf)
@@ -116,5 +117,3 @@
 - **Siege Warfare Simulator EX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/b6/ac/f6b6ac71-4dc8-a6d2-a5bb-68ad897a78ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6DFBjVGU)
 
 - **Black Beacon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/56/20/10562078-419d-ef1d-9b0d-096e8d41bc8a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T1yXeV3C)
-
-- **Mem 2.0 Alpha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/c3/30/7cc3309b-3fd8-428b-7b53-48a0d12ab230/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BD3PEkyq)
