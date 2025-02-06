@@ -1,3 +1,4 @@
+- **Silly Spin Colors**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/63/a3/9463a3b9-eac1-c5c9-a038-5c2b3a65dc2f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t6phPMYc)
 - **Solcard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/21/be/4221be44-83b9-24ca-b76b-31252179463e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h6T6pM7T)
 - **洛奇rocky:购买USDT 虚拟信用卡（原foxupay）**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c6/65/28c66542-662d-0011-4c5e-81594dc089b5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NFr5nj4a)
 - **Croissant - Cross-Posting**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/e2/64/64e2645e-2c99-29bb-16f9-f0d7a88462c8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fPxmQkKP)
@@ -116,5 +117,3 @@
 - **Exolve Voice Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/7d/37/a27d3745-247e-db99-4a79-3fa86b114677/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pnzP2EQg)
 
 - **Old Maps Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/c8/e3/78c8e305-d405-9209-59d6-9c90d5b4b999/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Vagm4vQG?ref=cms-prev.oldmapsonline.org)
-
-- **TAK Aware**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/39/11/05391190-f5f8-0b7c-4de8-8f84e254d4c6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gK3Qz8sz)
