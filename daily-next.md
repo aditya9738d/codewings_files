@@ -1,3 +1,4 @@
+- **Solcard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/21/be/4221be44-83b9-24ca-b76b-31252179463e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h6T6pM7T)
 - **洛奇rocky:购买USDT 虚拟信用卡（原foxupay）**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/c6/65/28c66542-662d-0011-4c5e-81594dc089b5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NFr5nj4a)
 - **Croissant - Cross-Posting**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/e2/64/64e2645e-2c99-29bb-16f9-f0d7a88462c8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fPxmQkKP)
 - **Proxia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/25/e1/bc25e19f-ee33-96f3-8558-b85fff74e78e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WnmQfjHT)
