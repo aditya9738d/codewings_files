@@ -1,3 +1,4 @@
+- **BodyState: Vitals Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/d4/c7/b6d4c747-e032-c02e-302d-1968f0b7fad1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b2tMVk9c)
 - **Flashes for Bluesky**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/b2/1c/04b21cee-3222-39ab-6c47-cca574aa3b4c/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JKEtnTQP)
 - **Silly Spin Colors**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/63/a3/9463a3b9-eac1-c5c9-a038-5c2b3a65dc2f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t6phPMYc)
 - **Solcard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/21/be/4221be44-83b9-24ca-b76b-31252179463e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h6T6pM7T)
@@ -116,5 +117,3 @@
 
 - **Bullink**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/73/cd/e073cd3a-8ca4-9973-c581-8555dac6fafc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pMzssUAF)
 - **Exolve Voice Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/7d/37/a27d3745-247e-db99-4a79-3fa86b114677/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pnzP2EQg)
-
-- **Old Maps Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/c8/e3/78c8e305-d405-9209-59d6-9c90d5b4b999/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Vagm4vQG?ref=cms-prev.oldmapsonline.org)
