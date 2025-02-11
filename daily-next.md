@@ -1,3 +1,4 @@
+- **eSign Phone**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/0f/6e/180f6e64-2024-0b15-6a8f-901a48c9b550/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yD6Hj1VB)
 - **ArcEmu - Watch Emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/ea/9f/d3ea9fa9-06bc-7bbc-9131-aaa0f6cf7168/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Qcb2JA8s)
 - **Kairos Reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/f4/76/a5f476ef-515f-d979-fcbf-f918fb7956c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vBSKzpbr)
 - **nfties**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/d0/b3/2bd0b308-d085-4105-6d03-24af8ee5a6ed/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jdxm2sHe)
@@ -116,5 +117,3 @@
 - **Back in Black - Immersive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/83/c2/3e83c2be-0ab0-6f6b-2122-ae9188f05176/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/h5eMTHdM)
 
 - **FCloud :Text to speech**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/3e/c1/893ec1c7-1770-ee11-4c86-d5a38f315550/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hpqcwjAE)
-
-- **Guitar Chops**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/63/17/e46317fd-97ac-d287-ac9f-0bbc5eb5c614/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aPqqSvwd)
