@@ -1,3 +1,4 @@
+- **Tara 3606**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/39/0e/d5390edd-0185-a392-d503-13b1816c0528/AppIcon-production-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RpAzuU2f)
 - **MUMON Exp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/5f/c5/6c5fc5ea-886f-0519-ca20-05165803470a/AppIcon-exp-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eW9VV6KT)
 - **GMGN - Trade Memes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/9b/35/c69b3549-73c2-f458-9412-862cddb9722e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/auvGPV8e)
 - **Crystal for Mastodon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/1c/57/a81c5761-e260-2671-a772-3c5872488576/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/NKpHVXt3)
@@ -116,5 +117,3 @@
 
 - **Chơi Game Ngọc Rồng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/f7/b5/def7b5e1-a335-0962-1b4f-a1842f4f57af/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DI31UlNW)
 - **Hitstalt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/37/d9/9c37d964-fc54-5d9f-e155-6a63cd0f9b1c/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6CajeAZm)
-
-- **Back in Black - Immersive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/83/c2/3e83c2be-0ab0-6f6b-2122-ae9188f05176/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/h5eMTHdM)
