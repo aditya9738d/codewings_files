@@ -1,3 +1,4 @@
+- **LineEdge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ca/74/a1ca7478-6739-0fe5-c646-767f33d00148/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1A7stkEG)
 - **Wegmans Digital Store**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/08/1b/fb081b64-ca0e-3992-c1c0-7089b97a6544/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Ecbz15zN)
 - **信長の野望 天下への道**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/ba/d3/adbad3c6-56b2-0ec0-85d2-da34b215a982/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a9kVVtwr)
 - **WIN PRO SA BGMI 3.6-V1.3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/3b/1a/6b3b1afe-79df-eba9-3153-e46129023c3f/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb-80.png)](https://testflight.apple.com/join/512FSqQV)
@@ -116,5 +117,3 @@
 - **Moonbeam Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/15/c3/0415c33c-d8d5-4960-6de8-7b473766917d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vf4kZf38)
 
 - **DRiP Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/f8/bc/2af8bcd3-44f3-8df8-c5e6-4119eadd4b92/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b8uTwht4)
-
-- **biodiversityX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/fa/45/e1fa45b7-918d-7c65-5685-cc7f739b3550/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AtBN8zR4)
