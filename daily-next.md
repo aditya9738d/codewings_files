@@ -1,3 +1,4 @@
+- **SafeMoon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7e/5a/db7e5a9a-0bda-0295-7a0c-6e01ed12824d/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Mj4PM7d4)
 - **Cloudy Weather Forcast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/f9/e1/86f9e1ea-0ab2-9e32-ceca-4ec1bc4fc832/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hAk9eBew)
 - **LineEdge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ca/74/a1ca7478-6739-0fe5-c646-767f33d00148/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1A7stkEG)
 - **Wegmans Digital Store**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/08/1b/fb081b64-ca0e-3992-c1c0-7089b97a6544/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Ecbz15zN)
@@ -116,5 +117,3 @@
 - **Ploppy Pairs - Matching Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/35/39/3035398e-37f2-56b8-09f3-a3f013875497/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/bQWgjGvw)
 
 - **Moonbeam Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/15/c3/0415c33c-d8d5-4960-6de8-7b473766917d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vf4kZf38)
-
-- **DRiP Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/f8/bc/2af8bcd3-44f3-8df8-c5e6-4119eadd4b92/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b8uTwht4)
