@@ -1,3 +1,4 @@
+- **Rave Now AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/f7/e7/71f7e703-cfc2-6004-3fdc-f47a4e29efda/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mYsA5QAJ)
 - **SafeMoon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7e/5a/db7e5a9a-0bda-0295-7a0c-6e01ed12824d/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Mj4PM7d4)
 - **Cloudy Weather Forcast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/f9/e1/86f9e1ea-0ab2-9e32-ceca-4ec1bc4fc832/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hAk9eBew)
 - **LineEdge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ca/74/a1ca7478-6739-0fe5-c646-767f33d00148/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1A7stkEG)
