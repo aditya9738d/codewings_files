@@ -1,3 +1,4 @@
+- **Taskey - Stop Switching Apps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/a3/8b/f2a38bba-4d2b-7cf2-880e-af2229fa31b1/AppIcon-0-0-1x_U007epad-0-11-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SmDh81xT)
 - **Ngoc Rong v2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/4c/b8/ba4cb841-e4df-89e0-31a0-d873dfd14b8f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1tnFgUXA)
 - **BestBites**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/80/4f/8c804ff2-3c0e-d8b2-945d-aa35e05bbaa6/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HuvA1E9J)
 - **DealerPad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/2a/83/472a833e-4ef1-d76b-2a62-d197c9cacd84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xb7sPHTP)
@@ -117,4 +118,3 @@
 - **Launchy: App Launcher Switcher**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/95/22/b7952204-2c1f-ccbe-5ad7-830ce03c7ec1/AppIcon-0-0-85-220-0-0-5-0-2x-sRGB.png/200x200bb-80.png)](https://testflight.apple.com/join/hpa9Wzbd)
 - **Quill – A New Kind of Journal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/97/31/a99731c0-31ca-6560-7112-7fcda435a5b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HTuqG6Qm)
 - **DoubleMemory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/f6/7d/1ff67d02-2ee7-6309-1aaa-d06368fad926/AppIcon-0-0-85-220-0-2-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ZG7nyTaZ)
-- **dermap.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/31/a7/9131a782-7d51-921e-9840-e130d000c28d/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/or9XKtiH)
