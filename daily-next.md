@@ -1,3 +1,4 @@
+- **DARKEST DAYS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/cd/60/8ccd60ec-5c4e-b76b-e71a-89e0f198a411/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/QaF5ZQu9)
 - **Referendum App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/9a/7a/e19a7a34-09e0-ab7d-27e6-4cfe35abe774/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wnMSmD9N)
 - **Yoodio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/cf/a1/bccfa1f0-35a9-e1d2-af4a-e3806fbfa3b7/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/DxnbA3pw)
 - **ToolBox - Softpath Electronics**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/b9/6b/a4b96b05-1340-2239-4990-62460e70cde0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CsaQFeDf)
@@ -117,4 +118,3 @@
 - **AirKit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/75/bf/4575bfff-5182-54fd-83b2-a4f0e7d03775/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zpescuEx)
 - **CMA v3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/fd/36/8efd3636-f04e-31e6-fe08-af805692cb04/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qYoNsVfv)
 - **Laterz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/69/a8/6b69a80a-f421-0ca5-db97-e39d01942cc5/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ZVZnfhXn)
-- **王者传奇beta版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/78/4d/07784d70-4620-afef-c216-030c93164fb1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/99FnT1KK)
