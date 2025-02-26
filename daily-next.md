@@ -1,3 +1,4 @@
+- **VGX Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/43/e0/8c43e074-8398-bf16-07fe-b8f25b6c5aa2/AppIcon-0-1x_U007emarketing-0-9-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Mj4PM7d4)
 - **wyf - what's your fav?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/4f/c3/114fc34d-284f-92c1-7d9d-cd14a4bd9b92/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kFUY1bSX)
 - **King Of Fat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/84/65/4a846524-42d4-2feb-7ef0-3ff7cbb77382/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3KuwxJpP)
 - **Garmin Messenger™**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/0f/15/ca0f1527-af49-ebfc-7376-6b71903add27/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sq1AwhZt)
