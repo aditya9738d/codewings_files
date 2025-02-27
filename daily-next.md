@@ -1,3 +1,4 @@
+- **Halt - Screen Time Control**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/19/8e/4d198e1e-5e37-8306-df54-87c072c5e67c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/btwqwHwQ)
 - **Tubular Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/c1/c4/8ec1c457-f459-feb1-170b-f13b2c840e27/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/ppbZMyvV)
 - **CoA:아틀란의 크리스탈**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/51/2b/a0512bad-6d3f-0ca9-809f-f7b8524e8b77/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qr8hfq3h)
 - **wyf - what's your fav?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/4f/c3/114fc34d-284f-92c1-7d9d-cd14a4bd9b92/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kFUY1bSX)
@@ -116,5 +117,3 @@
 - **Bookopedia: Reader's Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/78/a5/d178a5ed-c209-71d6-2392-bfef4a8841a5/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U3NY9MqD)
 - **Any Recipe: Personal Cookbook**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/c4/3c/97c43c7b-78b3-b6fd-f5bc-9b896821b285/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eedsEgLh)
 - **Portfolio Tracker: Finance Bay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/4f/82/374f82f1-06c1-1d78-246d-c75158ca73e5/AppIcon_iOS-0-1x_U007epad-0-0-0-1-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/y4etT8Ht)
-
-- **WhatsApp Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/51/93/ac519384-5614-304b-279f-f4f227307f47/AppIconCatalystBetarelbranch-0-0-2x_U007euniversal-0-0-0-4-0-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/krUFQpyJ)
