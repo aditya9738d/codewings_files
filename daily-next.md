@@ -1,3 +1,4 @@
+- **Mind Dash: Daily Math Puzzles**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/0f/16/f30f1636-0413-9c6c-dc43-07749ccebddb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rRGZyEnM)
 - **BeerCounter App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/54/7d/5f547d32-99eb-3f62-badd-4b7fb0ad5c99/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qTthWaKM)
 - **Follow - Follow your favorites**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/81/15/2681158b-9cf3-19f1-c029-6c644d7fe7fd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aMNweKk7)
 - **Star GL Pro 3.6-v1.8**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/3a/ac/843aac83-e526-a88b-f97b-1c283b34d4d2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aRBSCxMt)
@@ -117,4 +118,3 @@
 - **hidden layer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/35/90/8035909c-e491-5e10-6c4e-7e8fe8118809/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dht8jUxm)
 - **Mummy Maze: Pocket Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/00/39/1400392f-6d3b-eefa-3fbc-71fc64a26c13/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s9WDyQue)
 - **TryAI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/da/5a/13da5a97-436f-bf95-7a05-702e3b36aad1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/75Tty8zH)
-- **Kashvisor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/b4/cf/60b4cfb6-7dc8-5c80-615a-fb528b8c2fa5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3QwmcB9B)
