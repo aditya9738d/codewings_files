@@ -1,3 +1,4 @@
+- **39betas**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/aa/d2/f7aad270-f255-2eb5-eb7c-ed2058fb02a1/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UzJf5zGg)
 - **Mind Dash: Daily Math Puzzles**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/0f/16/f30f1636-0413-9c6c-dc43-07749ccebddb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rRGZyEnM)
 - **BeerCounter App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/54/7d/5f547d32-99eb-3f62-badd-4b7fb0ad5c99/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qTthWaKM)
 - **Follow - Follow your favorites**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/81/15/2681158b-9cf3-19f1-c029-6c644d7fe7fd/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aMNweKk7)
@@ -117,4 +118,3 @@
 - **TerraTrek: Trip Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/c9/da/1ec9dafd-72a2-c008-d01e-57e83b416fe3/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7jIs4sEX)
 - **hidden layer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/35/90/8035909c-e491-5e10-6c4e-7e8fe8118809/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dht8jUxm)
 - **Mummy Maze: Pocket Edition**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/00/39/1400392f-6d3b-eefa-3fbc-71fc64a26c13/AppIcon-0-0-1x_U007epad-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s9WDyQue)
-- **TryAI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/da/5a/13da5a97-436f-bf95-7a05-702e3b36aad1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/75Tty8zH)
