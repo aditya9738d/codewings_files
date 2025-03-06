@@ -1,3 +1,4 @@
+- **SKT V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/f1/17/f7f117eb-eb5c-2ca5-c311-c99d10d68bbe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JrWD4hEB)
 - **One Lab - Artful Photo Editor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/6b/7f/e36b7fa4-341e-4621-5bfb-33e86fb4c904/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KPrrCEZW)
 - **One Is Not None**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/09/63/c7096343-2887-f26d-136c-f689a2b3e43c/Night_Original_Icon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bRxMengR)
 - **SMSCat - Block Spam Texts**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/08/a7/b208a760-60f3-2531-0b1d-92abb589653f/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Ykdz0B4C)
@@ -117,4 +118,3 @@
 - **Grok­**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/6b/3e/ac6b3e9e-8120-dd7b-8775-703cc386642b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/ZNTJK731)
 - **BimmerNotify**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/f6/c6/29f6c60d-b362-d19c-6a06-dcce74208b45/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wVKUFtSH)
 - **GAME O 13**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/c2/2b/73c22b6a-4387-27b4-a809-5aa6577f8392/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NAMu6usz)
-- **MegaPari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/15/0b/1e150b46-11c0-d8f5-d798-0404972a31b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QD66pksn)
