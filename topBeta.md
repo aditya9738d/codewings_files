@@ -1,4 +1,3 @@
-- **CravePhone**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/51/0e/65510e41-1b79-6ab6-d30d-8c5d654f7dfe/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Yb1uKZYx)
 - **Star Global Pro 3.7-v1.0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/64/e7/3d64e7a8-a737-3cfb-ce71-0e4bfe0efa40/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aRBSCxMt)
 - **王者之劍M**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/bb/60/05bb6079-ae78-5eeb-5914-b9a4bb88db3f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hmzY1jFY)
 - **Reef Trak**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/bf/c5/14bfc556-7e0f-a405-c175-6f91da6fc361/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jdaT8Keh)
