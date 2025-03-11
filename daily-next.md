@@ -1,3 +1,4 @@
+- **Ninja Kaizen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/09/d0/ea09d0a0-89c6-c80a-78f8-12fd74216170/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/p4cDdXhW)
 - **鸭霸单词 - 四六级考研背单词必备**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/5d/55/4d5d553e-ad27-8c94-1a3a-199aa63ed66f/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/As6nfg4R)
 - **DeepSleep App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/e3/ce/63e3cece-1a04-5a62-97b5-8dd788b09043/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4dmlUj2P)
 - **Truworld – Explore Your World**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/3e/a0/a93ea0d8-bc11-cd05-adef-00d3d0c744a3/AppIcon-0-0-1x_U007ephone-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JPG6dFN7)
@@ -117,4 +118,3 @@
 - **InstaFilter 找找濾鏡 - 創作者濾鏡收藏館**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/c2/a0/14c2a061-0696-6dc4-3881-221c31911511/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JCGUGt1v)
 - **SwaRail**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/e7/32/8de73259-23cc-ea76-5600-44742359ce1d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aWFYt6et)
 - **Compordo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/46/fe/ea46fe6c-bb5c-4a25-363d-43e7a64207c9/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/T8fKTfmG)
-- **Ping - Stochastic time tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/87/18/a0871868-3332-d452-02e4-e23a10b2a970/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sRTERSA3)
