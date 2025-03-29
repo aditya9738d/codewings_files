@@ -1,3 +1,4 @@
+- **Bragi AI (Alpha)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/4b/33/e24b33d1-997e-8a01-2fce-07806513a0f3/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xAD37vVu)
 - **Quantum  MAX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/36/56/b4365663-5009-f11e-6c3f-fc307472752f/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZdfgkRuy)
 - **Bragi AI (Alpha)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/4b/33/e24b33d1-997e-8a01-2fce-07806513a0f3/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xAD37vVu)
 - **Amexa Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/96/7c/61967c35-0823-ecd4-9cc7-845b54edd92b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QANQcFC7)
