@@ -1,3 +1,4 @@
+- **UpRez AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/98/14/f69814cc-573e-98c4-d10d-125aae18231e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H2WTz9VQ)
 - **LootGOv0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/8a/a7/268aa704-b227-79ed-cc68-a00a2eb4c747/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FpFGe3Xr)
 - **Grammarly: AI Writing Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/fe/12/99fe12c0-acb8-7d91-9e21-f1a8ed902eb8/AppIcon-Green-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3k9fsD6L)
 - **Home Food Niko (6)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/6d/c8/7d6dc8f8-44b2-3524-aa81-e789aa30c7f4/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/swrr6RjY)
