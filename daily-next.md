@@ -1,1 +1,2 @@
 - **Flutter WalletKit (internal)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/44/0f/5d440f71-eb22-6539-8182-892cab309836/AppIcon-internal-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABbjL9Yu)
+- **Flutter WalletKit (internal)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/44/0f/5d440f71-eb22-6539-8182-892cab309836/AppIcon-internal-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ABbjL9Yu)
