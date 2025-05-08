@@ -1,3 +1,4 @@
+- **IT之家 - 快速全面客观的科技新闻头条快讯**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/5c/90/d65c9090-ec66-44c2-dd35-f0e49686accb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eD9uChwY)
 - **SelfcareCC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/66/2d/18662d5f-2219-583e-ce63-d3cd1643e6fc/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XCsh8GfC)
 - **App Services (5)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/83/6b/dc836b75-0bb9-0590-9aa6-f1ede9907ccc/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/unsCzfvY)
 - **Dexari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/da/fb/bfdafb0f-d22a-578d-c993-da3aad6ece46/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cYYmdqYB)
