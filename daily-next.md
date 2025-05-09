@@ -1,3 +1,4 @@
+- **HC TECHNOLOGY**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/26/94/f22694b4-1da3-4fc3-160e-42188ecfe155/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/uDgkx221)
 - **HONY SUNDY**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/0e/74/e60e74b5-ca99-67fc-0c32-7b0813ac0717/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5mVcYew6)
 - **Calendar Insights**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/45/8b/b6458b42-5d45-71ed-b05d-08ce1a763cc2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bVQPauGR)
 - **IT之家 - 快速全面客观的科技新闻头条快讯**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/5c/90/d65c9090-ec66-44c2-dd35-f0e49686accb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eD9uChwY)
