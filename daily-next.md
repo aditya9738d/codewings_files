@@ -1,1 +1,3 @@
+- **Savedd**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/a2/79/93a2790d-537c-8a44-7c7d-58b32c7208ef/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PvmXwRfS)
+- **MealieSwift**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/83/d0/3983d055-b5a1-5b19-f08c-d6a467fb6d1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1dKTZg3b?ref=selfh.st)
 - **Lotus Audio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/7f/3e/a17f3e1a-b5f2-4e0a-8deb-a0a9e922911d/AppIcon-1x_U007epad-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xRByxU2d)
