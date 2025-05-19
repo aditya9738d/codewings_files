@@ -1,3 +1,4 @@
+- **Cube Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/3e/a5/5d3ea5f1-611b-09bc-8fcb-c016fe9d935a/AppIconProduction-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HVfTFeAt)
 - **Trường Học Ngọc Rồng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/c1/28/aac128e0-409e-d99b-8df2-2ed95e6d79ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vrsA3bQk)
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/09/be/4109be8c-a9b5-e735-402f-2e35190f14c6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6drWGVde)
 - **VoxBr**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/ad/d9/f1add9f0-cb7f-0c83-a071-f6fe9731939c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PEXV9dpq)
