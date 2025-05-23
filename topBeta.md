@@ -1,3 +1,4 @@
+- **Swary**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/a1/4f/65a14ff3-d943-edba-8bf8-ad21f58e6fff/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5v1fXjp7)
 - **DeHealth**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/9c/2f/579c2f63-819c-aa29-046c-1642972c6f6b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/gmQsAnVp)
 - **悦音音乐**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/51/a1/d251a197-fee1-3dfe-b351-060c3b813cd9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NEtQuaCF)
 - **Magic OK Button**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/5b/5b/c05b5b9b-4b7d-cdd6-98dc-c630faedda4d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C75hSf9N)
