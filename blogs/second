@@ -1,0 +1,66 @@
+      <h1 style={{fontSize:'2rem', fontWeight:'bold', lineHeight:'1', marginTop:'20px'}}>How to Get a TestFlight Invitation Code</h1>
+        <br></br>
+        <p className="intro-text">By following these detailed steps, you should be able to obtain a TestFlight invitation code and join the beta program successfully.</p>
+        <br></br>
+        <h2 style={{fontSize:'20px', fontWeight:'bold'}}>Step 1 - Navigate to the Beta Program Website:</h2>
+        <ul>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>Open your Telegram and go to the channel <a href="http://" target="_blank" rel="noopener noreferrer">CodeWings</a> that offers the beta program you are interested in.</li>
+        </ul>
+
+        <h2 style={{fontSize:'20px', fontWeight:'bold'}}>Step 2 - Find the &quot;Join the Beta&quot; Button:</h2>
+        <ul>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>Locate a button or a link that says &quot;Join the Beta.&quot; This might be highlighted or prominently placed to attract beta testers.</li>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>Click on the &quot;Join the Beta&quot; button or link.</li>
+        </ul>
+        <img src="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/telegram_home.webp" alt="" style={{ position: 'relative', margin:'auto', borderRadius:'10px', height: '370px' }} />
+        <br></br>
+        <h2 style={{fontSize:'20px', fontWeight:'bold'}}>Step 3 - Click on &quot;Open&quot;:</h2>
+        <ul>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>On this page, there will be an &quot;Open&quot; button. Click on this button to proceed to the next step.</li>
+        </ul>
+        <img src="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/telegram_open.webp" alt="" style={{ position: 'relative', margin:'auto', borderRadius:'10px', height: '370px' }} />
+        <br></br>
+        <h2 style={{fontSize:'20px', fontWeight:'bold'}}>Step 4 - Generate the Beta Code:</h2>
+        <ul>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>On the next page, you will see an option to generate a beta code.</li>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>Look for the &quot;Generate Beta Code&quot; button, it should be clear that it’s for obtaining your TestFlight code.</li>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>Click on the &quot;Generate Beta Code&quot; button.</li>
+        </ul>
+        <img src="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/web_home.webp" alt="" style={{ position: 'relative', margin:'auto', borderRadius:'10px', height: '370px' }} />
+        <br></br>
+        <h2 style={{fontSize:'20px', fontWeight:'bold'}}>Step 5 - Wait for the Beta Code to be Processed:</h2>
+        <ul>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>Once you click to generate the beta code, the system will process your request.</li>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>If the beta program is currently open and accepting new testers, the code generation process should complete quickly.</li>
+        </ul>
+        <img src="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/web_2.webp" alt="" style={{ position: 'relative', margin:'auto', borderRadius:'10px', height: '370px' }} />
+        <br></br>
+        <h2 style={{fontSize:'20px', fontWeight:'bold'}}>Step 6 - Automatic Opening of TestFlight:</h2>
+        <ul>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>If the beta program is accepting new testers, the TestFlight app on your device may automatically open with the new beta code.</li>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>If this automatic action happens, follow the on-screen instructions in the TestFlight app to accept the invitation and install the beta app.</li>
+        </ul>
+        <img src="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/final.webp" alt="" style={{ position: 'relative', margin:'auto', borderRadius:'10px', height: '370px' }} />
+        <br></br>
+        <h2 style={{fontSize:'20px', fontWeight:'bold'}}>Step 7 - Manual Opening of TestFlight (if necessary):</h2>
+        <ul>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>If the TestFlight app does not open automatically, you will typically see an option to &quot;Open in TestFlight&quot; on the website.</li>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>Click on &quot;Open in TestFlight.&quot; This action should manually redirect you to the TestFlight app on your device.</li>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>If needed, you can also copy the beta code and open the TestFlight app yourself, then enter the code manually.</li>
+        </ul>
+        <img src="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/web_full.webp" alt="" style={{ position: 'relative', margin:'auto', borderRadius:'10px', height: '370px' }} />
+        <br></br>
+        <h2 style={{fontSize:'20px', fontWeight:'bold'}}>Step 8 - Complete the Beta App Installation:</h2>
+        <ul>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>Once in the TestFlight app, you will see the beta app listed.</li>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>Follow the prompts to install the beta version of the app on your device.</li>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>Ensure you allow necessary permissions and agree to any terms if prompted.</li>
+        </ul>
+        <img src="https://raw.githubusercontent.com/aditya9738d/codewings_files/main/final.webp" alt="" style={{ position: 'relative', margin:'auto', borderRadius:'10px', height: '370px' }} />
+        <br></br>
+        <h2 style={{fontSize:'20px', fontWeight:'bold'}}>Step 9 - Start Testing:</h2>
+        <ul>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>After installation, open the beta app and start testing it.</li>
+          <li style={{margin:'10px 20px', listStyleType:'disc'}}>Provide feedback as required by the beta program guidelines, which might be detailed on the website or within the app itself.</li>
+        </ul>
+      </div>
