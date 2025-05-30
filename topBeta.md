@@ -1,3 +1,4 @@
+- **SOREC Jeux**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e8/21/c1e821c4-d6e7-7081-0ca4-4abae525905b/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/9pFE8v2x)
 - **Apple Information (G_2009)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/8f/94/da8f947d-5588-b111-3b7d-c3ad72f005f6/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mvvPpeZf)
 - **Sonify**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/f4/9a/1af49a7f-5b35-f752-030c-824b9dbc58b0/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d1bqGDAR)
 - **XappConnect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/74/6d/24746dc7-8053-7c8c-0b5f-495bfd4c3719/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PDzRN27e)
