@@ -1,3 +1,4 @@
+- **Snapback Sports Trivia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/12/d9/1812d99f-44b6-bcbf-c814-ee072c484421/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CMr8eFSx)
 - **Social Detective AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/c0/2e/f2c02e93-73fc-4ba2-24af-184d994833d6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/grfZJF4t)
 - **Ouest-France, l'info en direct**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/3e/2a/6f3e2a89-2f20-bb75-52cd-d0ceab26aab5/AppIconOF-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TUXA44VZ)
 - **arsynal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/8f/26/648f267e-8f2e-c859-8e6d-4eab9ca7357f/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Jnhg4q3W)
