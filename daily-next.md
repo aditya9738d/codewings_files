@@ -1,3 +1,4 @@
+- **BNB Ring**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/0d/0c/e90d0c61-fd69-90f7-2e53-c885dfdf070a/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QwEYa3Nw)
 - **DJDOG: Pump Solana Meme**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/e9/86/46e986eb-3bd5-3256-fab4-9d18553c6875/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gBz59bPn)
 - **AirAP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/f4/e5/24f4e5ff-0933-8421-1537-81f41eeb019a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8aeqD8Q2)
 - **LiveC - AI Chat Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/68/5e/58685ed4-7873-fce9-e647-dd4c45a892cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JfUZHPyT)
