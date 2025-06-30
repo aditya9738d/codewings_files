@@ -1,3 +1,4 @@
+- **ChuBeRose**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/24/bf/3e24bf17-9a6e-153e-abac-6f6041231d89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U7VNaQpr)
 - **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/b3/75/c5b375df-3a00-af80-1b99-7b293b07b35e/AppIcon-primary-primary-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
 - **Keka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/59/d0/a659d0bc-2269-4eca-2ba2-9ec44bd3a7b4/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPYINGCJ)
 - **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c5/82/1fc58253-9d02-97c9-e044-da76d3127b05/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
@@ -117,4 +118,3 @@
 - **TDS Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/52/3e/f4523eba-e056-bf9c-7c89-69444a2bb0cf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1Z9HQgNw)
 - **Radiacode**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/1f/f6/441ff6b7-589b-a564-2778-53bbddccfa4d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8hSPtm4Z)
 - **Are:na**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/76/3f/ef763ff6-1b8c-10cd-2a61-736005034b08/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pn2mkLJ0)
-- **1Password for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/6c/4d/0e6c4d7e-dbe0-b2db-334a-46d9f55b4b1f/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/wdCBan7N)
