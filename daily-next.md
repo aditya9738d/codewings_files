@@ -1,3 +1,4 @@
+- **Jump Desktop (RDP, VNC, Fluid)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c5/82/1fc58253-9d02-97c9-e044-da76d3127b05/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PT4ZWw0g)
 - **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/61/87/d461876b-643e-3a92-ef47-b1a7414f3b08/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
 - **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e3/90/80e3906f-2a6d-acc4-10bf-9c22fc084220/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
 - **Quiet Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/7c/e6/027ce608-99f5-f4ca-742d-7e9a40aceac6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaUjeiW7)
@@ -117,4 +118,3 @@
 - **1Password for Safari**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/6c/4d/0e6c4d7e-dbe0-b2db-334a-46d9f55b4b1f/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/wdCBan7N)
 - **Bridge - Wear Sync**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/b5/5f/84b55f8c-12f4-3641-2d7f-ce9380c15156/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1X3wxTT9)
 - **viaim**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/bc/8f/dbbc8f3b-9e82-e6ff-cc20-3e7caf4bcf89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hlO9DpDK)
-- **Sponge - Gallery Cleaner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/1e/87/8e1e8765-2091-fb64-ac29-81832aa3e490/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/U3Ycm6mK)
