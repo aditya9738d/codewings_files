@@ -1,3 +1,4 @@
+- **ChuBeRose**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/24/bf/3e24bf17-9a6e-153e-abac-6f6041231d89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U7VNaQpr)
 - **Swiftfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/b3/75/c5b375df-3a00-af80-1b99-7b293b07b35e/AppIcon-primary-primary-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SqNPfdxq)
 - **Keka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/59/d0/a659d0bc-2269-4eca-2ba2-9ec44bd3a7b4/Keka-iOS-Smile-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gPYINGCJ)
 - **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/61/87/d461876b-643e-3a92-ef47-b1a7414f3b08/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
