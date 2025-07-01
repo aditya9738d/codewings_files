@@ -1,3 +1,4 @@
+- **Vipps MT**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/b7/e1/9bb7e174-5bbe-3ab4-bc67-0bceff79baa2/AppIconMT-Vipps-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hTAYrwea)
 - **iRime输入法-小鹤双拼五笔郑码输入法**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/5d/c1/d55dc16a-5511-5256-4581-02d611799fba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/waiX3gWm)
 - **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/d5/12/68d51203-df20-3789-b8c6-f90fa3308e23/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 - **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/37/0d/c2370db1-f665-62e4-612a-750279e046f6/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
@@ -117,4 +118,3 @@
 - **LineBlitz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/22/ae/4a22ae77-d274-823d-663b-42290fa52a7f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bGpSAP8a)
 - **Car好錄**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/23/e9/6623e9c4-6c5d-9621-fc15-8f46c45a6b52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vjFXiaw0)
 - **VPBank Jarvis SalesApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/cb/b2/9dcbb2a2-ba59-e79d-c601-497fe2ef4c37/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nlZsButl)
-- **B-Bank Debug**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/5c/10/8a5c102a-0fbc-b89b-9773-f347be74f535/AppIcon-Debug-0-0-1x_U007ephone-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lnzqqwbU)
