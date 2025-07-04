@@ -1,3 +1,4 @@
+- **Feditext**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/8f/fc/7e8ffca0-5c70-30da-a99a-6137f707eaa1/AppIcon-1x_U007epad-0-0-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3Ik3KBjj)
 - **Mecharashi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/5d/4d/575d4d10-8221-3125-34f7-55484687637e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xGyXk6UK)
 - **Misty lite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/0a/a5/4d0aa50f-acd7-8b9e-2328-dfd90870a998/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKNtU9TX)
 - **Nostur - Nostr client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/e4/f7/23e4f73d-9f1b-6e2d-68df-42e2ffa1a313/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TyrRNCXA)
