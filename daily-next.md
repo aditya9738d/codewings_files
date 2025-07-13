@@ -1,3 +1,4 @@
+- **Untappd: Find Beer You'll Love**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/6b/01/cf6b01b5-7c64-b216-d34a-3e7013dba861/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EbIrz3mA)
 - **Atlas Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2f/92/2c2f9228-3e4f-fc68-071b-8ef9025e0d32/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YL5CVk22)
 - **BAGeL Radio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/84/a3/5e84a3c2-2995-8b76-56c5-4d2245caabd6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gc22b7TD)
 - **T-spider検証**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/90/04/4b900462-9097-c09f-b1ad-f4514a58a8aa/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFmmDGxb)
@@ -117,4 +118,3 @@
 - **GEO-PULSE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/5c/5e/325c5ef8-caa8-2364-13b5-0981da76548e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Qg2GCNw6)
 - **FilmNoir TV Tracker for Trakt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/0f/8f/550f8ff9-339f-ca84-7eba-ef3f04bfa8dd/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nEjFWOWX)
 - **O-KAM Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/8a/3f/668a3f6a-e37f-d88d-697d-78beeed78973/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3wVU0q2A)
-- **Meta Horse**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/6e/9c/6a6e9cec-6c32-f1bf-a183-152f57c05d25/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EFZgK0qz)
