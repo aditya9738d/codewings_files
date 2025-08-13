@@ -1,3 +1,6 @@
+- **Snabba**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/5d/f4/1b5df40f-9f12-2110-63a0-a2ee6953fbd1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VkTfEhuK)
+- **SAKO LEGENDS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/ed/2f/73ed2f71-a78c-1399-d064-2dec37fa5ff1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2fecSa4G)
+- **Curls - Workout Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/2a/54/062a54c5-2e85-f86b-8e0e-8f07a79b066d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mAfE5kJD)
 - **Gem Wallet - Bitcoin & Solana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/7a/82/947a8234-0bf9-51f8-85f3-f40a26ff4dd6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GUrGydJz)
 - **Defi App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/4a/26/7f4a2696-508d-df2d-1c10-0104769a2905/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CxrtEEqv)
 429: Too Many Requests
