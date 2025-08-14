@@ -1,3 +1,4 @@
+- **Melvor Idle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/45/cd/a545cdb1-ba84-dc2d-14e9-488aea65d7e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5kj76Wnt?ref=news.melvoridle.com)
 - **BGBO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/21/91/b02191cc-f17d-2be6-7c38-89e30b48a4f8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/58dgX5vY)
 - **ثمانيـة**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/56/d9/bc56d963-7fd9-888c-aa4d-5d2e3d0a5790/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z6mZrMPh)
 - **Pebble Core**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/93/80/559380c0-7fc8-7f25-0a7d-d2fd13bfd896/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M695eCup)
