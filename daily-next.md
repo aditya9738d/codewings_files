@@ -1,3 +1,4 @@
+- **Melvor Idle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/45/cd/a545cdb1-ba84-dc2d-14e9-488aea65d7e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5kj76Wnt?ref=news.melvoridle.com)
 - **BGBO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/21/91/b02191cc-f17d-2be6-7c38-89e30b48a4f8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/58dgX5vY)
 - **ثمانيـة**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/56/d9/bc56d963-7fd9-888c-aa4d-5d2e3d0a5790/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z6mZrMPh)
 - **Pebble Core**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/93/80/559380c0-7fc8-7f25-0a7d-d2fd13bfd896/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M695eCup)
@@ -117,4 +118,3 @@
 - **iPlayTV AIO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/58/44/5d584415-52d2-ff9e-bec9-2d844d351440/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/irMsXGg0)
 - **Airmail - Your Mail With You**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/cd/61/41cd6133-c6db-4277-2ff1-7930fae6ea76/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wRiLlWPE/)
 - **PhoenixR**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/b1/4f/d9b14f74-f6c0-9e2e-4d10-0b0fd4544936/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1HWgemsd)
-- **BandLab – Music Making Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/2d/d2/122dd292-e26f-5d1b-415e-e12f6f987efb/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BwbEj9Xx)
