@@ -1,3 +1,4 @@
+- **Pebble Core**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/93/80/559380c0-7fc8-7f25-0a7d-d2fd13bfd896/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M695eCup)
 - **Igor Link Premium**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/a1/08/ffa108c9-e8dc-cc63-2646-ae1ebe54a67e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eVerMSgA)
 - **ViStyle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/9b/71/7c9b717f-95f3-15e2-0117-46ada0bd7fba/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/vCnB9gDY)
 - **PDK Access by ProdataKey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/29/58/f4295813-171f-30d9-5453-fe12f670b88d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OHwTybsU)
