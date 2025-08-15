@@ -1,3 +1,4 @@
+- **Immich Gallery**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f6/aa/b5f6aa1b-4295-442a-6660-6d7c8a086e2f/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/EVqUjrYs)
 - **AudiobookShelf(开源版)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/cc/9b/9ecc9b17-dfad-04db-d935-7b56a417445a/Icons-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HkWgESNz)
 - **NRO by ixxc 03**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/01/65/ec01655c-5e66-ed30-5bc2-32e4e74cf235/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kw8PrrTV)
 - **Melvor Idle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/45/cd/a545cdb1-ba84-dc2d-14e9-488aea65d7e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5kj76Wnt?ref=news.melvoridle.com)
@@ -117,4 +118,3 @@
 - **Float Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/61/87/d461876b-643e-3a92-ef47-b1a7414f3b08/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lRG2HmW6)
 - **Suwatte**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e3/90/80e3906f-2a6d-acc4-10bf-9c22fc084220/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qDyYMTLJ)
 - **Quiet Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/7c/e6/027ce608-99f5-f4ca-742d-7e9a40aceac6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaUjeiW7)
-- **iPlayTV AIO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/58/44/5d584415-52d2-ff9e-bec9-2d844d351440/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/irMsXGg0)
