@@ -1,3 +1,4 @@
+- **wBlock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/d9/87/31d987b2-0bd5-cf95-fa21-94a9c8e93f9e/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nCjEmXVQ)
 - **JellyCATalog**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/86/6d/f0866dc0-9faa-360e-2da3-6b04088c0856/AppIcon-0-0-1x_U007epad-0-11-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/Ps85q1Ah)
 - **Immich Gallery**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f6/aa/b5f6aa1b-4295-442a-6660-6d7c8a086e2f/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/EVqUjrYs)
 - **AudiobookShelf(开源版)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/cc/9b/9ecc9b17-dfad-04db-d935-7b56a417445a/Icons-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HkWgESNz)
