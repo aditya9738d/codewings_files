@@ -1,3 +1,4 @@
+- **Immich Gallery**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f6/aa/b5f6aa1b-4295-442a-6660-6d7c8a086e2f/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/EVqUjrYs)
 - **AudiobookShelf(开源版)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/cc/9b/9ecc9b17-dfad-04db-d935-7b56a417445a/Icons-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HkWgESNz)
 - **NRO by ixxc 03**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/01/65/ec01655c-5e66-ed30-5bc2-32e4e74cf235/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kw8PrrTV)
 - **Melvor Idle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/45/cd/a545cdb1-ba84-dc2d-14e9-488aea65d7e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5kj76Wnt?ref=news.melvoridle.com)
