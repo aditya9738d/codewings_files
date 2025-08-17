@@ -1,3 +1,4 @@
+- **LineBounce App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/05/72/e40572de-dd43-45d2-de2c-36be12e69ea5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PkegAbGV)
 - **Mê.Ngọc.Rồng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/e5/11/dbe51188-4308-2c05-3c3c-fddaef124ac9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MjuzfKVz)
 - **AudiobookShelf(开源版)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/cc/9b/9ecc9b17-dfad-04db-d935-7b56a417445a/Icons-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HkWgESNz)
 - **NRO by ixxc 08**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/89/70/76897040-738b-b273-f7a2-1662524a429b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mspeMFXG)
@@ -117,4 +118,3 @@
 - **Matrix go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/5f/c6/5f5fc633-3769-93e9-4e1f-2214e8debf85/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BX8EObic)
 - **JP Best**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/b2/10/cfb2103e-a5cd-547a-c33b-2aca6b10a6be/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QR9X1MAM)
 - **港險表哥**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/c8/54/20c85414-eb63-85d5-de6d-04e65aa5b3b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MmqZfZ1l)
-- **Clic for Sonos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/bc/27/fabc27f3-2410-01ab-be85-75bfc7ae0db6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/heSmRY4t)
