@@ -1,3 +1,4 @@
+- **Emergenciz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/13/64/09136406-db2e-b036-5a2c-68f56ecc12e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eE4k1A7M)
 - **DetailsPro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/59/59/0759595a-95d3-8bf3-c60d-37704b6f0e9d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QCrMtMTg)
 - **Transcription Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/2c/75/2a2c750b-35f7-fdcb-2c4a-f63bdbc03849/transcription-app-icon-0-0-85-220-0-6-0-2x-0-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eqHe9g46)
 - **Zèya**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/be/ad/a0bead12-d024-7d9b-6d38-87e31fd38db8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GyhkTVtH)
