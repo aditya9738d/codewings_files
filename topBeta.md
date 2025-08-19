@@ -1,3 +1,4 @@
+- **WiFi Explorer Pi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/53/3f/71533fb7-7342-8972-914b-66c007e70945/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KJF3GrRa)
 - **AudiobookShelf(开源版)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/cc/9b/9ecc9b17-dfad-04db-d935-7b56a417445a/Icons-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HkWgESNz)
 - **Emergenciz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/13/64/09136406-db2e-b036-5a2c-68f56ecc12e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eE4k1A7M)
 - **DetailsPro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/59/59/0759595a-95d3-8bf3-c60d-37704b6f0e9d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QCrMtMTg)
