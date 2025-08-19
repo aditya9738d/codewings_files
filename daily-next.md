@@ -1,3 +1,4 @@
+- **BumX T8**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/44/8a/ab448a02-c36a-d180-1db8-c9f6c401d37f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4Ed7CdN9)
 - **Ragnarok Endless Trails**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/69/48/006948ac-793d-dc90-a21e-bcd7282db13d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7ErGJ6kR)
 - **CỘNG.ĐỒNG.NRO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/76/8e/a9768e7d-a3da-8af8-f76d-f7d040b115f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hu6NKh1R)
 - **AudiobookShelf(开源版)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/cc/9b/9ecc9b17-dfad-04db-d935-7b56a417445a/Icons-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HkWgESNz)
@@ -117,4 +118,3 @@
 - **BBVA Spain | Online banking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/d5/12/68d51203-df20-3789-b8c6-f90fa3308e23/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Fjj4M9xp)
 - **MyFRITZ!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/37/0d/c2370db1-f665-62e4-612a-750279e046f6/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U0v1rBE5)
 - **GitHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/59/3e/e2593ec8-41e5-b9ab-59b0-be47e1662457/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NLskzwi5)
-- **Bringin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/34/f2/b334f2e5-1a5f-c6df-9ca0-423cbd8d1d5e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HVh6eZsF)
