@@ -1,3 +1,5 @@
+- **Met Office (Beta app)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/b8/eb/c6b8eb5f-57f7-6340-6458-b060a9a95193/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ScdVVE5Q)
+- **Spinbetter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/ef/99/c9ef99a5-93f4-fc0e-07ae-6048e3c7c914/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MmGcCHma)
 - **Fracctal TCG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/c7/55/d4c75591-4a9e-aa2c-7bf9-1cc4158742b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rGegPwKA)
 - **Nine9_**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ae/b4/a1aeb47d-3945-a36a-4480-702a9457e6e8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KRMEpp4m)
 - **Now On Vision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/06/88/10068897-f61e-7dee-07eb-54c6370b8fa2/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/XFKucmQ6)
