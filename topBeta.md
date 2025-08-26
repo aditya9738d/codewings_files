@@ -1,3 +1,4 @@
+- **Showline**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/fe/89/e7fe89b2-dfc9-4496-57d3-ce4891a8c989/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/b1CnpqQ7)
 - **MiniWhisper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/d7/04/0ed704d6-a638-2fb1-72f1-bea250adb0c5/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/ShCQ3sVr)
 - **Met Office (Beta app)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/b8/eb/c6b8eb5f-57f7-6340-6458-b060a9a95193/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ScdVVE5Q)
 - **Spinbetter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/ef/99/c9ef99a5-93f4-fc0e-07ae-6048e3c7c914/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MmGcCHma)
