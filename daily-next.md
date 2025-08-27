@@ -1,3 +1,4 @@
+- **Ngọc Rồng VV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/60/1e/44601e88-d332-c826-47ef-6f2229ef22ed/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/XmnTDJBx)
 - **ChaotixAi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/f9/8a/93f98acc-c20c-7589-b524-310ac224c7d0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/evN15B9Q)
 - **CRIA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/ac/30/c4ac306d-858a-7a72-28f8-250fdd5b3f9c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/t8mfjMnS)
 - **Inbox by MessageDesk**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/d6/7d/93d67d80-5e31-9f74-4c33-490f4950c646/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nXZRzunZ)
@@ -117,4 +118,3 @@
 - **MindSync - AI Health Journal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/25/d5/6725d58e-3668-a587-a66b-3d457da9af7f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hgGutaWN)
 - **Học Viện TuVi Việt Nam**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/f1/d6/18f1d69f-d843-444c-e6be-f11cc07fa66e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rFMlokwB)
 - **Vietlott SMS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/2f/f3/102ff3ee-bd66-08cf-6369-2936fd26e90c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QRQlxnqs)
-- **Chimera BMX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/e2/53/61e25368-6790-667f-44f3-97591d8fabc7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5PtSf2wZ)
