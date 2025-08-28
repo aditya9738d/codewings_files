@@ -1,3 +1,4 @@
+- **GameViet So 1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/07/62/17076239-12b3-65cb-6736-eccbf7661d52/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YKa4K1bp)
 - **Oculis**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/71/33/507133b2-42ef-c5a5-baaf-601f0e35029b/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/T2GMP9Pm)
 - **HiBean**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7b/cb/307bcbb2-3134-5d97-b582-f4940f621723/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XCHXNdTt)
 - **蛋仔星球**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/40/44/5440440d-1663-d714-50b1-77d07038e63b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U1uy34cq)
@@ -117,4 +118,3 @@
 - **Atlas Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2f/92/2c2f9228-3e4f-fc68-071b-8ef9025e0d32/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YL5CVk22)
 - **BAGeL Radio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/84/a3/5e84a3c2-2995-8b76-56c5-4d2245caabd6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gc22b7TD)
 - **T-spider検証**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/90/04/4b900462-9097-c09f-b1ad-f4514a58a8aa/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFmmDGxb)
-- **Telenet TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/4b/06/584b06ca-6bd7-318d-c059-7e1bc87624af/AppIcon-telenet-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nYWzw0px)
