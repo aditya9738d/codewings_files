@@ -1,3 +1,4 @@
+- **HiBean**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7b/cb/307bcbb2-3134-5d97-b582-f4940f621723/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XCHXNdTt)
 - **蛋仔星球**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/40/44/5440440d-1663-d714-50b1-77d07038e63b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U1uy34cq)
 - **Eva Bee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/5f/8d/6d5f8d7b-610f-3178-da18-ba3503fedd2c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sAeE1P4t)
 - **Met Office (Beta app)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/b8/eb/c6b8eb5f-57f7-6340-6458-b060a9a95193/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ScdVVE5Q)
@@ -117,4 +118,3 @@
 - **T-spider検証**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/90/04/4b900462-9097-c09f-b1ad-f4514a58a8aa/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dFmmDGxb)
 - **Telenet TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/4b/06/584b06ca-6bd7-318d-c059-7e1bc87624af/AppIcon-telenet-0-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nYWzw0px)
 - **Observer for Screeps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/06/77/c60677f3-8a67-7ca1-2778-a644d49e0799/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u4GlOWaL)
-- **Passio Nutrition-AI Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/cf/0f/21cf0fae-c073-fec3-c250-a3ab6ca3d45f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E8X1SS5l)
