@@ -1,3 +1,4 @@
+- **Apple Information (GN_Vip)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/fc/2b/dffc2b87-6e27-b3ac-12f1-b9e2395054b6/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dgW93q6b)
 - **HiNotes by HiDock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/77/9b/45779bae-6cb6-8c9a-24ed-aa95af5048a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/frUvTHk1)
 - **Selfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/c3/36/16c33684-dc6e-c124-5697-c899afadbe13/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W5nT44gj)
 - **GameViet So 1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/07/62/17076239-12b3-65cb-6736-eccbf7661d52/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YKa4K1bp)
@@ -117,4 +118,3 @@
 - **yeslive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e2/2b/01e22b13-cfa9-bec6-69ed-13c8c4ee7024/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/lTyYNvOJ)
 - **WebView SDK Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/28/4f/6d284fd6-425b-27a7-538e-cecb6f69cfcb/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/o2rXLOgz)
 - **Untappd: Find Beer You'll Love**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/6b/01/cf6b01b5-7c64-b216-d34a-3e7013dba861/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EbIrz3mA)
-- **Atlas Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2f/92/2c2f9228-3e4f-fc68-071b-8ef9025e0d32/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YL5CVk22)
