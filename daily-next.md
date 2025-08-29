@@ -1,3 +1,4 @@
+- **HiNotes by HiDock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/77/9b/45779bae-6cb6-8c9a-24ed-aa95af5048a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/frUvTHk1)
 - **Selfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/c3/36/16c33684-dc6e-c124-5697-c899afadbe13/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/W5nT44gj)
 - **GameViet So 1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/07/62/17076239-12b3-65cb-6736-eccbf7661d52/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YKa4K1bp)
 - **Oculis**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/71/33/507133b2-42ef-c5a5-baaf-601f0e35029b/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/T2GMP9Pm)
@@ -117,4 +118,3 @@
 - **WebView SDK Demo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/28/4f/6d284fd6-425b-27a7-538e-cecb6f69cfcb/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/o2rXLOgz)
 - **Untappd: Find Beer You'll Love**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/6b/01/cf6b01b5-7c64-b216-d34a-3e7013dba861/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EbIrz3mA)
 - **Atlas Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2f/92/2c2f9228-3e4f-fc68-071b-8ef9025e0d32/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YL5CVk22)
-- **BAGeL Radio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/84/a3/5e84a3c2-2995-8b76-56c5-4d2245caabd6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gc22b7TD)
