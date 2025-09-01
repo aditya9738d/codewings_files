@@ -1,3 +1,4 @@
+- **Apple Information (G_Hay)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/10/ce/3b10ce99-644f-072f-888e-7fb0c53f70c7/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MEmvhNcf)
 - **Moon Player: AI-Enhanced 3D**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/41/6d/e2416da5-5045-7521-1092-b6752d123b66/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/vQBVKm3Q)
 - **Apple Information (G_Hay)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/10/ce/3b10ce99-644f-072f-888e-7fb0c53f70c7/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MEmvhNcf)
 - **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/5c/ea/3b5cea73-6f4f-8294-70ef-a58d7e027ae7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
@@ -117,4 +118,3 @@
 - **Mastery by Sir Brad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/88/f0/a588f041-f6a5-49f8-ed22-edfd2d0e2de4/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/WbpwRW3Q)
 - **ASLVision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/d2/54/11d25423-5b98-2118-7e41-414fe69fcd39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GUrbMhV8)
 - **Voyager for Lemmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/6c/25/6f6c2557-1657-3720-c9b8-49f7bb6e0f45/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nWLw1MBM)
-- **AstroDX-Beta (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/b8/e5/01b8e59d-ce57-5279-999a-eed90dc5c5da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ocj3yptn)
