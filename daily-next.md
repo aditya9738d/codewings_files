@@ -1,3 +1,4 @@
+- **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/5c/ea/3b5cea73-6f4f-8294-70ef-a58d7e027ae7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
 - **Apple Information (GN_Vip)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/fc/2b/dffc2b87-6e27-b3ac-12f1-b9e2395054b6/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dgW93q6b)
 - **Mijo — Recipes with AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/59/fd/4459fd89-d905-fd4b-a13d-e1943e039650/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nsKkejpG)
 - **Apple Information (G_Hay)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/10/ce/3b10ce99-644f-072f-888e-7fb0c53f70c7/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MEmvhNcf)
