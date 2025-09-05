@@ -1,3 +1,4 @@
+- **Apple Information (GN_Vip)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/fc/2b/dffc2b87-6e27-b3ac-12f1-b9e2395054b6/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dgW93q6b)
 - **Otis VGC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/80/24/fd802440-7542-0f73-d2bf-da7ae429afab/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RCzYxqW3)
 - **Brrow (Save and Earn)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/8f/5d/ce8f5d8c-6a01-5dcd-42c2-8367843d76c3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P1akbT8z)
 - **Apple Information (GunProVn)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/dc/4416dc61-71d4-000d-891f-92a9a8fae453/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rWzQ9UkT)
@@ -117,4 +118,3 @@
 - **ViStyle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/9b/71/7c9b717f-95f3-15e2-0117-46ada0bd7fba/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/vCnB9gDY)
 - **PDK Access by ProdataKey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/29/58/f4295813-171f-30d9-5453-fe12f670b88d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OHwTybsU)
 - **Expense Tracker - MintAi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/64/9a/5a649a58-bc95-24f3-f7cb-07b96f84c661/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WFJJ4YQ)
-- **Snabba**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/5d/f4/1b5df40f-9f12-2110-63a0-a2ee6953fbd1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VkTfEhuK)
