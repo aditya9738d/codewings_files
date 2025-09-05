@@ -1,3 +1,4 @@
+- **Studymath**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/34/7f/97347f7b-f213-487d-79a3-363c4d0d584e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zwQfR7cf)
 - **ChatWithAnyone: Offline Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/6c/8c/066c8c02-34bd-db57-cfa4-fc28ea01a0c3/AppIcon-1x_U007ephone-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jtVPfAA3)
 - **Apple Information (GN_Vip)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/fc/2b/dffc2b87-6e27-b3ac-12f1-b9e2395054b6/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dgW93q6b)
 - **Otis VGC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/80/24/fd802440-7542-0f73-d2bf-da7ae429afab/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RCzYxqW3)
@@ -117,4 +118,3 @@
 - **Igor Link Premium**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/a1/08/ffa108c9-e8dc-cc63-2646-ae1ebe54a67e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eVerMSgA)
 - **ViStyle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/9b/71/7c9b717f-95f3-15e2-0117-46ada0bd7fba/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/vCnB9gDY)
 - **PDK Access by ProdataKey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/29/58/f4295813-171f-30d9-5453-fe12f670b88d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OHwTybsU)
-- **Expense Tracker - MintAi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/64/9a/5a649a58-bc95-24f3-f7cb-07b96f84c661/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WFJJ4YQ)
