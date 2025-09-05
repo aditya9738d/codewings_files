@@ -1,3 +1,4 @@
+- **Otis VGC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/80/24/fd802440-7542-0f73-d2bf-da7ae429afab/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RCzYxqW3)
 - **Brrow (Save and Earn)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/8f/5d/ce8f5d8c-6a01-5dcd-42c2-8367843d76c3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P1akbT8z)
 - **Apple Information (GunProVn)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/dc/4416dc61-71d4-000d-891f-92a9a8fae453/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rWzQ9UkT)
 - **Peakist**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/67/eb/2367ebd5-1bd4-30ae-2d62-3ec05f1bbfaf/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/f9ASbSHj)
@@ -117,4 +118,3 @@
 - **PDK Access by ProdataKey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/29/58/f4295813-171f-30d9-5453-fe12f670b88d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/OHwTybsU)
 - **Expense Tracker - MintAi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/64/9a/5a649a58-bc95-24f3-f7cb-07b96f84c661/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3WFJJ4YQ)
 - **Snabba**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/5d/f4/1b5df40f-9f12-2110-63a0-a2ee6953fbd1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VkTfEhuK)
-- **SAKO LEGENDS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/ed/2f/73ed2f71-a78c-1399-d064-2dec37fa5ff1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2fecSa4G)
