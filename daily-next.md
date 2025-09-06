@@ -1,3 +1,4 @@
+- **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
 - **Glass 2048**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d0/47/c1d0479d-c76e-b512-53cb-02f5cc8eebc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HaHGzmCX)
 - **Zentime: Screen Time Control**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/f0/20/2df020e5-dd33-b5b8-7052-7e0550c26b11/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CkWb3Vvj)
 - **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
@@ -117,4 +118,3 @@
 - **Bitmap Bay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/17/8c/e5178cde-5453-1c85-a6e2-1e758b8a3591/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tB2Df61B)
 - **NRO by ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/09/34/e90934eb-3227-8f54-eaf8-8c0e0baa5d88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mgAFP9pS)
 - **wBlock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/d9/87/31d987b2-0bd5-cf95-fa21-94a9c8e93f9e/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nCjEmXVQ)
-- **JellyCATalog**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/86/6d/f0866dc0-9faa-360e-2da3-6b04088c0856/AppIcon-0-0-1x_U007epad-0-11-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/Ps85q1Ah)
