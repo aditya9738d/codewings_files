@@ -1,3 +1,4 @@
+- **EmojiPOPz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/ee/b0/29eeb0cb-9d69-6773-7014-91f2779e934c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R8Ncs1yF)
 - **Recipe Nutrition Calculator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/dc/e7/8adce70f-030a-1bc5-0dc1-22f9a53b8f6b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eeTVUhRb)
 - **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
 - **Procreate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/42/ba/c642ba2a-c22b-8710-c7f7-a1cc1dd7524a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aXzjzH8E)
@@ -117,4 +118,3 @@
 - **NRO by ixxc 03**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/01/65/ec01655c-5e66-ed30-5bc2-32e4e74cf235/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kw8PrrTV)
 - **Melvor Idle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/45/cd/a545cdb1-ba84-dc2d-14e9-488aea65d7e7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5kj76Wnt?ref=news.melvoridle.com)
 - **BGBO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/21/91/b02191cc-f17d-2be6-7c38-89e30b48a4f8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/58dgX5vY)
-- **ثمانيـة**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/56/d9/bc56d963-7fd9-888c-aa4d-5d2e3d0a5790/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z6mZrMPh)
