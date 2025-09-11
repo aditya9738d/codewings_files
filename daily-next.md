@@ -1,3 +1,4 @@
+- **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
 - **星痕共鳴**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/a4/19/dca419f9-ea96-00ad-e565-4c0620a3582c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QvumPFrQ)
 - **CKH MOBILE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/49/65/32496501-a738-bbb1-775c-54ff343154cd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kKT5kRvs)
 - **DigikoGameCenter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/bc/ed/bebcedbc-e771-3b1f-9261-38011f21f0f7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PYxBpbgE)
@@ -117,4 +118,3 @@
 - **Infinite Canvas: Vector Sketch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/e9/6f/13e96fe8-4a63-23e4-6077-d71e9ecaeba9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UzgVUV7k)
 - **Rippple for Trakt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/2e/aa/532eaa0e-5398-20ba-fa8e-13c8d7f88889/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UgPDmnAy)
 - **BumX T8**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/44/8a/ab448a02-c36a-d180-1db8-c9f6c401d37f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4Ed7CdN9)
-- **Ragnarok Endless Trails**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/69/48/006948ac-793d-dc90-a21e-bcd7282db13d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7ErGJ6kR)
