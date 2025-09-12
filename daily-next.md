@@ -1,3 +1,4 @@
+- **Shortcut Analyzer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/5c/fd/d35cfd5b-81e5-2918-e3e9-91a2fa147486/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jaV2AQQx)
 - **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
 - **BaseballO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/ad/ba/e0adba72-7808-76f4-4ec9-4f08611193dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/52Ne2j9c)
 - **星痕共鳴**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/a4/19/dca419f9-ea96-00ad-e565-4c0620a3582c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QvumPFrQ)
