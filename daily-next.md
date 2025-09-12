@@ -1,3 +1,4 @@
+- **Posterino - Pro Photo Collage**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/04/f8/ab04f87c-7828-c705-18bb-4f71a567172b/AppIcon-0-85-220-0-6-0-0-2x-sRGB-0-0-0-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/PE8Tv2bZ)
 - **StarTrip.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/91/5d/62915d3f-f1ab-f2a6-3add-9d806419e76a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZeSteS8w)
 - **ConditionMeter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/b0/72/f1b072e7-8a17-c01b-16e9-bb79d991e958/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rNfyzh2t)
 - **Shortcut Analyzer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/5c/fd/d35cfd5b-81e5-2918-e3e9-91a2fa147486/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jaV2AQQx)
@@ -117,4 +118,3 @@
 - **DetailsPro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/59/59/0759595a-95d3-8bf3-c60d-37704b6f0e9d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QCrMtMTg)
 - **Transcription Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/2c/75/2a2c750b-35f7-fdcb-2c4a-f63bdbc03849/transcription-app-icon-0-0-85-220-0-6-0-2x-0-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eqHe9g46)
 - **Zèya**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/be/ad/a0bead12-d024-7d9b-6d38-87e31fd38db8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GyhkTVtH)
-- **Anchor - Social Check-ins**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/38/4d/04384da7-e423-5500-7fc7-c1e968e6d25c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cs6J1fzx)
