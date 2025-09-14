@@ -1,3 +1,4 @@
+- **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
 - **FantasyNational - Dev**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/d3/4f/f9d34f29-6955-662d-ce93-6dd96a3a5386/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M10JZZqI)
 - **Maze Glide QC**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/ea/c9/89eac9cb-abe2-bc5d-3b15-6bc228a2b17e/AppIcon-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SPQ41ZmE)
 - **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
@@ -117,4 +118,3 @@
 - **Alyx: Caffeine Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ab/4e/63ab4e11-eae4-90d8-2b62-53bd6b8eedef/Alyx-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wRwfK8Nq)
 - **WiFi Explorer Pi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/53/3f/71533fb7-7342-8972-914b-66c007e70945/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KJF3GrRa)
 - **Emergenciz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/13/64/09136406-db2e-b036-5a2c-68f56ecc12e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eE4k1A7M)
-- **DetailsPro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/59/59/0759595a-95d3-8bf3-c60d-37704b6f0e9d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QCrMtMTg)
