@@ -1,3 +1,4 @@
+- **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
 - **GroupTab**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/e7/e2/6fe7e2a9-8903-1b36-b656-e7da9c37fc67/AppIcon-0-0-85-220-0-1-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/GhGVn9F2)
 - **Twist To Unlock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/2f/7d/7c2f7d68-e9f8-c884-cc32-2c202141c0b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pag9uyDf)
 - **BudgetGO: AI Expense Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/74/00/b47400fd-58a9-52dc-d29b-177b6e36ac7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V6pXPwcp)
@@ -117,4 +118,3 @@
 - **Có Truyện Đây**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/92/74/c99274a5-30f8-3add-eb25-0f67ef7932b6/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2X6Xm1k2)
 - **Passepartout, VPN Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/d3/45/60d345a7-f8e0-df9e-094b-8759fc98aea4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dnA4CXFJ)
 - **Fosi: Football Memories**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/f4/3c/2ef43c78-99d4-e43c-6b72-44bc8eb03893/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3qKCjTXT)
-- **Jars AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/9c/57/e59c5768-b165-274b-1ffb-e5e59ad5493d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p4zac3hu)
