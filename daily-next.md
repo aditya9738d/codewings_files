@@ -1,3 +1,4 @@
+- **W7**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/a2/61/3da26182-9210-16c9-adea-fafa9527104e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1BecYKuj)
 - **Apple Information (KingGun)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/52/35/ea523538-94a6-3d15-8546-dd7b64c2ab09/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/M9VkSJGK)
 - **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
 - **GroupTab**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/e7/e2/6fe7e2a9-8903-1b36-b656-e7da9c37fc67/AppIcon-0-0-85-220-0-1-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/GhGVn9F2)
