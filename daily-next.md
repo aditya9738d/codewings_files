@@ -1,3 +1,4 @@
+- **BudgetGO: AI Expense Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/74/00/b47400fd-58a9-52dc-d29b-177b6e36ac7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V6pXPwcp)
 - **sfxr Next**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/a1/a7/4ca1a74b-af09-214a-caac-53892380865e/AppIcon-0-0-85-220-0-4-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/gG1Ypumz)
 - **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
 - **FantasyNational - Dev**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/d3/4f/f9d34f29-6955-662d-ce93-6dd96a3a5386/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M10JZZqI)
@@ -117,4 +118,3 @@
 - **Jars AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/9c/57/e59c5768-b165-274b-1ffb-e5e59ad5493d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p4zac3hu)
 - **Alyx: Caffeine Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ab/4e/63ab4e11-eae4-90d8-2b62-53bd6b8eedef/Alyx-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wRwfK8Nq)
 - **WiFi Explorer Pi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/53/3f/71533fb7-7342-8972-914b-66c007e70945/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KJF3GrRa)
-- **Emergenciz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/13/64/09136406-db2e-b036-5a2c-68f56ecc12e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eE4k1A7M)
