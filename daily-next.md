@@ -1,3 +1,4 @@
+- **Apple Information (KingGun)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/52/35/ea523538-94a6-3d15-8546-dd7b64c2ab09/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/M9VkSJGK)
 - **ゲイ aim - SNS風コミュニティアプリ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/25/12/e0251220-d7b5-bb2d-8e06-425964d94157/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8PuvymsG)
 - **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
 - **Sudoku: Brain Workout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/79/1d/fd791deb-f4f0-2498-9959-8a56de522f2f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gjtRget3)
@@ -117,4 +118,3 @@
 - **Offramp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d9/17/93d9173f-e585-fbe6-d6f8-5390326752b9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/z98tXP39)
 - **Critter Colony - Survival Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/5f/46/db5f46b6-f3f5-bcae-9ef2-60d5268a50a1/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/yjemw17R)
 - **Ant Comic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/a2/34/f5a2340a-e0e8-e13f-d17e-0622e24911c6/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RaAyUvFe)
-- **TomoNow 2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/fc/f9/dafcf9cd-86d5-d176-0051-7d2f24dc65e0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/HEqPjPGT)
