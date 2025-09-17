@@ -1,3 +1,4 @@
+- **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
 - **VitalVu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/a7/75/b3a7756f-2155-33d2-41ed-edc1c20ec642/AppIcon-1x_U007epad-0-1-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vPHs8V3)
 - **UTM SE: Retro PC emulator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/2b/ce/a62bce38-6575-32e7-a907-326bfc00627d/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/scqwW9gJ)
 - **Apple Information (KingGun)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/52/35/ea523538-94a6-3d15-8546-dd7b64c2ab09/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/M9VkSJGK)
@@ -117,4 +118,3 @@
 - **Chatbox AI - LLM Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/fc/5b/2ffc5b7f-6641-f19d-0b49-cafb6407d915/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8PMSSnBK)
 - **Timecode Stamper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/96/2d/72962d04-65a6-b256-0f94-5e2c18686329/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VJ6K1SZ4)
 - **RevengerOnlineWorld**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/d6/3e/f3d63efc-dc50-a02a-a490-723ef37b56d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8EVj3Xzv)
-- **AriaGame**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/10/55/ed105501-628e-32ce-c1e5-e31e5393bf4a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j986H2PS)
