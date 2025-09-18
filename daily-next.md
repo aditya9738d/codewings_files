@@ -1,3 +1,4 @@
+- **Mammon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/00/b3/6a00b33f-8952-76ff-4823-1ef2687fd804/AppIcon-1x_U007ephone-0-1-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/yJh5EDm5)
 - **BetterBlue**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/4e/e7/b64ee710-09f0-00d4-4c56-8b9de5296e42/BetterBlueIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n7NRXTWb)
 - **Aster DEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/5c/52/5d5c5212-c710-39f7-1357-2a1427c52cbd/AppIcon-1x_U007ephone-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kqPmSypX)
 - **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
@@ -117,4 +118,3 @@
 - **Vibe Code Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/d6/1c/6bd61c0f-8655-5447-a22b-0d0bab36bf5c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gh7Qc1Hr)
 - **S70 Foundation**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/16/0f/dc160fe2-6e25-08d7-0027-bb6fd8823e12/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/d7YvZf54)
 - **Chatbox AI - LLM Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/fc/5b/2ffc5b7f-6641-f19d-0b49-cafb6407d915/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8PMSSnBK)
-- **Timecode Stamper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/96/2d/72962d04-65a6-b256-0f94-5e2c18686329/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/VJ6K1SZ4)
