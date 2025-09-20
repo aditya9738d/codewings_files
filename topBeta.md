@@ -1,3 +1,4 @@
+- **Blitz Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/d0/8c/06d08cdd-9700-38a4-702f-3b03af996bc9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/r8MfbNa6)
 - **Mluvídek Karty**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/2d/31/782d31fb-614f-51c5-f502-0c1d7f3483d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pNtBBY8g)
 - **Yahoo奇摩新聞**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/84/c8/2184c80f-4b71-e2fe-8dfb-8c6319f30dbd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DHxdX3RA)
 - **Quadrascan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/ea/61/6fea61f4-28b2-3608-f4c9-cedbe40ee5fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CdJDX38R)
