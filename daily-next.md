@@ -1,3 +1,4 @@
+- **Daft Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/09/65/b30965d5-33fc-d052-808b-a07795595929/AppIcon-0-0-85-220-0-5-0-2x-P3.png/200x200bb-80.png)](https://testflight.apple.com/join/dHmgwtzX)
 - **Filamingo TV+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/94/96/079496e4-b0de-f271-2fd6-b6b2a4525e08/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/3zbD3aQh)
 - **Apple Information (G_VoDich)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/d8/87/92d887f3-aca9-2f42-bfa4-26ae17aa5b3a/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RECDzyGQ)
 - **酷狗概念版-酷狗音乐匠心出品**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/06/56/18065628-c79b-84ee-4aa8-e8527c5aa011/AppIconGlass-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DdscKm1S)
