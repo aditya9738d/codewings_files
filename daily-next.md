@@ -1,3 +1,4 @@
+- **BuildBetter.ai Recorder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/44/3d/86443d44-2b89-dbd0-f53f-b9adddc8bb53/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b3sHstGN)
 - **Showcase Pix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/0d/1d/dd0d1d7c-88fd-7878-1556-20109cc751f0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D8va19RR)
 - **Fluid Dream**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/93/22/d29322e5-2ca9-8e83-5b88-4a89a003490f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QNUMumS6)
 - **JarPlay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/93/9d/33939dc3-8839-36c0-b95d-6ea5df4b9112/jar-icon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uRTbZv1U)
@@ -117,4 +118,3 @@
 - **OUTRANKERS -アウトランカーズ-**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ae/aa/7daeaa62-2aba-4d8e-b1c6-59048f3f4eeb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3PJRkP6R)
 - **Nooka: Podcast of Book Summary**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/ab/94/68ab9476-dcd4-5130-df72-5358ffe1c7e2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eN3eGVCZ)
 - **SpectreNav**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/9c/06/a29c06c2-826c-e6e3-1073-f178c4df4054/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vEX2Fmyx)
-- **NoPhone - Digital Detox**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/b6/17/ceb617d3-c65c-8f33-571a-d70a42606e90/AppIcon-0-1x_U007ephone-0-1-P3-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wG4qB3m3)
