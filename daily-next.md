@@ -1,3 +1,4 @@
+- **Did I lock it?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/40/98/6640980f-1122-f5e2-89a2-9fc86ffa64b1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yPdGDwEh)
 - **Testing Version 1.4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/5a/d2/fe5ad2bf-1cad-242c-5cd1-e17eabdd5303/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YKNm9e9W)
 - **Did I lock it?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/40/98/6640980f-1122-f5e2-89a2-9fc86ffa64b1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yPdGDwEh)
 - **WinStar 4.0 - v1.3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/93/63/fa93630a-8bfd-84b3-6e98-ac172a45a8e9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YKNm9e9W)
@@ -117,4 +118,3 @@
 - **TAEBANK**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/d7/85/b8d78504-d777-6e41-ff82-fb5efd5a42a9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yvksfDcF)
 - **Studymath**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/34/7f/97347f7b-f213-487d-79a3-363c4d0d584e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zwQfR7cf)
 - **ChatWithAnyone: Offline Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/6c/8c/066c8c02-34bd-db57-cfa4-fc28ea01a0c3/AppIcon-1x_U007ephone-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/jtVPfAA3)
-- **Apple Information (GN_Vip)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/fc/2b/dffc2b87-6e27-b3ac-12f1-b9e2395054b6/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dgW93q6b)
