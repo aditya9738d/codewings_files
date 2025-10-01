@@ -1,3 +1,4 @@
+- **SpellerShip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/4f/a1/364fa1c2-b409-0adb-0c5d-2432399ee967/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KsBb5tJj)
 - **Did I lock it?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/40/98/6640980f-1122-f5e2-89a2-9fc86ffa64b1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yPdGDwEh)
 - **飞牛TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/52/09/f05209c7-371c-7f6f-97d8-1f45bd22913c/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/GExXJ3DM)
 - **WinStar BGMI v1.5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/77/97/8b7797a9-8552-6278-8732-57e983448ba2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YKNm9e9W)
