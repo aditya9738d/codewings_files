@@ -1,3 +1,4 @@
+- **Cup Pong Galaxy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/12/42/a91242a4-7a6f-31ac-f9bc-0f245735f36f/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/aCBcUUJb)
 - **Did I lock it?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/40/98/6640980f-1122-f5e2-89a2-9fc86ffa64b1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yPdGDwEh)
 - **Nro.teamobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/b9/85/2fb985b3-5276-897d-3713-355f17744031/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5XHydcPE)
 - **Did I lock it?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/40/98/6640980f-1122-f5e2-89a2-9fc86ffa64b1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yPdGDwEh)
@@ -117,4 +118,3 @@
 - **Horizon for Bluesky**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/bb/d9/b7bbd967-7cde-5177-7761-dfa702530ae5/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1TqrMssv)
 - **DFU Blaster Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/60/70/c460702c-13cd-b679-910f-9d43fd1ce2af/AppIconiOS-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ePdTr5Kf)
 - **Sionnach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/91/dc/2791dca8-383f-d6df-0383-4270fe26080e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PBjJxZwu)
-- **Glass 2048**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d0/47/c1d0479d-c76e-b512-53cb-02f5cc8eebc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HaHGzmCX)
