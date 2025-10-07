@@ -1,3 +1,4 @@
+- **RecargasCuba**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/2a/8f/572a8fbe-071d-1a4c-9a21-9ab5b4bcdbc2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D2cmJtUF)
 - **DeckSettings**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/70/60/4f70609b-67de-afa2-9fc9-a46dffb2d96c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cEaCN98T)
 - **Day of Delivery**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/eb/46/1feb46f9-4b3f-95bc-8afd-2ecfbeca79f6/IconDoD-0-0-1x_U007ephone-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9sgrwfUM)
 - **Orth**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/94/34/479434a2-f6d2-5333-2b9e-437f3cf38331/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PbpEsTKj)
@@ -117,4 +118,3 @@
 - **Mana Pocket**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/90/62/6d906269-70fb-c18b-e07c-3fb7e0ff674a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/2KFExDea)
 - **MachMit!App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/35/0b/49350b97-2464-e596-fdde-394656609d7b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wX5QUgVV)
 - **Brrow (Save and Earn)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/8f/5d/ce8f5d8c-6a01-5dcd-42c2-8367843d76c3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P1akbT8z)
-- **LineElite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/4a/cc/004acc92-9736-2788-12d8-be00054e914d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bbFwW3KX)
