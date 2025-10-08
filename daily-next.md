@@ -1,3 +1,4 @@
+- **Fezer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/5f/a3/185fa365-8689-feb3-9c38-6d407048ccda/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kvGPdcqB)
 - **集一堂**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/88/d0/8f88d04a-9b4a-399a-6e69-b260fda5177a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Meg1wDk2)
 - **SavedIt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/d6/be/cdd6beb9-cba7-d556-6561-2e59187d954d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Hj86gWV1)
 - **Qr-Man**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c4/77/00c4777a-c2df-79ab-cc8b-55a0e6510980/AppIcon2-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaYaREcT)
@@ -117,4 +118,3 @@
 - **StarTrip.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/91/5d/62915d3f-f1ab-f2a6-3add-9d806419e76a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZeSteS8w)
 - **ConditionMeter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/b0/72/f1b072e7-8a17-c01b-16e9-bb79d991e958/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rNfyzh2t)
 - **Shortcut Analyzer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/5c/fd/d35cfd5b-81e5-2918-e3e9-91a2fa147486/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jaV2AQQx)
-- **BaseballO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/ad/ba/e0adba72-7808-76f4-4ec9-4f08611193dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/52Ne2j9c)
