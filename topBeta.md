@@ -1,3 +1,4 @@
+- **Qr-Man**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c4/77/00c4777a-c2df-79ab-cc8b-55a0e6510980/AppIcon2-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaYaREcT)
 - **Venus X**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/e8/c7/09e8c7d1-8682-53dc-32e1-1d51d73ecb2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YeTfcQDJ)
 - **NRO by ixxc 07**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ef/ec/d6efeca6-318f-b97b-7ff1-486bc79fa39c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c7FVDW2M)
 - **Chia – Nutrition AI Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/b3/32/9ab3325b-8afe-ed3e-7e94-3b041077e36b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wp7WxW6X)
