@@ -1,3 +1,4 @@
+- **Whizy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/da/aa/9edaaa81-85d9-0115-3e17-9ee46d8eb35e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pRt9a3Cb)
 - **Shelf Life: Daily Joy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/25/e8/ef25e810-87e2-deac-da40-618cc4d0a1bd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZQVjr3Ug)
 - **Vetiver**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/4a/e5/3f4ae524-c12b-804c-57b3-5842304b3bff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7d5qPCbS)
 - **Chia - Calorie Tracker IA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/42/07/e34207df-344b-0651-2450-edc33f946da0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wp7WxW6X)
@@ -117,4 +118,3 @@
 - **WhoseTrack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/11/8f/5e118f19-0b35-aa5f-ad32-32b6d17cde2e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mK2S71J4)
 - **CapsolAI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/4f/78/fc4f7886-0fda-9f24-bdea-c5360c1b1f0a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eGWk11rp)
 - **NETME**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/36/7b/6b367b90-2f49-ff5e-171e-c55184d10555/AppIcon-stg-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GAq15RKJ)
-- **W7**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/a2/61/3da26182-9210-16c9-adea-fafa9527104e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1BecYKuj)
