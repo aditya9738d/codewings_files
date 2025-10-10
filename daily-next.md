@@ -1,3 +1,4 @@
+- **闪电猫加速器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/a7/4e/94a74e47-7d12-d300-0068-a42ef819bd41/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExZ5twaX)
 - **AThenas**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/d1/c1/e1d1c1d6-013e-52f8-cb4b-4c7d6814637d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VPJGSxSQ)
 - **Whizy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/da/aa/9edaaa81-85d9-0115-3e17-9ee46d8eb35e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pRt9a3Cb)
 - **Shelf Life: Daily Joy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/25/e8/ef25e810-87e2-deac-da40-618cc4d0a1bd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZQVjr3Ug)
@@ -117,4 +118,3 @@
 - **ゲイ aim - SNS風コミュニティアプリ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/25/12/e0251220-d7b5-bb2d-8e06-425964d94157/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8PuvymsG)
 - **Sudoku: Brain Workout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/79/1d/fd791deb-f4f0-2498-9959-8a56de522f2f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gjtRget3)
 - **WhoseTrack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/11/8f/5e118f19-0b35-aa5f-ad32-32b6d17cde2e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mK2S71J4)
-- **CapsolAI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/4f/78/fc4f7886-0fda-9f24-bdea-c5360c1b1f0a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eGWk11rp)
