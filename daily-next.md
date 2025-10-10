@@ -1,3 +1,4 @@
+- **vsbet88**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/f7/53/27f7530a-55eb-6243-24cd-22f63c1f44d5/AppIcon-vd013-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5pCkDqQM)
 - **Ember Ruin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/18/68/6418683e-6a9b-95ee-cc38-ba38e5fc0494/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qcfsd457)
 - **闪电猫加速器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/a7/4e/94a74e47-7d12-d300-0068-a42ef819bd41/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExZ5twaX)
 - **AThenas**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/d1/c1/e1d1c1d6-013e-52f8-cb4b-4c7d6814637d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VPJGSxSQ)
@@ -117,4 +118,3 @@
 - **DCS Kneeboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/e2/72/9be27298-66e5-f7ac-487d-50c0a1a053c5/AppIcon-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YCSaGEts)
 - **Dead Ahead: Roadside**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/d6/14/32d61404-cf38-0a72-37f8-9f559c2dd187/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MkGxDtfT)
 - **ゲイ aim - SNS風コミュニティアプリ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/25/12/e0251220-d7b5-bb2d-8e06-425964d94157/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8PuvymsG)
-- **Sudoku: Brain Workout**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/79/1d/fd791deb-f4f0-2498-9959-8a56de522f2f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gjtRget3)
