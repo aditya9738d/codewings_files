@@ -1,3 +1,4 @@
+- **Gournal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/26/da/6526da0e-8447-5c28-1f21-c93464f2a787/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZUtAByAZ)
 - **Cheogram**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/05/48/fd054830-c0ff-8371-a698-a8fd63c39b06/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rmfXPT3S)
 - **Tirger Trade**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/98/60/79986050-854c-0f0d-8b31-efcf5cd8615e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gq86Z7PN)
 - **Макаронная**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/b2/77/a4b2775b-0ffe-b752-a4a9-c9fed64b68aa/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TJQ6GD3Z)
@@ -117,4 +118,3 @@
 - **V2Explorer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/fc/08/b2fc084f-81d0-cdda-6ff8-4df81cfefe74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7d5qPCbS)
 - **UK Business - Arundel News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/a9/63/9ba96348-7a63-6f5a-045f-789940362baa/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b2fpMfQf?ref=producthunt&at=1000l6eA)
 - **Mammon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/00/b3/6a00b33f-8952-76ff-4823-1ef2687fd804/AppIcon-1x_U007ephone-0-1-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/yJh5EDm5)
-- **BetterBlue**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/4e/e7/b64ee710-09f0-00d4-4c56-8b9de5296e42/BetterBlueIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n7NRXTWb)
