@@ -1,3 +1,4 @@
+- **Макаронная**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/b2/77/a4b2775b-0ffe-b752-a4a9-c9fed64b68aa/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TJQ6GD3Z)
 - **Umbra Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/4e/a4/aa4ea457-f8f4-1a48-2cd1-fbd8504f313f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rZpgUbWs)
 - **Coax - Relax with Coax**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/59/7b/93597bec-ad9a-f404-cb6a-e36c731d4f1b/AppIcon-0-1x_U007epad-0-1-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/fWRGNxPu)
 - **Perspective AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/45/af/4a45afce-4b9a-7e18-e25a-d119f9f1d14d/Appicon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mYu8sjkA)
@@ -117,4 +118,3 @@
 - **BetterBlue**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/4e/e7/b64ee710-09f0-00d4-4c56-8b9de5296e42/BetterBlueIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/n7NRXTWb)
 - **Aster DEX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/5c/52/5d5c5212-c710-39f7-1357-2a1427c52cbd/AppIcon-1x_U007ephone-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/kqPmSypX)
 - **Journal (FOSS)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1c/cc/621cccb1-fd1b-11c1-d843-d62483b7cb40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J3ChbZ8K)
-- **VitalVu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/a7/75/b3a7756f-2155-33d2-41ed-edc1c20ec642/AppIcon-1x_U007epad-0-1-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/6vPHs8V3)
