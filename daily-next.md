@@ -1,3 +1,4 @@
+- **WonderChat AI - Vibe Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/52/b3/2c52b32f-21d5-7b14-e9b5-04d18684ddcc/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5BEK5pVc)
 - **Buchen - Bookmarks**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/66/6f/c3666f82-7fea-a5d7-8dcd-c59914910d90/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/00Xz8nwk)
 - **7 Phong Ba**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/5a/0e/d35a0eca-b07d-9025-9671-43ff5861d5e2/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hSxuGyVr)
 - **Gournal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/26/da/6526da0e-8447-5c28-1f21-c93464f2a787/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZUtAByAZ)
@@ -117,4 +118,3 @@
 - **方程豹汽车**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/85/a7/7785a77e-0e3f-1bf1-b071-91de9a5e17f1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Cz7hoFpu)
 - **用戶端測試版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f6/40/b3f640c8-43c7-1cd1-ed12-7d77308f144c/AppIcon_InHouse-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nfpzmtan)
 - **Ant Comic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/a2/34/f5a2340a-e0e8-e13f-d17e-0622e24911c6/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RaAyUvFe)
-- **V2Explorer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/fc/08/b2fc084f-81d0-cdda-6ff8-4df81cfefe74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7d5qPCbS)
