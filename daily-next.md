@@ -1,3 +1,4 @@
+- **Acki Nacki Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/c9/10/f4c910e1-9c2a-5eec-d33f-9b360cd0d74f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SB9XbEeh)
 - **Mykara**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/9b/09/b99b09e6-92ce-a3b3-5da1-b67bf19d4009/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h2YCKvsC)
 - **365 Circles**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/fa/b7/06fab760-605d-a9b8-69f0-cd7fffc02884/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eGMQ72Q5)
 - **PracShooter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/d1/a4/69d1a481-6339-22a7-de5b-d165ccfaae2c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZhzsfKrT)
@@ -117,4 +118,3 @@
 - **新吉致管家**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/a7/8a/cfa78a61-7edc-6e00-999e-d4f09c64daf0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rc5Lq7k7)
 - **Artignia: Social Marketplace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/20/0b/7a200b26-4aba-4cc8-156b-1fc0a0df06a5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YRtcCCjb)
 - **Balello**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/cb/3e/7dcb3e3a-2d0c-2e50-714d-6d8ba500eb7b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NepsVsG2)
-- **Ngọc.Rồng**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/3f/45/943f452a-cef9-5c2a-39f0-ebeb575c5a01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4vSa5h3V)
