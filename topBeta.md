@@ -1,3 +1,4 @@
+- **Calculator Loans**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/78/a8/6378a825-5d65-efcd-1b4b-acab3ba0610c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Vhgg5ZSk)
 - **Node Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/87/4e/91874e15-be6d-f25d-2717-02c59cfe378d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vdAP6nz9)
 - **n8nworkflows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/c9/a1/1ec9a15d-2155-bfed-4525-a00ca3c74a87/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WGVqQg8U)
 - **Suriratna**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/68/80/a468800c-b08a-dfad-4d8b-97de7fac70c7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tJTSa57c)
