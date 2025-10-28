@@ -1,3 +1,4 @@
+- **Ran Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/1f/04/511f04b1-1ea8-745b-c118-6a9de94909c6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qWDMFT9U)
 - **quassama**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/60/a5/9160a5f2-fce3-4678-c64d-77292c68ca8b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z77bghge)
 - **VVM Exam 2025**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/2f/e8/b12fe845-2cb6-1c56-2aa0-21f891aa2243/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3M97PPYf)
 - **Kandilli Deprem Erken Uyarı**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/c9/c6/69c9c670-bda2-3cd6-6a34-686d89b06c5f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jJ5D9Zwd)
@@ -117,4 +118,3 @@
 - **Daft Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/09/65/b30965d5-33fc-d052-808b-a07795595929/AppIcon-0-0-85-220-0-5-0-2x-P3.png/200x200bb-80.png)](https://testflight.apple.com/join/dHmgwtzX)
 - **Filamingo TV+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/94/96/079496e4-b0de-f271-2fd6-b6b2a4525e08/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/3zbD3aQh)
 - **酷狗概念版-酷狗音乐匠心出品**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/06/56/18065628-c79b-84ee-4aa8-e8527c5aa011/AppIconGlass-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DdscKm1S)
-- **YourMeal: KI Kalorien Zähler**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/9e/ac/719eac28-f1d1-a4fa-0a07-1245def45c31/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/CpcUZy3V)
