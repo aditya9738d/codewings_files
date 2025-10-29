@@ -1,3 +1,4 @@
+- **People Hub Reborn**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/cb/a9/96cba9ee-efd7-7cee-fb21-cb5b2f9a9df2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J4mNpht7)
 - **Ran Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/1f/04/511f04b1-1ea8-745b-c118-6a9de94909c6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qWDMFT9U)
 - **quassama**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/60/a5/9160a5f2-fce3-4678-c64d-77292c68ca8b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Z77bghge)
 - **VVM Exam 2025**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/2f/e8/b12fe845-2cb6-1c56-2aa0-21f891aa2243/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3M97PPYf)
@@ -117,4 +118,3 @@
 - **Twist To Unlock®**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/a8/cf/27a8cffe-410c-3ecd-085d-d8c0108a8694/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pag9uyDf)
 - **Daft Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/09/65/b30965d5-33fc-d052-808b-a07795595929/AppIcon-0-0-85-220-0-5-0-2x-P3.png/200x200bb-80.png)](https://testflight.apple.com/join/dHmgwtzX)
 - **Filamingo TV+**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/94/96/079496e4-b0de-f271-2fd6-b6b2a4525e08/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/3zbD3aQh)
-- **酷狗概念版-酷狗音乐匠心出品**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/06/56/18065628-c79b-84ee-4aa8-e8527c5aa011/AppIconGlass-0-0-1x_U007epad-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DdscKm1S)
