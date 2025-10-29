@@ -1,3 +1,4 @@
+- **CheqMate: Paycheck Planner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/79/77/017977e6-5614-0b6a-a6e3-55a5300f7a17/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QW8sCVWV)
 - **MiniBili**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/01/a1/4801a1f5-2b0e-c0c5-501c-da0ccc28be7a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TgcHSGwb)
 - **People Hub Reborn**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/cb/a9/96cba9ee-efd7-7cee-fb21-cb5b2f9a9df2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J4mNpht7)
 - **Ran Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/1f/04/511f04b1-1ea8-745b-c118-6a9de94909c6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/qWDMFT9U)
@@ -117,4 +118,3 @@
 - **Zeitgeist Journal & Diary**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/d2/5d/6ad25da7-1969-dd08-7eae-006dd7bf7cdf/Zeitgeist_App_Icon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MtNkNcwe)
 - **Apple Information (G_VoDich)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/d8/87/92d887f3-aca9-2f42-bfa4-26ae17aa5b3a/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RECDzyGQ)
 - **Twist To Unlock®**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/a8/cf/27a8cffe-410c-3ecd-085d-d8c0108a8694/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pag9uyDf)
-- **Daft Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/09/65/b30965d5-33fc-d052-808b-a07795595929/AppIcon-0-0-85-220-0-5-0-2x-P3.png/200x200bb-80.png)](https://testflight.apple.com/join/dHmgwtzX)
