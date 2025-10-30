@@ -1,3 +1,4 @@
+- **Stremio Lite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/bf/00/33bf007b-6ab3-7bd6-4f69-0ae3ae56173e/StremioIcon-0-0-1x_U007epad-0-0-0-1-0-0-GLES2_U002c0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JKG2j45W)
 - **Neon-Racers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/72/bb/8e72bbd5-d412-e6b7-9b28-877526fc86d3/AppIcon-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/DcBuC4Af)
 - **Cổ Kiếm Hiệp STORE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/73/58/7d73586d-735c-9c7a-86b9-344009b2b6af/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5gK8GK86)
 - **Aeon Studio - 3D AI Friend**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/67/fd/cb67fd40-165e-a6e8-9511-81f307b0d1d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xqvyh959)
@@ -117,4 +118,3 @@
 - **BuildBetter.ai Recorder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/44/3d/86443d44-2b89-dbd0-f53f-b9adddc8bb53/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b3sHstGN)
 - **Showcase Pix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/0d/1d/dd0d1d7c-88fd-7878-1556-20109cc751f0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D8va19RR)
 - **Fluid Dream**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/93/22/d29322e5-2ca9-8e83-5b88-4a89a003490f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QNUMumS6)
-- **JarPlay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/93/9d/33939dc3-8839-36c0-b95d-6ea5df4b9112/jar-icon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uRTbZv1U)
