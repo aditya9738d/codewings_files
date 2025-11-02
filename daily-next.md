@@ -1,3 +1,4 @@
+- **Last Odyssey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/49/49/7949496f-a230-e00b-96fa-63c5ba94c273/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SZVCKVvy)
 - **Пассажирам ЖД 17**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/f5/07/b9f507d3-63ec-4cbf-769e-bbfc0bcea12e/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZjhNnHaK)
 - **MaiAnhQua**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/8e/70/ce8e70d7-b462-c469-a577-e0a1074425f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1nJEFn7U)
 - **Skyscraper for Bluesky**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/16/c6/2416c646-74c0-029f-5fdf-0bf182670d96/app_icon_orange-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RRvk14ks)
@@ -117,4 +118,3 @@
 - **Lights Out: Formula Stats**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/d8/9e/48d89ee9-2c2a-e328-a221-d4630fefd902/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/N8SCQ9PF)
 - **Aster Perp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/28/20/6128201f-b9c3-6a2d-0312-98e6cbcf3a8e/AppIcon-1x_U007ephone-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/pf3ccpr4)
 - **Testing Version 1.4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/5a/d2/fe5ad2bf-1cad-242c-5cd1-e17eabdd5303/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YKNm9e9W)
-- **WinStar 4.0 - v1.3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/93/63/fa93630a-8bfd-84b3-6e98-ac172a45a8e9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YKNm9e9W)
