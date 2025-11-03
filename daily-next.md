@@ -1,3 +1,4 @@
+- **Mobi Army**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/e2/23/2fe223ab-c312-4a65-3e44-aeec30ff0b60/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BxtKjvP3)
 - **DeBotAI-N1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/fe/e8/39fee859-f042-a64c-d473-231207bbc9ad/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/s1yP4Hdr)
 - **Teemyo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/e3/fd/45e3fd5c-b9f5-379e-729c-99c5461631a6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4ZesUTbJ)
 - **TreninGoV2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/29/72/b5297277-bc37-df6d-62c5-2d96d4df8ad4/appicon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/1awxwhbP)
@@ -117,4 +118,3 @@
 - **Nro.teamobi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/b9/85/2fb985b3-5276-897d-3713-355f17744031/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5XHydcPE)
 - **The Done List - Reflectured**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/11/16/1e111641-08ae-7d56-c5aa-0abb16a7f7f9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/c94ZsYj4)
 - **SpellerShip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/4f/a1/364fa1c2-b409-0adb-0c5d-2432399ee967/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KsBb5tJj)
-- **飞牛TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/52/09/f05209c7-371c-7f6f-97d8-1f45bd22913c/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/GExXJ3DM)
