@@ -1,3 +1,4 @@
+- **Methods - Make Money Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/3c/3f/bb3c3f99-b254-e470-750c-998ea83cf509/Methods-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WXJXQTKF)
 - **vsbet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/c1/f3/d8c1f391-3df4-8343-fee1-bdcfb03a7669/AppIcon-vd013-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XpQshRSN)
 - **WrestlePuzzle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/f3/5d/7ef35d18-1cfb-dbef-c7f8-be109cefc57f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nBEVUM2D)
 - **CasaBank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/28/1e/57281ef6-0026-a66c-f118-228531f0c8fd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UtCk8GRf)
@@ -117,4 +118,3 @@
 - **OldOS 15**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/8d/5c/c68d5cc5-ae5e-ebdb-5ebf-cd01090b41dd/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KMDa2EEa)
 - **Yuwell Anytime - SG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/67/66/bb676682-1201-d4b2-5287-6ec763be97b5/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5aCkAswS)
 - **MADFUT 26**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/d4/d1/e4d4d108-3e32-b9f9-2a9f-db070ede876f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gf8SzZUM)
-- **wotblitz test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/79/b1/4679b1d8-981c-320c-525f-b28c6edbd94a/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/esfC62hd)
