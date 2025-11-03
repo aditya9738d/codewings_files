@@ -1,3 +1,4 @@
+- **WrestlePuzzle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/f3/5d/7ef35d18-1cfb-dbef-c7f8-be109cefc57f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nBEVUM2D)
 - **CasaBank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/28/1e/57281ef6-0026-a66c-f118-228531f0c8fd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UtCk8GRf)
 - **GAME IOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/b3/ae/2cb3aecb-a275-5031-9354-de534a0513c1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YGtQuWSM)
 - **こころの泉**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/9a/89/799a89be-4f7b-86c2-b2fe-6287d278efd9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QfFuGc8B)
@@ -117,4 +118,3 @@
 - **MADFUT 26**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/d4/d1/e4d4d108-3e32-b9f9-2a9f-db070ede876f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gf8SzZUM)
 - **wotblitz test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/79/b1/4679b1d8-981c-320c-525f-b28c6edbd94a/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/esfC62hd)
 - **Go Vigilant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/c8/0b/ddc80b92-7b50-fff8-300d-09b251f47900/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/swsmS6JR)
-- **Mercury Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/6f/e0/cd6fe03b-3c18-9eea-b825-c9dafe91f082/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wPVjUmtg)
