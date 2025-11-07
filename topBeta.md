@@ -1,3 +1,4 @@
+- **SingKara**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/81/93/668193b1-d81d-2e15-eb78-c5a22d0e3914/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h2YCKvsC)
 - **Inkwell Keeper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/78/d7/0278d71d-4900-9470-b33e-b76a44b65d2b/ink-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MEyVrWm9)
 - **FreeGen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/f6/f7/8cf6f7c4-adc1-5cdd-fe2d-79bf24c7e25c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Jq4hNKHh)
 - **Hackney: Compare Rideshares**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/fa/d7/d7fad7de-874f-2c1d-498d-21642e80b08d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wAwRhy1s)
