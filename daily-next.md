@@ -1,3 +1,4 @@
+- **AILO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/fd/a2/7bfda2d2-d185-4294-1197-ae3cd8e1b126/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a1WE6GrB)
 - **Grid Green**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/2c/10/6e2c10a5-b07a-9965-e65b-d607fb62d765/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXHDFMvM)
 - **SingKara**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/81/93/668193b1-d81d-2e15-eb78-c5a22d0e3914/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h2YCKvsC)
 - **Inkwell Keeper**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/78/d7/0278d71d-4900-9470-b33e-b76a44b65d2b/ink-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MEyVrWm9)
@@ -117,4 +118,3 @@
 - **Qr-Man**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c4/77/00c4777a-c2df-79ab-cc8b-55a0e6510980/AppIcon2-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yaYaREcT)
 - **Venus X**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/e8/c7/09e8c7d1-8682-53dc-32e1-1d51d73ecb2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YeTfcQDJ)
 - **NRO by ixxc 07**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ef/ec/d6efeca6-318f-b97b-7ff1-486bc79fa39c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/c7FVDW2M)
-- **Chia – Nutrition AI Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/b3/32/9ab3325b-8afe-ed3e-7e94-3b041077e36b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wp7WxW6X)
