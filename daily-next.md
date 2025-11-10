@@ -1,3 +1,4 @@
+- **Senzei 1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/14/63/f81463cb-d62b-0f71-dc00-526209580e23/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sAN2G1uC)
 - **نظام عدولي الجامعي**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/04/d8/4b04d8aa-11da-d162-c01e-9938da1463e9/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CdHmYhEK)
 - **Catch & Build: Lands of Pals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/01/d2/e601d2d8-7ae4-9d19-3b98-12023fa8211f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wGSfWAxE)
 - **LocalGen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/f6/f7/8cf6f7c4-adc1-5cdd-fe2d-79bf24c7e25c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Jq4hNKHh)
@@ -117,4 +118,3 @@
 - **Whizy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/da/aa/9edaaa81-85d9-0115-3e17-9ee46d8eb35e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pRt9a3Cb)
 - **Shelf Life: Daily Joy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/25/e8/ef25e810-87e2-deac-da40-618cc4d0a1bd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZQVjr3Ug)
 - **Vetiver**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/4a/e5/3f4ae524-c12b-804c-57b3-5842304b3bff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7d5qPCbS)
-- **Chia - Calorie Tracker IA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/42/07/e34207df-344b-0651-2450-edc33f946da0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wp7WxW6X)
