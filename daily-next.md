@@ -1,3 +1,4 @@
+- **Toot! for Mastodon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/d3/4d/abd34d09-c4b3-40d6-3176-6551da606be3/IconNormal-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FHupDY6v)
 - **HubMobi Plus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/45/30/dc453008-1d3c-475c-b224-6d15d58323cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5btRjaEm)
 - **Senzei 1.1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/14/63/f81463cb-d62b-0f71-dc00-526209580e23/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sAN2G1uC)
 - **نظام عدولي الجامعي**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/04/d8/4b04d8aa-11da-d162-c01e-9938da1463e9/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CdHmYhEK)
@@ -117,4 +118,3 @@
 - **闪电猫加速器**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/a7/4e/94a74e47-7d12-d300-0068-a42ef819bd41/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ExZ5twaX)
 - **AThenas**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/d1/c1/e1d1c1d6-013e-52f8-cb4b-4c7d6814637d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VPJGSxSQ)
 - **Whizy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/da/aa/9edaaa81-85d9-0115-3e17-9ee46d8eb35e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pRt9a3Cb)
-- **Shelf Life: Daily Joy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/25/e8/ef25e810-87e2-deac-da40-618cc4d0a1bd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZQVjr3Ug)
