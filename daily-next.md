@@ -1,3 +1,4 @@
+- **JX2 Mobile TDMP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/a8/b9/fda8b9c0-7b9b-3a8e-eaaa-c222dde94449/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tF1vePzb)
 - **Helmarr**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/b9/a0/b8b9a071-b677-400c-52af-97b64d729a87/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sVctzCeW)
 - **senseweave**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/db/2c/60db2c84-c25d-676f-b0ad-b93e43123bde/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P4unCy62)
 - **GameStock Technologies**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/66/10/8b66100d-f0b0-c74f-02cd-a311d218f9e2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Wv9WE7Kc)
@@ -117,4 +118,3 @@
 - **Moons by Frido**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/c0/6a/17c06ade-9514-42ce-b0c8-93c26a5c46b7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/KYKQFFPR)
 - **Feeding Timer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/9b/91/f09b91d6-b35d-670c-1e9e-94b8cd7898cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aPxxyYw4)
 - **BOSVG iBANK Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/36/53/ad3653ef-ee5a-de43-ca52-63e0550e2944/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aQstFXfI)
-- **NRO by ixxc 01**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/07/09/1f07090e-631b-a5a8-cc45-55c4c2bed1a4/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/2q9s8bkG)
