@@ -1,3 +1,4 @@
+- **Game ixxc 06**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1f/f8/5b1ff838-2506-434e-7db9-28765d7cb68e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/trszAYJq)
 - **MyKara**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/81/93/668193b1-d81d-2e15-eb78-c5a22d0e3914/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h2YCKvsC)
 - **Game ixxc 04**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/e7/42/89e74248-85ee-2f3b-ab1d-a3bdb0272cd8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mZWrAEa3)
 - **Zero Duplicates**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/39/8e/c5398edd-6517-236e-ffca-61b1c888630a/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/g6pJgRVc)
@@ -117,4 +118,3 @@
 - **Макаронная**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/b2/77/a4b2775b-0ffe-b752-a4a9-c9fed64b68aa/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TJQ6GD3Z)
 - **Umbra Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/4e/a4/aa4ea457-f8f4-1a48-2cd1-fbd8504f313f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rZpgUbWs)
 - **Coax - Relax with Coax**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/59/7b/93597bec-ad9a-f404-cb6a-e36c731d4f1b/AppIcon-0-1x_U007epad-0-1-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/fWRGNxPu)
-- **Perspective AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/45/af/4a45afce-4b9a-7e18-e25a-d119f9f1d14d/Appicon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mYu8sjkA)
