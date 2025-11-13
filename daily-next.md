@@ -1,3 +1,4 @@
+- **Rewave**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/67/30/cb6730ac-4ebf-e8d1-f599-30278f5d2875/Rewave-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w8MmunnC)
 - **Kumquat: Money Insights**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/b1/9c/d3b19c99-3510-4809-fe91-abe7a2abaa17/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/751xMDhW)
 - **ThreadMaster**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/ab/c9/78abc941-8d32-fe92-44f0-f3b7e2ea722e/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/JwlFTX03)
 - **Game ixxc 07**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/a9/5e/3ba95e10-10d7-cbb9-30f9-3db7fe65ebbb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xhwpf2pk)
@@ -117,4 +118,3 @@
 - **WonderChat AI - Vibe Code App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/52/b3/2c52b32f-21d5-7b14-e9b5-04d18684ddcc/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5BEK5pVc)
 - **Buchen - Bookmarks**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/66/6f/c3666f82-7fea-a5d7-8dcd-c59914910d90/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/00Xz8nwk)
 - **7 Phong Ba**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/5a/0e/d35a0eca-b07d-9025-9671-43ff5861d5e2/AppIcon-0-0-1x_U007emarketing-0-10-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hSxuGyVr)
-- **Gournal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/26/da/6526da0e-8447-5c28-1f21-c93464f2a787/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZUtAByAZ)
