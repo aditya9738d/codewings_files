@@ -1,3 +1,4 @@
+- **FrightMaps: Haunt Finder**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/78/27/0578271d-7f9f-905d-54b3-835610b507ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/94Np2hqx)
 - **Rewave**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/67/30/cb6730ac-4ebf-e8d1-f599-30278f5d2875/Rewave-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w8MmunnC)
 - **Kumquat: Money Insights**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/b1/9c/d3b19c99-3510-4809-fe91-abe7a2abaa17/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/751xMDhW)
 - **ThreadMaster**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/ab/c9/78abc941-8d32-fe92-44f0-f3b7e2ea722e/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/JwlFTX03)
