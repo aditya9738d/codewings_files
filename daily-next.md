@@ -1,3 +1,4 @@
+- **豆包输入法**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/bf/ae/7bbfae8c-f597-5d4a-8896-c8fd72186d17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wUz8czx3)
 - **KiraKira**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/22/ed/aa22ed15-87c9-d3e2-2841-cf4955f3b678/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qpU1R37m)
 - **Courier Exchange**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/b5/c7/d0b5c782-a841-35fb-bfb3-bbb3594fb88b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UDJhz3HB)
 - **MVSEP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/61/6a/bf616a74-270e-4f39-4f8b-adeb51e2863e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Js7BwfEC)
@@ -117,4 +118,3 @@
 - **Calculator Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/d7/18/8dd71833-4a9c-d9e3-11c3-8b2324a7a652/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CahB9GHe)
 - **Acki Nacki Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/c9/10/f4c910e1-9c2a-5eec-d33f-9b360cd0d74f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SB9XbEeh)
 - **Mykara**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/9b/09/b99b09e6-92ce-a3b3-5da1-b67bf19d4009/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h2YCKvsC)
-- **365 Circles**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/fa/b7/06fab760-605d-a9b8-69f0-cd7fffc02884/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/eGMQ72Q5)
