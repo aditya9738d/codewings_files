@@ -1,3 +1,4 @@
+- **Modo - Spanish Subjunctive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/da/90/49da903b-4fd4-a45b-5c33-8848feaf9663/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/maqxY3jm)
 - **Monkey Super**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/00/83/c0008389-4622-d6de-b02d-57b3b5eb59bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RVuuPr2k)
 - **豆包输入法**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/bf/ae/7bbfae8c-f597-5d4a-8896-c8fd72186d17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wUz8czx3)
 - **KiraKira**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/22/ed/aa22ed15-87c9-d3e2-2841-cf4955f3b678/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/qpU1R37m)
@@ -117,4 +118,3 @@
 - **Sincely**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/33/1b/9d331b87-007b-b0a9-68c1-63a54d9261c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GudnbXGt)
 - **RadioX Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/e6/cc/d5e6cc99-64c1-72c9-efe0-4f8281ebab4f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jpS1FcJE)
 - **Calculator Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/d7/18/8dd71833-4a9c-d9e3-11c3-8b2324a7a652/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CahB9GHe)
-- **Acki Nacki Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/c9/10/f4c910e1-9c2a-5eec-d33f-9b360cd0d74f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SB9XbEeh)
