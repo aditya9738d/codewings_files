@@ -1,3 +1,4 @@
+- **TrioGoals - Accountable Goals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/1b/7c/531b7cb9-8726-e78e-efb8-d10696bbaec2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4bhmMayW)
 - **Learn Liquid Glass**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/57/be/9957bee7-401f-41a0-5772-ba3f532cb808/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2MckyQUn)
 - **Voozaa Panel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/6c/a1/9b6ca1d2-974c-01a3-e7cd-9757b3e07ed9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ssqFBBXQ)
 - **Võ Lâm-CTC Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/43/84/9f438423-92e7-6126-6dae-3a4d60c1e5f3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gH8HWvHN)
@@ -117,4 +118,3 @@
 - **LobeHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/b8/35/bcb8357c-567b-30aa-5982-33e93454e65d/ios-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2ZbjX4Qp)
 - **Stash – Clipboard & Shelf**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/12/df/4a12dfd0-b077-dcdc-1290-ea9ac0f7c84f/AppIcon-0-0-85-220-0-5-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/5DmCrDT5)
 - **MVision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3e/31/d73e31a2-56ea-0f3b-41fc-5fcaaa53a613/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/Hx5WvFxj)
-- **Afterglow: MMORPG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/da/4d/edda4d59-2014-51df-2747-36357a0c3d7f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gBK1v8u7)
