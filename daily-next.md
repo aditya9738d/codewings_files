@@ -1,3 +1,4 @@
+- **Пассажирам ЖД 18**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/8e/dd/6b8edd5d-c4a8-da45-3696-568fa24fa0f9/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4PE1JW2)
 - **ChuBeVoi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/44/47/554447e4-c5bf-904c-0ddf-71aa556afda7/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/m7UDux9y)
 - **BBX Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/17/fb/ef17fb53-1c89-4f3b-2a83-7ec1496528c3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/N9huEepN)
 - **GeoGebra CAS Calculator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/a7/f7/aba7f7c5-8a0b-daf9-6702-e69dd044596c/GeoGebraCASCalculator-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QnruWCX9)
@@ -117,4 +118,3 @@
 - **Skyscraper for Bluesky**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/16/c6/2416c646-74c0-029f-5fdf-0bf182670d96/app_icon_orange-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RRvk14ks)
 - **Cherry Studio APP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/c7/80/c0c780e0-a6c9-af7e-4360-a00c964e4163/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Mdd3bqvT)
 - **Loxi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/96/0b/8b960bf6-547e-8ffc-caf1-867d654d4d33/icon-0-0-85-220-0-6-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/EZcxRe4x)
-- **UnfollowPeek**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/10/e3/7410e3fa-c4f9-b270-6c68-c069e29f1a30/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HfAAGtqa)
