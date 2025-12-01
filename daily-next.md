@@ -1,3 +1,4 @@
+- **随心听书**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/47/92/a147922e-146a-504e-d4e7-680bc3014d48/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FU3f8E84)
 - **NRO.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/71/39/1c7139c4-07c1-f0bc-ad6c-8415c41526d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/suDUCtC1)
 - **NRO.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/1a/55/501a558d-ee41-701b-b028-641ed8557460/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YcTB7E6r)
 - **Пассажирам ЖД 18**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/8e/dd/6b8edd5d-c4a8-da45-3696-568fa24fa0f9/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d4PE1JW2)
@@ -117,4 +118,3 @@
 - **Last Odyssey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/49/49/7949496f-a230-e00b-96fa-63c5ba94c273/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SZVCKVvy)
 - **Пассажирам ЖД 17**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/f5/07/b9f507d3-63ec-4cbf-769e-bbfc0bcea12e/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZjhNnHaK)
 - **MaiAnhQua**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/8e/70/ce8e70d7-b462-c469-a577-e0a1074425f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1nJEFn7U)
-- **Skyscraper for Bluesky**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/16/c6/2416c646-74c0-029f-5fdf-0bf182670d96/app_icon_orange-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RRvk14ks)
