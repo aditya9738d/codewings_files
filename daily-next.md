@@ -1,3 +1,4 @@
+- **GroupBillsKalc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/fd/4a/2dfd4a1e-caad-5c15-3e20-48b470316a77/AppIcon-vd013-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ryPaZdJk)
 - **Meet and Eat - Campus Dining**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/50/4e/cd504e4e-c4f3-0bc2-3aac-55b0998c350b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ChMhaW43)
 - **MOAND**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/4c/d3/8a4cd3ad-18bb-da71-0854-10954276aa2c/AppIcon-vd012-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hhuRHrSq)
 - **Moneda**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/3c/23/703c2313-0246-08ea-b188-001a536187da/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QZRWVyh5)
@@ -117,4 +118,3 @@
 - **CasaBank**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/28/1e/57281ef6-0026-a66c-f118-228531f0c8fd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UtCk8GRf)
 - **GAME IOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/b3/ae/2cb3aecb-a275-5031-9354-de534a0513c1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YGtQuWSM)
 - **こころの泉**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/9a/89/799a89be-4f7b-86c2-b2fe-6287d278efd9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QfFuGc8B)
-- **C8 Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/a0/60/d5a0608c-8d16-2aef-f5aa-a0197535fb16/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zySqFCMa)
