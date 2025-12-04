@@ -1,3 +1,4 @@
+- **Oto - AI Voice Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/34/d8/1834d83f-ebad-d122-3f9d-102c5f2a4252/AppIcon-0-0-1x_U007ephone-0-4-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FvZnFGVv)
 - **Encores!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/a1/43/4ca14349-7be7-999f-cc7b-3d7e9b7a6a81/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wXmuE8hx)
 - **TinyPay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/c6/b2/0bc6b2b6-cf30-0873-a1b4-d57a9887482b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XEAU8ffD)
 - **PATH Train Arrivals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/04/98/a9049892-3c3f-1dd4-d6c9-5743c773fe6e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BCGGUqpU?ref=thinkscientist.com)
@@ -117,4 +118,3 @@
 - **Totally Fishy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/f3/dc/f4f3dc6f-c4b7-0341-576a-789682b729ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/prkcD1Bd)
 - **QR to eSIM**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/71/df/c871df97-96e4-084f-9e65-93d2e18c9ee8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T5WXw92n)
 - **Sonnical**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/91/7b/f2917b03-e265-5e66-43e8-e153d4b69c10/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZYjRQkxY)
-- **AILO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/fd/a2/7bfda2d2-d185-4294-1197-ae3cd8e1b126/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a1WE6GrB)
