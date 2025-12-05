@@ -1,3 +1,4 @@
+- **Apple Infomation (GN)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/86/ad/ec86adb3-4dc3-3b60-3010-4f1dfe2da8db/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TSbDR3CT)
 - **Conversational AI Agents**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/40/f9/4740f9f6-36a2-0186-82f1-5abd87d4fbd3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hrfHg3p8)
 - **Apple Infomation (GN)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/86/ad/ec86adb3-4dc3-3b60-3010-4f1dfe2da8db/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TSbDR3CT)
 - **Fiin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/e7/c9/70e7c97b-4d81-fac4-4bdf-c00035f2488d/Fynn-2-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/gTYEPspY)
@@ -117,4 +118,3 @@
 - **Strong Workout Tracker Gym Log**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/63/70/2d63707b-59f1-eb1c-d25d-5b2e98388b71/AppIcon_PROD-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Wvz9sfoi)
 - **MLZone**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/61/30/7d6130e5-5031-0552-7ef7-bfccd7544c18/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YcjjnQDf)
 - **Orion Browser by Kagi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/dd/08/f0dd0873-8788-2bbb-84f4-a7134a20176d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Ezjp0k4z)
-- **ブループロトコル スターレゾナンス**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/fb/50/29fb504d-2929-21e2-e89e-2252d02f1502/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/xg1pJMyJ)
