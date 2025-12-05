@@ -1,3 +1,5 @@
+- **Hang Social App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/45/75/294575b1-dd20-9bba-d15f-fd005ba0543a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HfAPQ6dD)
+- **HabitualsBeta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/cc/2c/54cc2c02-da36-b692-5f89-021966c503b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d9F9NpYF)
 - **Nutix**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/aa/c1/1faac18e-7aeb-8ed5-aa45-97fec62896ae/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZVUxTEAt)
 - **SnipFic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/7d/53/ad7d53dc-57e9-859a-e5a2-d9b923202afb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nY8gUd33)
 - **AppBox-应用收藏夹**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/b4/05/f5b40594-7d6a-084d-86bf-d2a53170a5fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RN1J1HWv)
