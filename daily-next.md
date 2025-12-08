@@ -1,3 +1,4 @@
+- **Weather mini**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/3d/2b/d43d2b78-1fca-e4f3-a10c-82f7533bc0a3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TJDznStS)
 - **Désire-moi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/5f/99/a85f9938-6cd2-d78c-d6cb-20ebd9cb9fee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/F4cdRhJ3)
 - **Clean Browser (53204e)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/4a/00/364a005e-9f0c-0d95-a41e-5390acd816f4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sB567BG3)
 - **SkilBite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/c7/06/0ec70601-b33a-0865-2c4c-0fb44e7cfb03/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2UuETcC)
@@ -117,4 +118,3 @@
 - **Kumquat: Money Insights**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/b1/9c/d3b19c99-3510-4809-fe91-abe7a2abaa17/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/751xMDhW)
 - **ThreadMaster**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/ab/c9/78abc941-8d32-fe92-44f0-f3b7e2ea722e/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/JwlFTX03)
 - **Game ixxc 07**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/a9/5e/3ba95e10-10d7-cbb9-30f9-3db7fe65ebbb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xhwpf2pk)
-- **Regnradar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/6b/ae/396baee7-2b7d-8d06-68ef-143129a1a88b/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/G5y1F5v1)
