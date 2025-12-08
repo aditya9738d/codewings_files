@@ -1,3 +1,4 @@
+- **SkilBite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/c7/06/0ec70601-b33a-0865-2c4c-0fb44e7cfb03/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2UuETcC)
 - **RAI AI Assistant for drivers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/a8/a4/a0a8a43a-abb4-e521-27e6-e3ec9e4e42ef/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b7YhDPgd)
 - **Apple Infomation (GN)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/86/ad/ec86adb3-4dc3-3b60-3010-4f1dfe2da8db/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TSbDR3CT)
 - **Apple Infomation (GN)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/86/ad/ec86adb3-4dc3-3b60-3010-4f1dfe2da8db/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TSbDR3CT)
@@ -117,4 +118,3 @@
 - **Regnradar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/6b/ae/396baee7-2b7d-8d06-68ef-143129a1a88b/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/G5y1F5v1)
 - **Vùng đất âm nhạc**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/7d/a0/7b7da044-2987-47ad-f8db-0d92d09ce178/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/puzDQNfR)
 - **Game ixxc 06**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1f/f8/5b1ff838-2506-434e-7db9-28765d7cb68e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/trszAYJq)
-- **MyKara**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/81/93/668193b1-d81d-2e15-eb78-c5a22d0e3914/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h2YCKvsC)
