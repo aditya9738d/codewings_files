@@ -1,3 +1,4 @@
+- **YourFit.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/85/e0/f885e069-4889-9b09-d066-d43e9076ddc2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3MC5Qhf2)
 - **Clean Browser (53204e)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/4a/00/364a005e-9f0c-0d95-a41e-5390acd816f4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sB567BG3)
 - **YG Retro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/c7/f5/cdc7f5da-529e-80bd-f153-2eb55170dd2d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/wAERMugh)
 - **GG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/84/3e/d4843e43-aff2-8e8e-b853-424b9e8e7609/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vvXjTwMZ)
@@ -117,4 +118,3 @@
 - **Steez - Creator Communities**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/f0/11/21f011b4-4339-d381-d5ee-98c4ea1abbc6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TPNZaSgm)
 - **null**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/bf/ae/7bbfae8c-f597-5d4a-8896-c8fd72186d17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wUz8czx3)
 - **Tiny Harvest: Cozy Farm**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/c8/54/30c85403-ca32-98cc-86e5-aef5bb66d9da/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mqrgaY31)
-- **Telegram Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/b9/73/a5b97315-b655-c74a-5015-c2f3ea91c9ce/Telegram-0-0-1x_U007epad-0-1-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u6iogfd0)
