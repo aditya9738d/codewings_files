@@ -1,3 +1,4 @@
+- **Petopia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/cd/ea/52cdeada-ff39-179a-ebc7-0a6e2c3d9ae0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WpYHGCVt)
 - **Clean Browser (53204e)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/4a/00/364a005e-9f0c-0d95-a41e-5390acd816f4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sB567BG3)
 - **Jolt Groovebox**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/05/76/57057619-e8a5-a634-882f-dc89d0cf8302/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/AgrYFn3Y)
 - **game.nro.ios**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/95/4e/dc954e36-6e48-77ab-5e1f-c4d438944df5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dWXaqRzx)
@@ -117,4 +118,3 @@
 - **Storify Moments**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/0f/75/180f752b-fc9f-829a-252f-a91824776044/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h8hqXAJ4)
 - **GeoGebra Calculator Suite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/5d/98/135d98cf-f730-76ea-9f94-a8290e6d4488/GeoGebraCalculatorSuite-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b4HhQZw7)
 - **WatInside**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/c8/1e/7ec81e74-701d-ee7d-7ad6-c2017d342c48/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/xjzBGcdm)
-- **Wabi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/75/22/2a7522b7-2cd4-902c-ff71-b28f99d47487/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nhKTM17f)
