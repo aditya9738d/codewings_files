@@ -1,3 +1,4 @@
+- **Nuvio - Content Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/71/3e/b8713edc-4e9a-b199-ecef-e7832d7330ff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QkKMGRqp)
 - **LovesickRehab**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/97/47/f1974756-5017-d41c-fe62-c97e420ca76a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FFx8crNA)
 - **CalendarFlow (beta)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/0e/ef/2c0eef32-4595-3f1e-f69b-67a20d6ce674/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TvcaP2q6)
 - **iona: Translator & Flashcards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b8/ce/abb8ce68-2c0b-3774-7cf3-32566fee3296/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Xv3AeQcf)
@@ -117,4 +118,3 @@
 - **PATH Train Arrivals**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/04/98/a9049892-3c3f-1dd4-d6c9-5743c773fe6e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BCGGUqpU?ref=thinkscientist.com)
 - **PickEpic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/b4/3d/c7b43d98-b5da-9f78-7f85-8733ff80ec6a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/tWvZ6yay)
 - **Pocket Universe Reality**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/00/72/d2007277-2998-c521-948c-9ca6021b5c78/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/XcNuZSJ4)
-- **Lingo Vision**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/1d/ef/f71def85-bd5d-9d90-1ae2-b77539b81fce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5J2zmMYd)
