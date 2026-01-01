@@ -1,3 +1,4 @@
+- **SoloTime Track, Invoice, Quote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/55/23/2055233d-cff8-b261-24c4-ec068fcb6038/SoloTimeGlass-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/da9AkvRJ)
 - **Klutch: Drag Racing**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/98/ba/2998bab3-38eb-f354-6271-63f5fdb549f0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/F37xwnzK)
 - **GHWOA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a1/ee/bba1eeed-7542-b6d0-0fa1-c34b510e7512/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qDEz2YGH)
 - **mCrownMusic™**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/98/fd/9c98fdcd-4366-2638-5b91-b7f06ca24aed/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/maMD9QkZ)
@@ -117,4 +118,3 @@
 - **SnipFic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/7d/53/ad7d53dc-57e9-859a-e5a2-d9b923202afb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nY8gUd33)
 - **AppBox-应用收藏夹**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/b4/05/f5b40594-7d6a-084d-86bf-d2a53170a5fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RN1J1HWv)
 - **Game xtubix 01**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/11/e9/a911e9c5-b266-88fe-c619-7491e0086018/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cUqgmMaF)
-- **Conversational AI Agents**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/40/f9/4740f9f6-36a2-0186-82f1-5abd87d4fbd3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hrfHg3p8)
