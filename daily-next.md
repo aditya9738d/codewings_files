@@ -1,3 +1,4 @@
+- **Scread**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/39/65/8c396576-312a-f54a-8200-315139c15add/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hpgXkDSE)
 - **uBlock Origin Lite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/9a/5b/f49a5b6f-3698-7d7f-cec1-57e1a57d80d8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mA7E47r1)
 - **Ngọc Rồng Korin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/35/9f/b3359fd4-805d-4d0b-0fb2-22cbb87b1ec4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VTEJKAz3)
 - **Finzer: Market Analytics**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/fd/2f/99fd2f5a-8a6f-c681-d8a4-c6c2133b09a0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WFHFU2hM)
@@ -117,4 +118,3 @@
 - **Weather mini**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/3d/2b/d43d2b78-1fca-e4f3-a10c-82f7533bc0a3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TJDznStS)
 - **Désire-moi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/5f/99/a85f9938-6cd2-d78c-d6cb-20ebd9cb9fee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/F4cdRhJ3)
 - **SkilBite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/c7/06/0ec70601-b33a-0865-2c4c-0fb44e7cfb03/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2UuETcC)
-- **RAI AI Assistant for drivers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/a8/a4/a0a8a43a-abb4-e521-27e6-e3ec9e4e42ef/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b7YhDPgd)
