@@ -1,3 +1,4 @@
+- **Finzer: Market Analytics**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/fd/2f/99fd2f5a-8a6f-c681-d8a4-c6c2133b09a0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WFHFU2hM)
 - **millr**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/bd/62/07bd62ba-a8f0-ad9d-8e1f-40f3964d9b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/uqsa6WBY)
 - **as08**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/ac/c7/66acc7d8-8a35-4350-6965-182d909f2b8b/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/1yeT9NkJ)
 - **Collection: LEGO® Set Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/13/24/c2132444-41f3-301f-588d-469774ab3fd4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JsvaRnfw)
