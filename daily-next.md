@@ -1,3 +1,4 @@
+- **NoteGen**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/ba/ae/b4baaef0-8525-d5a5-968c-de1b799cbb10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8KjFRTCq)
 - **CubeAlg Viewer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/b9/22/aeb92292-f09b-2713-ab8b-3e8d3c2ca7eb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V1UQXUME)
 - **墨鱼足迹**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/91/b2/fb91b23b-de0d-89e7-a499-ea08e9afd4e9/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/2bUWBS6S)
 - **GrowStash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/00/e2/7a00e2cb-39ae-6e34-ead3-ba713e37bb4e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kNur4rhg)
@@ -117,4 +118,3 @@
 - **XIndex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/48/4c/e5484cf4-1a91-1c7b-a54f-5b7094dc8923/XIndex-0-0-85-220-0-6-0-2x-sRGB.png/200x200bb-80.png)](https://testflight.apple.com/join/mVcv5xYn)
 - **Jazz 5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/a8/20/2ea820d2-f2ac-ad76-20fd-35b8f045a30e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vNUJkX8n)
 - **Hang Social App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/45/75/294575b1-dd20-9bba-d15f-fd005ba0543a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HfAPQ6dD)
-- **HabitualsBeta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/cc/2c/54cc2c02-da36-b692-5f89-021966c503b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d9F9NpYF)
