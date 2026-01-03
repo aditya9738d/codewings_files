@@ -1,3 +1,4 @@
+- **PermissionsExample**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/25/eb/e225ebbf-b0f0-5e2e-3795-28953ed9e9e2/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9d24muZE)
 - **Bitlings**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/ed/3b/beed3bbe-3a5e-f184-4574-e27a9b040dd9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pz81XTrD)
 - **Plover - AI Language Partner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/fa/4e/aafa4e38-a161-d135-7500-714d6c9507bb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DhgNkjfj)
 - **MykoMobilev2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/dd/43/92dd4377-9a24-99f4-dfdc-16180abb6c11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u6cnwMUS)
@@ -117,4 +118,3 @@
 - **Ragnarok Abyss**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/b5/ff/7db5ff9c-d2e1-acff-8bf0-38c6a2684463/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yeTfeKMC)
 - **Tôi Yêu Ngọc Rồng 3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/1e/91/241e9192-8873-b6a4-fc4b-e85f32a9329e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/E48t1WDh)
 - **8SPINE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/45/43/2345439c-3228-3e46-e745-6547f98e276e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/WpRgRCDm)
-- **PesaPesa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/bf/ce/afbfcec0-fdb1-235e-8fb2-6a353ca329ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aYpBbQVp)
