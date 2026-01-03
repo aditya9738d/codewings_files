@@ -1,3 +1,4 @@
+- **Kaleido Pattern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/a1/1c/01a11c88-476f-8aec-63c5-7d6563b720b9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aVN9e1Gm)
 - **Purger for Plex: Reclaim Space**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/91/6f/dd916fe1-3cb8-6ca0-1652-b60404cab427/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/PE1uq7JX)
 - **Spending Tracker: GrowStash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/00/e2/7a00e2cb-39ae-6e34-ead3-ba713e37bb4e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kNur4rhg)
 - **Clean Browser (53204e)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/4a/00/364a005e-9f0c-0d95-a41e-5390acd816f4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sB567BG3)
@@ -117,4 +118,3 @@
 - **Apple Information (G_2009)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/5d/87/8d5d87b1-58a0-de9c-e69f-103560817566/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/HVVHB1Tf)
 - **TTN217_X6**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/13/23/e913239f-1dd8-afe1-7c98-75f1776265f8/AppIcon-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/U3zddU8J)
 - **zilazila**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f3/6c/14f36cee-bc60-272e-8f95-639b0d78728e/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/32EqU7Sw)
-- **ZAX WIFI 4**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/01/6b/6b016bde-ad13-1e6a-e92f-9e02ddae69f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MwPtFu21)
