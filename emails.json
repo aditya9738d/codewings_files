@@ -1,43 +1,5 @@
 [
   {
-    "email": "john.doe@gmail.com",
-    "name": "John Doe",
-    "preferences": {
-      "categories": ["Productivity", "Business", "Utilities"],
-      "minClickThreshold": 50,
-      "notifyOnStatusChange": true,
-      "notifyOnNewApps": true,
-      "frequency": "immediate"
-    },
-    "subscribedApps": [
-      "Microsoft Planner",
-      "Grammarly: AI Writing Keyboard",
-      "Notion",
-      "Slack"
-    ],
-    "subscribedAt": "2025-12-15T10:30:00Z",
-    "active": true
-  },
-  {
-    "email": "sarah.tech@outlook.com",
-    "name": "Sarah Tech",
-    "preferences": {
-      "categories": ["Photo & Video", "Graphics & Design", "Entertainment"],
-      "minClickThreshold": 100,
-      "notifyOnStatusChange": true,
-      "notifyOnNewApps": false,
-      "frequency": "daily"
-    },
-    "subscribedApps": [
-      "365 Circles",
-      "Snapchat",
-      "YouTube",
-      "Adobe Photoshop"
-    ],
-    "subscribedAt": "2025-12-20T14:15:00Z",
-    "active": true
-  },
-  {
     "email": "gamer.pro@yahoo.com",
     "name": "Alex Gaming",
     "preferences": {
