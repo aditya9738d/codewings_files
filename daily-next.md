@@ -1,3 +1,4 @@
+- **Takt - AI for Group Chats**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/98/97/7a98970d-758f-a5b1-7a6a-e045e6520dde/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HFEfXD1E)
 - **KO Mobile Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/98/44/3b9844b8-866f-79fa-a456-917b38648b12/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v78Ubq2Y)
 - **Trade Rumors**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/62/2d/72622d68-388b-184a-8574-58872a0c618d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gHvpRUJ5)
 - **SplashArk: Shop, Share & Earn**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/6f/fa/796ffa7e-2347-fadb-6eee-84e4b17917a5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1jWT9th3)
@@ -117,4 +118,3 @@
 - **NGỌC RỒNG.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/38/3c/a3383c8e-3c27-8ead-2991-c718803090bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TfYGm2Pq)
 - **TrillFamily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/63/b6/4263b6e3-7f35-9c0b-82ec-d23d059ce33f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gvBMEuZu)
 - **SkilBite - Quiz game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/c7/06/0ec70601-b33a-0865-2c4c-0fb44e7cfb03/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2UuETcC)
-- **Heliacal Rise**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/5f/e0/af5fe02e-67d6-5b7c-4195-16546dd4fea6/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/B8NbAD9P)
