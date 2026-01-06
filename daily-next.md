@@ -1,3 +1,4 @@
+- **Trade Rumors**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/62/2d/72622d68-388b-184a-8574-58872a0c618d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gHvpRUJ5)
 - **SplashArk: Shop, Share & Earn**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/6f/fa/796ffa7e-2347-fadb-6eee-84e4b17917a5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1jWT9th3)
 - **Note Wish**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/33/c6/ff33c672-6bd7-02f0-677a-b90854e94122/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/B8GqfW2a)
 - **MazeGlide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/10/c5/2510c578-0aea-dbf5-ce6e-8ecc6df4257b/AppIcon-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/CZ8tpNkv)
@@ -117,4 +118,3 @@
 - **SkilBite - Quiz game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/c7/06/0ec70601-b33a-0865-2c4c-0fb44e7cfb03/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Y2UuETcC)
 - **Heliacal Rise**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/5f/e0/af5fe02e-67d6-5b7c-4195-16546dd4fea6/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/B8NbAD9P)
 - **sumee!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/68/47/21684708-7e4b-1da8-c1db-3c7c9c28f672/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TGykF26J)
-- **학원삼국지**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/19/a7/8419a7d9-0254-acc1-1029-e726aad85a86/AppIcon-0-0-1x_U007ephone-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UwZ2CAv)
