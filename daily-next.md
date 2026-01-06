@@ -1,3 +1,4 @@
+- **Note Wish**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/33/c6/ff33c672-6bd7-02f0-677a-b90854e94122/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/B8GqfW2a)
 - **MazeGlide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/10/c5/2510c578-0aea-dbf5-ce6e-8ecc6df4257b/AppIcon-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/CZ8tpNkv)
 - **cool photo app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/ca/a0/67caa0e4-889c-254b-9f31-9c65fc89ce86/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Amrj6bue)
 - **Local Apps V2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/0f/bc/370fbcb2-4a6a-c33c-f5fc-ad02f7ce5d43/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QkUMNUMY)
@@ -117,4 +118,3 @@
 - **sumee!**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/68/47/21684708-7e4b-1da8-c1db-3c7c9c28f672/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/TGykF26J)
 - **학원삼국지**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/19/a7/8419a7d9-0254-acc1-1029-e726aad85a86/AppIcon-0-0-1x_U007ephone-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3UwZ2CAv)
 - **SplashArk: Shop. Share. Earn.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/00/54/de005493-32bd-5a6a-839e-880e20b0a511/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1jWT9th3)
-- **Journal Recap**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/7f/33/537f335c-fafa-8420-7a20-59ca657fd1c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p94kd9Ap)
