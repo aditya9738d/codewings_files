@@ -1,3 +1,4 @@
+- **Celia Global**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/48/af/fd48afb2-4afc-ea3e-842d-33d9e75d8ac5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wAg54jX6)
 - **Planelo: Idea Projects**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/20/db/1c20db6e-a0f8-13f6-1290-46a3b23465f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w9NkYbaK)
 - **WiFi Fuca**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/68/f5/8868f59f-2f5d-ce7f-23e2-c8054516f034/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/TmXMX66x)
 - **LineFlow**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/49/89/7049894d-2465-01ee-9ae8-20770e0d1b11/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GgRvhE7g)
@@ -117,4 +118,3 @@
 - **Zyve: Plan, Sync, Live**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/f5/3f/48f53f3d-35d9-ffe0-55dc-05978c5ef6d5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4w7vMW46)
 - **FlowNote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/f6/a4/27f6a455-3229-8521-9989-196b1201ffa1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/f6p9NCwV)
 - **Free**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/8e/0c/b38e0c15-8da6-ca32-4b51-10176af8016c/AppIcon-Production-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/X85eBFES)
-- **A-Messenger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/23/37/f42337f2-bd4a-5186-8056-9b802f4a1936/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/ZDtzEuYf)
