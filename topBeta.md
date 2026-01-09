@@ -1,3 +1,5 @@
+- **LF Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/7b/6e/9f7b6e7f-f063-ffba-8d4b-a96a451c0458/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p5eKjU8F)
+- **Defguard Desktop Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/01/06/43010687-1822-3f18-079d-5efc32bf1841/icon.png/200x200bb-80.png)](https://testflight.apple.com/join/d4MvaBgw)
 - **Mahsa VPN**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/bb/d5/9ebbd578-aae1-b3c2-53ac-d6a914353e9a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nan24hE1)
 - **Smart EVF**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/08/4d/bb084dea-3938-1fe1-b10d-88624e7f71c0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bGFcCCap)
 - **nrolau**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/5e/f0/a65ef0d2-d59a-a132-fe46-22d7e431f532/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/5eXdnWK9)
