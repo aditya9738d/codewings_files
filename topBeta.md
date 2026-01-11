@@ -1,3 +1,4 @@
+- **逐句学**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/98/a2/0f98a2a3-ec69-2155-afe3-c98a9f33d39e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ncc2Y7As)
 - **Batterup5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/36/c2/a336c291-2038-aa3e-4a21-c7a1931a760f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cYCgxKgy)
 - **Canela**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/fc/6a/3dfc6ab0-5f2f-2638-08bf-5ab2024047bc/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VUbfnR38)
 - **Iriun Webcam for PC and Mac**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/76/3a/88763a34-612f-432f-fad8-8997abc71ac8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dVzMF5XU)
