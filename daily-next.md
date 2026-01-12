@@ -1,3 +1,4 @@
+- **Countdown: Big Timer & Clock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/58/86/075886fd-bfc7-e246-923f-fc6758a549b0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QJTaE9I2)
 - **逐句学**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/98/a2/0f98a2a3-ec69-2155-afe3-c98a9f33d39e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ncc2Y7As)
 - **Batterup5**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/36/c2/a336c291-2038-aa3e-4a21-c7a1931a760f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cYCgxKgy)
 - **Canela**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/fc/6a/3dfc6ab0-5f2f-2638-08bf-5ab2024047bc/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VUbfnR38)
@@ -117,4 +118,3 @@
 - **Arkavo Creator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/e6/0d/ffe60d99-dac8-e66f-0782-cd1c7288fceb/AppIcon-85-220-5-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/uetNJeZE)
 - **Platemate Games**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/b8/58/59b8587f-9d5f-dff9-1c17-c63c56e02b39/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cuC8jPmv)
 - **Deplan - Expense Sharing**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/ea/de/62eade25-e2e2-aa21-984d-78736ca70697/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2dhqFDkW)
-- **特特管家-特斯拉车主必备**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/88/a2/3188a252-9dea-6e84-3c92-7e29be4b1a40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BxGZb5Pg)
