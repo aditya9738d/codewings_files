@@ -1,3 +1,4 @@
+- **Deck 24**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/d9/f3/8fd9f3a3-7e66-2ba6-68d3-6d0fce387c0a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b1XjJtQP)
 - **mumuri**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/29/1f/e3291fe8-1555-83c8-43c3-9153fc811a53/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EnWy92Xh)
 - **HomeSpot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/76/d2/d276d214-55ec-ea0b-b035-3e3c3f90a019/HomeSpotIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/h9JRJfKs)
 - **Ally | Health Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/05/b2/3b05b248-f946-b87a-f17d-c3d8f5a2841a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/j6eV7uYZ)
