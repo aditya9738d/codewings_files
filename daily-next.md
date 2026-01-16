@@ -1,3 +1,4 @@
+- **Greeks.live.HK**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/22/d6/6222d603-2d8e-bac9-2d55-1fbd48ca87c2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/npYaJdY3)
 - **HikLink**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/93/d7/2793d7a6-4cc6-a840-888d-d9546dabec72/AppIcon-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/levSK9bm)
 - **OnTyme AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/0d/fc/f10dfc93-c922-5bb0-baf9-2ffdfbe743b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bQ7P3ZB1)
 - **Fancian**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/7a/20/227a20aa-90b9-0979-75fc-1853080644eb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wzTmccM1)
@@ -117,4 +118,3 @@
 - **DAB 2.0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/a5/1a/2fa51a2a-c469-098e-a467-fd8bc5d9e212/appicon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/4uGYNYft)
 - **PermissionsExample**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/25/eb/e225ebbf-b0f0-5e2e-3795-28953ed9e9e2/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/9d24muZE)
 - **Bitlings**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/ed/3b/beed3bbe-3a5e-f184-4574-e27a9b040dd9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pz81XTrD)
-- **Plover - AI Language Partner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/fa/4e/aafa4e38-a161-d135-7500-714d6c9507bb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DhgNkjfj)
