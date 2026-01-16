@@ -1,5 +1,23 @@
 [
   {
+    "email": "turki3899@gmail.com",
+    "name": "Mahmoud alabiad",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "*"
+    ],
+    "subscribedAt": "2026-01-16T21:22:55.896Z",
+    "active": true
+  },
+  {
     "email": "Riliarifh@gmail.com",
     "name": "Arif",
     "preferences": {
