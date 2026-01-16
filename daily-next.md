@@ -1,3 +1,4 @@
+- **Strimr**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/9f/0a/249f0a5a-23fd-2725-ed50-71d7eb8089fd/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/nayaffkP)
 - **DTCampus - Teacher App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/2f/be/7a2fbeba-9f05-b215-923d-5200a1e30815/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FSDbUhnM)
 - **Dream: Buy Crypto in Seconds**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/02/16/530216e0-c15f-3f8e-7983-6a9b03a25296/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Vas8MT6a)
 - **Damaura**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/f6/1d/75f61d89-fab2-66e9-6e02-eaf057ad1a73/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qGd17gqS)
@@ -117,4 +118,3 @@
 - **Last-War**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/58/51/0a5851fe-07f2-c877-0263-127500495720/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/YGUaZsfB)
 - **VPN Portal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/48/7a/ba487a8f-f7ee-55bd-3382-53e85fbea276/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qngGXck7)
 - **Video Diary Journal · MIRA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/d4/79/f8d4798e-1d48-2c87-f84e-ee5da96a4b49/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/rDpjzZa6)
-- **Kaleido Pattern**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/a1/1c/01a11c88-476f-8aec-63c5-7d6563b720b9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aVN9e1Gm)
