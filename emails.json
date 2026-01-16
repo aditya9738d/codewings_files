@@ -1,5 +1,23 @@
 [
   {
+    "email": "adityagond9738@gmail.com",
+    "name": "adi",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "TestFlight Apple Mobile"
+    ],
+    "subscribedAt": "2026-01-16T14:24:00.923Z",
+    "active": true
+  },
+  {
     "email": "adityagond209@gmail.com",
     "name": "Aditya G",
     "preferences": {
