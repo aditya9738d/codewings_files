@@ -1,5 +1,26 @@
 [
   {
+    "email": "sinvicheka682@gmail.com",
+    "name": "Yoohan Sem",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "MLBB Beta Devtest",
+      "MLBB Beta",
+      "MLBB Beta Test",
+      "MLBB"
+    ],
+    "subscribedAt": "2026-01-16T15:53:12.130Z",
+    "active": true
+  },
+  {
     "email": "sagarlimbu252@gmail.com",
     "name": "RITESH CHHETRI ",
     "preferences": {
