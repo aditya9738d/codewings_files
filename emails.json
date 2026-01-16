@@ -1,5 +1,25 @@
 [
   {
+    "email": "xabit0@me.com",
+    "name": "Javier Ramírez Quintero ",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "WhatsApp Messenger",
+      "YouTube",
+      "Instagram"
+    ],
+    "subscribedAt": "2026-01-16T14:36:24.739Z",
+    "active": true
+  },
+  {
     "email": "miguelsalazar2801@icloud.com",
     "name": "Miguel Ángel Salazar García ",
     "preferences": {
