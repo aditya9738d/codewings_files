@@ -1,5 +1,23 @@
 [
   {
+    "email": "jatowex328@adrais.com",
+    "name": "Aditya",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "Katamari Damacy Rolling LIVE"
+    ],
+    "subscribedAt": "2026-01-16T14:12:08.468Z",
+    "active": true
+  },
+  {
     "email": "a@gmail.com",
     "name": "Codewing",
     "preferences": {
