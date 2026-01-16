@@ -1,66 +1,31 @@
 [
   {
-    "email": "gamer.pro@yahoo.com",
-    "name": "Alex Gaming",
+    "email": "a@gmail.com",
+    "name": "app",
     "preferences": {
-      "categories": ["Games", "Action", "Adventure", "Strategy"],
+      "categories": [
+        "All"
+      ],
       "minClickThreshold": 25,
       "notifyOnStatusChange": true,
       "notifyOnNewApps": true,
       "frequency": "immediate"
     },
     "subscribedApps": [
-      "Hill Climb Racing",
-      "Mx Rei Do Grau V2",
-      "Call of Duty Mobile",
-      "PUBG Mobile"
+      "WhatsApp Messenger"
     ],
-    "subscribedAt": "2025-12-10T09:00:00Z",
-    "active": true
-  },
-  {
-    "email": "developer.jane@protonmail.com",
-    "name": "Jane Developer",
-    "preferences": {
-      "categories": ["Developer Tools", "Productivity", "Utilities"],
-      "minClickThreshold": 10,
-      "notifyOnStatusChange": true,
-      "notifyOnNewApps": true,
-      "frequency": "weekly"
-    },
-    "subscribedApps": [
-      "Xcode",
-      "TestFlight",
-      "GitHub Desktop",
-      "VS Code"
-    ],
-    "subscribedAt": "2025-12-01T16:45:00Z",
-    "active": true
-  },
-  {
-    "email": "fitness.enthusiast@gmail.com",
-    "name": "Mike Fitness",
-    "preferences": {
-      "categories": ["Health & Fitness", "Sports", "Lifestyle"],
-      "minClickThreshold": 75,
-      "notifyOnStatusChange": true,
-      "notifyOnNewApps": false,
-      "frequency": "immediate"
-    },
-    "subscribedApps": [
-      "Nike Training Club",
-      "MyFitnessPal",
-      "Strava",
-      "Apple Health"
-    ],
-    "subscribedAt": "2025-12-18T11:20:00Z",
+    "subscribedAt": "2026-01-16T14:02:58.489Z",
     "active": true
   },
   {
     "email": "student.emma@university.edu",
     "name": "Emma Student",
     "preferences": {
-      "categories": ["Education", "Productivity", "Reference"],
+      "categories": [
+        "Education",
+        "Productivity",
+        "Reference"
+      ],
       "minClickThreshold": 30,
       "notifyOnStatusChange": true,
       "notifyOnNewApps": true,
@@ -76,10 +41,62 @@
     "active": true
   },
   {
+    "email": "fitness.enthusiast@gmail.com",
+    "name": "Mike Fitness",
+    "preferences": {
+      "categories": [
+        "Health & Fitness",
+        "Sports",
+        "Lifestyle"
+      ],
+      "minClickThreshold": 75,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": false,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "Nike Training Club",
+      "MyFitnessPal",
+      "Strava",
+      "Apple Health"
+    ],
+    "subscribedAt": "2025-12-18T11:20:00Z",
+    "active": true
+  },
+  {
+    "email": "gamer.pro@yahoo.com",
+    "name": "Alex Gaming",
+    "preferences": {
+      "categories": [
+        "Games",
+        "Action",
+        "Adventure",
+        "Strategy"
+      ],
+      "minClickThreshold": 25,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "Hill Climb Racing",
+      "Mx Rei Do Grau V2",
+      "Call of Duty Mobile",
+      "PUBG Mobile"
+    ],
+    "subscribedAt": "2025-12-10T09:00:00Z",
+    "active": true
+  },
+  {
     "email": "creator.content@gmail.com",
     "name": "Creative Creator",
     "preferences": {
-      "categories": ["Photo & Video", "Music", "Graphics & Design", "Social Networking"],
+      "categories": [
+        "Photo & Video",
+        "Music",
+        "Graphics & Design",
+        "Social Networking"
+      ],
       "minClickThreshold": 40,
       "notifyOnStatusChange": true,
       "notifyOnNewApps": true,
@@ -96,10 +113,55 @@
     "active": true
   },
   {
+    "email": "developer.jane@protonmail.com",
+    "name": "Jane Developer",
+    "preferences": {
+      "categories": [
+        "Developer Tools",
+        "Productivity",
+        "Utilities"
+      ],
+      "minClickThreshold": 10,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "weekly"
+    },
+    "subscribedApps": [
+      "Xcode",
+      "TestFlight",
+      "GitHub Desktop",
+      "VS Code"
+    ],
+    "subscribedAt": "2025-12-01T16:45:00Z",
+    "active": true
+  },
+  {
+    "email": "adityagond209@gmail.com",
+    "name": "Aditya G",
+    "preferences": {
+      "categories": [
+        "All"
+      ],
+      "minClickThreshold": 1,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "*"
+    ],
+    "subscribedAt": "2025-12-01T00:00:00Z",
+    "active": true
+  },
+  {
     "email": "business.owner@company.com",
     "name": "Business Owner",
     "preferences": {
-      "categories": ["Business", "Finance", "Productivity"],
+      "categories": [
+        "Business",
+        "Finance",
+        "Productivity"
+      ],
       "minClickThreshold": 60,
       "notifyOnStatusChange": true,
       "notifyOnNewApps": false,
@@ -112,20 +174,6 @@
       "Zoom"
     ],
     "subscribedAt": "2025-11-25T10:00:00Z",
-    "active": true
-  },
-  {
-    "email": "adityagond209@gmail.com",
-    "name": "Aditya G",
-    "preferences": {
-      "categories": ["All"],
-      "minClickThreshold": 1,
-      "notifyOnStatusChange": true,
-      "notifyOnNewApps": true,
-      "frequency": "immediate"
-    },
-    "subscribedApps": ["*"],
-    "subscribedAt": "2025-12-01T00:00:00Z",
     "active": true
   }
 ]
