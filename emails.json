@@ -1,5 +1,25 @@
 [
   {
+    "email": "hokii.object615@passinbox.com",
+    "name": "Bulleye",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "WhatsApp Messenger",
+      "Facebook",
+      "Instagram"
+    ],
+    "subscribedAt": "2026-01-16T14:28:34.293Z",
+    "active": true
+  },
+  {
     "email": "artxl58@gmail.com",
     "name": "Benlik",
     "preferences": {
