@@ -1,5 +1,23 @@
 [
   {
+    "email": "hoangngocthanh2408@gmail.com",
+    "name": "Hoang Thanh",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "Instagram"
+    ],
+    "subscribedAt": "2026-01-16T15:02:41.588Z",
+    "active": true
+  },
+  {
     "email": "xabit0@me.com",
     "name": "Javier Ramírez Quintero ",
     "preferences": {
