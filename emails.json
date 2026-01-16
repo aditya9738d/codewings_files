@@ -1,5 +1,26 @@
 [
   {
+    "email": "gautambudda306@gmail.com",
+    "name": "Gautam sarki",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "MLBB",
+      "MLBB Beta Test",
+      "MLBB Beta",
+      "MLBB Beta Devtest"
+    ],
+    "subscribedAt": "2026-01-16T14:27:51.424Z",
+    "active": true
+  },
+  {
     "email": "adityagond9738@gmail.com",
     "name": "adi",
     "preferences": {
