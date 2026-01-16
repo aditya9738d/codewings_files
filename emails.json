@@ -1,5 +1,23 @@
 [
   {
+    "email": "abdo32.aa78@gmail.com",
+    "name": "Jayro ali",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "Instagram"
+    ],
+    "subscribedAt": "2026-01-16T14:28:14.456Z",
+    "active": true
+  },
+  {
     "email": "dihan7765@gmail.com",
     "name": "Tamjid Khan ",
     "preferences": {
