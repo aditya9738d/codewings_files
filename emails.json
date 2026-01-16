@@ -1,5 +1,28 @@
 [
   {
+    "email": "marcelsaintin@gmail.com",
+    "name": "Marcel Saintin",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "Spotify - Music and Podcasts",
+      "Telegram Messenger",
+      "Notion - notes, docs, tasks",
+      "Notion: Notes, Tasks, AI",
+      "Discord - Chat, Talk & Hangout",
+      "Discord - Talk, Play, Hang Out"
+    ],
+    "subscribedAt": "2026-01-16T23:40:28.273Z",
+    "active": true
+  },
+  {
     "email": "turki3899@gmail.com",
     "name": "Mahmoud alabiad",
     "preferences": {
