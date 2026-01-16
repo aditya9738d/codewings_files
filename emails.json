@@ -1,5 +1,23 @@
 [
   {
+    "email": "Zinnur.Ahmet@icloud.com",
+    "name": "Git",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "*"
+    ],
+    "subscribedAt": "2026-01-16T15:26:44.596Z",
+    "active": true
+  },
+  {
     "email": "handswhat@hotmail.com",
     "name": "Brook ",
     "preferences": {
