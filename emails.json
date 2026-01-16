@@ -1,5 +1,26 @@
 [
   {
+    "email": "omni4912@gmail.com",
+    "name": "Omni unofficialYT ",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "MLBB Beta Devtest",
+      "MLBB Beta",
+      "MLBB Beta Test",
+      "MLBB"
+    ],
+    "subscribedAt": "2026-01-16T14:32:55.559Z",
+    "active": true
+  },
+  {
     "email": "abdo32.aa76@gmail.com",
     "name": "Abdo Ali ",
     "preferences": {
