@@ -1,5 +1,23 @@
 [
   {
+    "email": "dihan7765@gmail.com",
+    "name": "Tamjid Khan ",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "Minecraft Preview"
+    ],
+    "subscribedAt": "2026-01-16T14:28:10.331Z",
+    "active": true
+  },
+  {
     "email": "gautambudda306@gmail.com",
     "name": "Gautam sarki",
     "preferences": {
