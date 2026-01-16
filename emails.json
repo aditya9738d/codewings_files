@@ -1,5 +1,23 @@
 [
   {
+    "email": "handswhat@hotmail.com",
+    "name": "Brook ",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "*"
+    ],
+    "subscribedAt": "2026-01-16T15:02:49.525Z",
+    "active": true
+  },
+  {
     "email": "hoangngocthanh2408@gmail.com",
     "name": "Hoang Thanh",
     "preferences": {
