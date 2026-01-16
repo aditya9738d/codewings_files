@@ -1,21 +1,22 @@
 [
   {
     "email": "a@gmail.com",
-    "name": "app",
+    "name": "Codewing",
     "preferences": {
       "categories": [
-        "All"
+        "none"
       ],
-      "minClickThreshold": 25,
+      "minClickThreshold": 20,
       "notifyOnStatusChange": true,
       "notifyOnNewApps": true,
       "frequency": "immediate"
     },
     "subscribedApps": [
-      "WhatsApp Messenger"
+      "TestFlight - Apple"
     ],
     "subscribedAt": "2026-01-16T14:02:58.489Z",
-    "active": true
+    "active": true,
+    "updatedAt": "2026-01-16T14:05:41.711Z"
   },
   {
     "email": "student.emma@university.edu",
