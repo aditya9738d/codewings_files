@@ -1,5 +1,23 @@
 [
   {
+    "email": "miguelsalazar2801@icloud.com",
+    "name": "Miguel Ángel Salazar García ",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "WhatsApp Messenger"
+    ],
+    "subscribedAt": "2026-01-16T14:36:02.080Z",
+    "active": true
+  },
+  {
     "email": "omni4912@gmail.com",
     "name": "Omni unofficialYT ",
     "preferences": {
