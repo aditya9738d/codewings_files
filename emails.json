@@ -1,5 +1,24 @@
 [
   {
+    "email": "abdo32.aa76@gmail.com",
+    "name": "Abdo Ali ",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "Instagram",
+      "('Instagram', 'Instagram')"
+    ],
+    "subscribedAt": "2026-01-16T14:29:02.656Z",
+    "active": true
+  },
+  {
     "email": "hokii.object615@passinbox.com",
     "name": "Bulleye",
     "preferences": {
