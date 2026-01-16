@@ -1,5 +1,23 @@
 [
   {
+    "email": "cuandulu37@gmail.com",
+    "name": "Doddi Setiyoso",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "Telegram Messenger"
+    ],
+    "subscribedAt": "2026-01-16T16:55:19.455Z",
+    "active": true
+  },
+  {
     "email": "radmanex@gmail.com",
     "name": "Raouf Ad",
     "preferences": {
