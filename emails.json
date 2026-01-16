@@ -1,5 +1,23 @@
 [
   {
+    "email": "Riliarifh@gmail.com",
+    "name": "Arif",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "Telegram Messenger"
+    ],
+    "subscribedAt": "2026-01-16T18:02:29.163Z",
+    "active": true
+  },
+  {
     "email": "doddisetiyoso00@gmail.com",
     "name": "Doddi",
     "preferences": {
