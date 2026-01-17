@@ -1,5 +1,24 @@
 [
   {
+    "email": "kurosakeechigo0@gmail.com",
+    "name": "Kurosake ",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "MLBB Beta",
+      "MLBB Beta Test"
+    ],
+    "subscribedAt": "2026-01-17T03:33:58.501Z",
+    "active": true
+  },
+  {
     "email": "cat_domain@hotmail.com",
     "name": "Amber Lewis",
     "preferences": {
