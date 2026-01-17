@@ -1,5 +1,26 @@
 [
   {
+    "email": "giovanniorozco445@gmail.com",
+    "name": "Giovanni Martínez Orozco ",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "WhatsApp Messenger",
+      "Instagram",
+      "Facebook",
+      "Telegram Messenger"
+    ],
+    "subscribedAt": "2026-01-17T03:23:58.278Z",
+    "active": true
+  },
+  {
     "email": "marcelsaintin@gmail.com",
     "name": "Marcel Saintin",
     "preferences": {
