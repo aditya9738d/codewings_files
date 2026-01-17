@@ -1,3 +1,4 @@
+- **Tyrant: Mobile Strategy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/e5/1e/3de51e0c-1e2b-8c27-8456-6d25d5ccb007/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/12U9xK99)
 - **OSRS 360**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/23/55/712355e0-e1ea-c32f-1854-c867d04e8faf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BDAssHnQ)
 - **doForms Mobile Data**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/c2/28/11c22812-4bff-9af6-1807-59b295bb1497/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/J3VmuCZS)
 - **21st Century Hack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/78/08/637808a1-6075-b9e9-f1b9-f34c0852166f/AppIcon-0-0-1x_U007epad-0-1-GLES2_U002c0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vbHrsauG)
@@ -117,4 +118,3 @@
 - **Near 22**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/9e/79/f69e79d5-cdb1-0a98-d57e-925e06d2f6b8/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/fMnB4g3H)
 - **Homemanager for Homebridge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/36/8b/3f368bc0-ef91-7a74-9a57-bc207411303e/AppIcon-beta-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3H8r8NNy)
 - **Circle Back Today**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/46/6c/db466c3a-29c3-18a2-70ab-e1ae1313ddb5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p94kd9Ap)
-- **DaG APP 01**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/62/fb/b762fbb0-eab2-6d4f-3f18-84aa6f0409fb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ez7a9CZ5)
