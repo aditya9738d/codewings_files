@@ -1,5 +1,23 @@
 [
   {
+    "email": "fine.armadillo.xlvh@mask.me",
+    "name": "lll",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "Procreate"
+    ],
+    "subscribedAt": "2026-01-17T04:35:09.909Z",
+    "active": true
+  },
+  {
     "email": "kurosakeechigo0@gmail.com",
     "name": "Kurosake ",
     "preferences": {
