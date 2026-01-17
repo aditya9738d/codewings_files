@@ -1,3 +1,4 @@
+- **Social Rate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/32/04/d93204e1-36fc-79ed-1220-4cb5ba97a68f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CE82JUEm)
 - **Movie Grip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/1d/78/4b1d787a-acbf-0476-e82a-c1189c085f8b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/895akTKH)
 - **Kanjure: Kanji Scribble Search**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/27/eb/3d27eb78-ec5f-1267-a9a0-9c3f8bce4ffe/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/E2Sz2DK7)
 - **Movi: Movie Rankings**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/30/d0/4e30d093-35b6-4617-df19-5d11575d06a6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5zDgGtnM)
@@ -117,4 +118,3 @@
 - **Ant.fun**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/a0/af/ffa0afca-0adf-c2a2-7cba-9509fab135e7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/D86qkEzF)
 - **Clean Browser (53204e)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/4a/00/364a005e-9f0c-0d95-a41e-5390acd816f4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sB567BG3)
 - **Fahrrad-Navi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/90/cd/a390cda6-6c96-c01a-9ea5-b5ddc68cc8fb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sYzRqvSC)
-- **Zomi English Translator**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/a3/e8/fda3e87e-df5d-83f4-5ba8-51e4fa4f34b6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/JzMUXRAU)
