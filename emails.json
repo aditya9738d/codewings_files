@@ -1,5 +1,23 @@
 [
   {
+    "email": "cat_domain@hotmail.com",
+    "name": "Amber Lewis",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 20,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "*"
+    ],
+    "subscribedAt": "2026-01-17T03:25:22.075Z",
+    "active": true
+  },
+  {
     "email": "giovanniorozco445@gmail.com",
     "name": "Giovanni Martínez Orozco ",
     "preferences": {
