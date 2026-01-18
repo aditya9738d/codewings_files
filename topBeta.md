@@ -1,3 +1,4 @@
+- **ScreenCap Studios**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/0b/6e/180b6e61-ad73-9b40-7757-b571d76d6d25/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UpQpyg41)
 - **Sinbad Network Official**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/88/57/eb885746-5b39-5e83-75bc-54566e295229/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5xpaM5Wf)
 - **Social Rate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/32/04/d93204e1-36fc-79ed-1220-4cb5ba97a68f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CE82JUEm)
 - **Movie Grip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/1d/78/4b1d787a-acbf-0476-e82a-c1189c085f8b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/895akTKH)
