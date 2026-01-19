@@ -1,5 +1,32 @@
 [
   {
+    "email": "maksim.iofinov@gmail.com",
+    "name": "max",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 10,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "tds-carplay",
+      "TDS CarPlay",
+      "TDS Video 4",
+      "tds-video-4",
+      "instagram",
+      "Instagram",
+      "whatsapp-messenger",
+      "WhatsApp Messenger",
+      "microsoft-word",
+      "Microsoft Word"
+    ],
+    "subscribedAt": "2026-01-17T04:35:09.909Z",
+    "active": true
+  },
+  {
     "email": "fine.armadillo.xlvh@mask.me",
     "name": "lll",
     "preferences": {
