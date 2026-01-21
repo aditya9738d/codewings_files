@@ -1,3 +1,4 @@
+- **StartBeFit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/df/a4/abdfa4d7-7ed2-8a13-26fb-bcf849d77576/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Dr7aJbtC)
 - **Story By You**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ca/1f/5aca1f0a-dc06-33ea-c181-1c00122eeb03/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gvtGRhDH)
 - **BeeCamera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/9f/ed/1d9fed2f-b4b1-080b-e628-0576eb0ba91c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CGwTzhA9)
 - **Frekwencia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/9f/ba/789fbaed-b48a-a305-26e4-9c999aae0ff9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u45ETBU7)
@@ -117,4 +118,3 @@
 - **Absolut Skin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/ce/dc/d7cedca8-64a1-c396-e929-2560dd75a838/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7X2kramK)
 - **Takt - AI for Group Chats**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/98/97/7a98970d-758f-a5b1-7a6a-e045e6520dde/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/HFEfXD1E)
 - **KO Mobile Classic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/98/44/3b9844b8-866f-79fa-a456-917b38648b12/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/v78Ubq2Y)
-- **Trade Rumors**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/62/2d/72622d68-388b-184a-8574-58872a0c618d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gHvpRUJ5)
