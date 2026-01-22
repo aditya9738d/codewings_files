@@ -1,3 +1,4 @@
+- **BlueLedger**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/c5/74/92c574da-e2d9-9bcd-f1b3-a59a2e32ae52/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/C7sRtgen)
 - **百绘千画**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/20/7f/3c207f24-736e-2caf-03ad-3578a783afa2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/a8xEnww3)
 - **NRO ONLINE V3.3.3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/d0/ed/e9d0ede1-2e62-5dc0-15e0-f34ccd691381/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8x2kbmRG)
 - **Studious: Focus & Study Timer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/d3/a4/39d3a484-5089-80fa-ed8f-666ebdf26a10/StudiousAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/64yNbkhM)
@@ -117,4 +118,3 @@
 - **Game ixxc 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/6c/e7/db6ce790-e3dd-4f8c-3597-1c6c0d0b2800/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/KV3rWwhq)
 - **心舟**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/f8/05/79f805f4-4ab6-29eb-e482-bbb12ed15284/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jaYfGcZ1)
 - **LF Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/7b/6e/9f7b6e7f-f063-ffba-8d4b-a96a451c0458/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/p5eKjU8F)
-- **Defguard Desktop Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/01/06/43010687-1822-3f18-079d-5efc32bf1841/icon.png/200x200bb-80.png)](https://testflight.apple.com/join/d4MvaBgw)
