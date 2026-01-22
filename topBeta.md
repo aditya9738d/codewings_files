@@ -1,3 +1,4 @@
+- **Cloud Crypto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/0b/0d/0d0b0d83-de92-797d-71ec-908c9f78c961/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/dejHXa1d)
 - **ZakhaaPay Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/4b/13/284b1367-c866-9610-e922-7a7023b127e8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wqpKjQs9)
 - **Klava**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/89/81/9f89814c-0952-7659-267a-141470f8fd7c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XJrH1AeW)
 - **Global Markets**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/9f/e8/3f9fe876-9dd8-41a0-7682-6f6ca8ac8740/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/RsQgda6e)
