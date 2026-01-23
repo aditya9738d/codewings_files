@@ -1,3 +1,4 @@
+- **GlitchFlow**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/1b/37/131b375b-2493-77e8-f6fd-51776defcea6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VqTbEmTg)
 - **Kikodo App Designer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/38/d1/1338d109-45f5-5a24-73e5-5ad78698f6e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U6jfuJLO)
 - **StarFocus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/82/76/fb8276c1-aec1-61d3-9ba4-96925deaec12/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mME6ZZVc)
 - **Friday Health**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/b9/b9/fbb9b900-cfbf-7fe4-9f70-5fe795665368/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SXWtxqQa)
@@ -117,4 +118,3 @@
 - **MBSport - Analytics**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/39/4b/73394b56-f23a-5c9b-fba1-2dafa7d0ec11/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zPPPwsQt)
 - **Planelo: Ideas & Projects**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/20/db/1c20db6e-a0f8-13f6-1290-46a3b23465f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/w9NkYbaK)
 - **PopGame**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/9e/42/a89e42a3-837b-2e7f-2a9e-7008227da940/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EnPykdTn)
-- **Fina - AI Expense Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/d8/14/b7d814d4-d477-635e-711a-a69e89e2010f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zwVQu2D8)
