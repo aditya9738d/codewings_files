@@ -1,3 +1,4 @@
+- **StarFocus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/82/76/fb8276c1-aec1-61d3-9ba4-96925deaec12/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mME6ZZVc)
 - **Friday Health**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/b9/b9/fbb9b900-cfbf-7fe4-9f70-5fe795665368/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SXWtxqQa)
 - **DHK Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/29/8f/a5298f9f-f16b-d5db-739f-58d46238dda5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/3WUs3SKs)
 - **Habit Goal: Track & Achieve**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/98/27/47982791-792a-fe7c-2791-a9801c8387a2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kZxwEQqZ)
@@ -117,4 +118,3 @@
 - **PopGame**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/9e/42/a89e42a3-837b-2e7f-2a9e-7008227da940/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EnPykdTn)
 - **Fina - AI Expense Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/d8/14/b7d814d4-d477-635e-711a-a69e89e2010f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zwVQu2D8)
 - **Countdown: Big Timer & Clock**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/58/86/075886fd-bfc7-e246-923f-fc6758a549b0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QJTaE9I2)
-- **逐句学**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/98/a2/0f98a2a3-ec69-2155-afe3-c98a9f33d39e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ncc2Y7As)
