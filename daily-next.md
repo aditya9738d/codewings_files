@@ -1,3 +1,4 @@
+- **Criterion​**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/d6/33/a4d63366-ab20-7934-684d-d746410768b7/icon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/C5XUzHhe)
 - **Count Cosmos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/74/45/94744589-663c-b736-f5e0-ca8507c3bb07/AppIcon-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RJ2wDHaA)
 - **MBet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/1e/7d/fc1e7d6e-eee0-8d40-4b54-7bb72e896dc2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/krw1RgsC)
 - **Table Online**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/b7/50/f3b75029-4693-793a-441f-2841b66cefb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vwsUV4Db)
@@ -117,4 +118,3 @@
 - **Klive App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/8f/1d/f98f1d2b-7bbf-acc4-d077-20b1491b978d/AppIcon-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/aHcgDXcU)
 - **IWE 2.0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/34/49/89344983-1e1c-acdd-0c56-a1c576804751/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/MG4vYZ2j)
 - **Deck 24**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/d9/f3/8fd9f3a3-7e66-2ba6-68d3-6d0fce387c0a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b1XjJtQP)
-- **mumuri**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/29/1f/e3291fe8-1555-83c8-43c3-9153fc811a53/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EnWy92Xh)
