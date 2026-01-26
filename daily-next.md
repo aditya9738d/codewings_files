@@ -1,3 +1,4 @@
+- **随拍鸭**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/62/d6/6b62d621-bf6c-4d87-5336-af5a675f6bfa/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/JFc8NDah)
 - **Würfel Zauber - Puzzle Spiel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/29/b9/f629b90d-6241-2bc3-b453-f4c128eb32be/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tX34X1rN)
 - **TT Training Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/11/a9/da11a93d-4bc6-8ed3-cf53-9b1169bc4849/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/DBwCScjr)
 - **Shadow AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/c5/ff/6fc5ffcd-9dcc-121d-e314-bdb93d56dfaa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/u2dmujwK)
@@ -117,4 +118,3 @@
 - **Bird Bubble Blast - Bird Sort**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/dd/1a/fedd1a90-44ab-eb78-0cdd-88a00baf5ca3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/33eTDEhy)
 - **Elarion: Aetherfall**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/1a/85/a51a8523-4f5d-2bad-23f8-d708b37317af/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qkeHyFFT)
 - **Synapsonic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/56/27/8f5627b4-cbb2-3867-cbab-df8759a627be/AppIcon-vd013-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QJcRAfJn)
-- **Q | كيو**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/d0/e8/3dd0e834-bb1a-d75d-0efa-1ab3ffb642b2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2Bc6eq5k)
