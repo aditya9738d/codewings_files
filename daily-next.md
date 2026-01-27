@@ -1,3 +1,4 @@
+- **puzzlux**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/69/92/5b6992bc-a770-065b-8b38-54b19e43de74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZV2hFnpw)
 - **Cybersecurity AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/e8/de/98e8de63-6038-03da-77bc-db918f3175ed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nXZZD4Z5)
 - **随拍鸭**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/62/d6/6b62d621-bf6c-4d87-5336-af5a675f6bfa/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/JFc8NDah)
 - **Würfel Zauber - Puzzle Spiel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/29/b9/f629b90d-6241-2bc3-b453-f4c128eb32be/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tX34X1rN)
@@ -117,4 +118,3 @@
 - **魂斗罗:归来-体验版**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/aa/b8/baaab85f-e71b-bd86-5fae-0220a417104d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/edJ4YWMp)
 - **BareBudget**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/77/ca/5a77cac4-d7e3-c07f-8017-739a3bc482e2/BareBudgetBeta-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/zCwEVEUc)
 - **Bird Bubble Blast - Bird Sort**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/dd/1a/fedd1a90-44ab-eb78-0cdd-88a00baf5ca3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/33eTDEhy)
-- **Elarion: Aetherfall**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/1a/85/a51a8523-4f5d-2bad-23f8-d708b37317af/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qkeHyFFT)
