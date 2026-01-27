@@ -1,3 +1,4 @@
+- **puzzlux**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/69/92/5b6992bc-a770-065b-8b38-54b19e43de74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZV2hFnpw)
 - **Cybersecurity AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/e8/de/98e8de63-6038-03da-77bc-db918f3175ed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nXZZD4Z5)
 - **随拍鸭**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/62/d6/6b62d621-bf6c-4d87-5336-af5a675f6bfa/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/JFc8NDah)
 - **Würfel Zauber - Puzzle Spiel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/29/b9/f629b90d-6241-2bc3-b453-f4c128eb32be/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tX34X1rN)
