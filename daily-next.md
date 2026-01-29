@@ -1,3 +1,4 @@
+- **Studious: Focus Timer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/52/be/1252bea9-782f-f1ac-ed0c-f44337e5aee0/StudiousAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/64yNbkhM)
 - **Kiem Hiep Tinh 1 Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/3b/19/983b1907-2cc7-c4a4-e1dc-e19029c0815c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T4yqGmt4)
 - **FNDMNTLS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/e1/aa/d2e1aa7d-a6f8-3caf-5aeb-cce76a144606/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/g8BcDnVR)
 - **Foodvisor - AI Calorie Counter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/fc/80/f8fc801c-2367-14d8-7c9d-ff72aceeaabd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nw24cJxp)
@@ -117,4 +118,3 @@
 - **Fancian**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/7a/20/227a20aa-90b9-0979-75fc-1853080644eb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wzTmccM1)
 - **CourtzClub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/6f/06/a46f067a-a8f6-d538-a9fb-592706ef5dea/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/RtshMq2R)
 - **One Clear Day**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/64/d7/1d64d772-3644-8af5-7b8a-ee07a1abd767/app-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/V45Yajjt)
-- **Strimr**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/9f/0a/249f0a5a-23fd-2725-ed50-71d7eb8089fd/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/nayaffkP)
