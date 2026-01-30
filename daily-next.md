@@ -1,3 +1,4 @@
+- **friday, mental health buddy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/b9/b9/fbb9b900-cfbf-7fe4-9f70-5fe795665368/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SXWtxqQa)
 - **SunCues**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/18/fd/e118fd1f-79f6-4f0a-3513-7f4a9985735f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8a9FdmVV)
 - **Go Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/f7/41/d9f74146-05f6-8798-4971-3cadc78410d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2f3XNQeE)
 - **FitCheck OOTD**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/86/10/1e861066-2879-ec5e-c0e1-762d5353cb14/fitcheck-logo-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tAGseDvh)
@@ -117,4 +118,3 @@
 - **Trek '85**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/9b/a8/519ba874-46a6-37ff-aaec-fb743cec38c4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/f9WJ3jVJ)
 - **Panduo AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/aa/60/ecaa603d-9bd1-43d6-2f70-292b768f636b/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/jhREeGVH)
 - **Tyrant: Mobile Strategy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/e5/1e/3de51e0c-1e2b-8c27-8456-6d25d5ccb007/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/12U9xK99)
-- **OSRS 360**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/23/55/712355e0-e1ea-c32f-1854-c867d04e8faf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/BDAssHnQ)
