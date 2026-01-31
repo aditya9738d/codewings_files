@@ -1,3 +1,4 @@
+- **Foldy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/c0/eb/a5c0eb26-a973-fa5d-b1e6-b8d6aecc192e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cF4hs56Z)
 - **Newslang Read&Learn**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/7c/9f/ac7c9f3a-001a-c146-cb5f-dd0798bba892/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/5h1DuNDw)
 - **friday, mental health buddy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/b9/b9/fbb9b900-cfbf-7fe4-9f70-5fe795665368/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SXWtxqQa)
 - **SunCues**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/18/fd/e118fd1f-79f6-4f0a-3513-7f4a9985735f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8a9FdmVV)
