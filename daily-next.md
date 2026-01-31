@@ -1,3 +1,4 @@
+- **mr-spell-app**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/36/48/eb364814-b1be-1c44-00b1-74c9f1a9800a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SgxAZ2DN)
 - **Shindig - Local Events**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/a6/1c/68a61c8e-eff6-545b-5cf8-8ecd94bf5e09/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pFBXxHbn)
 - **Tân Võ Lâm Gigantic**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/f2/a5/5cf2a52c-a782-dc79-1e78-7cee609fa14f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/nerWJdTe)
 - **Game ixxc 01**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/44/d8/7e44d831-1215-a733-5ac6-b42effc75b0e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/SaKGeR1q)
@@ -117,4 +118,3 @@
 - **Bridge Scoresheet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/22/16/18221656-dd27-4b40-efb1-a07856d7af65/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3jsxS7dV)
 - **ScreenCap Studios**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/0b/6e/180b6e61-ad73-9b40-7757-b571d76d6d25/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/UpQpyg41)
 - **Sinbad Network Official**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/88/57/eb885746-5b39-5e83-75bc-54566e295229/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5xpaM5Wf)
-- **Social Rate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/32/04/d93204e1-36fc-79ed-1220-4cb5ba97a68f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CE82JUEm)
