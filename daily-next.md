@@ -1,3 +1,4 @@
+- **Gabepeixe**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/31/fe/e331feeb-c689-47fa-6f94-2835fa383dd1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/72V1SaAe)
 - **Pep.**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/18/7d/17187dcd-54f6-b2c5-c4e3-55ea3527a546/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M6qk4dt2)
 - **Zwind - WebDAV Server & Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/c7/2b/dcc72bfa-6238-ead7-7839-49079399eb16/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/BcYq5B1g)
 - **GO Calendar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/f7/41/d9f74146-05f6-8798-4971-3cadc78410d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/2f3XNQeE)
@@ -117,4 +118,3 @@
 - **DLU**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/71/e9/5271e9a3-0ade-241e-2213-440b4ed0afd9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/aC5MPdRS)
 - **Vibe Guide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/31/00/75310003-6f11-55a7-473e-1805a2314bcf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tPxPbsYb)
 - **Emotica - Your Emotions**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/05/9a/3a059ad0-0e02-aef4-dbd5-f259c3a9fd31/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yDpzysH9)
-- **NVDA Remote Controller**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/91/bc/e291bcfc-8867-916b-356a-ab92337e933e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/edg8YSeU)
