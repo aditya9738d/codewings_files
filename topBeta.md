@@ -1,3 +1,4 @@
+- **SnipperApp 3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/55/a5/3255a5b9-9b0e-db1c-3f08-aaf5d0c20f54/Snipper_Tahoe-0-0-85-220-0-0-6-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/KzaVb5MU)
 - **KDTIVI | IPTV, Plex and Emby**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/48/d5/4a48d527-6e41-d65e-c06d-dc548b3dc4bd/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eMJm9rsW)
 - **TiniAid**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/8e/7b/348e7bff-dd84-967b-6b5f-6a6ec9095a65/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gZnd1yy4)
 - **Topsidian**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/63/2f/26632fa2-d09e-52ad-8a7b-756cc4133176/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wzeEGVSD)
