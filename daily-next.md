@@ -1,3 +1,4 @@
+- **ChopGrub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/77/e7/ff77e76d-a115-bf7a-fcb7-1bb4a1ed7d06/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gf7gZUEw)
 - **AcePro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/9e/68/a29e6878-d590-c0ed-46a7-a949e0a3d201/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sujQpASe)
 - **PlushieGO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/d6/e5b4d6e7-4c1c-7f9b-8d5c-15e69154b8d3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hnakCZpM)
 - **超自然行動組-和趙露思一起玩**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ff/23/9dff23d9-9719-8b61-8711-fd40e11f308f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gua5xT38)
@@ -117,4 +118,3 @@
 - **NobodyPro - Short Movie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/38/a5/4938a5a3-9780-c62a-cc11-4b2cd593b45a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MNSAsDRs)
 - **Binstalk**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/85/5b/28855b32-42f5-154c-fba5-aaef259d2738/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Tf9qwvQY)
 - **Just A Day**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/f9/79/56f97960-eff2-1021-49b2-6beacb58b27b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/nXTvmYnn)
-- **PulseTempoWatch**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/15/71/9e1571a3-7971-c0a1-6c44-98a6fc1513c1/MessagesApplicationStub60x60@2x.png/200x200bb-80.png)](https://testflight.apple.com/join/rQPbzmCq)
