@@ -1,3 +1,4 @@
+- **Keeper Password Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/1a/42/9e1a4240-db19-afbd-8240-612ebe501abc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DPDb3m5N)
 - **VIMO Talk**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/ab/31/0aab31fc-e356-41b2-72e3-a9782ef93158/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S2QnUekm)
 - **AstroDX (Group A)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/7c/9f/cc7c9fde-2831-2bd5-f797-9cbd88ae5305/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d7rx8Gce)
 - **Hyrox & Crossfit Tracker: Hyro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/b4/71/9eb471d7-465b-5579-f5df-2da489555dfb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/K8GXfyRd)
@@ -117,4 +118,3 @@
 - **Arc Run**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/d4/78/0fd47819-38c8-f438-3733-6ad0ab82a843/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/yd1mJKfW)
 - **Sabie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/bf/cc/1fbfcc42-0bb8-0a51-1b60-73c187394144/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d94TEDU7)
 - **Duperr**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/42/f8/8a42f8d4-4dab-4999-9d62-6e9acd1eb812/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/98d1hB6U)
-- **FitWit : AI Personal Trainer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/ae/ae/40aeae9e-c5fd-1124-e8ec-71e13573c94f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ERa6dTGa)
