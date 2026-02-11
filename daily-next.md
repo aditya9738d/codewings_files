@@ -1,3 +1,4 @@
+- **Awaken-Level up IRL**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/1a/23/251a23cc-7935-d81d-de8a-16899a550e12/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/pAbfupVR)
 - **Mager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/9a/79/159a7965-154f-0136-117f-9aa38b895dd4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EXGYP7MC)
 - **4dinha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/9c/74/a69c74b5-448a-aa1c-c276-f1e2e25d0add/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J6MdgKUr)
 - **Rivulet for Plex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/32/15/7e3215f1-4ff4-ba72-aa5e-14da2c0bf11c/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/TcCsF5As)
@@ -117,4 +118,3 @@
 - **Apple TestFlight Driver**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/98/31/2998311e-51ac-b227-a7e9-cafbe6fd40ef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZEqXPHdP)
 - **Pep -  AI Academy coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/c9/a3/52c9a337-a594-5bbb-8456-bea1d5d602f9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/M6qk4dt2)
 - **Chopped AI - Try Hair Styles**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/1e/05/1b1e05fa-5f08-d54a-345c-151ca57a0c7b/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cPzCS2SM)
-- **Ring Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/30/5d/e4305d17-8f25-536a-4f2e-e6ce3a705341/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/7XD7agc7)
