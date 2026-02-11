@@ -1,3 +1,5 @@
+- **Mager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/9a/79/159a7965-154f-0136-117f-9aa38b895dd4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EXGYP7MC)
+- **4dinha**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/9c/74/a69c74b5-448a-aa1c-c276-f1e2e25d0add/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/J6MdgKUr)
 - **Rivulet for Plex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/32/15/7e3215f1-4ff4-ba72-aa5e-14da2c0bf11c/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/TcCsF5As)
 - **LineUp App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/42/59/a8425961-f725-f53f-3aa5-20fbcb2ab4f8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ycs7SM1n)
 - **Keeper Password Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/1a/42/9e1a4240-db19-afbd-8240-612ebe501abc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DPDb3m5N)
