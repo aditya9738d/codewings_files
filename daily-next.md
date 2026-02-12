@@ -1,3 +1,4 @@
+- **Star KR & TW 4.2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/c5/01/5ac5011f-e1e6-5671-bc0e-926427b3aaa4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PQ4V7Xkj)
 - **Pinsdex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/cf/16/2ccf16a7-ff6f-98f9-d6bb-9bf6eabe9e4a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MZKFZTdK)
 - **ProfileNest: Business Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/87/a8/8287a8cb-b5f5-4e9b-0344-3dcbe838e9dd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/88v5JkhF)
 - **McnEx**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/ec/d5/fbecd561-85dd-33a5-86e2-3a79df29c265/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mfbjHynh)
@@ -117,4 +118,3 @@
 - **Home-Chores**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/42/a5/a742a575-6187-f186-bb2d-8560c655a3ff/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dwcZ6qmY)
 - **NanoTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/35/9d/39359d69-e006-acb8-607d-d874e88cfb5c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FcMTsEMc)
 - **Studious: Focus Timer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/52/be/1252bea9-782f-f1ac-ed0c-f44337e5aee0/StudiousAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/64yNbkhM)
-- **Kiem Hiep Tinh 1 Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/3b/19/983b1907-2cc7-c4a4-e1dc-e19029c0815c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T4yqGmt4)
