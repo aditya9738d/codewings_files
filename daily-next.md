@@ -1,3 +1,4 @@
+- **Klava Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/89/81/9f89814c-0952-7659-267a-141470f8fd7c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XJrH1AeW)
 - **Tsemppi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/d3/e1/02d3e1e3-fb30-5c15-0b1f-62450c2a83c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hGcmVYQD)
 - **Flixy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/9a/2b/139a2bc8-ff84-f281-c7c3-89a6eea09f92/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H5bhGXm2)
 - **Star KR & TW 4.2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/c5/01/5ac5011f-e1e6-5671-bc0e-926427b3aaa4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PQ4V7Xkj)
@@ -117,4 +118,3 @@
 - **Rapp Recipes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/e0/2e/afe02ef5-634f-470c-69b5-628846bc6bcb/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/buJcQ1Mm)
 - **Cringe: Social & Dating Skills**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/b2/09/25b20952-e35f-0fdb-c7c5-ffd387955d39/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DaShBAqW)
 - **Vsbet889**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/07/be/c507bee5-79f9-1389-8a33-f0744f134910/AppIcon-vd013-0-0-1x_U007epad-0-9-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/VbMMyvt4)
-- **Home-Chores**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/42/a5/a742a575-6187-f186-bb2d-8560c655a3ff/AppIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/dwcZ6qmY)
