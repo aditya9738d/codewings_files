@@ -1,3 +1,4 @@
+- **Pinsdex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/cf/16/2ccf16a7-ff6f-98f9-d6bb-9bf6eabe9e4a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/MZKFZTdK)
 - **ProfileNest: Business Cards**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/87/a8/8287a8cb-b5f5-4e9b-0344-3dcbe838e9dd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/88v5JkhF)
 - **McnEx**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/ec/d5/fbecd561-85dd-33a5-86e2-3a79df29c265/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mfbjHynh)
 - **AstroDX (Group A)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/7c/9f/cc7c9fde-2831-2bd5-f797-9cbd88ae5305/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/d7rx8Gce)
@@ -117,4 +118,3 @@
 - **NanoTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/35/9d/39359d69-e006-acb8-607d-d874e88cfb5c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/FcMTsEMc)
 - **Studious: Focus Timer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/52/be/1252bea9-782f-f1ac-ed0c-f44337e5aee0/StudiousAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/64yNbkhM)
 - **Kiem Hiep Tinh 1 Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/3b/19/983b1907-2cc7-c4a4-e1dc-e19029c0815c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/T4yqGmt4)
-- **FNDMNTLS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/e1/aa/d2e1aa7d-a6f8-3caf-5aeb-cce76a144606/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/g8BcDnVR)
