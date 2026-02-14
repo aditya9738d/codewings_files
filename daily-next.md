@@ -1,3 +1,4 @@
+- **Ableton Note**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/6c/8d/516c8d8f-ec7a-2324-abb5-a0c3b34e32e9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/i7wGbrN0)
 - **RiseOnlineMobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/f7/70/ddf77092-4e0b-cbe2-e162-a2df455ba9cf/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gdjwSsGB)
 - **Fasting Stages Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/e8/48/30e8488b-9e57-88df-4319-9259e371adea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U6v63eSW)
 - **ChromaKeyTrakr**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/48/24/09482425-ed5d-7074-b2fc-813da4d450bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dM81xFHN)
@@ -117,4 +118,3 @@
 - **VIVID Audio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/b0/19/38b0196f-fbe5-9861-e033-5d263d5370d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/tjetB7pQ)
 - **xiangliao**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/06/f9/c006f9f0-ce99-86ee-e3da-5d49e685fc38/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sFaqmVcW)
 - **miyue**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/1c/00/661c002f-dd9a-aabe-b251-b298f1d2b5b0/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/x75c2Rdz)
-- **Foldy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/c0/eb/a5c0eb26-a973-fa5d-b1e6-b8d6aecc192e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cF4hs56Z)
