@@ -1,3 +1,4 @@
+- **FDL合同会社**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/98/94/6a989479-07a8-f04a-34ab-11cb664e4c63/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/PgWgkat7)
 - **CURAT - AI Docent**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/26/a5/5726a584-d6a7-86bf-a119-c11748a10280/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YUEpQh9T)
 - **MyRedactor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/6b/e0/1c6be04b-8d0c-afdf-3cbf-063ba280aca5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EfmJbp31)
 - **物流**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/10/50/b7105040-5823-3333-0d81-82d545563a9c/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/Uh6ruhyA)
@@ -117,4 +118,3 @@
 - **Timer Fantasy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/21/f2/ad21f23f-e5b9-a359-23f0-712c1f641771/AppIcon-85-220-5-0-0-2x-0-0.png/200x200bb-80.png)](https://testflight.apple.com/join/mqQrQFHC)
 - **Chessconnect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/01/e9/8201e997-f0d7-5cbe-1db6-5ca37b10d5bf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dyucE2f8)
 - **FCN Fans**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/1a/d3/6c1ad3e6-0ad0-65cd-c470-2d76ffe21e4d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4HbegBQ1)
-- **Show Zoka**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/ce/18/91ce18b3-b0f6-bdb6-2163-ae84182265fe/AppIconz-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/F8cAyJU9)
