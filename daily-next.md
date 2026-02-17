@@ -1,3 +1,4 @@
+- **ClearScribe AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/06/a6/c906a61d-af65-c343-ea14-c46ebc5cc963/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b5e5zsuc)
 - **ShakenApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/26/67/9326676c-e6f8-875a-13aa-ab56da7f6157/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6YjYnXMx)
 - **NumberLink Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/a2/6f/07a26fca-3675-8516-38b6-9bcf550aebf9/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/sVaMU5U6)
 - **SuperCat.AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/dc/12/b5dc12d7-d4d8-b4ec-c4e0-a528095d2691/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1YtJyxCN)
@@ -117,4 +118,3 @@
 - **Carrot God, In Carrot We Trust**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/98/5d/55985d27-d0e9-f734-e08a-3e2f31956c1f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PwAyp9U4)
 - **Boys Club**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/6d/07/4d6d0790-71bb-5c2d-8153-0f22369bdaf6/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/CJJyrZaf)
 - **Vox Populi Collective**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/b2/5b/cbb25b0b-acea-ed5c-6a45-700497b663fb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/cKRAH9nY)
-- **HomeBar for Homey Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/6f/5d/2e6f5d6b-60cd-3269-7e1f-7f3c387e7bec/icon-0-0-85-220-0-6-0-2x.png/200x200bb-80.png)](https://testflight.apple.com/join/fxYrqkgH)
