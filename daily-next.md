@@ -1,3 +1,4 @@
+- **SuperCat.AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/dc/12/b5dc12d7-d4d8-b4ec-c4e0-a528095d2691/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1YtJyxCN)
 - **TestFlight Apple Developer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/04/8b/8b048b9e-813a-a558-83da-8fb19c17c564/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b5Q9hBw3)
 - **AstroDX (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/bc/5c/d7bc5c91-98de-33b0-1ef0-ca24a06e940c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vZkqCBaW)
 - **Neurolous**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/88/67/0d886783-cb11-61a8-8104-1a35338c884c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8ht5ftN4)
