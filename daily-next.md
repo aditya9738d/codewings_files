@@ -1,3 +1,4 @@
+- **Gravitas Dream**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/99/8e/d4998ef2-03c2-efb1-eb6a-6bf75996980c/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/bUQk9WSd)
 - **Readible Immersive**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/45/90/88459075-e05a-ca17-40f3-2c6a7d40a3e7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kGaQRRne)
 - **Raillyo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/45/35/6c45358e-dd4e-8282-2b4b-5c3e78925564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hj3GS9wh)
 - **Mindtailor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/8a/88/1f8a88c0-8ff8-c051-a730-db22fe368a31/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4JYjMKAn)
@@ -117,4 +118,3 @@
 - **ChopGrub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/77/e7/ff77e76d-a115-bf7a-fcb7-1bb4a1ed7d06/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gf7gZUEw)
 - **AcePro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/9e/68/a29e6878-d590-c0ed-46a7-a949e0a3d201/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sujQpASe)
 - **PlushieGO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/d6/e5b4d6e7-4c1c-7f9b-8d5c-15e69154b8d3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hnakCZpM)
-- **超自然行動組-和趙露思一起玩**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ff/23/9dff23d9-9719-8b61-8711-fd40e11f308f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Gua5xT38)
