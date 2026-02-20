@@ -1,3 +1,4 @@
+- **VanLifers Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/e9/c3/65e9c376-b7df-77cf-1a10-50129c561fcf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/PNUSHg4x)
 - **Meo 4K**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/63/a6/0663a6ed-68bb-dd05-bf9c-5325bd530bfa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tZjzSBK1)
 - **Bioscope for Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/08/06/7808067f-ed5c-c289-6e19-fef5142b2a6a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/4dZMg7sp)
 - **Stellar-Dominion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/50/38/b35038e7-9c92-1c4f-4650-bd3cb08f92bc/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/pHDuvTCu)
@@ -117,4 +118,3 @@
 - **Inspirely Astrology Yoga Tarot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/7a/a0/727aa03e-0a9c-e7c8-2e44-081b6152d095/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXGaVrUW)
 - **MicoLa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/90/33/0090331b-6cfd-f64b-fd2a-363870c7d440/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rMPnTnwA)
 - **Game xxtubixx 09**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/74/db/7374db67-62c6-f65f-4de2-34495bc1b6c6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/errDqvCd)
-- **LineFocus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/33/85/e3338539-b8cb-fa70-025d-8fce0883d836/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8k6qZ1rx)
