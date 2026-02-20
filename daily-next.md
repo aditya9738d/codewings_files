@@ -1,3 +1,4 @@
+- **WCPOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/20/93/2020938b-9d92-f1a5-8ab1-8c6984ff35ca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/JGBdVRrW?referrer=wordpress.com)
 - **СМскилл**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/5c/ee/be5ceefa-01f3-1e63-b01a-0ae30faf1a58/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wvHrmJeA)
 - **VanLifers Connect**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/e9/c3/65e9c376-b7df-77cf-1a10-50129c561fcf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/PNUSHg4x)
 - **Meo 4K**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/63/a6/0663a6ed-68bb-dd05-bf9c-5325bd530bfa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tZjzSBK1)
@@ -117,4 +118,3 @@
 - **Xonora**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/01/ab/ad01ab65-bec9-14fc-6567-49416d5b69b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5rUk1uqN)
 - **DXP.QA.Safeway**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/54/74/885474b5-7313-78e2-662c-453b04f9450b/AppIcon_safewayqa-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/WmEme6vh)
 - **Inspirely Astrology Yoga Tarot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/7a/a0/727aa03e-0a9c-e7c8-2e44-081b6152d095/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QXGaVrUW)
-- **MicoLa**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/90/33/0090331b-6cfd-f64b-fd2a-363870c7d440/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/rMPnTnwA)
