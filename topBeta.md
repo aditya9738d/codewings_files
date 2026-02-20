@@ -1,3 +1,4 @@
+- **Mindtailor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/8a/88/1f8a88c0-8ff8-c051-a730-db22fe368a31/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4JYjMKAn)
 - **H.I.N.T**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/91/a0/7391a059-191a-33bf-1324-32b17cb8a38e/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/1yrvDgj1)
 - **Miracle - Trading Reimagined**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/7a/cd/737acd6a-f09f-3d77-f0e3-ecab05564c37/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Y4kT7f73)
 - **NineOut Trivia**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/e5/9b/b1e59b8a-fe44-361b-8563-0fa099e83380/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/aKYaCn6S)
