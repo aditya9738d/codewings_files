@@ -1,3 +1,4 @@
+- **MastoBlaster**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/2a/8b/e02a8b9f-2a9f-e673-29da-5e955c494877/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Pkxa5R1k)
 - **Мой Пушистик**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/5e/dd/475edd06-c1e0-a28e-7e89-da68f808a3ab/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/QecjTfvS)
 - **Run My Route**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/3f/56/9d3f56c2-b8c6-8137-45b5-a4a83b22f428/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZFpjy9zg)
 - **Swiper Fit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/3b/8c/593b8cb2-9c4e-ac3e-9ef3-ac3a2bd417fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GZdJGCR7)
@@ -117,4 +118,3 @@
 - **Tingle Vibes**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/46/cf/6846cff3-6c81-f3a8-3693-c861a07c0863/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/SBCh67mk?client_id=669938524.1770508802&session_id=1770508802)
 - **PetFamily — Pet Care Hub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/17/2b/95172bea-43f1-a494-6a2c-44be692d88c5/DogIcon-0-1x_U007epad-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/eabEK2Pd)
 - **JellyTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/90/ca/1190ca62-f30a-0242-086d-a11ca1b47ff6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/EBtNPhs4)
-- **Augmy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/13/0d/7c130d08-71f8-6eb6-ecf8-80a504cb2fd5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/engsT8kW)
