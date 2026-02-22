@@ -1,3 +1,4 @@
+- **Clara Guide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/c4/fe/afc4fee3-1b82-0c11-c3f4-6f180629f701/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Njd4pjsp)
 - **Classmo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/21/42/2b2142f9-07a4-4829-1e31-94b31bdd5cbe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/qRyzcrnd)
 - **TROP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/b4/08/bcb408fe-7cc2-063c-bf5b-aab77c56af8e/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/CgNuBDPB)
 - **Loop — Social Fitness**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/4e/ed/ee4eedca-3d25-3910-4f0e-4009a07575ed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/36tpbMNv)
