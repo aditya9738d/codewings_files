@@ -1,3 +1,4 @@
+- **Мой Пушистик**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/5e/dd/475edd06-c1e0-a28e-7e89-da68f808a3ab/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/QecjTfvS)
 - **Run My Route**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/3f/56/9d3f56c2-b8c6-8137-45b5-a4a83b22f428/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ZFpjy9zg)
 - **Swiper Fit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/3b/8c/593b8cb2-9c4e-ac3e-9ef3-ac3a2bd417fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/GZdJGCR7)
 - **Pocket Crew**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/f8/bc/15f8bc43-6efa-641d-f0a5-8722b4d845f5/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/jDe1qQtv)
