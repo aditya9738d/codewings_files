@@ -1,3 +1,4 @@
+- **COSMOS - QuickSortie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/1b/c8/f81bc879-57ff-46db-fdbd-b76173eb8487/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5nsaBcjS)
 - **VetaMer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/da/27/bbda276d-3e15-53c8-7b90-8651b07c8ac4/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/FUPnj3c5)
 - **MIDITransporter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/b3/c7/4bb3c702-c81d-957c-94bc-2517ac2910f2/MIDITransporter-0-0-85-220-0-6-0-2x.png/1920x1080ib-80.png)](https://testflight.apple.com/join/vCQQxSyv)
 - **Lovin' Van Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/cf/29/18cf29a8-e048-9031-4285-0efb791eb9da/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CDaTqu1X)
@@ -117,4 +118,3 @@
 - **スクールバスアプリ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/3c/ae/433cae25-d7d0-011b-ee79-b4606288bcd0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/sAPY2faZ)
 - **VisualKO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/b6/48/8ab648e6-2b26-a006-b5c0-efcb8cdffb25/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8pDzES7h)
 - **Omni AI Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/31/22/11312218-e87a-5010-2fae-235faa015554/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Smchb7hF)
-- **ProgRock.com Radio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/51/03/49510378-c790-812b-fdb3-0e917f4b8ebb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P86pBznV)
