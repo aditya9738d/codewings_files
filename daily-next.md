@@ -1,3 +1,4 @@
+- **MIDITransporter**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/b3/c7/4bb3c702-c81d-957c-94bc-2517ac2910f2/MIDITransporter-0-0-85-220-0-6-0-2x.png/1920x1080ib-80.png)](https://testflight.apple.com/join/vCQQxSyv)
 - **Lovin' Van Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/cf/29/18cf29a8-e048-9031-4285-0efb791eb9da/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CDaTqu1X)
 - **KomsumNet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/02/a0/ba02a0a7-971c-4f1f-eb71-d52538517d0c/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/fXdxTHEk)
 - **Tilt Pay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/5a/9b/7c5a9bc7-9dd7-baac-1d17-b92648186205/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/qfcdjXdh)
@@ -117,4 +118,3 @@
 - **Omni AI Companion**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/31/22/11312218-e87a-5010-2fae-235faa015554/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Smchb7hF)
 - **ProgRock.com Radio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/51/03/49510378-c790-812b-fdb3-0e917f4b8ebb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P86pBznV)
 - **X-cam - 虚实融合的实时交互视频模型X1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/04/7c/71047c57-94fc-bb1f-321e-548b5d4e0b87/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/8sWgKZeQ)
-- **Nimbus for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/c5/30/f5c5305e-6e0d-f14c-27ae-7c638cdf5526/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/9KuqN4R2)
