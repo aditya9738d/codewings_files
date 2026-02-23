@@ -1,3 +1,4 @@
+- **Lovin' Van Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/cf/29/18cf29a8-e048-9031-4285-0efb791eb9da/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/CDaTqu1X)
 - **KomsumNet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/02/a0/ba02a0a7-971c-4f1f-eb71-d52538517d0c/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/fXdxTHEk)
 - **Tilt Pay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/5a/9b/7c5a9bc7-9dd7-baac-1d17-b92648186205/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/qfcdjXdh)
 - **推しカ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/78/1f/d5781f24-380e-343a-09b6-b8a0c6daa64d/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/PgWgkat7)
@@ -117,4 +118,3 @@
 - **ProgRock.com Radio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/51/03/49510378-c790-812b-fdb3-0e917f4b8ebb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/P86pBznV)
 - **X-cam - 虚实融合的实时交互视频模型X1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/04/7c/71047c57-94fc-bb1f-321e-548b5d4e0b87/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/8sWgKZeQ)
 - **Nimbus for visionOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/c5/30/f5c5305e-6e0d-f14c-27ae-7c638cdf5526/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/9KuqN4R2)
-- **Khe Uoc Diet Quy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/fb/88/cffb883e-ff00-1b9c-39dc-230ffd8fd48e/AppIcon-1x_U007emarketing-0-4-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/NsHzuAwN)
