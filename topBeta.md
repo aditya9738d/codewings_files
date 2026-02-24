@@ -1,3 +1,4 @@
+- **ODEZZA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/64/2a/18642a08-18b3-cd6a-967e-7cb7e32184c8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/VdxtNZPA)
 - **SayNow! - 여행 전 준비하는 회화 키트**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/1d/df/a61ddfd1-a139-b774-74c7-1660e0712306/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/fmQMgarj)
 - **FuriFuri**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/a4/d9/b1a4d902-5f57-6ee4-cbfb-2c937c738c33/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Q2we6KvS)
 - **GMovie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/14/d7/7a14d7c9-bbbc-b20c-4aff-6f13acd87b5d/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/WGMXZjnh)
