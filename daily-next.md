@@ -1,3 +1,4 @@
+- **Hi-Res Albums Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/c5/df/b7c5df73-ae75-4b08-d8df-f95af8f837e4/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/TQqwQhxe)
 - **Gram Manchitra**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/96/28/01962832-4db0-d784-48c1-02189873ecab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cqSsSrwG)
 - **Degen Dungeon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/6a/f6/e76af627-d3ef-73d3-e417-6b7c7db2fb2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/ff3KFUwQ)
 - **ShamCash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/dd/97/75dd976a-26a6-0917-a370-119c615b8ff4/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/pDEtx3Tw)
@@ -117,4 +118,3 @@
 - **Rivulet for Plex**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/32/15/7e3215f1-4ff4-ba72-aa5e-14da2c0bf11c/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/TcCsF5As)
 - **LineUp App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/42/59/a8425961-f725-f53f-3aa5-20fbcb2ab4f8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ycs7SM1n)
 - **Keeper Password Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/1a/42/9e1a4240-db19-afbd-8240-612ebe501abc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/DPDb3m5N)
-- **VIMO Talk**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/ab/31/0aab31fc-e356-41b2-72e3-a9782ef93158/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/S2QnUekm)
