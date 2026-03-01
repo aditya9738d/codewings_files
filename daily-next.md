@@ -1,3 +1,4 @@
+- **AirTV: Plex + Jellyfin + IPTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/61/5d/b1615d03-7796-20de-36f5-707385538201/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gq32D15W)
 - **Talki - AI Language Learning**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/bd/32/dabd325b-ccd7-f818-9245-ec9df831bbde/AppIcon-0-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/j2qEvSjN)
 - **Bifrost Jump**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/21/fb/1d21fb5b-d079-64cc-465e-0945c30d9bd0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/RuzFs4rJ)
 - **AstroDX (Group A)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/b1/a0/81b1a064-c551-a8b1-d83d-e140b1509e29/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/d7rx8Gce)
@@ -117,4 +118,3 @@
 - **Klava Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/89/81/9f89814c-0952-7659-267a-141470f8fd7c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XJrH1AeW)
 - **Tsemppi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/d3/e1/02d3e1e3-fb30-5c15-0b1f-62450c2a83c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hGcmVYQD)
 - **Flixy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/9a/2b/139a2bc8-ff84-f281-c7c3-89a6eea09f92/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H5bhGXm2)
-- **Star KR & TW 4.2**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/c5/01/5ac5011f-e1e6-5671-bc0e-926427b3aaa4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/PQ4V7Xkj)
