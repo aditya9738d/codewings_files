@@ -1,3 +1,4 @@
+- **4Pay: P2P Cripto e Pagamentos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/d6/52/91d65275-1894-25fd-5d93-11bf70d93ae6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tuRdhvB8)
 - **PaperPilot Scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/38/42/7038423f-1c58-1326-5f92-45d5053d1a53/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/hQeQrXJ5)
 - **AirTV: Plex + Jellyfin + IPTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/61/5d/b1615d03-7796-20de-36f5-707385538201/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gq32D15W)
 - **Talki - AI Language Learning**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/bd/32/dabd325b-ccd7-f818-9245-ec9df831bbde/AppIcon-0-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/j2qEvSjN)
@@ -117,4 +118,3 @@
 - **Grosure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/37/e42a3775-3e38-a93a-ff2b-38f325142913/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m9xqFvhc)
 - **Klava Keyboard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/89/81/9f89814c-0952-7659-267a-141470f8fd7c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/XJrH1AeW)
 - **Tsemppi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/d3/e1/02d3e1e3-fb30-5c15-0b1f-62450c2a83c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hGcmVYQD)
-- **Flixy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/9a/2b/139a2bc8-ff84-f281-c7c3-89a6eea09f92/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/H5bhGXm2)
