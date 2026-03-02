@@ -1,3 +1,4 @@
+- **AstroDX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/b1/a0/81b1a064-c551-a8b1-d83d-e140b1509e29/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/d7rx8Gce)
 - **TreeGo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/63/14/cc631406-603c-a2e8-31e4-6b5d223fa409/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/fquTFy37)
 - **AirTV: Plex + Jellyfin + IPTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/61/5d/b1615d03-7796-20de-36f5-707385538201/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gq32D15W)
 - **4Pay: P2P Cripto e Pagamentos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/d6/52/91d65275-1894-25fd-5d93-11bf70d93ae6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tuRdhvB8)
@@ -117,4 +118,3 @@
 - **Grid Roguelite**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/db/23/f5db23da-ce4e-6834-d1da-9bf5a30b2f29/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/4uEFue15)
 - **The Pet Whispers**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/a4/7b/a5a47bc2-82d3-b26d-b41f-601d41af38f1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/bmpD97ud)
 - **BTT Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/f3/07/29f307f1-b99a-8030-6309-a0c0523ce7c4/AppIcon6-0-0-1x_U007epad-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hxd3yZXk)
-- **Grosure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/37/e42a3775-3e38-a93a-ff2b-38f325142913/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/m9xqFvhc)
