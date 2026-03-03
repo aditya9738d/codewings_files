@@ -1,3 +1,4 @@
+- **AstroDX (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/b9/45/4ab94514-4223-776b-3e4b-401a467cec78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/vZkqCBaW)
 - **AirTV: Plex + Jellyfin + IPTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/4a/90/274a90f0-9d80-34f9-9313-3bbf5ce851a1/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gq32D15W)
 - **AstroDX (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/b9/45/4ab94514-4223-776b-3e4b-401a467cec78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/vZkqCBaW)
 - **EasyTier**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/a8/72/42a872ac-120f-4ae6-0200-2652512cd793/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/YWnDyJfM)
@@ -117,4 +118,3 @@
 - **LastFast**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/5d/fa/405dfa3c-4afb-ac3a-f744-1f9530fd0cbd/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/DsaTfQwF)
 - **VEO - I Spy Party Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/5b/ef/265bef45-b691-d5e4-8e2d-0e73804b1a6b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/QmDRFhSS)
 - **Ableton Note**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/6c/8d/516c8d8f-ec7a-2324-abb5-a0c3b34e32e9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/i7wGbrN0)
-- **RiseOnlineMobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/f7/70/ddf77092-4e0b-cbe2-e162-a2df455ba9cf/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gdjwSsGB)
