@@ -1,3 +1,4 @@
+- **Oria AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/6b/34/6d6b34f2-e8ba-537e-94c1-8ce8675fcee4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/edVXvcNq)
 - **AirTV: Plex + Jellyfin + IPTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/61/5d/b1615d03-7796-20de-36f5-707385538201/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gq32D15W)
 - **Playtplus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/76/d3/7e76d33a-4732-c64b-cb61-0104f2e765f2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/SHEWWMcN)
 - **Gunny Games**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/d4/9d/e9d49d52-3265-150e-1ea5-b1a6d5e5dc8d/AppIcon-1x_U007epad-0-11-0-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/CtVrnvUp)
@@ -117,4 +118,3 @@
 - **嗨圈**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f7/75/07f7754e-4cc2-79d8-d650-0f38476c756c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hrBN56GG)
 - **Kỳ Tích Atlans**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/fb/7b/94fb7b50-842d-e540-18e9-fc4e41526f72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vzcGPetR)
 - **Nuriy | Sustainable Jewelry**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/d6/d7/9dd6d7a1-0cc0-9d58-d23f-5bc3fcec0671/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/3rtZbrKr)
-- **FinanceForest: Portfolio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/06/f6/cb06f6d1-d812-8377-e7b5-b10b652779bc/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/3gxUY7Rs)
