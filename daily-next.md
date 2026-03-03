@@ -1,3 +1,4 @@
+- **EasyTier**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/a8/72/42a872ac-120f-4ae6-0200-2652512cd793/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/YWnDyJfM)
 - **TableTennis Referee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/03/ba/5b03bac2-df1b-0139-14ce-4534e09f50d1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/4xQNQskn)
 - **超自然行動組**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ff/23/9dff23d9-9719-8b61-8711-fd40e11f308f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Gua5xT38)
 - **xChat Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/b5/e0/47b5e038-fec3-fa1a-f1d9-0981b172cee0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/2dxvn5Sv)
@@ -117,4 +118,3 @@
 - **RiseOnlineMobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/f7/70/ddf77092-4e0b-cbe2-e162-a2df455ba9cf/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/gdjwSsGB)
 - **Fasting Stages Tracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/e8/48/30e8488b-9e57-88df-4319-9259e371adea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/U6v63eSW)
 - **ChromaKeyTrakr**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/48/24/09482425-ed5d-7074-b2fc-813da4d450bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/dM81xFHN)
-- **嗨圈**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f7/75/07f7754e-4cc2-79d8-d650-0f38476c756c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/hrBN56GG)
