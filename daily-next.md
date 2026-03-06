@@ -1,3 +1,4 @@
+- **AstroDX (Group B)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/b9/45/4ab94514-4223-776b-3e4b-401a467cec78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/vZkqCBaW)
 - **SmartWeather**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/4a/d0/674ad06b-7dc2-c717-ef27-7806cd3bea4a/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/3AC3SkPd)
 - **WoT Blitz Reforged Update**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/c0/d8/18c0d8ce-8be9-e471-4f64-e0f0af8945eb/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/GEZBVXfc)
 - **刀劍朝鮮**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/33/66/97336622-aa69-3699-b837-fef8822f4f44/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/fUHEABwJ)
@@ -117,4 +118,3 @@
 - **CalcHead**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/2a/10/202a10fb-1d0f-3c14-924c-a2dc3ff52308/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/UzKKVW4D)
 - **Game xxtubixx 10**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/40/db/0240dbdf-c9e0-30a0-0af1-2d9eac67fa3f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/kTY1ySeR)
 - **FDL合同会社**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/98/94/6a989479-07a8-f04a-34ab-11cb664e4c63/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/200x200bb-80.png)](https://testflight.apple.com/join/PgWgkat7)
-- **CURAT - AI Docent**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/26/a5/5726a584-d6a7-86bf-a119-c11748a10280/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/YUEpQh9T)
