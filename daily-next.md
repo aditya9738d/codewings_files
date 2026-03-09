@@ -1,3 +1,4 @@
+- **parsely-ios**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/59/d0/cf59d089-af80-5feb-4c41-fbb3ba09494b/AppIcon-0-0-1x_U007emarketing-0-1-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HjUZtzVm)
 - **Shuttls**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/08/11/1408117c-9845-3941-a92c-2959fda38372/AppIcon-0-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/VxSrg4Uf)
 - **Rysing**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/63/bb/5863bbcc-a78a-281d-d984-0c8bd064d970/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/r4htb6SU)
 - **vibe80**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/16/72/4f16721b-191c-e438-f81a-9030942352a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cj8HyGdq)
@@ -117,4 +118,3 @@
 - **ShakenApp**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/26/67/9326676c-e6f8-875a-13aa-ab56da7f6157/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/6YjYnXMx)
 - **NumberLink Client**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/a2/6f/07a26fca-3675-8516-38b6-9bcf550aebf9/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/sVaMU5U6)
 - **SuperCat.AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/dc/12/b5dc12d7-d4d8-b4ec-c4e0-a528095d2691/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/1YtJyxCN)
-- **TestFlight Apple Developer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/04/8b/8b048b9e-813a-a558-83da-8fb19c17c564/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b5Q9hBw3)
