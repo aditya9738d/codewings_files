@@ -1,3 +1,4 @@
+- **Discale**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/15/69/1a1569c2-c29c-6110-92c4-cbb58125fc55/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/sM8ZrCES)
 - **FinFin for Jellyfin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/6d/57/e46d575e-b048-24d7-91c4-01acbbff0f03/App_Icon-marketing.lsr/200x200bb-80.png)](https://testflight.apple.com/join/MPRq878x)
 - **シマエナガ・エスケープ！ 〜空飛ぶ雪の妖精〜**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/35/0b/ae350b6a-e143-7fb7-a123-1d2c6ba4931c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/F5J5Qdhz)
 - **Cơm Nguội Novel**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/17/b6/4817b621-6ffa-61c9-c589-68656a6e706e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/YwxPhW8C)
@@ -117,4 +118,3 @@
 - **Neurolous**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/88/67/0d886783-cb11-61a8-8104-1a35338c884c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/8ht5ftN4)
 - **leaf reader**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/47/ae/4f47ae9e-84d7-33e0-3e27-1a4a206f247d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/vP8FrX9C)
 - **BeatCut - Sampler for Video**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/3a/f2/293af245-22ef-096d-8db4-b5cfe8588be0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/R2rEw47K)
-- **Key Quest Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/f4/2f/c2f42fd5-eade-edf1-e52f-13f402403bfb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/fXANkVxV)
