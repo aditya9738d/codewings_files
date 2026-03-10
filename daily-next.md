@@ -1,3 +1,4 @@
+- **AirTV: Plex + Jellyfin + IPTV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/4a/90/274a90f0-9d80-34f9-9313-3bbf5ce851a1/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gq32D15W)
 - **Ultrapool: Pool Roguelike**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/aa/85/bdaa8534-9b39-729f-54f9-55f17df2f57c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/MrSg6bEq)
 - **Aura – AI Assistant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/43/54/d44354b1-5eac-c584-561a-e499a6d2fe46/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cVnjnu6P)
 - **War Era IO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/62/46/036246c0-c83a-94b6-2d55-777ff6090dd7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/AQzA3qa9)
@@ -117,4 +118,3 @@
 - **FileJump**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/18/9e/e5189e31-e97e-b492-6a8a-bbc8b052d8fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/ESFPssJp)
 - **bittr**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/9b/48/549b4849-16a2-f7dc-c3e7-20b87004a15c/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/hTc2r1ch)
 - **Trekka Outdoors**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/76/9b/fb769b93-38b0-a7da-20e9-67afc21fbfea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/mSz3gwDT)
-- **ClearScribe AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/06/a6/c906a61d-af65-c343-ea14-c46ebc5cc963/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/b5e5zsuc)
