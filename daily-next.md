@@ -1,3 +1,4 @@
+- **MindGym- your daily brain quiz**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/ce/13/77ce13ec-fd46-2498-b7fa-1d258f455543/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/FxSetkUC)
 - **iCardSort**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/bd/62/d5bd6203-ebd4-a528-208d-7d26785941e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/scbCHvWd)
 - **Holo 3D Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/cf/b5/a3cfb5be-c371-2443-fa1e-9de58e35397c/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/GKmhgwBj)
 - **Where Now?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/cc/93/cfcc9310-a229-de85-ffc5-b2ab102c3b70/WhereNow-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/PbYdKU6P)
@@ -117,4 +118,3 @@
 - **Loop — Social Fitness**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/4e/ed/ee4eedca-3d25-3910-4f0e-4009a07575ed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/36tpbMNv)
 - **Maritime Master - Radar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/34/a8/3634a891-4545-073b-c893-fe1d4fb08fac/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/wCzCrWXA)
 - **DemonsAreCrazy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/3d/2a/593d2a90-09db-f285-69bb-409aa4a99ac7/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/NK6mZymN)
-- **MastoBlaster**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/2a/8b/e02a8b9f-2a9f-e673-29da-5e955c494877/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Pkxa5R1k)
