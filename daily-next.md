@@ -1,3 +1,4 @@
+- **Mengly: Dream Journal AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/34/ef/4134efb3-d2df-221f-1261-0382b0785f59/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HvxvA5Je)
 - **ForkOff - Vibe Anywhere**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d6/ad/d0d6ad96-c72f-dc91-7d4a-16df90166bf9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/dhh5FrN7)
 - **Fitness Shot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/49/ce/2049ce94-8bc8-9576-e77c-7d9bef4a8a20/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/yk7WRZvT)
 - **Nouns TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/9a/47/5d9a476b-5d4a-c4d1-eff7-d580deb5ea4a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/8xcMzd4e)
@@ -117,4 +118,3 @@
 - **Hi-Res Albums Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/c5/df/b7c5df73-ae75-4b08-d8df-f95af8f837e4/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/TQqwQhxe)
 - **Gram Manchitra**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/96/28/01962832-4db0-d784-48c1-02189873ecab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cqSsSrwG)
 - **Degen Dungeon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/6a/f6/e76af627-d3ef-73d3-e417-6b7c7db2fb2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/ff3KFUwQ)
-- **ShamCash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/dd/97/75dd976a-26a6-0917-a370-119c615b8ff4/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/pDEtx3Tw)
