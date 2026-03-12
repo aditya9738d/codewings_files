@@ -1,3 +1,4 @@
+- **Fitness Shot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/49/ce/2049ce94-8bc8-9576-e77c-7d9bef4a8a20/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/yk7WRZvT)
 - **Nouns TV**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/9a/47/5d9a476b-5d4a-c4d1-eff7-d580deb5ea4a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/8xcMzd4e)
 - **nuBlock Pay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/fb/c8/b9fbc8fe-8900-2ffb-30c4-37cf620017bb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/mJUM68bz)
 - **Ragnarok Midgard Senki**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/7a/15/d37a154b-2fe8-6f3a-33ee-815dd16f857a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/ddJQBnRP)
