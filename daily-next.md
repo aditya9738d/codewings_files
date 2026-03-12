@@ -1,3 +1,4 @@
+- **nuBlock Pay**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/fb/c8/b9fbc8fe-8900-2ffb-30c4-37cf620017bb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/mJUM68bz)
 - **Ragnarok Midgard Senki**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/7a/15/d37a154b-2fe8-6f3a-33ee-815dd16f857a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/ddJQBnRP)
 - **Wallet Connect (NL Wallet)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/84/7c/1e847cb2-ebe9-1a48-7484-dfb99437d21a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/mMpgVSry)
 - **YaArr**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/3b/a6/8a3ba6b1-cd90-d7b2-fbe8-3b60c9cb8d0a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/k7ZcfVKK)
@@ -117,4 +118,3 @@
 - **Notaría**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/fc/f6/6ffcf6df-7be3-0880-f3dd-388d2645e5cb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/9ck5QRD5)
 - **Confidence Daily**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/67/9c/7c679c2a-02cc-3df1-bbfe-b2263d96ff50/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/scNjXNPA)
 - **VELO - Speed Camera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/f8/ab/44f8ab16-aa30-1bce-72b1-f647f653aec1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Cr9YFfjG)
-- **ODEZZA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/64/2a/18642a08-18b3-cd6a-967e-7cb7e32184c8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/VdxtNZPA)
