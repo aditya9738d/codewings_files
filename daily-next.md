@@ -1,3 +1,4 @@
+- **Notion AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/94/02/d1940250-6df8-9ba1-d643-526bf0fdb45b/AppIconProd-0-0-1x_U007ephone-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/m2kxP5cw)
 - **Equity for Everyone**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/19/5e/a9195e11-fe35-0dd0-642f-16913a6a2b2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/WFEu5gWp)
 - **TypeWhisper iOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/a3/a0/78a3a030-d873-55d7-5888-db5ea7d5f481/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/kcCS3hcZ)
 - **Crank - Track fitness workouts**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ca/6e/0fca6ec4-c09e-262b-9f92-8c28c9dc937b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/GcCYJDeK)
@@ -117,4 +118,3 @@
 - **FuriFuri**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/a4/d9/b1a4d902-5f57-6ee4-cbfb-2c937c738c33/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/Q2we6KvS)
 - **GMovie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/14/d7/7a14d7c9-bbbc-b20c-4aff-6f13acd87b5d/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/200x200bb-80.png)](https://testflight.apple.com/join/WGMXZjnh)
 - **COSMOS - QuickSortie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/1b/c8/f81bc879-57ff-46db-fdbd-b76173eb8487/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/200x200bb-80.png)](https://testflight.apple.com/join/5nsaBcjS)
-- **VetaMer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/da/27/bbda276d-3e15-53c8-7b90-8651b07c8ac4/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/FUPnj3c5)
