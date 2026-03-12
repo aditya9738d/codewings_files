@@ -1,3 +1,4 @@
+- **Cosmiq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/dd/34/aadd34f1-d1f2-10d3-ae25-7f92a59620d2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/9ufzTAJW)
 - **HippoCam: Remember Every Thing**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/ba/46/96ba465f-5402-66f2-eb34-b2f99877eeba/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/1VuBWpE2)
 - **Lost - AI Tour Guide**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/5d/1a/9b5d1af2-9438-2ec5-aced-b462c5226e7b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/v6r5wXgh)
 - **FocuShift**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/91/f1/8791f17f-4ca8-8d48-604e-912eae4d15a2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/FPSH36kK)
