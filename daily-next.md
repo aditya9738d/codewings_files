@@ -1,3 +1,4 @@
+- **The Fridge (294a3a)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/b2/60/ddb260af-6475-6b8e-4100-ecb4498f7f6e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/S3rAUEzt)
 - **Enve: Audiobook Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/13/7c/f0137c47-5fb0-3f92-8c41-02699645e721/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/KR2ueYVM)
 - **Washzi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/b9/e4/5eb9e453-d70f-7fef-7910-691cbfa01aa3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/GmftFaZs)
 - **MyLittleFriend**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/bb/e2/58bbe201-c4ee-ad1c-46fb-7c6b13d29b15/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/qNC5Sxu1)
@@ -117,4 +118,3 @@
 - **TreeGo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/63/14/cc631406-603c-a2e8-31e4-6b5d223fa409/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/fquTFy37)
 - **4Pay: P2P Cripto e Pagamentos**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/d6/52/91d65275-1894-25fd-5d93-11bf70d93ae6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tuRdhvB8)
 - **PaperPilot Scanner**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/38/42/7038423f-1c58-1326-5f92-45d5053d1a53/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/hQeQrXJ5)
-- **Talki - AI Language Learning**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/bd/32/dabd325b-ccd7-f818-9245-ec9df831bbde/AppIcon-0-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/j2qEvSjN)
