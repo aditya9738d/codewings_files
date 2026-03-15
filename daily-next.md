@@ -1,3 +1,4 @@
+- **Lyra-Music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ba/e2/85bae29e-41f3-146f-b31d-948ed1234307/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/f2FsZVnj)
 - **Aight - OpenClaw Mobile**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/26/8f/41268f63-572a-f55b-4565-1a6fc2eaeae6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cutCZt5s)
 - **ぱくろぐ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/bc/3c/aabc3cd2-9af4-ab1e-b013-a1f8a6ec1b3d/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/FbVzb4Zk)
 - **DoorGuardianAI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/6c/40/356c40dc-3473-0758-bbdb-185dfec90c50/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/RSmwk3zt)
@@ -117,4 +118,3 @@
 - **Gunny Games**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/d4/9d/e9d49d52-3265-150e-1ea5-b1a6d5e5dc8d/AppIcon-1x_U007epad-0-11-0-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/CtVrnvUp)
 - **brrr • just push notifications**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/d5/2a/3cd52ae3-1c0a-4a23-a9fb-f92564282a1d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/55qZ7dRn)
 - **ClawOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/c4/47/11c44716-b781-d419-1ae5-b3c3a503d9ec/AppIcon-1x_U007ephone-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/ZTw7pJTW)
-- **編みアシ - 編み物アシスタント**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/0e/fa/250efaa2-db15-6984-e83a-7d64a865da93/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/YURUNyt5)
