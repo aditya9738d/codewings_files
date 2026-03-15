@@ -1,3 +1,4 @@
+- **Where Now?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/c4/0b/90c40b54-2929-87a4-85d3-2d0120a4291e/WhereNow-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/PbYdKU6P)
 - **Zuno Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ae/57/76ae575e-0fd3-60cd-59f0-2898e9962e38/Icon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/D9QKAMMF)
 - **WarpWord: Word Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/05/62/ae0562e6-6acf-5f85-fb17-bc0596582714/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/JbphzvVN)
 - **LearnChess (6ca68f)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/83/21/2c8321b9-0875-2936-95b3-0d0b0fe71e31/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/AvU39UGY)
@@ -117,4 +118,3 @@
 - **xChat Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/b5/e0/47b5e038-fec3-fa1a-f1d9-0981b172cee0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/2dxvn5Sv)
 - **Oria AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/6b/34/6d6b34f2-e8ba-537e-94c1-8ce8675fcee4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/edVXvcNq)
 - **Playtplus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/76/d3/7e76d33a-4732-c64b-cb61-0104f2e765f2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/SHEWWMcN)
-- **Gunny Games**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/d4/9d/e9d49d52-3265-150e-1ea5-b1a6d5e5dc8d/AppIcon-1x_U007epad-0-11-0-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/CtVrnvUp)
