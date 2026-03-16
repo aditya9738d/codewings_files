@@ -1,3 +1,4 @@
+- **Wallet Connect (NL Wallet)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/84/7c/1e847cb2-ebe9-1a48-7484-dfb99437d21a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/mMpgVSry)
 - **Takt - Time Tracking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/d2/c8/34d2c8cb-d6b2-a0f4-f608-596e4271ea4a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cVn3kQYN)
 - **Throwdown - Lifter App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/dc/66/02dc668a-adac-b38d-0b09-e15594e4ef38/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/ZFAfmFjY)
 - **LearnChess (6ca68f)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/83/21/2c8321b9-0875-2936-95b3-0d0b0fe71e31/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/AvU39UGY)
@@ -117,4 +118,3 @@
 - **LineStream App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/7c/29/4d7c299c-2ef9-b47c-5162-7faab3ff2c28/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/NUmDz2Eu)
 - **The Quiet Frame**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/7e/f8/397ef839-2ac6-59e7-9dda-ac154e1ffb50/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/4QK5F3fJ)
 - **BananaBomb**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/2c/76/502c76a2-4972-39b2-4e89-3aac97f17450/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tFj6gWjS)
-- **EasyTier**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/a8/72/42a872ac-120f-4ae6-0200-2652512cd793/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/YWnDyJfM)
