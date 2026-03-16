@@ -1,3 +1,4 @@
+- **LearnChess (6ca68f)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/83/21/2c8321b9-0875-2936-95b3-0d0b0fe71e31/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/AvU39UGY)
 - **RetroTrip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/1f/14/491f141c-549b-d2e7-6cd2-da5a69b67f20/RetroTripIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/hU6nTt1M)
 - **Sonidata**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/c1/c4/17c1c441-4d8a-2956-cf4f-e15061cf6f23/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/9xbqk6TM)
 - **Wallet Connect (NL Wallet)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/84/7c/1e847cb2-ebe9-1a48-7484-dfb99437d21a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/mMpgVSry)
@@ -117,4 +118,3 @@
 - **BananaBomb**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/2c/76/502c76a2-4972-39b2-4e89-3aac97f17450/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tFj6gWjS)
 - **EasyTier**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/a8/72/42a872ac-120f-4ae6-0200-2652512cd793/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/YWnDyJfM)
 - **TableTennis Referee**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/03/ba/5b03bac2-df1b-0139-14ce-4534e09f50d1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/4xQNQskn)
-- **超自然行動組**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ff/23/9dff23d9-9719-8b61-8711-fd40e11f308f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Gua5xT38)
