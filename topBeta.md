@@ -1,3 +1,4 @@
+- **LearnChess (6ca68f)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/83/21/2c8321b9-0875-2936-95b3-0d0b0fe71e31/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/AvU39UGY)
 - **The Fridge (294a3a)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/86/bc/1586bce8-73e8-c552-464e-e15d28570d73/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/S3rAUEzt)
 - **Fog**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/9f/85/439f8556-9b90-75d3-80b5-f50df03285fc/FogIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Wu4hwnWK)
 - **Fluo - AI Language Tutor**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/74/f6/be74f603-fcb3-4a2b-28b0-dad47ce7c857/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/KAHQ3DPE)
