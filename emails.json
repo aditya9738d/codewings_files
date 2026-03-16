@@ -1,4 +1,23 @@
 [
+    {
+    "email": "Yampi.mq@gmail.com",
+    "name": "Yampi",
+    "preferences": {
+      "categories": [
+        "none"
+      ],
+      "minClickThreshold": 0,
+      "notifyOnStatusChange": true,
+      "notifyOnNewApps": true,
+      "frequency": "immediate"
+    },
+    "subscribedApps": [
+      "adobe-acrobat-reader-edit-pdf",
+      "Adobe Acrobat Reader: Edit PDF",
+    ],
+    "subscribedAt": "2026-01-17T04:35:09.909Z",
+    "active": true
+  },
   {
     "email": "maksim.iofinov@gmail.com",
     "name": "max",
