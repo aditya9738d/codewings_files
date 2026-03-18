@@ -1,3 +1,4 @@
+- **The Fridge (294a3a)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/86/bc/1586bce8-73e8-c552-464e-e15d28570d73/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/S3rAUEzt)
 - **Server酱**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/53/bd/a653bdaa-01c8-7126-74be-b6a555df96e5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/JRY9g28a)
 - **记趣 Kicho - Ai小账本**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/3e/66/313e66e9-84d7-7b62-4c99-9fb0fef77ed0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/MDYUsbUX)
 - **LearnChess (6ca68f)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/c8/39/f3c839a5-5f2c-8595-bac8-3974fa384609/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/AvU39UGY)
