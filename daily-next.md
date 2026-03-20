@@ -1,3 +1,4 @@
+- **Roof Beta**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/6a/ce/ef6ace17-2250-9dc8-3d60-e49f101f7f1b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/uDTMdyvE)
 - **Gunny Game V3**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/67/aa/9c67aabb-0777-95df-45ab-f57b7f7914bb/AppIcon-1x_U007epad-0-11-0-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/dnVHZx9D)
 - **AttentionTracker**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/21/f4/1e21f437-e684-354b-cb7e-b773879a09db/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HGDaZeQz)
 - **VitaVault: Health & Labs**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/ab/16/07ab1677-7b92-4fec-cac6-c6627e075b94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/A4G27HBt)
@@ -117,4 +118,3 @@
 - **parsely-ios**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/59/d0/cf59d089-af80-5feb-4c41-fbb3ba09494b/AppIcon-0-0-1x_U007emarketing-0-1-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HjUZtzVm)
 - **Shuttls**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/08/11/1408117c-9845-3941-a92c-2959fda38372/AppIcon-0-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/VxSrg4Uf)
 - **Rysing**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/63/bb/5863bbcc-a78a-281d-d984-0c8bd064d970/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/r4htb6SU)
-- **vibe80**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/16/72/4f16721b-191c-e438-f81a-9030942352a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cj8HyGdq)
