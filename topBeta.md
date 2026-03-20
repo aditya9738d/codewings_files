@@ -1,3 +1,4 @@
+- **CardFold**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/69/01/ec69013a-d7a2-a0f9-8011-392b266fdf9f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/1MC5wtQe)
 - **Velmie**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/85/c4/ed85c43c-154a-0c97-169f-cc39d571b13d/AppIcon-prod-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gSWd4ICS)
 - **cucinAI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/98/50/37985039-0ce0-71c3-d97d-1c2eca9911a5/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/YK9f8TfC)
 - **TeamHockey**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b8/60/f7b8604c-ca73-4de1-a9b3-5df805a74206/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/1XWXMtJc)
