@@ -1,3 +1,4 @@
+- **Serendipity VIP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/d1/e7/d8d1e7d6-6ac6-e8f3-ff5a-ecbd95bb2142/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/FPsD46Sv)
 - **Recast: Movies & TV Shows**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/ef/c5/08efc5a0-8b6e-721a-fbb2-7a70da3e3ca2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tvDzK6Ju)
 - **Ask Nomi Health**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/ef/0b/20ef0b9b-582b-d52e-2db5-ded7b3508f22/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/xgFYHgB9)
 - **Voc.Ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/2b/97/cc2b97f5-8473-e0f7-6dc3-6f3c2b71edd1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/YaNxggm5)
