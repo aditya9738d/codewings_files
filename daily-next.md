@@ -1,3 +1,4 @@
+- **Pluto: Crypto Wallet**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/d0/2b/49d02b60-53a0-fb8e-b580-b86b907a7d69/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/qavh9U13)
 - **Where Now?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/40/14/79401442-5075-15a4-1f59-925e268e8918/WhereNow-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/PbYdKU6P)
 - **DSP GAME TF**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/df/c3/0fdfc3c5-8b0a-5f34-5b18-33d4d08e7876/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/SA8UGn67)
 - **P3 Lending (Beta)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/0b/e0/ee0be056-fd4d-2396-fe8c-d8b26d648464/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gMrr2QcP)
@@ -117,4 +118,3 @@
 - **Loops by Pixelfed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/44/d7/6144d7f9-8140-5349-6cf0-b964cd196df1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HvKwFppv)
 - **BTCBitByBit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/28/bd/8c28bd55-805b-6483-fe78-f1f1358d229b/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/3Q2s1Vvm)
 - **Zuno Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ae/57/76ae575e-0fd3-60cd-59f0-2898e9962e38/Icon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/D9QKAMMF)
-- **WarpWord: Word Puzzle Game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/05/62/ae0562e6-6acf-5f85-fb17-bc0596582714/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/JbphzvVN)
