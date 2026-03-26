@@ -1,3 +1,4 @@
+- **Where Now?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/d3/1b/4dd31b9f-1b53-b086-1192-5bb25314c87c/WhereNow-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/PbYdKU6P)
 - **BrainOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/f1/aa/a6f1aa8f-9a08-de6f-1b9d-a215a0793f9c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/TEdmVuQm)
 - **Pure**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/74/a5/d674a53c-fa42-dca4-0718-5da8089f9f99/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gjpSJF3d)
 - **Cuemos Sync**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/7a/ac/e57aac43-c633-bd5b-6f61-cb620df785fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/XX6Fd1ae)
@@ -117,4 +118,3 @@
 - **RetroTrip**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/1f/14/491f141c-549b-d2e7-6cd2-da5a69b67f20/RetroTripIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/hU6nTt1M)
 - **Sonidata**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/c1/c4/17c1c441-4d8a-2956-cf4f-e15061cf6f23/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/9xbqk6TM)
 - **Loops by Pixelfed**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/44/d7/6144d7f9-8140-5349-6cf0-b964cd196df1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HvKwFppv)
-- **BTCBitByBit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/28/bd/8c28bd55-805b-6483-fe78-f1f1358d229b/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/3Q2s1Vvm)
