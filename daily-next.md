@@ -1,3 +1,4 @@
+- **Bubboz  App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/e0/9c/8de09ccc-0e91-9ff7-1352-963e61422d0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/wgcuPm6g)
 - **OcuHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/92/62/b492629a-a141-d4bc-d9fe-b4e951f0e352/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/wjHfgY91)
 - **Sous - Recipe Pal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6b/a2/2a6ba2f3-c3bf-63d9-0c7d-100da5700860/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/p4FHTbuX)
 - **MeshOS**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ec/06/54ec0645-02e8-15e3-4c9f-109c2db768cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Qcr1UZ9c)
@@ -117,4 +118,3 @@
 - **KnowledgeBaseChat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/4d/49/234d4948-05c7-bf0f-d230-80b4dd82329e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/7Y7wsAQn)
 - **BigPixture**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/3b/cf/313bcfe0-d24b-5650-4e2c-5475f819be89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Yp7Upc2F)
 - **mynd**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/f5/31/c2f53135-6cc8-d4a5-020f-5cdf713384ba/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/mvyWMHH9)
-- **verselab.ai**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/8a/bc/d38abc79-5183-4a7a-abab-b1bcd0610da2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/uurDqWZ9)
