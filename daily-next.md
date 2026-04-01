@@ -1,3 +1,4 @@
+- **MyTeslaRoad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/35/7c/c0357cc5-6735-76f0-4aa5-a485c6c7770c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/TpJrD3B8)
 - **Trivia Plus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/80/eb/3d80eb70-4efd-335f-b85b-522c7871a7d5/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Mk5ZPt1S)
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/6a/6a/706a6a8b-2aa5-8adb-4f9d-fe71536d9fd6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/TcHzRZkW)
 - **KinJoin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/7e/a8/527ea85d-647d-aaa9-2a60-16a000607dfd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/zF625xRt)
@@ -117,4 +118,3 @@
 - **Skanit - Pokémon card scan**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/8c/30/448c300e-75f9-ffad-11ca-433f22b1aa09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/MzApcXcA)
 - **Prime Rush**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/e4/94/b6e4949a-b688-54fd-a454-cba56d5d4ef2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/1mWSET5P)
 - **Plainly: Scan & Understand**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/ec/51/3fec51bf-e190-472f-e99f-104334c800b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Cn8Gf3x6)
-- **NutraLog**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/18/61/4f186172-f04f-a14f-dec1-eaedfea6a178/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/kVMUp8kk)
