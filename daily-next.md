@@ -1,3 +1,4 @@
+- **Where Now?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/d3/1b/4dd31b9f-1b53-b086-1192-5bb25314c87c/WhereNow-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/PbYdKU6P)
 - **Zipmi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/6b/e6/f86be670-1fba-6338-60e8-174e5bb13596/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/WFrHF4HR)
 - **SportIQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/43/06/54430679-48b9-ede2-4166-7114290893ab/AppIcon-vd007-0-0-1x_U007epad-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/2yEY15Es)
 - **Docent AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/09/cb/c609cb92-88cb-7b0f-d2dd-fb579d5dff52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/dsNMjJAc)
@@ -117,4 +118,3 @@
 - **趣享券-每日精选数万好商品的优惠券导购App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/a7/85/dca785e1-6ace-7695-950a-4dc34d398374/AppIcon-1-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/SAQ6xVJV)
 - **SaySo News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/03/6c/5f036c9f-194c-32e0-183f-4a3114b935c2/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/U6f1jFPQ)
 - **Pourtrait**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/18/c0/3518c037-d837-82da-a8f4-835832d718f4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tBS7CJSa)
-- **PauseMate**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/3f/c2/673fc239-8401-1f63-053f-8118a9e4f5e0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Qn377E3S)
