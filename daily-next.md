@@ -1,3 +1,4 @@
+- **WannaCall**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/fe/29/3ffe2985-3294-db8b-06fb-0dc6e3d2bcbc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/CEjkZDTn)
 - **Pint Patrol**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/27/53/932753fb-1ebe-6475-a4d4-a7ad0c7c749b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/zRTxr2SG)
 - **Wakeup Buddy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/cb/2d/edcb2dd6-620c-a38a-86ca-eda178ec33d1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/9Ku1uhSN)
 - **Kura Money**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/ac/5c/2aac5c6a-3fd3-e924-2b55-1331a6b0215c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/FP9FjqCu)
@@ -117,4 +118,3 @@
 - **Finy: Control de gastos con IA**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/fe/b6/87feb64a-3cc7-a2f3-8598-9139727958b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/g1BUFu8a)
 - **StrexoPlayer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/5c/0b/635c0b06-dcd8-0b94-3bcf-08b365a7ff4f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/GCKvsej5)
 - **QuietEars**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/79/11/f479117d-5132-2fd2-98e7-f9fc4c33a2ce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HhYWwQt6)
-- **Pluto: Trade Anything**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/d0/2b/49d02b60-53a0-fb8e-b580-b86b907a7d69/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/qavh9U13)
