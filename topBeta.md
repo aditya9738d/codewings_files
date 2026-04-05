@@ -1,3 +1,4 @@
+- **Lume by Frido**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/89/b3/9f89b3f4-a1f9-4283-23d0-2c3592e6661f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/jGBUZsRq)
 - **Kinalto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/be/5c/0bbe5cbb-c386-cc57-992b-c6afdc034b8c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tTcNv4vb)
 - **Pawametric**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/c7/eb/51c7ebcf-0b6c-6d8c-9581-d5a569ae528a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/QaQafZVY)
 - **O Lokalne**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/b5/7e/bcb57e47-b3ef-a512-1cff-bb1f2796e024/AppIcon-0-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/CcN5EGXZ)
