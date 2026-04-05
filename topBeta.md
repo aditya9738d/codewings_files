@@ -1,3 +1,4 @@
+- **Kinalto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/be/5c/0bbe5cbb-c386-cc57-992b-c6afdc034b8c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tTcNv4vb)
 - **Pawametric**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/c7/eb/51c7ebcf-0b6c-6d8c-9581-d5a569ae528a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/QaQafZVY)
 - **O Lokalne**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/b5/7e/bcb57e47-b3ef-a512-1cff-bb1f2796e024/AppIcon-0-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/CcN5EGXZ)
 - **Luna - AI Goal Planner & Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/ff/0b/53ff0b53-e41c-0c05-611f-b4add49fbf73/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/JnGtgYze)
