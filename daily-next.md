@@ -1,3 +1,4 @@
+- **LOFO**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/e0/95/62e09536-b8a9-027f-2d45-8a7feef3ab00/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/PV5qCDKS)
 - **疆全Pro**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/36/12/e13612d9-77d2-6539-a7c5-e87f308aaf1f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/GVPHSa2R)
 - **meepachat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/18/41/fd1841c5-489d-ec60-f805-76b5a1ae63e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/xyt5u6nE)
 - **蜂鸟网**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/8d/8a/eb8d8a98-f2b6-7056-9be3-947f9a706639/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/wu4et7dx)
@@ -117,4 +118,3 @@
 - **Crusyn: Play your city**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/8f/fb/fe8ffbe5-0be7-87d2-fa23-419dd66cb623/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/JcSV9Cpp)
 - **Legend of Icarus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/13/c8/f313c8ca-af81-3e25-5504-58a5e94117af/AppIconIcarus-0-0-1x_U007epad-0-1-GLES2_U002c0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/qZnUd9Af)
 - **WakeZ - Hack Your Sleep**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/2c/24/662c248b-3f77-38ce-c811-ec3810f15537/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/smbmuGTW)
-- **SpotIT Parking**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/bb/68/7bbb68d1-7855-b77f-c3c7-4093f5e41fe5/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/ptYJHjF8)
