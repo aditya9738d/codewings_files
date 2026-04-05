@@ -1,3 +1,4 @@
+- **Poly_Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/b6/25/feb625b1-b4e1-651a-0924-930e29995fa0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/VVxXx65X)
 - **The Coffee Index**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/cf/99/58cf9974-7dc4-1767-8c81-262832fbe18d/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/EVZeKEXB)
 - **TailFin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/31/3c/b2313cab-70ee-60f0-3fd3-56382d49b894/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/zJAF6tCc)
 - **Vshage**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/68/f3/7168f3d0-342c-3cf3-4d87-fe8827511055/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/DdPcutgH)
@@ -117,4 +118,3 @@
 - **Motorcycle Ride Log : MotoLog**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/07/34/be073407-d3d9-b3cf-eeaf-f646b51b492c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/9TAWmWXm)
 - **DaG APP 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/1a/fb/da1afbec-b019-fb93-c133-c526a8ecbc38/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/2H3qrcBj)
 - **EvolveDJ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/cd/7f/79cd7f1f-0766-f402-fff6-cc86415158f1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gpg2AVYX)
-- **Skanit – Scanner de cartes TCG**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/8c/30/448c300e-75f9-ffad-11ca-433f22b1aa09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/MzApcXcA)
