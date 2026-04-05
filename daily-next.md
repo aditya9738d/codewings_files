@@ -1,3 +1,4 @@
+- **Lume by Frido**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/89/b3/9f89b3f4-a1f9-4283-23d0-2c3592e6661f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/jGBUZsRq)
 - **Kinalto**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/be/5c/0bbe5cbb-c386-cc57-992b-c6afdc034b8c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tTcNv4vb)
 - **Pawametric**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/c7/eb/51c7ebcf-0b6c-6d8c-9581-d5a569ae528a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/QaQafZVY)
 - **O Lokalne**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/b5/7e/bcb57e47-b3ef-a512-1cff-bb1f2796e024/AppIcon-0-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/CcN5EGXZ)
@@ -117,4 +118,3 @@
 - **NCBC Good News**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/91/73/fe9173d9-fba0-a703-21f6-30b25bc5cd96/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/QeBcXfUH)
 - **ねこのまいにち**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/ab/7f/3aab7fe8-9ef2-9ac0-b078-1ce3b9ed4a73/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/AGtp5G46)
 - **Kinnect: Family Sync**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/bd/ae/2abdae9c-4e8d-00ee-7d18-490e6f500392/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/BEu1FU1P)
-- **Secure Client Access**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/79/9f/d2799fb5-84ee-890d-6ba7-4fe66a1e4f01/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/P8gwnMqd)
