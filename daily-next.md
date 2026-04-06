@@ -1,3 +1,4 @@
+- **Rooted: Bible Memory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/ec/cc/18eccc66-2fef-2954-5273-71b9c7ca2361/Rooted_v1-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/M8Wy2Y9T)
 - **PuzzlePath**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/a3/ff/e3a3ff43-3c5c-459d-c80f-fd8e155e0dec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/e64qPHQZ)
 - **Poly_Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/b6/25/feb625b1-b4e1-651a-0924-930e29995fa0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/VVxXx65X)
 - **The Coffee Index**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/cf/99/58cf9974-7dc4-1767-8c81-262832fbe18d/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/EVZeKEXB)
@@ -117,4 +118,3 @@
 - **DNP Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/fe/0e/07fe0ebb-3913-eb63-44ee-f33d56f2652d/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tmsGDAW9)
 - **Hopevn**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/3c/3c/b53c3c9c-084f-55a4-06a2-89078dea6c1e/AppIcon-1x_U007emarketing-0-9-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gvKcRdcr)
 - **Motorcycle Ride Log : MotoLog**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/07/34/be073407-d3d9-b3cf-eeaf-f646b51b492c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/9TAWmWXm)
-- **DaG APP 02**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/1a/fb/da1afbec-b019-fb93-c133-c526a8ecbc38/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/2H3qrcBj)
