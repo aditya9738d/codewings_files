@@ -1,3 +1,4 @@
+- **PerkDeck**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/db/6a/a8db6aa1-d6b3-4974-35f7-68076d1b71b4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/QFTMRDka)
 - **Aight for OpenClaw**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/ca/6a/7cca6ac3-a184-c250-0b85-9109834a04a1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cutCZt5s)
 - **Highku**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/5f/3f/fa5f3f95-e912-1586-9c1b-bae60e139f96/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Ts7K8yZG)
 - **diggin' music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/8d/e6/ee8de681-047b-01f0-e40d-9b7b3dd70fe6/AppIcon-0-0-85-220-0-5-0-2x.png/1920x1080ib-80.png)](https://testflight.apple.com/join/hfw7FYPt)
@@ -117,4 +118,3 @@
 - **POGO: Rock Climbing Readiness**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/df/6d/39df6dfa-b9f8-a093-291d-8e1b8b867cf5/AppIcon-0-0-1x_U007ephone-0-3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Hn5xJaCJ)
 - **Runway: The Airport Passport**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/05/45/910545ee-e42b-dd54-b5b5-2a2c55ec46a2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/JXjHVjk8)
 - **Make3D**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/aa/47/4faa477b-3436-c039-d2ef-142f3ae76ce9/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/nHTdCDtm)
-- **LQRD**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/20/04/1b2004c0-03f8-c836-907a-cac55cf45b09/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/nruYKgsE)
