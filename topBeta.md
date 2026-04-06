@@ -1,3 +1,4 @@
+- **Duchenne: Smile Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/e5/94/ace59442-4c15-15d7-ad98-05b4442b4a6d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/qYSykE4k)
 - **huzzah?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/c3/44/a7c344f1-743c-1471-7bdd-38c2a8839e55/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/myNP5XvU)
 - **Game 2026**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ff/e1/efffe1f8-c563-8ff1-ac51-5c6e9aaebbb6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/kQycb8ga)
 - **Rollin Concierge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/34/90/b034900c-ef92-b8ad-e9f1-ffdc67366c57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/6jbxY4D3)
