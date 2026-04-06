@@ -1,3 +1,4 @@
+- **cAIrbo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/cc/e8/c9cce8e2-f2a3-0d3d-5a63-e03a21163406/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/bV5xqZ4k)
 - **Duchenne: Smile Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/e5/94/ace59442-4c15-15d7-ad98-05b4442b4a6d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/qYSykE4k)
 - **huzzah?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/c3/44/a7c344f1-743c-1471-7bdd-38c2a8839e55/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/myNP5XvU)
 - **Game 2026**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ff/e1/efffe1f8-c563-8ff1-ac51-5c6e9aaebbb6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/kQycb8ga)
@@ -117,4 +118,3 @@
 - **Ourcana**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/71/fe/8971fefd-251d-58c6-40fc-1edbc874b272/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/tVDqUEDw)
 - **Bubboz  App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/e0/9c/8de09ccc-0e91-9ff7-1352-963e61422d0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/wgcuPm6g)
 - **OcuHub**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/92/62/b492629a-a141-d4bc-d9fe-b4e951f0e352/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/wjHfgY91)
-- **Sous - Recipe Pal**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6b/a2/2a6ba2f3-c3bf-63d9-0c7d-100da5700860/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/p4FHTbuX)
