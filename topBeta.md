@@ -1,3 +1,4 @@
+- **Fuskar**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/52/1f/1b521fe1-1c42-96e4-8773-770e4f218bf9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/rwCGteh4)
 - **PerkDeck**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/db/6a/a8db6aa1-d6b3-4974-35f7-68076d1b71b4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/QFTMRDka)
 - **Aight for OpenClaw**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/ca/6a/7cca6ac3-a184-c250-0b85-9109834a04a1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cutCZt5s)
 - **Highku**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/5f/3f/fa5f3f95-e912-1586-9c1b-bae60e139f96/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Ts7K8yZG)
