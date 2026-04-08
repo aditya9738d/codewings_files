@@ -1,3 +1,4 @@
+- **huzzah?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/c3/44/a7c344f1-743c-1471-7bdd-38c2a8839e55/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/myNP5XvU)
 - **Ninja Sage**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/78/2a/b4782a1a-312f-480f-39fd-e9555d724dd9/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/vagbsVJM)
 - **BetaBridge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/a8/db/4aa8db2b-f415-771d-9de4-da6994b1e0f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/nU1ucKMt)
 - **Harbor – Your Safe Place**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/5f/a4/215fa464-9690-b36f-8733-45edea817387/Harbor-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/98dDVSMD)
@@ -117,4 +118,3 @@
 - **Risi AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/7a/ab/ef7aab4b-caf5-57b1-531e-5a1871c42c98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/NYnPWrAb)
 - **TickUp: Day-First Productivity**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/0b/c1/230bc1c6-8eda-ddcc-ae4c-ddc46572945f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/MCS7Q55J)
 - **MyTeslaRoad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/35/7c/c0357cc5-6735-76f0-4aa5-a485c6c7770c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/TpJrD3B8)
-- **Trivia Plus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/80/eb/3d80eb70-4efd-335f-b85b-522c7871a7d5/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Mk5ZPt1S)
