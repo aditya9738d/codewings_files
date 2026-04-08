@@ -1,3 +1,4 @@
+- **BetaBridge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/a8/db/4aa8db2b-f415-771d-9de4-da6994b1e0f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/nU1ucKMt)
 - **Harbor – Your Safe Place**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/5f/a4/215fa464-9690-b36f-8733-45edea817387/Harbor-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/98dDVSMD)
 - **huzzah?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/c3/44/a7c344f1-743c-1471-7bdd-38c2a8839e55/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/myNP5XvU)
 - **FondStack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/16/f6/5f16f62e-b106-cb2d-96ef-c81cc56d8c33/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/cybwjfNE)
@@ -117,4 +118,3 @@
 - **MyTeslaRoad**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/35/7c/c0357cc5-6735-76f0-4aa5-a485c6c7770c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/TpJrD3B8)
 - **Trivia Plus**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/80/eb/3d80eb70-4efd-335f-b85b-522c7871a7d5/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Mk5ZPt1S)
 - **XIM MATRIX Manager**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/6a/6a/706a6a8b-2aa5-8adb-4f9d-fe71536d9fd6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/TcHzRZkW)
-- **KinJoin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/7e/a8/527ea85d-647d-aaa9-2a60-16a000607dfd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/zF625xRt)
