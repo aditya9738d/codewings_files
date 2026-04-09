@@ -1,3 +1,4 @@
+- **Mugi**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/24/4c/cc244c1a-7b8d-4091-6aa0-d5e79c1139ab/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HM2dcsnP)
 - **SBN Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/47/96/ff4796ff-d0ad-1e8f-be43-282ffe00af9f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/2pz1KRKc)
 - **Dog Katas**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/d8/75/13d875f7-398e-eddc-4d90-26651626d957/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cTpSBFVs)
 - **BlindPost - Secure Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/8b/a4/2e8ba4d4-94aa-c1ab-bee9-a3760a9e14bb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/dQ2uTv58)
@@ -117,4 +118,3 @@
 - **SafePace**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/26/fe/3c26fe60-db57-9d4d-8f87-a0087eeacd39/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Txf2zu84)
 - **GiftLyst**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/83/63/3a83639d-8f80-6b4d-77ba-32786b6c9edd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/BAR3Aswe)
 - **Trabit**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/a1/bb/4ea1bb9b-1576-8e74-f684-a6d0d8a60163/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/5uVBSwkq)
-- **RhythmBattle**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/94/07/f3940762-2183-bf8e-cf31-960400d43945/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/hYcAPrws)
