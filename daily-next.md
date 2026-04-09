@@ -1,3 +1,4 @@
+- **Insurance TFD**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/7b/e8/fe7be8fa-8b18-2bfd-4b90-64d19de1799e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/UeQJMus8)
 - **Star Global  2.0**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/97/55/0e9755ba-2cc3-60c0-78c5-f88595f717c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/jcu8tajQ)
 - **PivotSports**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/f8/56/d7f85653-4a8a-50ac-cc2b-734415f74ad0/AppIcon-0-1x_U007epad-0-1-85-220-0.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/CxyP4NkX)
 - **ZipherX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/a9/3f/ffa93f6b-a4ed-d8f2-3ffd-bb9ebaac76cb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/ZCzZRdaZ)
@@ -117,4 +118,3 @@
 - **Draw & Conquer.io**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/58/18/f9581873-4378-c810-dd21-550222468261/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/BkDUA3d5)
 - **Smoke-Stack**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/c8/6e/8ec86ec8-3a1b-c3cc-87c7-37ba43a33040/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/9mqQxwg6)
 - **Limeros**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/42/43/e7424329-6c66-721c-2d9f-51090d87d453/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/N6hBUNWx)
-- **ATLAS Lens**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/ba/0c/f6ba0c18-b0d6-942f-3a34-484bf63e0f06/AppIcon_Staging-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/TvFquzNc)
