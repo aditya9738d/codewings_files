@@ -1,3 +1,4 @@
+- **ZipherX**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/a9/3f/ffa93f6b-a4ed-d8f2-3ffd-bb9ebaac76cb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/ZCzZRdaZ)
 - **Cozy Sort Studio**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/8b/d6/4c8bd638-f0b4-362e-3b5d-373067fba8eb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/meWy23Ww)
 - **Chordality**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/7e/67/ac7e67ab-72f6-59f1-7e11-200c6ca5d50a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/d3prwHzD)
 - **CampusTwin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/9a/5a/069a5a89-46f9-c597-9d31-1861e15f2149/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/dKNW2hZt)
@@ -117,4 +118,3 @@
 - **ATLAS Lens**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/ba/0c/f6ba0c18-b0d6-942f-3a34-484bf63e0f06/AppIcon_Staging-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/TvFquzNc)
 - **Photo Cleaner with AI: rCoon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/e1/d5/2ee1d5b4-ca02-ce35-f17d-6a82df2dd879/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/WHyBY6Yy)
 - **StashGuard**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/41/33/52413369-ebbf-e817-5877-f25af34fc59b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/BtTv2HVn)
-- **Risi AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/7a/ab/ef7aab4b-caf5-57b1-531e-5a1871c42c98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/NYnPWrAb)
