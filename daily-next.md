@@ -1,3 +1,4 @@
+- **Cazimera**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/7e/42/2c7e426a-2c82-44bc-6a6e-bf9fee7e2112/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](http://testflight.apple.com/join/fv9ZCMjb)
 - **huzzah?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/c3/44/a7c344f1-743c-1471-7bdd-38c2a8839e55/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/myNP5XvU)
 - **Asteroid - Music Universe**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/65/41/23654109-cd85-7e84-fd0e-cedc0a652b41/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/MvMzHPZV)
 - **Aqara Life**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/11/a8/1611a81a-07ac-1849-1b90-4b974600c40a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/SM9xGcqv)
@@ -117,4 +118,3 @@
 - **SportIQ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/43/06/54430679-48b9-ede2-4166-7114290893ab/AppIcon-vd007-0-0-1x_U007epad-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/2yEY15Es)
 - **Docent AI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/09/cb/c609cb92-88cb-7b0f-d2dd-fb579d5dff52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/dsNMjJAc)
 - **Coaxis Core**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b8/55/f7b85578-8abf-af0e-45a0-dbcd82456669/AppIcon-1x_U007epad-0-1-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/5kDPHuFJ)
-- **Cypher Box**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/88/d4/ba88d467-e032-fd51-f6a8-4a18f1e52a38/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/m1Ry1CJa)
