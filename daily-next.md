@@ -1,3 +1,4 @@
+- **BumX S1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/2d/fc/ad2dfc96-32ba-38cd-cc09-aed2cf046964/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/H1UVJT8a)
 - **huzzah?**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/c3/44/a7c344f1-743c-1471-7bdd-38c2a8839e55/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/myNP5XvU)
 - **squares: a puzzle game**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/2e/2f/302e2f1f-4e86-f638-a05c-2d6abc742c12/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/m6tF855u)
 - **iVRy**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/4e/84/2b4e8408-e1fa-ba9a-b66c-57b98f380b9a/AppIcon.lsr/200x200bb-80.png)](https://testflight.apple.com/join/EQqcZYUK)
@@ -117,4 +118,3 @@
 - **GreenStripe Customer**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/c3/d9/bac3d911-cfef-933a-0cf7-cc3bbe861ad4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/VfWgUpDx)
 - **Resors**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5e/36/225e36cf-b478-30bb-b011-ba626451c35c/ResorsIcon-0-85-220-6-0-0-2x-0-0.png/1920x1080ib-80.png)](https://testflight.apple.com/join/dPHE7qDp)
 - **Galavant**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/80/61/b2806135-da37-b873-f994-20e7275cbb7a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/8NJ7aZ3h)
-- **eDash**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/cd/0c/4bcd0c98-6f47-f35d-1886-97140d1f6e92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/RTEcyGh8)
