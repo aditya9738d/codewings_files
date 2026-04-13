@@ -1,3 +1,4 @@
+- **Zuddy: เพื่อนของคุณ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/64/7e/88647e54-fb73-bf6d-254c-9275391e0864/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/q8cV5DjS)
 - **spine (53e698)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/2c/4e/652c4ed0-4ecd-0739-5c69-35517bf9f7dd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/x3eUAUTM)
 - **Rags to Riches (729f15)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/dd/75/f9dd7518-e375-a690-bad3-ca2732ac8760/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/af2nzjmK)
 - **Rags to Riches (729f15)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/dd/75/f9dd7518-e375-a690-bad3-ca2732ac8760/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/af2nzjmK)
@@ -117,4 +118,3 @@
 - **Lyrics Now**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/26/cc/9b26cc09-3952-3167-76d1-d0fa809d53ea/ICON-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Y1a6QW7N)
 - **App Game V1**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/8d/7b/668d7bf3-1221-dad0-4388-6e10ebbe351a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HXANYR6F)
 - **r_inventory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/20/d6/c220d6c0-7fb1-352d-e82b-fbf1c513f8d2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/VjKtqrh8)
-- **Recovered**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/be/03/41be03ab-7bab-95c0-af45-7979dfb6e1a0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HufYBZAp)
