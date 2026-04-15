@@ -1,3 +1,4 @@
+- **Mbote - Actualités Africaine**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/eb/1a/bceb1a6d-fc0a-a39d-31e1-e7ae04827081/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/xsrThGEj)
 - **Spine (53e698)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/2c/4e/652c4ed0-4ecd-0739-5c69-35517bf9f7dd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/x3eUAUTM)
 - **JustReps**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/67/7f/82677ff5-f029-65ac-4e1b-357b3a1aa362/JustReps-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/XXutvcqr)
 - **Lysoniq**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/c2/87/92c28734-ee5e-2a0a-fd07-f6a987a791f6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cdk9Y8PG)
@@ -117,4 +118,3 @@
 - **IOS NRO VIP**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/36/35/ab363554-3c40-897c-f6e9-8c561fc3268c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/K9JXhcNv)
 - **CouchRot**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/4b/68/2f4b68f7-398e-2a0e-f518-92c870ff422e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Mzf1r43Y)
 - **satsen1.0.0(2)**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/c7/fb/77c7fb70-2a8a-9b08-9eb2-6e6e77fdddaf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/qHN2Vytn)
-- **Voice2txt**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/55/03/2c55034a-0489-c937-c497-e82aaff9ddb7/AppIcon-0-0-85-220-0-5-0-2x.png/1920x1080ib-80.png)](https://testflight.apple.com/join/N5TgYj16)
