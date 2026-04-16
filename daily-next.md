@@ -1,3 +1,4 @@
+- **Nuvio Media**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/43/30/e84330a1-7b5d-9e0d-6395-e203dc7a6d8f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/u4y7MHK9)
 - **Advance Tactics**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/02/c6/1502c691-91e6-431b-69fd-ca2d726f3c66/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/pQ2ntpV8)
 - **Shelv Player**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/3c/18/fe3c1834-c0ee-07b3-282d-b32e82901065/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/5y4tN6NB)
 - **OpinYour Test**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/87/c9/3187c9d4-e5cc-3ce0-367c-4dd4bf30dcbb/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/7CjwaFs7)
@@ -117,4 +118,3 @@
 - **Vshage**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/68/f3/7168f3d0-342c-3cf3-4d87-fe8827511055/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/DdPcutgH)
 - **Otanu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/b3/b2/5db3b23e-cfad-eaa6-c959-0503591e4039/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gUtVNMpv)
 - **CharterWise**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/9c/0a/d19c0a34-90d4-c848-0b3e-9c13e6218ec4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/TTgDqpmY)
-- **DTFood- Restaurant Partner App**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/b9/71/2fb97173-47f0-2543-d6b4-d08ef8427a71/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/pET6ahVN)
