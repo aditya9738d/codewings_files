@@ -1,3 +1,4 @@
+- **Kleio: AI Voice Keybaord**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/8c/9b/7f8c9bb6-2e85-dc22-80c3-dbe214c2e8ff/Kleio-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/jGY1fZ7S)
 - **nextzchat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/23/a2/9523a2c5-845b-ce8b-9659-62fba21738be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/EH2R4r55)
 - **Nuvio Media**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/43/30/e84330a1-7b5d-9e0d-6395-e203dc7a6d8f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/u4y7MHK9)
 - **Advance Tactics**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/02/c6/1502c691-91e6-431b-69fd-ca2d726f3c66/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/pQ2ntpV8)
@@ -117,4 +118,3 @@
 - **The Coffee Index**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/cf/99/58cf9974-7dc4-1767-8c81-262832fbe18d/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/1920x1080ia-80.png)](https://testflight.apple.com/join/EVZeKEXB)
 - **TailFin**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/31/3c/b2313cab-70ee-60f0-3fd3-56382d49b894/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/zJAF6tCc)
 - **Vshage**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/68/f3/7168f3d0-342c-3cf3-4d87-fe8827511055/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/DdPcutgH)
-- **Otanu**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/b3/b2/5db3b23e-cfad-eaa6-c959-0503591e4039/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/gUtVNMpv)
