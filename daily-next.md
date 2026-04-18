@@ -1,3 +1,4 @@
+- **Teneo Protocol Beacon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/a8/27/7ca82768-b554-b5c8-d4bd-03bbf663ea20/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/bSUKTYJn)
 - **Readio - Listen to the web**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/57/d6/cd57d6e5-4265-0352-09d4-1329268d6010/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/4ybUwr9r)
 - **SWEATI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/2b/2c/542b2c04-64d4-e23e-0722-c4ef9cff2ce0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/zDGheDda)
 - **우리끼니 - 밥 먹었니? 끼니로 연결되는 우리**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/8f/e9/428fe96f-76c2-fccc-5b27-8207ad440cb9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/RNh7gx9Z)
@@ -117,4 +118,3 @@
 - **Rollin Concierge**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/34/90/b034900c-ef92-b8ad-e9f1-ffdc67366c57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/6jbxY4D3)
 - **Rooted: Bible Memory**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/ec/cc/18eccc66-2fef-2954-5273-71b9c7ca2361/Rooted_v1-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/M8Wy2Y9T)
 - **PuzzlePath**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/a3/ff/e3a3ff43-3c5c-459d-c80f-fd8e155e0dec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/e64qPHQZ)
-- **Poly_Chat**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/b6/25/feb625b1-b4e1-651a-0924-930e29995fa0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/VVxXx65X)
