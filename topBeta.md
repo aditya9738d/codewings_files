@@ -1,3 +1,4 @@
+- **Wave.It**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/8e/5f/428e5fec-d364-40d6-7b7b-5b5415f59797/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HdU7X3gc)
 - **Teneo Protocol Beacon**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/a8/27/7ca82768-b554-b5c8-d4bd-03bbf663ea20/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/bSUKTYJn)
 - **Readio - Listen to the web**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/57/d6/cd57d6e5-4265-0352-09d4-1329268d6010/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/4ybUwr9r)
 - **SWEATI**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/2b/2c/542b2c04-64d4-e23e-0722-c4ef9cff2ce0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/zDGheDda)
