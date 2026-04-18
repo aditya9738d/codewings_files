@@ -1,3 +1,4 @@
+- **Marnix Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/61/d6/1b61d65b-e873-8b7c-c658-31c767801882/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/s4NZG4Hx)
 - **Map2Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/04/89/c7048912-815a-f184-2c0e-7de3b4332000/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/dkAu1Sy1)
 - **BETA STORE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/0e/38/3c0e3866-9aa6-c7a2-13b7-5da439210943/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/KPvt2A9H)
 - **Wave.It**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/8e/5f/428e5fec-d364-40d6-7b7b-5b5415f59797/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HdU7X3gc)
