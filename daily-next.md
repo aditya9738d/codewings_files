@@ -1,3 +1,4 @@
+- **Marnix Remote**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/61/d6/1b61d65b-e873-8b7c-c658-31c767801882/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/s4NZG4Hx)
 - **Map2Go**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/04/89/c7048912-815a-f184-2c0e-7de3b4332000/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/dkAu1Sy1)
 - **BETA STORE**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/0e/38/3c0e3866-9aa6-c7a2-13b7-5da439210943/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/KPvt2A9H)
 - **Wave.It**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/8e/5f/428e5fec-d364-40d6-7b7b-5b5415f59797/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/HdU7X3gc)
@@ -117,4 +118,3 @@
 - **ThinkAlike - Word Association**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/82/15/b3821528-ebc3-5f15-6a1c-6764e3892213/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/YAcT9c9R)
 - **cAIrbo**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/cc/e8/c9cce8e2-f2a3-0d3d-5a63-e03a21163406/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/bV5xqZ4k)
 - **Duchenne: Smile Coach**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/e5/94/ace59442-4c15-15d7-ad98-05b4442b4a6d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/qYSykE4k)
-- **Game 2026**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ff/e1/efffe1f8-c563-8ff1-ac51-5c6e9aaebbb6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/kQycb8ga)
