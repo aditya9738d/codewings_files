@@ -1,3 +1,4 @@
+- **Game Cổ**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/f7/65/6bf765e9-8e31-d82a-97fe-8ee0121592df/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/6REqr8BF)
 - **EVO: Health & Fitness**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/bf/ad/fdbfad48-c2a4-1fd3-de2f-e01c4f77715b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/5zgr4ShN)
 - **Fortalis**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/c1/f2/51c1f2a4-e00d-bce0-ef4b-ffb661937a7a/Icon_Fortalis-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/1920x1080ia-80.png)](https://testflight.apple.com/join/vJR2aqsY)
 - **Sudoku - Grid Master**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/db/f6/7ddbf602-a0db-5ec2-f079-57efa44ea5d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/W9H9eJNQ)
@@ -117,4 +118,3 @@
 - **PerkDeck**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/db/6a/a8db6aa1-d6b3-4974-35f7-68076d1b71b4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/QFTMRDka)
 - **Aight for OpenClaw**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/ca/6a/7cca6ac3-a184-c250-0b85-9109834a04a1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/cutCZt5s)
 - **Highku**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/5f/3f/fa5f3f95-e912-1586-9c1b-bae60e139f96/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/1920x1080ia-80.png)](https://testflight.apple.com/join/Ts7K8yZG)
-- **diggin' music**: [![App Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/8d/e6/ee8de681-047b-01f0-e40d-9b7b3dd70fe6/AppIcon-0-0-85-220-0-5-0-2x.png/1920x1080ib-80.png)](https://testflight.apple.com/join/hfw7FYPt)
